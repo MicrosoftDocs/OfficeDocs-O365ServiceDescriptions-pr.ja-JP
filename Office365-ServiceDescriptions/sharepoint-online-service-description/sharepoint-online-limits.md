@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise プランとスタンドアロン プランの場合の SharePoint Online の制限について説明します。
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036206"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359593"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online の制限
 
@@ -41,7 +41,7 @@ Office 365 Enterprise プランとスタンドアロン プランの場合の Sh
 ||||
 |:-----|:-----|:-----|
 |**機能** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |
-|記憶域<sup>1、2</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 0.5 GB<sup>3</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 0.5 GB<sup>3</sup> <br/> |
+|記憶域<sup>1、2</sup> <br/> |1 組織につき 1 TB と 1 ライセンスあたり 10 GB<sup>3</sup>を購入しました。 <br/> |1 組織につき 1 TB と 1 ライセンスあたり 10 GB<sup>3</sup>を購入しました。 <br/> |
 |ストア内の用語  <br/> |200,000  <br/> |200,000  <br/> |
 |サイト コレクションの記憶域  <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |
 |テナントごとのサイト コレクション数  <br/> |1 組織につき 500,000<sup>5</sup> <br/> |1 組織につき 500,000<sup>5</sup> <br/> |
