@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online の制限は、以下のカテゴリに分類されます。
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036251"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362882"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -127,11 +127,11 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |構成可能な<sup>1</sup> <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |該当なし  <br/> |
-|会議コンテンツの保存:定期的な会議  <br/> |構成可能な<sup>1</sup> <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |該当なし  <br/> |
+|会議コンテンツの保存:1 回のみのミーティング  <br/> |構成可能な<sup>1</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
+|会議コンテンツの保存:定期的な会議  <br/> |構成可能な<sup>1</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
 |会議コンテンツの保存:今すぐミーティング  <br/> |構成可能な<sup>1</sup> <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |該当なし  <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |終了日から 365 日<sup>2</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
-|会議の有効期限:定期的な会議  <br/> |終了日が設定されている場合: 終了日から 365 日<sup>2</sup> <br/> 終了日が設定されていない場合:最後の会議から 6 か月間<sup>3</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
+|会議の有効期限:定期的な会議  <br/> |終了日が設定されている場合: 終了日から 365 日<sup>2</sup> <br/> 終了日なし: 常にアクセス可能な場合は 1 年または<sup>3</sup>を更新 <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
 |会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> | 8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |該当なし  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online スタンドアロン プラン 1** <br/> |**Skype for Business Online スタンドアロン プラン 2** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |15 日  <br/> |
-|会議コンテンツの保存:定期的な会議  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |15 日  <br/> |
+|会議コンテンツの保存:1 回のみのミーティング  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |14 日  <br/> |
+|会議コンテンツの保存:定期的な会議  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |14 日  <br/> |
 |会議コンテンツの保存:今すぐミーティング  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |8 時間  <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |終了日から 365 日<sup>2</sup> <br/> |該当しない  <br/> |14 日  <br/> |
-|会議の有効期限:定期的な会議  <br/> |終了日が設定されている場合: 終了日から 365 日<sup>2</sup> <br/> 終了日が設定されていない場合:最後の会議から 6 か月間<sup>3</sup> <br/> |該当しない  <br/> |14 日  <br/> |
+|会議の有効期限:定期的な会議  <br/> |終了日が設定されている場合: 終了日から 365 日<sup>2</sup> <br/> 終了日なし: 常にアクセス可能な場合は 1 年または<sup>3</sup>を更新 <br/> |該当しない  <br/> |14 日  <br/> |
 |会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |該当なし  <br/> |8 時間  <br/> |
    
 > [!NOTE]

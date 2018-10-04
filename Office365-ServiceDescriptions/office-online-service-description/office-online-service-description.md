@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office オンライン (以前の Office Web Apps) web ブラウザーで Word、Excel、OneNote、および PowerPoint のドキュメントを開きます。Office オンライン簡単に動作し、任意の場所から Office ファイルを共有するほとんどすべてのデバイスから、インターネットに接続しています。Word や Excel、OneNote、PowerPoint と Microsoft Office 365 のお客様は、表示、作成、および外出先でファイルを編集できます。
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036404"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362872"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -123,7 +123,7 @@ Office オンライン (以前の Office Web Apps) web ブラウザーで Word�
 |[高度な時間フィルター処理 (タイムライン スライサー)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |いいえ  <br/> |はい  <br/> |
 |[位置揃え](excel-online.md#alignment) <br/> |はい  <br/> |はい  <br/> |
 |[条件付き書式の適用](excel-online.md#apply-conditional-formatting) <br/> |いいえ  <br/> |はい  <br/> |
-|[セルに対するデータの入力規則の適用](excel-online.md#apply-data-validation-to-cells) <br/> |いいえ  <br/> |はい  <br/> |
+|[セルに対するデータの入力規則の適用](excel-online.md#apply-data-validation-to-cells) <br/> |はい  <br/> |はい  <br/> |
 |[おすすめ書式の適用](excel-online.md#apply-smartrecommended-formatting) <br/> |いいえ  <br/> |はい  <br/> |
 |[音声ノートの記録](onenote-online.md#audio-notes-recording) <br/> |いいえ  <br/> |はい  <br/> |
 |[オートコンプリート](excel-online.md#autocomplete) <br/> |はい  <br/> |はい  <br/> |

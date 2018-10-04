@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 のドイツは、ヨーロッパで既に利用可能な Office 365 サービスの差別化されたオプションです。ドイツ、欧州連合 (EU)、およびサービスを提供する、業界をリードする生産性のデジタル作業は、ドイツ語のデータから、ヨーロッパ自由貿易の関連付け (EFTA) で最も規制対象のお客様のニーズの中央に配置、常駐サービスのデータに対応するためにドイツと厳密なデータ アクセスとコントロールのトラスティの一意なデータ モデルを使用してメジャーは、ドイツ法の下で管理されています。
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036345"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362962"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 のドイツは、ヨーロッパで既に利用可能な Office 365 
   
 データ受託者として、Deutsche Telekom の子会社である、ドイツの独立企業 T-Systems International が、顧客データへの物理的および論理的アクセスを制御します。ドイツ法に準拠した、データ受託者による承認や監督がなければ、顧客データにアクセスすることはできません。 
   
-Office 365 Germany 固有の性質のため、いくつかの機能がまだ有効になっていません。グローバル サービスにより、段階的にサービスの完全な機能をご利用いただけるようになります。機能の概要とサポートの利用方法については、[「Office 365 Germany の詳細](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)」をご覧ください。
+お客様のニーズには、この進化に基づき、ドイツについてのマイクロソフトのクラウド戦略に焦点を当てます、グローバル クラウドで一貫性のある、ドイツでのクラウドの新しい領域の配信を提供します。このフォーカスを持つことは不要になった新規のお客様を受け入れるか、現在利用可能なマイクロソフトのクラウドのドイツからのすべての新しいサービスを展開します。既存のお客様は、現在クラウド サービス、今日可能なために必要なセキュリティ更新プログラムを維持します。 を使用する続行できます。[ドイツの Office 365 について学習](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)します。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
@@ -85,7 +85,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |Microsoft StaffHub<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |マイクロソフトの影響を与える<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Teams  <br/> |なし<sup>9</sup> <br/> |いいえ  <br/> |なし<sup>9</sup> <br/> |いいえ  <br/> |なし<sup>9</sup> <br/> |なし<sup>9</sup> <br/> |なし<sup>9</sup> <br/> |いいえ  <br/> |
-|Office Delve<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Office Delve<sup></sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |**[ユーザー アカウント管理](user-account-management.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
@@ -265,7 +265,8 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Outlook for Android<sup>11</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**企業価値** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**企業価値** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |
+  **Office 365 ProPlus** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |はい  <br/> |<sup>8</sup>を [はい] します。 <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
 |多言語ユーザー インターフェイス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 場所は、ブックが保存されている web サイト上で直接ブックで作業することができます、web ブラウザーに、Microsoft Excel の経験をオンライン Excel (Excel Web App では以前) に拡張します。すべての Office 365 のお客様では、表示でき、軽く Office オンラインを使用して Office ファイルを編集することができます。
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036258"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362902"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ Excel Online では、条件付き書式は表示できますが適用できま�
 ## <a name="apply-data-validation-to-cells"></a>セルに対するデータの入力規則の適用
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Excel Online では使用できません。データの入力規則などの高度な機能は、Excel デスクトップ アプリでのみ利用できます。ただし、Excel Online では、データの入力規則を表示して操作できます。[Excel 2013 でのセルに対するデータの入力規則の適用](https://go.microsoft.com/fwlink/p/?LinkId=282328)の詳細をご確認ください。
+この機能は、Excel のオンラインで利用可能です。その他の高度な機能は、Excel デスクトップ アプリケーションで使用できるのみです。
   
 ## <a name="apply-smartrecommended-formatting"></a>おすすめ書式の適用
 <a name="bkmk_Applysmartformatting"> </a>

@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ビジネス機能の特定の Skype を取得するのには購入する必要がありますどのようなライセンスを確認しますか。Skype のビジネス ・ ライセンスの概要を参照してください。
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036265"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362932"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
+
+> [!NOTE]
+> マイクロソフトのチームが、ここでプライマリ クライアント メッセージング、会議、および Office 365 で呼び出すことです。開始 2018 年 10 月 1日接続クライアント数が 500 以下の新しい Office 365 お客様マイクロソフトのチームに onboarded、オンライン ビジネスの Skype へのアクセスを必要はありません。テナントは既に使用している Skype のオンライン ビジネスは実行を続行するのにはマイクロソフトのチームへの移行を完了するまで (新しいユーザーのプロビジョニング) を含むためです。
+
+> [!NOTE]
+> Skype ビジネス オンライン計画 1 の 10 年 10 月の時点での販売から破棄します。これは、インスタント メッセージング、プレゼンス、およびピア ツー ピア音声およびビデオのビジネス オンライン計画 1、Skype を取得できなくすることを意味します。これらの機能が引き続きサポートされているチームを含むすべての Office 365 は、Office 365 の f1 キーを含みます。計画は、現在の用語の末尾に期限が切れると、引き続きこれらの機能にアクセスするためにする必要があります別のプランに切り替えます。現在割り当てられているビジネス オンライン プラン 1 の Skype を持っているユーザーの Office 365 の F1 の計画を評価することをお勧めします。 
 
  **ビジネス機能の特定の Skype を取得するのには購入する必要がありますどのようなライセンスを確認しますか。[Skype](https://go.microsoft.com/fwlink/?LinkID=799524)を参照してください。**
   
