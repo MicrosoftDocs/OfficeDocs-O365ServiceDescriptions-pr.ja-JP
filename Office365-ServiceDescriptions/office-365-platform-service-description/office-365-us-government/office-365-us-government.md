@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362912"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435835"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -213,7 +213,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Microsoft StaffHub  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
 |Microsoft Stream  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |Microsoft Sway  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
-|Microsoft Teams  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
+|Microsoft Teams  <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |
 |Office Delve  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |はい  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ビデオ  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |いいえ  <br/> |
@@ -317,6 +317,7 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>11</sup> 現時点では Office 365 US Government 製品では使用できませんが、まもなく公開されます。 ><br/><sup>12</sup> 含まれていませんが、GCC の個別のアドオンとして購入できます。 
 <br/><sup>13</sup> Office 365 US Government 製品ではサポートされていません。 
 <br/><sup>14</sup>で利用可能な[https://securescore.office.com](https://securescore.office.com)。管理者アクセス許可が必要です。詳細については、 [Office 365 のセキュリティで保護されたスコアを導入すること](https://go.microsoft.com/fwlink/?linkid=836894)を参照してください。<br/><sup>15</sup> DoD の環境が準備中でまだ利用できません。 
+<br><sup>16</sup>ない GCC 高または DoD。
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
