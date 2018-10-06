@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 のドイツは、ヨーロッパで既に利用可能な Office 365 サービスの差別化されたオプションです。ドイツ、欧州連合 (EU)、およびサービスを提供する、業界をリードする生産性のデジタル作業は、ドイツ語のデータから、ヨーロッパ自由貿易の関連付け (EFTA) で最も規制対象のお客様のニーズの中央に配置、常駐サービスのデータに対応するためにドイツと厳密なデータ アクセスとコントロールのトラスティの一意なデータ モデルを使用してメジャーは、ドイツ法の下で管理されています。
-ms.openlocfilehash: 1b3de84245762fafed85ed1e37fc03207e51766d
-ms.sourcegitcommit: 88bc607a51846db46509c4453c3438406f3f2f54
+ms.openlocfilehash: 1e51cfe53876e848519f154384611fef06847607
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "25407690"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435845"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -74,7 +74,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |**機能** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |**[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> |||||||||
 |Office 365 管理センター または Windows PowerShell を使用して Office 365 管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection を使用してコンテンツを保護する  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>9</sup> <br/> |なし<sup>9</sup> <br/> |なし<sup>2</sup> <br/> |
+|Azure Information Protection を使用してコンテンツを保護する  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |いいえ <br/> |いいえ <br/> |なし<sup>2</sup> <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Flow  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -161,7 +161,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Office 365 の詳細な電子情報開示  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |セキュリティで保護されたスコア <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[Compliance[ServiceDesc]](compliance-servicedesc.md)**<sup>10</sup> <br/> |||||||||
+|**[コンプライアンス [ServiceDesc]](compliance-servicedesc.md)**<sup>9</sup>  <br/> |||||||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -180,7 +180,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |**[製品使用権](product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 のドイツは、製造元によってサポートされていない任意のオペレーティング システム用のサポートをしていません。> <sup>2</sup> azure 情報の保護が含まれていないですが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護機能の一部が Office 365 用リソース、Office 365 のドイツ ビジネスの基礎、Office 365 のドイツのビジネス プレミアム、Office 365 のドイツ企業の E1、Office 365 のドイツ教育の A1 に含まれているではないへのサブスクリプションを必要とするか、Office 365 のドイツ企業の K1 です。> <sup>3</sup>ローカルの Active Directory とのディレクトリ同期を使用する場合、必要がありますを削除するアカウントまたはパスワードの変更または、Office 365 ポータルではなく、windows Azure Active Directory のモジュールを使用してのローカルの Active Directory を使用して、PowerShell。> ユーザーは、セルフ サービスのパスワード管理ポリシーを設定する方法については、 <sup>4</sup>は、 [Azure AD でのパスワードの管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)を参照してください。> 用語の割引で購入した<sup>5</sup>削減の座席が料を事前にされる可能性があります。これは、月単位で支払われるサブスクリプションには適用されません。> <sup>6</sup> office 365 のドイツ教育 A1 計画は Office 365 管理センターからライセンスの座席の変更をサポートしていません。> <sup>7</sup> Office 365 用リソース Office 2016 など Office 2013 のクライアントのソフトウェア アプリケーションを使用する権利は、いくつかの Office 365 のドイツの計画に含まれています。クライアント ・ ソフトウェア ・ アプリケーションでは、ドイツでのデータ ・ センターではなく、エンド ・ ユーザーのデバイスを実行します。マイクロソフトとの契約のためは、クライアント ソフトウェアのアプリケーションと、[ドイツ語のオンライン サービス](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)ではありません。クライアント ・ ソフトウェア ・ アプリケーションも可能性がありますを有効にするドイツ語のオンライン サービスではないオンライン サービスにアクセスするエンドユーザーです。常駐サービス契約のドイツ語のデータおよびドイツ語のデータのトラスティのアクセス制御は、ドイツ語のオンライン サービスにのみ適用されます。> Office 365 のドイツで使用するため<sup>8</sup>[現代の認証](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)を有効にする必要があります。> <sup>9</sup>将来の可用性は、Office 365 のドイツの計画。> Office 365 のクラウドのセキュリティとコンプライアンスの基準に準拠している office 365 のドイツの<sup>10</sup>が組み込まれています。Office 365 には、個別に評価されない認定監査人が SOC、ISO、および監査の一環としての認定資格の包括的なセットが用意されています。規格は、ISO 27001/27002、27017、27018 および SOC 1 &amp; 2 の証明です。トラスティの追加のデータ コントロールの Office 365 のドイツでは、年間の ISO と SOC の監査の一部として独立した assessors によって評価されます。 
+> <sup>1</sup> office 365 のドイツは、製造元によってサポートされていない任意のオペレーティング システム用のサポートをしていません。> <sup>2</sup> azure 情報の保護が含まれていないですが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護機能の一部が Office 365 用リソース、Office 365 のドイツ ビジネスの基礎、Office 365 のドイツのビジネス プレミアム、Office 365 のドイツ企業の E1、Office 365 のドイツ教育の A1 に含まれているではないへのサブスクリプションを必要とするか、Office 365 のドイツ企業の K1 です。> <sup>3</sup>ローカルの Active Directory とのディレクトリ同期を使用する場合、必要がありますを削除するアカウントまたはパスワードの変更または、Office 365 ポータルではなく、windows Azure Active Directory のモジュールを使用してのローカルの Active Directory を使用して、PowerShell。> ユーザーは、セルフ サービスのパスワード管理ポリシーを設定する方法については、 <sup>4</sup>は、 [Azure AD でのパスワードの管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)を参照してください。> 用語の割引で購入した<sup>5</sup>削減の座席が料を事前にされる可能性があります。これは、月単位で支払われるサブスクリプションには適用されません。> <sup>6</sup> office 365 のドイツ教育 A1 計画は Office 365 管理センターからライセンスの座席の変更をサポートしていません。> <sup>7</sup> Office 365 用リソース Office 2016 など Office 2013 のクライアントのソフトウェア アプリケーションを使用する権利は、いくつかの Office 365 のドイツの計画に含まれています。クライアント ・ ソフトウェア ・ アプリケーションでは、ドイツでのデータ ・ センターではなく、エンド ・ ユーザーのデバイスを実行します。マイクロソフトとの契約のためは、クライアント ソフトウェアのアプリケーションと、[ドイツ語のオンライン サービス](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)ではありません。クライアント ・ ソフトウェア ・ アプリケーションも可能性がありますを有効にするドイツ語のオンライン サービスではないオンライン サービスにアクセスするエンドユーザーです。常駐サービス契約のドイツ語のデータおよびドイツ語のデータのトラスティのアクセス制御は、ドイツ語のオンライン サービスにのみ適用されます。> Office 365 のドイツで使用するため<sup>8</sup>[現代の認証](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)を有効にする必要があります。> Office 365 のクラウドのセキュリティとコンプライアンスの基準に準拠している office 365 のドイツの<sup>9</sup>が組み込まれています。Office 365 には、個別に評価されない認定監査人が SOC、ISO、および監査の一環としての認定資格の包括的なセットが用意されています。規格は、ISO 27001/27002、27017、27018 および SOC 1 &amp; 2 の証明です。トラスティの追加のデータ コントロールの Office 365 のドイツでは、年間の ISO と SOC の監査の一部として独立した assessors によって評価されます。 
   
 ## <a name="office-application-features"></a>Office アプリケーション機能
 <a name="BM1_Platform"> </a>

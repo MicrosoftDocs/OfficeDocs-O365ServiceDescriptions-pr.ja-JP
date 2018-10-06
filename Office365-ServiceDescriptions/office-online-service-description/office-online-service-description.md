@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office オンライン (以前の Office Web Apps) web ブラウザーで Word、Excel、OneNote、および PowerPoint のドキュメントを開きます。Office オンライン簡単に動作し、任意の場所から Office ファイルを共有するほとんどすべてのデバイスから、インターネットに接続しています。Word や Excel、OneNote、PowerPoint と Microsoft Office 365 のお客様は、表示、作成、および外出先でファイルを編集できます。
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362872"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435825"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -119,24 +119,22 @@ Office オンライン (以前の Office Web Apps) web ブラウザーで Word�
 ||||
 |:-----|:-----|:-----|
 |**アプリケーション機能** <br/> |**Excel Online** <br/> |**Excel デスクトップ アプリ** <br/> |
+|[アクセシビリティ チェック](excel-online.md#add-hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[ハイパーリンクの追加](excel-online.md#add-hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[高度な時間フィルター処理 (タイムライン スライサー)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |いいえ  <br/> |はい  <br/> |
 |[位置揃え](excel-online.md#alignment) <br/> |はい  <br/> |はい  <br/> |
-|[条件付き書式の適用](excel-online.md#apply-conditional-formatting) <br/> |いいえ  <br/> |はい  <br/> |
-|[セルに対するデータの入力規則の適用](excel-online.md#apply-data-validation-to-cells) <br/> |はい  <br/> |はい  <br/> |
+|[条件付き書式の適用](excel-online.md#apply-conditional-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[おすすめ書式の適用](excel-online.md#apply-smartrecommended-formatting) <br/> |いいえ  <br/> |はい  <br/> |
 |[音声ノートの記録](onenote-online.md#audio-notes-recording) <br/> |いいえ  <br/> |はい  <br/> |
 |[オートコンプリート](excel-online.md#autocomplete) <br/> |はい  <br/> |はい  <br/> |
 |[(オート sum)](excel-online.md#autosum) <br/> |はい  <br/> |はい  <br/> |
 |[計算](excel-online.md#calculations) <br/> |はい  <br/> |はい  <br/> |
-|[ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |はい<sup>1、2</sup> <br/> |はい  <br/> |
-|[新しいデータに合わせたグラフ アニメーション](excel-online.md#chart-animations-adapt-to-new-data) <br/> |いいえ  <br/> |はい  <br/> |
 |[コメントの作成](excel-online.md#comment-creation) <br/> |はい  <br/> |はい  <br/> |
 |[コピーして貼り付け](excel-online.md#copy-and-paste) <br/> |はい  <br/> |はい  <br/> |
-|[外部データ接続の作成](excel-online.md#create-external-data-connections) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |
+|[外部データ接続<sup>2</sup>を作成します。](excel-online.md#create-external-data-connections) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |
 |[テーブルの作成](excel-online.md#create-tables) <br/> |はい  <br/> |はい  <br/> |
 |[高度な分析ビュー (Power View、Power Pivot、スライサー) の作成](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |いいえ  <br/> |はい  <br/> |
-|[データ検証](excel-online.md#data-validation) <br/> |<sup>4</sup>を [はい] します。 <br/> |はい  <br/> |
+|[データ検証](excel-online.md#data-validation) <br/> |はい <br/> |はい  <br/> |
 |[セルのドラッグ アンド ドロップ](excel-online.md#drag-and-drop-cells) <br/> |はい  <br/> |はい  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |はい  <br/> |はい  <br/> |
 |[Web ページやブログ ページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |はい  <br/> |いいえ  <br/> |
@@ -146,17 +144,20 @@ Office オンライン (以前の Office Web Apps) web ブラウザーで Word�
 |[フォントおよびセルの書式設定](excel-online.md#font-and-cell-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[数式バー](excel-online.md#formula-bar) <br/> |はい  <br/> |はい  <br/> |
 |[高度な数式ツール](excel-online.md#formula-tools--advanced) <br/> |いいえ  <br/> |はい  <br/> |
-|[ウィンドウ枠の固定](excel-online.md#freeze-panes) <br/> |なし<sup>6</sup> <br/> |はい  <br/> |
+|[ウィンドウ枠の固定](excel-online.md#freeze-panes) <br/> |はい <br/> |はい  <br/> |
 |[忠実な閲覧表示](excel-online.md#full-fidelity-reading-view) <br/> |はい  <br/> |はい  <br/> |
 |[関数](excel-online.md#functions) <br/> |はい  <br/> |はい  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |はい  <br/> |はい  <br/> |
 |[行、列、シートの表示/非表示](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |はい  <br/> |はい  <br/> |
+|[図形と図を挿入します。](excel-online.md#insert-charts) <br/> |はい  <br/> |はい  <br/> |
 |[グラフの挿入](excel-online.md#insert-charts) <br/> |はい  <br/> |はい  <br/> |
 |[行と列の挿入/削除](excel-online.md#insertdelete-rows-and-columns) <br/> |はい  <br/> |はい  <br/> |
 |[セルの結合](excel-online.md#merge-cells) <br/> |はい  <br/> |はい  <br/> |
 |[数値の書式](excel-online.md#number-formatting) <br/> |はい  <br/> |はい  <br/> |
-|[Office アドイン](excel-online.md#office-add-ins) <br/> |<sup>7</sup>を [はい] します。 <br/> |はい  <br/> |
+|[Office アドイン](excel-online.md#office-add-ins) <br/> |はい <br/> |はい  <br/> |
 |[オフラインでの表示と編集](excel-online.md#offline-viewing-and-authoring) <br/> |いいえ  <br/> |はい  <br/> |
+|[ピボットグラフ](excel-online.md#post-to-social-network-and-present-online) <br/> |<sup>1</sup>を [はい] します。  <br/> |はい  <br/> |
+|[ピボットテーブル](excel-online.md#post-to-social-network-and-present-online) <br/> |はい  <br/> |はい  <br/> |
 |[ソーシャル ネットワークへの投稿とオンライン共有](excel-online.md#post-to-social-network-and-present-online) <br/> |いいえ  <br/> |はい  <br/> |
 |[Power Pivot の表示](excel-online.md#power-pivot-viewing) <br/> |はい  <br/> |はい  <br/> |
 |[Power View の表示](excel-online.md#power-view-viewing) <br/> |はい  <br/> |はい  <br/> |
@@ -176,14 +177,15 @@ Office オンライン (以前の Office Web Apps) web ブラウザーで Word�
 |[スプレッドシートの監査とコンプライアンス](excel-online.md#spreadsheet-audit-and-compliance) <br/> |いいえ  <br/> |はい  <br/> |
 |[ステータス バーの集計](excel-online.md#status-bar-aggregates) <br/> |はい  <br/> |はい  <br/> |
 |[アンケート調査](excel-online.md#surveys) <br/> |はい  <br/> |いいえ  <br/> |
-|[教えて](excel-online.md#tell-me) <br/> |はい  <br/> |いいえ  <br/> |
+|[教えて](excel-online.md#tell-me) <br/> |はい  <br/> |はい  <br/> |
 |[元に戻す/やり直し](excel-online.md#undo-and-redo) <br/> |はい  <br/> |はい  <br/> |
-|[VBA およびマクロの作成](excel-online.md#vba-and-macro-scripting) <br/> |はい  <br/> |はい  <br/> |
+|[VBA およびマクロの作成](excel-online.md#vba-and-macro-scripting) <br/> |<sup>3</sup>を [はい] します。  <br/> |はい  <br/> |
 |[3D グラフの表示](excel-online.md#view-3d-charts) <br/> |はい  <br/> |はい  <br/> |
 |[What-If 分析ツール](excel-online.md#what-if-analysis-tools) <br/> |いいえ  <br/> |はい  <br/> |
 
-> <sup>1</sup>ピボット グラフまたはピボット テーブルを作成できませんが、ビューアーに表示できます。 
- <br/><sup>2</sup>ほとんどの場合はグラフでは、テーブル、ピボット グラフ レポート、およびピボット テーブル レポートが表示されるデスクトップのバージョンの場合と同様します。例外には、グラフ、グラフ、外部参照に依存してブックをブラウザーでサポートされていないデータ ソースを使用するグラフのグループの一部であるグラフが含まれます。 <br/><sup>3</sup>環境の構成方法によってデータ接続の種類によってはサポート ブックが Excel をオンラインで表示されます。詳細については、[ブラウザー ウィンドウ内のブックでデータを更新](https://go.microsoft.com/fwlink/?linkid=847468)を参照してください。 <br/><sup>4</sup>は、オンラインの Excel でデータの入力規則を使用しているブックを編集することができますが、Excel のオンラインでデータの入力規則を設定できません。 
+> <sup>1</sup>は、ピボット グラフを作成できません、のみを表示します。
+ <br/><sup>2</sup>環境の構成方法によってデータ接続の種類によってはサポート ブックが Excel をオンラインで表示されます。詳細については、ブラウザー ウィンドウ内のブックでデータを更新を参照してください。 <br/><sup>3</sup>オンラインの Excel で vba マクロを作成することはできませんを開き、削除することがなく、VBA が有効なスプレッドシートを編集できます (または破損)、ファイルに含まれる VBA です。
+ <br/><sup>4</sup>は、オンラインの Excel でデータの入力規則を使用しているブックを編集することができますが、Excel のオンラインでデータの入力規則を設定できません。 
  <br/><sup>5</sup>で Excel、最後の既知の参照値が表示されます、ブラウザー ウィンドウにただし、Excel のデスクトップを使用することに更新しなければなりません。 
  <br/><sup>6</sup>を表示することができますは、Excel のデスクトップ アプリケーションを使用して作成されたウィンドウ枠を固定しますが、Excel のオンラインのウィンドウ枠を固定を作成することはできません。 
  <br/><sup>7</sup>すべてではなく一部、Office アドインを利用できます。 
