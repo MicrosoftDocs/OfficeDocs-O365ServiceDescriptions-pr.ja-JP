@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
+ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435835"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "25696142"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -183,7 +183,7 @@ Office 365 US Government プランのシステム要件については、[office
 | 音声の電話システムでは、オーディオ会議  <br/> |いいえ <sup>2、3</sup> <br/> |いいえ <sup>2、3</sup> <br/> |はい <sup>3、5</sup> <br/> |いいえ  <br/> |
 |Power BI Pro  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |はい  <br/> |なし<sup>2</sup> <br/> |
 |Project Online  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |
-|Yammer エンタープライズ  <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |
+|Yammer Enterprise  <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype のビジネスの基本はすべての顧客です。ビジネス デスクトップ クライアントの Skype は、Skype を含むオンライン ビジネスの計画を Office 365 のプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。Office 365 ProPlus、G3、g5 の数値には、フルの Skype のアプリケーションには、高度な電話サポート、アーカイブ、およびコンプライアンス機能などの追加機能が含まれていますが含まれます。Skype のオンライン ビジネスのライセンスは、ユーザーごとに割り当てる必要があります。<br/><sup>2</sup>されませんが、別のアドオンとして購入することができます。 
 <br/> <sup>3</sup> 現時点では GCC High または DoD プランでは使用できませんが、まもなく公開されます。 
@@ -245,18 +245,18 @@ Office 365 US Government プランのシステム要件については、[office
 |Office 365 管理センター ダッシュボードで利用可能な個々のアラートの状態  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
 |[ **サービスの正常性**] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
-|アクティブおよび非アクティブ メールボックス  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|新規メールボックスおよび削除済みメールボックス  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|アクティブなメールボックスと非アクティブなメールボックス  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|新規および削除済みメールボックス  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |新規および削除済みグループ  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |メールボックスの使用状況  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|メールボックスの接続の種類  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|送信メールと受信メール  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|メールボックス接続の種類  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|送受信メール  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |上位送信者および受信者  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |スパム検出  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|マルウェア検出  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|メールの上位マルウェア  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|メールのルール一致  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|メールの上位ルール一致  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|マルウェアの検出  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|メールの上位のマルウェア  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|メールに一致するルール  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|メールに一致する上位ルール  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |メールの上位 DLP ポリシー一致  <br/> |いいえ  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |メールの重大度別 DLP ポリシー一致  <br/> |いいえ  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |メールの DLP ポリシーの一致、上書き、および誤検知の数  <br/> |いいえ  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
@@ -266,8 +266,8 @@ Office 365 US Government プランのシステム要件については、[office
 |ビデオ、アプリケーション共有、およびファイル転送セッション  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |IM と電話/ビデオ会議  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |ダウンロード可能なメールの保護レポート  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|使用されるブラウザー  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
-|使用されるオペレーティング システム  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|使用されているブラウザー  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|使用されているオペレーティング システム  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |**[サービス更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -286,7 +286,7 @@ Office 365 US Government プランのシステム要件については、[office
 |高度なデータ ガバナンス  <br/> |ない<sup>12、15</sup> <br/> |ない<sup>12、15</sup> <br/> |<sup>15</sup>を [はい] します。 <br/> |ない<sup>12、15</sup> <br/> |
 |Cloud App Security  <br/> |いいえ<sup>11、12</sup> <br/> |いいえ<sup>11、12</sup> <br/> |<sup>11</sup>を [はい] します。 <br/> |いいえ<sup>11、12</sup> <br/> |
 |Advanced Threat Protection  <br/> |なし<sup>12</sup> <br/> |なし<sup>12</sup> <br/> |はい  <br/> |なし<sup>12</sup> <br/> |
-|顧客ロックボックス  <br/> |なし<sup>9、12、15</sup> <br/> |なし<sup>9、12、15</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |なし<sup>9、12、15</sup> <br/> |
+|Customer Lockbox  <br/> |なし<sup>9、12、15</sup> <br/> |なし<sup>9、12、15</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |なし<sup>9、12、15</sup> <br/> |
 |Office 365 の詳細な電子情報開示  <br/> |ない<sup>12、15</sup> <br/> |ない<sup>12、15</sup> <br/> |はい  <br/> |なし<sup>9, 15</sup> <br/> |
 |セキュリティ スコア<sup>14</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
 |Office のメッセージの暗号化  <br/> |いいえ  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |いいえ  <br/> |
@@ -343,7 +343,7 @@ Office 365 US Government プランのシステム要件については、[office
 |[Android 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|Outlook を iOS および Android<sup>5</sup>  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
+|IOS および Android で、<sup>5、4 つ</sup>の outlook  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
 |**企業価値** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
