@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036363"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719071"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High および DoD
 
@@ -76,7 +76,7 @@ GCC High および DoD 環境内の Office 365 サブスクリプションには
     
 4. 特定のユーザー
     
-GCC High または DoD 環境で SharePoint Online および OneDrive for Business を使用する顧客は、ドキュメントを非公開 (第 1 のオプション) にする、組織内の誰とでも共有する (第 2 のオプション)、ドキュメントのリンクを知る誰とでも共有する (第 3 のオプション) か、GCC High および DoD 環境内の特定のユーザーと共有する (第 4 のオプション) ことができます。当然、これらのオプションはテナント レベルのアクセス制御に基づいて制約を受ける可能性があります。
+GCC 高または DoD の環境でのビジネスがプライベートにしておくドキュメントを SharePoint Online と OneDrive を使用しているユーザー (最初にオプションで)、組織内のユーザーと共有 (2 番目のオプション)、ドキュメントへのリンクを持つ任意のユーザーと共有する (3 番目のオプション) とGCC 高および DoD の環境内のみで特定の人と共有 (オプション 4)。もちろん、これらのオプションを制限できますテナント レベルのアクセス コントロールも同様にします。
   
 GCC 高テナントは、GCC の高い他のテナントとのみ共有できます。例えば：
   
