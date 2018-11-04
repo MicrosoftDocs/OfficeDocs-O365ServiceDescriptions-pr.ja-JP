@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: 365 ビジネスのマイクロソフトは、Office 365 のクラス最高の生産性とお客様のビジネスを保護するために高度なセキュリティおよびデバイス管理機能を統合する統合ソリューションです。.このサービスの説明では、プランのオプションとその機能について説明します。Office 365 の詳細については、Office 365 サービスの説明を参照してください。
-ms.openlocfilehash: 69dcfdf12f3398b5ff8be8f5b8d3a81701080a42
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
+ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362892"
+ms.lasthandoff: 10/31/2018
+ms.locfileid: "25857315"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -51,7 +51,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Microsoft Planner  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft PowerApps  <br/> |あり  <br/> |はい  <br/> |
 |Microsoft StaffHub  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Stream  <br/> |はい<sup>19</sup>  <br/> |はい<sup>19</sup>  <br/> |
+|Microsoft Stream  <br/> |<sup>16</sup>を [はい] します。  <br/> |<sup>16</sup>を [はい] します。  <br/> |
 |Microsoft Sway  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Teams<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |
 |Office Delve  <br/> |はい  <br/> |はい  <br/> |
@@ -85,16 +85,16 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |インプレース保持と訴訟ホールド  <br/> |いいえ  <br/> |はい  <br/> |
 |インプレース電子情報開示 (eDiscovery)  <br/> |はい  <br/> |はい  <br/> |
 |トランスポート ルール  <br/> |はい  <br/> |はい  <br/> |
-|データ損失防止  <br/> |いいえ  <br/> |<sup>12</sup>を [はい] します。 <br/> |
+|データ損失防止  <br/> |いいえ  <br/> |はい <br/> |
 |[プライバシー、セキュリティ、および透過性](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |組み込みのスパム対策保護  <br/> |○  <br/> |○  <br/> |
 |組み込みのマルウェア対策保護  <br/> |○  <br/> |はい  <br/> |
-|Advanced Threat Protection  <br/> |いいえ  <br/> |<sup>13</sup>を [はい] します。 <br/> |
+|Advanced Threat Protection  <br/> |いいえ  <br/> |はい <br/> |
 |Advanced Security Management  <br/> |いいえ  <br/> |いいえ  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |
-|Office 365 の顧客キー<sup>14</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
-|Office 365 Advanced eDiscovery<sup>15</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
-|セキュリティ スコア<sup>16</sup> <br/> |はい  <br/> |はい  <br/> |
+|Office 365<sup>12</sup>の顧客のキー <br/> |いいえ  <br/> |いいえ  <br/> |
+|Office 365 の高度な電子的証拠開示<sup>13</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
+|セキュリティ スコア<sup>14</sup> <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[準拠[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |
@@ -133,15 +133,15 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |**デバイスとアプリケーションの管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|モバイル デバイス管理 (MDM)<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|モバイル デバイス管理 (MDM)<sup>15</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリと LOB アプリのモバイル アプリケーション管理 (MAM)<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows の更新管理、Defender、ファイアウォール ポリシー<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Office アプリケーションと LOB アプリケーションの<sup>15</sup>のモバイル アプリケーション管理 (MAM) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Windows は、Defender では、管理、ファイアウォール ポリシーの<sup>15</sup>を更新します。 <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |データ保護 - 選択的ワイプ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |ポリシーを対象としたセキュリティ グループ (SG)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |登録済みの Windows 10 デバイスで Office アプリをインストールする  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Windows Defender の構成  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|デバイス プロファイルとセキュリティの構成を展開する<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|デバイスのプロファイルを展開し、セキュリティの構成<sup>15</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
    
@@ -158,15 +158,14 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |**Windows 10 のセキュリティ機能** <br/> |**Microsoft 365 Business** <br/> |
 |Windows Defender ウイルス対策を使用して、PC をウイルスやその他の脅威から保護する  <br/> |はい  <br/> |
 |Microsoft Edge で Web ベースの脅威から PC を保護する  <br/> |はい  <br/> |
-|デバイスに対する攻撃面を縮小するルールを使用する<sup>18</sup> <br/> |はい  <br/> |
-|フォルダーをランサムウェアなどの脅威から保護する<sup>18</sup> <br/> |はい  <br/> |
-|Bitlocker を使用した不正アクセスから PC のファイルとフォルダーを保護する<sup>18</sup> <br/> |はい  <br/> |
+|デバイスに対する攻撃を回避するルールを使用する <br/> |はい  <br/> |
+|ランサムウェアなどの脅威からフォルダーを保護する <br/> |はい  <br/> |
+|Bitlocker を許可されていないアクセスから Pc のファイルとフォルダーを保護するため <br/> |はい  <br/> |
    
 > <sup>1</sup> Exchange Online プラン 1 が含まれます。
 <br/><sup>2</sup> Basic クライアント制限付きの Skype for Business Online プラン 2 が含まれます。
 <br/><sup>3</sup> Project Online は含まれていませんが、個別のアドオン サービスとして購入するか、Office Education プランに無料で追加できます。 
-<br/><sup>4</sup> Azure Information Protection (AIP) は、サポートされている Information Rights Management (IRM) 機能を有効にします。AIP プラン 1 は、Microsoft 365 Business に含まれています。Microsoft 365 Business の一部の AIP 機能に対する Office クライアント サポートは、2018 年の夏に有効になります。<br/><sup>5</sup> Microsoft Teams は、Microsoft 365 Business、Office 365 Business Essentials、Office 365 Business Premium、Office 365 Enterprise (E1、E3、E5、F1) で利用できます。現時点で、Office 365 Education プランではまだ利用できません。<br/><sup>6</sup> Azure Information Protection (AIP) は、サポートされている Information Rights Management (IRM) 機能を有効にします。AIP プラン 1 は、Microsoft 365 Business に含まれています。Microsoft 365 Business の一部の AIP 機能に対する Office クライアント サポートは、2018 年の夏に有効になります。<br/><sup>7</sup>ディレクトリ同期を有効にするための azure AD 接続ツールは Microsoft 365 のビジネス コンポーネントは、Office 365 ビジネス プレミアムでサポートされています。ただし、Windows 管理コンポーネントが有効な場合 Microsoft 365 のビジネスに、Azure の AD 結合が必要です。オンプレミスの Active Directory 環境があり、Azure AD に、ドメインに参加しているデバイスを結合する場合は、[ハイブリッド Azure AD を構成するデバイスを結合](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)することによってこれを実現できます。<br/><sup>8</sup> ローカル Active Directory でディレクトリ同期を使用する場合、アカウントを削除するか、パスワードを変更する必要があります。 
-<br/><sup>9</sup>クラウド ユーザーのみです。[ユーザーが Office 365 でパスワードのリセット](https://go.microsoft.com/fwlink/?linkid=852917)を参照してください。<br/><sup>10</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。<br/><sup>11 には</sup>365 のマイクロソフトのビジネスには、Exchange Online Archiving のサブスクリプションが含まれています。各 Exchange Online Archiving のサブスクライバーは、アーカイブ メールボックスに最初に 100 GB のストレージを受信します。アーカイブの自動拡張を有効にする追加の記憶域は 100 GB のストレージ容量に達すると自動的に追加します。詳細については、 [Office 365 で無制限のアーカイブの概要](https://go.microsoft.com/fwlink/?linkid=863320)を参照してください。<br/> <sup>12</sup> データ損失防止機能は、2018 年の夏に Microsoft 365 Business で利用可能になります。Microsoft 365 Business の一部の DLP 機能に対する Office クライアント サポートは、2018 年の夏に有効になります。<br/><sup>13</sup> Microsoft 365 Business の一部の ATP 機能に対する Office クライアント サポートは、2018 年の夏に有効になります。 
-<br/><sup>14</sup> 詳細については、「 [顧客キーを使用して Office 365 でデータをコントロールする](https://go.microsoft.com/fwlink/?linkid=863349)」を参照してください。 
-<br/><sup>15</sup> Advanced eDiscovery は、米国および西ヨーロッパ (オランダ) 地域でサポートされています (カナダとアジア太平洋地域のお客様のデータは、米国にエクスポートされます。ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。<br/><sup>16</sup>で利用可能な[https://securescore.office.com](https://securescore.office.com)。管理者アクセス許可が必要です。詳細については、 [Office 365 のセキュリティで保護されたスコアを導入すること](https://go.microsoft.com/fwlink/?linkid=863490)を参照してください。<br/><sup>17</sup> Windows 10 の簡略化されたデバイス管理が Microsoft 365 Business コンソールに組み込まれています。iOS、Android、MacOS などのクロスプラットフォーム デバイス管理に必要となる完全な Intune 機能が Azure コンソールに組み込まれており、Microsoft 365 Business で使用するためにライセンスされています。サード パーティ製アプリおよび Wi-Fi プロファイルや VPN 証明書などの構成は、完全な Intune コンソールで管理できます。<br/><sup>18</sup> これらの機能は、今後数か月かけて Microsoft 365 Business Admin Center に段階的にロールアウトされる予定です。 <br>
-<sup>19</sup>この計画は、ビデオのポータル、議事録のテキスト、高度な検索、および顔検出に音声を含む Microsoft ストリーム計画 2 によって付属します。
+<br/><sup>4</sup> azure 情報保護 (AIP) は、サポートされている情報権利管理 (IRM) 機能を使用できます。AIP 計画 1 は、Microsoft 365 ビジネスに含まれています。<br/><sup>5</sup> Microsoft Teams は、Microsoft 365 Business、Office 365 Business Essentials、Office 365 Business Premium、Office 365 Enterprise (E1、E3、E5、F1) で利用できます。現時点で、Office 365 Education プランではまだ利用できません。<br/><sup>6</sup> azure 情報保護 (AIP) は、サポートされている情報権利管理 (IRM) 機能を使用できます。AIP 計画 1 は、Microsoft 365 ビジネスに含まれています。<br/><sup>7</sup>ディレクトリ同期を有効にするための azure AD 接続ツールは Microsoft 365 のビジネス コンポーネントは、Office 365 ビジネス プレミアムでサポートされています。ただし、Windows 管理コンポーネントが有効な場合 Microsoft 365 のビジネスに、Azure の AD 結合が必要です。オンプレミスの Active Directory 環境があり、Azure AD に、ドメインに参加しているデバイスを結合する場合は、[ハイブリッド Azure AD を構成するデバイスを結合](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)することによってこれを実現できます。<br/><sup>8</sup> ローカル Active Directory でディレクトリ同期を使用する場合、アカウントを削除するか、パスワードを変更する必要があります。 
+<br/><sup>9</sup>クラウド ユーザーのみです。[ユーザーが Office 365 でパスワードのリセット](https://go.microsoft.com/fwlink/?linkid=852917)を参照してください。<br/><sup>10</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。<br/><sup>11 には</sup>365 のマイクロソフトのビジネスには、Exchange Online Archiving のサブスクリプションが含まれています。各 Exchange Online Archiving のサブスクライバーは、アーカイブ メールボックスに最初に 100 GB のストレージを受信します。アーカイブの自動拡張を有効にする追加の記憶域は 100 GB のストレージ容量に達すると自動的に追加します。詳細については、 [Office 365 で無制限のアーカイブの概要](https://go.microsoft.com/fwlink/?linkid=863320)を参照してください。<br/><sup>12</sup>詳細については、[お客様のキーを使用して Office 365 のデータを制御する](https://go.microsoft.com/fwlink/?linkid=863349)を参照してください。 
+<br/><sup>13</sup>高度な電子的証拠開示は、米国と西ヨーロッパ (オランダ) の地域でサポートされています。(米国にカナダとアジア太平洋地域から顧客データをエクスポートします。ヨーロッパ、中東、およびアフリカからの顧客データがエクスポートされた西ヨーロッパ [オランダ] にします。)<br/><sup>14</sup>で利用可能な[https://securescore.office.com](https://securescore.office.com)。管理者アクセス許可が必要です。詳細については、 [Office 365 のセキュリティで保護されたスコアを導入すること](https://go.microsoft.com/fwlink/?linkid=863490)を参照してください。<br/><sup>15</sup> Windows 10 のシンプルなデバイスの管理 Microsoft 365 ビジネス コンソールに組み込まれています。IOS、Android、MacOS、および Microsoft 365 のビジネスで使用するためにライセンスされています、Azure のコンソールに組み込まれている他のプラットフォーム間でのデバイスの管理のすべての Intune 機能します。完全 Intune コンソールでは、サード ・ パーティ製のアプリケーションと、WiFi プロファイル、VPN 証明書などの構成を管理できます。<br/>
+<sup>16</sup>この計画は、ビデオのポータル、議事録のテキスト、高度な検索、および顔検出に音声を含む Microsoft ストリーム計画 2 によって付属します。
