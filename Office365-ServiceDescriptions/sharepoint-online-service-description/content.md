@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次のコンテンツの機能は、すべてのユーザーのエンタープライズ ・ コンテンツ管理 (ECM) を簡単にできます。従来のコンテンツ管理、ソーシャル機能、および強力な検索機能の組み合わせです。
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036338"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215382"
 ---
 # <a name="content"></a>コンテンツ
 
@@ -39,7 +39,7 @@ SharePoint Online は、Web ベースのツールと保存、共有、および�
 ## <a name="auditing"></a>監査
 <a name="bkmk_Auditing"> </a>
 
-SharePoint Online サイト コレクション管理者は監査機能を使用して、サイト コレクションのサイト、コンテンツ タイプ、リスト、ライブラリ、リスト項目、およびライブラリ ファイルでどのユーザーがどのような処理を行ったかを追跡できます。詳細については、「[サイト コレクションの監査設定の構成](https://go.microsoft.com/fwlink/?LinkId=270950)」を参照してください。
+SharePoint Online サイト コレクションの管理者は、サイト、コンテンツ タイプ、リスト、ライブラリ、リスト アイテム、およびサイト コレクションのファイルをライブラリにどのようなアクションを実行したユーザーを追跡する監査機能を使用できます。[サイト コレクションの監査設定の構成](https://go.microsoft.com/fwlink/?LinkId=270950)の詳細を表示します。
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>監査 &amp; レポート (ドキュメントの編集、ポリシーの編集、削除など)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ Machine Translation Service により、ユーザーはドキュメントを自�
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM:検索エンジン最適化 (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-公開用 Web サイトの検索を最適化することは新規および戻ってきた顧客の接続に非常に重要です。SharePoint Online はカスタマイズ可能な robots.txt やページ レベルのメタタグなどの SEO 機能を内蔵しているため、簡単により良い検索結果を得るようにサイトを調整することができます。詳細については、「[Web サイトの検索を最適化する](https://go.microsoft.com/fwlink/?LinkId=270932)」を参照してください。
+検索用のパブリック web サイトを最適化することに戻り、新しい顧客との結びつきが重要です。SharePoint Online には、カスタマイズ可能な robots.txt と組織よりよい検索結果のサイトを容易に調整できますので、ページ レベル metatagging など、SEO の組み込みの機能が含まれています。
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>

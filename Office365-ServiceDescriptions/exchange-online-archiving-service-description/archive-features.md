@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 次のセクションでは、Microsoft Exchange Online のアーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036312"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215352"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving のアーカイブ機能
 
@@ -37,7 +37,7 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving へのメッセージの移動
 
-ユーザーは、メッセージを .pst ファイルからアーカイブにドラッグ アンド ドロップするだけで簡単にオンラインでアクセスできます。また、アーカイブ ポリシーを使用して電子メール アイテムをプライマリ メールボックスからアーカイブ メールボックスに自動的に移動することによって、プライマリ メールボックスのサイズを削減し、パフォーマンスを向上させることができます。この動作はアーカイブ内に各メッセージの 2 次コピーが作成される Exchange Hosted Archive と異なりますが、どちらのシナリオでも保存要件を満たすことができます。メッセージをアーカイブに移動するその他の方法については「[Exchange Online のアーカイブ メールボックス](https://go.microsoft.com/fwlink/p/?LinkId=404421)」を参照してください。
+ユーザーは、ドラッグし、.pst ファイルから簡単にオンライン アクセス、アーカイブにメッセージをドロップします。ユーザーも電子メール アイテム プライマリ メールボックスからアーカイブ メールボックスに自動的に移動、アーカイブ ポリシーを使用してサイズを小さくして、プライマリ メールボックスのパフォーマンスを向上します。この現象が Exchange ホスト アーカイブ アーカイブに各メッセージのセカンダリ ・ コピーを作成し、異なるシナリオでは、保存の要件を実現できます。 
   
 ### <a name="import-data-to-the-archive"></a>アーカイブへのデータのインポート
 

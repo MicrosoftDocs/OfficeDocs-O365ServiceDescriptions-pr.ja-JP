@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online の制限は、以下のカテゴリに分類されます。
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362882"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296867"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -119,41 +119,20 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
     
 - **会議の有効期限** 会議が終了した後でユーザーが会議にアクセスできる時間。 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Office 365 の各オプションでの会議の保存期限
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 のオプションおよびスタンドアロンの計画会議の保存期間の制限
 
 > [!NOTE]
 > 各ユーザーは、いつでも最大 1,000 件の会議をデータベースに保存できます。 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |構成可能な<sup>1</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
-|会議コンテンツの保存:定期的な会議  <br/> |構成可能な<sup>1</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
-|会議コンテンツの保存:今すぐミーティング  <br/> |構成可能な<sup>1</sup> <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |該当なし  <br/> |
-|会議の有効期限:1 回のみのミーティング  <br/> |終了日から 365 日<sup>2</sup> <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
-|会議の有効期限:定期的な会議  <br/> |終了日が設定されている場合: 終了日から 365 日<sup>2</sup> <br/> 終了日なし: 常にアクセス可能な場合は 1 年または<sup>3</sup>を更新 <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |該当なし  <br/> |
-|会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> | 8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |該当なし  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup>会議ビジネス サーバー 2015 の Skype の設置型展開でコンテンツの保存は、ビジネス サーバー 2015 のアーカイブ機能を Skype から構成。ビジネス サーバー 2015 TechNet ライブラリ、Skype での[アーカイブのための計画](https://go.microsoft.com/fwlink/p/?LinkId=398299)を参照してください。<br/> <sup>2</sup> 会議がアクティブになると、有効期限がさらに 365 日延長されます。<br/><sup>3</sup> 会議がアクティブになると、有効期限がさらに 6 か月間延長されます。 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>スタンドアロンの各オプションでの会議の保存期限
+|**会議の種類** <br/> |**説明** <br/> 
+|1 回限りの会議| 終わり、前回の会議の有効化、または最後の会議の更新の後の 14 日間どちらかが最新です。
+|終了日との定期的な会議| 会議で使用できるには、少なくとも最後の会議の予定、会議の最後のアクティブ化、または最後の会議の更新のスケジュールされた終了時間後の 14 日後まで、最新のほうです。
+|終了日のない定期的な会議| 会議常にアクセス可能になります、新しい会議の結合 (アクティブ化) があるまたは 1 年間に少なくとも 1 回の更新をスケジュールします。
+|[会議の開始]|8 時間以上の会議にアクセスできます。
 
-> [!NOTE]
-> 各ユーザーは、いつでも最大 1,000 件の会議をデータベースに保存できます。 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online スタンドアロン プラン 1** <br/> |**Skype for Business Online スタンドアロン プラン 2** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |14 日  <br/> |
-|会議コンテンツの保存:定期的な会議  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |14 日  <br/> |
-|会議コンテンツの保存:今すぐミーティング  <br/> |構成可能な<sup>1</sup> <br/> |該当しない  <br/> |8 時間  <br/> |
-|会議の有効期限:1 回のみのミーティング  <br/> |終了日から 365 日<sup>2</sup> <br/> |該当しない  <br/> |14 日  <br/> |
-|会議の有効期限:定期的な会議  <br/> |終了日が設定されている場合: 終了日から 365 日<sup>2</sup> <br/> 終了日なし: 常にアクセス可能な場合は 1 年または<sup>3</sup>を更新 <br/> |該当しない  <br/> |14 日  <br/> |
-|会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |該当なし  <br/> |8 時間  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup>会議ビジネス サーバー 2015 の Skype の設置型展開でコンテンツの保存は、ビジネス サーバー 2015 のアーカイブ機能を Skype から構成。ビジネス サーバー 2015 TechNet ライブラリ、Skype での[アーカイブのための計画](https://go.microsoft.com/fwlink/p/?LinkId=398299)を参照してください。<br/><sup>2</sup> 会議がアクティブになると、有効期限がさらに 365 日延長されます。<br/><sup>3</sup> 会議がアクティブになると、有効期限がさらに 6 か月間延長されます。 
+
   
 ## <a name="minute-limits"></a>分数の制限
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>

@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。Office 365 の教育計画の違いを探して、この記事され、それぞれの機能が含まれているが表示されます。Office 365 はマイクロソフトの次世代のコミュニケーションおよびコラボレーション サービスのクラウド ・ ベースのバージョンと使い慣れた Microsoft Office デスクトップ スイートを組み合わせて、Microsoft Exchange Online、Microsoft SharePoint のオンライン、オンラインの Office とビジネス オンラインの Microsoft の Skype、ユーザーのインターネットを介してどこから生産性向上を支援します。
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036325"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215402"
 ---
-# <a name="office-365-education"></a>教育機関向け Office 365
+# <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。Office 365 の教育計画の違いを探して、この記事され、それぞれの機能が含まれているが表示されます。Office 365 はマイクロソフトの次世代のコミュニケーションおよびコラボレーション サービスのクラウド ・ ベースのバージョンと使い慣れた Microsoft Office デスクトップ スイートを組み合わせて、Microsoft Exchange Online、Microsoft SharePoint のオンライン、オンラインの Office とビジネス オンラインの Microsoft の Skype、ユーザーのインターネットを介してどこから生産性向上を支援します。
   
@@ -32,7 +32,7 @@ Microsoft Office 365 は、さまざまな組織のニーズに最適なプラ�
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**サービス** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
+|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -157,7 +157,7 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |Office 365 Advanced eDiscovery<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|**[コンプライアンス [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
+|**[準拠[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -197,7 +197,7 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |[データ損失防止](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ ガバナンス](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[検索と調査](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[検索と調査]<br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示検索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示のエクスポート](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -332,7 +332,7 @@ Office 365 の教育計画の間で利用可能な Exchange のオンライン�
 |**[受信者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |容量アラート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クラッター機能  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|メール ヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |代理人アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |受信トレイのルール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |接続されているアカウント  <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>5</sup>を [はい] します。 <br/> |

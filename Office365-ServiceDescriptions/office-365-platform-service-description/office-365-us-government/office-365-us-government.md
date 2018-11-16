@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696142"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293518"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -185,8 +185,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Project Online  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |ない<sup>4</sup> <br/> |
    
-> <sup>1</sup> Skype のビジネスの基本はすべての顧客です。ビジネス デスクトップ クライアントの Skype は、Skype を含むオンライン ビジネスの計画を Office 365 のプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。Office 365 ProPlus、G3、g5 の数値には、フルの Skype のアプリケーションには、高度な電話サポート、アーカイブ、およびコンプライアンス機能などの追加機能が含まれていますが含まれます。Skype のオンライン ビジネスのライセンスは、ユーザーごとに割り当てる必要があります。<br/><sup>2</sup>されませんが、別のアドオンとして購入することができます。 
-<br/> <sup>3</sup> 現時点では GCC High または DoD プランでは使用できませんが、まもなく公開されます。 
+> <sup>1</sup> Skype のビジネスの基本はすべての顧客です。ビジネス デスクトップ クライアントの Skype は、Skype を含むオンライン ビジネスの計画を Office 365 のプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。Office 365 ProPlus、G3、g5 の数値には、フルの Skype のアプリケーションには、高度な電話サポート、アーカイブ、およびコンプライアンス機能などの追加機能が含まれていますが含まれます。Skype のオンライン ビジネスのライセンスは、ユーザーごとに割り当てる必要があります。<br/><sup>2</sup>されませんが、別のアドオンとして購入することができます。オンライン プロジェクトにはには、オンラインのデスクトップ クライアント サブスクリプションの一部としてプロジェクトにはが含まれています。<br/> <sup>3</sup> 現時点では GCC High または DoD プランでは使用できませんが、まもなく公開されます。 
 <br/><sup>4</sup> Yammer の企業は Office 365 の米国政府のコンポーネントではありませんが、Office 365 の GCC のライセンス付与、スタンドアロンの案内各ユーザーに無料で取得できます。このサービスは、エンタープライズ アグリーメント、およびエンタープライズ サブスクリプション契約の下で Office 365 の GCC を購入する顧客に限定されています。Yammer は、GCC 高または DoD では使用できません。<br/><sup>5</sup> 通話プランはアドオンです。 
   
 ## <a name="platform-features"></a>プラットフォーム機能
