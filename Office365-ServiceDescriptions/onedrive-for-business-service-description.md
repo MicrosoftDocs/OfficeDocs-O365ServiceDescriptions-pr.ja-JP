@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business は、会社によってクラウド内に提供される、個人のオンライン ストレージ スペースです。これは、複数のデバイスに分散した作業ファイルにアクセスする際に、作業ファイルを簡単に保存し保護するために使用されます。必要に応じて仕事仲間とファイルを共有し、最新の Office デスクトップ、Web、モバイル アプリを使用して、リアルタイムで一緒に Office ドキュメントを共同作業します。OneDrive for Business 同期クライアントを使用して、ローカル コンピューターにファイルを同期します。
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036231"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215362"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
@@ -101,7 +101,7 @@ OneDrive for Business は以下のプランで提供されています。
     
 5 人未満のユーザーによるサブスクリプションの場合は、ユーザー 1 人あたり 1 TB の個人用クラウド ストレージを受け取ります。 
   
-OneDrive for Business では、ユーザー 1 人あたり 1 TB の個人用クラウド ストレージが最初にプロビジョニングされます。Office 365 管理者の支援を受けて、ユーザー 1 人あたり 5 TB まで [OneDrive for Business の既定の記憶領域を増やす](https://go.microsoft.com/fwlink/?linkid=838024)ことができます。 
+OneDrive for Business では、ユーザー 1 人あたり 1 TB の個人用クラウド ストレージが最初にプロビジョニングされます。1 TB の割り当て分の使用率が 90% になったら、Office 365 管理者の支援を受けて、ユーザー 1 人あたり 5 TB まで [OneDrive for Business の既定の記憶領域を増やす](https://go.microsoft.com/fwlink/?linkid=838024)ことができます。 
   
 > [!NOTE]
 > OneDrive の既定の記憶領域を増やすには、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。 
