@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online の制限は、以下のカテゴリに分類されます。
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296867"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625892"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -126,8 +126,8 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**会議の種類** <br/> |**説明** <br/> 
-|1 回限りの会議| 終わり、前回の会議の有効化、または最後の会議の更新の後の 14 日間どちらかが最新です。
+|**会議の種類** <br/> |**[説明]** <br/> 
+|1 回限りの会議| 会議で使用できるには、少なくとも、スケジュールされた時刻、会議の最後のアクティブ化、または最後の会議の更新後 14 日後まで、最新のほうです。
 |終了日との定期的な会議| 会議で使用できるには、少なくとも最後の会議の予定、会議の最後のアクティブ化、または最後の会議の更新のスケジュールされた終了時間後の 14 日後まで、最新のほうです。
 |終了日のない定期的な会議| 会議常にアクセス可能になります、新しい会議の結合 (アクティブ化) があるまたは 1 年間に少なくとも 1 回の更新をスケジュールします。
 |[会議の開始]|8 時間以上の会議にアクセスできます。
