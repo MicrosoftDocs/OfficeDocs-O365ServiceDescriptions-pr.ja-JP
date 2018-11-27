@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: 365 ビジネスのマイクロソフトは、Office 365 のクラス最高の生産性とお客様のビジネスを保護するために高度なセキュリティおよびデバイス管理機能を統合する統合ソリューションです。.このサービスの説明では、プランのオプションとその機能について説明します。Office 365 の詳細については、Office 365 サービスの説明を参照してください。
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857315"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674224"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -117,8 +117,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |||||
 |:-----|:-----|:-----|:-----|
 |**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility Suite** <br/> |
-|シングル ・ サインオン (SSO) の\>10 アプリ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|多要素認証 (MFA)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Office 365 の多要素認証 (MFA)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |管理単位  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Discovery  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |動的グループ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -127,7 +126,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |オンプレミスのディレクトリと Azure AD 間でのデバイス オブジェクトの双方向同期 (デバイスの書き戻し)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |条件付きのアクセス (グループ、場所、デバイスの状態、サインイン、ユーザーのリスクに基づく)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |会社のブランド化 (ログオン ページ、アクセス パネルのカスタマイズ)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|アプリケーション ポリシー  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|アプリケーション プロキシ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Microsoft Identity Manager (MIM) ユーザー CAL  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Connect Health  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
