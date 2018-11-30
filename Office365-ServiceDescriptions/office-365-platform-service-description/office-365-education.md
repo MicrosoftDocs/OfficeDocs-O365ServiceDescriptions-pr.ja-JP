@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。Office 365 の教育計画の違いを探して、この記事され、それぞれの機能が含まれているが表示されます。Office 365 はマイクロソフトの次世代のコミュニケーションおよびコラボレーション サービスのクラウド ・ ベースのバージョンと使い慣れた Microsoft Office デスクトップ スイートを組み合わせて、Microsoft Exchange Online、Microsoft SharePoint のオンライン、オンラインの Office とビジネス オンラインの Microsoft の Skype、ユーザーのインターネットを介してどこから生産性向上を支援します。
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215402"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988578"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -32,7 +32,7 @@ Microsoft Office 365 は、さまざまな組織のニーズに最適なプラ�
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
+|**サービス** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -195,7 +195,7 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |[高度な脅威の管理](https://go.microsoft.com/fwlink/?linkid=846673)<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[モバイル デバイス管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ損失防止](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[データ ガバナンス](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[データ ガバナンス](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[検索と調査]<br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示検索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -668,7 +668,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|配布グループの所有者の最大数  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

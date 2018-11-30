@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 のセキュリティ&amp;コンプライアンス センターは、Office 365 の間で、組織のコンプライアンス機能を管理するために設計されています。既存の SharePoint と Exchange 対応の機能へのリンクは、Office 365 の間でコンプライアンス機能で結集しています。
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036351"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988558"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 のセキュリティ&amp;コンプライアンス センター
+# <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
 [Office 365 のセキュリティ&amp;コンプライアンス センター](https://go.microsoft.com/fwlink/?LinkID=824876)は、Office 365 の間で、組織のコンプライアンス機能を管理するために設計されています。既存の SharePoint と Exchange 対応の機能へのリンクは、Office 365 の間でコンプライアンス機能で結集しています。 
   
@@ -61,7 +61,7 @@ ms.locfileid: "24036351"
 |[高度な脅威の管理](https://go.microsoft.com/fwlink/?linkid=846673)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[モバイル デバイス管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ損失防止](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[データ ガバナンス](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |<sup>2</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[データ ガバナンス](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |<sup>2</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[検索と調査](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示検索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
