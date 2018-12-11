@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
-ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
+ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26293518"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213914"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -160,7 +160,7 @@ Office 365 US Government プランのシステム要件については、[office
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
-## <a name="security-amp-compliance-center"></a>セキュリティ&amp;コンプライアンス センター
+## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 <a name="BM9-Requirements"> </a>
 
 セキュリティについての情報の&amp;コンプライアンス センターおよびその他の情報と可用性へのリンクを参照してください[Office 365 のセキュリティ&amp;コンプライアンス センター](../../office-365-platform-service-description/office-365-securitycompliance-center.md)です。
@@ -380,3 +380,4 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>5</sup>では、詳細については[iOS および Android 政府コミュニティ クラウドで Outlook を使用する](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)を参照してください。
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
+
