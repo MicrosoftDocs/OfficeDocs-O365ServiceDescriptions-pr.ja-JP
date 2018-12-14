@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 の管理者では、サービスの状態を表示でき、メンテナンスが予定されていることを検出することができます。サービス稼働状態の情報をいつでも参照するには、Office 365 にサインインします。
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036381"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258739"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -29,7 +29,7 @@ Microsoft Office 365 の管理者では、サービスの状態を表示でき�
   
 ## <a name="view-status-of-services"></a>サービスの状態の表示
 
-Office 365 のサービス正常性セクションには、サービスの現在の状態とサービスの中断と停止の詳細が表示されます。計画メンテナンスの情報は、メッセージセンターで確認できます。詳細については、「[Office 365 サービスの正常性をチェックする方法](https://go.microsoft.com/fwlink/p/?LinkID=270178)」を参照してください。 
+Office 365 のサービス正常性セクションには、サービスの現在の状態とサービスの中断と停止の詳細が表示されます。計画メンテナンスの情報は、メッセージセンターで確認できます。詳細については、「[Office 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/office365/enterprise/view-service-health)」を参照してください。 
   
 ## <a name="service-incidents"></a>サービス インシデント
 
@@ -49,7 +49,7 @@ Microsoft は、サービス インシデントが発生した場合、タイム
 
 ### <a name="office-365-admin-app"></a>Office 365 管理アプリ
 
-Office 365 テナント管理者向けの管理アプリには、外出先で組織の Office 365 サービスの状態に接続する機能が設けられています。Office 365 テナントの管理者は、モバイル デバイスにサービス正常性の情報とメンテナンス状態の更新情報を表示できます。詳細については、「[管理アプリの FAQ](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx)」にアクセスしてください。
+Office 365 テナント管理者向けの管理アプリには、外出先で組織の Office 365 サービスの状態に接続する機能が設けられています。Office 365 テナントの管理者は、モバイル デバイスにサービス正常性の情報とメンテナンス状態の更新情報を表示できます。詳細については、「[管理アプリの FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)」にアクセスしてください。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 用 Office 365 管理パック
 
