@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
+ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213914"
+ms.lasthandoff: 12/27/2018
+ms.locfileid: "27449921"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -197,25 +197,25 @@ Office 365 US Government プランのシステム要件については、[office
 |:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |**Office 365 管理** <br/> |||||
-|Office 365 管理センターを使用して Ofiice 365 を管理する  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |はい  <br/> |<sup>15</sup>を [はい] します。 <br/> |
+|Office 365 管理センターを使用して Ofiice 365 を管理する  <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |はい  <br/> |<sup>16</sup>を [はい] します。 <br/> |
 |Office 365 からのコア サービスの設定の管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection を使用してコンテンツを保護する  <br/> |なし<sup>1</sup> <br/> |<sup>9</sup>を [はい] します。 <br/> |はい  <br/> |なし<sup>1</sup> <br/> |
+|Azure Information Protection を使用してコンテンツを保護する  <br/> |なし<sup>1</sup> <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。  <br/> |なし<sup>1</sup> <br/> |
 |**[Office 365 スイート機能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Flow  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
-|Microsoft Forms  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
+|Microsoft Forms  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft MyAnalytics  <br/> |なし<sup>9、12、15</sup> <br/> |なし<sup>9、12、15</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |なし<sup>9、12、15</sup> <br/> |
-|Microsoft Planner  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
+|Microsoft Planner  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |Microsoft PowerApps  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
-|Microsoft StaffHub  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
+|Microsoft StaffHub  <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |
 |Microsoft Stream  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|Microsoft Sway  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
-|Microsoft Teams  <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |<sup>16</sup>を [はい] します。 <br/> |
-|Office Delve  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |はい  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
+|Microsoft Sway  <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |
+|Microsoft Teams  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
+|Office Delve  <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |はい  <br/> |○<sup>17</sup> <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 ビデオ  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |いいえ  <br/> |
+|Microsoft Stream  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |**[ユーザー アカウント管理](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |クラウド ID  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |フェデレーション ID (シングル サインオン)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -282,14 +282,14 @@ Office 365 US Government プランのシステム要件については、[office
 |IPv4 および IPv6 プロトコル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**信頼** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |**[プライバシー、セキュリティ、および透過性](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
-|高度なデータ ガバナンス  <br/> |ない<sup>12、15</sup> <br/> |ない<sup>12、15</sup> <br/> |<sup>15</sup>を [はい] します。 <br/> |ない<sup>12、15</sup> <br/> |
+|高度なデータ ガバナンス  <br/> |なし<sup>12</sup> <br/> |なし<sup>12</sup> <br/> |はい <br/> |なし<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |いいえ<sup>11、12</sup> <br/> |いいえ<sup>11、12</sup> <br/> |<sup>11</sup>を [はい] します。 <br/> |いいえ<sup>11、12</sup> <br/> |
 |Advanced Threat Protection  <br/> |なし<sup>12</sup> <br/> |なし<sup>12</sup> <br/> |はい  <br/> |なし<sup>12</sup> <br/> |
 |Customer Lockbox  <br/> |なし<sup>9、12、15</sup> <br/> |なし<sup>9、12、15</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |なし<sup>9、12、15</sup> <br/> |
-|Office 365 の詳細な電子情報開示  <br/> |ない<sup>12、15</sup> <br/> |ない<sup>12、15</sup> <br/> |はい  <br/> |なし<sup>9, 15</sup> <br/> |
-|セキュリティ スコア<sup>14</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
-|Office のメッセージの暗号化  <br/> |いいえ  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|脅威インテリジェンス  <br/> |ない<sup>12、15</sup> <br/> |ない<sup>12、15</sup> <br/> |<sup>15</sup>を [はい] します。 <br/> |ない<sup>12、15</sup> <br/> |
+|Office 365 の詳細な電子情報開示  <br/> |なし<sup>12</sup> <br/> |なし<sup>12</sup> <br/> |はい  <br/> |なし<sup>12</sup> <br/> |
+|セキュリティ スコア<sup>14</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
+|Office のメッセージの暗号化  <br/> |いいえ  <br/> |はい <br/> |はい <br/> |いいえ  <br/> |
+|脅威インテリジェンス  <br/> |なし<sup>12</sup> <br/> |なし<sup>12</sup> <br/> |はい <br/> |なし<sup>12</sup> <br/> |
 |**[準拠[ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -316,7 +316,8 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>11</sup> 現時点では Office 365 US Government 製品では使用できませんが、まもなく公開されます。 ><br/><sup>12</sup> 含まれていませんが、GCC の個別のアドオンとして購入できます。 
 <br/><sup>13</sup> Office 365 US Government 製品ではサポートされていません。 
 <br/><sup>14</sup>で利用可能な[https://securescore.office.com](https://securescore.office.com)。管理者アクセス許可が必要です。詳細については、 [Office 365 のセキュリティで保護されたスコアを導入すること](https://go.microsoft.com/fwlink/?linkid=836894)を参照してください。<br/><sup>15</sup> DoD の環境が準備中でまだ利用できません。 
-<br><sup>16</sup>ない GCC 高または DoD。
+<br><sup>16</sup>管理センターではないの使用状況の分析または GCC の高い環境で
+<br><sup>17</sup> GCC 高または DoD の環境でサポートされていません
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -380,4 +381,3 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>5</sup>では、詳細については[iOS および Android 政府コミュニティ クラウドで Outlook を使用する](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)を参照してください。
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
-

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 のセキュリティ&amp;コンプライアンス センターは、Office 365 の間で、組織のコンプライアンス機能を管理するために設計されています。既存の SharePoint と Exchange 対応の機能へのリンクは、Office 365 の間でコンプライアンス機能で結集しています。
-ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
-ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
+ms.openlocfilehash: b1d2e28e38cc156dd84a195a698f546b43ef7ccc
+ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2018
-ms.locfileid: "26988558"
+ms.lasthandoff: 12/27/2018
+ms.locfileid: "27449911"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
@@ -29,7 +29,7 @@ ms.locfileid: "26988558"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 米国政府の G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 米国政府の F1** <br/> |
+|**機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 米国政府の G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 米国政府の第 3 世代** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 米国政府の F1** <br/> |
 |[セキュリティへのアクセスを&amp;コンプライアンス センター](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[脅威の管理](https://go.microsoft.com/fwlink/?linkid=845550)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -69,7 +69,7 @@ ms.locfileid: "26988558"
 |[電子的証拠開示 (eDiscovery のクエリ ベースの保留リストを含む) を保持します。](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Exchange Online の制限](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|手動のアイテム保持/削除ポリシー  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
+|手動のアイテム保持/削除ポリシー  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
    
 > <sup>1</sup> データ ガバナンスを使用すると、ユーザーは次のことができるようになります。ラベルを作成して公開し、ドキュメントに手動で適用すること。ドライブ送付を使用して、またはネットワークを経由して、データをインポートすること。アイテム保持/削除ポリシーを作成して、ワークロード、ユーザー、グループに適用すること。メールボックスに適用されているアイテム保持ポリシーには、Office 365 Enterprise E3 または E5 が必要です。<br/><sup>2</sup> Exchange Online Archiving アドオンを購入する必要があります。 
 <br/><sup>3</sup> 高度なデータ ガバナンスを使用すると、アイテム保持ポリシーと削除ポリシーのどちらか一方または両方に基づいて情報を分類することにより、重要な情報を保持し、重要でない情報を削除できます。これには、次のインテリジェント/自動アクションが含まれます。ポリシーの推奨、データへのラベルの自動的な適用、機密性の高いデータの種類またはクエリに基づくラベルの適用、処理確認、スマート インポート フィルターの使用。セキュリティと法令遵守を目的として、従業員の通信を確認するための監督機能も含まれています。<br/><sup>4</sup> Skype の会話は、メールボックスの一部として保管されます。 
