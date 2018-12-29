@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。Exchange のオンラインの計画を含む、Office 365 のプランの違いを探してここされ、それぞれの機能が含まれているが表示されます。
-ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
+ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362862"
+ms.lasthandoff: 12/28/2018
+ms.locfileid: "27459710"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 プラットフォーム サービスの説明
 
@@ -56,7 +56,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 
 サービス レベル契約については、[サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=843153)をご覧ください。Office 365 の最近の稼働率については、「[Office 365 による透明性のある運用](https://go.microsoft.com/fwlink/?linkid=848695)」を参照してください。
   
-## <a name="security-amp-compliance-center"></a>セキュリティ&amp;コンプライアンス センター
+## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
 セキュリティについての情報の&amp;コンプライアンス センターおよびその他の情報と可用性へのリンクを参照してください[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-securitycompliance-center.md)です。
   
@@ -157,10 +157,10 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |メールの上位マルウェア  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メールのルール一致  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メールの上位ルール一致  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールの上位 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールの重大度別 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールの DLP ポリシーの一致、上書き、および誤検知の数  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールの上位 DLP ルール一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|メールの上位 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|メールの重大度別 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|メールの DLP ポリシーの一致、上書き、および誤検知の数  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|メールの上位 DLP ルール一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |IM とオーディオ セッション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アプリケーション共有、Web、およびダイヤルイン会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ビデオ、アプリケーション共有、およびファイル転送セッション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
