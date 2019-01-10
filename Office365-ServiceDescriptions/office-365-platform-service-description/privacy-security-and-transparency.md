@@ -3,7 +3,7 @@ title: プライバシー、セキュリティ、および透過性
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036304"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784859"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透過性
 
@@ -55,7 +55,7 @@ Office 365 管理者はカスタマー ロックボックスを使用して、Mi
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
-Exchange Online Advanced Threat Protection は、マルウェアやウイルスから組織を保護する、クラウド ベースのメール フィルタリング サービスです。ATP には、「安全なリンク」機能と「安全な添付ファイル」機能が含まれています。「安全なリンク」はメッセージ内の悪質なハイパーリンクから積極的にユーザーを保護します。リンクをクリックした後、毎回、保護を提供します。「安全な添付ファイル」は、未知のマルウェアやウイルスから保護します。既知のウイルス/マルウェア署名がないすべてのメッセージと添付ファイルは、ATP が悪意を検出する特別な環境にルーティングされます。ATP の詳細については、「[Exchange Online Advanced Threat Protection サービスの説明](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx)」をご覧ください。
+脅威保護の高度な office 365 は、マルウェアおよびウイルスから組織を保護します。分析ツールには、[安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[フィッシング](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)[なりすましのインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)機能が含まれています。安全なリンクをプロアクティブに保護、ユーザー、メッセージでは、悪意のあるハイパーリンクからリンクをクリックするたびに、保護を提供することです。安全な添付ファイルは、ATP が悪質な行為を検出できるすべてのメッセージや特別な環境を既知のウイルス/マルウェアの署名のない添付ファイルをルーティングを不明なマルウェアやウイルスから保護します。分析ツールの詳細については、 [Office 365 高度な脅威保護サービスの説明](../office-365-advanced-threat-protection-service-description.md)を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

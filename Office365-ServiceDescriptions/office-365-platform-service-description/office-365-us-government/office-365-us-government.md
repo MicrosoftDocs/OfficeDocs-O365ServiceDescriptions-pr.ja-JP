@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449921"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784909"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -339,10 +339,10 @@ Office 365 US Government プランのシステム要件については、[office
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |<sup>3</sup>を [はい] します。 <br/> |
 |[Office for Mac for Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[IPad/iPhone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|[Android 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
+|[IPad/iPhone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
+|[Android 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
+|Office Mobile for Windows 10 タブレット <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
 |IOS および Android で、<sup>5、4 つ</sup>の outlook  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
 |**企業価値** <br/> |**Office 365 米国政府の G1** <br/> |**Office 365 米国政府の第 3 世代** <br/> |**Office 365 米国政府の G5** <br/> |**Office 365 米国政府の F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -358,7 +358,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Excel スプレッドシート検査  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |グループ ポリシーのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Azure Information Protection を使用した Information Rights Management  <br/> |なし<sup>1</sup> <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |なし<sup>1</sup> <br/> |
+|Azure Information Protection を使用した Information Rights Management  <br/> |なし<sup>1</sup> <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |なし<sup>1</sup> <br/> |
 |Windows Server AD RMS を使用した Information Rights Management  <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |
 |Office アドイン、ActiveX、および BHO のサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -370,7 +370,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Power Pivot for Excel  <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |Power Query for Excel  <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |Power View for Excel  <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|ローミング設定  <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
+|ローミング設定  <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
 |共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
 |クラウドベース ファイル ストレージのブロックのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |バージョン アップグレード  <br/> |いいえ  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |いいえ  <br/> |
@@ -379,5 +379,5 @@ Office 365 US Government プランのシステム要件については、[office
 > <sup>1</sup> azure 情報の保護が含まれていませんが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護の一部の機能は Office 365 の米国政府の G1 または Office 365 の米国政府の f1 キーに含まれていない Office 365 用リソース、サブスクリプションが必要です。<br/><sup>2</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
 <br/><sup>3</sup> Skype のビジネスの基本がすべての顧客です。ビジネス デスクトップ クライアントの Skype は、Skype を含むオンライン ビジネスの計画を Office 365 のプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。Office 365 ProPlus、および Office 365 エンタープライズ E3 には、フルの Skype のアプリケーションには、高度な電話サポート、アーカイブ、およびコンプライアンス機能などの追加機能が含まれていますが含まれます。Skype のオンライン ビジネスのライセンスは、ユーザーごとに割り当てる必要があります。Lync Basic の機能の詳細については、 [Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)を参照してください。<br/><sup>4</sup> 現時点では GCC High または DoD 環境では使用できませんが、まもなく公開されます。
 <br/><sup>5</sup>では、詳細については[iOS および Android 政府コミュニティ クラウドで Outlook を使用する](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)を参照してください。
-  
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
+  <br/><sup>6</sup>では、Office 365 の DoD 環境では、準備中ですが、まだ利用できません。
+<br/><br/>[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
