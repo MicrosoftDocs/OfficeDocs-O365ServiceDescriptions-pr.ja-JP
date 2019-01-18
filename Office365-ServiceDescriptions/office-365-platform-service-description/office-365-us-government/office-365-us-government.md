@@ -1,9 +1,9 @@
 ---
 title: Office 365 US Government
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 7/6/2018
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国公的機関の固有であり、変化し続ける要件に対応して、マイクロソフトが Office 365 の米国政府の計画を作成しました (orOffice 365 米国政府)。このセクションでは、Office 365 の米国政府に特有の機能の概要を提供します。Office 365 サービスの説明の横の補足このセクションを読むことをお勧めします。
-ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784909"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694681"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -209,9 +209,9 @@ Office 365 US Government プランのシステム要件については、[office
 |Microsoft MyAnalytics  <br/> |なし<sup>9、12、15</sup> <br/> |なし<sup>9、12、15</sup> <br/> |<sup>9、15</sup>を [はい] します。 <br/> |なし<sup>9、12、15</sup> <br/> |
 |Microsoft Planner  <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |<sup>15</sup>を [はい] します。 <br/> |
 |Microsoft PowerApps  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
-|Microsoft StaffHub  <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |
+|Microsoft StaffHub  <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |
 |Microsoft Stream  <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |いいえ  <br/> |
-|Microsoft Sway  <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |
+|Microsoft Sway  <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |
 |Microsoft Teams  <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |<sup>9、15</sup>を [はい] します。 <br/> |
 |Office Delve  <br/> |○<sup>17</sup> <br/> |○<sup>17</sup> <br/> |はい  <br/> |○<sup>17</sup> <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -309,9 +309,9 @@ Office 365 US Government プランのシステム要件については、[office
 |**[サービス レベル契約](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[製品使用権](../../office-365-platform-service-description/product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
-> <sup>1</sup> azure 情報の保護が含まれていませんが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護の一部の機能は Office 365 の米国政府の G1 または Office 365 の米国政府の f1 キーに含まれていない Office 365 用リソース、サブスクリプションが必要です。><br/><sup>2</sup> 既存の BBCS および BIS のお客様は、引き続きサービスをご利用いただけます。新規のお客様の受け付けはしていません。<br/><sup>3</sup>場合は、ディレクトリ同期を使用すると、アカウントを削除するかしてください Office 365 ポータルではなく、または Windows PowerShell の Azure Active Directory のモジュールを使用して、Active Directory を使用してパスワードを変更します。 
+> <sup>1</sup> azure 情報の保護が含まれていませんが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護の一部の機能は Office 365 の米国政府の G1 または Office 365 の米国政府の f1 キーに含まれていない Office 365 用リソース、サブスクリプションが必要です。_gt<br/><sup>2</sup> 既存の BBCS および BIS のお客様は、引き続きサービスをご利用いただけます。新規のお客様の受け付けはしていません。<br/><sup>3</sup>場合は、ディレクトリ同期を使用すると、アカウントを削除するかしてください Office 365 ポータルではなく、または Windows PowerShell の Azure Active Directory のモジュールを使用して、Active Directory を使用してパスワードを変更します。 
 <br/><sup>4</sup> パスワード同期を使用する場合は、ユーザーは、ローカルの Active Directory でパスワードを変更する必要があります。 
-<br/><sup>5</sup>ユーザーのセルフ サービス パスワード管理ポリシーを設定する方法についてには、 [Azure AD でのパスワードの管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)を参照してください。 <br/><sup>6</sup>には、Office 365 の以前のバージョンからアップグレードしていない限り、Office 365 でパブリック web サイトを 1 つだけことができます。その場合は、2 つのパブリック web サイトがあるが、カスタム ドメイン名のうち一方のみをホストできます。ビジネスのサブスクリプションの 2 つの web サイトの操作に関する詳細については、 [2 つの Office 365 の公開サイトでの作業](https://go.microsoft.com/fwlink/p/?LinkID=271589)を参照してください。別のサブスクリプションがあれば、[パートナーの web サイトをホストし、Office 365 のパブリック web サイトについて](https://go.microsoft.com/fwlink/p/?LinkID=325009)パブリック web サイトの詳細を説明します。<br/><sup>7</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。<br/><sup>8</sup>以下の計画は Office 365 の管理センターからライセンスの座席の変更をサポートして: > Office 365 の米国政府の G1 > Office 365 の米国政府の G3 > Office 365 の米国政府の K1 <br/><sup>9</sup>まだ利用できません、GCC 高が準備中です。
+<br/><sup>5</sup>ユーザーのセルフ サービス パスワード管理ポリシーを設定する方法についてには、 [Azure AD でのパスワードの管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)を参照してください。 <br/><sup>6</sup>には、Office 365 の以前のバージョンからアップグレードしていない限り、Office 365 でパブリック web サイトを 1 つだけことができます。その場合は、2 つのパブリック web サイトがあるが、カスタム ドメイン名のうち一方のみをホストできます。ビジネスのサブスクリプションの 2 つの web サイトの操作に関する詳細については、 [2 つの Office 365 の公開サイトでの作業](https://go.microsoft.com/fwlink/p/?LinkID=271589)を参照してください。別のサブスクリプションがあれば、[パートナーの web サイトをホストし、Office 365 のパブリック web サイトについて](https://go.microsoft.com/fwlink/p/?LinkID=325009)パブリック web サイトの詳細を説明します。<br/><sup>7</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。<br/><sup>8</sup>以下の計画は Office 365 の管理センターからライセンスの座席の変更をサポートして: Office 365 の米国政府の G1 の _gt _gt Office 365 の米国政府の G3 _gt Office 365 の米国政府の K1 <br/><sup>9</sup>まだ利用できません、GCC 高が準備中です。
 <br/><sup>10</sup> Office 365 米国政府 G1 は、G3、および対象のリリースで、ビジネスのロードマップの Office 365、f1 キーを適用します。ただし、可能性がありますいくつかの相違点や[コンプライアンスの要件](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)のための特定のサービスの更新プログラムで遅延が発生。
 <br/><sup>11</sup> 現時点では Office 365 US Government 製品では使用できませんが、まもなく公開されます。 ><br/><sup>12</sup> 含まれていませんが、GCC の個別のアドオンとして購入できます。 
 <br/><sup>13</sup> Office 365 US Government 製品ではサポートされていません。 
