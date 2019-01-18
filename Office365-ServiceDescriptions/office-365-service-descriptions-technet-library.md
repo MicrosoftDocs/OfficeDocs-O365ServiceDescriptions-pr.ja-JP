@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 サービスの説明 '
+title: 'Office 365 サービスの説明  '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性の組織のニーズを満たすために設計されているクラウド ベースのサービスです。
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036201"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694661"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
+# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明  
 
 Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性の組織のニーズを満たすために設計されているクラウド ベースのサービスです。 
   
@@ -33,7 +33,7 @@ Microsoft Office 365 は、堅牢なセキュリティ、信頼性、および�
 > [!NOTE]
 > サービスの説明を比較するスプレッドシートをお探しの場合、このスプレッドシートは廃止されました。各サービスの説明ページに記載されている、製品機能の提供状況を示す表が、ニーズに合った Office 365 のバージョンを選択するために役立つように更新されています。 
   
-Microsoft では、対象となるプランの対象となるサービスで Office 365 オンボード特典を提供しています。オンボード特典では、Microsoft のスペシャリストとリモートで連携して Office 365 環境を使い始められるように整えることができます。詳細については、「[Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx)」を参照してください。
+Microsoft は、対象となる計画で対象となるサービスを Office 365 の FastTrack センター給付金を提供します。給付金には、Office 365 環境内の使用可能な状態を取得するのには、マイクロソフトのスペシャ リストと、リモートで作業することができます。詳細については、 [Office 365 の FastTrack センターの利点](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)を参照してください。
   
 まず、次のサービスの説明を参照してください。
   
@@ -63,7 +63,7 @@ Microsoft では、対象となるプランの対象となるサービスで Off
     
 - [Project Online サービスの説明](project-online-service-description/project-online-service-description.md)
     
-- [Visio Online サービスの詳細](visio-online-service-description/visio-online-service-description.md)
+- [Visio Online サービスの説明](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer サービスの説明](yammer-service-description/yammer-service-description.md)
     
