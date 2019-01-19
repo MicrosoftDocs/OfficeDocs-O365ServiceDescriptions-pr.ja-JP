@@ -8,15 +8,16 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
+ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 次の表は、サービスの説明の内容に最近加えられた変更の一覧です。
-ms.openlocfilehash: 54ac1db0668bc46188991784532c657ce9677ed5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4ed2c1c4f82729cc20be7a85eca4e1adb09662fd
+ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036246"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28728681"
 ---
 # <a name="recent-service-descriptions-changes"></a>サービスの説明の最近の変更
 
@@ -50,8 +51,8 @@ ms.locfileid: "24036246"
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |プラットフォーム サービスの説明に複数地域の情報を追加しました。  <br/> |
 ||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft 365 Business を追加しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Office 365 Business Essentials と Office 365 Business Premium のアーカイブ制限のエントリを「はい」に変更しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |「Advanced Security Management」を「Office 365 Cloud App Security」に変更しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Office 365 Business Essentials と Office 365 Business Premium のアーカイブ制限のエントリを「はい」に変更しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |「Advanced Security Management」を「Office 365 Cloud App Security」に変更しました。  <br/> |
 |Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |トピックの最初の注記を「Microsoft SharePoint Online から Excel Online で 30 メガバイト (MB) を超えるブックを表示することはできません」に変更しました。以前の注記では、10 MB となっていました。  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business サービスの説明](onedrive-for-business-service-description.md) <br/> |OneDrive for Business サービスの説明を大幅に更新しました。  <br/> |
    
@@ -76,7 +77,7 @@ ms.locfileid: "24036246"
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Office 365 Business Premium の StaffHub の可用性を更新しました。  <br/> |
 ||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |[Compliance[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) ページの業界認定資格を更新しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Office 365 Enterprise 1 プランのマニュアル保持ポリシーを更新しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Office 365 Enterprise 1 プランのマニュアル保持ポリシーを更新しました。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |複数の更新と再構成を行いました。  <br/> |
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |ボイス メールとボイス メール統合の可用性を修正。  <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |Exchange Online プランのグループの可用性を明確化。  <br/> |
@@ -108,7 +109,7 @@ ms.locfileid: "24036246"
 |:-----|:-----|:-----|
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Office 365 Enterprise F1 Microsoft Stream ユーザーは、ビデオを表示することはできますが、ビデオを公開または共有することはできないことを明確化しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |高度なデータ ガバナンスに処理確認を追加しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |高度なデータ ガバナンスに処理確認を追加しました。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Yammer と Office 365 Pro Plus の可用性を明確化しました。  <br/> |
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |データ損失防止の可用性を追加しました。  <br/> |
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |AD RMS 経由の IRM の可用性を修正しました。  <br/> |
@@ -125,7 +126,7 @@ ms.locfileid: "24036246"
 ||||
 |:-----|:-----|:-----|
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
-|Office 365 プラットフォーム  <br/> |[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |高度なガバナンスの詳細を追加しました。  <br/> |
+|Office 365 プラットフォーム  <br/> |[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |高度なガバナンスの詳細を追加しました。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |FastTrack テーブルによって実行されるデータ移行を追加しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |フェデレーションの共有には、他のテナントとの共有をサポートするために、可用性アドレス スペースを使用する必要があるとの注記を追加しました。  <br/> |
 |Exchange Online  <br/> |[Exchange Online の制限](exchange-online-service-description/exchange-online-limits.md) <br/> |Office 365 Message Encryption (OME) の従来のバージョンと新しい機能を備えた Office 365 Message Encryption (OME) に制限を追加しました。  <br/> |
@@ -155,8 +156,8 @@ ms.locfileid: "24036246"
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Azure Information Protection (AIP) の可用性に関する注記を明確化しました。  <br/> |
 ||[Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md) <br/> |Azure Information Protection (AIP) の可用性に関する注記を明確化しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |スタンドアロン プランの機能の比較表を追加しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Advanced Threat Protection 機能の詳細を追加しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |スタンドアロン プランの機能の比較表を追加しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Advanced Threat Protection 機能の詳細を追加しました。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Azure Information Protection (AIP) の可用性に関する注記を明確化しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Azure Information Protection (AIP) の可用性に関する注記を明確化しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |監査ログ検索、アドバンスト データ ガバナンス、Office 365 脅威インテリジェンスの機能と可用性を追加しました。  <br/> |
@@ -174,8 +175,8 @@ ms.locfileid: "24036246"
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft Forms の可用性を追加しました。  <br/> |
 ||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Advanced eDiscovery の可用性について脚注を追加しました。  <br/> |
 ||[Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md) <br/> |各 SKU に含まれる Exchange Online および Skype for Business プランのオプションを、プランのオプションに関するページに追加しました。  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |以下を脚注 1 に追加しました。「メールボックスに適用されるアイテム保持ポリシーには E3 または E5 が必要です。」  <br/> |
-||[Office 365 のセキュリティ&amp;コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Advanced eDiscovery の可用性について脚注を追加しました。  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |以下を脚注 1 に追加しました。「メールボックスに適用されるアイテム保持ポリシーには E3 または E5 が必要です。」  <br/> |
+||[Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Advanced eDiscovery の可用性について脚注を追加しました。  <br/> |
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Microsoft Forms の説明を追加しました。  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Office 365 US Government G5 情報を追加しました。  <br/> |
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Windows Server AD RMS を使用した Information Rights Management (IRM) を更新しました。  <br/> |
