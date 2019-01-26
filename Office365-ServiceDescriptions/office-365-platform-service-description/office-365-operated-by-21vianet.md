@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国における安全で信頼性の高い、スケラーブルなクラウド サービスに対するニーズを満たすよう設計されています。このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 83369f8c0b4da4557b2b49e247a405d137db5f85
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362952"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506691"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -198,7 +198,7 @@ Office 365 のセキュリティ&amp;コンプライアンス センターでは
 <br/><sup>2</sup>で Office 365 エンタープライズ F1 21Vianet によって運営されて、Office 365 のビデオは表示のみに制限されていない公開 (共有)。 
 <br/><sup>3</sup>ローカルの Active Directory とのディレクトリ同期を使用する場合する必要がありますアカウントを削除するか、または Office 365 ポータルではなく、windows Azure Active Directory のモジュールを使用してのローカルの Active Directory を使用してパスワードを変更PowerShell。 
 <br/><sup>4</sup> 21Vianet、によって運営されていますが、準備中に、Office 365 ではまだ利用できません。 
-<br/><sup>5</sup>には、Office 365 の以前のバージョンからアップグレードしていない限り、Office 365 との 1 つだけの公開 web サイトを持つことができます。その場合は、2 つのパブリック web サイトがあるが、カスタム ドメイン名のうち一方のみをホストできます。ビジネスのサブスクリプションの 2 つの web サイトの操作に関する詳細については、 [2 つ Office 365 パブリック web サイトでの作業](https://go.microsoft.com/fwlink/p/?LinkID=271589)を参照してください。別のサブスクリプションがあれば、 [Office 365 については、パブリック web サイト](https://go.microsoft.com/fwlink/p/?LinkID=325009)にパブリック web サイトの詳細を説明します。<br/><sup>6</sup>早期終了の手数料の対象となる用語の割引で購入した削減の座席があります。これは、サブスクリプションの毎月の支払に適用されません。><br/><sup>7</sup> office 365 の教育計画は、Office 365 の管理センターからライセンスの座席の変更をサポートしていません。
+<br/><sup>5</sup>には、Office 365 の以前のバージョンからアップグレードしていない限り、Office 365 との 1 つだけの公開 web サイトを持つことができます。その場合は、2 つのパブリック web サイトがあるが、カスタム ドメイン名のうち一方のみをホストできます。ビジネスのサブスクリプションの 2 つの web サイトの操作に関する詳細については、 [2 つ Office 365 パブリック web サイトでの作業](https://go.microsoft.com/fwlink/p/?LinkID=271589)を参照してください。別のサブスクリプションがあれば、 [Office 365 については、パブリック web サイト](https://go.microsoft.com/fwlink/p/?LinkID=325009)にパブリック web サイトの詳細を説明します。<br/><sup>6</sup>早期終了の手数料の対象となる用語の割引で購入した削減の座席があります。これは、サブスクリプションの毎月の支払に適用されません。_gt<br/><sup>7</sup> office 365 の教育計画は、Office 365 の管理センターからライセンスの座席の変更をサポートしていません。
 <br/><sup>8</sup>マイクロソフト支配下に置いたが特定地域の顧客の現在利用可能ではありません。2015年 8 月年の市場になっているいくつかのレガシ Office 365 プランも必要はありませんマイクロソフトの影響を与えるへのアクセス。<br/><sup>9</sup> 21Vianet を運用している Office 365 のサービス レベル契約を参照してください[ここで](http://www.21vbluecloud.com/office365/O365-SLA/)。<sup>10</sup> 21Vianet を運用している Office 365 の 21Vianet の[Office 365 のオンライン ・ サービス標準契約](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)を参照してください。<br/><sup>11</sup> 中国のインターネット コンプライアンス ポリシーでは、パブリック Web サイト用インターネット コンテンツ プロバイダー (ICP) 番号を取得することが必要です。詳しくは、該当する ICP トピックをご覧ください。<br/><sup>12</sup>いくつかの TechNet のコンテンツには適用されない Office 365 の 21Vianet によって運営されています。 
 <br/><sup>13</sup>逓減経験します。組織は、以前の web アプリケーションおよびサービスにアクセスするには、Internet Explorer 8 または Internet Explorer 9 に依存するが、場合は、Internet Explorer 11 にアップグレードして、Internet Explorer 11 をエンタープライズ モードの評価を検討してください。この更新プログラムにより、従来の web アプリケーションの下位互換性を高めるを提供します。<br/><sup>14</sup>多要素認証現在サポートされていません (IOS および Android) に Outlook mobile で。 
   
@@ -228,7 +228,7 @@ Office 365 のセキュリティ&amp;コンプライアンス センターでは
 |[Office for Mac for Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |なし<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Android 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Android の Office Mobile]<sup>15</sup>(../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |なし<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |なし<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Outlook for Android  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |なし<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
@@ -269,6 +269,7 @@ Office 365 のセキュリティ&amp;コンプライアンス センターでは
 <br/><sup>3</sup> Office Professional Plus 2013 またはスタンドアロンのバージョンの Excel 2013 があれば、ダウンロードしてサポートされていないアドインと[Excel 2013 の電源マップのプレビュー](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)を使用します。 
  <br/><sup>4</sup> Skype のビジネスの基本はすべての顧客です。ビジネス デスクトップ クライアントの Skype は、Skype を含むオンライン ビジネスの計画を Office 365 のプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。Office 365 ProPlus、および Office 365 エンタープライズ E3 には、フルの Skype のアプリケーションには、高度な電話サポート、アーカイブ、およびコンプライアンス機能を含む追加の機能が含まれていますが含まれます。Skype のオンライン ビジネスのライセンスは、ユーザーごとに割り当てる必要があります。Lync Basic の機能の詳細については、 [Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)を参照してください。<br/><sup>5</sup>いくつかの学校は、教育と、Office 365 用リソース、学生、教職員およびスタッフで最大 5 台の PC または Mac コンピューターと Windows タブレットを含め、他のモバイル デバイスでは、Office の最新バージョンをインストールするのにを使用する対象とし、iPad。学校は、教職員、スタッフの教育業界向けソリューション、値サブスクリプションの教育ソリューションを開く、または学校の契約の登録を通じて、機関全体での Office のライセンスを取得すると、Office 365 の教育と修飾します。アクセスと出版社は、Pc で使用可能なのみことに注意してください。OneNote for Mac は、Mac アプリケーションのストアから別のダウンロードとして利用できます。<br/><sup>6</sup> Office 2011 for Mac をインストールできますが、アクティブ化できません。 
 <br/><sup>7</sup> office 365 用リソースがサポートされているユーザー専用仮想デスクトップ インフラストラクチャ (VDI) のです。Office 365 ProPlus には、リモート デスクトップ サービス (RDS) をボリューム ライセンス プログラムを通じて購入した場合のみサポートされています。<br/><sup>8</sup> Office 365 エンタープライズ E3 と Office 365 用リソースのボリューム ライセンス認証は、Windows Server 2008 R2 のインストールに限定し、新しい RDS の役割が有効になっているか、移動する Windows のインストールをします。どちらの場合も、これらのインストールにアクセスするユーザーは Office 365 のエンタープライズ E3 または Office 365 用リソースのライセンスを受けたユーザーにする必要があります。<br/><sup>9</sup>アクセスは、現在のチャネルまたは延期のチャネルのリリースを対象にする場合、現在使用できません。延期のチャネルの場合は、アクセスすることは 2017年 6 月にします。詳細については、 [Office 365 のビジネスおよびビジネス プレミアムの一部としてアクセスが含まれている](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)を参照してください。<br/><sup>10</sup> Visio オンラインが現在プレビューの Office 365 の 21Vianet によって運営されています。Visio のオンラインの詳細については、 [Visio のオンライン サービスの説明](../visio-online-service-description/visio-online-service-description.md)を参照してください。<br/><sup>11</sup> Office 365 を準備中、21Vianet によって運営されています。 
+<br/><sup>15</sup> Google のサービスが (プレイ ストアを含む) は中国の内部でアクセス可能ではありません。主要な電話のメーカーや検索エンジンの会社からモバイル アプリケーションをインストールできるのユーザーが管理しているいくつかのアプリケーション ストアがあります。
   
 ## <a name="office-online-features"></a>Office Online の機能
 <a name="BM4_OfficeOnline"> </a>
@@ -340,7 +341,7 @@ Office 365 のセキュリティ&amp;コンプライアンス センターでは
 |**[受信者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**Office 365 エンタープライズ f1 キーは、21Vianet によって運営されて** <br/> |
 |容量アラート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クラッター機能  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |
+|メール ヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |
 |代理人アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |受信トレイのルール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |接続されているアカウント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |
@@ -405,9 +406,9 @@ Office 365 のセキュリティ&amp;コンプライアンス センターでは
 <br/><sup>2</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
 <br/><sup>3</sup>トランスポート ルールで構成されますの柔軟な条件の条件と例外、および条件に基づいて、実行するアクションを定義することができます。使用可能な条件とアクションは、Exchange Online では、および Microsoft Exchange Server 2013 の間で異なります。使用可能な条件とアクションのリストは、対応する条件および各製品の操作のトピックを参照してください。<br/><sup>4</sup> Exchange 管理センター (EAC) 管理インターフェイスに直接アクセスすることによってのみアクセス可能です。 
 <br/><sup>5</sup> Exchange Server 2013 では、Microsoft マルウェア対策エンジンのみを使用します。Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。<br/><sup>6</sup> EOA のサブスクリプションは、非アクティブなメールボックスの機能が必要なメールボックスごとに個別に購入できます 
-<<br/>sup > 7</sup>電子的証拠開示、オンプレミスとクラウドの別のクエリが必要です。 
+<<br/>sup>7</sup>電子的証拠開示、オンプレミスとクラウドの別のクエリが必要です。 
 <br/><sup>8</sup> POP はサポートされますが、IMAP はサポートされません。 
-<br/><sup>9</sup> office 365 のビジネスの基礎とビジネス プレミアムは提供されませんアクセス権、オンプレミスのサーバーの使用率。準拠にするのに顧客が購入する必要があります、または、適切な Cal またはアップグレードを購入していたエンタープライズ SKU にこれらのアクセス権を提供します。><br/><sup>10</sup> ハイブリッド構成ウィザードは、Exchange 2013 CU5 や、より大きいオンプレミス展開に利用できます。しかし、いくつかのハイブリッド機能には制限があります。詳細については、ヘルプ トピック「21Vianet が運用している Office 365 について」を参照してください。<br/><sup>11</sup> 21Vianet が運用している Office 365 では、LinkedIn は利用できますが Facebook は利用できません。 > 
+<br/><sup>9</sup> office 365 のビジネスの基礎とビジネス プレミアムは提供されませんアクセス権、オンプレミスのサーバーの使用率。準拠にするのに顧客が購入する必要があります、または、適切な Cal またはアップグレードを購入していたエンタープライズ SKU にこれらのアクセス権を提供します。_gt<br/><sup>10</sup> ハイブリッド構成ウィザードは、Exchange 2013 CU5 や、より大きいオンプレミス展開に利用できます。しかし、いくつかのハイブリッド機能には制限があります。詳細については、ヘルプ トピック「21Vianet が運用している Office 365 について」を参照してください。<br/><sup>11</sup> 21Vianet が運用している Office 365 では、LinkedIn は利用できますが Facebook は利用できません。 > 
 <br/><sup>12</sup> ハイブリッド展開のセットアップは、Exchange 2013 CU5 向けハイブリッド構成ウィザードによって使用できます。または、Exchange 2013 SP1 がある場合は、手動でセットアップできます。詳細については、ヘルプ トピック「21Vianet が運用している Office 365 について」を参照してください。<br/><sup>13</sup> POP に接続されているアカウントはサポートされて&amp;Outlook.com (Hotmail) の IMAP アカウントを無効にします。 
 <br/><sup>14</sup> コマンドレットを使用したアドレス一覧とグローバル アドレス一覧の操作はサポートされていません。 
   
@@ -1114,10 +1115,10 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |[管理、展開、および機能拡張](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility) <br/> |なし<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[はじめに](../project-online-service-description/core-services-functionality.md#getting-started) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[問題とリスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Office 365 セキュリティ センター](../project-online-service-description/core-services-functionality.md#office-365-trust-center) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |該当なし  <br/> |該当なし  <br/> |
+|[Office 365 セキュリティ センター](../project-online-service-description/core-services-functionality.md#office-365-trust-center) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |N/A  <br/> |該当なし  <br/> |
 |[PPM パートナーのエコシステム](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[サービスの信頼性](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |該当なし  <br/> |該当なし  <br/> |
-|[サービス更新](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |該当なし  <br/> |該当なし  <br/> |
+|[サービスの信頼性](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |N/A  <br/> |該当なし  <br/> |
+|[サービス更新](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |N/A  <br/> |該当なし  <br/> |
 |[チーム メンバーのコラボレーション](../project-online-service-description/core-services-functionality.md#team-member-collaboration) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[時間とタスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |**プロジェクト管理** <br/> |**Project Online 21Vianet が運用している Essentials for Office 365** <br/> |**Project Online 21Vianet が運用している Professional for Office 365** <br/> |**Project Online 21Vianet が運用している Premium for Office 365** <br/> |**21Vianet が運用している Project Professional 2016 for Office 365** <br/> |**21Vianet が運用している Project Server 2016 for Office 365** <br/> |

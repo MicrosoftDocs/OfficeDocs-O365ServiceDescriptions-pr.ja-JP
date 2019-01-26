@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ビジネス機能の特定の Skype を取得するのには購入する必要がありますどのようなライセンスを確認しますか。Skype のビジネス ・ ライセンスの概要を参照してください。
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362932"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506661"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
 
@@ -123,7 +123,7 @@ Skype for Business Online のバージョンを選択する場合は、簡易比
 |通話受付管理  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |通話の応答/開始  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |通話の委任  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|着信の転送と同時呼び出し  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|着信の転送と同時呼び出し  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |通話履歴  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |通話の保留/取得  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |コール パーク  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
