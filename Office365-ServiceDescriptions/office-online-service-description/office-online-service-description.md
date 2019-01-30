@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office オンライン (以前の Office Web Apps) web ブラウザーで Word、Excel、OneNote、および PowerPoint のドキュメントを開きます。Office オンライン簡単に動作し、任意の場所から Office ファイルを共有するほとんどすべてのデバイスから、インターネットに接続しています。Word や Excel、OneNote、PowerPoint と Microsoft Office 365 のお客様は、表示、作成、および外出先でファイルを編集できます。
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435825"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612770"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -204,6 +204,9 @@ Office オンライン (以前の Office Web Apps) web ブラウザーで Word�
 |[共同編集](onenote-online.md#co-authoring) <br/> |はい  <br/> |はい  <br/> |
 |[ページおよびセクションの作成と管理](onenote-online.md#create-and-manage-pages-and-sections) <br/> |はい  <br/> |はい  <br/> |
 |[埋め込まれた Office ファイルのダウンロード](onenote-online.md#download-copy-of-embedded-office-files) <br/> |はい  <br/> |<sup>4</sup>を [はい] します。 <br/> |
+|[ドラッグ アンド ドロップのページ] <br/> |はい  <br/> |はい <br/> |
+|[ドラッグ アンド ドロップのセクション] <br/> |はい  <br/> |はい <br/> |
+|[ドラッグ アンド ドロップのセクション グループ] <br/> |いいえ  <br/> |はい <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |はい  <br/> |はい  <br/> |
 |[埋め込まれたファイルの編集](onenote-online.md#EmbeddedFileEdit) <br/> |いいえ  <br/> |はい  <br/> |
 |[数式](onenote-online.md#equations) <br/> |はい  <br/> |はい  <br/> |

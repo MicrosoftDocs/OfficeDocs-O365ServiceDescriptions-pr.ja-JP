@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 任意の場所に追加でき、簡単に他のユーザーと共有している OneNote のノートブックにノートのオンラインを実行するには、OneNote オンライン (OneNote Web App では以前) を使用します。すべての Office 365 のお客様では、表示でき、軽く Office オンラインを使用して Office ファイルを編集することができます。
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036310"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612750"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ OneNote Online では、クイック アクセス ツールバーにあるブラ
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>ノートブック管理:セクション/ノートブックを横断するページのファイリング、セクションの並べ替え、セクション グループの作成/削除
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-OneNote Online では使用できません。セクションの並べ替え、セクション グループの作成と削除、ドラッグ アンド ドロップでのページ ファイリングなどの高度な管理機能は、OneNote デスクトップ アプリのみで利用できます。 
+、OneNote オンラインでは、ドラッグし、ドロップして、ページとセクションの順序を変更します。  
+作成するなどの管理機能の詳細を削除して、セクション グループを再順序付けは OneNote デスクトップ アプリケーションで使用できます。
   
 ## <a name="offline-viewing-and-authoring"></a>オフラインでの表示と編集
 <a name="bkmk_Offlineviewing"> </a>
