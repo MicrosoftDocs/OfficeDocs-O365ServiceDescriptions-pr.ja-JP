@@ -1,3 +1,6 @@
+
+  
+
 # [Office 365 サービスの説明 ](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365 Business サービスの説明](microsoft-365-business-service-description.md)
 ## [Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
@@ -8,6 +11,7 @@
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High および DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Microsoft 365 政府機関向けの購入方法](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
