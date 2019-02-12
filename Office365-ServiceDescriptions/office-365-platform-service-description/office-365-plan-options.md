@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。
-ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
-ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
+ms.openlocfilehash: d775e3bef016989bd43708272ec45fe5a2df6b3a
+ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2018
-ms.locfileid: "25358654"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "26984800"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -51,27 +51,27 @@ Microsoft Office 365 は、さまざまな組織のニーズに最適なプラ�
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**サービス** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 エンタープライズ E5<sup>4</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
-|Office 365 プラットフォーム  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Exchange Online  <br/> |<sup>6</sup>を [はい] します。 <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>を [はい] します。 <br/> |はい<sup>7</sup> <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>9</sup>を [はい] します。 <br/> |
-|SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|**サービス** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 エンタープライズ E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
+|Office 365 プラットフォーム  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Exchange Online  <br/> |<sup>6</sup>を [はい] します。 <br/> |不要  <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>を [はい] します。 <br/> |はい<sup>7</sup> <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>9</sup>を [はい] します。 <br/> |
+|SharePoint Online  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>を [はい] します。 <br/> |
-|Skype ビジネス オンライン<sup>15</sup> <br/> |<sup>10</sup>を [はい] します。 <br/> |いいえ  <br/> |はい<sup>10</sup> <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>14</sup>を [はい] します。 <br/> |
+|Skype ビジネス オンライン<sup>15</sup> <br/> |<sup>10</sup>を [はい] します。 <br/> |不要  <br/> |はい<sup>10</sup> <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>14</sup>を [はい] します。 <br/> |
 |Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |
 |Project Online  <br/> |なし<sup>1</sup> <br/> |いいえ  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |なし<sup>1</sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Yammer エンタープライズ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure の情報保護<sup>3</sup> <br/> |なし<sup>2</sup> <br/> |いいえ  <br/> |いいえ<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |なし<sup>2</sup> <br/> |
+|Yammer エンタープライズ  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Azure の情報保護<sup>3</sup> <br/> |なし<sup>2</sup> <br/> |いいえ  <br/> |いいえ<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |はい  <br/> |あり  <br/> |なし<sup>2</sup> <br/> |
    
 > <sup>1</sup>プロジェクト オンラインが含まれていないが、アドオン サービスとして購入またはできる Office 365 の教育計画に無料で追加します。 > 
-<br/><sup>2</sup> azure 情報の保護が含まれていませんが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護機能の一部では、Office 365 用リソース、Office 365 の業務に関する重要事項、Office 365 のビジネス プレミアム、Office 365 エンタープライズ E1、Office 365 の教育、または Office 365 エンタープライズ f1 キーに含まれているではないサブスクリプションが必要です。><br/><sup>3</sup>以上については、Azure の情報保護機能に含まれている Office 365 のプランについては、 [Azure の情報の保護](https://technet.microsoft.com/en-us/dn858608)を参照してください。 > <br/><sup>4 には</sup>office 365 エンタープライズ E5 には、電話システム、電話会議、および計画を呼び出す機能が含まれています。呼び出す計画を実装するには、(国内または国際) のプランの追加購入が必要です。><br/><sup>5</sup>には、2 GB のストレージが含まれています。デスクトップの同期機能は含まれません。><br/><sup>6</sup> Exchange Online プラン 1 が含まれます。 > 
+<br/><sup>2</sup> azure 情報の保護が含まれていませんが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護機能の一部では、Office 365 用リソース、Office 365 の業務に関する重要事項、Office 365 のビジネス プレミアム、Office 365 エンタープライズ E1、Office 365 の教育、または Office 365 エンタープライズ f1 キーに含まれているではないサブスクリプションが必要です。_gt<br/><sup>3</sup>以上については、Azure の情報保護機能に含まれている Office 365 のプランについては、 [Azure の情報の保護](https://technet.microsoft.com/en-us/dn858608)を参照してください。 > <br/><sup>4 には</sup>office 365 エンタープライズ E5 には、電話システム、電話会議、および計画を呼び出す機能が含まれています。呼び出す計画を実装するには、(国内または国際) のプランの追加購入が必要です。_gt<br/><sup>5</sup>には、2 GB のストレージが含まれています。デスクトップの同期機能は含まれません。_gt<br/><sup>6</sup> Exchange Online プラン 1 が含まれます。 > 
 <br/><sup>7</sup> Exchange Online プラン 2 が含まれます。 > 
 <br/><sup>8</sup> Exchange Online プラン 1 と補足機能が含まれます。 > 
 <br/><sup>9</sup> Exchange Online Kiosk が含まれます。 > 
 <br/><sup>10</sup> Basic クライアント制限付きの Skype for Business Online プラン 2 が含まれます。 > <br/><sup>11</sup> クライアント制限のない Skype for Business Online プラン 2 が含まれます。 > <br/><sup>12</sup> Skype for Business Online プラン 1 と補足機能が含まれます。 > <br/><sup>13</sup> 音声サポート付きでクライアント制限のない Skype for Business Online プラン 2 が含まれます。 > 
 <br/><sup>14</sup>   Skype for Business Online プラン 1 が含まれます。 
-<br><sup>15</sup>マイクロソフトのチームが、プライマリ クライアント メッセージング、会議と、Office 365 で呼び出すことです。開始 2018 年 10 月 1日接続クライアント数が 500 以下の新しい Office 365 お客様マイクロソフトのチームに onboarded、オンライン ビジネスの Skype へのアクセスを必要はありません。テナントは既に使用している Skype のオンライン ビジネスは実行を続行するのにはマイクロソフトのチームへの移行を完了するまで (新しいユーザーのプロビジョニング) を含むためです。
+<br><sup>15</sup>マイクロソフトのチームが、プライマリ クライアント メッセージング、会議と、Office 365 で呼び出すことです。開始 2018 年 10 月 1日接続クライアント数が 500 以下の新しい Office 365 お客様マイクロソフトのチームに onboarded、オンライン ビジネスの Skype へのアクセスを必要はありません。テナントは既に使用している Skype のオンライン ビジネスは実行を続行するのにはマイクロソフトのチームへの移行を完了するまで (新しいユーザーのプロビジョニング) を含むためです。<br><sup>16</sup>は、高度なコンプライアンス、データ ・ ガバナンスの高度な高度な電子的証拠開示、ロック ボックスの顧客、顧客キー、特権のアクセス管理、および長期的な監査ログの保存機能を提供します。
   
 #### <a name="basic-client-limitations"></a>Basic クライアント制限
 
