@@ -3,7 +3,7 @@ title: Exchange Online の制限
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103115"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199922"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -246,6 +246,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     > [!NOTE]
     > 電子メール クライアントによっては、Exchange Online のメッセージ サイズ制限よりも制限値が低い場合や、個別の添付ファイルのサイズを制限できる場合があります。 
   
+- **メッセージヘッダーのサイズ制限**メッセージ内のすべてのメッセージヘッダーフィールドの最大サイズを指定します。現在の制限は 256 KB です。すべてのメッセージヘッダーの合計サイズが 256 KB を超える場合、Exchange Online はエラー "552 5.3.4 Header size が固定最大サイズを超えています" のメッセージを拒否します。メッセージ本文または添付ファイルのサイズは考慮されません。ヘッダーフィールドはプレーンテキストなので、ヘッダーのサイズは各ヘッダーフィールドの文字数とヘッダーフィールドの合計数によって決まります。各テキスト文字は1バイトを使用します。
+
 - **件名の長さの制限** 1 つのメール メッセージの件名に使用できるテキスト文字の最大数。 
     
 - **添付ファイル数の制限** 1 つの電子メール メッセージに添付できる添付ファイルの最大数。添付ファイルすべての合計サイズがメッセージ サイズの制限に違反しない場合でも、メッセージに添付できる添付ファイルの数には制限があります。この制限はマルチパート メッセージの制限によって制御されます。 
