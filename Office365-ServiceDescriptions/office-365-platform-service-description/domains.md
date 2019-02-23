@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: ドメインを追加する場合、ステップ バイ ステップ ウィザードでユーザーを追加し、Office 365 の電子メール アドレスおよびその他のサービスを業務上の名前に変換します。ウィザードを完了すると、しようとして、現在の電子メール プロバイダーではなく、Office 365 に送信されるビジネス メールが起動します。詳細についてを参照してください、ユーザーとドメインを Office 365 に追加します。21Vianet によって運営されて Office 365 を使用する場合は、ドメインの確認を参照してください。
-ms.openlocfilehash: 47c378482b8a8d09e2f2516968af99af9472c641
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: ドメインを追加すると、ユーザーを追加して、Office 365 の電子メールアドレスとその他のサービスを会社名に変換するための手順を順を追って実行できるウィザードが表示されます。ウィザードを完了すると、ビジネスメールは、現在のメールプロバイダーに移動するのではなく、Office 365 に送られ始めます。詳細については、「Office 365 にユーザーとドメインを追加する」を参照してください。21vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
+ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036244"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210240"
 ---
 # <a name="domains"></a>ドメイン
 
-ドメインを追加する場合、ステップ バイ ステップ ウィザードでユーザーを追加し、Office 365 の電子メール アドレスおよびその他のサービスを業務上の名前に変換します。ウィザードを完了すると、しようとして、現在の電子メール プロバイダーではなく、Office 365 に送信されるビジネス メールが起動します。詳細については、[ユーザーと Office 365 にドメインを追加する](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)を参照してください。21Vianet によって運営されて Office 365 を使用する場合は[、ドメインの確認](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)を参照してください。
+ドメインを追加すると、ユーザーを追加して、Office 365 の電子メールアドレスとその他のサービスを会社名に変換するための手順を順を追って実行できるウィザードが表示されます。ウィザードを完了すると、ビジネスメールは、現在のメールプロバイダーに移動するのではなく、Office 365 に送られ始めます。詳細については、「 [Office 365 にユーザーとドメインを追加する](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。21vianet が運用している Office 365 を使用する場合は、「[ドメインを確認](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)する」を参照してください。
   
 ## <a name="custom-domains"></a>カスタム ドメイン
 <a name="BKMK_CustomDomains"> </a>
@@ -47,7 +47,7 @@ Office 365 がドメインの DNS レコードを管理する場合は、最初�
   
 DNS レコードがどこでホストされているかに関係なく、Office 365 上でホストされたパブリック Web サイトまたは別のホスティング プロバイダーを使用したパブリック Web サイトの URL のドメインを使用するように DNS レコードを設定できます。 
   
-Office 365 は、DNS レコードを積極的にチェックし、DNS の問題を検索して解決します。DNS レコードが予期されるものと一致しない場合、特定された潜在的な問題を修正する方法に関する情報とともに、Office 365 管理センター内で通知を受け取ります。
+Office 365 は、dns レコードを積極的にチェックして、dns の問題を見つけて修正します。DNS レコードが予期したとおりに一致しない場合は、Microsoft 365 管理センターで通知を受け取り、特定された可能性のある問題を解決する方法についての情報を提供します。
   
 詳細については、「[ドメインに関する FAQ](https://go.microsoft.com/fwlink/p/?LinkID=270144)」を参照してください。21Vianet が運用している Office 365 については、「[DNS レコードの管理時に Office 365 の DNS レコードを作成する](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409)」を参照してください。
   

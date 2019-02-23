@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online ・保護 (EOP) には、受信者、ドメイン、および会社情報を管理するいくつかの手段が用意されています。管理者は、Exchange 管理センター (EAC)、内の特定の管理タスクを実行し、Microsoft Office 365 の管理センターで実行されるその他の管理タスクを確認できます。
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) は、受信者、ドメイン、および会社の情報を管理するためのいくつかの手段を提供します。管理者は、Exchange 管理センター (EAC) 内で特定の管理タスクを実行し、Microsoft 365 管理センターで実行されたその他の管理タスクを確認できます。
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036362"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210330"
 ---
 # <a name="recipient-domain-and-company-management"></a>受信者、ドメイン、および会社の管理
 
-Microsoft Exchange Online ・保護 (EOP) には、受信者、ドメイン、および会社情報を管理するいくつかの手段が用意されています。管理者は、Exchange 管理センター (EAC)、内の特定の管理タスクを実行し、Microsoft Office 365 の管理センターで実行されるその他の管理タスクを確認できます。
+Microsoft Exchange Online Protection (EOP) は、受信者、ドメイン、および会社の情報を管理するためのいくつかの手段を提供します。管理者は、Exchange 管理センター (EAC) 内で特定の管理タスクを実行し、Microsoft 365 管理センターで実行されたその他の管理タスクを確認できます。
   
 EOP のすべての機能についての説明をご覧になりますか?「[Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
   
 ## <a name="mail-recipients"></a>メールの受信者
 <a name="BKMK_mailrecipients"> </a>
 
-メールの受信者は、メール ユーザーまたはメール グループに分類され、ディレクトリ同期によって管理することも、EAC またはリモート Windows PowerShell で直接管理することもできます。社内で受信者を管理している場合は、ディレクトリ同期を実行してメール受信者を EAC に反映させる必要があります。Office 365 管理センターで個別に管理されているユーザーは EAC に表示できませんが、EAC 内の管理役割グループのメンバーシップに対して追加または削除できます。EOP の受信者の詳細については、「[EOP で受信者を管理する](https://go.microsoft.com/fwlink/p/?LinkId=280011)」を参照してください。
+メール受信者はメールユーザーまたはグループとして分類され、ディレクトリ同期によって、EAC 内またはリモート Windows PowerShell 経由で管理できます。オンプレミスの受信者を管理している場合は、メール受信者を EAC に反映させるために、ディレクトリ同期を実行する必要があります。Microsoft 365 管理センターだけで管理されているユーザーは、EAC では表示できませんが、EAC の管理者の役割グループのメンバーシップに追加または削除することができます。EOP の受信者の詳細については、「 [EOP の受信者](https://go.microsoft.com/fwlink/p/?LinkId=280011)」を参照してください。
   
 ## <a name="admin-role-group-permissions"></a>管理役割グループのアクセス許可
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ EOP では、管理役割の構成のみが可能です。EAC では、既定の
 ## <a name="domain-management"></a>ドメインの管理
 <a name="BKMK_domainmanagement"> </a>
 
-管理対象ドメインは、EOP によって保護されているドメインです。EAC では、管理対象ドメインの表示とドメインの種類の編集ができます。ドメインのプロビジョニングと管理は Office 365 管理センターで行われ、その変更が EAC に反映されます。詳細については、「[EOP で承認済みドメインを管理する](https://go.microsoft.com/fwlink/p/?LinkId=282239)」を参照してください。
+管理対象ドメインは、EOP によって保護されているドメインです。管理対象ドメインを表示し、ドメインの種類を EAC で編集できます。ドメインのプロビジョニングと管理は、Microsoft 365 管理センターで行われ、変更が EAC に反映されます。詳細については、「 [EOP で管理ドメインを表示または編集](https://go.microsoft.com/fwlink/p/?LinkId=282239)する」を参照してください。
   
 ## <a name="match-subdomains"></a>一致サブドメイン
 <a name="BKMK_EOP_Match_Subdomains"> </a>

@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: このセクションでは、管理コントロールとは、Exchange Online の設定をカスタマイズしを実行して、組織の Exchange のオンライン環境を保持する利用可能な現在のサポートについて説明します。セルフ サービス管理ツールとしている組織に利用可能な機能に関する情報が含まれていますMicrosoft を管理する責任とコミットメントのパフォーマンスです。およびサービスと製品のアップグレードします。
-ms.openlocfilehash: 6b7bb1d68e6d676c39e9ebb254305b2799cc0931
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: このセクションでは、exchange online の設定をカスタマイズし、組織の exchange online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。これには、組織で利用できるセルフサービス管理ツールおよび機能に関する情報が含まれています。Microsoft の管理責任と業績のコミットメント。サービスと製品のアップグレード。
+ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036221"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210200"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
-このセクションでは、管理コントロールとは、Exchange Online の設定をカスタマイズしを実行して、組織の Exchange のオンライン環境を保持する利用可能な現在のサポートについて説明します。セルフ サービス管理ツールとしている組織に利用可能な機能に関する情報が含まれていますMicrosoft を管理する責任とコミットメントのパフォーマンスです。およびサービスと製品のアップグレードします。
+このセクションでは、exchange online の設定をカスタマイズし、組織の exchange online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。これには、組織で利用できるセルフサービス管理ツールおよび機能に関する情報が含まれています。Microsoft の管理責任と業績のコミットメント。サービスと製品のアップグレード。
   
 ## <a name="self-service-administration-tools"></a>セルフ サービス管理ツール
 
@@ -34,7 +34,7 @@ Microsoft はすべての Exchange Online データ センターを直接制御�
   
 - [Microsoft Office 365 ポータル](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft Office 365 管理センター](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Microsoft 365 管理センター](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
     
 - [Exchange 管理センター](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,10 +45,10 @@ Microsoft はすべての Exchange Online データ センターを直接制御�
 
 Microsoft Office 365 ポータル ([https://portal.office.com](https://portal.office.com)) は、管理者やパートナーが Office 365 サービスを購入および管理する Web サイトです。ユーザーは、このサイトで Office 365 コラボレーション ツールにアクセスして使用することができます。
   
-### <a name="microsoft-office-365-admin-center"></a>Microsoft Office 365 管理センター
+### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理センター
 <a name="BKMK_Office365admincenterl"> </a>
 
-Microsoft Office 365 管理センターは Web ポータルです。各会社のサービス管理者はこのポータルからユーザー アカウントやサブスクライブする Office 365 の各サービスの設定を管理することができます。Office 365 管理センター内からは管理者が Exchange 管理センター (EAC) へのリンクをたどることができ、Exchange 管理センターで Exchange Online に固有な設定を管理することができます。Office 365 管理センターを使用した稼働の詳細については、次のビデオを参照してください。[ビデオ: あらゆる規模の法人向けプランの Office 365 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 管理センターは、各企業のサービス管理者が、購読している各 Office 365 サービスのユーザーアカウントと設定を管理できる web ポータルです。Microsoft 365 管理センターでは、管理者は exchange 管理センター (EAC) へのリンクをたどって、exchange Online に固有の設定を管理できます。Microsoft 365 管理センターを使用した取得と実行の詳細については、「 [Office 365 Enterprise の概要](https://go.microsoft.com/fwlink/p/?LinkId=271806)」を参照してください。
   
 ### <a name="exchange-admin-center"></a>Exchange 管理センター
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

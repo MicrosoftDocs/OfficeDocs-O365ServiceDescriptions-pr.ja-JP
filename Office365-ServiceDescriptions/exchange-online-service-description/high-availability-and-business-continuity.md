@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online に、広範囲にわたる保存とリカバリを組織の電子メール インフラストラクチャのサポートを提供します。データ ・ センターでのメールボックスのレプリケーションが含まれます、復元する機能は、削除済みメールボックスと削除済みアイテムです。
-ms.openlocfilehash: 3f926223a278bd671fa6121b2ee59b96da1f9fe1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online は、組織の電子メールインフラストラクチャに対して広範な保存と回復のサポートを提供します。これには、データセンターのメールボックスレプリケーションと、削除済みメールボックスおよび削除済みアイテムを復元する機能が含まれます。
+ms.openlocfilehash: ec9d598fe2c0af2cc9af9a879c91a99a78baf883
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036303"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210230"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性とビジネス継続性
 
-Microsoft Exchange Online に、広範囲にわたる保存とリカバリを組織の電子メール インフラストラクチャのサポートを提供します。データ ・ センターでのメールボックスのレプリケーションが含まれます、復元する機能は、削除済みメールボックスと削除済みアイテムです。
+Microsoft Exchange Online は、組織の電子メールインフラストラクチャに対して広範な保存と回復のサポートを提供します。これには、データセンターのメールボックスレプリケーションと、削除済みメールボックスおよび削除済みアイテムを復元する機能が含まれます。
   
 ## <a name="mailbox-replication-at-data-centers"></a>データ センターでのメールボックス レプリケーション
 
@@ -32,7 +32,7 @@ Microsoft がデータを保護する方法の詳細については、「[Office
   
 ## <a name="deleted-mailbox-recovery"></a>削除済みメールボックスの回復
 
-管理者が Exchange Online メールボックスを削除するには、Office 365 管理センターを使って対応するユーザー アカウントや Exchange Online ライセンスを削除するか、リモート Windows PowerShell で **Remove-Mailbox** コマンドレットを使います。メールボックスが削除されると、Exchange Online がメールボックスとその内容を既定で 30 日間保持します。30 日後、メールボックスは回復不可能になります。回復したメールボックスには、削除された時点でメールボックスに格納されていたすべてのデータが含まれます。管理者は、保持期間の間、Office 365 管理センターを使用して削除されたメールボックスを回復できます。削除されたメールボックスを回復するには、管理者が対応する Office 365 ユーザー アカウントを復元するか、Exchange Online ライセンスをユーザー アカウントに割り当て直す必要があります。詳細については、「 [Exchange Online でユーザー メールボックスを削除または復元する](https://go.microsoft.com/fwlink/p/?LinkId=286992)」を参照してください。
+管理者は、Microsoft 365 管理センターを使用して、対応するユーザーアカウントを削除したり、exchange online ライセンスを削除したり、リモート Windows PowerShell で**メールボックスの削除**コマンドレットを使用して、exchange online メールボックスを削除したりできます。メールボックスが削除されると、Exchange Online は既定でメールボックスとそのコンテンツを30日間保持します。30日後、メールボックスは復元できません。回復されたメールボックスには、削除時に格納されたすべてのデータが含まれています。管理者は、Microsoft 365 管理センターを使用して、保存期間内に削除されたメールボックスを回復できます。削除されたメールボックスを回復するには、管理者は、対応する Office 365 ユーザーアカウントを復元するか、Exchange Online ライセンスをユーザーアカウントに再割り当てする必要があります。詳細については、「 [Exchange Online でユーザーメールボックスを削除または復元](https://go.microsoft.com/fwlink/p/?LinkId=286992)する」を参照してください。
   
 ## <a name="deleted-item-recovery"></a>削除済みアイテムの回復
 

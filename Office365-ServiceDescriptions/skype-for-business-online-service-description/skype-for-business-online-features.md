@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: 管理者の場合は、Skype のセットアップのオンライン ビジネスの機能では、オンライン ビジネスの Skype を設定する詳細な手順が表示されます。
-ms.openlocfilehash: eb0822385e6d2b07a356c069fabf3726ee27dc4b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 管理者である場合は、「skype for business online のセットアップ」で skype for business online の機能をセットアップするための詳細な手順を確認できます。
+ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036289"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210260"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 
-管理者の場合は、 [Skype のオンライン ビジネスを設定](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e)することでビジネスのオンライン機能の Skype を設定する詳細な手順が表示されます。
+管理者である場合は、「skype for business [online のセットアップ](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e)」で skype for business online の機能をセットアップするための詳細な手順を確認できます。
   
 ## <a name="clients-for-skype-for-business-online"></a>Skype for Business Online のクライアント
 <a name="BKMK_Clients"> </a>
@@ -110,7 +110,7 @@ Microsoft はすべての Skype for Business Online データ センターを直
   
 - Microsoft Office 365 ポータル
     
-- Microsoft Office 365 管理センター
+- Microsoft 365 管理センター
     
 - Skype for Business 管理センター
     

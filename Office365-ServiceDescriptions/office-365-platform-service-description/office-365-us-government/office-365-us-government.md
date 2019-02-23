@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の固有の要件および進化する要件に対応して、Microsoft は office 365 us government プラン (oroffice 365 us government) を作成しています。このセクションでは、Office 365 US Government 固有の機能の概要について説明します。この補足セクションは、「Office 365 サービスの説明」に記載することをお勧めします。
-ms.openlocfilehash: 3a8270036befbb433a4ee57f797c7bd6a6028e87
-ms.sourcegitcommit: 0bfdd180b9d78419156f54116086eb8ab879a3d9
+ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/22/2019
-ms.locfileid: "30203838"
+ms.locfileid: "30210440"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -199,7 +199,7 @@ Office 365 US Government プランのシステム要件については、[office
 |:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government F1** <br/> |
 |**Office 365 管理** <br/> |||||
-|Office 365 管理センターを使用して Ofiice 365 を管理する  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
+|Microsoft 365 管理センターを使用して Office 365 を管理する  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
 |Office 365 からのコア サービスの設定の管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |なし<sup></sup> <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> )  <br/> |なし<sup></sup> <br/> |
@@ -211,10 +211,10 @@ Office 365 US Government プランのシステム要件については、[office
 |Microsoft MyAnalytics  <br/> |<sup>9、12、15</sup> <br/> |<sup>9、12、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |<sup>9、12、15</sup> <br/> |
 |Microsoft Planner  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |Microsoft PowerApps  <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |なし <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |
+|Microsoft StaffHub  <br/> |なし <br/> |いいえ <br/> |いいえ <br/> |いいえ<br/> |
 |Microsoft Stream  <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |
-|Microsoft Sway  <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ<br/> |
-|Microsoft Teams  <br/> |はい <br/> |はい <br/> |はい <br/> |はい<br/> |
+|Microsoft Sway  <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |
+|Microsoft Teams  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
 |Office Delve  <br/> |Yes<sup>17</sup> <br/> |Yes<sup>17</sup> <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Stream  <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |いいえ  <br/> |
@@ -243,7 +243,7 @@ Office 365 US Government プランのシステム要件については、[office
 |カスタム ドメインに必要なドメイン所有権の検証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[サービスの正常性および継続性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government F1** <br/> |
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報  <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
-|Office 365 管理センター ダッシュボードで利用可能な個々のアラートの状態  <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
+|Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態  <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
 |[ **サービスの正常性**] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government F1** <br/> |
 |アクティブなメールボックスと非アクティブなメールボックス  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
@@ -313,7 +313,7 @@ Office 365 US Government プランのシステム要件については、[office
    
 > <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、office 365 US government G1 または office 365 US government F1 には含まれていません。><br/><sup>2</sup> 既存の BBCS および BIS のお客様は、引き続きサービスをご利用いただけます。新規のお客様の受け付けはしていません。<br/><sup>3</sup>ディレクトリ同期を使用する場合は、Office 365 ポータルではなく Active directory を使用するか、Windows PowerShell の Azure Active directory モジュールを使用して、アカウントを削除するか、パスワードを変更する必要があります。 
 <br/><sup>4</sup> パスワード同期を使用する場合は、ユーザーは、ローカルの Active Directory でパスワードを変更する必要があります。 
-<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。その場合は、2つのパブリック web サイトがありますが、それらのうちの1つのみをカスタムドメイン名でホストできます。ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。別のサブスクリプションをお持ちの場合は、「 [Office web サイトホスティングとパブリック web サイトについて」](https://go.microsoft.com/fwlink/p/?LinkID=325009)を参照してください。<br/><sup>7</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。<br/><sup>8</sup>以下のプランでは、office 365 管理センターからのライセンスシートの変更をサポートしていません。 > office 365 US government G1 > office 365 us government G3 > office 365 us government K1 <br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
+<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。その場合は、2つのパブリック web サイトがありますが、それらのうちの1つのみをカスタムドメイン名でホストできます。ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。別のサブスクリプションをお持ちの場合は、「 [Office web サイトホスティングとパブリック web サイトについて」](https://go.microsoft.com/fwlink/p/?LinkID=325009)を参照してください。<br/><sup>7</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。<br/><sup>8</sup>以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 > Office 365 US government G1 > office 365 us government G3 > office 365 us government K1 <br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
 <br/><sup>10</sup> office 365 US Government G1、G3、および F1、対象指定リリース、および office 365 for business ロードマップが適用されます。ただし、[コンプライアンス要件](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)により、特定のサービス更新に関して何らかの相違や遅延が発生する場合があります。
 <br/><sup>11</sup> 現時点では Office 365 US Government 製品では使用できませんが、まもなく公開されます。 ><br/><sup>12</sup> 含まれていませんが、GCC の個別のアドオンとして購入できます。 
 <br/><sup>13</sup> Office 365 US Government 製品ではサポートされていません。 

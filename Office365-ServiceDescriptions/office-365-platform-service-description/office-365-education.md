@@ -10,43 +10,43 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。Office 365 の教育計画の違いを探して、この記事され、それぞれの機能が含まれているが表示されます。Office 365 はマイクロソフトの次世代のコミュニケーションおよびコラボレーション サービスのクラウド ・ ベースのバージョンと使い慣れた Microsoft Office デスクトップ スイートを組み合わせて、Microsoft Exchange Online、Microsoft SharePoint のオンライン、オンラインの Office とビジネス オンラインの Microsoft の Skype、ユーザーのインターネットを介してどこから生産性向上を支援します。
-ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
-ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
+description: Microsoft Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。office 365 は、一般的な microsoft office デスクトップスイートと、microsoft の次世代コミュニケーションおよびコラボレーションサービス (microsoft Exchange Online、microsoft SharePoint online、Office Online、その他) を組み合わせたものです。Microsoft Skype for business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
+ms.openlocfilehash: 2d28f6fe21095d91ca0d0ae7d02aa6dfae78483c
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2018
-ms.locfileid: "26988578"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210400"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。Office 365 の教育計画の違いを探して、この記事され、それぞれの機能が含まれているが表示されます。Office 365 はマイクロソフトの次世代のコミュニケーションおよびコラボレーション サービスのクラウド ・ ベースのバージョンと使い慣れた Microsoft Office デスクトップ スイートを組み合わせて、Microsoft Exchange Online、Microsoft SharePoint のオンライン、オンラインの Office とビジネス オンラインの Microsoft の Skype、ユーザーのインターネットを介してどこから生産性向上を支援します。
+Microsoft Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。office 365 は、一般的な microsoft office デスクトップスイートと、microsoft の次世代コミュニケーションおよびコラボレーションサービス (microsoft Exchange Online、microsoft SharePoint online、Office Online、その他) を組み合わせたものです。Microsoft Skype for business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
   
-この資料では、Office 365 の教育計画 (A1、A3、および A5) の機能が一覧表示されます。ビジネスとエンタープライズのプラン間での機能を比較するに[ビジネス プランの Office 365 を比較](https://go.microsoft.com/fwlink/?linkid=799177)を参照するか、機能の詳細なリストは、 [Office 365 サービスの説明](https://technet.microsoft.com/en-us/library/jj819284.aspx)に関連するサービスの説明を参照してください。
+この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。複数のビジネスプランおよびエンタープライズプランの機能を比較するには、「 [office 365 for business プランを比較](https://go.microsoft.com/fwlink/?linkid=799177)する」または「 [office 365 サービス](https://technet.microsoft.com/en-us/library/jj819284.aspx)の説明」の「関連するサービスの説明」を参照してください。
   
 サポート記事および情報を検索するには、「[Office のヘルプとトレーニングにようこそ](https://support.office.com/)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
-各 Office 365 の教育計画には、Exchange Online と SharePoint Online など、個々 のサービスの多くが含まれています。次の表は、各 Office 365 のプランで利用可能なサービスを示しています。
+各 Office 365 エデュケーションプランには、Exchange online や SharePoint online などの個別のサービスが複数含まれています。次の表に、各 Office 365 プランで利用可能なサービスを示します。
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**サービス** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Exchange Online  <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
+|Exchange Online  <br/> |はい (<sup>5</sup> ) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Skype for Business Online  <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |
+|Skype for Business Online  <br/> |Yes<sup>7</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Project Online  <br/> |なし<sup>1</sup> <br/> |なし<sup>1</sup> <br/> |なし<sup>1</sup> <br/> |
+|Project Online  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Yammer アカデミック版  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure の情報保護<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Azure Information Protection<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>オンライン プロジェクトは含まれていませんが、Office 365 の教育計画に無料で追加することができます。> 以上については、Azure の情報保護機能に含まれている Office 365 のプランについては、 <sup>2</sup>は、 [Azure の情報の保護](https://technet.microsoft.com/en-us/dn858608)を参照してください。> <sup>3</sup> office 365 の A5 には、電話システム、電話会議、および計画を呼び出す機能が含まれています。呼び出す計画を実装するには、(を呼び出す計画を国内または国際を呼び出す計画) の計画の追加購入が必要です。> <sup>4</sup>には、Exchange オンライン プラン 2 が含まれています。> <sup>5</sup>は、Exchange オンライン計画に 1 を足した補足的な機能です。> <sup>6 には</sup>、ビジネス オンライン プラン 2 の Skype が含まれています。> <sup>7</sup>ビジネス オンライン プラン 1 と補足的な機能から Skype が含まれています。 
+> <sup>1</sup> Project Online は含まれていませんが、Office 365 教育機関向けプランに無料で追加することができます。> <sup>2</sup> Office 365 プランに含まれている azure information protection 機能の詳細については、「 [azure information protection](https://technet.microsoft.com/en-us/dn858608)」を参照してください。> <sup>3</sup> Office 365 A5 には、電話システム、電話会議、通話プランの機能が含まれています。通話プランを実装するには、追加のプラン購入が必要です (国内通話プランまたは国際通話プランのいずれか)。> <sup>4</sup>には、Exchange Online プラン2が含まれます。> <sup>5</sup>には、Exchange Online プラン1と補足機能が含まれています。> <sup>6</sup>には、Skype for business Online プラン2が含まれています。> <sup>7</sup>には、Skype for business Online プラン1と補足機能が含まれています。 
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -58,13 +58,13 @@ Office 365 のシステム要件については、「[Office 365 のシステム
   
 ## <a name="platform-features"></a>プラットフォーム機能
 
-Office 365 の教育計画で使用されるすべてのプラットフォームの機能を次の表に一覧します。価格とプランの機能の詳細については、 [Office 365 の教育計画](https://products.office.com/en/academic/compare-office-365-education-plans)を参照してください。
+次の表に、Office 365 エデュケーションプラン全体で利用可能なすべてのプラットフォーム機能の一覧を示します。プラン内の価格と機能の詳細については、「 [Office 365 の教育計画](https://products.office.com/en/academic/compare-office-365-education-plans)」を参照してください。
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
-|Office 365 管理センターや Windows PowerShell を使用して Ofiice 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -76,7 +76,7 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |Microsoft PowerApps  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft StaffHub  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Stream<sup>8</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Sway  <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |
+|Microsoft Sway  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |Microsoft Teams  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -110,10 +110,10 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 管理センター ダッシュボードで利用可能な個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ **サービスの正常性**] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|アクティブおよび非アクティブ メールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|アクティブおよび非アクティブ メールボックス  <br/> |○  <br/> |はい  <br/> |はい  <br/> |
 |新規メールボックスおよび削除済みメールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |新規および削除済みグループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メールボックスの使用状況  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -158,14 +158,14 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |**[準拠[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
-|SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|SAS 70/SSAE16 の評価  <br/> |○  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU セーフ ハーバー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |HIPAA ビジネス アソシエイト契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |FISMA 運用認可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft データ処理契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|PCI 準拠 PAN データ  <br/> |X  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[サービス継続性](service-health-and-continuity.md)** <br/> ||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |BlackBerry Internet Service (BIS) の使用  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -178,18 +178,18 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 > [!NOTE]
 > <sup>1</sup> Office 365 では、製造元によってサポートされていないオペレーティング システムのサポートを行いません。 > <sup>2</sup> ローカル Active Directory でディレクトリ同期を使用する場合、アカウントを削除するか、パスワードを変更する必要があります。その際、O365 ポータルではなくローカル Active Directory を使用するか、または Windows PowerShell 用 Azure Active Directory モジュールを使用してください。 > <sup>3</sup> ユーザーのセルフサービス パスワード管理ポリシーを設定する方法については、「 [Azure Active Directory のパスワードを管理する](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)」をご覧ください。 > <sup>4</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。これは月単位で支払われるサブスクリプションには適用されません。 > <sup>5</sup>[https://securescore.office.com](https://securescore.office.com/) (リンクでは管理者のアクセス許可が必要) でご利用いただけます。詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=836894)」を参照してください。 > <sup>6</sup> Microsoft Sway は特定の地域のお客様は現在利用できません。2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 > <sup>7</sup> Advanced eDiscovery は、米国および西ヨーロッパ (オランダ) 地域でサポートされています (カナダとアジア太平洋地域のお客様のデータは、米国にエクスポートされます。ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 > <sup>8</sup> 各プランに含まれている Microsoft Stream 機能については、「 [Stream ライセンスの概要](https://stream.microsoft.com/en-us/documentation/stream-license-overview/)」を参照してください。 
   
-## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 のセキュリティ&amp;コンプライアンス センター機能
+## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 セキュリティ&amp;コンプライアンスセンターの機能
 <a name="SCC"> </a>
 
-[Office 365 のセキュリティ&amp;コンプライアンス センター](https://go.microsoft.com/fwlink/?LinkID=824876)は、Office 365 の間で、組織のコンプライアンス機能を管理するために設計されています。既存の SharePoint と Exchange 対応の機能へのリンクは、Office 365 の間でコンプライアンス機能で結集しています。 
+[office 365 セキュリティ&amp;コンプライアンスセンター](https://go.microsoft.com/fwlink/?LinkID=824876)は、組織の office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。既存の SharePoint および Exchange のコンプライアンス機能へのリンクによって、Office 365 間のコンプライアンス機能が組み合わされています。 
   
 > [!NOTE]
-> 現在、コンプライアンスの機能の多くは、Exchange 管理センター (EAC) など、サービス固有の管理インタ フェース経由でアクセスできます。ただし、これは今後変更、セキュリティをより多くのサービスに依存しないコンプライアンス機能を追加すると&amp;コンプライアンス センターです。 
+> 現時点では、多くのコンプライアンス機能は、Exchange 管理センター (EAC) などのサービス固有の管理インターフェイスを介してアクセスできます。ただし、今後のサービスに依存しない法令遵守機能がセキュリティ&amp;コンプライアンスセンターに追加されたときに、これが変更されます。 
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[セキュリティへのアクセスを&amp;コンプライアンス センター](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |はい  <br/> |はい  <br/> |○  <br/> |
+|[セキュリティ&amp; /コンプライアンスセンターへのアクセス](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Advanced Security Management](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[脅威の管理](https://go.microsoft.com/fwlink/?linkid=845550)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度な脅威の管理](https://go.microsoft.com/fwlink/?linkid=846673)<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -201,17 +201,17 @@ Office 365 の教育計画で使用されるすべてのプラットフォーム
 |[電子情報開示検索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示のエクスポート](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|電子的証拠開示 (eDiscovery のクエリ ベースの保留リストを含む) を保持します。  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |手動のアイテム保持/削除ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>データ管理により、ユーザーが作成、発行、およびドキュメントにラベルを手動で適用するには配布またはネットワーク上のドライブを使用してデータのインポート作成し、作業負荷、ユーザー、およびグループ間での保存と削除のポリシーを適用します。メールボックスに適用される保持ポリシーには、Office 365 エンタープライズ E3 または E5 が必要です。> <sup>2</sup>の高度なデータ管理では、重要な情報を保持し、保存や削除のポリシーのいずれかまたは両方に基づいて情報を分類することによって重要でない情報を削除することができます。ポリシーを推奨すると自動化されたインテリジェントな操作が含まれていますデータに自動的にラベルを適用します。機密性の高いデータ型またはクエリに基づいてラベルを適用します。スマート フィルターを使用します。セキュリティとコンプライアンスのために、従業員の通信を確認するための監視機能も含まれています。> <sup>3</sup>制限はありません。> <sup>4</sup>高度な電子的証拠開示は、米国と西ヨーロッパ (オランダ) の地域でサポートされています。(米国にカナダとアジア太平洋地域から顧客データをエクスポートします。ヨーロッパ、中東、およびアフリカからの顧客データがエクスポートされた西ヨーロッパ [オランダ] にします。)> <sup>5</sup>脅威の高度な保護は、Office 365 の A5 で使用およびスタンドアロンとしてサービス Office 365 の A1 と Office 365 の A3 です。 
+> <sup>1</sup>データガバナンスにより、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。そして、ワークロード、ユーザー、およびグループにわたって保持/削除ポリシーを作成して適用します。メールボックスに適用されるアイテム保持ポリシーには、Office 365 Enterprise E3 または E5 が必要です。> <sup>2</sup>の高度なデータガバナンスを使用すると、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーまたはその両方に基づいて情報を分類します。これには、ポリシーの推奨などのインテリジェント/自動アクションが含まれます。データにラベルを自動的に適用する。機密データの種類またはクエリに基づいてラベルを適用する。スマートインポートフィルターの使用。また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。> <sup>3</sup>は無制限です。> <sup>4</sup> Advanced eDiscovery は、米国および西ヨーロッパ (オランダ) 地域でサポートされています。(カナダおよびアジア太平洋からのお客様のデータは、米国にエクスポートされます。ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)> <sup>5</sup> Advanced Threat Protection は、office 365 A5、および office 365 A1 および office 365 A3 のスタンドアロンサービスとして使用できます。 
   
 ## <a name="office-application-features"></a>Office アプリケーション機能
 <a name="SCC"> </a>
 
-Office 365 の教育計画の間で使用可能な機能を比較するのにには、次の表を使用します。
+次の表を使用して、Office 365 エデュケーションプラン全体で利用可能な機能を比較します。
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -221,20 +221,20 @@ Office 365 の教育計画の間で使用可能な機能を比較するのにに
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |いいえ<sup>3、4</sup> <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |いいえ<sup>3、4</sup> <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |<sup>2</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|[Windows 8 のアプリケーション](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |
-|[Android 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |
-|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |
-|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |
-|Outlook for Android  <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |はい  <br/> |
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
+|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |はい<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
+|[Windows 8 のアプリケーション](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
+|[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
+|[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
+|[Android 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
+|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
+|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
+|Outlook for Android  <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
 |**企業価値** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |なし<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
+|PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |多言語ユーザー インターフェイス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |クライアント プッシュ展開  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -248,7 +248,7 @@ Office 365 の教育計画の間で使用可能な機能を比較するのにに
 |Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |グループ ポリシーのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用した Information Rights Management  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Windows Server AD RMS を使用した Information Rights Management  <br/> |<sup>1</sup>を [はい] します。 <br/> |<sup>1</sup>を [はい] します。 <br/> |<sup>1</sup>を [はい] します。 <br/> |
+|Windows Server AD RMS を使用した Information Rights Management  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
 |Office アドイン、ActiveX、および BHO のサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Office テレメトリ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -270,7 +270,7 @@ Office 365 の教育計画の間で使用可能な機能を比較するのにに
 ## <a name="office-online-features"></a>Office Online の機能
 <a name="OfcOnline"> </a>
 
-次の表には、機能豊富な Microsoft Office デスクトップ アプリケーションを Office 365 の教育プランで利用可能な Office オンラインの機能の比較へのリンクが用意されています。比較を使用して、どのような機能は、Office Online の使用を検出し、その機能のしくみについて簡単な説明を表示する機能の名前をクリックします。表示し、軽く編集 Word 文書や PowerPoint プレゼンテーションは、Office オンラインを他のユーザーだけで済む場合があります、組織内の一部のユーザーが Excel デスクトップ アプリケーションの高度なグラフ作成機能を必要があることを検出することがあります。
+次の表に、office 365 エデュケーションプランで利用可能な office Online の機能と、機能豊富な Microsoft office デスクトップアプリとの比較へのリンクを示します。比較を使用して、Office Online で使用可能な機能を検出し、機能名をクリックすると、その機能がどのように機能するかについての簡単な説明を読むことができます。組織内の一部のユーザーが Excel デスクトップアプリの高度なグラフ機能を必要とする場合や、Office Online を使用して Word ドキュメントと PowerPoint プレゼンテーションを表示し、軽く編集するだけでよい場合があることがわかっている場合があります。
   
 > [!NOTE]
 >  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。 >  Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。 >  Microsoft Office Online Server をオンプレミスで使用しているお客様は、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入している場合、Office Online の編集ライセンスを取得します。 
@@ -287,13 +287,13 @@ Office 365 の教育計画の間で使用可能な機能を比較するのにに
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 <a name="OfcOnline"> </a>
 
-Office 365 の教育計画の間で利用可能な Exchange のオンライン機能を次の表に一覧します。
+次の表に、Office 365 エデュケーションプラン全体で利用可能な Exchange Online の機能を示します。
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[計画と展開](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
-|サポートされているハイブリッド展開  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|サポートされているハイブリッド展開  <br/> |Planning and Deployment  <br/> |はい  <br/> |はい  <br/> |
 |サポートされている IMAP 移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |カット オーバー移行のサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サポートされている段階的な移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -303,22 +303,22 @@ Office 365 の教育計画の間で利用可能な Exchange のオンライン�
 |役割の割り当てポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[メッセージ ポリシーと準拠](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange Online ベースのメールボックスのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|オンプレミス メールボックスのクラウドベースのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|オンプレミス メールボックスのクラウドベースのアーカイブ  <br/> |はい   <br/> |はい  <br/> |はい  <br/> |
 |メッセージング レコード管理 (MRM) 保持タグとアイテム保持ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |保存中のデータの暗号化 (BitLocker)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用した IRM  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Windows Server AD RMS を使用した IRM  <br/> |<sup>1</sup>を [はい] します。 <br/> |<sup>1</sup>を [はい] します。 <br/> |<sup>1</sup>を [はい] します。 <br/> |
-|Office 365 Message Encryption  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Windows Server AD RMS を使用した IRM  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
+|Office 365 Message Encryption  <br/> |○  <br/> |はい  <br/> |はい  <br/> |
 |S/MIME  <br/> |はい  <br/> |はい  <br/> |はい  <br/> ||
 |インプレース保持と訴訟ホールド  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|インプレース電子情報開示 (eDiscovery)  <br/> |<sup>8</sup>を [はい] します。 <br/> |<sup>8</sup>を [はい] します。 <br/> |<sup>8</sup>を [はい] します。 <br/> |
-|トランスポート ルール  <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |
-|データ損失防止  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ジャーナル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|インプレース電子情報開示 (eDiscovery)  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
+|トランスポート ルール  <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |
+|データ損失防止  <br/> |○  <br/> |はい  <br/> |はい  <br/> |
+|ジャーナル  <br/> |可能  <br/> |はい  <br/> |はい  <br/> |
 |**[スパムおよびマルウェア対策](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|組み込みのスパム対策保護  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|組み込みのスパム対策保護  <br/> |ExchangeOnlineKioskPlan  <br/> |はい  <br/> |はい  <br/> |
 |スパム対策ポリシーのカスタマイズ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|組み込みのマルウェア対策保護  <br/> |<sup>3</sup>を [はい] します。 <br/> |<sup>3</sup>を [はい] します。 <br/> |<sup>3</sup>を [はい] します。 <br/> |
+|組み込みのマルウェア対策保護  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |
 |マルウェア対策ポリシーのカスタマイズ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検疫 - 管理者による管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検疫 - エンドユーザーによる自己管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -330,17 +330,17 @@ Office 365 の教育計画の間で利用可能な Exchange のオンライン�
 |受信セーフ リストへのパートナーの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ハイブリッド電子メール ルーティング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[受信者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|容量アラート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|容量アラート  <br/> |ExchangeOnlineKioskPlan  <br/> |はい  <br/> |はい  <br/> |
 |クラッター機能  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メール ヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |代理人アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|受信トレイのルール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|接続されているアカウント  <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>5</sup>を [はい] します。 <br/> |
+|受信トレイのルール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|接続されているアカウント  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |
 |非アクティブなメールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |オフライン アドレス帳  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アドレス帳ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |階層型アドレス帳  <br/> |はい  <br/> |はい  <br/> |○  <br/> |
-|アドレス一覧とグローバル アドレス一覧  <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |
+|アドレス一覧とグローバル アドレス一覧  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |配布グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |外部連絡先 (グローバル)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -351,7 +351,7 @@ Office 365 の教育計画の間で利用可能な Exchange のオンライン�
 |不在時の返信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |予定表の共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート機能とトラブルシューティング ツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Office 365 管理センターのレポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターのレポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Excel レポート作成ワークブック  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Web サービス レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メッセージの追跡  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -359,16 +359,16 @@ Office 365 の教育計画の間で利用可能な Exchange のオンライン�
 |ユニファイド メッセージングのレポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**[共有とコラボレーション](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |フェデレーションの共有 (予定表の公開を含む)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|サイト メールボックス  <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
+|サイト メールボックス  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |パブリック フォルダー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[クライアントとモバイル デバイス](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 | Outlook for Windows <sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook on the web<sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook for Mac<sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |iOS および Android 用の Outlook<sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Exchange ActiveSync  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Exchange ActiveSync  <br/> |○  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 のモバイル デバイス管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|POP と IMAP  <br/> |はい  <br/> |はい  <br/> |可能  <br/> |
+|POP と IMAP  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SMTP  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EWS アプリケーションのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[ボイス メッセージ サービス](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -388,13 +388,13 @@ Office 365 の教育計画の間で利用可能な Exchange のオンライン�
 |SMTP リレーのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Exchange Online のセットアップと管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Office 365 ポータルへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Office 365 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Exchange 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Exchange 管理センターへのアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |リモート Windows PowerShell へのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイスの ActiveSync ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用状況レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[カスタマイズ ・ サービスを拡張するアドイン、およびリソース](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Outlook アドインと Outlook MAPI  <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>7</sup>を [はい] します。 <br/> |
+|**[サービスのカスタマイズ、アドイン、およびリソースの拡張](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Outlook アドインと Outlook MAPI  <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 > <sup>2</sup> トランスポート ルールは条件や例外を定義できる柔軟性のある条件と、その条件に基づいて実行されるアクションで構成されます。使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 > <sup>3</sup> Exchange Server 2013 では、Microsoft マルウェア対策エンジンのみを使用します。Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 > <sup>4</sup> SharePoint Online が Office 365 サブスクリプション プランに含まれる必要があります > <sup>5</sup> 接続先アカウントは、POP と IMAP のアカウントではサポートされていますが、Outlook.com (Hotmail) では無効です。 > <sup>6</sup> コマンドレットを使用したアドレス一覧とグローバル アドレス一覧の操作はサポートされていません。 > <sup>7</sup> いくつかのサードパーティの Web パーツやアドインは使用できない場合があります。 > <sup>8</sup> 電子情報開示には、オンプレミスとクラウドで別々のクエリが必要です。 > <sup>9</sup> 表は、クライアントが関連するプランを使用するかどうかを示します。クライアントがこれらのプランを購入する必要があることを示すものではありません。 
@@ -524,7 +524,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|メールボックス フォルダーごとの最大メッセージ数  <br/> |100 万  <br/> |100 万個  <br/> |100 万個  <br/> |
+|メールボックス フォルダーごとの最大メッセージ数  <br/> |100 万個  <br/> |100 万個  <br/> |100 万個  <br/> |
 |メールボックス フォルダーごとの警告を出すメッセージ数  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数  <br/> |300 万  <br/> |300 万  <br/> |300 万  <br/> |
 |プライマリ メールボックスの回復可能なアイテム フォルダーの記憶域のクォータ (保留ではないもの)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
@@ -637,7 +637,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 - **削除済みアイテム フォルダーの保持期間** 自動的に削除されるまで削除済みアイテム フォルダーにアイテムを保持できる最大日数。 
     
-- **削除済みアイテム フォルダーから削除されたアイテムの保存期間**完全に削除する前に、削除済みアイテム フォルダーからアイテムを削除する日数の最大値が保持されます。 
+- **削除済みアイテムフォルダーから削除されたアイテムの保持期間**削除済みアイテムフォルダーから削除されたアイテムが完全に削除されるまで保持される最大日数。 
     
 - **迷惑メール フォルダーの保持期間** 自動的に削除されるまで迷惑メール フォルダーにアイテムを保持できる最大日数。 
     
@@ -645,7 +645,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |削除済みアイテム フォルダーの保存期限  <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |
-|削除済みアイテム フォルダーから削除されたアイテムの保存期限  <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |
+|削除済みアイテム フォルダーから削除されたアイテムの保存期限  <br/> |14日<sup>1</sup>日 <br/> |14日<sup>1</sup>日 <br/> |14日<sup>1</sup>日 <br/> |
 |迷惑メール フォルダーの保存期限  <br/> |30 日  <br/> |30 日  <br/> |30 日  <br/> |
    
 > [!NOTE]
@@ -668,7 +668,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|配布グループの所有者の最大数  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -683,7 +683,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **トランスポート ルールの最大数** 組織で使用できるルールの最大数です。 
     
-- **個々 のトランスポート ルールの最大サイズ**1 つのトランスポート ルールで使用できる文字の最大数です。文字は、条件、例外、およびアクションで使用されます。 
+- **個々のトランスポートルールの最大サイズ**単一のトランスポートルールで使用できる最大文字数。これらの文字は、条件、例外、およびアクションで使用されます。 
     
 - **すべてのトランスポート ルールで使用されているすべての正規表現の最大文字数** 組織のすべてのトランスポート ルールの条件および例外に含まれるすべての正規表現の文字数の合計です。長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。 
     
@@ -714,7 +714,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 - **調停メールボックスの最大サイズ** 調停メールボックスのサイズがこの制限を超えると、モデレートを必要とするメッセージは配信不能レポート (NDR) で送信者に返されます。 
     
-- **モデレーターの最大数**または 1 つのモデレート配布グループに割り当てることができるモデレーターの最大数は、1 つのトランスポート ルールを使用してメッセージに追加できます。配布グループをモデレーターとして指定できないことに注意してください。 
+- **モデレーターの最大数**1つのモデレート配布グループに割り当てることができるモデレーターの最大数、または1つのトランスポートルールを使用してメッセージに追加できるモデレーターの最大数。配布グループはモデレーターとして指定できないことに注意してください。 
     
 - **モデレート待ちメッセージの有効期限** 既定では、モデレート待ちのメッセージは 2 日後に期限切れになります。ただし、期限切れモデレート メッセージの処理が 7 日ごとに実行されます。したがって、モデレート メッセージが期限切れになるのは 2 日から 9 日の間になります。 
     
@@ -745,7 +745,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync デバイスの制限  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Exchange ActiveSync デバイス削除の制限  <br/> |20  <br/> |20  <br/> |20  <br/> |
+|Exchange ActiveSync デバイス削除の制限  <br/> |1280  <br/> |1280  <br/> |1280  <br/> |
 |Exchange ActiveSync ファイル添付の制限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business の機能
@@ -779,19 +779,19 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
   
 ### <a name="subscription-plans"></a>サブスクリプション プラン
 
-ビジネス プラン 2 の OneDrive は、Office 365 の A1、A3、および A5 を使用できます。プランで利用できる機能を表示するには、[ビジネス サービスの説明については OneDrive](../onedrive-for-business-service-description.md)を参照してください。
+OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使用できます。プランで使用できる機能を確認するには、「 [OneDrive for business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online の機能
 <a name="OfcOnline"> </a>
 
-次の表では、各 Office 365 の教育計画に使用できる SharePoint の機能について説明します。 
+次の表では、各 Office 365 エデュケーションプランで利用できる SharePoint 機能について説明します。 
   
 ****
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**開発者向けの機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[アクセス サービス](../sharepoint-online-service-description/developer.md#access-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アクセス サービス](../sharepoint-online-service-description/developer.md#access-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アクセス サービス](../sharepoint-online-service-description/developer.md#access-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[アプリ カタログ (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -800,7 +800,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[アプリ管理サービス](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |BCS:外部リストのアラート <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[BCS:アプリケーション スコープの外部コンテンツ タイプ (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[BCS: ビジネス データ Web パーツの](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[BCS: ビジネスデータ Web パーツ](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[BCS:外部リスト](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[BCS:OData コネクタ](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |BCS:プロファイル ページ <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -815,18 +815,18 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[開発者向けサイト](../sharepoint-online-service-description/developer.md#developer-site) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[フォーム ベースのアプリケーション](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[完全信頼ソリューション](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |
+|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |
 |[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |リストおよびライブラリ API <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[リモート イベント レシーバー](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サンドボックス ソリューション](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |<sup>12</sup>を [はい] します。 <br/> |
+|[REST api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[サンドボックス ソリューション](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |
 |[SharePoint デザイン マネージャー](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SharePoint ストア <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SharePoint 2010 ワークフロー (.NET 3.5) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint 2010 ワークフロー (標準)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint 2013 および SharePoint 2016 のワークフロー](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |<sup>2</sup>を [はい] します。 <br/> |
+|[SharePoint 2013 および SharePoint 2016 のワークフロー](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |
 |ワークロード API:ECM API <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ワークロード API:検索 API <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ワークロード API:ソーシャル API <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -847,7 +847,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |管理アカウント <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |最小ダウンロード戦略 (MDS) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Office 365 のモバイル デバイス管理](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth) <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>5</sup>を [はい] します。 <br/> |<sup>5</sup>を [はい] します。 <br/> |
+|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |
 |[パッチ管理](../sharepoint-online-service-description/it-professional.md#patch-management) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[クォータ テンプレート](../sharepoint-online-service-description/it-professional.md#quota-templates) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[読み取り専用データベースのサポート](../sharepoint-online-service-description/it-professional.md#read-only-database-support) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -857,7 +857,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[リソースの調整](../sharepoint-online-service-description/it-professional.md#resource-throttling) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[サービス アプリケーション プラットフォーム](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint Health Analyzer](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[SharePoint 管理者センター (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[SharePoint 管理センター (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |細分化ストレージ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[サイト コレクションのコンプライアンス ポリシー](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サイト コレクションの正常性チェック <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -877,12 +877,12 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ドキュメント セット](../sharepoint-online-service-description/content.md#document-sets) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Word Online でのドキュメントの翻訳](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[電子情報開示の検索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
-|[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
-|[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |<sup>4</sup>を [はい] します。 <br/> |
+|[電子情報開示の検索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
+|[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
+|[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |電子メールが有効になっているリストとライブラリ <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[外部共有:外部アクセス](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |<sup>6</sup>を [はい] します。 <br/> |
-|[外部共有:ゲスト リンク](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |<sup>6</sup>を [はい] します。 <br/> |はい  <br/> |<sup>6</sup>を [はい] します。 <br/> |
+|[外部共有:外部アクセス](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
+|[外部共有:ゲスト リンク](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |はい<sup>6</sup> <br/> |はい  <br/> |はい<sup>6</sup> <br/> |
 |[フォルダー同期](../sharepoint-online-service-description/content.md#folder-sync) <br/> |はい<sup>1、6</sup> <br/> |はい  <br/> |はい  <br/> |
 |ハイブリッドの監査  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ハイブリッドの分類とコンテンツ タイプ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -908,14 +908,14 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |アンケート調査 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[動画検索](../sharepoint-online-service-description/content.md#video-search) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[発行の分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[発行分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[カタログ](../sharepoint-online-service-description/content.md#catalog) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[カテゴリ ページとカタログ項目のページ](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Web パーツの検索](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイト間で公開](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[カテゴリページとカタログアイテムページ](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[検索 web パーツ](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[クロスサイト発行](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |WCM:デザイナー ツール <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ファセット ナビゲーション](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |いいえ  <br/> |<sup>14</sup>を [はい] します。 <br/> |<sup>14</sup>を [はい] します。 <br/> |
-|[イメージのレンディション](../sharepoint-online-service-description/content.md#image-renditions) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[ファセットナビゲーション](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |いいえ  <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |
+|[画像レンディション](../sharepoint-online-service-description/content.md#image-renditions) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |WCM:管理ナビゲーション <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |WCM:モバイルとデバイスの表示 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |WCM:複数のドメイン <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -932,7 +932,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[フィルター検索](../sharepoint-online-service-description/insights.md#filter-search) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PerformancePoint Services (PPS) ダッシュボードの移行 <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[電源の BI の Web パーツ](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[Power BI Web パーツ](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[SharePoint の Power View for Excel](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint の Power Pivot for Excel](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[クイック調査](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -948,7 +948,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[ディープ リンク](../sharepoint-online-service-description/search.md#deep-links) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[イベント ベースの関連性](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[専門知識の検索](../sharepoint-online-service-description/search.md#expertise-search) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|拡張可能なコンテンツの処理] <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|拡張可能なコンテンツ処理] <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[グラフィカルな絞り込み条件](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ハイブリッド検索](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[検索スキーマの管理](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -959,8 +959,8 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[クエリのスペルの修正](../sharepoint-online-service-description/search.md#query-spelling-correction) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[クエリ候補](../sharepoint-online-service-description/search.md#query-suggestions) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クエリの調整 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ホバーのプレビュー](../sharepoint-online-service-description/search.md#on-hover-preview) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ランク付けモデル](../sharepoint-online-service-description/search.md#ranking-models) <br/> |<sup>3</sup>を [はい] します。 <br/> |<sup>3</sup>を [はい] します。 <br/> |<sup>3</sup>を [はい] します。 <br/> |
+|[ホバープレビュー](../sharepoint-online-service-description/search.md#on-hover-preview) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[ランク付けモデル](../sharepoint-online-service-description/search.md#ranking-models) <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |
 |[絞り込み条件](../sharepoint-online-service-description/search.md#refiners) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[REST 対応のクエリ API/クエリ OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検索先 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -979,8 +979,8 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |ハイブリッドのアプリ起動ツール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ハイブリッドの OneDrive for Business とサイト  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[大規模なリストのスケーラビリティと管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[モバイル接続](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>7</sup>を [はい] します。 <br/> |
-|[多言語ユーザー インターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |<sup>8</sup>を [はい] します。 <br/> |<sup>8</sup>を [はい] します。 <br/> |<sup>8</sup>を [はい] します。 <br/> |
+|[モバイル接続](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |
+|[多言語ユーザー インターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
 |マイ タスク <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[OOTB Web パーツ](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アクセス許可の管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -993,18 +993,18 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |[ドキュメント ライブラリ](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[タスク リスト](../sharepoint-online-service-description/sites-servicedesc.md#task-list) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイト:ドラッグ アンド ドロップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[チーム ノートブック](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[チームノートブック](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイト:容易なアクセス <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイト デザイン](../sharepoint-online-service-description/sites-servicedesc.md#site-designs) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイトのテーマ (外観を変更する)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイト利用状況のページ](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[サイトデザイン](../sharepoint-online-service-description/sites-servicedesc.md#site-designs) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[サイトテーマ (外観を変更)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[サイトの利用状況ページ](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[バリエーション](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Work Management Service <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**ソーシャル機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |専門分野 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[個人のブログ](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |<sup>9</sup>を [はい] します。 <br/> |<sup>9</sup>を [はい] します。 <br/> |<sup>9</sup>を [はい] します。 <br/> |
-|コミュニティの評判、バッジ、モデレート <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>10</sup>を [はい] します。 <br/> |
-|[コミュニティ](../sharepoint-online-service-description/social.md#community) <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>10</sup>を [はい] します。 <br/> |
+|[個人用ブログ](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |
+|コミュニティの評判、バッジ、モデレート <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |
+|[コミュニティ](../sharepoint-online-service-description/social.md#community) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |
 |[会社フィード](../sharepoint-online-service-description/social.md#company-feed) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Yammer とのドキュメントによる会話 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |フォロー <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1017,7 +1017,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |プロファイル <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |評価 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[私と共有] <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイト フィード (従来のチーム サイトが SharePoint の社会を使用して)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |タグ プロファイル <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook で統合されたタスク <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1026,20 +1026,20 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |Yammer  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**アドオン** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[追加のストレージ](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Azure 対応アプリ:Access Services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |
+|[Azure 対応アプリ:Access Services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |
 |[Azure 対応アプリ:Azure ライトウェイト Web ロール (LWR) のカスタム コード](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>フォルダーの同期を使用するにする必要があります Office 2013 またはそれ以降 (標準またはプロフェッショナル ・ エディション) または Office アプリケーションを含む、Office 365 サブスクリプション。Office 365 には、ビジネスに関する重要事項、Office 365 のエンタープライズ E1、および Office 365 の教育計画は、Office デスクトップ アプリケーションのサブスクリプションを含めないでください。ただし、Office 2013 がある場合、フォルダーの同期を使用できますか、後でをインストールしてこれらの計画のいずれかに参加します。> <sup>2</sup>のためのキオスクのユーザーは管理者であることはできません、キオスク ユーザーとテナントには、管理センターにアクセスするには、少なくとも 1 つのエンタープライズ ユーザーが必要があります。> <sup>3</sup> SharePoint Online の顧客をダウンロードして無料ランク モデル チューニングするようにアプリケーションを作成し、ランク付けモデルをカスタマイズするをインストールする必要があります。> <sup>4</sup>電子的証拠開示機能を使用すると、その機能を許可する計画のライセンス要件は、電子的証拠開示のアクション ([検索]、[保留中のエクスポート) の一部であるすべてのエンド ・ ユーザーに適用されます。> <sup>5</sup>の国または地域の一部のプロバイダーをブロックすることがあります。> <sup>6</sup>組織外のユーザーと電子メールを使用してドキュメント、ライブラリ、またはサイトを共有します。管理者は、有効にする機能を持っていますが、ことを示すことが共有ファイル アクセス可能なお住まいの国以外で警告メッセージが表示されます。組織の外部のユーザーと共有するユーザーは、同じ警告メッセージを受け取ります。> <sup>7</sup>任意のモバイル ブラウザーでドキュメントを表示することができます。ドキュメントを編集するのには Office のモバイル アプリケーションをインストールする必要があります。Office のモバイルは、Windows の電話とタブレット、Android フォンとタブレット、iPhone、および iPad で利用可能です。> <sup>8</sup>ヘルプでは、簡体字中国語および英語でのみ使用します。> ブログの<sup>9</sup>のコメントを追加することはできません。> <sup>10</sup>組織コミュニティの web サイトが、利用できないパブリック コミュニティ提供のヘルプは使用できません。> <sup>11</sup> access 2010 ではサポートされていません。> <sup>12</sup>のサンド ボックス ソリューションは、ユーザー コードを含めることはできません。だけ定義 (.xml) ファイル、およびアクティブ化するときにサーバーで処理されているリソースを含んでいる可能性があります。> <sup>13</sup> (サンド ボックス) のユーザー コードを含む InfoPath フォームは、InfoPath のリッチ クライアントでのみ使用できます。> <sup>14</sup>の SharePoint Online の認証されたユーザーがファセット ナビゲーションを使用してプライベート サイト コレクションにアクセスできます。 
+> <sup>1</sup>フォルダーの同期を使用するには、office 2013 以降 (Standard edition または Professional edition) または office アプリケーションを含む office 365 サブスクリプションを所有している必要があります。office 365 Business Essentials、office 365 Enterprise E1、および office 365 エデュケーションプランには、office デスクトップアプリケーションへのサブスクリプションは含まれません。ただし、Office 2013 以降がインストールされている場合は、フォルダーの同期を使用して、これらのプランのいずれかを購読することができます。> <sup>2</sup>キオスクユーザーを管理者にすることはできないため、キオスクユーザーを持つテナントは、管理センターにアクセスするために Enterprise ユーザーが1人以上必要です。> <sup>3</sup> SharePoint Online のお客様は、ランク付けモデルを作成およびカスタマイズするために、無料のランク付けモデルチューニングアプリをダウンロードしてインストールする必要があります。> <sup>4</sup>電子情報開示機能を使用する場合、その機能を許可するプランのライセンス要件は、電子情報開示の操作 (検索、保留、エクスポート) の一部であるすべてのエンドユーザーに適用されます。> <sup>5</sup>一部のプロバイダーは、お住まいの国/地域ではブロックされることがあります。> <sup>6</sup>組織外のユーザーと電子メールでドキュメント、ライブラリ、またはサイトを共有します。管理者はこれをオンにすることはできますが、国外でもファイルを共有できるようにすることを示す警告メッセージが表示されます。組織外のユーザーと共有しようとするユーザーは、同じ警告メッセージを受け取ります。> <sup>7</sup>任意のモバイルブラウザーでドキュメントを表示できます。ドキュメントを編集するには、Office Mobile アプリをインストールする必要があります。現在、Office Mobile は Windows phone、タブレット、Android 電話、タブレット、iPhone、iPad で使用できます。> <sup>8</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。> <sup>9</sup>ブログでコメントを追加することはできません。> <sup>10</sup>組織コミュニティの web サイトは利用可能ですが、パブリックコミュニティ提供のヘルプは利用できません。> <sup>11</sup> Access 2010 はサポートされていません。> <sup>12</sup>のサンドボックスソリューションには、ユーザーコードを含めることはできません。これらのファイルには、サーバーのアクティブ化時にサーバーによって処理される定義 (.xml) ファイルとリソースのみを含めることができます。> <sup>13</sup>ユーザーコード (サンドボックス) を含む infopath フォームは infopath リッチクライアントでのみ使用できます。> <sup>14</sup>認証された SharePoint Online ユーザーは、ファセットナビゲーション付きのプライベートサイトコレクションにアクセスできます。 
   
 ### <a name="sharepoint-online-limits"></a>SharePoint Online の制限
 
-次の表は、各 Office 365 の教育計画の SharePoint の制限を示しています。
+次の表に、各 Office 365 教育計画の SharePoint の制限を示します。
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|記憶域<sup>1、2</sup> <br/> |1 組織につき 1 TB と 1 ライセンスあたり 10 GB<sup>3</sup>を購入しました。 <br/> |1 組織につき 1 TB と 1 ライセンスあたり 10 GB<sup>3</sup>を購入しました。 <br/> |1 組織につき 1 TB と 1 ライセンスあたり 10 GB<sup>3</sup>を購入しました。 <br/> |
+|記憶域<sup>1、2</sup> <br/> |1組織につき 1 TB、さらに購入<sup></sup>したライセンスごとに 10 GB <br/> |1組織につき 1 TB、さらに購入<sup></sup>したライセンスごとに 10 GB <br/> |1組織につき 1 TB、さらに購入<sup></sup>したライセンスごとに 10 GB <br/> |
 |ストア内の用語  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |サイト コレクションの記憶域  <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |
 |テナントごとのサイト コレクション数  <br/> |1 組織につき 500,000<sup>5</sup> <br/> |1 組織につき 500,000<sup>5</sup> <br/> |1 組織につき 500,000<sup>5</sup> <br/> |
@@ -1052,18 +1052,18 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 <a name="OfcOnline"> </a>
 
-次の表は、各 Office 365 の教育プランで利用可能なオンライン ビジネスの機能を Skype を一覧します。
+次の表に、各 Office 365 教育機関で利用可能な Skype for business Online の機能を示します。
   
 > [!NOTE]
-> 教育オプションを Office 365 の間でのクライアントとサービスの可用性を示します。ビジネス デスクトップ クライアント、web クライアント、およびモバイル クライアントのさまざまな Skype 間での個々 の機能を比較する場合は、 [Skype](https://go.microsoft.com/fwlink/?LinkId=278876)および[モバイル クライアントの比較表](https://go.microsoft.com/fwlink/?LinkID=278874)を参照してください。 
+> この表は、Office 365 エデュケーションオプションのクライアントとサービスの利用可能性を示しています。さまざまな skype for business デスクトップクライアント、web クライアント、およびモバイルクライアント間で個々の機能を比較する場合は、「 [skype for business Online クライアントの比較表](https://go.microsoft.com/fwlink/?LinkId=278876)」および「[モバイルクライアントの比較表](https://go.microsoft.com/fwlink/?LinkID=278874)」を参照してください。 
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for Business Full  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Skype for Business Basic  <br/> |<sup>1</sup>を [はい] します。 <br/> |いいえ  <br/> |いいえ  <br/> |
-|Lync 2013 Basic  <br/> |<sup>1</sup>を [はい] します。 <br/> |いいえ  <br/> |いいえ  <br/> |
+|Skype for Business Basic  <br/> |はい<sup>1</sup> <br/> |×  <br/> |いいえ  <br/> |
+|Lync 2013 Basic  <br/> |はい<sup>1</sup> <br/> |×  <br/> |いいえ  <br/> |
 |Skype for Business Windows ストア アプリ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Lync for Mac 2011  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business モバイル クライアント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1073,9 +1073,9 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |マルチパーティ IM およびプレゼンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |連絡先カードの構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |自分の写真の構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|自分の写真:URL による写真設定  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|自分の写真:URL による写真設定  <br/> |いいえ  <br/> |いいえ  <br/> |X  <br/> |
 |連絡先リストの構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|統合連絡先ストア  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|統合連絡先ストア  <br/> |はい  <br/> |はい  <br/> |あり  <br/> |
 |アドレス帳の検索  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |配布リストの展開  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |常設チャット  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -1088,7 +1088,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |ネットワークのサービス品質 (QoS) - DSCP (Differentiated Services Code Point)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[フェデレーションとパブリック IM 接続](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |X  <br/> |
 | Skype フェデレーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |AOL および Yahoo! フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -1156,8 +1156,8 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |チーム通話  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |ビデオ通話モニター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ボイスメール  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国内通話プラン)  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |はい  <br/> |
-|[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国際通話プラン)  <br/> |なし<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |はい  <br/> |
+|[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国内通話プラン)  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |
+|[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国際通話プラン)  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |
 |[追加機能クレジット](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Skype for Business 音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -1166,7 +1166,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |クライアント バージョン管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |IM コンテンツのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |会議コンテンツのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|アプリケーション共有およびデスクトップ共有のアーカイブ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アプリケーション共有およびデスクトップ共有のアーカイブ  <br/> |はい  <br/> |×  <br/> |いいえ  <br/> |
 |ユーザー レベル アーカイブの構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ログイン追跡ファイル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -1175,19 +1175,19 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
 |ユニファイド メッセージングの Exchange Server との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ユニファイド メッセージングの Exchange Online との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Outlook Web App の相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|アーカイブの Exchange Server との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アーカイブの Exchange Server との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |X  <br/> |
 |アーカイブの Exchange Online との相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SharePoint Server によるスキルの検索  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |SharePoint Online によるスキルの検索  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[Skype for Business Online の管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Office 365 ポータル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Office 365 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 管理センターでの Skype for Business Online レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターの Skype for business Online レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>は、これらのサブスクリプション オプションで使用するビジネス (Lync) クライアントは、Skype がサポートされているには含まれません。Lync 2013 の基本は、すべての顧客に対して使用できます。Lync Basic デスクトップ クライアントは、オンライン ビジネスの Skype は、Office 365 のプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。Office 365 ProPlus、および Office 365 の A3 には、すべての Skype ビジネス (Lync) アプリケーションは、高度な電話サポート、アーカイブ、およびコンプライアンス機能などの追加機能が含まれていますが含まれます。Skype のオンライン ビジネスのライセンスは、ユーザーごとに割り当てる必要があります。Lync Basic の機能の詳細については、[オンライン ビジネスの Skype のクライアント](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)を参照してください> <sup>2</sup>のボイス ・ メールが必要なユーザーに、Exchange Online (プラン 2) のプランを割り当てる必要があります。Exchange Online (プラン 1)、計画は、ボイス メールには使用できません。 
+> <sup>1</sup> Skype for business (Lync) クライアントは、これらのサブスクリプションオプションでの使用がサポートされていますが、含まれていません。Lync 2013 Basic は、すべてのお客様が利用できます。Lync Basic デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。office 365 ProPlus および office 365 A3 には、完全な Skype for business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれます。ユーザーごとに Skype for business Online ライセンスを割り当てる必要があります。Lync Basic 機能の詳細については、「 [Clients for Skype for business online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> 」を参照してください。 Exchange online (プラン 2) プランは、ボイスメールを使用するユーザーに割り当てる必要があります。Exchange Online (プラン 1) プランは、ボイスメールには使用できません。 
   
 ### <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -1213,7 +1213,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
+|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |無制限  <br/> |
    
 #### <a name="meeting-limits"></a>会議の制限
@@ -1239,7 +1239,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |Skype for Business Web アプリ会議の参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |電話で参加するゲスト  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|チーム呼び出しグループ内の個人  <br/> |25  <br/> |25  <br/> |25  <br/> |
+|チーム呼び出しグループ内の個人  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Skype for Business 会議の参加者数が 75 人を超える場合は、会議の参加者名簿の参加者リスト (司会者と出席者) が省略されて、個々の出席者に司会者と出席者自身の名前のみが表示されるようにします。会議の司会者には、完全な参加者リストが表示されます。また、ギャラリー ビューと IM エラーは出席者には表示されません。 
@@ -1256,12 +1256,12 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |
-|会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |
-|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |
+|会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日   <br/> |15 日   <br/> |15 日   <br/> |
+|会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日   <br/> |15 日  <br/> |
+|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間  <br/> |8 時間   <br/> |8 時間   <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
 |会議の有効期限:定期的な会議  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
-|会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |
+|会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |8 時間   <br/> |8 時間  <br/> |
    
 #### <a name="minute-limits"></a>分数の制限
 

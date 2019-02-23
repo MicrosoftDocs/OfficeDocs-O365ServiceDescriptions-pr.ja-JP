@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 には、次のヘルプおよびトレーニング リソースが用意されています。
-ms.openlocfilehash: fb923c0b2323011c9ae61d0ca748af017cd22a06
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
+ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036311"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210290"
 ---
 # <a name="help-and-training"></a>ヘルプとトレーニング
 
-Microsoft Office 365 には、次のヘルプおよびトレーニング リソースが用意されています。
+Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
   
 ## <a name="online-help"></a>オンライン ヘルプ
 <a name="BKMK_Online_Help"> </a>
 
-ヘルプ記事およびビデオは、Office 365 ポータルおよび Office 365 管理センターの上端のナビゲーション バー内のヘルプ アイコンを含め、サービス内の任意のインライン ヘルプ アイコンから入手できます。[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) ですべての Office 365 ヘルプを検索することもできます。 
+ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。すべての Office 365 ヘルプを[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)検索することもできます。 
   
 ## <a name="training"></a>トレーニング
 <a name="BKMK_Online_Help"> </a>
@@ -133,14 +133,14 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
 |フランス語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ドイツ語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |あり  <br/> |はい  <br/> |
 |ギリシャ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ハンガリー語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|イタリア語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |あり  <br/> |はい  <br/> |
+|ハンガリー語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |×  <br/> |
+|イタリア語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |あり  <br/> |あり  <br/> |
 |日本語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|韓国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|韓国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |○  <br/> |
 |ラトビア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |リトアニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ノルウェー語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ポーランド語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
+|ポーランド語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |×  <br/> |はい  <br/> |
 |ポルトガル語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ポルトガル語 - ブラジル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ルーマニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -148,7 +148,7 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
 |セルビア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |スロバキア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |スロベニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|スペイン語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|スペイン語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |○  <br/> |
 |スウェーデン語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |タイ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |トルコ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
