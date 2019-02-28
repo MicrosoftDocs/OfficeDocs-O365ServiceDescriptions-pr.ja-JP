@@ -3,7 +3,7 @@ title: Microsoft 365 Business サービスの説明
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 02/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。.このサービスの説明では、プランのオプションと機能について説明します。office 365 の詳細については、「office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: a85f8c0a5186097e9a8b7d8fb7a9fbf0eb0f917c
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 498334db4672e186d7e02bfcec3a519178e71197
+ms.sourcegitcommit: 7020c5cb68748694d05e23265e23eef2be3bc076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210300"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "30312124"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -116,7 +116,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility Suite** <br/> |
+|**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
 |Office 365 多要素認証 (MFA)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |管理単位  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Discovery  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
