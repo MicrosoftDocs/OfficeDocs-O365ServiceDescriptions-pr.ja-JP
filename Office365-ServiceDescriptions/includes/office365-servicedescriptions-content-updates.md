@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>2019 年 1 月 21 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2019/1/24 | [Skype for Business Online サービスの説明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 更新 |
-| 2019/1/24 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新 |
-
-
 ## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日の週
 
 
@@ -64,3 +55,11 @@
 | 2019/2/22 | [ユーザー アカウント管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 更新 |
 | 2019/2/22 | [Skype for Business Online の機能](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | 更新 |
 | 2019/2/22 | [Skype for Business Online サービスの説明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 更新 |
+
+
+## <a name="week-of-february-25-2019"></a>2019年2月25日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 2/27/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新 |

@@ -1,9 +1,9 @@
 ---
-title: GCC High および DoD
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 5/23/2018
+title: Office 365 GCC High および DoD
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215372"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379039"
 ---
-# <a name="gcc-high-and-dod"></a>GCC High および DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。 
   
@@ -44,7 +44,7 @@ Office 365 のスタッフには、GCC High および DoD 製品への永続的�
   
 |||
 |:-----|:-----|
-|**Microsoft の担当者の選別と身元調査** <br/> |**説明** <br/> |
+|**Microsoft の人事審査とバックグラウンドチェック**<sup>1</sup> <br/> |**説明** <br/> |
 |アメリカ国籍  <br/> |アメリカ国籍の確認  <br/> |
 |職歴チェック  <br/> |過去 7 年間の職歴の確認  <br/> |
 |学歴の確認  <br/> |最終学歴の検証  <br/> |
@@ -55,7 +55,8 @@ Office 365 のスタッフには、GCC High および DoD 製品への永続的�
 |国防貿易管理局 (DDTC) の禁止対象者リスト  <br/> |軍需産業に関連する輸出活動が禁じられた個人または事業体が記載された米国国務省のリストの照合  <br/> |
 |指紋チェック  <br/> |FBI データベースに照らして行う指紋の身元調査  <br/> |
 |米国国防総省 IT-2  <br/> |お客様データへの管理者特権のアクセス許可、または国防総省 SRG L5 サービス機能への管理者特権アクセスを要求しているスタッフは、OPM Tier 3 調査に基づく国防総省 IT-2 の判定に合格する必要があります  <br/> |
-   
+
+<sup>1</sup> Office でホストされている顧客コンテンツへの一時的または継続的なアクセス権を持つ人員にのみ適用されます 365 US GCC-高または DOD 雲
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>対応しているクラウド アーキテクチャに基づく機能のわずかな違い
 
 GCC High および DoD 環境内の Office 365 サブスクリプションには、コアの Exchange Online、SharePoint Online、および Skype for Business 機能が含まれます。インフラストラクチャの認定資格は増加しており、市販の Office 365 オファリングと GCC High および DoD で提供されるものでも、機能に違いがあります。
@@ -76,27 +77,27 @@ GCC High および DoD 環境内の Office 365 サブスクリプションには
     
 4. 特定のユーザー
     
-GCC 高または DoD の環境でのビジネスがプライベートにしておくドキュメントを SharePoint Online と OneDrive を使用しているユーザー (最初にオプションで)、組織内のユーザーと共有 (2 番目のオプション)、ドキュメントへのリンクを持つ任意のユーザーと共有する (3 番目のオプション) とGCC 高および DoD の環境内のみで特定の人と共有 (オプション 4)。もちろん、これらのオプションを制限できますテナント レベルのアクセス コントロールも同様にします。
+GCC High または DoD 環境で SharePoint Online と OneDrive for business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーとの共有は、GCC High および DoD 環境でのみ (4 番目のオプション)、これらのオプションは、テナントレベルのアクセス制御に基づいて制限することもできます。
   
-GCC 高テナントは、GCC の高い他のテナントとのみ共有できます。例えば：
+gcc high テナントは、他の gcc high テナントとのみ共有できます。例えば：
   
-- GCC 高テナント B. GCC 高テナント A と共有できます。
+- gcc high テナント a は、gcc high テナント B と共有できます。
     
-- GCC 高テナント A または B 以外の GCC テナント C と共有できます。
+- 非 gcc テナント C は、gcc High テナント A または B と共有できます。
     
-- 非 GCC 高テナント C. A または B の GCC の高いテナントが共有できません。
+- gcc high テナント A または B は、非 gcc high テナント C と共有できません。
     
-ユーザー プロファイルに接続されている GCC 高以外の電子メール アドレスはサポートされていませんまた、警告の電子メールを送信することはできません。などの社内ユーザー A は Gmail の電子メール アドレスを割り当てられている、Azure GCC 高テナントを同期し、ユーザー A は、ライブラリに移動し、変更の通知を作成します。Gmail アドレスには、警告は送信されません。
+また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC High テナントと同期されます。ユーザー A がライブラリに移動し、変更について通知を作成します。通知は Gmail アドレスに送信されません。
   
  **外部アプリケーションへのアクセス**: アドインのデータ ソースなど、外部アプリケーションへの接続は、GCC High および DoD でサポートされているシステムのセキュリティ境界内にあるソースに限定されます。 
   
- **Business Connectivity Services**の BCS の機能は、データ ソースは、クラウド サービスのセキュリティ境界内で到達可能な接続の場合、サポートされています。 
+ **Business Connectivity Services** -BCS 機能は、クラウドサービスのセキュリティ境界内でデータソースにアクセスできるという接続シナリオに対してサポートされています。 
   
  **サンド ボックス ソリューション**: この機能は非推奨であり、利用できません。サンドボックス ソリューションはすべて、 [ SharePoint アドイン拡張モデル ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)に移行する必要があります。
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **PSTN の呼び出し&amp;PSTN 会議**- テレフォニー指向サービスは、PSTN の呼び出し、公衆交換電話網 (PSTN) を使用する必要性のため&amp;PSTN 会議サービスが現在利用できない GCC 高、DoD にします。 
+ **pstn 通話&amp;の pstn 会議**(公衆交換電話網 (pstn) をテレフォニー指向サービスで使用するための要件により、pstn &amp;通話 pstn 会議サービスは現時点では GCC High および DoD では利用できません。 
   
 ### <a name="identity"></a>ID
 
@@ -104,6 +105,6 @@ GCC 高テナントは、GCC の高い他のテナントとのみ共有できま
   
 ### <a name="yammer"></a>Yammer
 
-GCC 高および DoD の環境で使用可能なエンタープライズは Yammer。
+Yammer Enterprise は、GCC High および DoD 環境では使用できません。
   
 
