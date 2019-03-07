@@ -1,7 +1,7 @@
 ---
-title: Office 365 エンジニア リングの直接のサービスの説明
-ms.author: pebaum
-author: pebaum
+title: Office 365 Engineering Direct Service の説明
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/28/2018
 ms.audience: ITPro
@@ -9,21 +9,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: エンジニア リング ・ ダイレクトを office 365 は、マイクロソフト プレミア サポート契約のエンタープライズ レベルのサポート サービスの追加です。Office 365 エンジニア リング ・直接サービスの説明には、提供される機能と実装の要件に関する追加情報が含まれています。
-ms.openlocfilehash: 702914a9478bededec3f39d206657c9a5c9d35e1
-ms.sourcegitcommit: 3254b66524fda084efcdbe751b1d28afd35a5d56
+description: Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 Office 365 Engineering Direct Service の説明には、提供される機能と実装の要件に関する追加情報が含まれています。
+ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27473477"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467894"
 ---
-# <a name="office-365-engineering-direct-service-description"></a>Office 365 エンジニア リングの直接のサービスの説明
+# <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct Service の説明
 
-エンジニア リング ・ ダイレクトを office 365 は、マイクロソフト プレミア サポート契約のエンタープライズ レベルのサポート サービスの追加です。[Office 365 エンジニア リング ・直接サービスの説明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf)には、提供される機能と実装の要件に関する追加情報が含まれています。
+Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 [Office 365 Engineering Direct Service の説明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf)には、提供される機能と実装の要件に関する追加情報が含まれています。
 
-Office 365 エンジニア リング直接提供する新しいお客様の場合は、組織は、マイクロソフト プレミア サポートの提供を購読する必要があります、Office 365 サービスでは、大規模なエンタープライズ クラス分けレベルに対応し、サポートの契約補遺を実行します。追加されたサービス スイートの補足的なコストが適用されます。サポートの契約の状態を確認して、サポート ・ ソリューションをセキュリティで保護する契約上の変更を開始するのには、マイクロソフト アカウント チームの担当者にお問い合わせください。 
+office 365 Engineering Direct オファーリングを新しいお客様として取得するには、組織が Microsoft プレミアサポート提供物に加入し、office 365 サービスのための大規模なエンタープライズ分類レベルを満たし、サポート契約の補遺を実施する必要があります。 追加されたサービススイートの追加料金が適用されます。 サポート契約の状態を確認し、サポートサービスをセキュリティ保護するための契約上の変更を開始するには、Microsoft アカウントチームの担当者にお問い合わせください。 
 
-大企業の顧客を (a) に移行された従来の Office 365 専用製品から最新のマルチ テナント サービス ファブリック、または (b) お客様はマルチ テナント型の拡張 onboarded 場合は、Office 365 エンジニア リング直接に提供されます、サポート サービスの強化と呼ばれる移行のサポート プログラムとして組織です。移行ソリューションは、既存の Office 365 サブスクリプション サービス契約の残高に対して無償で提供されます。購読サービスの更新の時に、Office 365 エンジニア リング ・ ダイレクトとしてを使用できますの補足的なコストを提供するオプションのサポート。購入した場合、追加されたサービス スイートの別の契約の補遺が実行され、既存のプレミア サポート契約に追加されます。
+大企業のお客様が、従来の Office 365 専用オファーリングから最新のマルチテナントサービス fabric に移行された (a)、または (b) 利用がマルチテナントの強化されたお客様として提供されていた場合、office 365 エンジニアリングダイレクトが「Enhanced support Services」と呼ばれる、移行サポートプログラムとしての組織。 移行オファリングは、既存の Office 365 サブスクリプションサービス契約のバランスを無償で提供されます。 サブスクリプションサービスの更新時に、Office 365 Engineering Direct は、追加料金に関するオプションのサポートプランとして提供されます。 購入した場合は、追加されたサービススイートに対する個別の契約補遺が実行され、既存のプレミアサポート契約に追加されます。
 
 > [!NOTE]
-> この時点では、Office 365 エンジニア リング直接および移行のサポートの拡張サービス プログラムでは使用できません従来の ITAR サポートの顧客または顧客の政府コミュニティ クラウド (GCC) または Office の GCC 高の購読オファーリングに関連して365 です。
+> 現時点では、office 365 Engineering Direct および移行された Enhanced support Services プログラムは、従来の ITAR サポートのお客様または、政府機関コミュニティクラウド (gcc) または office の gcc 高サブスクリプションサービスに関連するお客様には使用できません。365

@@ -1,7 +1,7 @@
 ---
-title: Compliance[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: コンプライアンス [servicedesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,15 +14,15 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
-description: Microsoft Office 365 は業界標準と規制に準拠しており、ビジネスの規制要件に適合できるように設計されています。詳細については、「コンプライアンス認証」をご覧ください。
-ms.openlocfilehash: 5c88a6b52988893b60a46775a0043d7bd2b7a2ab
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 は業界標準と規制に準拠しており、ビジネスの規制要件に適合できるように設計されています。 詳細については、「コンプライアンス認証」をご覧ください。
+ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036228"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466884"
 ---
-# <a name="complianceservicedesc"></a>コンプライアンス [ServiceDesc]
+# <a name="complianceservicedesc"></a>コンプライアンス [servicedesc]
 
 > [!NOTE]
 > この記事の情報は Office 365 の各国版に適用されます。Office 365 US Government、Office 365 Germany、21Vianet が運用している Office 365 など、Office 365 の国内クラウド インスタンスを使用している場合は、「[Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)」をご覧ください。 
@@ -60,7 +60,7 @@ Microsoft Office 365 は業界標準と規制に準拠しており、ビジネ�
     
 - FISMA
     
-- GxP
+- gxp
     
 - HIPAA/HITECH
     

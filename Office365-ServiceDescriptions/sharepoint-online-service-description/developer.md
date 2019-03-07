@@ -1,7 +1,7 @@
 ---
 title: 開発者
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
-description: SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次の機能は、アプリケーションと SharePoint の機能を拡張するソリューションを構築する開発者をサポートします。
-ms.openlocfilehash: e34ab0ca07fadb171a6e2fa52ec37daf7dcd60ac
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の機能は、SharePoint の機能を拡張するアプリやソリューションを構築する開発者をサポートしています。
+ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036297"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467714"
 ---
 # <a name="developer"></a>開発者
 
-SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次の機能は、アプリケーションと SharePoint の機能を拡張するソリューションを構築する開発者をサポートします。
+SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の機能は、SharePoint の機能を拡張するアプリやソリューションを構築する開発者をサポートしています。
   
 ## <a name="access-services"></a>アクセス サービス
 <a name="bkmk_AccessServices"> </a>
@@ -54,12 +54,12 @@ SharePoint でホストされるアプリでは、リストや Web パーツな�
 ## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS:アプリケーション スコープの外部コンテンツ タイプ (ECT)
 <a name="bkmk_AppScopedExternalContentTypes"> </a>
 
-SharePoint の新しいアプリケーション モデルの追加により、Business Connectivity Services (BCS) ことができます今すぐスコープをファーム レベルではなく、アプリケーション レベルでの外部コンテンツ タイプ。これにより、非常に柔軟にアプリの開発者がアプリ内で外部データを使用することです。[アプリケーション スコープの外部コンテンツ タイプ](https://go.microsoft.com/fwlink/?LinkId=271279)の詳細を表示します。
+SharePoint に新しいアプリモデルを追加することで、Business Connectivity Services (BCS) は、ファームレベルではなく、アプリレベルで外部コンテンツタイプの範囲を変更できるようになりました。 これにより、アプリ開発者は、アプリ内で外部データを使用できるようになります。 アプリを対象[範囲とする外部コンテンツタイプ](https://go.microsoft.com/fwlink/?LinkId=271279)の詳細について説明します。
   
-## <a name="bcs-business-data-web-parts"></a>BCS: ビジネス データ Web パーツの
+## <a name="bcs-business-data-web-parts"></a>BCS: ビジネスデータ Web パーツ
 <a name="bkmk_BCSBusinessDataWebparts"> </a>
 
-ビジネス データ Web パーツは、外部データを操作する特殊な web パーツです。これら標準の SharePoint Web パーツのように使用されますが、外部データへの接続の XML の説明は、外部のコンテンツ タイプに基づいています。 
+ビジネスデータ web パーツは、外部データを操作する特別な web パーツです。 これらは標準の SharePoint Web パーツと同様に使用されますが、外部データへの接続の XML 記述である外部コンテンツタイプに基づいています。 
   
 ## <a name="bcs-external-list"></a>BCS:外部リスト
 <a name="bkmk_BCSExternalList"> </a>
@@ -116,7 +116,7 @@ SharePoint では、インライン スクリプトまたは個別の .js ファ
 
 SharePoint 用アプリのイベントを処理するため、開発者はリモート イベント レシーバーとアプリ イベント レシーバーを作成します。リモート イベント レシーバーは、アプリ内のアイテム (リスト、リスト項目、Web など) に対して発生したイベントを処理します。[SharePoint アプリのイベントの処理](https://go.microsoft.com/fwlink/?LinkId=271735)について詳細情報を参照してください。 
   
-## <a name="rest-apis"></a>REST Api
+## <a name="rest-apis"></a>REST API
 <a name="bkmk_RESTAPI"> </a>
 
 SharePoint 2013 では、OData プロトコルを使用して SharePoint リスト データで CRUD 処理を行う REST (Representational State Transfer) Web サービスの実装が利用できます。これは、JavaScript を使用せず, .NET Framework または Microsoft Silverlight プラットフォーム上で構築されたものではないクライアント テクノロジから SharePoint データにアクセスする場合に使用します。[SharePoint 2013 REST サービスを使用したプログラミング](https://go.microsoft.com/fwlink/?LinkId=271290)について詳細情報を参照してください。
@@ -136,10 +136,10 @@ SharePoint 2013 では、OData プロトコルを使用して SharePoint リス�
 
 SharePoint Designer を使用すると、上級ユーザーおよび開発者はビジネス ニーズに対応して SharePoint ソリューションをすばやく作成できます。[開発者向け SharePoint Designer](https://go.microsoft.com/fwlink/?LinkId=271294) について詳細情報を参照してください。
   
-## <a name="sharepoint-framework"></a>SharePoint フレームワーク
+## <a name="sharepoint-framework"></a>SharePoint Framework
 <a name="bkmk_SharePointFramework"> </a>
 
-SharePoint フレームワーク (SPFx) は、SharePoint のデータ、およびオープン ソース ツールのサポート クライアント側の SharePoint の開発、統合が容易に完全にサポートを提供するページと web パーツ モデルです。[SharePoint のフレームワーク](https://go.microsoft.com/fwlink/?linkid=869276)について説明します。
+SharePoint Framework (SPFx) は、クライアント側の SharePoint の開発、SharePoint データとの容易な統合、オープンソース ツーリングのサポートをすべてサポートするページと Web パーツ モデルです。 詳細については、「 [SharePoint Framework](https://go.microsoft.com/fwlink/?linkid=869276)」を参照してください。
   
 ## <a name="sharepoint-2010-workflows-out-of-the-box"></a>SharePoint 2010 ワークフロー (標準)
 <a name="bkmk_Worflow2010outofthebox"> </a>
@@ -149,7 +149,7 @@ SharePoint に含まれる標準ワークフローを使用して、一般的な
 ## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>SharePoint 2013 および SharePoint 2016 のワークフロー
 <a name="bkmk_Workflow2013"> </a>
 
-SharePoint 2013 および 2016 の SharePoint ワークフローによって Windows ワークフロー Foundation 4 (WF)、以前のバージョンから大幅に再設計する電源です。おそらく新しいワークフロー インフラストラクチャの最大の特徴は Azure の概要、ワークフローの実行ホストとして。[SharePoint のワークフローの新機能](https://go.microsoft.com/fwlink/?LinkId=271297)の詳細を表示します。
+sharepoint 2013 と sharepoint 2016 のワークフローは、以前のバージョンから大幅に再設計された Windows Workflow Foundation 4 (WF) によって稼働しています。 新しいワークフローインフラストラクチャの最も顕著な機能は、ワークフロー実行ホストとして Azure を導入したことです。 [SharePoint のワークフローの新機能](https://go.microsoft.com/fwlink/?LinkId=271297)について説明します。
   
 ## <a name="feature-availability"></a>機能の可用性
 <a name="bkmk_Workflow2013"> </a>

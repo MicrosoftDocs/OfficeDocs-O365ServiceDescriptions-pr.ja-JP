@@ -1,7 +1,7 @@
 ---
 title: プライバシー、セキュリティ、および透過性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 01/02/2019
 ms.audience: ITPro
@@ -12,13 +12,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
-description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
+ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784859"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467584"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透過性
 
@@ -55,7 +55,7 @@ Office 365 管理者はカスタマー ロックボックスを使用して、Mi
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
-脅威保護の高度な office 365 は、マルウェアおよびウイルスから組織を保護します。分析ツールには、[安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[フィッシング](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)[なりすましのインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)機能が含まれています。安全なリンクをプロアクティブに保護、ユーザー、メッセージでは、悪意のあるハイパーリンクからリンクをクリックするたびに、保護を提供することです。安全な添付ファイルは、ATP が悪質な行為を検出できるすべてのメッセージや特別な環境を既知のウイルス/マルウェアの署名のない添付ファイルをルーティングを不明なマルウェアやウイルスから保護します。分析ツールの詳細については、 [Office 365 高度な脅威保護サービスの説明](../office-365-advanced-threat-protection-service-description.md)を参照してください。
+Office 365 Advanced Threat Protection を使用すると、マルウェアやウイルスから組織を保護することができます。 ATP には、[安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[フィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)、および[スプーフィングインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)機能が含まれます。 安全なリンクは、メッセージ内の悪意のあるハイパーリンクからユーザーを事前に保護して、リンクがクリックされるたびに保護を提供します。 安全な添付ファイルは、不明なマルウェアやウイルスから保護され、既知のウイルスまたはマルウェアの署名を持たないすべてのメッセージと添付ファイルを、ATP が悪意のある目的を検出できる特別な環境にルーティングします。 ATP の詳細については、「 [Office 365 Advanced Threat Protection サービスの説明](../office-365-advanced-threat-protection-service-description.md)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

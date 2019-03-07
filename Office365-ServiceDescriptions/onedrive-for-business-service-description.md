@@ -1,7 +1,7 @@
 ---
 title: OneDrive for Business サービスの説明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business は、会社によってクラウド内に提供される、個人のオンライン ストレージ スペースです。これは、複数のデバイスに分散した作業ファイルにアクセスする際に、作業ファイルを簡単に保存し保護するために使用されます。必要に応じて仕事仲間とファイルを共有し、最新の Office デスクトップ、Web、モバイル アプリを使用して、リアルタイムで一緒に Office ドキュメントを共同作業します。OneDrive for Business 同期クライアントを使用して、ローカル コンピューターにファイルを同期します。
-ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215362"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467194"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 

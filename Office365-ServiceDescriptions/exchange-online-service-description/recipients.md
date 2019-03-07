@@ -1,7 +1,7 @@
 ---
 title: 受信者
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
-description: このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。 これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036249"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467414"
 ---
 # <a name="recipients"></a>受信者
 
 このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
   
-## <a name="email"></a>電子メール
+## <a name="email"></a>Email
 
 Microsoft Exchange Online のサブスクライバー全員にメールボックスが与えられ、ファシリティ リソース (会議室など) のスケジューリング、および複数ユーザーによる共有電子メール アドレスへのアクセスには、特殊なメールボックスを使用できます。大部分のメールボックスに記憶域の制限値が適用され、管理者はメールボックスの許容サイズを制御できます。通知と制限の自動化により、メールボックスの容量が上限に近づくか、または一杯になったときに、ユーザーに警告できます。また、Exchange Online には、メッセージのサイズ、メッセージの数、および受信者リストの制限など、複数の種類のメッセージ制限があります。これらのすべての機能と制限の詳細は、以下のとおりです。
   

@@ -1,7 +1,7 @@
 ---
 title: アドオン
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。Office 365 のお客様は、SharePoint Online に関連付けられている追加のアドオンを購入することもできます。
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint は、組織のデジタル情報を保管、共有、管理するための一連の Web ベースのツールおよびテクノロジです。 Microsoft SharePoint Server 2013 上に構築されたこのホステッド サービスは、プロジェクトでの作業、データおよびドキュメントの一元的な保管、および情報共有に最適です。 Office 365 のお客様は、SharePoint Online に関連する追加のアドオンも購入できます。
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036294"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466404"
 ---
 # <a name="add-ons"></a>アドオン
 
-Microsoft SharePoint は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。Office 365 のお客様は、SharePoint Online に関連付けられている追加のアドオンを購入することもできます。
+Microsoft SharePoint は、組織のデジタル情報を保管、共有、管理するための一連の Web ベースのツールおよびテクノロジです。 Microsoft SharePoint Server 2013 上に構築されたこのホステッド サービスは、プロジェクトでの作業、データおよびドキュメントの一元的な保管、および情報共有に最適です。 Office 365 のお客様は、SharePoint Online に関連する追加のアドオンも購入できます。
   
 ## <a name="additional-storage"></a>追加のストレージ
 <a name="bkmk_AdditionalStorage"> </a>

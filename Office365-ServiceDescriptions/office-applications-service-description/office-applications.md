@@ -1,7 +1,7 @@
 ---
 title: Office アプリケーション
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036235"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467694"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 
@@ -71,12 +71,12 @@ Skype for Business は、インスタント メッセージング クライア�
 
 Microsoft InfoPath は、電子フォームの設計、配布、完成、送信を実行できるようにするプログラムです。InfoPath フォーム Web パーツを SharePoint Online サイトに追加することを選択できます。InfoPath フォーム Web パーツの詳細については、「[InfoPath フォーム Web パーツの使用](http://go.microsoft.com/fwlink/p/?LinkId=271687)」を参照してください。
   
-## <a name="windows-8-apps"></a>Windows 8 のアプリケーション
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 Excel や Word などの一部の Office アプリケーションでは、Windows 8 と Windows RT デバイスの [スタート] 画面にタイルが既定で固定されています。Windows 8 または Windows 8 RT で Office アプリケーションの検索と起動を行う方法の詳細については、「[Windows 8 または Windows 8 RT で Office アプリケーションの検索と起動を行う](http://go.microsoft.com/fwlink/p/?LinkId=271688)」を参照してください。
   
-## <a name="office-mobile-for-ipadiphone"></a>IPad/iPhone 用 Office Mobile
+## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 <a name="BKMK_Office_for_iPad"> </a>
 
 iPad および iPhone 用 Office Mobile には、Word for iPad/iPhone、Excel for iPad/iPhone、PowerPoint for iPad/iPhone などがあります。アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、iPad または iPhone でドキュメントの作成と編集ができます。Office Mobile for iPad/iPhone アプリと Mac や Windows プラットフォームにおけるデスクトップ アプリケーションの比較については、次をご覧ください。
@@ -87,21 +87,21 @@ iPad および iPhone 用 Office Mobile には、Word for iPad/iPhone、Excel fo
     
 - [PowerPoint for iPad を PowerPoint for Mac、PowerPoint for Windows と比較する](http://go.microsoft.com/fwlink/p/?LinkId=507545)
     
-## <a name="office-mobile-for-android"></a>Android 用 Office Mobile
+## <a name="office-mobile-for-android"></a>Office Mobile for Android
 <a name="BKMK_Office_for_Android"> </a>
 
 Android 用 Office Mobile には、Word for Android、Excel for Android、PowerPoint for Android などがあります。アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、Android デバイスでドキュメントの作成と編集ができます。Android 用 Office Mobile アプリとデスクトップのアプリの比較については、
   
 - 「[Office Mobile for Android](https://support.office.com/en-us/article/Office-Mobile-for-Android-phones-ee598133-59d1-43c3-b47c-aac3f2d9a605?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
     
-## <a name="office-mobile-for-windows-phone"></a>Windows Phone 用 Office Mobile
+## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Windows Phone 用 Office Mobile には、Word for Windows Phone、Excel for Windows Phone、PowerPoint for Windows Phone などがあります。アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、Windows Phone でドキュメントの作成と編集ができます。Windows Phone 用 Office Mobile とデスクトップのアプリの比較については、
   
 - 「[Windows Phone 用 Office Mobile](https://support.office.com/en-us/article/Office-Mobile-for-Windows-Phone-011b83c4-0d5f-4ea8-bbbe-2ed0d76dc69c?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
     
-## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 タブレット
+## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 tablets
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Office Mobile for Windows 10 タブレットには、Word Mobile、Excel Mobile、および PowerPoint Mobile が含まれています。アプリは、Windows ストアから無料でダウンロードできます。[Windows 10 用 Office Mobile アプリ](https://blogs.office.com/2015/07/29/office-mobile-apps-for-windows-10-are-here/)の詳細について確認してください。

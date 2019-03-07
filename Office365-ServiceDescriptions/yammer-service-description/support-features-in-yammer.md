@@ -1,7 +1,7 @@
 ---
 title: Yammer のサポート機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer では次のサポート機能が利用可能です。
-ms.openlocfilehash: 95a9710d701f329819cd4265695849bfece97a75
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036242"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467374"
 ---
 # <a name="support-features-in-yammer"></a>Yammer のサポート機能
 
@@ -32,12 +32,12 @@ Yammer では次のサポート機能が利用可能です。
 
 Microsoft FastTrack サービスでは、各手順で随時ヘルプが提供されるので、組織を Microsoft Cloud に移行することができます。FastTrack を使用すると、戦略的な計画の展開、新しいサービスの迅速な立ち上げ、新しいユーザーの追加を行うことができます。詳細については、「[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)」を参照してください。起動前、起動、サポートに関するドキュメントとアクティビティなど、Yammer ネットワークを作成する方法の詳細については、「[構想を練る: シナリオの特定](https://fasttrack.microsoft.com/office/envision/identify-scenarios)」ページにアクセスして、 **[組織を 1 つにする]** をクリックしてください。
   
-## <a name="customer-support"></a>カスタマー サポート
+## <a name="customer-support"></a>顧客サポート
 <a name="BKMK_Customersupport"> </a>
 
 テクニカル サポートはお客様の質問に答えたり、問題を迅速に解決したりします。Yammer のお客様は、1 日 24 時間、週 7 日、サポート エージェントによって監視されているパブリック サポート フォーラムに投稿するとサポートを受けることができます。サポートを必要としている Yammer のお客様は、「[Yammer サポートへようこそ](https://go.microsoft.com/fwlink/p/?LinkId=330921)」を参照してください。
   
-## <a name="administrator-support"></a>管理者サポート
+## <a name="administrator-support"></a>Administrator support
 <a name="BKMK_Administratorsupport"> </a>
 
 Yammer エンタープライズ の管理者はアカウントの保守を担当し、Microsoft サポート チームと直接連絡を取ることができます。サポートを必要としている Yammer エンタープライズ の管理者は、「[サポートへようこそ](https://go.microsoft.com/fwlink/p/?LinkId=330922)」を参照してください。

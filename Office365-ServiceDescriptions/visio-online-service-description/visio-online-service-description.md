@@ -1,7 +1,7 @@
 ---
 title: Visio Online サービスの詳細
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Visio のオンラインでの表示、編集、および web 上の Visio 図面を共有することができます。計画を示す、提案、またはプロセスの手順のシーケンスを記述するなどの一般的なアイデアを表現する基本図から開始します。図形セットの種類と豊富な一般的に使用されるダイアグラムのファースト クラスのダイアグラムを作成するのには簡単です。Visio のオンライン ユーザーを表示および図を共有して共同作業を行うことができ、オンライン ビジネスの SharePoint Online または OneDrive にアップロードされたファイルにコメントを挿入します。
-ms.openlocfilehash: 40b212d4c3fcafe918d23db6c2e718117d0044b3
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Visio Online では、Visio ダイアグラムを Web 上で表示し共有することができます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio Online ユーザーは、ダイアグラムを共有して、SharePoint Online や OneDrive for Business Online にアップロードされたファイルにコメントを挿入することにより、表示や共同作業が可能です。
+ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036315"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466504"
 ---
 # <a name="visio-online-service-description"></a>Visio Online サービスの詳細
 
-Visio のオンラインでの表示、編集、および web 上の Visio 図面を共有することができます。計画を示す、提案、またはプロセスの手順のシーケンスを記述するなどの一般的なアイデアを表現する基本図から開始します。図形セットの種類と豊富な一般的に使用されるダイアグラムのファースト クラスのダイアグラムを作成するのには簡単です。Visio のオンライン ユーザーを表示および図を共有して共同作業を行うことができ、オンライン ビジネスの SharePoint Online または OneDrive にアップロードされたファイルにコメントを挿入します。
+Visio Online では、Visio ダイアグラムを Web 上で表示し共有することができます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio Online ユーザーは、ダイアグラムを共有して、SharePoint Online や OneDrive for Business Online にアップロードされたファイルにコメントを挿入することにより、表示や共同作業が可能です。
   
 詳細を確認して使用を開始するには「[Visio Online](https://products.office.com/en-US/visio/visio-online)」を参照してください。
   
@@ -42,11 +42,11 @@ Visio Online を使用する際のヘルプについては、「[Visio Online �
 |[SharePoint、Web、またはブログ ページにダイアログを埋め込む](visio-online.md#BM_7) <br/> |はい  <br/> |いいえ  <br/> |
 |[検索](visio-online.md#BM_8) <br/> |はい  <br/> |はい  <br/> |
 |[フォントの書式設定](visio-online.md#BM_9) <br/> |はい  <br/> |はい  <br/> |
-|[ハイパーリンク](visio-online.md#BM_10)<sup>1</sup> <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |
+|[ハイパーリンク](visio-online.md#BM_10)<sup>1</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |
 |[ナビゲーション](visio-online.md#BM_11) <br/> |はい  <br/> |はい  <br/> |
 |[Office アドイン](visio-online.md#BM_12) <br/> |いいえ  <br/> |はい  <br/> |
 |[オフライン表示](visio-online.md#BM_13) <br/> |いいえ  <br/> |はい  <br/> |
-|[PDF に印刷](visio-online.md#BM_14) <br/> |<sup>4</sup>を [はい] します。 <br/> |はい  <br/> |
+|[PDF に印刷](visio-online.md#BM_14) <br/> |はい<sup>4</sup> <br/> |○  <br/> |
 |[校正ツール](visio-online.md#BM_15) <br/> |いいえ  <br/> |はい  <br/> |
 |[リアルタイム共同編集](visio-online.md#BM_16) <br/> |いいえ  <br/> |はい  <br/> |
 |[名前を付けて保存またはダウンロード](visio-online.md#BM_17) <br/> |はい  <br/> |はい  <br/> |
@@ -54,17 +54,17 @@ Visio Online を使用する際のヘルプについては、「[Visio Online �
 |[SmartArt](visio-online.md#BM_19) <br/> |いいえ  <br/> |はい  <br/> |
 |[教えて](visio-online.md#BM_20) <br/> |いいえ  <br/> |はい  <br/> |
 |[元に戻す/やり直し](visio-online.md#BM_21) <br/> |いいえ  <br/> |はい  <br/> |
-|[コメントの表示と追加](visio-online.md#BM_22) <br/> |<sup>5</sup>を [はい] します。 <br/> |はい  <br/> |
-|[図形データの表示](visio-online.md#BM_23) <br/> |<sup>3</sup>を [はい] します。 <br/> |はい  <br/> |
+|[コメントの表示と追加](visio-online.md#BM_22) <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |
+|[図形データの表示](visio-online.md#BM_23) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |
 |[ブラウザーでの Visio ファイルの表示](visio-online.md#BM_24) <br/> |はい  <br/> |はい  <br/> |
-|[拡大/縮小](visio-online.md#BM_25) <br/> |<sup>6</sup>を [はい] します。 <br/> |はい  <br/> |
+|[拡大/縮小](visio-online.md#BM_25) <br/> |はい<sup>6</sup> <br/> |はい  <br/> |
    
 > <sup>1</sup> ハイパーリンク先に移動 (挿入や変種はできません)。 
 <br/><sup>2</sup>SharePoint や One Drive for Business 経由の共有、および SharePoint や OneDrive を持っていないユーザーとの共有。 
-<br/> <sup>3</sup> Visio のオンラインのエディターでは利用できません。
-<br/><sup>4</sup>情報をオンラインでは利用できません。 
-<br/>モードとビューのコメントを表示する<sup>5</sup>が、Visio のオンラインのエディターでは使用不可を切り替えることができます。 
-<br/><sup>6</sup> Visio のオンラインのエディターで使用します。 
+<br/> <sup>3</sup> Visio Online Editor では使用できません。
+<br/><sup>4</sup> Visio Online Viewer では使用できません。 
+<br/><sup>5</sup> Visio Online Editor では使用できませんが、表示モードに切り替えてコメントを表示することができます。 
+<br/><sup>6</sup> Visio Online エディターで使用できます。 
   
 ## <a name="supported-file-types-in-visio-online"></a>Visio Online でサポートされているファイルの種類
 

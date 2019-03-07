@@ -1,7 +1,7 @@
 ---
 title: Exchange Online のセットアップと管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: このセクションでは、exchange online の設定をカスタマイズし、組織の exchange online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。これには、組織で利用できるセルフサービス管理ツールおよび機能に関する情報が含まれています。Microsoft の管理責任と業績のコミットメント。サービスと製品のアップグレード。
-ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: このセクションでは、exchange online の設定をカスタマイズし、組織の exchange online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
+ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210200"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467804"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
-このセクションでは、exchange online の設定をカスタマイズし、組織の exchange online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。これには、組織で利用できるセルフサービス管理ツールおよび機能に関する情報が含まれています。Microsoft の管理責任と業績のコミットメント。サービスと製品のアップグレード。
+このセクションでは、exchange online の設定をカスタマイズし、組織の exchange online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
   
 ## <a name="self-service-administration-tools"></a>セルフ サービス管理ツール
 
@@ -48,7 +48,7 @@ Microsoft Office 365 ポータル ([https://portal.office.com](https://portal.of
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理センター
 <a name="BKMK_Office365admincenterl"> </a>
 
-Microsoft 365 管理センターは、各企業のサービス管理者が、購読している各 Office 365 サービスのユーザーアカウントと設定を管理できる web ポータルです。Microsoft 365 管理センターでは、管理者は exchange 管理センター (EAC) へのリンクをたどって、exchange Online に固有の設定を管理できます。Microsoft 365 管理センターを使用した取得と実行の詳細については、「 [Office 365 Enterprise の概要](https://go.microsoft.com/fwlink/p/?LinkId=271806)」を参照してください。
+Microsoft 365 管理センターは、各企業のサービス管理者が、購読している各 Office 365 サービスのユーザーアカウントと設定を管理できる web ポータルです。 Microsoft 365 管理センターでは、管理者は exchange 管理センター (EAC) へのリンクをたどって、exchange Online に固有の設定を管理できます。 Microsoft 365 管理センターを使用した取得と実行の詳細については、「 [Office 365 Enterprise の概要](https://go.microsoft.com/fwlink/p/?LinkId=271806)」を参照してください。
   
 ### <a name="exchange-admin-center"></a>Exchange 管理センター
 <a name="BKMK_ExchangeAdministrationCenter"> </a>
@@ -79,7 +79,7 @@ Exchange Online では、モバイル デバイス用に Exchange Server 2013 �
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online でのメッセージ追跡
 
-配信レポート機能によるメッセージ追跡はトピック「Reporting Features and Troubleshooting Tools」で説明します。Reporting Features and Troubleshooting Tools.
+Message tracking via the Delivery Reports feature is described in the following topic: [Reporting Features and Troubleshooting Tools](reporting-features-and-troubleshooting-tools.md).
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online の利用状況レポート
 
@@ -97,7 +97,7 @@ Exchange Online で使用する Windows PowerShell コマンドレットの詳�
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online での監査
 
-監査ログ機能はトピック「Reporting Features and Troubleshooting Tools」で説明します。Reporting Features and Troubleshooting Tools.
+The audit logging feature is described in the following topic: [Reporting Features and Troubleshooting Tools](reporting-features-and-troubleshooting-tools.md).
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online でのサービスおよび製品のアップグレード
 

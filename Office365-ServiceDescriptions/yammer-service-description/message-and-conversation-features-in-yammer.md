@@ -1,7 +1,7 @@
 ---
 title: Yammer のメッセージと会話機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer では次のメッセージおよび会話機能を使用できます。
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036240"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468164"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージと会話機能
 
 Yammer では次のメッセージおよび会話機能を使用できます。
   
-## <a name="publisher"></a>発行元
+## <a name="publisher"></a>Publisher
 <a name="bkmk_Publisher"> </a>
 
 発行元を使用すると、更新プログラムの共有、ドキュメントの追加、投票の投稿、他のユーザーの称賛、またはイベントの投稿を実行できます。
@@ -39,7 +39,7 @@ Yammer では次のメッセージおよび会話機能を使用できます。
 
 だれがオンラインかが分かり、1 人または複数の同僚とプライベートな議論を即時に開始できます。連絡先リストは、多くやりとりをする人の順に自動的に並べ替えられます。
   
-## <a name="private-messages"></a>プライベート メッセージ
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 1 人以上の同僚とプライベートな対話を開始します。いつでも参加者を追加できます。
@@ -49,7 +49,7 @@ Yammer では次のメッセージおよび会話機能を使用できます。
 
 別のグループのフィードに対して、またはプライベート メッセージを介して会話を共有して、情報や重要なメッセージを中継することができます。
   
-## <a name="office-online-support"></a>Office Online のサポート
+## <a name="office-online-support"></a>Office Online support
 <a name="bkmk_ShareConversations"> </a>
 
 Yammer の Office Online サポートを使用すると、Yammer にアップロードされたドキュメントを Yammer 内で Office Online を使用して直接表示したり編集したりできます。したがって、Office Online を使用してドキュメントを美しく表示することや、複数のユーザーが同時に共同編集できるようにすること、関連する Yammer 会話を表示することが、ブラウザーから行えるようになります。

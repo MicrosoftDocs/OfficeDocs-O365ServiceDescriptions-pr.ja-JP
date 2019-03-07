@@ -1,7 +1,7 @@
 ---
 title: ポートフォリオ管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: プロジェクトをオンラインで、次のポートフォリオ管理機能を利用できます。
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Project Online では、次のポートフォリオ管理機能を使用できます。
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036302"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466624"
 ---
 # <a name="portfolio-management"></a>ポートフォリオ管理
 
-プロジェクトをオンラインで、次のポートフォリオ管理機能を利用できます。
+Project Online では、次のポートフォリオ管理機能を使用できます。
   
-Project Online のすべての機能についての説明をお探しの場合は、「[Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>プロジェクトの分析とポートフォリオの最適化
 <a name="bkmk_AnalyzeProjects"> </a>

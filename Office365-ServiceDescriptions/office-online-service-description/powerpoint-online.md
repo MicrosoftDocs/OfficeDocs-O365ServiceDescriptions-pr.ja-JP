@@ -1,7 +1,7 @@
 ---
 title: PowerPoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作することができます、web ブラウザーに、Microsoft PowerPoint の経験をオンライン PowerPoint (PowerPoint Web App では以前) に拡張します。Office オンラインの Microsoft Office 365 のお客様は、表示、作成、および外出先でファイルを編集できます。
-ms.openlocfilehash: 4d28ee4715ba55122b95588b5f0888bc0155245d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: powerpoint Online (以前の powerpoint Web App) は、Microsoft powerpoint の機能を web ブラウザーにまで拡張します。ここでは、プレゼンテーションが保存されている web サイトでプレゼンテーションを直接操作できます。 Microsoft office 365 office Online を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
+ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036322"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467344"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作することができます、web ブラウザーに、Microsoft PowerPoint の経験をオンライン PowerPoint (PowerPoint Web App では以前) に拡張します。Office オンラインの Microsoft Office 365 のお客様は、表示、作成、および外出先でファイルを編集できます。
+powerpoint Online (以前の powerpoint Web App) は、Microsoft powerpoint の機能を web ブラウザーにまで拡張します。ここでは、プレゼンテーションが保存されている web サイトでプレゼンテーションを直接操作できます。 Microsoft office 365 office Online を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
   
-PowerPoint のエディターは、サーフェイスを作成する、ブラウザー ベース編集、再現性を失うことがなくドキュメント上で作業するユーザーを有効にする web フロント エンド コンポーネントです。
+PowerPoint エディターは、ブラウザーベースの編集画面を作成する web フロントエンドコンポーネントです。これにより、ユーザーは忠実に作業を失うことなく、ドキュメントを操作できます。
   
-PowerPoint のオンラインのツールバーの [ **PowerPoint で開く**] ボタンをクリックした場合 (またはそれ以降の Microsoft PowerPoint 2010 は、コンピューターにインストールされている) 場合 PowerPoint デスクトップ アプリケーションで、プレゼンテーションを開きます。 
+powerpoint Online のツールバーの [ **powerpoint で開く**] ボタンをクリックすると、powerpoint デスクトップアプリでプレゼンテーションが開きます (コンピューターに Microsoft PowerPoint 2010 以降がインストールされている場合)。 
   
 方法については、「[一般法人向け Office 365 を使って PC に Office をダウンロードしてインストールする](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)」を参照してください。
   
@@ -122,7 +122,7 @@ PowerPoint Online は 8 つの画面切り替えと 37 のアニメーション�
 
 PowerPoint Online では、ヘッダーとフッター (日付とスライド番号を含む) の挿入、編集、削除を行うことはできませんが、PowerPoint Online はそれらを想定どおりに表示することはできます。[プレゼンテーションを行う場合のブラウザーと PowerPoint デスクトップ アプリでの相違点](https://go.microsoft.com/fwlink/?LinkId=272763)について詳細情報を参照してください。
   
-## <a name="hyperlinks"></a>ハイパーリンク
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 ハイパーリンクを挿入して編集します。また、ハイパーリンクをたどることもできます。ブックマーク リンクも使用できますが、PowerPoint Online で編集することはできません。
@@ -137,7 +137,7 @@ PowerPoint Online では、ヘッダーとフッター (日付とスライド番
 
 PowerPoint Online では利用できません。PowerPoint Online では、既存のプレゼンテーションで Excel グラフを表示できます。ただし、PowerPoint Online を使用してプレゼンテーションでの Excel グラフの編集や挿入を行うことはできません。[Excel グラフを PowerPoint にコピーする方法](https://go.microsoft.com/fwlink/?LinkId=272773)について詳細情報を参照してください。
   
-## <a name="navigation-slide-sorter"></a>ナビゲーション スライド一覧
+## <a name="navigation-slide-sorter"></a>ナビゲーション— スライド一覧
 <a name="bkmk_Navigation"> </a>
 
 PowerPoint Online では利用できません。PowerPoint Online では、スライドの並べ替えや整理を行いやすいようにサムネイル形式でスライドを表示するスライド一覧表示は使用できません。PowerPoint デスクトップ アプリを使用すると、スライド一覧表示を使用して、スライドの構成、セクションの追加、およびスライドのカテゴリ分類を行うことができます。
@@ -152,7 +152,7 @@ PowerPoint Online は Web ブラウザーから起動し、インターネット
 
 トリミング ツールを使用して、画像の対象のフレーミングを改善します。画像の端のトリミング ハンドルのいずれかをクリックし、希望する画像になるまでドラッグします。
   
-## <a name="pictures"></a>画像
+## <a name="pictures"></a>ピクチャ
 <a name="bkmk_Pictures"> </a>
 
 PowerPoint Online では、お使いのコンピューター上に保存された画像を挿入したり、Bing イメージから画像を挿入したりできます。画像の移動、サイズ変更、トリミングが可能で、複数の画像スタイルを適用することができます。PowerPoint Online では、各種特殊効果の適用など、高度な画像操作機能は利用できません。PowerPoint Online では、スクリーンショットを作成することはできません。PowerPoint Online では、プレゼンテーション内のスクリーンショットは画像として表示されます。[プレゼンテーションを行う場合のブラウザーと PowerPoint デスクトップ アプリでの相違点](https://go.microsoft.com/fwlink/?LinkId=272763)について詳細情報を参照してください。
@@ -182,10 +182,10 @@ PowerPoint Online に付属する辞書を使用したスペル チェックや�
 
 PowerPoint Online と PowerPoint 2016 では、複数の作成者が同時に作業できます。リアルタイム プレゼンスによって、編集が競合しないように共同編集者が作業しているプレゼンテーション内の場所を確認したり、彼らが行っている変更を表示したりできます。PowerPoint 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。PowerPoint でのリアルタイム共同編集の詳細については、「[PowerPoint プレゼンテーションで共同作業を行う](https://go.microsoft.com/fwlink/?linkid=844014)」を参照してください。
   
-## <a name="reviewer-tools---advanced"></a>校閲者ツールの詳細
+## <a name="reviewer-tools---advanced"></a>レビュー担当者ツール-詳細
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-PowerPoint のオンラインでは使用できません。マージの競合など、比較のプレゼンテーションの校閲者の高度な機能を PowerPoint デスクトップ アプリケーションでのみ利用できます。PowerPoint online では、することができます表示、追加、編集、またはコメントを削除します。
+PowerPoint Online では利用できません。 重複の結合やプレゼンテーションの比較などの高度な校閲者機能は、PowerPoint デスクトップ アプリでのみ利用できます。 PowerPoint Online では、コメントの表示、追加、編集、または削除を行うことができます。
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>Rights management:IRM 保護とパスワード保護の適用および使用
 <a name="bkmk_CreationPasswords"> </a>
@@ -227,7 +227,7 @@ PowerPoint Online では、SmartArt を挿入し、別のレイアウトや配�
 
 テーブルは PowerPoint Online で作成と編集ができ、PowerPoint Online はほとんどのテーブル関数をサポートしています。セルのマージや分割などの高度な関数については、PowerPoint デスクトップ アプリを使用します。詳細については、「[PowerPoint の web ベースの主な機能](https://go.microsoft.com/fwlink/?LinkId=272763)」を参照してください。
   
-## <a name="tell-me"></a>教えて
+## <a name="tell-me"></a>操作アシスト
 <a name="Bkmk_TellMe_PPT"> </a>
 
 PowerPoint Online で何かを成し遂げる必要があるが、その方法がわからない場合は、「教えて」検索機能を使用すれば、情報を短時間で見つけることができます。「教えて」を利用すればさまざまな機能について詳しく知ることができ、作業時間短縮のためのヒントが得られます。
@@ -240,9 +240,9 @@ PowerPoint Online で何かを成し遂げる必要があるが、その方法�
 ## <a name="view-and-add-comments"></a>コメントの表示と追加
 <a name="bkmk_Viewaddcomments"> </a>
 
-SharePoint Online またはビジネスのための OneDrive では、ファイルが保存されている場合は、追加して編集、またはコメントを削除することができます。 
+ファイルが SharePoint Online または OneDrive for business に保存されている場合は、コメントを追加、編集、または削除することができます。 
   
-OneDrive には、ファイルが保存されている場合を追加、編集、またはビューの編集中にコメントを削除することができ、表示し、全画面表示中にコメントを更新できます。
+ファイルが OneDrive に保存されている場合は、編集ビューでコメントを追加、編集、または削除することができます。また、閲覧表示中にコメントを表示して更新することもできます。
   
 ## <a name="view-and-edit-slide-notes"></a>スライド ノートの表示と編集
 <a name="bkmk_Viewslidenotes"> </a>

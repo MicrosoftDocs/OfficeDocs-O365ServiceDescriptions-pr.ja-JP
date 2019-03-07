@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving のクライアント機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online のアーカイブと、さまざまなデバイスやプラットフォームから、アーカイブ メールボックスに接続するユーザーが使用できます。ユーザーのアーカイブへのすべてのネットワーク接続は、インターネット上で発生して、仮想プライベート ネットワーク (VPN) 接続は必須ではありません。組織では、VPN 接続を必要とせず Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにするのには、オンプレミスのクライアント アクセス サーバーを公開できます。VPN アクセスが必要な場合、オンプレミスのサーバー上にあるユーザーのプライマリのメールボックスにアクセスするため、この要件は変更されません。
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続がインターネット経由で行われるため、仮想プライベート ネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036202"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467184"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving のクライアント機能
 
-Microsoft Exchange Online のアーカイブと、さまざまなデバイスやプラットフォームから、アーカイブ メールボックスに接続するユーザーが使用できます。ユーザーのアーカイブへのすべてのネットワーク接続は、インターネット上で発生して、仮想プライベート ネットワーク (VPN) 接続は必須ではありません。組織では、VPN 接続を必要とせず Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにするのには、オンプレミスのクライアント アクセス サーバーを公開できます。VPN アクセスが必要な場合、オンプレミスのサーバー上にあるユーザーのプライマリのメールボックスにアクセスするため、この要件は変更されません。
+Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続がインターネット経由で行われるため、仮想プライベート ネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
   
 > [!IMPORTANT]
 > Microsoft は、Exchange Online Archiving サービスの正常性に悪影響を及ぼすクライアント ソフトウェアからの接続をブロックまたは制限する権利を有します。 
@@ -50,11 +50,11 @@ Outlook 2007 はアーカイブの基本的なサポートを提供しますが�
 |:-----|:-----|
 |Outlook 2010 以降  <br/> |Exchange Online Archiving の最新機能をサポートします。<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Exchange Online Archiving と一緒に使用するためにサポートされています。<sup>1、2</sup> <br/> |
-|Outlook 2003  <br/> |サポート対象外  <br/> |
-|Outlook for Mac 2011  <br/> |サポート対象外  <br/> |
+|Outlook 2003  <br/> |exExchange2k7 および以前のバージョン  <br/> |
+|Outlook for Mac 2011  <br/> |exExchange2k7 および以前のバージョン  <br/> |
 |Outlook for Mac  <br/> |サポート対象外 Exchange Online Archiving<sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |サポート対象外  <br/> |
-|IMAP と POP  <br/> |サポート対象外  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |exExchange2k7 および以前のバージョン  <br/> |
+|IMAP と POP  <br/> |exExchange2k7 および以前のバージョン  <br/> |
 |Exchange ActiveSync (モバイル デバイス)  <br/> |サポート対象外  <br/> |
    
 > [!NOTE]

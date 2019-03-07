@@ -1,7 +1,7 @@
 ---
 title: メッセージングのポリシーと準拠 [ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online ・保護 (EOP) には、メッセージングのポリシーが用意されていて、電子メール データを管理することができますコンプライアンス機能します。
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036230"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466974"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>メッセージングのポリシーと準拠 [ServiceDesc]
 
-Microsoft Exchange Online ・保護 (EOP) には、メッセージングのポリシーが用意されていて、電子メール データを管理することができますコンプライアンス機能します。
+Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
   
-EOP のすべての機能についての説明をご覧になりますか?「[Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+すべての EOP 機能に関する情報をお探しですか? 「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
   
 ## <a name="transport-rules"></a>トランスポート ルール
 <a name="BKMK_transportrules"> </a>
@@ -64,7 +64,7 @@ EAC で DLP ポリシーを構成することにより、次のことが可能�
   
 DLP の詳細については、「[データ損失防止](https://go.microsoft.com/fwlink/p/?LinkId=320398)」を参照してください。
   
-## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
+## <a name="office-365-message-encryption"></a>はい
 <a name="BKMK_OME_in_EOP"> </a>
 
 Office 365 Message Encryption は、Azure Information Protection の一部で、電子メールのユーザーが暗号化された電子メール メッセージを任意のユーザーに送信できるようにするオンライン サービスです。社内展開の Exchange カスタマーが Office 365 Message Encryption を利用する場合は、Azure Information Protection を購入し、Exchange Online Protection を使って Exchange Online を介したメール フローをセットアップする必要があります。Exchange Online の Office 365 Message Encryption の詳細については、「Exchange Online サービスの説明」の「[Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)」を参照してください。 
@@ -74,10 +74,10 @@ Office 365 Message Encryption は、Azure Information Protection の一部で、
 
 |**機能**|**EOP スタンドアロン**|**Exchange Online の EOP 機能**|**Exchange Enterprise CAL とサービス**|
 |:-----|:-----|:-----|:-----|
-|トランスポート ルール  <br/> |はい<sup>1</sup> <br/> |<sup>1</sup>を [はい] します。 <br/> |はい  <br/> |
-|監査ログ  <br/> |<sup>2</sup>を [はい] します。 <br/> |○  <br/> |はい  <br/> |
-|データ損失防止 (DLP)  <br/> |いいえ  <br/> |はい  <br/> |<sup>3</sup>を [はい] します。 <br/> |
-|Office 365 Message Encryption  <br/> |<sup>4</sup>を [はい] します。 <br/> |はい  <br/> |<sup>4</sup>を [はい] します。 <br/> |
+|トランスポート ルール  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい  <br/> |
+|監査ログ  <br/> |はい<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |
+|データ損失防止 (DLP)  <br/> |いいえ  <br/> |はい  <br/> |はい<sup>3</sup> <br/> |
+|Office 365 Message Encryption  <br/> |はい<sup>4</sup> <br/> |はい  <br/> |はい<sup>4</sup> <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 使用可能な条件とアクションは、EOP と Exchange Online で異なります。EOP で使用可能な条件とアクションのリストについては、「 [トランスポート ルールの条件 (述語)](https://go.microsoft.com/fwlink/p/?LinkId=320392)」と「[トランスポート ルールのアクション](https://go.microsoft.com/fwlink/p/?LinkId=320393)」を参照してください。Exchange Online で使用可能な条件とアクションのリストについては、「[メール フロー ルールの条件 (述語)](https://go.microsoft.com/fwlink/p/?LinkId=320394)」と「[メール フロー ルールの処理](https://go.microsoft.com/fwlink/p/?LinkId=320395)」を参照してください。 > <sup>2</sup> EOP 監査レポートは、メールボックスに関する情報を除いた Exchange Online 監査レポートの一部です。 > <sup>3</sup> サービス付き Exchange Enterprise CAL のお客様は、DLP ポリシー ヒントを利用できません。 > <sup>4</sup>Azure Information Protection アドオンを購入し、Exchange Online Protection を使用して Exchange Online 経由で電子メールをルーティングしているオンプレミスのお客様のためにサポートされています。デスクトップ エクスペリエンスのために、Azure Information Protection アドオンに加えて、Office 365 ProPlus を購入する必要があります。 

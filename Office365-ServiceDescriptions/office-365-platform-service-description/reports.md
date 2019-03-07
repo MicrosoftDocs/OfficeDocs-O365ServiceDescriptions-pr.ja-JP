@@ -1,7 +1,7 @@
 ---
 title: レポート
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
-description: Microsoft Office 365 の管理者は、組織が Office 365 サービスを使用する方法を示すレポートを表示できます。問題を特定する、データをフィルター処理、および Microsoft Excel にデータをダウンロードするには、これらのレポートを使用します。Office 365 のレポート web サービスを使用して独自のレポートを作成することもできます。オンラインの Exchange および Exchange オンライン保護 (EOP) の管理者は、マルウェア、スパム、およびルールの検出に関するデータを表示するのには、Office 365 のメール保護のレポートを使用できます。
-ms.openlocfilehash: e813b545b302121fd7d61c606bbafb4b11559d77
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft office 365 の管理者は、組織が Office 365 サービスをどのように使用しているかを示すレポートを表示できます。 このレポートを使用すれば、問題を特定したり、データをフィルター処理したり、データを Microsoft Excel にダウンロードしたりできます。 また、Office 365 レポート Web サービスを使用して、独自のレポートを作成することも可能です。 Exchange Online および Exchange Online Protection (EOP) の管理者は Office 365 のメール保護レポートによるマルウェア、スパム、ルールの検出に関するデータ表示を行うことができます。
+ms.openlocfilehash: 0ad1389e9c3bb7c400368389739f62abed62b275
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036233"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466634"
 ---
 # <a name="reports"></a>レポート
 
-Microsoft Office 365 の管理者は、組織が Office 365 サービスを使用する方法を示すレポートを表示できます。問題を特定する、データをフィルター処理、および Microsoft Excel にデータをダウンロードするには、これらのレポートを使用します。Office 365 のレポート web サービスを使用して独自のレポートを作成することもできます。オンラインの Exchange および Exchange オンライン保護 (EOP) の管理者は、[マルウェア、スパム、およびルールの検出に関するデータを表示するのには Office 365 のメール保護のレポートを使用する](https://go.microsoft.com/fwlink/p/?LinkId=401102)ことができます。
+Microsoft office 365 の管理者は、組織が Office 365 サービスをどのように使用しているかを示すレポートを表示できます。 このレポートを使用すれば、問題を特定したり、データをフィルター処理したり、データを Microsoft Excel にダウンロードしたりできます。 また、Office 365 レポート Web サービスを使用して、独自のレポートを作成することも可能です。 Exchange Online および Exchange Online Protection (EOP) の管理者は [Office 365 のメール保護レポートによるマルウェア、スパム、ルールの検出に関するデータ表示](https://go.microsoft.com/fwlink/p/?LinkId=401102)を行うことができます。
   
 詳細については、「[Office 365 管理センターのアクティビティ レポート](https://go.microsoft.com/fwlink/p/?LinkID=270182)」を参照してください。21Vianet が運用されている Office 365 については、「[21Vianet が運用している Office 365 のレポートの表示とダウンロード](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409)」を参照してください。
   

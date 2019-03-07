@@ -1,7 +1,7 @@
 ---
-title: Sites[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: サイト [servicedesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,24 +14,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次のサイト機能は、任意の種類のサイト、およびサイトの管理を簡略化する単一のインフラストラクチャを作成するのには、組織が使用できるツールの完全なセットを提供します。詳細な情報を検索するには、SharePoint Online のコンテンツの検索を参照してください。
-ms.openlocfilehash: c154bbd75accb312e3415b820b5ed1439f28e7b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のサイト機能は、組織があらゆる種類のサイトを作成し、さらにサイト管理を簡素化する単一のインフラストラクチャを構築するために使用できる完全なツール セットを提供します。 詳細については、「SharePoint Online に関する情報を探す」をご覧ください。
+ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036293"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467884"
 ---
-# <a name="sitesservicedesc"></a>サイト [ServiceDesc]
+# <a name="sitesservicedesc"></a>サイト [servicedesc]
 
-Microsoft SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次のサイト機能は、任意の種類のサイト、およびサイトの管理を簡略化する単一のインフラストラクチャを作成するのには、組織が使用できるツールの完全なセットを提供します。詳細な情報を見つけるには、 [SharePoint Online のコンテンツの検索](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)を参照してください。
+Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のサイト機能は、組織があらゆる種類のサイトを作成し、さらにサイト管理を簡素化する単一のインフラストラクチャを構築するために使用できる完全なツール セットを提供します。 詳細については、「[SharePoint Online に関する情報を探す](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)」をご覧ください。
   
-## <a name="cross-browser-support"></a>クロス ブラウザーのサポート
+## <a name="cross-browser-support"></a>Cross Browser Support
 <a name="bkmk_CrossBrowserSupport"> </a>
 
 SharePoint Online は、Internet Explorer の最新の 3 つのバージョン、Google Chrome の最新バージョン、Mozilla Firefox、Apple Safari をはじめ、一般に使用されている Web ブラウザーを複数サポートしています。詳細については、「[SharePoint 2013 でブラウザー サポートを計画する](https://go.microsoft.com/fwlink/?LinkId=271048)」を参照してください。
   
-## <a name="custom-managed-paths"></a>カスタムの管理パス
+## <a name="custom-managed-paths"></a>Custom Managed Paths
 <a name="bkmk_CustomManagedPaths"> </a>
 
 管理パスを定義することで、Web アプリケーションの URL 名前空間でサイト コレクション用にどのパスを使用するかを指定できます。1 つの指定したパスで 1 つ以上のサイト コレクションが存在するように指定できます。これは、さまざまな部門のユーザーへの複数のサイト アクセスを統合する便利な方法です。詳細については、「[管理されたパスを定義する (SharePoint Server 2013)](https://go.microsoft.com/fwlink/?LinkId=271049)」を参照してください。
@@ -46,22 +46,22 @@ SharePoint Online は、Internet Explorer の最新の 3 つのバージョン�
 
 どのサイトにおいても重要ですが、通常は目に見えない部分がガバナンス モデルです。これは、グループ内の人々がどのように SharePoint を使用するか決定するために確立するポリシー、役割、責任、およびプロセスのセットです。詳細については、「[概要: チーム サイトの使用状況を管理するためのベスト プラクティス](https://go.microsoft.com/fwlink/?LinkId=271050)」を参照してください。
   
-## <a name="large-list-scalability-and-management"></a>大規模なリストのスケーラビリティと管理
+## <a name="large-list-scalability-and-management"></a>Large List Scalability and Management
 <a name="bkmk_LargeListScalabilityManagement"> </a>
 
 キー リストとライブラリの機能を計画し使用することで、サイトの他の部分のパフォーマンスに悪影響を及ぼすことなく、自分と他のユーザーが迅速に情報を検索できるようにします。詳細については、「[SharePoint で大規模なリストとライブラリを管理する](https://go.microsoft.com/fwlink/?LinkId=271051)」を参照してください。
   
-## <a name="mobile-connectivity"></a>モバイル接続
+## <a name="mobile-connectivity"></a>Mobile Connectivity
 <a name="bkmk_MobileConnectivity"> </a>
 
 インターネット接続された携帯電話またはタブレットから外出先でも SharePoint サイトにアクセスできます。ドキュメント、リスト、その他のサイト コンテンツの表示と更新や同僚との共同作業など、すべてをモバイル デバイスから実行できます。詳細については、「[モバイル デバイスを使用して SharePoint Online サイトを操作する](https://go.microsoft.com/fwlink/?LinkId=271052)」を参照してください。
   
-## <a name="multi-lingual-user-interface"></a>多言語ユーザー インターフェイス
+## <a name="multi-lingual-user-interface"></a>Multi-Lingual User Interface
 <a name="bkmk_MultiLingualUserInterface"> </a>
 
 多言語ユーザー インターフェイス (MUI) 機能を使用すると、SharePoint インストール時の既定の言語とは異なる言語でサイトを作成できます。詳細については、「[多言語機能の概要](https://go.microsoft.com/fwlink/?LinkId=271053)」を参照してください。
   
-## <a name="ootb-web-parts"></a>OOTB Web パーツ
+## <a name="ootb-web-parts"></a>OOTB Web Parts
 <a name="bkmk_OOTBWebParts"> </a>
 
 Web パーツは、Web パーツ ページの基本的な文書パーツを形成する情報のモジュラー ユニットです。
@@ -71,7 +71,7 @@ Web パーツは、Web パーツ ページの基本的な文書パーツを形�
 
 SharePoint のアクセス許可は、組織が必要とするどの詳細レベルでもアクセス権を管理できるように十分に柔軟かつ設定可能です。次の 3 つの主要なセキュリティ要素が連動して、ユーザーによるサイトおよびサイトのコンテンツに対するアクセスを制御します。それらは、アクセス許可継承、アクセス許可レベル (SharePoint の役割として知られている場合もある)、および SharePoint グループ (または、SharePoint セキュリティ グループ) です。詳細については、「[SharePoint のアクセス許可レベルについて](https://go.microsoft.com/fwlink/?LinkId=271054)」を参照してください。
   
-## <a name="project-site-template"></a>プロジェクト サイト テンプレート
+## <a name="project-site-template"></a>Project site template
 <a name="bkmk_Projectsitetemplate"> </a>
 
 プロジェクト サイト テンプレートを使用して、タスクのキャプチャと組織内の人々へのタスクの割り当て、プロジェクト関連のドキュメントの格納と管理、共通の予定表でのプロジェクト チーム イベントの追跡を実行できるサイトを作成できます。詳細については、「[プロジェクト サイトの使用を開始する](https://go.microsoft.com/fwlink/?LinkId=271228)」を参照してください。
@@ -81,17 +81,17 @@ SharePoint のアクセス許可は、組織が必要とするどの詳細レベ
 
 リストは、チーム メンバーや他のサイトのユーザーと共有できるデータの集合です。たとえば、リストを使用して、イベント用のサインアップ シートを作成したり、予定表でチーム ベントを追跡したりできます。リスト アイテムを整理するために適した起点となるいくつかのすぐに使えるリストとリスト テンプレートを使用できます。詳細については、「[リストの概要](https://go.microsoft.com/fwlink/?LinkId=271056)」を参照してください。
   
-## <a name="site-designs"></a>サイト デザイン
+## <a name="site-designs"></a>サイトデザイン
 <a name="bkmk_Templates"> </a>
 
 SharePoint で新しいサイトを作成する場合は、サイトのベースとするサイト テンプレートの選択から始めます。サイト テンプレートには、リスト、ライブラリ、ページ、および組織のニーズをサポートするその他の要素や機能が含まれます。詳細については、「[チーム サイトをカスタマイズする](https://go.microsoft.com/fwlink/?LinkId=271058)」を参照してください。
   
-## <a name="site-themes-change-the-look"></a>サイトのテーマ (外観を変更する)
+## <a name="site-themes-change-the-look"></a>サイトテーマ (外観を変更)
 <a name="bkmk_Themes"> </a>
 
 プロフェッショナルなスタイルとブランドをより簡単に使用し反映できるように、チーム サイトを迅速にカスタマイズできます。テーマは、色とフォントをサイトにすばやく適用できる方法です。
   
-## <a name="site-usage-page"></a>サイト利用状況のページ
+## <a name="site-usage-page"></a>サイト閲覧状況ページ
 <a name="bkmk_UsageAnalytics"> </a>
 
 Web Analytics レポートは、SharePoint に事前に組み込まれているレポートで、利用状況データを使用して、サイトとサイト コレクションのさまざまな側面を分析します。 
@@ -101,7 +101,7 @@ Web Analytics レポートは、SharePoint に事前に組み込まれている�
 
 タスク リストは、単一のリストにタスクとサブタスクがまとめて表示され、階層的な方法で作業を管理するために使用されます。タスクは、開始日と終了日を指定し、組織内の人に割り当て、図示されたタイムラインを含めることができます。詳細については、「[プロジェクトのサマリー Web パーツでタスクとイベントを表示する](https://go.microsoft.com/fwlink/?LinkId=271230)」を参照してください。
   
-## <a name="team-notebook"></a>チーム ノートブック
+## <a name="team-notebook"></a>チームノートブック
 <a name="bkmk_TeamSiteNotebook"> </a>
 
 チーム サイトを作成すると、OneNote 2013 共有ノートブックがサイトの一部として自動的に作成されます。このノートブックを使用して、情報をキャプチャ、コンパイル、および共有することができます(この機能は、Office Online サポートを含む Office 365 スイートに登録している場合のみ使用できます)。

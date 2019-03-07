@@ -1,7 +1,7 @@
 ---
 title: Word Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: 使用できるドキュメントとドキュメントが保存されている web サイト上で直接 web ブラウザーに、Microsoft Word の経験をオンライン Word (Word Web App では以前) に拡張します。
-ms.openlocfilehash: fabe2049a8b35666a6bb608c3198ac68473ffca2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: word Online (旧称 word Web App) は、Microsoft word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
+ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036257"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467304"
 ---
 # <a name="word-online"></a>Word Online
 
-使用できるドキュメントとドキュメントが保存されている web サイト上で直接 web ブラウザーに、Microsoft Word の経験をオンライン Word (Word Web App では以前) に拡張します。 
+word Online (旧称 word Web App) は、Microsoft word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。 
   
 ## <a name="alignment-guides-and-live-layout"></a>位置揃えガイドと忠実なレイアウト
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -146,12 +146,12 @@ OneDrive または SharePoint でドキュメントを開くと、Word Online �
 
 Word Online と Word デスクトップ アプリの両方で、ドキュメントにヘッダーとフッターを挿入します。ヘッダーとフッターを文書の最初のページ以外のすべてのページに適用することもできます。Word Online でのヘッダーとフッターの使用方法については、「[ビデオ: Word Online の新機能](https://go.microsoft.com/fwlink/?LinkId=389520).」を参照してください。
   
-## <a name="hyperlinks"></a>ハイパーリンク
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Word Online では、ドキュメント内のブックマークへのリンクを簡単に作成したり、カーソルでリンクをポイントしたときに表示されるヒントを設定したりできます。詳細については、「[Word Web App のハイパーリンク](https://go.microsoft.com/fwlink/p/?LinkId=271863)」を参照してください。
   
-## <a name="index"></a>索引
+## <a name="index"></a>インデックス
 <a name="bkmk_index"> </a>
 
 索引には、文書内で扱われている用語やトピックと、それらが出現するページが一覧表示されます。索引を作成するには、メイン項目の名前と文書内での相互参照を指定することによって索引項目をマークしてから、索引を作成します。
@@ -323,7 +323,7 @@ Word Online では使用できません。Word Online を使用して、既存�
 
 タップ機能を使用して、コンテンツを検索して再利用します。タップすると、最も頻繁に利用する関連ファイルが提示されるので、ファイルや情報の検索よりもドキュメントの作成に集中することが可能になります。詳細については、「[Word を開いたまま、必要に応じて目的のコンテンツを検索し、再利用する](https://go.microsoft.com/fwlink/?linkid=825878)」を参照してください。
   
-## <a name="tell-me"></a>教えて
+## <a name="tell-me"></a>操作アシスト
 <a name="BKMK_Tell_Me_Word"> </a>
 
 Word Online で何かを成し遂げる必要があるが、その方法がわからない場合は、「教えて」検索機能を使用すれば、情報を短時間で見つけることができます。「教えて」を利用すればさまざまな機能について詳しく知ることができ、作業時間短縮のためのヒントが得られます。

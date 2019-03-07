@@ -1,7 +1,7 @@
 ---
 title: メッセージ ポリシーと準拠
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: fd5062df19298720417566d91667f3c3b237b164
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036429"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467254"
 ---
 # <a name="message-policy-and-compliance"></a>メッセージ ポリシーと準拠
 
@@ -70,7 +70,7 @@ Exchange Online で利用できるアイテム保持ポリシーの機能は、E
   
 詳細については、「[保持タグおよびアイテム保持ポリシー](https://go.microsoft.com/fwlink/p/?LinkId=271745)」を参照してください。
   
-## <a name="encryption-of-data-at-rest"></a>保存データの暗号化
+## <a name="encryption-of-data-at-rest"></a>保管中データの暗号化
 
 Office 365 の顧客保存データの暗号化は、Exchange Online、Skype for Business、OneDrive for Business、SharePoint Online での複数のサービス側テクノロジ (BitLocker、DKM、Azure Storage Service Encryption、およびサービス暗号化を含む) によって提供されます。Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。この顧客管理キー オプションは [Office 365 顧客キー](https://go.microsoft.com/fwlink/?linkid=863349)と呼ばれ、Exchange Online、SharePoint Online、OneDrive for Business で使用できます。 
   
@@ -86,7 +86,7 @@ BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロ�
 
 顧客キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにある保存データの暗号化にそれを使用するよう Office 365 を構成できます。保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。詳しくは、「[顧客キーを使用して Office 365 のデータを制御する](https://go.microsoft.com/fwlink/?linkid=863349)」および「[Office 365 の顧客キーによるサービスの暗号化に関してよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=869438)」を参照してください。
   
-## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
+## <a name="office-365-message-encryption"></a>はい
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 Message Encryption によって、電子メール ユーザーは暗号化された電子メールを任意の宛先に送信できます。Azure Information Encryption の保護機能を活用する Office Message Encryption の新機能を発表しました。これらの新機能ではエンド ユーザー エクスペリエンスが拡張されており、それによって組織内外のだれとでも保護されたメッセージを簡単に共有し、共同作業をすることが可能になります。新しい Office Message Encryption 機能のセットアップにはいくつかの要件があります。Azure Information Protection をベースにビルドされている新しい Office 365 Message Encryption 機能のセットアップ情報を参照してください。従来の Office 365 Message Encryption を使用しているお客様は、上記のガイダンスに基づいてセットアップを行わない限り、新機能をご利用になれません。Office 365 Message Encryption の新旧それぞれの機能の詳細については、[FAQ](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) を参照してください。 

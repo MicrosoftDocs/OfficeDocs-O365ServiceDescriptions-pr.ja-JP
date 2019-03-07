@@ -1,7 +1,7 @@
 ---
 title: Skype for Business Online の機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 管理者である場合は、「skype for business online のセットアップ」で skype for business online の機能をセットアップするための詳細な手順を確認できます。
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210260"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467434"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 
@@ -118,7 +118,7 @@ Microsoft はすべての Skype for Business Online データ センターを直
     
 Skype for Business Online 管理の最新ヘルプ トピックと方法に関する記事については、「[Office 365 の Skype for Business Online - 管理ヘルプ](https://support.office.com/en-us/article/Skype-for-Business-Online-in-Office-365-%e2%80%93-Admin-Help-4307bdbf-6097-458d-9a6a-048112695c59)」を参照してください。
   
-## <a name="audio-conferencing-in-office-365"></a>Office 365 における電話会議
+## <a name="audio-conferencing-in-office-365"></a>Office 365 の電話会議
 <a name="BKMK_Audio"> </a>
 
 電話会議とは、少なくとも 1 人の参加者が電話を使用して、音声部分にダイヤルインする会議のことを指します。電話を使用して会議にアクセスする機能は、ユーザーが外出先にいるときや、モバイル デバイスまたは PC を使用して会議に参加できないときに役立ちます。電話を使用することが最適なオプションとなるシナリオには、インターネット接続が制限されている場合や、会議が音声のみである場合などがあります。
@@ -129,21 +129,21 @@ Office 365 では、Office 365 をダイヤルイン会議プロバイダーと�
   
 一部の国または地域では電話会議は使用できません。電話会議機能を購入できる国と地域の一覧については、「[電話会議とプランの呼び出しのサポートされている国/地域](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」をご覧ください。
   
-## <a name="calling-plans-in-office-365"></a>Office 365 での通話プラン
+## <a name="calling-plans-in-office-365"></a>Office 365 の通話プラン
 <a name="BKMK_CallingPlans"> </a>
 
 Skype for Business には、公衆交換電話網 (PSTN) の通話機能が含まれます。通話プランは、[Skype for Business Online の機能](https://technet.microsoft.com/en-us/library/mt631190.aspx)へのアドオンであり、電話番号の検索、取得、組織内のユーザーへの割り当てを行うことができ、ユーザーは Office 365 から直接、組織内外のユーザーに電話で発信したり、着信を受けたりできるようになります。電話番号が割り当てられたユーザーは、VoIP 電話、PC、モバイル デバイスなどの、すべての Skype for Business デバイス間で音声通話を行えます。さらに、ミュート/ミュート解除、保留/再開、通話の転送、着信の転送機能を使用して通話を制御することもできます。また、必要に応じて、緊急通話を行うこともできます。 
   
 使用できる通話プランの詳細については、「[Office 365 向けの通話プラン](https://products.office.com/en-us/skype-for-business/pstn-calling-plans)」を参照してください。詳細と通話プランのセットアップについては、「[PSTN 通話とは](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
   
-## <a name="phone-system-in-office-365"></a>Phone System in Office 365
+## <a name="phone-system-in-office-365"></a>Office 365 の電話システム 
 <a name="BKMK_PhoneSystem"> </a>
 
 Phone System in Office 365 を使用すれば、Skype for Business、および自社の既存の電話回線または着信および発信用の電話システムのいずれかを使用できます。Phone System in Office 365 を使用すれば、ユーザーは Skype for Business を使って、インターネットにアクセスできるほぼすべての場所から、通話の発信、着信、転送、ミュートまたはミュート解除などの基本的なタスクを実行できます。
   
 電話システムを使用すると、既存の PBX システムを、Office 365 から直接提供される機能セットに置き換えて、Microsoft のクラウドの生産性を向上させるエクスペリエンスと緊密に統合することができます。完全なイン ザ クラウド エクスペリエンスを選択することも、一部の機能をオンプレミスで維持しながら電話システムの利点を活用するハイブリッド展開を選択することもできます。 .
   
-## <a name="skype-meeting-broadcast"></a>Skype 会議ブロードキャスト
+## <a name="skype-meeting-broadcast"></a>Skype 会議メディア
 <a name="BKMK_Broadcast"> </a>
 
 Skype 会議ブロードキャストを使用すれば、Office 365 ユーザーは最大で 10,000 人の出席者に対する会議をインターネット上で作成してブロードキャストすることができます。出席者は、事実上デバイスの種類に関係なくブラウザーから会議に参加できます。Skype 会議ブロードキャストを使用して、内部の「タウン ホール」形式の会議やパブリック ウェビナーなど大規模な仮想会議のホスト役を務めることができます。会議を記録して、参加者の関与と満足度を評価するためにカスタマイズすることもできます。 

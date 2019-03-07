@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving のアーカイブ機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: 次のセクションでは、Microsoft Exchange Online のアーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: 次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215352"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467204"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving のアーカイブ機能
 
-次のセクションでは、Microsoft Exchange Online のアーカイブのアーカイブ機能について説明します。
+次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
   
 ## <a name="archive-mailbox"></a>アーカイブ メールボックス
 
@@ -37,7 +37,7 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving へのメッセージの移動
 
-ユーザーは、ドラッグし、.pst ファイルから簡単にオンライン アクセス、アーカイブにメッセージをドロップします。ユーザーも電子メール アイテム プライマリ メールボックスからアーカイブ メールボックスに自動的に移動、アーカイブ ポリシーを使用してサイズを小さくして、プライマリ メールボックスのパフォーマンスを向上します。この現象が Exchange ホスト アーカイブ アーカイブに各メッセージのセカンダリ ・ コピーを作成し、異なるシナリオでは、保存の要件を実現できます。 
+ユーザーは、メッセージを .pst ファイルからアーカイブにドラッグ アンド ドロップするだけで簡単にオンラインでアクセスできます。 また、アーカイブ ポリシーを使用して電子メール アイテムをプライマリ メールボックスからアーカイブ メールボックスに自動的に移動することによって、プライマリ メールボックスのサイズを削減し、パフォーマンスを向上させることができます。 この動作はアーカイブ内に各メッセージの 2 次コピーが作成される Exchange Hosted Archive と異なりますが、どちらのシナリオでも保存要件を満たすことができます。 
   
 ### <a name="import-data-to-the-archive"></a>アーカイブへのデータのインポート
 
@@ -74,7 +74,7 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 ## <a name="mailbox-service-redundancy"></a>メールボックス サービスの冗長性
 
-Exchange Online Archiving のアーカイブ メールボックスは、メッセージング インフラストラクチャの障害が発生した場合のデータ復元機能を提供する、地理的に分散されている Microsoft データ センター内の複数のデータベース コピーにレプリケートされます。大規模な障害は、ビジネス継続性の管理が開始されます。 
+Exchange Online アーカイブのアーカイブメールボックスは、地理的に分散した Microsoft データセンターの複数のデータベースコピーにレプリケートされ、メッセージングインフラストラクチャに障害が発生した場合にデータ復元機能を提供します。 大規模な障害については、ビジネス継続性管理が開始されます。 
   
 ## <a name="feature-availability"></a>機能の可用性
 

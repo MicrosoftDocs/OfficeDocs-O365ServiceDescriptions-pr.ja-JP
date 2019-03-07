@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online は使用中の Microsoft Visio エクスペリエンスを Web ブラウザーにまで拡張します。これにより、ダイアグラムをそれが保存された Web サイト上で直接操作することができます。Microsoft Office 365 のお客様は、Office Online を使用して外出先でもダイアグラムを表示して共有し、コメントを挿入することができます。
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036214"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467564"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -70,7 +70,7 @@ Visio Online では、省略記号ボタン (…) をクリックし、その後
 
 Visio Online では、フォント、フォント サイズ、またはその他のフォント外観の属性 (太字、斜体、上付き文字、下線など) は変更できません。
   
-## <a name="hyperlinks"></a>ハイパーリンク
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
 Visio Online では、図形をクリックするとハイパーリンクに直接アクセスできます。
@@ -148,6 +148,6 @@ Visio ダイアグラムはオンラインで保存されるため、そのリ�
 ## <a name="zoom"></a>拡大/縮小
 <a name="BM_25"> </a>
 
-Visio のオンラインでは、ズームインおよびズームアウトできるスライダーが含まれています。また、パンを使用することができます&amp;、図の領域を拡大するズーム機能。
+Visio Online includes a slider that lets you zoom in and out. Also, you can use the Pan &amp; Zoom feature to zoom in on a region of the diagram.
   
 

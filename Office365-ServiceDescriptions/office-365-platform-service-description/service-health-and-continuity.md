@@ -1,7 +1,7 @@
 ---
 title: サービスの正常性および継続性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,20 +12,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365 の管理者では、サービスの状態を表示でき、メンテナンスが予定されていることを検出することができます。サービス稼働状態の情報をいつでも参照するには、Office 365 にサインインします。
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258739"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466954"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
-Microsoft Office 365 の管理者では、サービスの状態を表示でき、メンテナンスが予定されていることを検出することができます。サービス稼働状態の情報をいつでも参照するには、Office 365 にサインインします。
+Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
   
 > [!NOTE]
-> 21Vianet が運用している Office 365 を使用している場合、以下の情報は適用できない場合があります。代わりに、「[21Vianet のサービス レベル契約](http://www.21vbluecloud.com/office365/O365-SLA/)」を参照してください。 
+> 21Vianet が運用している Office 365 を使用している場合、以下の情報は適用できない場合があります。 代わりに、「[21Vianet のサービス レベル契約](http://www.21vbluecloud.com/office365/O365-SLA/)」を参照してください。 
   
 ## <a name="view-status-of-services"></a>サービスの状態の表示
 
@@ -73,7 +73,7 @@ Office 365 サービス通信 API を使用すると、思いどおりに Office
   
 計画外のサービス インシデントは、SLA サービスで定義されたサービスの使用に影響を与える、マルチ テナント サービスの中断として定義され、サービスの正常性ダッシュボードでそのように宣言されています。
   
-  大多数の組織全体に広範で大きな影響があった、お客様に影響を与える計画外のサービス インシデントに対して、暫定のインシデントの事後レビュー (PIR) が、インシデントの解決から 48 時間以内にサービスの正常性ダッシュボード経由で配信されます。続いて最終的な PIR が 5 営業日以内に配信されます。この詳細な PIR レポートには以下の項目が含まれています。 
+ 大多数の組織全体に広範で大きな影響があった、お客様に影響を与える計画外のサービス インシデントに対して、暫定のインシデントの事後レビュー (PIR) が、インシデントの解決から 48 時間以内にサービスの正常性ダッシュボード経由で配信されます。続いて最終的な PIR が 5 営業日以内に配信されます。この詳細な PIR レポートには以下の項目が含まれています。 
   
 - ユーザー エクスペリエンスや顧客への影響
     
@@ -111,7 +111,7 @@ Microsoft は、以下の機能によって、お客様がいつでも必要な�
     
 - **予防保守の実行:** 予防保守には、データベースの整合性チェック、定期的なデータ圧縮、およびエラー ログのレビューなどがあります。 
     
-## <a name="support"></a>サポート
+## <a name="support"></a>Support
 
 Office 365 の開発および運用チームは、お客様にビジネス継続性を提供するうえで重要な役割を担う専門の Office 365 サポート組織がサポートしています。サポート スタッフはサービスおよびサービスに関連するアプリケーションに精通しており、Microsoft 社内のアーキテクチャ、開発、テストの専門家と直接やり取りします。
   

@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving のコンプライアンス機能とセキュリティ機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: c54ec8f37c6f881dc934307f7784f79d01c7a878
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036248"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467794"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving のコンプライアンス機能とセキュリティ機能
 

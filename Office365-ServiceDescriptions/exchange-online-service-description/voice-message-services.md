@@ -1,7 +1,7 @@
 ---
 title: ボイス メッセージ サービス
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 98591e47ece7c59581824c6df375c41c66b7d2d1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036339"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467924"
 ---
 # <a name="voice-message-services"></a>ボイス メッセージ サービス
 

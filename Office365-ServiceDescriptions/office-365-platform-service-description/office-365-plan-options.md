@@ -1,7 +1,7 @@
 ---
 title: Office 365 プランのオプション
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -16,17 +16,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
-description: Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。
-ms.openlocfilehash: d775e3bef016989bd43708272ec45fe5a2df6b3a
-ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
+description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
+ms.openlocfilehash: 03c04b0b5967247a1ea8b058e74abca98d10bb38
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "26984800"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467134"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
-Microsoft Office 365 は、さまざまな組織のニーズに最適なプランであります。
+Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 サービス ファミリーおよびプラン
 <a name="bkmk_O365Service_Families_and_Plans"> </a>
@@ -51,27 +51,31 @@ Microsoft Office 365 は、さまざまな組織のニーズに最適なプラ�
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**サービス** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 エンタープライズ E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
-|Office 365 プラットフォーム  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Exchange Online  <br/> |<sup>6</sup>を [はい] します。 <br/> |不要  <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>を [はい] します。 <br/> |はい<sup>7</sup> <br/> |<sup>7</sup>を [はい] します。 <br/> |<sup>9</sup>を [はい] します。 <br/> |
-|SharePoint Online  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>を [はい] します。 <br/> |
-|Skype ビジネス オンライン<sup>15</sup> <br/> |<sup>10</sup>を [はい] します。 <br/> |不要  <br/> |はい<sup>10</sup> <br/> |<sup>10</sup>を [はい] します。 <br/> |<sup>11</sup>を [はい] します。 <br/> |<sup>13</sup>を [はい] します。 <br/> |<sup>14</sup>を [はい] します。 <br/> |
+|**サービス** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
+|Office 365 プラットフォーム  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
+|SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |
+|Skype for business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
 |Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |
-|Project Online  <br/> |なし<sup>1</sup> <br/> |いいえ  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |なし<sup>1</sup> <br/> |
+|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|Project Online  <br/> |なし<sup></sup> <br/> |いいえ  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Yammer エンタープライズ  <br/> |はい  <br/> |なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure の情報保護<sup>3</sup> <br/> |なし<sup>2</sup> <br/> |いいえ  <br/> |いいえ<sup>2</sup> <br/> |なし<sup>2</sup> <br/> |はい  <br/> |あり  <br/> |なし<sup>2</sup> <br/> |
+|Yammer エンタープライズ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |いいえ  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
    
-> <sup>1</sup>プロジェクト オンラインが含まれていないが、アドオン サービスとして購入またはできる Office 365 の教育計画に無料で追加します。 > 
-<br/><sup>2</sup> azure 情報の保護が含まれていませんが、別のアドオンとして購入することができ、サポートされている情報権利管理 (IRM) 機能を有効にするには。Azure の情報保護機能の一部では、Office 365 用リソース、Office 365 の業務に関する重要事項、Office 365 のビジネス プレミアム、Office 365 エンタープライズ E1、Office 365 の教育、または Office 365 エンタープライズ f1 キーに含まれているではないサブスクリプションが必要です。_gt<br/><sup>3</sup>以上については、Azure の情報保護機能に含まれている Office 365 のプランについては、 [Azure の情報の保護](https://technet.microsoft.com/en-us/dn858608)を参照してください。 > <br/><sup>4 には</sup>office 365 エンタープライズ E5 には、電話システム、電話会議、および計画を呼び出す機能が含まれています。呼び出す計画を実装するには、(国内または国際) のプランの追加購入が必要です。_gt<br/><sup>5</sup>には、2 GB のストレージが含まれています。デスクトップの同期機能は含まれません。_gt<br/><sup>6</sup> Exchange Online プラン 1 が含まれます。 > 
-<br/><sup>7</sup> Exchange Online プラン 2 が含まれます。 > 
-<br/><sup>8</sup> Exchange Online プラン 1 と補足機能が含まれます。 > 
+> <sup>1</sup> Project Online は含まれていませんが、個別のアドオンサービスとして購入するか、Office 365 エデュケーションプランに無料で追加することができます。 > 
+<br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. > 
+<br/><sup>3</sup> Office 365 プランに含まれている azure information protection 機能の詳細については、「 [azure information protection](https://technet.microsoft.com/en-us/dn858608)」を参照してください。 > <br/><sup>4</sup> Office 365 Enterprise E5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話または国際通話) が必要です。 > 
+<br/><sup>5</sup>は 2 GB のストレージを備えています。 デスクトップの同期機能は含まれていません。 > 
+<br/><sup>6</sup> Exchange Online プラン1が含まれます。 > 
+<br/><sup>7</sup> Exchange Online プラン2が含まれます。 > 
+<br/><sup>8</sup> Exchange Online プラン1および補足機能が含まれます。 > 
 <br/><sup>9</sup> Exchange Online Kiosk が含まれます。 > 
-<br/><sup>10</sup> Basic クライアント制限付きの Skype for Business Online プラン 2 が含まれます。 > <br/><sup>11</sup> クライアント制限のない Skype for Business Online プラン 2 が含まれます。 > <br/><sup>12</sup> Skype for Business Online プラン 1 と補足機能が含まれます。 > <br/><sup>13</sup> 音声サポート付きでクライアント制限のない Skype for Business Online プラン 2 が含まれます。 > 
-<br/><sup>14</sup>   Skype for Business Online プラン 1 が含まれます。 
-<br><sup>15</sup>マイクロソフトのチームが、プライマリ クライアント メッセージング、会議と、Office 365 で呼び出すことです。開始 2018 年 10 月 1日接続クライアント数が 500 以下の新しい Office 365 お客様マイクロソフトのチームに onboarded、オンライン ビジネスの Skype へのアクセスを必要はありません。テナントは既に使用している Skype のオンライン ビジネスは実行を続行するのにはマイクロソフトのチームへの移行を完了するまで (新しいユーザーのプロビジョニング) を含むためです。<br><sup>16</sup>は、高度なコンプライアンス、データ ・ ガバナンスの高度な高度な電子的証拠開示、ロック ボックスの顧客、顧客キー、特権のアクセス管理、および長期的な監査ログの保存機能を提供します。
+<br/><sup>10</sup>基本的なクライアント制限による Skype for business Online プラン2が含まれています。 > <br/><sup>11</sup>クライアント制限のない Skype for business Online プラン2が含まれています。 > <br/><sup>12</sup> Skype for business Online プラン1と補足機能が含まれています。 > <br/><sup>13</sup>音声サポートを備えた Skype for business Online プラン2が含まれています。クライアントの制限はありません。 > 
+<br/><sup>14</sup> Skype for business Online プラン1が含まれています。 
+<br><sup>15</sup> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1日に、500座席またはそれ以下の新しい Office 365 お客様は、Microsoft Teams に利用され、Skype for business Online にアクセスすることはできません。 既に Skype for business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行することができます。
+<br><sup>16</sup> advanced コンプライアンスは、高度なデータガバナンス、advanced eDiscovery、カスタマーロックボックス、顧客キー、特権アクセス管理、長期の監査ログ保持機能を提供します。
   
 #### <a name="basic-client-limitations"></a>Basic クライアント制限
 

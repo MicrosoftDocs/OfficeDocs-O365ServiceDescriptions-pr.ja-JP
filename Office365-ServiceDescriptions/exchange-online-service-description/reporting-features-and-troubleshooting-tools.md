@@ -1,7 +1,7 @@
 ---
 title: レポート機能とトラブルシューティング ツール
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft exchange Online は、exchange 管理センター (EAC) の内外で、さまざまなレポート機能を提供します。
-ms.openlocfilehash: 16bcea7f90115ca3238e502e5b57d756d24025ba
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210220"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466984"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>レポート機能とトラブルシューティング ツール
 
@@ -30,15 +30,15 @@ Exchange Online のお客様は、Microsoft 365 管理センターで、excel �
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>Microsoft 365 管理センターでのレポート
 
-Microsoft 365 管理センターの [レポート] ページには、メールボックスとグループに関する概要情報を提供するレポートがあります。たとえば、1つのレポートには、日、週、月、または年によって作成および削除されたグループの数が表示されます。また、新規および削除されたメールボックスに対する要約レポートと、アクティブなメールボックスと非アクティブなメールボックスに関する概要レポートもあります。 
+Microsoft 365 管理センターの [レポート] ページには、メールボックスとグループに関する概要情報を提供するレポートがあります。 たとえば、あるレポートでは、日、週、月、または年単位に作成および削除されたグループの数の一覧があります。 また、新しいメールボックスと削除済みのメールボックス、アクティブおよび非アクティブなメールボックスに関する概要レポートもあります。 
   
-さらに、Microsoft 365 管理センターの [レポート] ページには、メッセージトラフィック、スパムおよびマルウェアの検出、および Exchange トランスポートルールまたはデータ損失防止 (DLP) の影響を受けるメッセージに関する情報を提供するメッセージングデータレポートが含まれています。規定.保護、ルール、および DLP の拡張されたレポートは、Exchange Online 管理者向けの対話型レポートを提供します。これらのレポートは、概要データと個々のメッセージに関する詳細をドリルダウンする機能を提供します。
+さらに、Microsoft 365 管理センターの [レポート] ページには、メッセージトラフィック、スパムおよびマルウェアの検出、および Exchange トランスポートルールまたはデータ損失防止 (DLP) の影響を受けるメッセージに関する情報を提供するメッセージングデータレポートが含まれています。規定. 保護、ルール、および DLP の拡張されたレポートは、Exchange Online 管理者向けの対話型レポートを提供します。 これらのレポートでは、概要データと、個別のメッセージに関する詳細へのドリルダウン機能が提供されます。
   
-各 Office 365 サブスクリプションで使用可能なレポートの詳細については、「 [reports](../office-365-platform-service-description/reports.md)」を参照してください。Microsoft 365 管理センターの [レポート] ページの詳細については、「 [office 365 のサービス利用状況に関するレポートの表示とダウンロード](https://go.microsoft.com/fwlink/p/?LinkId=401187)」および「 [office 365 でメール保護レポートを使用する」を参照し、マルウェア、スパム、ルールの検出に関するデータを表示してください。](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+各 Office 365 サブスクリプションで利用可能なレポートの詳細については、[レポート](../office-365-platform-service-description/reports.md)を参照してください。 Microsoft 365 管理センターの [レポート] ページの詳細については、「 [office 365 のサービス利用状況に関するレポートの表示とダウンロード](https://go.microsoft.com/fwlink/p/?LinkId=401187)」および「 [office 365 でメール保護レポートを使用する」を参照し、マルウェア、スパム、ルールの検出に関するデータを表示してください。](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Excel レポート作成ワークブックを使用したレポート作成
 
-Excel 2013 レポートブックを使用して、ドリルダウン機能を備えた概要レポートを表示することもできます。ただし、強化された Microsoft 365 管理センターのレポートを代わりに使用することをお勧めします。Excel 2013 レポートブックは、今後使用されなくなる予定です。詳細と、ブックをダウンロードしてインストールするためのリンクについては、次の[ダウンロードページ](https://go.microsoft.com/fwlink/p/?LinkId=271776)を参照してください。ブックの使用方法については、「 [Excel レポート作成ブックを使用したメール保護レポート](https://go.microsoft.com/fwlink/p/?LinkId=285211)」を参照してください。 
+Excel 2013 レポート作成ワークブックを使用して、ドリルダウン機能を備えた概要レポートを表示することもできます。 ただし、強化された Microsoft 365 管理センターのレポートを代わりに使用することをお勧めします。 Excel 2013 レポート ワークブックは、今後は提供されなくなる予定です。 詳細情報およびレポート作成ワークブックのダウンロードおよびインストール用のリンクについては、次の[ダウンロード ページ](https://go.microsoft.com/fwlink/p/?LinkId=271776)を参照してください。 レポート作成ワークブックの使用方法については、「[Excel レポート ワークブックを使用したメール保護レポート](https://go.microsoft.com/fwlink/p/?LinkId=285211)」を参照してください。 
   
 ### <a name="reporting-using-web-services"></a>Web サービスを使用したレポート作成
 

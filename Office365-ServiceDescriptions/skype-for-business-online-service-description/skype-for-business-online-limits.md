@@ -1,7 +1,7 @@
 ---
 title: Skype for Business Online の制限
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online の制限は、以下のカテゴリに分類されます。
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213894"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466964"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -49,7 +49,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |該当なし  <br/> |
+|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |該当なし  <br/> |
 |会話数の制限<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |該当なし  <br/> |
    
@@ -61,7 +61,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online スタンドアロン プラン 1** <br/> |**Skype for Business Online スタンドアロン プラン 2** <br/> |
-|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
+|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |
 |会話数の制限<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
@@ -94,7 +94,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |Skype for Business Web アプリ会議の参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
 |Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
 |電話で参加するゲスト  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
-|チーム呼び出しグループ内の個人  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |該当なし  <br/> |
+|チーム呼び出しグループ内の個人  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |該当なし  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Skype for Business 会議の参加者数が 75 人を超える場合は、会議の参加者名簿の参加者リスト (司会者と出席者) が省略されて、個々の出席者に司会者と出席者自身の名前のみが表示されるようにします。会議の司会者には、完全な参加者リストが表示されます。また、ギャラリー ビューと IM エラーは出席者には表示されません。 
@@ -110,7 +110,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |Skype for Business Web アプリ会議の参加者数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
 |Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
 |電話で参加するゲスト  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
-|チーム呼び出しグループ内の個人  <br/> |25  <br/> |該当なし  <br/> |25  <br/> |
+|チーム呼び出しグループ内の個人  <br/> |まで  <br/> |該当なし  <br/> |まで  <br/> |
    
 ## <a name="meeting-retention-limits"></a>会議の保存期限
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
@@ -119,7 +119,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
     
 - **会議の有効期限** 会議が終了した後でユーザーが会議にアクセスできる時間。 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 のオプションおよびスタンドアロンの計画会議の保存期間の制限
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 のオプションとスタンドアロンプランの会議の保持制限
 
 > [!NOTE]
 > 各ユーザーは、いつでも最大 1,000 件の会議をデータベースに保存できます。 
@@ -127,10 +127,10 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**会議の種類** <br/> |**説明** <br/> 
-|1 回限りの会議| 会議で使用できるには、少なくとも、スケジュールされた時刻、会議の最後のアクティブ化、または最後の会議の更新後 14 日後まで、最新のほうです。
-|終了日との定期的な会議| 会議で使用できるには、少なくとも最後の会議の予定、会議の最後のアクティブ化、または最後の会議の更新のスケジュールされた終了時間後の 14 日後まで、最新のほうです。
-|終了日のない定期的な会議| 会議常にアクセス可能になります、新しい会議の結合 (アクティブ化) があるまたは 1 年間に少なくとも 1 回の更新をスケジュールします。
-|[会議の開始]|8 時間以上の会議にアクセスできます。
+|1 回限りの会議| 会議は、スケジュールされた時刻または最後の会議の更新、または最後の会議の更新のうち14日以内にアクセス可能になります。
+|終了日が設定された定期的な会議| 少なくとも、最後の会議が予定されている終了時刻以降、または最後の会議の更新または最後の会議の更新のうち14日後に、会議にアクセスできるようになります。
+|終了日を含まない定期的な会議| 新しい会議の参加 (ライセンス認証) がある場合、または1年に1回以上のスケジュール更新が行われた場合、常に会議にアクセスできるようになります。
+|即時会議|少なくとも8時間、会議にアクセスできるようになります。
 
 
   

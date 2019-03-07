@@ -1,7 +1,7 @@
 ---
 title: ソーシャル
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
-description: Microsoft SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次のソーシャル機能は、それらの最も効果的な方法で共同作業を使用できます。どう。、アイデアを共有するすべてのユーザーが使用できる便利なコラボレーション ツールを提供することによって、人と専門知識、およびビジネスの場所の情報を検索します。
-ms.openlocfilehash: 3e964ef776b8df36700964463eaeeb2557288ce6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のソーシャル機能により、ユーザーは、最も効果的な方法で共同作業を行うことができます。 どう。 すべてのユーザーがアイデアを共有するために使用できる高度なコラボレーションツールを提供し、人と専門知識、および場所のビジネス情報を見つけます。
+ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036225"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466464"
 ---
 # <a name="social"></a>ソーシャル
 
-Microsoft SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次のソーシャル機能は、それらの最も効果的な方法で共同作業を使用できます。どう。、アイデアを共有するすべてのユーザーが使用できる便利なコラボレーション ツールを提供することによって、人と専門知識、およびビジネスの場所の情報を検索します。 
+Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のソーシャル機能により、ユーザーは、最も効果的な方法で共同作業を行うことができます。 どう。 すべてのユーザーがアイデアを共有するために使用できる高度なコラボレーションツールを提供し、人と専門知識、および場所のビジネス情報を見つけます。 
   
-## <a name="personal-blogs"></a>個人のブログ
+## <a name="personal-blogs"></a>個人用ブログ
 <a name="bkmk_Blogs"> </a>
 
 組織では、ブログにより、従業員、パートナー、顧客間で情報を迅速に共有できます。ユーザーはさまざまなサブジェクト領域への見識の追加、インスピレーションやガイダンスの提供、新しいガイダンスや手続きの説明ができます。
@@ -39,7 +39,7 @@ Microsoft SharePoint Online は、Web ベースのツールと保存、共有、
 
 会社フィードは、組織のパブリック ニュースフィードです。ユーザーがフォローしていない人が作成した投稿も含めて、すべての投稿は会社に表示されます。[会社フィード](https://go.microsoft.com/fwlink/p/?LinkId=271062)について詳細情報を参照してください。
   
-## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>サイト フィード (従来のチーム サイトが SharePoint の社会を使用して)
+## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)
 <a name="bkmk_SiteFeed"> </a>
 
 サイトのフィードは、ニュースフィードと同じように、情報を投稿したりその他の投稿に応答したりする、チーム サイト上の場所です。[少人数のグループへの投稿](https://go.microsoft.com/fwlink/p/?LinkId=271071)について詳細情報を参照してください。

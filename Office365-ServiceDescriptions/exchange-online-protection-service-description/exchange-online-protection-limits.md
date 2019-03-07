@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Protection の制限
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: 次の制限は、Exchange のオンライン保護現在存在します。指定がない限り、これらの制限は構成可能ではありません。
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036377"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468144"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
-次の制限は、Exchange のオンライン保護現在存在します。指定がない限り、これらの制限は構成可能ではありません。 
+現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。 
   
 > [!TIP]
 > Exchange Online の制限について詳しくは、「[Exchange Online の制限](../exchange-online-service-description/exchange-online-limits.md)」を参照してください。トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
@@ -50,7 +50,7 @@ ms.locfileid: "24036377"
 |**機能**|****EOP スタンドアロン****|****EOP 機能Exchange Online****|****Exchange Enterprise CAL (サービス付き)****|
 |:-----|:-----|:-----|:-----|
 |ドメインの制限  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|メッセージ サイズの制限 (添付ファイルを含む)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|メッセージ サイズの制限 (添付ファイルを含む)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |受信者の制限  <br/> |上記の "受信者の制限" を参照  <br/> |ホストされているメールボックスから送信する場合は、500 人の受信者。その他のシナリオについては、上記の "受信者の制限" を参照  <br/> |上記の "受信者の制限" を参照  <br/> |
 |差出人セーフ リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
 |ブロックする差出人の制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||

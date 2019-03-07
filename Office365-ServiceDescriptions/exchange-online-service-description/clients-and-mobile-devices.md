@@ -1,7 +1,7 @@
 ---
 title: クライアントとモバイル デバイス
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: ad19845f7a06cfb01a74507fdb794813091c1c2b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036349"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467614"
 ---
 # <a name="clients-and-mobile-devices"></a>クライアントとモバイル デバイス
 
-## <a name="microsoft-outlook"></a>Microsoft Outlook
+## <a name="microsoft-outlook"></a>Microsoft Outlook
 
 Microsoft Outlook は、予定表、連絡先、タスク、および以下の主な機能をサポートする電子メール プログラムです。
   
@@ -38,7 +38,7 @@ Exchange 2016 と Exchange Online でサポートされている Outlook クラ�
 > [!IMPORTANT]
 >  Outlook は、Exchange Online サブスクリプションの価格には含まれません。Microsoft Office Pro Plus (Microsoft Outlook を含みます) は、一部の Office 365 プランに含まれている他、個別のサブスクリプションとしても購入できます。 >  POP を使用して Exchange Online の電子メール アカウントに接続する場合、次の制限事項が表示されます。 >  予定表情報がない >  空き時間情報がない >  グローバル アドレス一覧がない >  プッシュ メールがない >  POP 経由で接続した場合、すべてのメッセージはクライアントにダウンロードされ、複数のコンピューターまたはデバイス間 (ノート PC と携帯電話の間など) で同期されることはありません。 
   
-## <a name="outlook-on-the-web"></a>Web 上の Outlook
+## <a name="outlook-on-the-web"></a>Outlook on the web
 
 Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。インターネットに接続していれば、どこからでも電子メール、予定表、連絡先に Web ブラウザーでアクセスできます。サポートされているブラウザーについては、「[Office のシステム要件](https://go.microsoft.com/fwlink/p/?LinkId=287032)」を参照してください。
   
@@ -61,7 +61,7 @@ Exchange Online は、iOS、Android、および Windows Phone で使用可能な
 |||||
 |:-----|:-----|:-----|:-----|
 |デバイス  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook モバイル アプリ利用の可否  <br/> |可  <br/> [Outlook for Android の入手](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可  <br/> [Outlook for iOS の入手](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |組み込み  <br/> |
+|Outlook モバイル アプリ利用の可否  <br/> |はい  <br/> [Outlook for Android の入手](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可  <br/> [Outlook for iOS の入手](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |組み込み  <br/> |
 |Exchange Online と互換性のある組み込みの電子メール アプリ  <br/> |Gmail アプリ/Samsung 電子メール アプリ  <br/> |iOS メール アプリ  <br/> |Outlook メール、予定表、連絡先  <br/> |
 |詳細情報  <br/> |[Android モバイルのセットアップ](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone または iPad のセットアップ](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone のセットアップ](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    

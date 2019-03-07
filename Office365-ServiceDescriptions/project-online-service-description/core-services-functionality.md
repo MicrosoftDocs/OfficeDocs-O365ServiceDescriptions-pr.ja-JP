@@ -1,7 +1,7 @@
 ---
 title: コア サービスの機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: 次のコア サービスの機能の機能は、プロジェクトをオンラインで使用できます。
-ms.openlocfilehash: b244c29c0858b1334dee7cc6841c12a2e4b1a45c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 次のコアサービス機能は、Project Online で利用できます。
+ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036227"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468054"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 
-次のコア サービスの機能の機能は、プロジェクトをオンラインで使用できます。
+次のコアサービス機能は、Project Online で利用できます。
   
-Project Online のすべての機能についての説明をお探しの場合は、「[Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
 ## <a name="active-directory-integration"></a>Active Directory の統合
 <a name="bkmk_AD_Integration"> </a>
@@ -59,7 +59,7 @@ Microsoft PPM ソリューションは、PPM コンピテンシーを獲得し�
 
 Office 365 をご利用のお客様には、99.9% の稼働率と業界トップレベルの金銭的保証をお約束しています。[サービスの継続性](https://go.microsoft.com/fwlink/?LinkId=402653)に関する記事をご覧ください。
   
-## <a name="service-updates"></a>サービス更新
+## <a name="service-updates"></a>Service updates
 <a name="bkmk_Serviceupdates"> </a>
 
 Office 365 サービスの機能は新しい機能で定期的に更新されます。「[サービス更新](../office-365-platform-service-description/service-updates.md)」を参照してください。

@@ -1,7 +1,7 @@
 ---
 title: メール フロー
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: 'Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。以下に、こうしたオプションについて記します。 '
-ms.openlocfilehash: 3decc04fb4c426e161541c1d24480cc0344b0a00
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
+ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036301"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467294"
 ---
 # <a name="mail-flow"></a>メール フロー
 
-Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。以下に、こうしたオプションについて記します。  
+Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。 
   
 ## <a name="custom-routing-of-outbound-email"></a>送信電子メールのカスタム ルーティング
 
@@ -35,7 +35,7 @@ Microsoft Exchange Online は、社内サーバーまたはホステッド サ�
 > [!IMPORTANT]
 > Exchange Online は、組織との間を流れるメールを配信できます。 
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>信頼できるパートナーとのセキュリティで保護されたメッセージング
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
 Exchange Online のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。コネクタを作成して、TLS による暗号化を適用することができます。[TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) は、インターネット上の通信にセキュリティを提供する暗号化プロトコルです。コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
   
@@ -44,7 +44,7 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
 > [!IMPORTANT]
 > CA 検証の証明書が必要な場合があります。 
   
-## <a name="conditional-mail-routing"></a>条件付きメール ルーティング
+## <a name="conditional-mail-routing"></a>Conditional mail routing
 
 コネクタとトランスポート ルールを使用して特定のサイトにメールをルーティングできます。条件に基づいたルーティングでは、特定の条件に基づいてコネクタを選択できます。
   

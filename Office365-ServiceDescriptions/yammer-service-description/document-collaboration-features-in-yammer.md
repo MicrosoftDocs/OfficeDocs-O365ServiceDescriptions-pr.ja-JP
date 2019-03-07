@@ -1,7 +1,7 @@
 ---
 title: Yammer のドキュメント コラボレーション機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer では次のドキュメント コラボレーション機能が利用可能です。
-ms.openlocfilehash: 3f38d139e2b792620ab653f160875efe610769bd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aff27c7638975044c76aa6328cd3939230afd2b8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036368"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466314"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer のドキュメント コラボレーション機能
 
@@ -29,7 +29,7 @@ Yammer では次のドキュメント コラボレーション機能が利用可
 
 Microsoft Office ドキュメント、PDF、画像、ビデオをチーム間で共有し、すぐにフィードバックを得ることができます。新しいバージョンをアップロードすると、全員が最新の下書きを見る事ができ、いつでも旧バージョンにアクセスできます。
   
-## <a name="recent-changes"></a>最近の変更
+## <a name="recent-changes"></a>Recent Changes
 <a name="bkmk_RecentChanges"> </a>
 
 [最近の変更] ウィンドウ内では、一目で各作業者がドキュメントに加えた編集のすべてが分かります。いつでも前のバージョンに戻すことができます。
@@ -37,7 +37,7 @@ Microsoft Office ドキュメント、PDF、画像、ビデオをチーム間で
 ## <a name="official-content"></a>公式コンテンツ
 <a name="bkmk_OfficialContent"> </a>
 
-公式および読み取り専用としてファイルをマークします。公式コンテンツでは、検索結果と簡単にアクセスできるコンテンツのディレクトリ内の上位の項目が表示されます。
+ファイルを公式および読み取り専用としてマークします。 公式コンテンツは簡単にアクセスできる様、検索結果やコンテンツ ディレクトリの上位に表示されます。
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Yammer プランのドキュメント コラボレーション機能
 <a name="bkmk_OfficialContent"> </a>

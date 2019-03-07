@@ -1,7 +1,7 @@
 ---
 title: Yammer のグループ機能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer では次のグループ機能が利用可能です。
-ms.openlocfilehash: 52415e7ce37aad1fd88e8078b34f0752c6e6b35c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036295"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467544"
 ---
 # <a name="group-features-in-yammer"></a>Yammer のグループ機能
 
@@ -34,7 +34,7 @@ Yammer では次のグループ機能が利用可能です。
 
 すでに参加済みのグループにグループを追加して優先順位付けができるので、同僚は関連するもっと多くの関係者、コンテンツ、会話を見つけられます。
   
-## <a name="announcements"></a>アナウンス
+## <a name="announcements"></a>Announcements
 <a name="bkmk_Announcements"> </a>
 
 アナウンスをグループと共有して、重要な更新をメンバーに直ちに通知します。管理者は、簡単に見つけられるように、グループに対するアナウンスをピン留めできます。

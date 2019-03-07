@@ -1,7 +1,7 @@
 ---
 title: ユーザー アカウント管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210280"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467744"
 ---
 # <a name="user-account-management"></a>ユーザー アカウント管理
 
@@ -49,9 +49,9 @@ ID の種類は、ユーザー エクスペリエンスおよびユーザー ア
   
 ### <a name="custom-domains-and-identity-options"></a>カスタム ドメインと ID オプション
 
-新しいユーザーを作成すると、ユーザーのサインイン名と電子メールアドレスが、Microsoft 365 管理センターで設定されている既定のドメインに割り当てられます。詳細については、「 [Office 365 にユーザーとドメインを追加する](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 
+新しいユーザーを作成すると、ユーザーのサインイン名と電子メールアドレスが、Microsoft 365 管理センターで設定されている既定のドメインに割り当てられます。 詳細については、「[Office 365 でドメインの所有者の確認方法](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 
   
-既定では、Office 365 サブスクリプションは、 \< __ \>アカウントを使用して作成された**onmicrosoft.com**ドメインを使用します。\* onmicrosoft.com ドメインを保持するのではなく、1つ以上のカスタムドメインを Office 365 に追加し、検証済みの任意のドメインでサインインするようユーザーを割り当てることができます。各ユーザーが割り当てられたドメインは、送受信される電子メールメッセージに表示される電子メールアドレスです。 
+By default, the Office 365 subscription uses the \< _company name_\> **.onmicrosoft.com** domain that was created with the account.\* You can add one or more custom domains to Office 365 rather than retaining the onmicrosoft.com domain, and can assign users to sign in with any of the validated domains. Each user's assigned domain is the email address that will appear on sent and received email messages. 
   
 Office 365 では、それぞれが別々の名前空間で表現される最大 900 の登録済みインターネット ドメインをホストできます。 
   
@@ -77,7 +77,7 @@ Office 365 は形式ベースの認証を使用しており、ネットワーク
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Office 365 で Multi-Factor Authentication
 
-Office 365\*で多要素認証を使用する場合、ユーザーは、パスワードを正確に入力した後に、スマートフォンで電話、テキストメッセージ、またはアプリの通知に同意する必要があります。この2番目の認証の後にのみ、ユーザーがサインインすることができます。Office 365 管理者は、Microsoft 365 管理センターで多要素認証のためにユーザーを登録することができます。[Office 365 の多要素認証の](https://go.microsoft.com/fwlink/p/?LinkId=392429)詳細について説明します。
+With Multi-Factor Authentication for Office 365\*, users are required to acknowledge a phone call, text message, or an app notification on their smartphone after correctly entering their password. Only after this second authentication can the user sign in. Office 365 管理者は、Microsoft 365 管理センターで多要素認証のためにユーザーを登録することができます。 Learn more about [Multi-Factor Authentication for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>リッチ クライアント認証
 
@@ -115,7 +115,7 @@ Office 365 サービスの適切な検出と認証を確認するため、管理
   
 ## <a name="creating-user-accounts"></a>ユーザー アカウントの作成
 
-Office 365 にユーザーを追加する方法は複数あります。詳細については、「[ユーザーを個別にまたは一括で Office 365 に追加する-管理者向けヘルプ](https://go.microsoft.com/fwlink/p/?linkid=860006)」および「 [Microsoft 365 管理センタープレビューでユーザーを追加、削除、および管理](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)する」を参照してください。中国で21vianet が運用している office 365 を使用している場合は、「 [office のユーザーアカウントを作成または編集する (office 365 の管理者向けヘルプ](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)」を参照してください)。
+Office 365 にユーザーを追加する方法は複数あります。 詳細については、「[ユーザーを個別にまたは一括で Office 365 に追加する-管理者向けヘルプ](https://go.microsoft.com/fwlink/p/?linkid=860006)」および「 [Microsoft 365 管理センタープレビューでユーザーを追加、削除、および管理](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)する」を参照してください。 中国で運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でユーザー アカウントを作成または編集する - 管理者向けヘルプ](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)」を参照してください。
   
 ## <a name="deleting-accounts"></a>アカウントの削除
 
@@ -145,7 +145,7 @@ Office 365 にユーザーを追加する方法は複数あります。詳細に
   
 - **管理者によるパスワードの再設定** ユーザーが自分のパスワードをなくすか忘れた場合、管理者が Office 365 ポータルで、または Windows PowerShell を使用してユーザーのパスワードを再設定できます。ユーザーは、自分の現在のパスワードを知っている場合に、自分のパスワードだけを変更できます。 
     
-    エンタープライズプランでは、管理者がパスワードを紛失または忘れた場合、グローバル管理者の役割を持つ別の管理者が、Microsoft 365 管理センターまたは Windows PowerShell を使用して、管理者のパスワードを再設定することができます。詳細については、「[管理者のパスワードをリセットする](https://go.microsoft.com/fwlink/p/?LinkID=270062)」を参照してください。中国で21vianet が運用している office 365 で作業している場合は、「 [Change or reset パスワード in Office 365 in 21vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)」を参照してください。
+    エンタープライズプランでは、管理者がパスワードを紛失または忘れた場合、グローバル管理者の役割を持つ別の管理者が、Microsoft 365 管理センターまたは Windows PowerShell を使用して、管理者のパスワードを再設定することができます。 詳細については、「[Office 365 の管理者パスワードを再設定する](https://go.microsoft.com/fwlink/p/?LinkID=270062)」を参照してください。 中国で 21Vianet が運用している Office 365 で作業している場合は、「[21Vianet が運用している Office 365 でパスワードを変更または再設定する](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)」を参照してください。
     
 - **Outlook Web App を使用したユーザーによるパスワード変更** Outlook Web App オプション ページには、ユーザーを **[パスワードの変更]** ページにリダイレクトする、パスワード変更のハイパーリンクが含まれています。ユーザーは、以前のパスワードを知っている必要があります。詳細については、「 [Outlook Web アプリでパスワードを変更する](https://go.microsoft.com/fwlink/p/?LinkID=270063)」を参照してください。中国で 21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でパスワードを変更または再設定する](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)」を参照してください。
     
@@ -167,7 +167,7 @@ Office 365 の課金管理者は、会社で使用するユーザー ライセ�
   
 ## <a name="group-management"></a>グループの管理
 
-セキュリティグループは、サイトへのアクセスを制御するために、SharePoint Online で使用されます。セキュリティグループは、Microsoft 365 管理センターで作成できます。セキュリティグループの詳細については、「[セキュリティグループを作成、編集、または削除する](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)」を参照してください。
+SharePoint Online では、セキュリティ グループを使用してサイトへのアクセスを制御します。 セキュリティグループは、Microsoft 365 管理センターで作成できます。 セキュリティ グループの詳細については、「[セキュリティ グループを作成、編集、削除する](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)」を参照してください。
   
 ## <a name="administrator-roles"></a>管理者の役割
 

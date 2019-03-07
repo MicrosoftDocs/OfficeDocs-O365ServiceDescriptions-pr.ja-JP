@@ -1,7 +1,7 @@
 ---
 title: ヘルプとトレーニング
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210290"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467084"
 ---
 # <a name="help-and-training"></a>ヘルプとトレーニング
 
@@ -27,7 +27,7 @@ Microsoft Office 365 では、次のヘルプとトレーニングリソース�
 ## <a name="online-help"></a>オンライン ヘルプ
 <a name="BKMK_Online_Help"> </a>
 
-ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。すべての Office 365 ヘルプを[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)検索することもできます。 
+ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。 すべての Office 365 ヘルプを[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)検索することもできます。 
   
 ## <a name="training"></a>トレーニング
 <a name="BKMK_Online_Help"> </a>
@@ -101,7 +101,7 @@ Office 365 コミュニティのホーム ページから次のリソースに�
   
 詳細については、「[Office 365 (IT 担当者向け)](https://go.microsoft.com/fwlink/?LinkId=272058)」をご覧ください。
   
-## <a name="other-self-help-resources"></a>その他のセルフ ヘルプ リソース
+## <a name="other-self-help-resources"></a>その他のセルフヘルプ リソース
 <a name="BKMK_OtherSelfHelpResources"> </a>
 
 Office 365 コミュニティ、およびオンライン ヘルプ以外にも、Office 365 には次のセルフヘルプ リソースがあります。
@@ -121,7 +121,7 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
   
 |**言語**|**オンライン ヘルプ記事**|**Wiki とブログ**|**フォーラム**|**Tech Center**|**トラブルシューティング ツール**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|アラビア語  <br/> |X  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アラビア語  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ブルガリア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |簡体字中国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |繁体字中国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -131,16 +131,16 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
 |エストニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |フィンランド語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |フランス語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ドイツ語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |あり  <br/> |はい  <br/> |
+|ドイツ語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ギリシャ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ハンガリー語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |×  <br/> |
-|イタリア語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |あり  <br/> |あり  <br/> |
+|ハンガリー語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|イタリア語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |日本語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|韓国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |○  <br/> |
+|韓国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ラトビア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |リトアニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ノルウェー語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ポーランド語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |×  <br/> |はい  <br/> |
+|ポーランド語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |ポルトガル語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ポルトガル語 - ブラジル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ルーマニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -148,7 +148,7 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
 |セルビア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |スロバキア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |スロベニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|スペイン語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |○  <br/> |
+|スペイン語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |スウェーデン語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |タイ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |トルコ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |

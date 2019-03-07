@@ -1,7 +1,7 @@
 ---
 title: アクセス許可
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online は、役割ベースのアクセス制御 (RBAC) モデルを使用して、ユーザーおよび IT 従業員がサービスで実施できることを組織の管理者が細かく制御できるようにします。たとえば、コンプライアンス責任者がメールボックス検索の要求を担当する場合、管理者はこの管理機能を RBAC により責任者に委任できます。Exchange Online では、Microsoft Exchange Server 2013 と同じ RBAC フレームワークが使用されます。
-ms.openlocfilehash: 037a92123c67e313f4db93835be6355bbd829efc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036300"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468134"
 ---
 # <a name="permissions"></a>アクセス許可
 

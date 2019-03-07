@@ -1,7 +1,7 @@
 ---
 title: タスク管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: プロジェクトをオンラインで次のタスク管理機能を利用できます。
-ms.openlocfilehash: e646577d086d0d1a024d4f6705bc54c8b4f1fcdd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Project Online では、次のタスク管理機能が利用可能です。
+ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036217"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468194"
 ---
 # <a name="task-management"></a>タスク管理
 
-プロジェクトをオンラインで次のタスク管理機能を利用できます。
+Project Online では、次のタスク管理機能が利用可能です。
   
-Project Online のすべての機能についての説明をお探しの場合は、「[Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
-## <a name="active-and-inactive-tasks"></a>アクティブおよび非アクティブ タスク
+## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 <a name="bkmk_ActiveInactiveTasks"> </a>
 
 タスクを非アクティブ化すると、プロジェクト プラン内に保持されていても、リソースの可用性、プロジェクト スケジュール、その他のタスクのスケジュール方法には影響しません。[タスクの非アクティブ化](https://go.microsoft.com/fwlink/p/?LinkId=271335)について詳細情報を参照してください。
@@ -41,7 +41,7 @@ Project Online のすべての機能についての説明をお探しの場合�
 
 自動スケジュール モードを使用して、タスクを自動的にスケジュールに設定します。[プロジェクトでタスクをスケジュールに設定する方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)について詳細情報を参照してください。 
   
-## <a name="calendar-date-extended-to-2149"></a>2149 年まで延長されたカレンダー
+## <a name="calendar-date-extended-to-2149"></a>Calendar date extended to 2149
 <a name="bkmk_Calendardatextended"> </a>
 
 プロジェクトのタスクは、2149 年までのカレンダーを使用できるようになりました。 
@@ -61,12 +61,12 @@ Project Online のすべての機能についての説明をお探しの場合�
 
 タスクと他のタスクとの関係を確認するため、プロジェクト全体のタスクのタスク パスを強調表示します。[タスク間のリンクを強調表示する方法](https://go.microsoft.com/fwlink/p/?LinkId=271345)について詳細情報を参照してください。
   
-## <a name="top-down-summary-tasks"></a>トップダウン サマリー タスク
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 <a name="bkmk_Topdownsummarytasks"> </a>
 
 サマリー タスクへのリソース割り当てを作成します。[トップダウンの計画](https://go.microsoft.com/fwlink/p/?LinkId=271333)について詳細情報を参照してください。
   
-## <a name="update-progress"></a>進行状況の更新
+## <a name="update-progress"></a>Update progress
 <a name="bkmk_Updateprogress"> </a>
 
 タスクの進行状況を更新し、完了の割合を表示します。

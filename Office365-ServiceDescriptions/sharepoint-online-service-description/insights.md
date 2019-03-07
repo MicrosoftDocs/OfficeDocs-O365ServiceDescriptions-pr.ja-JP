@@ -1,7 +1,7 @@
 ---
 title: 洞察力
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
-description: SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次の分析機能は、データベース、レポート、およびビジネス ・ アプリケーションの情報を使用して、特定のビジネス ニーズに対応する組織です。
-ms.openlocfilehash: 797c3b549652f33fb8807429d53a4372e1ace80d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 組織では、次の 洞察力 機能により、データベース、レポート、ビジネス アプリケーションの情報を使用して、特定のビジネス ニーズに対処できます。
+ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036326"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467314"
 ---
-# <a name="insights"></a>洞察力
+# <a name="insights"></a>分析情報
 
-SharePoint Online は、Web ベースのツールと保存、共有、およびデジタル情報を管理する組織を支援するテクノロジの集まりです。Microsoft SharePoint Server 2013 でホストされているこのサービスは、プロジェクトで作業して、データとドキュメントを格納する中央の場所で他のユーザーと情報の共有に最適です。次の分析機能は、データベース、レポート、およびビジネス ・ アプリケーションの情報を使用して、特定のビジネス ニーズに対応する組織です。
+SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 組織では、次の 洞察力 機能により、データベース、レポート、ビジネス アプリケーションの情報を使用して、特定のビジネス ニーズに対処できます。
   
 ## <a name="business-intelligence-center"></a>ビジネス インテリジェンス センター
 <a name="bkmk_BusinessIntelligenceCenter"> </a>
 
 ビジネス インテリジェンス センター サイトでは、データ接続、ブック、レポート、スコアカード、ダッシュボードを 1 つの安全な場所に保存できます。[ビジネス インテリジェンス センターの構成](https://go.microsoft.com/fwlink/p/?LinkId=270883)について詳細情報を参照してください。
   
-## <a name="calculated-measures-and-members"></a>計算されるメジャーとメンバー
+## <a name="calculated-measures-and-members"></a>Calculated Measures and Members
 <a name="bkmk_CalculatedMeasuresandMembers"> </a>
 
 ピボットテーブル レポートのピボットグラフ レポートを作成し、SQL Server Analysis Services に保存されているデータを使用するときは、計算メジャーと計算メンバーをそのレポートに作成できます。[Excel Services のビジネス インテリジェンス機能](https://go.microsoft.com/fwlink/p/?LinkId=271025)について詳細情報を参照してください。
@@ -39,7 +39,7 @@ SharePoint Online は、Web ベースのツールと保存、共有、および�
 
 データ接続ライブラリは特別な SharePoint ライブラリであり、共有データ接続の保存と管理のために設計されています。これらには、Excel を使用して作成した ODC ファイルを含めることができます。[SharePoint Server 2013 で信頼できるデータ接続ライブラリ](https://go.microsoft.com/fwlink/p/?LinkId=271026)について詳細情報を参照してください。
   
-## <a name="decoupled-pivottables-and-pivotcharts"></a>分離ピボットテーブルおよびピボットグラフ
+## <a name="decoupled-pivottables-and-pivotcharts"></a>Decoupled PivotTables and PivotCharts
 <a name="bkmk_DecoupledPivotTablesPivotCharts"> </a>
 
 ピボットグラフ レポートを作成すると、対応するピボットテーブル レポートが自動的に作成されます。Excel 2013 からは、ピボットテーブル レポートを、対応するピボットグラフ レポートと同じワークシートに表示する必要はありません。ピボットグラフ レポートのみ表示することを選択できます。この機能は、"ピボットテーブルとピボットグラフの分離"と呼ばれます。[ピボットテーブルとピボットグラフ](https://go.microsoft.com/fwlink/?LinkId=271027)について詳細情報を参照してください。
@@ -54,12 +54,12 @@ Excel Services では、他者とのブックの共有、レポートの操作�
 
 Excel Web Access Web パーツを使用して、SharePoint サイト上で Excel コンテンツを表示することができます。
   
-## <a name="field-list-and-field-support"></a>フィールド リストとフィールドのサポート
+## <a name="field-list-and-field-support"></a>フィールドリストとフィールドのサポート
 <a name="bkmk_FieldlListFieldSupport"> </a>
 
 Excel Online では、ピボットグラフ レポートとピボットテーブル レポート用にフィールド リストとフィールド ウェルを開き、ブラウザー ウィンドウに表示できます。この機能により、Excel を開かずに、ピボットグラフ レポートまたはピボットテーブル レポートに表示される情報を一時的に変更しやすくなります。[Excel Services のビジネス インテリジェンス](https://go.microsoft.com/fwlink/p/?LinkId=271029)について詳細情報を参照してください。
   
-## <a name="filter-enhancements"></a>フィルターの機能強化
+## <a name="filter-enhancements"></a>Filter Enhancements
 <a name="bkmk_FilterEnhancements"> </a>
 
 スライサーを作成してレポートに接続する操作が簡単になりました。スライサーのサイズと向きを調整できます。組み込みスタイルを適用するか独自のスタイルを定義して、スライサーをフォーマットすることもできます。
@@ -79,7 +79,7 @@ ODC ファイルを使用すると、エンタープライズ データ ソー�
 
 SharePoint Online のお客様は利用できません。SharePoint Server 2013 のお客様は、PerformancePoint Services によって対話型ダッシュボードを作成し、スコアカード、レポート、フィルターの形式で主要業績評価指標 (KPI) およびデータ仮想化を表示できます。[PerformancePoint Services](https://go.microsoft.com/fwlink/p/?LinkId=271032) について詳細情報を参照してください。
   
-## <a name="power-bi-web-part"></a>電源の BI の Web パーツ
+## <a name="power-bi-web-part"></a>Power BI Web パーツ
 <a name="bkmk_PowerBI"> </a>
 
 Power BI とはクラウド ベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータへの接続、データのビジュアル化および分析をより速く効率的に、また、よりわかりやすく実行できます。使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。Power BI の詳細については、「[Power BI サービスの概要](https://go.microsoft.com/fwlink/?linkid=844671)」を参照してください。
@@ -89,7 +89,7 @@ Power BI とはクラウド ベースのビジネス分析ツールのスイー�
 
 Power Pivot for Excel を使用すれば、強力なデータ分析を実行して、洗練されたデータ モデルを構築できます。さまざまなソースの大量のデータを細分化し、迅速にデータを分析して見識を共有することもできます。SharePoint Online によって、Excel Online を使用して、ブラウザー ウィンドウ内でグラフ、テーブル、ピボットグラフ レポート、ピボットテーブル レポートを表示して操作することができます。Excel Web Access Web パーツを使用して、SharePoint サイト内で Excel コンテンツを表示することもできます。Power Pivot シートを SharePoint で表示するには、その前に Excel で作成しなければなりません。[Excel での PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271036) の使用に関する詳細をご覧ください。
   
-## <a name="power-view-for-excel-in-sharepoint"></a>SharePoint の Power View for Excel
+## <a name="power-view-for-excel-in-sharepoint"></a>Power View for Excel in SharePoint
 <a name="bkmk_PowerView"> </a>
 
  Power View for Excel を使用すれば、高度にインタラクティブな視覚エフェクト、アニメーション、スマート クエリを利用して、モデル化したデータを視覚化して操作できます。SharePoint Online によって、Excel Online を使用して、ブラウザー ウィンドウ内で Power View シートを含むブックを表示して操作することができます。Excel Web Access Web パーツを使用して、SharePoint サイト内で Excel コンテンツを表示することもできます。Power View シートを SharePoint で表示するには、その前に Excel で作成しなければなりません。[Excel での Power View](https://go.microsoft.com/fwlink/p/?LinkId=271035) の使用に関する詳細をご覧ください。
@@ -104,7 +104,7 @@ Power Pivot for Excel を使用すれば、強力なデータ分析を実行し�
 
 外部データ ソース (MS SQL データベースなど) に接続されている Excel Online ブックに最新のデータを表示できます。 ブックを Excel Online で表示するには、その前に Excel でブックを外部データ ソースに接続しなければなりません。
   
-## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) 統合モード
+## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) Integrated Mode
 <a name="bkmk_SQLServerReportingServicesIntegratedMode"> </a>
 
 SQL Server 2012 Reporting Services を SharePoint と統合すると、SharePoint の強力なコラボレーション機能とドキュメントの一元的な管理機能を SQL Server 2012 Reporting Services コンテンツに使用できます。レポートは、Excel Online ファイルなどのその他のレポートとともに SharePoint ドキュメント ライブラリに保存されます。SharePoint のアクセス許可を使用すると、Reporting Services コンテンツへのアクセスを制御でき、ユーザーは、レポート デザイナー、モデル デザイナー、レポート ビルダーをドキュメント ライブラリ内から起動できるようになります。[Reporting Services レポート サーバー](https://go.microsoft.com/fwlink/p/?LinkId=271039)について詳細情報を参照してください。
@@ -114,7 +114,7 @@ SQL Server 2012 Reporting Services を SharePoint と統合すると、SharePoin
 
 SQL Server 2012 Reporting Services Web パーツにより、ユーザーは SharePoint サイトの独自の Web パーツに、既存の Reporting Services レポートを表示できます。Reporting Services レポートにパラメーターが含まれる場合、ユーザーは Web パーツ設定を使用してそのレポートにフィルターを接続できます。[レポート ビューアー Web パーツ](https://go.microsoft.com/fwlink/p/?LinkId=271041)について詳細情報を参照してください。
   
-## <a name="timeline-slicer"></a>タイムラインのスライサー
+## <a name="timeline-slicer"></a>Timeline Slicer
 <a name="bkmk_TimelineSlicer"> </a>
 
 タイムラインのスライサーは、Excel を使用して作成したダッシュボードに追加できるコントロールです。ユーザーは、タイムラインのコントロールにより、特定期間の情報を表示できます。[Excel Services のビジネス インテリジェンス](https://go.microsoft.com/fwlink/p/?LinkId=271042)について詳細情報を参照してください。
@@ -132,7 +132,7 @@ Excel ブックには、Power Pivot データ モデルが含まれているこ�
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Visio Services サービス アプリケーションを共有し、Microsoft Visio 図面を表示することができるは (\*.vsdx) と Visio 2010 の Web 図面 (\*.vdw) ファイルです。Visio のサービスは、SharePoint Online で利用可能ではありません。Visio Services は、SharePoint Server 2010 と SharePoint Server 2013 では、SharePoint サーバーの 2016年で使用できるように続行されます。[Visio のサービス](https://go.microsoft.com/fwlink/p/?LinkID=271043)の詳細を表示します。
+Visio Services は、ユーザーが Microsoft Visio 図面 (\*.vsdx) ファイルと Visio 2010 Web 図面 (\*.vdw) ファイルを共有および表示できるようにするサービス アプリケーションです。 Visio Services は、SharePoint Online では使用できなくなりました。 Visio Services は、sharepoint server 2010、sharepoint server 2013、および sharepoint server 2016 で引き続き使用できます。 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)の詳細については、こちらを参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 <a name="bkmk_VisioServices"> </a>

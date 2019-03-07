@@ -1,7 +1,7 @@
 ---
 title: サポート
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,15 +14,15 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Microsoft Office 365 Enterprise、Business、Education、Government サブスクリプションのすべてにおいて、Microsoft サポートでは、技術的、購入前、課金、サブスクリプションに関するサポートをグローバルに提供しています。サポートは Office 365 ポータルからオンラインで利用できます。また、有料サブスクリプションおよび試用版サブスクリプションのいずれでも電話サポートが利用できます。詳細については、「Office 365 のサポート オプション」を参照してください。
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: microsoft Office 365 Enterprise、Business、エデュケーション、および政府のすべてのサブスクリプションで、microsoft サポートは、グローバルな技術、セールス前、請求書、サブスクリプションサポートを提供します。 サポートは、Office 365 ポータルと、有料サブスクリプションおよび試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Office 365 サポートオプション」を参照してください。
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036346"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467534"
 ---
-# <a name="support"></a>サポート
+# <a name="support"></a>Support
 
 > [!NOTE]
 > 以下のサポート オプションはすべて、Office 365 のワールドワイド バージョン用です。中国の 21Vianet が運用している Office 365 のすべてのサポートについては、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照してください。Office 365 Germany については、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](https://go.microsoft.com/fwlink/?linkid=846979)」を参照してください。 
@@ -81,7 +81,7 @@ Microsoft では、テクニカル サポート ケースを開く際に、問�
 |:-----|:-----|:-----|
 |重大度 A (重大)  <br/> |1 つまたは複数のサービスにアクセスできないか、または使用できない。実稼動、業務、または展開の期日に重大な影響を及ぼすか、実稼動や収益に重大な影響が生じる。複数のユーザーまたはサービスに影響が生じる。  <br/> | メールの送受信に関する広範囲の不具合。  <br/>  SharePoint サイトのダウン。  <br/>  すべてのユーザーがインスタント メッセージの送信、Skype for Business 会議のへ参加や予定、または Skype for Business 通話を行うことができない。  <br/> |
 |重大度 B (高)  <br/> |サービスは使用できるが、一部に不具合がある。ビジネスへの影響は重大でないため、業務時間中に対処することができる。個別のユーザー、顧客、またはサービスが部分的に影響を受ける。  <br/> | Outlook の [送信] ボタンの文字が正しく表示されない。  <br/>  EAC (Exchange 管理センター) からは設定できないが、PowerShell からは設定できる。  <br/> |
-|重大度 C (重大でない)  <br/> |ビジネスへの影響は軽微。問題は重要だが、顧客に対して提供しているサービスや生産性への大きな影響はない。個別のユーザーに部分的な影響が出ているが、別の方法が使用できる。  <br/> | 無期限にするユーザーのパスワードを設定する方法。  <br/>  Exchange Online でユーザーが連絡先の情報を削除できない。  <br/> |
+|重大度 C (重大でない)  <br/> |ビジネスへの影響は軽微。問題は重要だが、顧客に対して提供しているサービスや生産性への大きな影響はない。個別のユーザーに部分的な影響が出ているが、別の方法が使用できる。  <br/> | ユーザーのパスワードを無期限に設定する方法。  <br/>  Exchange Online でユーザーが連絡先の情報を削除できない。  <br/> |
    
 ### <a name="technical-support-initial-response-times"></a>テクニカル サポートの初期応答時間
 <a name="InitialResponse"> </a>
@@ -90,7 +90,7 @@ Microsoft では、テクニカル サポート ケースを開く際に、問�
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**重大度レベル** <br/> |**Office 365 のビジネスの基礎<sup>1</sup>** <br/> **Office 365 ビジネス<sup>1</sup>** <br/> **Office 365 のビジネス プレミアム<sup>1</sup>** <br/> **Office 365 の教育<sup>1</sup>** <br/> |**Office 365 エンタープライズ E1<sup>2</sup>** <br/> **Office 365 エンタープライズ E3<sup>2</sup>** <br/> **Office 365 政府 G2<sup>2</sup>** <br/> **Office 365 米国政府 E3<sup>2</sup>** <br/> |**Office 365 エンタープライズ F1<sup>2</sup>** <br/> **Office 365 米国政府 K1<sup>2</sup>** <br/> |**上級サポート オプション<sup>3</sup>** <br/> |
+|**重大度レベル** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 エデュケーション<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Government G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**上級サポート オプション<sup>3</sup>** <br/> |
 | 重大度 A (重大)  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |
 |重大度 B (高)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:2 時間  <br/> |
 |重大度 C (中)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:4 時間  <br/> |

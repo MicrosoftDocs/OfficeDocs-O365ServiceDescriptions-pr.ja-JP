@@ -1,7 +1,7 @@
 ---
 title: 管理 [EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,23 +13,23 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: このセクションでは、Microsoft Exchange Online Protection (EOP) 管理者が使用できる管理インターフェイスについて説明します。
-ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 3281fafa8dde443a25085a2605a085cd31623fcb
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210160"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467494"
 ---
 # <a name="administration-and-managementeop"></a>管理 [EOP]
 
 このセクションでは、Microsoft Exchange Online Protection (EOP) 管理者が使用できる管理インターフェイスについて説明します。
   
-EOP のすべての機能についての説明をご覧になりますか?「[Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+すべての EOP 機能に関する情報をお探しですか? 「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 管理センターへのアクセス
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Microsoft 365 管理センターは、各企業のサービス管理者が、購読している各 Office 365 サービスのユーザーアカウントと設定を管理できる web ポータルです。Microsoft 365 管理センター内から、管理者は EAC へのリンクをたどって、EOP に固有の設定を管理できます。
+Microsoft 365 管理センターは、各企業のサービス管理者が、購読している各 Office 365 サービスのユーザーアカウントと設定を管理できる web ポータルです。 Microsoft 365 管理センター内から、管理者は EAC へのリンクをたどって、EOP に固有の設定を管理できます。
   
 ## <a name="access-to-the-exchange-admin-center"></a>Exchange 管理センターへのアクセス
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>
