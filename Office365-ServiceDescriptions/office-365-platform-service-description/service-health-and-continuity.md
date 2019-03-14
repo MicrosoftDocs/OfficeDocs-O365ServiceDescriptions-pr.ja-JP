@@ -3,7 +3,7 @@ title: サービスの正常性および継続性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466954"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574141"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -40,7 +40,25 @@ Office 365 のサービス正常性セクションには、サービスの現在
 - **計画メンテナンス イベント:** 計画メンテナンスは、インフラストラクチャおよびソフトウェア アプリケーションに対して Microsoft が開始する通常のサービス更新です。計画メンテナンス通知は、Office 365 のサービスに影響を与える可能性があるサービス作業についてお客様に通知します。計画メンテナンスについては必ず、遅くとも 5 日前までに Office 365 管理ポータルのメッセージ センターで告知されます。メンテナンスは通常、地域別の時間帯に基づいて、過去の傾向からサービスの利用率が最も低くなる期間に計画されます。 
     
 - **未計画のダウンタイム:** 未計画のサービス インシデントは、Office 365 スイートのいずれかのサービスが使用できないか応答しない場合に発生します。 
-    
+
+### <a name="recent-worldwide-uptimes"></a>最近使用した世界稼働時間
+
+クラウドサービスに移行する場合は、何が起こっているのかを知ることができなくなるわけではありません。 Office 365 では、そうではありません。 サービスの状態を監視し、問題を追跡し、可用性の履歴を確認できるように、運用において透過的にします。 次の表は、世界中の最新データを示しています。
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
 ## <a name="notification-policy"></a>通知ポリシー
 
 Microsoft は、サービス インシデントが発生した場合、タイムリーで、対象を指定した、正確なコミュニケーションがお客様にとって不可欠であると認識しています。Microsoft は、Office 365 管理ポータルでテナント固有のサービス正常性ダッシュボード (SHD) を更新して Office 365 の管理者に、通知します。サービス インシデントの更新は時間単位で実行されるか、または異なる間隔が必要な場合は、SHD 通信の投稿に記載されます。 
