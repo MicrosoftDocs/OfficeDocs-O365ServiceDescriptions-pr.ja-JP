@@ -3,7 +3,7 @@ title: Microsoft 365 Business サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 office 365 の詳細については、「office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467944"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641482"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -122,7 +122,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Cloud App Discovery  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |動的グループ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |クラウド ID のセルフサービスのパスワードのリセット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|オンプレミス AD の書き戻しによるセルフサービスのパスワードのリセット  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|オンプレミス AD の書き戻しによるセルフサービスのパスワードのリセット  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |オンプレミスのディレクトリと Azure AD 間でのデバイス オブジェクトの双方向同期 (デバイスの書き戻し)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |条件付きのアクセス (グループ、場所、デバイスの状態、サインイン、ユーザーのリスクに基づく)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |会社のブランド化 (ログオン ページ、アクセス パネルのカスタマイズ)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -132,17 +132,17 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |**デバイスとアプリケーションの管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|モバイルデバイス管理 (MDM)<sup>15</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Office アプリと LOB アプリのモバイルアプリケーション管理 (MAM)<sup>15</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Windows update management、Defender、ファイアウォールポリシー<sup>15</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|データ保護 - 選択的ワイプ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|ポリシーを対象としたセキュリティ グループ (SG)  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|登録済みの Windows 10 デバイスで Office アプリをインストールする  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Windows Defender の構成  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|デバイスプロファイルおよびセキュリティ構成の展開<sup>15</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|モバイルデバイス管理 (MDM)<sup>15</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Office アプリと LOB アプリのモバイル アプリケーション管理 (MAM)<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Windows update management、Defender、ファイアウォールポリシー<sup>15</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|データ保護 - 選択的ワイプ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|ポリシーを対象としたセキュリティ グループ (SG)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|登録済みの Windows 10 デバイスで Office アプリをインストールする  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Windows Defender の構成  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|デバイスプロファイルおよびセキュリティ構成の展開<sup>15</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
    
 |||
 |:-----|:-----|
@@ -173,6 +173,8 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 <br/><sup>10</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
 <br/><sup>11</sup> Microsoft 365 Business には、Exchange Online Archiving サブスクリプションが含まれます。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳細については、「 [Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=863320)」をご覧ください。 
 <br/><sup>12</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://go.microsoft.com/fwlink/?linkid=863349)」を参照してください。 
-<br/><sup>13</sup> Advanced 電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=863490)」を参照してください。
-<br/><sup>15</sup>では、Microsoft 365 Business コンソールに組み込まれている Windows 10 デバイスの管理が簡単になりました。 iOS、Android、MacOS などのクロスプラットフォーム デバイス管理に必要となる完全な Intune 機能が Azure コンソールに組み込まれており、Microsoft 365 Business で使用するためにライセンスされています。 サード パーティ製アプリおよび Wi-Fi プロファイルや VPN 証明書などの構成は、完全な Intune コンソールで管理できます。 <br/>
-<sup>16</sup>このプランには、ビデオポータル、テキストの音声入力、高度な検索、顔検出などの Microsoft Stream plan 2 が付属しています。
+<br/><sup>13</sup> Advanced 電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)
+<br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=863490)」を参照してください。
+<br/><sup>15</sup>では、Microsoft 365 管理センターに組み込まれている Windows 10 デバイスの管理が簡単になりました。 iOS、Android、macOS、およびデバイス管理管理センターに組み込まれているその他のクロスプラットフォームデバイス管理の Intune 管理機能。また、Microsoft 365 Business での使用がライセンスされています。 サードパーティ製のアプリと wi-fi プロファイルや VPN 証明書などの構成は、デバイス管理管理センターでも管理することができます。 
+<br/><sup>16</sup>このプランには、ビデオポータル、テキストの音声入力、高度な検索、顔検出などの Microsoft Stream plan 2 が付属しています。
+<br/><sup>17</sup> Microsoft 365 管理センターに組み込まれている Windows 10 のデバイス管理ポリシーと Intune アプリ保護ポリシーをシンプルにしました。

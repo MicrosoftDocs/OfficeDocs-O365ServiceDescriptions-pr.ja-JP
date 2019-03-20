@@ -3,7 +3,7 @@ title: Exchange Online の制限
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/21/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467684"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641472"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -107,7 +107,7 @@ Microsoft Exchange Online の制限は、次のカテゴリのいずれかに適
 |アーカイブ メールボックス<sup>7、8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |無制限<sup>1</sup> <br/> |無制限<sup>1</sup> <br/> |使用不可<sup>4</sup> <br/> |
 |共有メールボックス  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2、9</sup> <br/> |50 GB<sup>2、9</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |リソース メールボックス  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3、9</sup> <br/> |50 GB<sup>3、9</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|サイト メールボックス<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |使用不可  <br/> |
+|サイト メールボックス<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |利用不可  <br/> |
 |パブリック フォルダー メールボックス  <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |使用不可  <br/> |
 |グループ メールボックス  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
@@ -206,9 +206,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |メールボックス フォルダーごとの警告を出すサブフォルダー数  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |フォルダー階層の深さの最大値  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |警告を出すフォルダー階層の深さ  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|パブリック フォルダーの最大数  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |使用不可  <br/> |
+|パブリック フォルダーの最大数  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |利用不可  <br/> |
 |パブリック フォルダーごとのサブフォルダーの最大数  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |使用不可  <br/> |
-|パブリック フォルダーごとの警告を出すサブフォルダー数  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |使用不可  <br/> |
+|パブリック フォルダーごとの警告を出すサブフォルダー数  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |利用不可  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> これは、回復可能なアイテム フォルダーの記憶域のクォータであり、アーカイブ全体のメールボックスのクォータではありません。 exchange online プラン2ライセンスを持つユーザー、または exchange online プラン1と exchange online アーカイブライセンスの両方を持つユーザーに対して、アーカイブメールボックスの記憶域クォータは無制限です。 回復可能なアイテムのクォータを増やす方法については、「 [Increase the Recoverable Items quota for mailboxes on hold](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx)」を参照してください。 <br/> <sup>2</sup> アーカイブ メールボックスの回復可能なアイテム フォルダーの最初の記憶域のクォータは 100 GB です。 自動拡張アーカイブをオンにした場合、回復可能なアイテム フォルダーの記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳細については、「 [Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」を参照してください。 自動拡張アーカイブの可用性の詳細については、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 
@@ -230,8 +230,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |メールボックス フォルダーごとの警告を出すサブフォルダー数  <br/> |無制限  <br/> |900  <br/> |900  <br/> |900  <br/> |
 |フォルダー階層の深さの最大値  <br/> |無制限  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |警告を出すフォルダー階層の深さ  <br/> |制限なし  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|パブリック フォルダーの最大数  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |使用不可  <br/> |
-|パブリック フォルダーごとのサブフォルダーの最大数  <br/> |該当なし  <br/> |1,000  <br/> |1,000  <br/> |使用不可  <br/> |
+|パブリック フォルダーの最大数  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |利用不可  <br/> |
+|パブリック フォルダーごとのサブフォルダーの最大数  <br/> |N/A  <br/> |1,000  <br/> |1,000  <br/> |利用不可  <br/> |
 |パブリック フォルダーごとの警告を出すサブフォルダー数  <br/> |該当なし  <br/> |900  <br/> |900  <br/> |使用不可  <br/> |
    
 > [!NOTE]
@@ -269,14 +269,14 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |メッセージ サイズの制限 - Outlook  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
 |メッセージ サイズの制限 - OWA  <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |
 |メッセージ サイズの制限 - Outlook for Mac  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
-|メッセージ サイズの制限 - 移行  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
-|暗号化されたメッセージのサイズ制限 (新しい機能を備えた Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup> <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|メッセージ サイズの制限 - 移行  <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |
+|暗号化されたメッセージのサイズ制限 (新しい機能を備えた Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup> <br/> |25 MB  <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB  <br/> |
 |件名の長さの制限  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |
 |添付ファイルの制限  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |
 |添付ファイルのサイズ制限 - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |添付ファイルのサイズ制限 - OWA <sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |マルチパート メッセージの制限  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
@@ -416,8 +416,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
-|5000 ~ 10万メンバーを持つ配布グループの最大メッセージサイズ  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
-|10万またはそれ以上のメンバーを含む配布グループの最大メッセージサイズ  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
+|5000 ~ 99999 メンバーを持つ配布グループの最大メッセージサイズ  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|10万メンバーを含む配布グループの最大メッセージサイズ  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
 |配布グループの所有者の最大数  <br/> |個  <br/> |個  <br/> |個  <br/> |個  <br/> |個  <br/> |個  <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
