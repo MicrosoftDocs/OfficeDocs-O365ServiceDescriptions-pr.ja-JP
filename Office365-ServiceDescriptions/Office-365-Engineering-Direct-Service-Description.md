@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 Office 365 Engineering Direct Service の説明には、提供される機能と実装の要件に関する追加情報が含まれています。
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467894"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867923"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct Service の説明
 
-Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 [Office 365 Engineering Direct Service の説明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf)には、提供される機能と実装の要件に関する追加情報が含まれています。
+Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 [Office 365 Engineering Direct Service の説明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)には、提供される機能と実装の要件に関する追加情報が含まれています。
 
 office 365 Engineering Direct オファーリングを新しいお客様として取得するには、組織が Microsoft プレミアサポート提供物に加入し、office 365 サービスのための大規模なエンタープライズ分類レベルを満たし、サポート契約の補遺を実施する必要があります。 追加されたサービススイートの追加料金が適用されます。 サポート契約の状態を確認し、サポートサービスをセキュリティ保護するための契約上の変更を開始するには、Microsoft アカウントチームの担当者にお問い合わせください。 
 
