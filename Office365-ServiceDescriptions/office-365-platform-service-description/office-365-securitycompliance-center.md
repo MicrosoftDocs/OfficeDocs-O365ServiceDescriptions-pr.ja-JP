@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: The Office 365 Security &amp; Compliance Center is designed to help you manage compliance features across Office 365 for your organization. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
+ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467984"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31411866"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
@@ -81,10 +81,10 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 operated by 21Vianet, see [](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
+セキュリティ & コンプライアンスセンターは、21vianet が運用しているすべての Office 365 プランでは利用できません。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 Germany Enterprise E3, see [](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
+Security & コンプライアンスセンターは、Office 365 ドイツで利用できます。 office 365 ドイツの詳細については、「 [office 365 ドイツ](office-365-germany.md)」を参照してください。
   
 
