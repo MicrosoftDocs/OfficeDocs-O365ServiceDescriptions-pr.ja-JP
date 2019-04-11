@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467744"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764855"
 ---
 # <a name="user-account-management"></a>ユーザー アカウント管理
 
@@ -55,7 +55,7 @@ By default, the Office 365 subscription uses the \< _company name_\> **.onmicros
   
 Office 365 では、それぞれが別々の名前空間で表現される最大 900 の登録済みインターネット ドメインをホストできます。 
   
-シングル サインオンを使用する組織の場合、ドメインのすべてのユーザーが同じ ID システムを使用する必要があります。クラウド ID とフェデレーション ID のうち、どちらかの同じ ID システムを使用する必要があります。たとえば、社内システムにアクセスしないため 1 つのクラウド ID のみを必要とするユーザー グループと、Office 365 および社内システムの両方を使用する別のユーザー グループが存在する場合があります。Office 365 に contractors.contoso.com と staff.contoso.com などの 2 つのドメインを追加して、2 つのドメインのうち一方のみに SSO をセットアップします。ドメイン全体は、クラウド ID からフェデレーション ID に、またはフェデレーション ID からクラウド ID に変換することができます。
+シングルサインオンを使用する組織では、ドメイン上のすべてのユーザーが同じ id システムを使用する必要があります。これは、クラウド id とフェデレーション id のどちらかです。 たとえば、クラウド id のみを必要とするユーザーグループを1つ持つことができます。これは、オンプレミスのシステムにアクセスせず、Office 365 とオンプレミスのシステムを使用しているユーザーの別のグループであるためです。 contractors.contoso.com や staff.contoso.com などの2つのドメインを Office 365 に追加し、そのうち1つの SSO のみを設定します。 ドメイン全体を、クラウド id からフェデレーション id に変換するか、フェデレーション id からクラウド id に変換することができます。
   
 Office 365 におけるドメインの詳細については、「[ドメイン](domains.md)」のサービスの説明を参照してください。 
   
@@ -71,13 +71,13 @@ SharePoint Online で作成される匿名アクセス用のインターネッ�
     
 - **クラウド ID の認証** クラウド ID を持つユーザーは、従来のチャレンジ / レスポンスを使用して認証されます。Web ブラウザーは Office 365 サインイン サービスにリダイレクトされるため、職場または学生アカウント用のユーザー名とパワードを入力します。サインイン サービスは、ユーザーの資格情報を認証し、サービス トークンを生成します。Web ブラウザーは、このサービス トークンを要求されたサービスに表示して、ユーザーを登録します。 
     
-- **フェデレーション ID の認証** フェデレーション ID を持つユーザーは、Active Directory フェデレーション サービス (AD FS) 2.0 などのセキュリティ トークン サービスを使用して認証されます。Web ブラウザーは Office 365 サインイン サービスにリダイレクトされるため、ユーザー プリンシパル名 (UPN。たとえば、isabel@contoso.com) の形式で会社の ID を入力します。サインイン サービスは、ユーザーがフェデレーション ドメインに属することを確認し、認証のために社内のフェデレーション サーバーにリダイレクトします。デスクトップにログオンしている (ドメインに参加している) 場合、ユーザーは (Kerberos または NTLMv2 を使用して) 認証され、社内のセキュリティ トークン サービスがログオン トークンを生成します。Web ブラウザーは、このログオン トークンを Office 365 サインイン サービスに表示します。サインイン サービスは、ログオン トークンを使用して、Web ブラウザーが要求されたサービスに表示するサービス トークンを生成し、ユーザーをログインさせます。使用可能なセキュリティ トークン サービスの一覧については、「 [シングル サインオンのロードマップ](https://go.microsoft.com/fwlink/p/?LinkID=270015)」を参照してください。
+- **フェデレーション id 認証**フェデレーション id を持つユーザーは、Active Directory フェデレーションサービス (AD FS) 2.0 またはその他のセキュリティトークンサービスを使用して認証されます。 web ブラウザーは Office 365 サインインサービスにリダイレクトされ、ユーザープリンシパル名 (UPN isabel@contoso.com) の形式で会社 ID を入力します (例:)。 サインインサービスは、フェデレーションドメインの一部であることを確認し、認証のためにオンプレミスのフェデレーションサーバーにリダイレクトすることを提供します。 デスクトップ (ドメインに参加) にログオンしている場合は、(Kerberos または NTLMv2 を使用して) 認証され、オンプレミスのセキュリティトークンサービスが、web ブラウザーが Office 365 サインインサービスにポストするログオントークンを生成します。 サインインサービスは、ログオントークンを使用して、web ブラウザーが要求されたサービスにポストしてログインするサービストークンを生成します。 利用可能なセキュリティトークンサービスの一覧については、「[シングルサインオンのロードマップ](https://go.microsoft.com/fwlink/p/?LinkID=270015)」を参照してください。
     
 Office 365 は形式ベースの認証を使用しており、ネットワークを網羅する認証トラフィックは、ポート 443 を使用して常に TLS/SSL で暗号化されます。認証トラフィックが Office 365 サービスに使用する帯域幅はごくわずかです。 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Office 365 で Multi-Factor Authentication
 
-With Multi-Factor Authentication for Office 365\*, users are required to acknowledge a phone call, text message, or an app notification on their smartphone after correctly entering their password. Only after this second authentication can the user sign in. Office 365 管理者は、Microsoft 365 管理センターで多要素認証のためにユーザーを登録することができます。 Learn more about [Multi-Factor Authentication for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Office 365 で多要素認証を使用する場合、ユーザーは、パスワードを正確に入力した後に、スマートフォンで電話、テキストメッセージ、またはアプリの通知に同意する必要があります。 Only after this second authentication can the user sign in. Office 365 管理者は、Microsoft 365 管理センターで多要素認証のためにユーザーを登録することができます。 Learn more about [Multi-Factor Authentication for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>リッチ クライアント認証
 
@@ -175,7 +175,7 @@ Office 365 Enterprise は、ロールベースのアクセス制御 (RBAC) モ�
   
 ## <a name="delegated-administration-and-support-for-partners"></a>代理管理とパートナーのサポート
 
-顧客に代わってアカウントを管理する権限をパートナーに付与することができます。顧客は、パートナーのユーザー アカウントを必要とせず、代理管理権限を付与するときに Office 365 のライセンスを使用することもありません。パートナーは、無制限のアクセスまたは制限付きのアクセスを組織内のユーザーに割り当てることができます。制限付きのアクセスには、パスワードの再設定、サービス リクエストの管理、およびサービス正常性の監視などの権限が含まれます。詳細については、「[パートナー リレーションシップの承認または削除](https://go.microsoft.com/fwlink/p/?LinkID=270055)」を参照してください。
+顧客に代わってアカウントを管理する権限をパートナーに付与することができます。 顧客は、パートナーのユーザー アカウントを必要とせず、代理管理権限を付与するときに Office 365 のライセンスを使用することもありません。 パートナーは、無制限のアクセスまたは制限付きのアクセスを組織内のユーザーに割り当てることができます。 制限付きのアクセスには、パスワードの再設定、サービス リクエストの管理、およびサービス正常性の監視などの権限が含まれます。 
   
 > [!NOTE]
 > 代理管理者としてパートナーを使用および指定できるかどうかは、地域によって異なります。 

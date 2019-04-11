@@ -3,7 +3,7 @@ title: Office 365 スイート機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466944"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764835"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 
@@ -97,12 +97,14 @@ Office 365 のグループは、協力してもっと成果をあげるために
 Office 365 ビデオは、さまざまなデバイスでビデオをアップロード、共有、探索できる、セキュリティ保護された全社的な宛先として機能します。これは Microsoft Azure Media Services を利用しています。閲覧者は常時 Office 365 ビデオに参加して最新情報が得られ、こうして幅広いアイデア交換や、組織の調和が促進されます。詳細については、「[Office 365 のビデオの紹介](https://blogs.office.com/2014/11/18/introducing-office-365-video/)」を参照してください。
   
 ## <a name="onenote-class-notebook"></a>OneNote Class Notebook
-<a name="BKMK_Video"> </a>
 
 Class Notebook は OneNote の一部となっていて、Office 365 Education および Office 365 E5 Education で利用できます。各ノートブックには、教師たちがコースの内容を共有できるコンテンツ ライブラリ、教師と学生が共同で作業できるコラボレーション空間、そして生徒ごとのプライベート ノートブックが含まれています。Class Notebook を作成した後、教師と学生はどのデバイスからでも、OneNote アプリを使ってその Class Notebook にアクセスできます。
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリであり、microsoft 365 に固有の機能を提供し、契約社員、ベンダーなど、組織のディレクトリの内部と外部の両方のユーザーに接続して参加することができます。パートナー、納入業者、顧客、および市民: 大規模で[柔軟なグループの種類](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)を使用します。 Kaizala のオープンディレクトリモデルを使用すると、簡単にオンボードするための電話番号ベースの id と、メッセージングおよび作業管理のための簡単なユーザー操作を行うことができます。 Kaizala モバイルアプリを使用すると、ユーザーは、インスタントメッセージと添付ファイル (画像、ドキュメント、ビデオ、audios など) を送信したり、アンケート、投票、ジョブ割り当て、アナウンス、トレーニングなどのアクションカードを使用したりすることができます。 [Kaizala は Office 365 で利用でき](https://products.office.com/en/business/microsoft-kaizala)、iPhone と Android でも動作します。 詳細については、 [Kaizala web サイト](https://products.office.com/en/business/microsoft-kaizala)を参照してください。 
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="BKMK_Video"> </a>
 
 さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
   
