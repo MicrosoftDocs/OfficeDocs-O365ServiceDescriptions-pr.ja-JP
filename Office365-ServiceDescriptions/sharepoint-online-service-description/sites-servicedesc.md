@@ -1,9 +1,9 @@
 ---
-title: サイト [servicedesc]
+title: サイト
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のサイト機能は、組織があらゆる種類のサイトを作成し、さらにサイト管理を簡素化する単一のインフラストラクチャを構築するために使用できる完全なツール セットを提供します。 詳細については、「SharePoint Online に関する情報を探す」をご覧ください。
-ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467884"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825175"
 ---
-# <a name="sitesservicedesc"></a>サイト [servicedesc]
+# <a name="sites"></a>サイト
 
 Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のサイト機能は、組織があらゆる種類のサイトを作成し、さらにサイト管理を簡素化する単一のインフラストラクチャを構築するために使用できる完全なツール セットを提供します。 詳細については、「[SharePoint Online に関する情報を探す](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)」をご覧ください。
   

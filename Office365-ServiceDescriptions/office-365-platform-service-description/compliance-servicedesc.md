@@ -1,9 +1,9 @@
 ---
-title: コンプライアンス [servicedesc]
+title: コンプライアンス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 は業界標準と規制に準拠しており、ビジネスの規制要件に適合できるように設計されています。 詳細については、「コンプライアンス認証」をご覧ください。
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466884"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825145"
 ---
-# <a name="complianceservicedesc"></a>コンプライアンス [servicedesc]
+# <a name="compliance"></a>コンプライアンス
 
 > [!NOTE]
 > この記事の情報は Office 365 の各国版に適用されます。Office 365 US Government、Office 365 Germany、21Vianet が運用している Office 365 など、Office 365 の国内クラウド インスタンスを使用している場合は、「[Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)」をご覧ください。 

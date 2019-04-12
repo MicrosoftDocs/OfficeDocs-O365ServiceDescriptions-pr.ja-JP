@@ -3,7 +3,7 @@ title: IT プロフェッショナル
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の SharePoint 機能を使用すると、IT プロフェッショナルは組織の SharePoint 環境のセキュリティを確保し、管理することができます。
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467594"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825165"
 ---
 # <a name="it-professional"></a>IT プロフェッショナル
 
@@ -45,9 +45,9 @@ SharePoint Online のカスタマーは利用できません。SharePoint Server
 SharePoint Online のカスタマーは利用できません。SharePoint Server 2013 のカスタマーは、SharePoint Server 2013 のサーバー間認証およびアプリ認証をサポートしている Web アプリケーションに対してクレームベース認証を構成します。「[SharePoint 2013 でクレーム ベースの Web アプリケーションを作成する](https://go.microsoft.com/fwlink/p/?LinkId=270982)」の詳細情報を参照してください。
   
 ## <a name="data-loss-prevention"></a>データ損失防止
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-データ損失防止 (DLP) は SharePoint Online に格納された機密データを識別します。機密データを識別することにより、組織へのリスクを軽減できます。電子情報開示センターを使用して、組織内の機密情報の種類を検索できます。機密性の高いコンテンツが検出されると、記載および格納され、電子情報開示センターで承認されているユーザーのみが使用できます。また、分類結果を簡単にエクスポートすることもできます。機密データの種類の詳細については、「[Exchange での機密情報の種類の検索基準](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx)」を参照してください。「[サイトに保存された機密データを確認するために SharePoint Online で DLP を使用する](https://technet.microsoft.com/library/dn798914.aspx)」方法の詳細を参照してください。
+データ損失防止 (DLP) は SharePoint Online に格納された機密データを識別します。機密データを識別することにより、組織へのリスクを軽減できます。電子情報開示センターを使用して、組織内の機密情報の種類を検索できます。機密性の高いコンテンツが検出されると、記載および格納され、電子情報開示センターで承認されているユーザーのみが使用できます。また、分類結果を簡単にエクスポートすることもできます。機密データの種類の詳細については、「[Exchange での機密情報の種類の検索基準](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx)」を参照してください。「[サイトに保存された機密データを確認するために SharePoint Online で DLP を使用する](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)」方法の詳細を参照してください。
   
 ## <a name="encryption-at-rest"></a>暗号化
 <a name="bkmk_EncryptionAtRest"> </a>

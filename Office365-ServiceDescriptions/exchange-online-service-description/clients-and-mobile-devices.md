@@ -3,7 +3,7 @@ title: クライアントとモバイル デバイス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467614"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825205"
 ---
 # <a name="clients-and-mobile-devices"></a>クライアントとモバイル デバイス
 
@@ -40,7 +40,7 @@ Exchange 2016 と Exchange Online でサポートされている Outlook クラ�
   
 ## <a name="outlook-on-the-web"></a>Outlook on the web
 
-Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。インターネットに接続していれば、どこからでも電子メール、予定表、連絡先に Web ブラウザーでアクセスできます。サポートされているブラウザーについては、「[Office のシステム要件](https://go.microsoft.com/fwlink/p/?LinkId=287032)」を参照してください。
+Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。インターネットに接続していれば、どこからでも電子メール、予定表、連絡先に Web ブラウザーでアクセスできます。サポートされているブラウザーについては、「[Office のシステム要件](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)」を参照してください。
   
 Outlook on the web のクライアントには 2 つのバージョンがあり、どちらも Exchange Online とともに利用できます。
   
