@@ -3,7 +3,7 @@ title: Exchange Online Archiving のアーカイブ機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467204"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833847"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving のアーカイブ機能
 
@@ -37,7 +37,7 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving へのメッセージの移動
 
-ユーザーは、メッセージを .pst ファイルからアーカイブにドラッグ アンド ドロップするだけで簡単にオンラインでアクセスできます。 また、アーカイブ ポリシーを使用して電子メール アイテムをプライマリ メールボックスからアーカイブ メールボックスに自動的に移動することによって、プライマリ メールボックスのサイズを削減し、パフォーマンスを向上させることができます。 この動作はアーカイブ内に各メッセージの 2 次コピーが作成される Exchange Hosted Archive と異なりますが、どちらのシナリオでも保存要件を満たすことができます。 
+ユーザーは、メッセージを .pst ファイルからアーカイブにドラッグ アンド ドロップするだけで簡単にオンラインでアクセスできます。 また、アーカイブ ポリシーを使用して電子メール アイテムをプライマリ メールボックスからアーカイブ メールボックスに自動的に移動することによって、プライマリ メールボックスのサイズを削減し、パフォーマンスを向上させることができます。 
   
 ### <a name="import-data-to-the-archive"></a>アーカイブへのデータのインポート
 

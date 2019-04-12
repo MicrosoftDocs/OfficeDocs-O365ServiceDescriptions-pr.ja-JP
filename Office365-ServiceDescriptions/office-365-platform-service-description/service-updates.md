@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: リリース直後またはリリース予定の Office 365 機能については、「Microsoft 365 ロードマップ」を参照してください。
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825155"
+ms.locfileid: "31833845"
 ---
 # <a name="service-updates"></a>サービス更新
 
@@ -32,7 +32,7 @@ ms.locfileid: "31825155"
   
 ## <a name="targeted-release"></a>対象となるリリース
 
-対象となるリリースでは、お客様の組織またはお客様のユーザーのグループが、標準リリース プロセスが開始される約 1 週間前に、サービス更新の特定のセットを受け取ります。詳細については、「[Office 365 リリース プログラム](https://go.microsoft.com/fwlink/p/?LinkId=509823)」を参照してください。 
+対象となるリリースでは、お客様の組織またはお客様のユーザーのグループが、標準リリース プロセスが開始される約 1 週間前に、サービス更新の特定のセットを受け取ります。 詳細については、「 [Office 365 リリースオプション](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)」を参照してください。 
   
 ## <a name="update-notifications"></a>更新の通知
 
