@@ -1,27 +1,13 @@
 ---
-title: Exchange Online の制限
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
-ms.date: 03/18/2019
-ms.audience: ITPro
-ms.topic: reference
-f1_keywords:
-- exchange-online-limits
-ms.service: o365-administration
-localization_priority: Normal
-ms.custom:
+title: "Exchange Online Limits" ms.author: sharik author: skjerland manager: mnirkhe <<<<<<< HEAD ms.date: 04/15/2019 ======= ms.date: 04/18/2019
+>>>>>>> master ms.audience: ITPro ms.topic: reference f1_keywords:
+- 'exchange-online-limits' ms.service: o365-administration localization_priority: Normal ms.custom:
 - Adm_ServiceDesc
-- Adm_ServiceDesc_top
-ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
-description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641472"
+- Adm_ServiceDesc_top ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
+
+<a name="description-find-the-exchange-online-limits-for-a-variety-of-service-areas-including-address-book-limits-mailbox-storage-limits-and-reporting-and-message-trace-limits-to-name-just-a-few"></a>説明：「アドレス帳の制限、メールボックスの格納域の制限、レポート作成およびメッセージのトレースの制限など、さまざまなサービス分野でのExchange Onlineの制限を見つける」
 ---
+
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
 アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
@@ -241,7 +227,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 次の制限は、すべてのメール メッセージに適用されます。
   
-- **メッセージのサイズ制限** サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。
+- **メッセージのサイズ制限** サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/ja-JP/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。
     
     > [!NOTE]
     > 電子メール クライアントによっては、Exchange Online のメッセージ サイズ制限よりも制限値が低い場合や、個別の添付ファイルのサイズを制限できる場合があります。 
@@ -281,7 +267,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 メールボックスの既定の最大メッセージ サイズは 25 MB です。 Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。 <br/> <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> <sup>4</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 この制限は、サポート対象の Exchange メールボックス レプリケーション サービスを使用する、移動ベースの移行に適用されます。 その他の移行方法 (カット オーバー、段階的な IMAP、PST) およびその他のサード パーティ製ツールは、一般的なメッセージ サイズの制限を受けます。 <br/> 
+> <sup>1</sup> Office 365 メールボックスの既定の最大メッセージ サイズは 25 MB です。 Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/ja-JP/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。 <br/> <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> <sup>4</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 この制限は、サポート対象の Exchange メールボックス レプリケーション サービスを使用する、移動ベースの移行に適用されます。 その他の移行方法 (カット オーバー、段階的な IMAP、PST) およびその他のサード パーティ製ツールは、一般的なメッセージ サイズの制限を受けます。 <br/> 
   <sup>5</sup> 新しい機能を備えた OME については、「 [Azure Information Protection をベースにした新しい Office 365 Message Encryption 機能を構築する](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 <br/> <sup>6</sup> 1 つで 35 MB を超えるファイルは添付できません。 また、ファイルの合計が 35 MB を超える場合も添付することはできません。 たとえば、34 MB の 1 つのファイルを添付する場合、その他に添付できるファイルは 1 MB までです。 
   
 ### <a name="message-limits-across-standalone-options"></a>スタンドアロン オプションのメッセージの制限
@@ -304,7 +290,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。 <br/> <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> <sup>4</sup> これは Exchange Server 2013 組織の既定の制限です。 管理者は、組織に適用されるこの値を変更できます。 <br/> <sup>5</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 <br/> 
+> <sup>1</sup> Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/ja-JP/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。 <br/> <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> <sup>4</sup> これは Exchange Server 2013 組織の既定の制限です。 管理者は、組織に適用されるこの値を変更できます。 <br/> <sup>5</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 <br/> 
   <sup>6</sup> 新しい機能を備えた OME については、「 [Azure Information Protection をベースにした新しい Office 365 Message Encryption 機能を構築する](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
   
 ## <a name="receiving-and-sending-limits"></a>受信および送信の制限
@@ -359,7 +345,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |受信者のプロキシ アドレスの制限  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> これは Exchange Server 2013 組織の既定の制限です。 管理者は、組織に適用されるこの値を変更できます。 
+> <sup>1</sup> これは Exchange Server 2013 組織の既定の制限です。管理者は、組織に適用されるこの値を変更できます。 
   
 ## <a name="reporting-and-message-trace-limits"></a>レポート作成とメッセージ追跡の制限
 <a name="bkmk_Reporting_Message_Trace_Limits"> </a>
@@ -387,7 +373,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |迷惑メール フォルダーの保存期限  <br/> |30 日間  <br/> |30 日間  <br/> |30 日間  <br/> |30 日間  <br/> |30 日間  <br/> |30 日間  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。 
+> <sup>1</sup> これはOffice 365 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
   
 ### <a name="retention-limits-across-standalone-options"></a>スタンドアロン オプションの保存期限
 
