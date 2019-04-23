@@ -3,7 +3,7 @@ title: Office アプリケーション サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 7/31/2018
+ms.date: 04/15/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 65ef27560d134e6d35d8169b70378bafd09a8e58
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467974"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981701"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -54,9 +54,8 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Windows 8 のアプリケーション](office-applications.md#windows-8-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Windows Phone 用 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |Outlook for Android  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |**企業価値** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |

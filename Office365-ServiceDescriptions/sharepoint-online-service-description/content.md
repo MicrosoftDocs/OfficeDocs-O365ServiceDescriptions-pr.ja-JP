@@ -3,7 +3,7 @@ title: コンテンツ
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のコンテンツ機能により、エンタープライズ コンテンツ管理 (ECM) がだれにとっても簡単なものになります。 これは、従来のコンテンツ管理、ソーシャル機能、および強力な検索を組み合わせたものです。
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467514"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981681"
 ---
 # <a name="content"></a>コンテンツ
 
@@ -29,7 +29,7 @@ SharePoint Online は、組織がデジタル情報を格納、共有、およ�
 ## <a name="accessibility-standards-support"></a>アクセシビリティ標準のサポート
 <a name="bkmk_AccessibilitySS"> </a>
 
-リンク、フォーム コントロール、ボタンなど、SharePoint の多くのユーザー インターフェイス (UI) 要素は、Microsoft Active Accessibility (MSAA) を使用するように設計されています。障碍のある方は、MSA により、スクリーン リーダーなどの支援技術を使用してコンテンツを操作できます。詳細については、「[ユーザー補助機能](https://go.microsoft.com/fwlink/?LinkId=270947)」を参照してください。
+リンク、フォーム コントロール、ボタンなど、SharePoint の多くのユーザー インターフェイス (UI) 要素は、Microsoft Active Accessibility (MSAA) を使用するように設計されています。障碍のある方は、MSA により、スクリーン リーダーなどの支援技術を使用してコンテンツを操作できます。詳細については、「[ユーザー補助機能](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2)」を参照してください。
   
 ## <a name="asset-library-enhancementsvideo-support"></a>アセット ライブラリの強化/ビデオ サポート
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -46,7 +46,7 @@ SharePoint Online サイトコレクション管理者は監査機能を使用�
 
 SharePoint Online サイト コレクション管理者は監査機能を使用して、サイト コレクションのサイト、コンテンツ タイプ、リスト、ライブラリ、およびリスト項目でどのユーザーがどのような処理を行ったかを追跡できます。詳細については、「[サイト コレクションの監査設定の構成](https://go.microsoft.com/fwlink/?LinkId=270950)」を参照してください。
   
-## <a name="catalog"></a>®
+## <a name="catalog"></a>Catalog
 <a name="bkmk_WCMCatalog"> </a>
 
 プライベート サイト コレクションにだけ使用できます。カタログは、その他のサイトとサイト コレクションで共有されるライブラリまたはリストです。詳細については、「[ライブラリまたはリストをカタログとして有効にする](https://go.microsoft.com/fwlink/p/?LinkId=330809)」を参照してください。
@@ -84,17 +84,17 @@ Word Online の読み取りビューには、組織がドキュメントをブ�
 ## <a name="ediscovery-search"></a>電子情報開示の検索
 <a name="bkmk_eDiscovery_Search"> </a>
 
-電子情報開示の検索では、コンプライアンスの証拠や訴訟支援として利用できる、電子的に格納された情報 (ESI) を検索できます。検索可能なコンテンツには、ドキュメントやリスト アイテムなどの構造化コンテンツ、およびブログ、Wiki、ニュースフィードや、Exchange メールボックスのコンテンツがあります。コンテンツを検出可能にするには、検索によってインデックス付けされている必要があります。詳細については、「[電子情報開示センターでクエリを作成して実行する](https://go.microsoft.com/fwlink/?LinkId=402985)」を参照してください。
+電子情報開示の検索では、コンプライアンスの証拠や訴訟支援として利用できる、電子的に格納された情報 (ESI) を検索できます。検索可能なコンテンツには、ドキュメントやリスト アイテムなどの構造化コンテンツ、およびブログ、Wiki、ニュースフィードや、Exchange メールボックスのコンテンツがあります。コンテンツを検出可能にするには、検索によってインデックス付けされている必要があります。詳細については、「[電子情報開示センターでクエリを作成して実行する](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center)」を参照してください。
   
 ## <a name="ediscovery-hold"></a>電子情報開示の保留
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-保留の適用とは、オリジナル コンテンツがユーザーによって変更される場合や削除される場合に備えて、そのコピーを保存することを意味します。SharePoint サイト (OneDrive for Business サイトなど) や Exchange メールボックス (Skype for Business のスレッドのアーカイブなど) のコンテンツを保留状態にできます。保留は、保留が適用されたときの元の形式でコンテンツを維持するために使用されます。ユーザーがサイトやメールボックスに対して保留を適用すると、コンテンツは元の場所でインプレースのままになります。詳細については、「[電子情報開示ケースにコンテンツを追加して、ソースを保留にする](https://go.microsoft.com/fwlink/?LinkId=270964)」を参照してください。
+保留の適用とは、オリジナル コンテンツがユーザーによって変更される場合や削除される場合に備えて、そのコピーを保存することを意味します。SharePoint サイト (OneDrive for Business サイトなど) や Exchange メールボックス (Skype for Business のスレッドのアーカイブなど) のコンテンツを保留状態にできます。保留は、保留が適用されたときの元の形式でコンテンツを維持するために使用されます。ユーザーがサイトやメールボックスに対して保留を適用すると、コンテンツは元の場所でインプレースのままになります。詳細については、「[電子情報開示ケースにコンテンツを追加して、ソースを保留にする](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center)」を参照してください。
   
 ## <a name="ediscovery-export"></a>電子情報開示のエクスポート
 <a name="bkmk_eDiscovery_export"> </a>
 
-電子情報開示のコンテンツを当局に提出する準備が完了したとき、または別の法律プログラムを使用して作業を続ける場合には、電子情報開示センターからコンテンツをエクスポートできます。コンテンツがエクスポートされるとき、ほかの電子情報開示プログラムによって利用できる標準 EDRM 形式でエクスポートされます。エクスポートされるアイテムに関するメタデータを提供するために、電子情報開示参考モデル XML マニフェストが検索結果に含まれます。詳細については、「[電子情報開示コンテンツをエクスポートし、レポートを作成する](https://go.microsoft.com/fwlink/?LinkId=402986)」を参照してください。
+電子情報開示のコンテンツを当局に提出する準備が完了したとき、または別の法律プログラムを使用して作業を続ける場合には、電子情報開示センターからコンテンツをエクスポートできます。コンテンツがエクスポートされるとき、ほかの電子情報開示プログラムによって利用できる標準 EDRM 形式でエクスポートされます。エクスポートされるアイテムに関するメタデータを提供するために、電子情報開示参考モデル XML マニフェストが検索結果に含まれます。詳細については、「[電子情報開示コンテンツをエクスポートし、レポートを作成する](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery)」を参照してください。
   
 ## <a name="external-sharing-external-access"></a>外部共有:外部アクセス
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ Word Online の読み取りビューには、組織がドキュメントをブ�
 ## <a name="information-rights-management-irm"></a>Information Rights Management (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-SharePoint Online IRM では、Office 365 の情報保護技術である Azure Information Protection が使用されます。IRM 保護は、SharePoint リストのファイルおよびライブラリ レベルで適用されます。詳細については、「[SharePoint 管理センターにおける Information Rights Management (IRM) の設定](https://go.microsoft.com/fwlink/?LinkId=270963)」を参照してください。
+SharePoint Online IRM では、Office 365 の情報保護技術である Azure Information Protection が使用されます。IRM 保護は、SharePoint リストのファイルおよびライブラリ レベルで適用されます。詳細については、「[SharePoint 管理センターにおける Information Rights Management (IRM) の設定](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)」を参照してください。
   
 ## <a name="managed-metadata-service"></a>管理されたメタデータ サービス
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ Office 365 を利用している場合は、インターネット ブラウザ�
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps サーバーの統合
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-SharePoint Online のお客様には該当しません。SharePoint Server 2010 では、Office Web Apps は SharePoint サービス アプリケーションです。SharePoint Server 2013 では、新しい Office サーバー製品の Office Web Apps サーバーがあります。単一の Office Web Apps サーバー ファームは、SharePoint Server 2013、Exchange Server 2013、共有フォルダー、および Web サイトで Office ファイルにアクセスするユーザーをサポートできます。これにより、オンプレミスの環境で Office のオンライン バージョンを展開および管理することができます。詳細については、「[Office Web Apps サーバーの統合](https://go.microsoft.com/fwlink/?LinkId=270911)」を参照してください。
+SharePoint Online のお客様には該当しません。SharePoint Server 2010 では、Office Web Apps は SharePoint サービス アプリケーションです。SharePoint Server 2013 では、新しい Office サーバー製品の Office Web Apps サーバーがあります。単一の Office Web Apps サーバー ファームは、SharePoint Server 2013、Exchange Server 2013、共有フォルダー、および Web サイトで Office ファイルにアクセスするユーザーをサポートできます。これにより、オンプレミスの環境で Office のオンライン バージョンを展開および管理することができます。詳細については、「[Office Web Apps サーバーの統合](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server)」を参照してください。
   
 ## <a name="preservation-hold-library"></a>アイテム保管ライブラリ
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ SharePoint では、アーカイブ内のレコードを管理したり、アク
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Recycle Bin (SharePoint admin center)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-SharePoint Online の管理者は SharePoint 管理センターを使用して削除されたサイト コレクションを復元することができます。詳細については、「[削除されたサイト コレクションを復元する](https://go.microsoft.com/fwlink/p/?LinkId=286114)」を参照してください。 
+SharePoint Online の管理者は SharePoint 管理センターを使用して削除されたサイト コレクションを復元することができます。詳細については、「[削除されたサイト コレクションを復元する](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections)」を参照してください。 
   
 ## <a name="recycle-bin-site-collection"></a>Recycle Bin (site collection)
 <a name="bkmk_RecycleBinSC"> </a>
