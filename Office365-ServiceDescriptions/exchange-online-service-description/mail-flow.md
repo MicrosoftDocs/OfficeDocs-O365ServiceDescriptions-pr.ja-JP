@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
 ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467294"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246403"
 ---
 # <a name="mail-flow"></a>メール フロー
 
@@ -44,7 +44,7 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
 > [!IMPORTANT]
 > CA 検証の証明書が必要な場合があります。 
   
-## <a name="conditional-mail-routing"></a>Conditional mail routing
+## <a name="conditional-mail-routing"></a>条件付きメール ルーティング
 
 コネクタとトランスポート ルールを使用して特定のサイトにメールをルーティングできます。条件に基づいたルーティングでは、特定の条件に基づいてコネクタを選択できます。
   

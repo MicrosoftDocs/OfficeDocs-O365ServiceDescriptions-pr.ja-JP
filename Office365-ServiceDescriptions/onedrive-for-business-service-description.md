@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business は、会社によってクラウド内に提供される、個人のオンライン ストレージ スペースです。これは、複数のデバイスに分散した作業ファイルにアクセスする際に、作業ファイルを簡単に保存し保護するために使用されます。必要に応じて仕事仲間とファイルを共有し、最新の Office デスクトップ、Web、モバイル アプリを使用して、リアルタイムで一緒に Office ドキュメントを共同作業します。OneDrive for Business 同期クライアントを使用して、ローカル コンピューターにファイルを同期します。
 ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467194"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246924"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 

@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online は使用中の Microsoft Visio エクスペリエンスを Web ブラウザーにまで拡張します。これにより、ダイアグラムをそれが保存された Web サイト上で直接操作することができます。Microsoft Office 365 のお客様は、Office Online を使用して外出先でもダイアグラムを表示して共有し、コメントを挿入することができます。
 ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467564"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246563"
 ---
 # <a name="visio-online"></a>Visio Online
 

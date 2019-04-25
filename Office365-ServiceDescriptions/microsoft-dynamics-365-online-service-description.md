@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである dynamics 365 の一部として含まれるようになりました。 Dynamic 365 は、特定のビジネス機能を管理する新しいアプリケーションを提供することにより、カスタマー リレーションシップ マネジメント (CRM) とエンタープライズ リソース プランニング (ERP) の機能を統合します。
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467214"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246523"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (オンライン) サービスの説明
 

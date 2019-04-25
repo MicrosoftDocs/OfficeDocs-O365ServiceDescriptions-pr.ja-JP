@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートを、Microsoft の次世代のコミュニケーションおよびコラボレーション サービスのクラウドベース バージョンである、Microsoft Exchange Online、Microsoft SharePoint Online、Office Online、Microsoft Skype for Business Online と組み合わせて、インターネット上のどこから作業しても、生産性を向上させるのに役に立ちます。
 ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467994"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247293"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -39,7 +39,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Online  <br/> |Yes<sup>7</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Project Online  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Yammer アカデミック版  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -67,7 +67,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft の予約  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Microsoft の予約  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -151,13 +151,13 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |IPv4 および IPv6 プロトコル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**信頼** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[プライバシー、セキュリティ、および透過性](privacy-security-and-transparency.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Advanced Security Management  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Advanced Security Management  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Office 365 Advanced eDiscovery<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|**[コンプライアンス [servicedesc]](compliance-servicedesc.md)** <br/> ||||
+|**[準拠[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -190,7 +190,7 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Advanced Security Management](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|[Advanced Security Management](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[脅威の管理](https://go.microsoft.com/fwlink/?linkid=845550)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度な脅威の管理](https://go.microsoft.com/fwlink/?linkid=846673)<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[モバイル デバイス管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -236,32 +236,32 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |**企業価値** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |<sup>3</sup>なし <br/> |はい  <br/> |はい  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|多言語ユーザー インターフェイス  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|クライアント プッシュ展開  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|社内 Exchange のクライアント サポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|社内 SharePoint のクライアント サポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|ソフトウェア更新の制御  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|データベース比較  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|デスクトップの仮想化  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Excel スプレッドシート比較  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Excel スプレッドシート検査  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|多言語ユーザー インターフェイス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|クライアント プッシュ展開  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|社内 Exchange のクライアント サポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|社内 SharePoint のクライアント サポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|ソフトウェア更新の制御  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|データベース比較  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|デスクトップの仮想化  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Excel スプレッドシート比較  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Excel スプレッドシート検査  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|グループ ポリシーのサポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|グループ ポリシーのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用した Information Rights Management  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows Server AD RMS を使用した Information Rights Management  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
-|Office アドイン、ActiveX、および BHO のサポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Office テレメトリ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|クライアント アプリケーションのオフライン サポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Power Map for Excel  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Power Pivot for Excel  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Power Query for Excel  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Power View for Excel  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|ローミング設定  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|クラウドベース ファイル ストレージのブロックのサポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|タップしてコンテンツを検索し、再利用  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|バージョン アップグレード  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Office アドイン、ActiveX、および BHO のサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Office テレメトリ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|クライアント アプリケーションのオフライン サポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Power Map for Excel  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Power Pivot for Excel  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Power Query for Excel  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Power View for Excel  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|ローミング設定  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|クラウドベース ファイル ストレージのブロックのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|タップしてコンテンツを検索し、再利用  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|バージョン アップグレード  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Volume activation (KMS/MAK)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > [!NOTE]
@@ -332,7 +332,7 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |**[受信者](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |容量アラート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クラッター機能  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|メール ヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |代理人アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |受信トレイのルール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |接続されているアカウント  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |
@@ -356,7 +356,7 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |Web サービス レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メッセージの追跡  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |監査レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ユニファイド メッセージングのレポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|ユニファイド メッセージングのレポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**[共有とコラボレーション](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |フェデレーションの共有 (予定表の公開を含む)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サイト メールボックス  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
@@ -372,8 +372,8 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |SMTP  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EWS アプリケーションのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[ボイス メッセージ サービス](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ボイス メール  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|ボイス メールとサード パーティ FAX の統合  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|ボイス メール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|ボイス メールとサード パーティ FAX の統合  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |サードパーティ ボイス メールの相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business 統合  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[高可用性とビジネス継続性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -418,7 +418,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
     
 - [メッセージの制限](office-365-education.md#message-limits)
     
-- [受信および送信の制限](office-365-education.md#receiving-and-sending-limits)
+- [Receiving and sending limits](office-365-education.md#receiving-and-sending-limits)
     
 - [レポート作成とメッセージ追跡の制限](office-365-education.md#reporting-and-message-trace-limits)
     
@@ -524,7 +524,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|メールボックス フォルダーごとの最大メッセージ数  <br/> |100 万個  <br/> |100 万個  <br/> |100 万  <br/> |
+|メールボックス フォルダーごとの最大メッセージ数  <br/> |100 万  <br/> |100 万  <br/> |100 万  <br/> |
 |メールボックス フォルダーごとの警告を出すメッセージ数  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数  <br/> |300 万  <br/> |300 万  <br/> |300 万  <br/> |
 |プライマリ メールボックスの回復可能なアイテム フォルダーの記憶域のクォータ (保留ではないもの)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
@@ -575,7 +575,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |件名の長さの制限  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |
 |添付ファイルの制限  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |
-|添付ファイルのサイズ制限 - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|添付ファイルのサイズ制限 - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |添付ファイルのサイズ制限 - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
 |添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |マルチパート メッセージの制限  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |
@@ -608,7 +608,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 - **受信者数の制限** Exchange Online には、受信者が送信を要求していないバルク メッセージの配信を防ぐための受信者制限があり、ユーザーおよびアプリケーションによる膨大な数の電子メールの送信を防止しています。これらの制限は、すべての送信メッセージおよび内部メッセージに対してユーザーごとに適用されます。 
     
     > [!NOTE]
-    > Exchange Online 正当なバルク メッセージ (たとえば、顧客向けのニュースレター) を送信する必要がある場合は、そのようなサービスに特化したサード パーティ プロバイダーを使用してください。 
+    > 正当なバルク メッセージ (たとえば、顧客向けのニュースレター) を送信しなければならない Exchange Online のお客様は、そうしたサービスに特化したサード パーティ プロバイダーを使用する必要があります。 
   
 - **受信者の制限** "宛先:"、"CC:"、"BCC:" の各フィールドに 1 通のメール メッセージで入力できるメッセージ受信者の最大数。 
     
@@ -645,11 +645,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |削除済みアイテム フォルダーの保存期限  <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |
-|削除済みアイテム フォルダーから削除されたアイテムの保存期限  <br/> |14日<sup>1</sup>日 <br/> |14日<sup>1</sup>日 <br/> |14日<sup>1</sup>日 <br/> |
-|迷惑メール フォルダーの保存期限  <br/> |30 日  <br/> |30 日  <br/> |30 日  <br/> |
+|削除済みアイテム フォルダーから削除されたアイテムの保存期限  <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |
+|迷惑メール フォルダーの保存期限  <br/> |30 日  <br/> |30 日間  <br/> |30 日間  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。 
+> <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。  
   
 #### <a name="distribution-group-limits"></a>配布グループの制限
 <a name="iDistributionGroupLimits"> </a>
@@ -668,7 +668,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |個  <br/> |個  <br/> |個  <br/> |
+|配布グループの所有者の最大数  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -705,7 +705,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |添付ファイルのコンテンツのスキャンの制限  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |すべてのトランスポート ルールによってメッセージに追加される最大受信者数  <br/> |100 の受信者  <br/> |100 の受信者  <br/> |100 の受信者  <br/> |
 |被転送者の制限  <br/> |10 の受信者  <br/> |10 の受信者  <br/> |10 の受信者  <br/> |
-|メッセージのリダイレクト回数  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |
+|メッセージのリダイレクト回数  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |
    
 #### <a name="moderation-limits"></a>モデレートの制限
 <a name="ModerationLimits"> </a>
@@ -727,7 +727,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |調停メールボックスの最大サイズ  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |最大モデレーター数  <br/> |10 人  <br/> |10 人  <br/> |10 人  <br/> |
-|モデレートを待機しているメッセージの有効期限  <br/> |2 日  <br/> |2 日  <br/> |2 日  <br/> |
+|モデレートを待機しているメッセージの有効期限  <br/> |2 日  <br/> |2 日間  <br/> |2 日間  <br/> |
 |期限切れモデレート通知メッセージの最大頻度  <br/> |1 時間あたり 300 通  <br/> |1 時間あたり 300 通  <br/> |1 時間あたり 300 通  <br/> |
    
 #### <a name="exchange-activesync-limits"></a>Exchange ActiveSync の制限
@@ -746,7 +746,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync デバイスの制限  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync デバイス削除の制限  <br/> |1280  <br/> |1280  <br/> |1280  <br/> |
-|Exchange ActiveSync ファイル添付の制限  <br/> |25 MB  <br/> |25 MB   <br/> |25 MB  <br/> |
+|Exchange ActiveSync ファイル添付の制限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business の機能
 <a name="OfcOnline"> </a>
@@ -893,7 +893,7 @@ OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使�
 |[多段処分](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Office Online (作成/編集)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Office Online (表示)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office ProPlus (Osub)  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Office ProPlus (Osub)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PowerPoint Automation Services <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[アイテム保管ライブラリ](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -909,7 +909,7 @@ OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使�
 |[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[動画検索](../sharepoint-online-service-description/content.md#video-search) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[発行分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[®](../sharepoint-online-service-description/content.md#catalog) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[カテゴリページとカタログアイテムページ](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[検索 web パーツ](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[クロスサイト発行](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -923,7 +923,7 @@ OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使�
 |[WCM:検索エンジン最適化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**Insights 機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[ビジネス インテリジェンス センター](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|[ビジネス インテリジェンス センター](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[計算されるメジャーとメンバー](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ接続ライブラリ](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[分離ピボットテーブルおよびピボットグラフ](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1039,7 +1039,7 @@ OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使�
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|記憶域<sup>1、2</sup> <br/> |1組織につき 1 TB、さらに購入<sup></sup>したライセンスごとに 10 GB <br/> |1組織につき 1 TB、さらに購入<sup></sup>したライセンスごとに 10 GB <br/> |1組織につき 1 TB、さらに購入<sup></sup>したライセンスごとに 10 GB <br/> |
+|記憶域<sup>1、2</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 10 GB<sup>3</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 10 GB<sup>3</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 10 GB<sup>3</sup> <br/> |
 |ストア内の用語  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |サイト コレクションの記憶域  <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |
 |テナントごとのサイト コレクション数  <br/> |1 組織につき 500,000<sup>5</sup> <br/> |1 組織につき 500,000<sup>5</sup> <br/> |1 組織につき 500,000<sup>5</sup> <br/> |
@@ -1061,7 +1061,7 @@ OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使�
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype for Business Full  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Skype for Business Full  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Basic  <br/> |はい<sup>1</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
 |Lync 2013 Basic  <br/> |はい<sup>1</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
 |Skype for Business Windows ストア アプリ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1112,7 +1112,7 @@ OneDrive for business プラン2は、Office 365 A1、A3、および A5 で使�
 |クライアント側の記録と再生  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サーバー側の記録と再生  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ミーティング ロビー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Skype 会議メディア  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Skype 会議メディア  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Web App による Skype 会議へのゲスト アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook での Skype for Business 会議のスケジュール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |他のユーザーの代理として Outlook で行う Skype for Business 会議のスケジュール (委任)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1213,7 +1213,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |
+|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |無制限  <br/> |
    
 #### <a name="meeting-limits"></a>会議の制限
@@ -1256,7 +1256,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日  <br/> |15 日   <br/> |15 日   <br/> |
+|会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日   <br/> |15 日   <br/> |15 日   <br/> |
 |会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日   <br/> |15 日  <br/> |
 |会議コンテンツの保存:今すぐミーティング  <br/> |8 時間   <br/> |8 時間   <br/> |8 時間   <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |

@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 office 365 の詳細については、「office 365 のサービスの説明」を参照してください。
 ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764825"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246417"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -39,15 +39,15 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Office Online  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |はい  <br/> |はい  <br/> |
 |Project Online  <br/> |<sup>3</sup>なし <br/> |<sup>3</sup>なし <br/> |
-|Power BI  <br/> |いいえ  <br/> |なし  <br/> |
+|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Yammer エンタープライズ  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection  <br/> |なし  <br/> |はい<sup>4</sup> <br/> |
+|Azure Information Protection  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |
 |[Office 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md) <br/> |||
 |Microsoft Bookings  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Myanalytics  <br/> |いいえ  <br/> |なし  <br/> |
+|Microsoft Myanalytics  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Planner  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft PowerApps  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft StaffHub  <br/> |はい  <br/> |はい  <br/> |
@@ -56,8 +56,8 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Microsoft Teams<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |
 |Office Delve  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 ビデオ  <br/> |いいえ  <br/> |なし  <br/> |
-|OneNote Class Notebook  <br/> |いいえ  <br/> |なし  <br/> |
+|Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |はい  <br/> |はい  <br/> |
 |[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |
@@ -91,12 +91,12 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |組み込みのスパム対策保護  <br/> |はい  <br/> |はい  <br/> |
 |組み込みのマルウェア対策保護  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |はい <br/> |
-|Advanced Security Management  <br/> |いいえ  <br/> |なし  <br/> |
-|顧客ロックボックス  <br/> |いいえ  <br/> |なし  <br/> |
-|Office のカスタマーキー 365<sup>12</sup> <br/> |いいえ  <br/> |なし  <br/> |
-|Office 365 Advanced eDiscovery<sup>13</sup> <br/> |いいえ  <br/> |なし  <br/> |
+|Advanced Security Management  <br/> |いいえ  <br/> |いいえ  <br/> |
+|顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Office のカスタマーキー 365<sup>12</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
+|Office 365 Advanced eDiscovery<sup>13</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
 |セキュリティ スコア<sup>14</sup> <br/> |はい  <br/> |はい  <br/> |
-|脅威インテリジェンス  <br/> |いいえ  <br/> |なし  <br/> |
+|脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[準拠[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |
@@ -105,7 +105,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |HIPAA ビジネス アソシエイト契約  <br/> |はい  <br/> |はい  <br/> |
 |FISMA 運用認可  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft データ処理契約  <br/> |はい  <br/> |はい  <br/> |
-|PCI 準拠 PAN データ  <br/> |いいえ  <br/> |なし  <br/> |
+|PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[ネットワーク](office-365-platform-service-description/networking.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |IPv4 および IPv6 プロトコル  <br/> |はい  <br/> |はい  <br/> |
 |[サービス更新](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |

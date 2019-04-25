@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: microsoft Office 365 Enterprise、Business、エデュケーション、および政府のすべてのサブスクリプションで、microsoft サポートは、グローバルな技術、セールス前、請求書、サブスクリプションサポートを提供します。 サポートは、Office 365 ポータルと、有料サブスクリプションおよび試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Office 365 サポートオプション」を参照してください。
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467534"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247003"
 ---
-# <a name="support"></a>Support
+# <a name="support"></a>サポート
 
 > [!NOTE]
 > 以下のサポート オプションはすべて、Office 365 のワールドワイド バージョン用です。中国の 21Vianet が運用している Office 365 のすべてのサポートについては、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照してください。Office 365 Germany については、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](https://go.microsoft.com/fwlink/?linkid=846979)」を参照してください。 
@@ -67,8 +67,8 @@ Office 365 サブスクリプションのテクニカル サポートでは、�
   
 |**サポート カテゴリ**|**例**|
 |:-----|:-----|
-|インストールとセットアップ  <br/> | Exchange Online:  <br/>  Office 365 メールボックスの移行  <br/>  受信者の構成 (メールボックスのアクセス許可、メール転送の構成、共有メールボックスの構成)  <br/>  自動検出の構成  <br/>  SharePoint Online:  <br/>  アクセス許可およびユーザー グループ  <br/>  外部ユーザーの構成  <br/>  Skype for Business Online:  <br/>  インストールおよび連絡先の作成  <br/>  Microsoft Office 365 ProPlus:インストールとセットアップの支援  <br/> |
-|構成  <br/> | サービスの構成の不具合  <br/>  プロビジョニングに関する問題  <br/>  ドメインの設定と再委任  <br/>  サービス構成の問題  <br/>  シングル サインオン (SSO)  <br/>  Active Directory 同期  <br/> |
+|インストールとセットアップ  <br/> | Exchange Online:  <br/>  Office 365 のメールボックスの移行  <br/>  受信者の構成 (メールボックスのアクセス許可、メール転送の構成、共有メールボックスの構成)  <br/>  自動検出の構成  <br/>  SharePoint Online:  <br/>  アクセス許可およびユーザー グループ  <br/>  外部ユーザーの構成  <br/>  Skype for Business Online:  <br/>  インストールおよび連絡先の作成  <br/>  Microsoft Office 365 ProPlus:インストールとセットアップの支援  <br/> |
+|構成  <br/> | サービスの構成の不具合  <br/>  プロビジョニングに関する問題  <br/>  ドメインの設定と再委任  <br/>  サービス構成の問題  <br/>  シングル サインオン (SSO)  <br/>  Active Directory の同期  <br/> |
    
 > [!NOTE]
 > こちらでテクニカル サポートに連絡する方法を確認できます。[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](https://go.microsoft.com/fwlink/p/?LinkID=279815)。 > Office 365 のテクニカル サポートには、サード パーティ製のサービスやアドインのトラブルシューティングは含まれていません。他のお客様からの回答については、「[Microsoft コミュニティ ](https://go.microsoft.com/fwlink/p/?LinkID=617897)」を参照してください。 
@@ -155,7 +155,7 @@ Office 365 Enterprise プランと Office 365 Business プランでは、異な�
     
 - 購入および試用版に関する問い合わせに対応します。
     
-- 調査を通じてサービスの改善に関する顧客からのフィードバックを継続的に収集します。
+- 調査を通じてサービスの改善に関するカスタマー フィードバックを継続的に収集します。
     
 ## <a name="additional-support-options"></a>追加のサポート オプション
 <a name="AdditionalSupport"> </a>

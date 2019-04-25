@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468144"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245633"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
@@ -50,7 +50,7 @@ ms.locfileid: "30468144"
 |**機能**|****EOP スタンドアロン****|****EOP 機能Exchange Online****|****Exchange Enterprise CAL (サービス付き)****|
 |:-----|:-----|:-----|:-----|
 |ドメインの制限  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|メッセージ サイズの制限 (添付ファイルを含む)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|メッセージ サイズの制限 (添付ファイルを含む)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |受信者の制限  <br/> |上記の "受信者の制限" を参照  <br/> |ホストされているメールボックスから送信する場合は、500 人の受信者。その他のシナリオについては、上記の "受信者の制限" を参照  <br/> |上記の "受信者の制限" を参照  <br/> |
 |差出人セーフ リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
 |ブロックする差出人の制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||

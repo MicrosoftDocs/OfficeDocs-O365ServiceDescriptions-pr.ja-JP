@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。 これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
 ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467414"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246334"
 ---
-# <a name="recipients"></a>受信者
+# <a name="recipients"></a>Recipients
 
 このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
   
@@ -37,7 +37,7 @@ Microsoft Exchange Online のサブスクライバー全員にメールボック
   
 詳細については、「メールボックスの容量制限」と「容量警告」セクションのトピック「[Exchange Online の制限](exchange-online-limits.md)」をご覧ください。
   
-### <a name="mailtips"></a>メールヒント
+### <a name="mailtips"></a>メール ヒント
 
 メール ヒントは、ユーザーがメッセージを作成しているか、アドレスを指定しているときに "宛先:" 行の上に表示され、自動で情報を提供するメッセージです。これらは、誤配信、ポリシー違反、または不要な配信不能レポート (NDR) を防ぐことを目的としています。たとえば、送信者が大きすぎるグループや、外部の受信者を含むグループ、モデレートまたは制限されている配布グループにメッセージを送信しようとした場合、メール ヒントにアラートを表示できます。詳細については、「[メール ヒント](https://go.microsoft.com/fwlink/p/?LinkId=401472)」を参照してください。
   

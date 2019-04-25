@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Visio Online では、Visio ダイアグラムを Web 上で表示し共有することができます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio Online ユーザーは、ダイアグラムを共有して、SharePoint Online や OneDrive for Business Online にアップロードされたファイルにコメントを挿入することにより、表示や共同作業が可能です。
 ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466504"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246833"
 ---
 # <a name="visio-online-service-description"></a>Visio Online サービスの詳細
 
@@ -46,7 +46,7 @@ Visio Online を使用する際のヘルプについては、「[Visio Online �
 |[ナビゲーション](visio-online.md#BM_11) <br/> |はい  <br/> |はい  <br/> |
 |[Office アドイン](visio-online.md#BM_12) <br/> |いいえ  <br/> |はい  <br/> |
 |[オフライン表示](visio-online.md#BM_13) <br/> |いいえ  <br/> |はい  <br/> |
-|[PDF に印刷](visio-online.md#BM_14) <br/> |はい<sup>4</sup> <br/> |○  <br/> |
+|[PDF に印刷](visio-online.md#BM_14) <br/> |はい<sup>4</sup> <br/> |はい  <br/> |
 |[校正ツール](visio-online.md#BM_15) <br/> |いいえ  <br/> |はい  <br/> |
 |[リアルタイム共同編集](visio-online.md#BM_16) <br/> |いいえ  <br/> |はい  <br/> |
 |[名前を付けて保存またはダウンロード](visio-online.md#BM_17) <br/> |はい  <br/> |はい  <br/> |

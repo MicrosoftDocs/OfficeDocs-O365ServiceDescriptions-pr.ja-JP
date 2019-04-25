@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: office Online (以前の office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
 ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467454"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246963"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -127,7 +127,7 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[おすすめ書式の適用](excel-online.md#apply-smartrecommended-formatting) <br/> |いいえ  <br/> |はい  <br/> |
 |[音声ノートの記録](onenote-online.md#audio-notes-recording) <br/> |いいえ  <br/> |はい  <br/> |
 |[オートコンプリート](excel-online.md#autocomplete) <br/> |はい  <br/> |はい  <br/> |
-|[sum](excel-online.md#autosum) <br/> |はい  <br/> |はい  <br/> |
+|[AutoSum](excel-online.md#autosum) <br/> |はい  <br/> |はい  <br/> |
 |[custom](excel-online.md#calculations) <br/> |はい  <br/> |はい  <br/> |
 |[コメントの作成](excel-online.md#comment-creation) <br/> |はい  <br/> |はい  <br/> |
 |[コピーして貼り付け](excel-online.md#copy-and-paste) <br/> |はい  <br/> |はい  <br/> |
@@ -204,7 +204,7 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[クリッピング](onenote-online.md#clipping-experiences) <br/> |いいえ  <br/> |はい  <br/> |
 |[共同編集](onenote-online.md#co-authoring) <br/> |はい  <br/> |はい  <br/> |
 |[ページおよびセクションの作成と管理](onenote-online.md#create-and-manage-pages-and-sections) <br/> |はい  <br/> |はい  <br/> |
-|[埋め込まれた Office ファイルのダウンロード](onenote-online.md#download-copy-of-embedded-office-files) <br/> |○  <br/> |はい<sup>4</sup> <br/> |
+|[埋め込まれた Office ファイルのダウンロード](onenote-online.md#download-copy-of-embedded-office-files) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |
 |[ドラッグアンドドロップページ] <br/> |はい  <br/> |はい <br/> |
 |[ドラッグアンドドロップセクション] <br/> |はい  <br/> |はい <br/> |
 |[セクショングループのドラッグアンドドロップ] <br/> |いいえ  <br/> |はい <br/> |

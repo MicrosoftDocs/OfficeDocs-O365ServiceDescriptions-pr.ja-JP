@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
 ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825215"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247063"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透過性
 
@@ -35,11 +35,11 @@ Enterprise、Business、Government、および Education 管理者が Office 365
   
 Office 365 ProPlus を含む他の Microsoft サービスのセキュリティとプライバシーについては、「[セキュリティ センターが適用されるオンライン サービスについて](https://www.microsoft.com/trustcenter/default.aspx)」を参照してください。
   
-## <a name="security"></a>セキュリティ
+## <a name="security"></a>Security
 
 Microsoft が Office 365 サービスを安全かつ確実に提供する方法については、「[セキュリティ](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)」をご覧ください。
   
-## <a name="transparency"></a>Transparency
+## <a name="transparency"></a>透明度
 
 Office 365 のお客様は、データの格納場所、Microsoft 内でデータにアクセスできる担当者、Microsoft 内でのデータの扱いについて知ることができます。詳細については、「[透過性](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)」をご覧ください。
   

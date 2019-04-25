@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
 description: Project Online では、次のリソース管理機能が利用可能です。
 ms.openlocfilehash: 11d6689b5089ad6cb374364b021c3dad74a3856f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466594"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246683"
 ---
 # <a name="resource-management"></a>リソース管理
 

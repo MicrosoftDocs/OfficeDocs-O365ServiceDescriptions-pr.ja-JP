@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online の制限は、以下のカテゴリに分類されます。
 ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466964"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246463"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -49,9 +49,9 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |該当なし  <br/> |
+|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |該当しない  <br/> |
 |会話数の制限<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |該当なし  <br/> |
+|開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |該当しない  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> クライアントは、手動でユーザーを追加するか、グループまたは配信リストのコンテキスト メニューからインスタント メッセージを送信することにより、99 人までのユーザーとのチャットを開始することができます。Skype for Business Online のインスタント メッセージングについては、「 [Skype for Business で IM を送信する](https://go.microsoft.com/fwlink/?linkid=533412)」を参照してください。 
@@ -61,7 +61,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online スタンドアロン プラン 1** <br/> |**Skype for Business Online スタンドアロン プラン 2** <br/> |
-|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |
+|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
 |会話数の制限<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
@@ -89,11 +89,11 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |ファイルのアップロード制限  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |該当なし  <br/> |
-|Skype for Business 会議の参加者数<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
-|Skype for Business 会議のプレゼンター数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
+|Skype for Business 会議の参加者数<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当しない  <br/> |
+|Skype for Business 会議のプレゼンター数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当しない  <br/> |
 |Skype for Business Web アプリ会議の参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
-|Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
-|電話で参加するゲスト  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当なし  <br/> |
+|Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当しない  <br/> |
+|電話で参加するゲスト  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |該当しない  <br/> |
 |チーム呼び出しグループ内の個人  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |該当なし  <br/> |
    
 > [!NOTE]
@@ -105,12 +105,12 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online スタンドアロン プラン 1** <br/> |**Skype for Business Online スタンドアロン プラン 2** <br/> |
 |ファイルのアップロード制限  <br/> |500 MB  <br/> |該当しない  <br/> |500 MB  <br/> |
-|Skype for Business 会議の参加者数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
-|Skype for Business 会議のプレゼンター数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
-|Skype for Business Web アプリ会議の参加者数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
-|Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
-|電話で参加するゲスト  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
-|チーム呼び出しグループ内の個人  <br/> |まで  <br/> |該当なし  <br/> |まで  <br/> |
+|Skype for Business 会議の参加者数  <br/> |250  <br/> |該当しない  <br/> |250  <br/> |
+|Skype for Business 会議のプレゼンター数  <br/> |250  <br/> |該当しない  <br/> |250  <br/> |
+|Skype for Business Web アプリ会議の参加者数  <br/> |250  <br/> |該当しない  <br/> |250  <br/> |
+|Skype for Business Web アプリの匿名参加者数  <br/> |250  <br/> |該当しない  <br/> |250  <br/> |
+|電話で参加するゲスト  <br/> |250  <br/> |該当しない  <br/> |250  <br/> |
+|チーム呼び出しグループ内の個人  <br/> |まで  <br/> |該当しない  <br/> |まで  <br/> |
    
 ## <a name="meeting-retention-limits"></a>会議の保存期限
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>

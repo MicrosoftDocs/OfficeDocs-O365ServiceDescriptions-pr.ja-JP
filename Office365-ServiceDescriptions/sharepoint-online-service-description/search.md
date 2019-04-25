@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の検索機能は、ユーザーが業務の遂行に必要な情報を検索するために役立ちます。 検索は、関連性、絞り込み条件、ユーザーの組み合わせです。
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467635"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246623"
 ---
 # <a name="search"></a>検索
 
@@ -54,7 +54,7 @@ SharePoint では、[人の検索] 機能により、特定のスキルまたは
 
 SharePoint のハイブリッド展開では、検索結果のコンテンツは、SharePoint Online サイトと SharePoint Server 2013 社内サイトの両方から取得できます。SharePoint のハイブリッド環境の詳細については、「[SharePoint Server 2013 のハイブリッド](https://go.microsoft.com/fwlink/?LinkId=275765)」を参照してください。
   
-## <a name="manage-search-schema"></a>検索スキーマの管理
+## <a name="manage-search-schema"></a>検索スキーマを管理する
 <a name="bkmk_manage_search_schema"> </a>
 
 SharePoint サイト上でコンテンツを検索すると、検索インデックスに含まれているものが検索されます。検索インデックスは、SharePoint サイト上のコンテンツをクロールすることによって構築され、サイト上のすべてのドキュメントとページからの情報が含まれています。検索スキーマは、クローラーが収集すべきコンテンツとメタデータと、それらにインデックスを付ける方法を決定するのに役立ちます。検索スキーマを変更することによって、カスタマイズした検索エクスペリエンスをユーザーに提供できます。詳細については、「[SharePoint Online で検索スキーマを管理する](https://go.microsoft.com/fwlink/p/?LinkId=392427)」を参照してください。

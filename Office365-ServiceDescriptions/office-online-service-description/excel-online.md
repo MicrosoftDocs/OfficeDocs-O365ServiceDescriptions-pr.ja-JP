@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: excel Online (以前の excel Web App) は、Microsoft excel の機能を web ブラウザーにまで拡張します。ここでは、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての office 365 のお客様は、office Online を使用して office ファイルを表示し、軽く編集することができます。
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467384"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246983"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -44,7 +44,7 @@ Excel Online でサポートされるファイルの種類については、「[
 
 タイムライン コントロールでは、モデル化されたデータのフィルター処理を行うことができます。この機能を使用すると、連続した日付範囲の表示や変更、ピボットテーブルやピボットグラフなどのピボットベースのオブジェクトのフィルター処理を視覚的に行うことができます。 
   
-## <a name="alignment"></a>位置揃え
+## <a name="alignment"></a>Alignment
 <a name="bkmk_Alignment"> </a>
 
 [ホーム] タブの配置ボタンを使用して、テキストの配置を変更します。 
@@ -69,12 +69,12 @@ Excel Online では使用できません。Excel 2013 デスクトップ アプ�
 
  Excel Online では、一部の Office アドインを利用できます。Excel 用のアドインは、Office ストアから入手できます。[Excel 用 Office アドインを入手する](https://go.microsoft.com/fwlink/p/?LinkId=271667)方法について、詳細をご覧ください。
   
-## <a name="autocomplete"></a>オートコンプリート
+## <a name="autocomplete"></a>候補
 <a name="bkmk_Autocomplete"> </a>
 
 Excel Online では、セルに文字を入力していくと、残りの文字が自動的に入力されることがあります。入力した内容が複数の値に一致する場合は、一致するすべての値が一覧に表示されるので、該当する値を選択できます。
   
-## <a name="autosum"></a>sum
+## <a name="autosum"></a>AutoSum
 <a name="bkmk_AutoSum"> </a>
 
 列または行の数値を合計するには、合計するセルを選択して [オート SUM] をダブルクリックします。結果は次の空白のセルに表示されます。
@@ -179,7 +179,7 @@ Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式
 
 編集表示でブラウザーのブックに表示できるものはすべて、閲覧表示でも表示できます。
   
-## <a name="functions"></a>= (式) フィールドで使用できる関数
+## <a name="functions"></a>関数
 <a name="bkmk_Functions"> </a>
 
 Excel Online では、Excel の 400 を超えるワークシート関数のほとんどを使用できます。
@@ -234,7 +234,7 @@ Excel Online で Power Pivot テーブルおよびグラフを表示できます
 
 ブック内の Power View シートを表示して操作することができますが、Excel Online を使って Power View を作成することはできません。Power View を作成するには、デスクトップ アプリケーションを使用する必要があります。Power View では、対話型で、プレゼンテーションに対応したビューでデータの作成、共有、探索ができます。1 つのワークシートの相互にリンクされた対話型のマップ、グラフ、テーブルで情報を表示します。[Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674) の詳細をご確認ください。
   
-## <a name="print"></a>印刷
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 Excel Online の [印刷] コマンドを使用して、ワークシート全体または現在の選択範囲をプリンターに送信します。[Excel Online で印刷する方法](https://go.microsoft.com/fwlink/p/?LinkId=271676)の詳細をご確認ください。
@@ -264,7 +264,7 @@ Excel Online の [印刷] コマンドを使用して、ワークシート全体
 
 Excel Online では、ヘッダー内のファイル名をクリックして、新しい名前を入力すれば、ブック ファイルを閉じなくてもその名前を変更できます。Excel デスクトップ アプリを使用してファイルの名前を変更するには、デバイス上のその場所に移動して、その名前を変更します。
   
-## <a name="replace"></a>置換
+## <a name="replace"></a>Replace
 <a name="bkmk_Replace"> </a>
 
 Excel Online では使用できません。お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。[Excel 2013 での検索と置換の使用](https://go.microsoft.com/fwlink/p/?LinkId=282333)の詳細をご確認ください。

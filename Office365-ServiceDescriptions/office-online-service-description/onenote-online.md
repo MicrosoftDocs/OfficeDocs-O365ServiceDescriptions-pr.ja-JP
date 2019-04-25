@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: onenote online (旧称 onenote Web App) を使用して、onenote ノートブックでオンラインでノートを取ることができます。これは、どこからでも追加して、他のユーザーと簡単に共有できます。 すべての office 365 のお客様は、office Online を使用して office ファイルを表示し、軽く編集することができます。
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467024"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247183"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -147,7 +147,7 @@ OneNote Online では、段落の配置の変更、左余白からのインデ�
 
 OneNote Online を使用すると、ファイルまたは Bing 画像検索から画像を挿入することができます。また、画像のサイズ変更や代替テキストの追加を行うこともできます。より高度な画像機能 (画面のクリッピング、スキャンしたイメージ、またはオンライン画像など) が必要な場合は、OneNote デスクトップ アプリを使用する必要があります。詳細については、「[ブラウザーと OneNote でのノートブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=272946)」を参照してください。
   
-## <a name="print"></a>印刷
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 OneNote Online では、ノートを印刷することができます。
@@ -187,7 +187,7 @@ OneNote Online では、ノートブックの編集時に表示される作成�
 
 OneNote Online では、テキスト スタイルを適用して簡単に書式を設定できます。詳細については、「[ブラウザーと OneNote でのノートブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=272946)」を参照してください。
   
-## <a name="tables"></a>表
+## <a name="tables"></a>テーブル
 <a name="bkmk_Tables"> </a>
 
 OneNote Online では、表の挿入、表のテキストの編集ができます。また、行や列の追加や削除など、基本的な表構造の編集を簡単に行うことができます。テーブルの Excel スプレッドシートへの変換や、セルの網かけ、ヘッダー行、およびテーブル セル内でのデータの並べ替えなどの高度なテーブル機能が必要な場合は、OneNote デスクトップ アプリを使用する必要があります。詳細については、「[ブラウザーと OneNote でのノートブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=272946)」を参照してください。

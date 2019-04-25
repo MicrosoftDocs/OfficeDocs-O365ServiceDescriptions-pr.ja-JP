@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 組織では、次の 洞察力 機能により、データベース、レポート、ビジネス アプリケーションの情報を使用して、特定のビジネス ニーズに対処できます。
 ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467314"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246733"
 ---
 # <a name="insights"></a>分析情報
 
@@ -74,7 +74,7 @@ Excel Online では、ピボットグラフ レポートとピボットテーブ
 
 ODC ファイルを使用すると、エンタープライズ データ ソースへのデータ接続を管理、共有、再利用できます。特定のデータ ソースへのデータ接続は、IT 担当者によって構成および一元管理され、ODC ファイルを使用するすべてのブックで使用できます。SharePoint ファームの集中的な場所で ODC ファイルのセットを保持することができ、これらのファイルを使用するために Excel ブックを編集することができます。
   
-## <a name="performancepoint-services"></a>PerformancePoint Services
+## <a name="performancepoint-services"></a>PerformancePoint Service
 <a name="bkmk_PerformancePointServices"> </a>
 
 SharePoint Online のお客様は利用できません。SharePoint Server 2013 のお客様は、PerformancePoint Services によって対話型ダッシュボードを作成し、スコアカード、レポート、フィルターの形式で主要業績評価指標 (KPI) およびデータ仮想化を表示できます。[PerformancePoint Services](https://go.microsoft.com/fwlink/p/?LinkId=271032) について詳細情報を参照してください。

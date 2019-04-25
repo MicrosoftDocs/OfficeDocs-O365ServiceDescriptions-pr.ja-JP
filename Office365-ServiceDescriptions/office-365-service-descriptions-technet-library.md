@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 サービスの説明 '
+title: 'Office 365 サービスの説明  '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641442"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246793"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
+# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明  
 
 Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
@@ -59,13 +59,13 @@ Microsoft では、対象となるプランに含まれるサービスのため�
     
 - [Workplace Analytics サービスの説明](workplace-analytics-service-description.md)
 
-- [myanalytics サービスの説明](mya-service-description.md)
+- [MyAnalytics サービスの説明](mya-service-description.md)
     
 - [Power BI サービスの説明](power-bi-service-description.md)
     
 - [Project Online サービスの説明](project-online-service-description/project-online-service-description.md)
     
-- [Visio Online サービスの詳細](visio-online-service-description/visio-online-service-description.md)
+- [Visio Online サービスの説明](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer サービスの説明](yammer-service-description/yammer-service-description.md)
     
@@ -76,5 +76,5 @@ Microsoft では、対象となるプランに含まれるサービスのため�
   
 ## <a name="disclaimer"></a>免責事項
 
-© 2018 Microsoft Corporation All rights reserved. Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。 
+© 2018 Microsoft Corporation All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。 
   

@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467794"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245053"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving のコンプライアンス機能とセキュリティ機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "30467794"
 
 以下のセクションでは、Microsoft Exchange Online Archiving のコンプライアンス機能について説明します。
   
-### <a name="retention-policies"></a>アイテム保持ポリシー
+### <a name="retention-policies"></a>保持ポリシー
 <a name="BKMK_Retentionpolicies"> </a>
 
 Exchange Online Archiving ではアイテム保持ポリシーが利用できます。これは、組織が電子メールやその他の通信に関連する負担を軽減するのに役立ちます。これらのポリシーを使用すると、管理者はユーザーの受信トレイの特定のフォルダーに保持設定を適用できます。また、管理者はユーザーにアイテム保持ポリシーのメニューを提供し、ユーザーが Outlook 2010 以降または Outlook Web App を使用して、特定のアイテム、会話、フォルダーにポリシーを適用できるようにすることができます。Exchange Online Archiving では、管理者が社内インフラストラクチャからアイテム保持ポリシーを管理します。

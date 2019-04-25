@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: '米国連邦、州、地方、部族の行政機関 (代行業者が米国政府機関に代わってデータを保持または処理する場合を含む) に特有の高度化する要件に応じるために、Microsoft は Office 365 US Government Community (GCC) サービスを提供します。これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。現時点で試用版は米国政府の機関のみが使用可能です。 '
+description: 米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 us government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379029"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247133"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-米国連邦、州、地方、部族の行政機関 (代行業者が米国政府機関に代わってデータを保持または処理する場合を含む) に特有の高度化する要件に応じるために、Microsoft は Office 365 US Government Community (GCC) サービスを提供します。これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。現時点で試用版は米国政府の機関のみが使用可能です。  
+米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 us government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。 
   
 詳細情報を確認したり、検証プロセスを開始したりするよう、アカウント チームや優先パートナーに働きかけてください。詳細については、「[政府機関向け Office 365 のプラン](https://products.office.com/en-us/government/compare-office-365-government-plans)」ページをご覧ください。 
   
@@ -70,6 +70,6 @@ MyAnalytics は、Office 365 サービス向けの FedRAMP コントロールの
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 US Government Community Cloud (GCC) カスタマーサポート
 
 office 365 GCC カスタマーサポートは、 [office 2010 の全世界バージョン](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-)に提供されているものと同じ条件下で提供されます。これには、サポートエージェントの物理的な場所や市民権の保証は含まれません。Office 365 GCC は Azure パブリッククラウドと連携して動作しますが、以下の[条項および条件](https://azure.microsoft.com/en-us/support/plans/)でサポートされています。
+)に提供されているものと同じ条件下で提供されます。これには、サポートエージェントの物理的な場所や市民権の保証は含まれません。 Office 365 GCC は Azure パブリッククラウドと連携して動作しますが、以下の[条項および条件](https://azure.microsoft.com/en-us/support/plans/)でサポートされています。
 
-Microsoft では、管理対象の機密情報や機密情報を Office 365 GCC 関連のサポートインシデントの一部として共有しないようにして、そのようなデータを表示またはアクセスすることを承認することをお客様に促します。Microsoft は[、プライバシーの保護に努めています。](https://privacy.microsoft.com/en-US/privacystatement )Office 365 GCC カスタマーサポートは、サービスの認定境界には含まれていません。 fedramp、srg、ITAR、IRS 1075、または cjis のデータ処理やコンプライアンスの保証は提供されません。
+Microsoft では、管理対象の機密情報や機密情報を Office 365 GCC 関連のサポートインシデントの一部として共有しないようにして、そのようなデータを表示またはアクセスすることを承認することをお客様に促します。 Microsoft は[、プライバシーの保護に努めています。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC カスタマーサポートは、サービスの認定境界には含まれていません。 fedramp、srg、ITAR、IRS 1075、または cjis のデータ処理やコンプライアンスの保証は提供されません。

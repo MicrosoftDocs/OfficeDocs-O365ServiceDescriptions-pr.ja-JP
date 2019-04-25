@@ -10,11 +10,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise プランとスタンドアロン プランの場合の SharePoint Online の制限について説明します。
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467874"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246613"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online の制限
 
@@ -33,11 +33,8 @@ Office 365 プランと SharePoint Online スタンドアロン プランの場�
 > [!NOTE]
 > <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を変更する](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)」を参照してください。 
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。 
-<br/> <sup>3</sup> Office 365 サブスクリプションと SharePoint Online スタンドアロン プランを持っている場合は、ストレージ容量が追加されます。 
-<br/><sup>4</sup> SharePoint Online 管理者は、サイト コレクションとサイトの容量の上限を設定できます。
-<br/> <sup>5</sup> Kiosk ワーカーは、SharePoint Online サイト コレクションを管理できません。 Kiosk サイト コレクションを管理するには、少なくとも 1 つの Enterprise ユーザーのライセンスが必要です。 
-<br/> <sup>6</sup> ライセンス ユーザーごとの OneDrive for Business サイト コレクションは含まれません。 
-<br/><sup>7</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
+<br/> <sup>3</sup> Office 365 サブスクリプションと SharePoint Online スタンドアロン プランを持っている場合は、ストレージ容量が追加されます。 <br/><sup>4</sup> SharePoint Online 管理者は、サイト コレクションとサイトの容量の上限を設定できます。 <br/> <sup>5</sup> Kiosk ワーカーは、SharePoint Online サイト コレクションを管理できません。 Kiosk サイト コレクションを管理するには、少なくとも 1 つの Enterprise ユーザーのライセンスが必要です。 
+<br/> <sup>6</sup> ライセンス ユーザーごとの OneDrive for Business サイト コレクションは含まれません。 <br/><sup>7</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
   
 
   

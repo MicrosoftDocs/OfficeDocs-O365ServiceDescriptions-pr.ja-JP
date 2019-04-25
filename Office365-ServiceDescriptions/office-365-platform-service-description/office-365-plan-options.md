@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764815"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247233"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -33,13 +33,13 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 
 次の表に、Office 365 で使用できるさまざまなサービス ファミリーおよびプランを示します。機能および価格情報について概要を確認する場合、またはオンライン担当者とチャットする場合は、各プランの列に示されたリンクをクリックしてください。
   
-|**Office 365 サービス ファミリー**|**計画**|
+|**Office 365 サービス ファミリー**|**プラン**|
 |:-----|:-----|
 |**ビジネス (ユーザー数は 300 以下)** <br/> |[Office 365 Business Essentials](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 Business](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |**エンタープライズ (無制限の数のユーザー)** <br/> |[Office 365 Enterprise E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 Enterprise E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 Enterprise E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 Enterprise F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**教育機関向け (無制限の数のユーザー)** <br/> |[Office 365 Education](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 Education E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**行政機関向け (無制限の数のユーザー)** <br/> |[利用可能なすべてのビジネス プランを参照します](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**21Vianet が中国で運用している Office 365** <br/> |[利用可能なすべてのビジネス プランを参照します](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**21Vianet が中国で運用している Office 365** <br/> |[利用可能なすべてのビジネス プランを参照できます](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[利用可能なすべてのビジネス プランを参照します](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>それぞれの Office 365 プランのサービスの可用性
@@ -56,13 +56,13 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |
-|Skype for business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |なし  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
+|Skype for business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
 |Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
+|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online  <br/> |なし<sup></sup> <br/> |いいえ  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
-|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |いいえ  <br/> |
+|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Yammer エンタープライズ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |なし  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
+|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |いいえ  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |はい <br/> |いいえ  <br/> |あり <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |
    
 > <sup>1</sup> Project Online は含まれていませんが、個別のアドオンサービスとして購入するか、Office 365 エデュケーションプランに無料で追加することができます。  
@@ -118,15 +118,15 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 
 次のオンライン サービスはスタンドアロン プランとして専用に使用できます。また、まだ含まれていないビジネス サービスとエンタープライズ サービスのファミリ プランに追加することもできます。価格情報について確認する場合、またはオンライン担当者とチャットする場合は、次の表に示された任意のプランをクリックしてください。
   
-|**サービス**|**計画**|
+|**サービス**|**プラン**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online プラン 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online プラン 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|Exchange Online  <br/> |[Exchange Online プラン 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online プラン 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Office 365 Advanced Threat Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online プラン 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online プラン 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|OneDrive for Business  <br/> |[OneDrive for Business プラン 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business (プラン 2)](https://onedrive.live.com/about/en-us/business/) <br/> |
+|OneDrive for Business  <br/> |[OneDrive for Business プラン 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business プラン 2](https://onedrive.live.com/about/en-us/business/) <br/> |
 |Skype for Business Online  <br/> |[Skype for Business Online プラン 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online プラン 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Office アプリケーション  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Business](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |プロジェクト ポートフォリオ管理  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
-|Yammer  <br/> |[Yammer ベーシック](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
+|Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
 |組織に関する洞察  <br/> |[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
 |ビジネス インテリジェンス サービス  <br/> |[Power BI](https://products.office.com/en-us/business/analytics-and-intelligence/home) <br/> |
 |オンライン ダイアグラム ソフトウェア  <br/> |[Visio Pro for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |

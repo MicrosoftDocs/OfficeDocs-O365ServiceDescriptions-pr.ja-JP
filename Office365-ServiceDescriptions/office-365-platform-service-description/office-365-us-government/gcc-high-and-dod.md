@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379039"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247113"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -28,7 +28,7 @@ ms.locfileid: "30379039"
 
 Office 365 US Government のサービスの説明は、全般的な Office 365 のサービスの説明へのオーバーレイとして機能するよう設計されています。Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
   
-## <a name="compliance"></a>準拠
+## <a name="compliance"></a>コンプライアンス
 
 GCC High および DoD は以下の認定資格に関する法令遵守の要件を満たします。 
   
@@ -79,7 +79,7 @@ GCC High および DoD 環境内の Office 365 サブスクリプションには
     
 GCC High または DoD 環境で SharePoint Online と OneDrive for business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーとの共有は、GCC High および DoD 環境でのみ (4 番目のオプション)、これらのオプションは、テナントレベルのアクセス制御に基づいて制限することもできます。
   
-gcc high テナントは、他の gcc high テナントとのみ共有できます。例えば：
+gcc high テナントは、他の gcc high テナントとのみ共有できます。 次に例を示します。
   
 - gcc high テナント a は、gcc high テナント B と共有できます。
     
@@ -87,7 +87,7 @@ gcc high テナントは、他の gcc high テナントとのみ共有できま�
     
 - gcc high テナント A または B は、非 gcc high テナント C と共有できません。
     
-また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC High テナントと同期されます。ユーザー A がライブラリに移動し、変更について通知を作成します。通知は Gmail アドレスに送信されません。
+また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。 たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC High テナントと同期されます。 ユーザー A がライブラリに移動し、変更について通知を作成します。 通知は Gmail アドレスに送信されません。
   
  **外部アプリケーションへのアクセス**: アドインのデータ ソースなど、外部アプリケーションへの接続は、GCC High および DoD でサポートされているシステムのセキュリティ境界内にあるソースに限定されます。 
   
@@ -97,7 +97,7 @@ gcc high テナントは、他の gcc high テナントとのみ共有できま�
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **pstn 通話&amp;の pstn 会議**(公衆交換電話網 (pstn) をテレフォニー指向サービスで使用するための要件により、pstn &amp;通話 pstn 会議サービスは現時点では GCC High および DoD では利用できません。 
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   
 ### <a name="identity"></a>ID
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: project Online では次のプロジェクト計画機能を使用できます。
 ms.openlocfilehash: 059fff81c541cb378688f25d7d09180a8a9d8419
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467754"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246853"
 ---
 # <a name="project-planning"></a>プロジェクトの計画
 
@@ -46,7 +46,7 @@ project Online では次のプロジェクト計画機能を使用できます�
 
 プロジェクトの主要な目標をマイルストーンとしてマークします。[マイルストーンの追加](https://go.microsoft.com/fwlink/p/?LinkId=271339)について詳細情報を参照してください。
   
-## <a name="filtering"></a>フィルター
+## <a name="filtering"></a>フィルター処理
 <a name="bkmk_Filtering"> </a>
 
 計画に含まれる値を使用して、プロジェクト計画をフィルターします。[ユーザー設定フィルターの作成](https://go.microsoft.com/fwlink/p/?LinkId=271341)について詳細情報を参照してください。

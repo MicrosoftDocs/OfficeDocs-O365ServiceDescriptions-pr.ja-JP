@@ -10,7 +10,7 @@
 |------|------------|--------|
 | 2019/3/12 | [サービスの正常性および継続性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 更新日時 |
 | 2019/3/14 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 2019/3/14 | [MyAnalytics サービスの説明](/Office365/ServiceDescriptions/mya-service-description) | 追加 |
+| 2019/3/14 | [MyAnalytics サービスの説明](/Office365/ServiceDescriptions/mya-service-description) | 追加済み |
 | 2019/3/14 | [Office 365 サービスの説明 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 更新日時 |
 | 2019/3/14 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
 

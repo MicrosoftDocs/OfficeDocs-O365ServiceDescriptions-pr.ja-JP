@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: microsoft exchange Online アーカイブは、microsoft exchange server 2016、microsoft exchange server 2013、microsoft exchange server 2010 (SP2 以降) を展開した組織のための microsoft Office 365 クラウドベースのエンタープライズクラスのアーカイブソリューションです。)、または特定の Exchange Online または Office 365 プランにサブスクライブします。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
 ms.openlocfilehash: 20c22a644e43377c6a8b28011412ff78f802f742
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467094"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246153"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
@@ -68,7 +68,7 @@ Exchange Online Archiving サービスにアクセスするユーザーは、Exc
 ## <a name="unlimited-archive-storage-quota"></a>無制限のアーカイブ ストレージのクォータ
 <a name="bkmk_EOA_Plans"> </a>
 
- Office 365 の無制限アーカイブ機能 ( 自動拡張アーカイブと呼ばれる) は、アーカイブ メールボックスで無制限の記憶域を提供します。 自動拡張アーカイブは、ユーザーのメールボックスが exchange server 2016 または exchange server 2013 (SP1 以降) 上に存在する場合に、ハイブリッド構成でのみサポートされます。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳細については、「 [Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」を参照してください。 可用性について詳しくは、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 
+ Office 365 の無制限アーカイブ機能 ( 自動拡張アーカイブと呼ばれる) は、アーカイブ メールボックスで無制限の記憶域を提供します。 自動拡張アーカイブは、ユーザーのメールボックスが exchange server 2016 または exchange server 2013 (SP1 以降) 上に存在する場合に、ハイブリッド構成でのみサポートされます。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 可用性について詳しくは、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 
   
 > [!IMPORTANT]
 > 管理者は、記憶域のクォータを調整できません。

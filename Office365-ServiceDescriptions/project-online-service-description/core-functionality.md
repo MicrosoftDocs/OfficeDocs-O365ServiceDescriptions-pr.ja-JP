@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online では次のコア機能が利用可能です。
 ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467473"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246903"
 ---
 # <a name="core-functionality"></a>コア機能
 
@@ -96,7 +96,7 @@ Project Help is only a click away using Office.com or Getting Started Guides dir
 
 プロジェクトのすべての詳細情報が分かるわけではない場合、リソース、開始日、終了日などに「未定」といったプレースホルダー テキストを使用できます。詳細については、「[トップダウン プランニング](https://go.microsoft.com/fwlink/p/?LinkId=271333)」を参照してください。
   
-## <a name="project-templates"></a>Project templates
+## <a name="project-templates"></a>プロジェクト テンプレート
 <a name="bkmk_ProjectTemplates"> </a>
 
 過去のプロジェクトをテンプレートとして使用すると、プロジェクトの作成にかかる膨大な時間を節約できます。「[既存のプロジェクトやテンプレートを使って新しいプロジェクトを作成する](https://go.microsoft.com/fwlink/p/?LinkId=271328)」を参照してください。
