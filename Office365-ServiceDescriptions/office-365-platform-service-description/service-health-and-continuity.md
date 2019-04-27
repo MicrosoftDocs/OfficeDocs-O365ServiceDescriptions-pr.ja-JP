@@ -3,7 +3,7 @@ title: サービスの正常性および継続性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247043"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368390"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -47,6 +47,13 @@ Office 365 のサービス正常性セクションには、サービスの現在
 
 <br/>
 
+|**2019** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
+| 99.97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
@@ -58,6 +65,8 @@ Office 365 のサービス正常性セクションには、サービスの現在
 |:-----|:-----|:-----|:-----|
 | **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
 | 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>通知ポリシー
 
@@ -147,4 +156,3 @@ Office 365 の開発および運用チームは、お客様にビジネス継続
 
 さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
   
-

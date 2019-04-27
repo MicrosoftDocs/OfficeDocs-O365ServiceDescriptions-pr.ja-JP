@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise プランとスタンドアロン プランの場合の SharePoint Online の制限について説明します。
-ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
-ms.translationtype: HT
+ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246613"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368370"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online の制限
 
@@ -40,7 +40,7 @@ Office 365 プランと SharePoint Online スタンドアロン プランの場�
   
 ## <a name="service-limits-for-all-plans"></a>すべてのプランのサービスの制限
 
-- **リストとライブラリのアイテム** - リストには最大 3,000 万個のアイテムを含めることができ、ライブラリには最大 3,000 万個のファイルとフォルダーを含めることができます。 ビューには最大 12 個のルックアップ列を含めることができます。 大規模なリストを表示する場合のその他の制限の詳細については、「[Office 365 で大規模なリストとライブラリを管理する](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)」を参照してください。 ファイル名で使用できない文字については、「[無効なファイル名またはフォルダー名の文字](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
+- **リストとライブラリのアイテム** - リストには最大 3,000 万個のアイテムを含めることができ、ライブラリには最大 3,000 万個のファイルとフォルダーを含めることができます。 100を超えると、リスト、ライブラリ、またはフォルダーに、アイテムが追加され、リスト、ライブラリ、またはフォルダーのアクセス許可の継承が変更できなくなります。 大規模なリストを表示する場合のその他の制限の詳細については、「[Office 365 で大規模なリストとライブラリを管理する](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)」を参照してください。 ファイル名で使用できない文字については、「[無効なファイル名またはフォルダー名の文字](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
 
 - **ファイル サイズとファイル パスの長さ** - 15 GB。 新しい OneDrive 同期クライアント (OneDrive.exe) を使用する際の制限事項の詳細については、「[OneDrive、OneDrive for Business、および SharePoint で無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
 

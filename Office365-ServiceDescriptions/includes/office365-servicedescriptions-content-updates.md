@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>2019 年 3 月 11 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2019/3/12 | [サービスの正常性および継続性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 更新日時 |
-| 2019/3/14 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 2019/3/14 | [MyAnalytics サービスの説明](/Office365/ServiceDescriptions/mya-service-description) | 追加済み |
-| 2019/3/14 | [Office 365 サービスの説明 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 更新日時 |
-| 2019/3/14 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
-
-
 ## <a name="week-of-march-18-2019"></a>2019 年 3 月 18 日の週
 
 
@@ -69,3 +57,14 @@
 | 4/11/2019 | [Exchange Online アーカイブのアーカイブ機能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 更新日時 |
 | 4/11/2019 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
 | 4/11/2019 | [Skype for Business Online サービスの説明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 更新日時 |
+
+
+## <a name="week-of-april-15-2019"></a>2019 年 4 月 15 日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 4/18/2019 | [クライアントとモバイル デバイス](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 更新日時 |
+| 4/18/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 4/18/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+| 4/18/2019 | [コンテンツ](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 更新日時 |
