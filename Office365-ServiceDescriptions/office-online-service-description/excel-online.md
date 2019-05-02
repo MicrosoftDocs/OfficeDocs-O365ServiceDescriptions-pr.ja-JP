@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,45 +14,48 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: excel Online (以前の excel Web App) は、Microsoft excel の機能を web ブラウザーにまで拡張します。ここでは、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての office 365 のお客様は、office Online を使用して office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Excel Online (以前の Excel Web App) は、Microsoft Excel の機能を web ブラウザーにまで拡張します。ここでは、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office Online を使用して Office ファイルを表示し、軽く編集することができます。
+ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246983"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544948"
 ---
 # <a name="excel-online"></a>Excel Online
 
-excel Online (以前の excel Web App) は、Microsoft excel の機能を web ブラウザーにまで拡張します。ここでは、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての office 365 のお客様は、office Online を使用して office ファイルを表示し、軽く編集することができます。
+Excel Online (以前の Excel Web App) は、Microsoft Excel の機能を web ブラウザーにまで拡張します。ここでは、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office Online を使用して Office ファイルを表示し、軽く編集することができます。
   
 > [!NOTE]
-> 30メガバイト (mb) を超えるブックは、Microsoft SharePoint online から Excel online で表示することはできません。 これよりサイズの大きいファイルを表示するには、ご使用のコンピューターに Excel デスクトップ アプリをインストールする必要があります。 
+> 30メガバイト (MB) を超えるブックは、Microsoft SharePoint Online から Excel Online で表示することはできません。 これよりサイズの大きいファイルを表示するには、ご使用のコンピューターに Excel デスクトップ アプリをインストールする必要があります。 
   
 > [!NOTE]
-> 比較に役立つように、この記事に記載している高度な機能には、Office スイート (Office Professional Plus、Office Standard、または Office 365 ProPlus など) のみで提供される Excel デスクトップ アプリの機能も含まれています。Word Online や PowerPoint Online などの Office Online のすべての機能の一覧については、「[Office Online の各プランで利用できる機能](office-online-service-description.md#feature-availability-across-office-online-plans)」を参照してください。
+> 比較に役立つように、この記事に記載している高度な機能には、Office スイート (Office Professional Plus、Office Standard、または Office 365 ProPlus など) のみで提供される Excel デスクトップ アプリの機能も含まれています。 すべての Office Online 機能 (Word Online、PowerPoint Online など) の一覧については、「 [Office online の各プランで利用できる機能](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)」を参照してください。 
+
+Excel Online でサポートされるファイルの種類については、「[Office Online でサポートされるファイルの種類](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)」を参照してください。Excel Online と Excel デスクトップ アプリの相違点の詳細については、「[ブラウザーと Excel でのブックの使用の相違点](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)」を参照してください。 
   
-Excel Online でサポートされるファイルの種類については、「[Office Online でサポートされるファイルの種類](office-online-service-description.md#supported-file-types-for-office-online)」を参照してください。Excel Online と Excel デスクトップ アプリの相違点の詳細については、「[ブラウザーと Excel でのブックの使用の相違点](https://go.microsoft.com/fwlink/?linkid=390875)」を参照してください。
-  
+## <a name="add-background-color-to-sheet-tabs"></a>シート見出しに背景色を追加する 
+<a name="bkmk_Addbackgroundcolor"></a>背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「[シート見出しに背景色を追加](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。 
+
 ## <a name="add-hyperlinks"></a>Add hyperlinks
 <a name="bkmk_Addhyperlinks"> </a>
 
-セルにハイパーリンクを追加することによって、Web ページや Web 上のファイルにリンクします。セルに直接 Web アドレスを入力するか、または [ハイパーリンクの挿入] コマンドを使用することができます。
+セルにハイパーリンクを追加することによって、Web ページや Web 上のファイルにリンクします。セルに直接 Web アドレスを入力するか、または [ハイパーリンクの挿入] コマンドを使用することができます。 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>高度な時間フィルター処理 (タイムライン スライサー)
 <a name="bkmk_Advancedtimefiltering"> </a>
 
-タイムライン コントロールでは、モデル化されたデータのフィルター処理を行うことができます。この機能を使用すると、連続した日付範囲の表示や変更、ピボットテーブルやピボットグラフなどのピボットベースのオブジェクトのフィルター処理を視覚的に行うことができます。 
+タイムライン コントロールでは、モデル化されたデータのフィルター処理を行うことができます。この機能を使用すると、連続した日付範囲の表示や変更、ピボットテーブルやピボットグラフなどのピボットベースのオブジェクトのフィルター処理を視覚的に行うことができます。  
   
 ## <a name="alignment"></a>Alignment
 <a name="bkmk_Alignment"> </a>
 
-[ホーム] タブの配置ボタンを使用して、テキストの配置を変更します。 
+[ホーム] タブの配置ボタンを使用して、テキストの配置を変更します。  
   
 ## <a name="apply-conditional-formatting"></a>条件付き書式の適用
 <a name="bkmk_Applyconditionalformatting"> </a>
 
-Excel Online では、条件付き書式は表示できますが適用できません。Excel デスクトップ アプリを使うと、条件付き書式や他の高度な機能を完全に利用できます。[Excel 2013 で条件付き書式を使用する](https://go.microsoft.com/fwlink/p/?LinkId=282326)方法の詳細をご確認ください。 
+条件付き書式を使用すると、データを視覚的に調査および分析したり、重大な問題を検出したり、パターンや傾向を特定したりするのに役立ちます。 Excel Online で条件付き書式を使用する方法については、こちらを参照してください。 [Excel 2013 で条件付き書式を使用](https://go.microsoft.com/fwlink/p/?LinkId=282326)します。 
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
@@ -62,7 +65,7 @@ Excel Online では、条件付き書式は表示できますが適用できま�
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-Excel Online では使用できません。Excel 2013 デスクトップ アプリのおすすめグラフを使用すると、あらゆるグラフの中からデータを最適に表示するためのグラフを選択できます。[Excel 2013 のおすすめグラフを使用する方法](https://go.microsoft.com/fwlink/p/?LinkId=282335)の詳細をご確認ください。
+Excel Online では使用できません。 Excel デスクトップアプリでは、推奨されるグラフを使用して、データの表示に最適なさまざまなグラフを選択できます。 [Excel でのグラフの推奨事項の使用方法](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)について説明します。
   
 ## <a name="office-add-ins"></a>Office アドイン
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -83,6 +86,9 @@ Excel Online では、セルに文字を入力していくと、残りの文字�
 <a name="BKMK_Calculations"> </a>
 
 Excel を使用して、さまざまな自動、手動、反復計算を実行することができます。Excel では、これらの計算を実行するのに関数を使用します。詳細については、「[Excel 関数 (カテゴリ別)](https://go.microsoft.com/fwlink/?linkid=847459)」を参照してください
+
+## <a name="call-reference-in-formulas"></a>数式内の呼び出しの参照
+<a name="bkmk_Callreferenceinformulas"></a>数式ではセル参照を使用できます。 数式でセルまたは範囲を参照すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/en-us/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)」を参照してください。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
@@ -90,7 +96,7 @@ Excel を使用して、さまざまな自動、手動、反復計算を実行�
 高度なグラフ機能は、Microsoft Excel デスクトップ アプリのみでサポートされます。[SmartArt グラフィックにアニメーションを設定する方法](https://go.microsoft.com/fwlink/p/?LinkId=271668)の詳細をご確認ください。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル
-<a name="BKMK_ChartsAndTables"> </a>
+<a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
 Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。詳細については、「[Excel テーブルを作成または削除する](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)」と「[ピボットテーブル/ピボットグラフ レポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
   
@@ -107,7 +113,7 @@ Excel Online では、コメントの挿入、編集、削除を行うことが�
 ## <a name="create-external-data-connections"></a>Create external data connections
 <a name="bkmk_Createexternaldataconnections"> </a>
 
-Excel Online を使用してデータ接続を表示することはできますが、Excel Online を使用して外部データ接続を作成することはできません。外部データを操作するには、Excel 2013 デスクトップ アプリが必要です。[Excel Services での外部データの操作](https://go.microsoft.com/fwlink/p/?LinkId=282330)の詳細をご確認ください。 
+Excel Online を使用してデータ接続を表示することはできますが、Excel Online を使用して外部データ接続を作成することはできません。 外部データを操作するには、Excel デスクトップアプリが必要です。 [Excel Services での外部データの](https://go.microsoft.com/fwlink/p/?LinkId=282330)使用の詳細については、「」を参照してください。 
   
 ## <a name="create-tables"></a>Create tables
 <a name="bkmk_CreateTables"> </a>
@@ -132,9 +138,12 @@ Excel Online でセルの値を移動するには、セルをある場所から�
 ## <a name="dropbox"></a>Dropbox
 <a name="bkmk_Dropbox"> </a>
 
-Dropbox は、クラウド ストレージ、ファイルの同期、個人用クラウド、クライアント ソフトウェアを提供するファイル ホスティング サービスです。
+Dropbox は、クラウド ストレージ、ファイルの同期、個人用クラウド、およびクライアント ソフトウェアを提供するファイル ホスティング サービスです。
   
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Web ページやブログ ページへのブックの埋め込み (OneDrive)
+## <a name="duplicate-copy-worksheets"></a>ワークシートの複製 (コピー)
+ブック内のワークシートを複製 (またはコピー) したり、Excel Online の他のブックにコピーしたりすることができます。 [ワークシートのコピーの詳細については、「Excel Online」を](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)参照してください。 
+
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
 
 OneDrive.com に Excel ブックを保存すると、ブログや Web サイトに直接 Excel ブックを埋め込むことができます。閲覧者はデータの並べ替え、フィルター処理、計算をその場で行うことができます。また、OneDrive のブックを更新すると、閲覧者がページを更新したときに最新の変更内容が表示されます。[ブログへの Excel ブックの埋め込み](https://go.microsoft.com/fwlink/p/?LinkId=271673)の詳細をご確認ください。
@@ -157,9 +166,9 @@ OneDrive.com に Excel ブックを保存すると、ブログや Web サイト�
 ## <a name="font-and-cell-formatting"></a>フォントおよびセルの書式設定
 <a name="bkmk_FontCellFormatting"> </a>
 
-必要に応じてデータの表示形式をカスタマイズします。さまざまなフォント スタイルや色を選択したり、テキストのサイズや色を変更したりできます。 
+必要に応じてデータの表示形式をカスタマイズします。 さまざまなフォント スタイルや色を選択したり、テキストのサイズや色を変更したりできます。 また、セルの罫線を描画し、境界線の色を選択することもできます。
   
-## <a name="formula-bar"></a>数式バー
+## <a name="formula-bar"></a>Formula bar
 <a name="bkmk_FormulaBar"> </a>
 
 数式バーでは、セルの表示結果の元になる数式を確認します。Excel デスクトップ アプリと同じように、ブラウザーで数式の追加、変更、および削除を行うことができます。
@@ -172,7 +181,7 @@ Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式
 ## <a name="freeze-panes"></a>Freeze panes
 <a name="bkmk_FreezePanes"> </a>
 
-[ウィンドウ枠の固定機能は、Excel Online リボンで使用できます。 [excel 2013 デスクトップアプリでペインを固定する方法](https://go.microsoft.com/fwlink/p/?LinkId=282331)と、 [excel Online のヒント](https://go.microsoft.com/fwlink/?linkid=869873)について説明します。
+[ウィンドウ枠の固定機能は、Excel Online リボンで使用できます。 [Excel でウィンドウ枠を固定する方法](https://go.microsoft.com/fwlink/p/?LinkId=282331)と、 [excel Online のヒント](https://go.microsoft.com/fwlink/?linkid=869873)について説明します。
   
 ## <a name="full-fidelity-reading-view"></a>忠実な閲覧表示
 <a name="bkmk_FullFidelityReadingView"> </a>
@@ -188,12 +197,21 @@ Excel Online では、Excel の 400 を超えるワークシート関数のほ�
 <a name="BKMK_GoTo_Excel"> </a>
 
 GoTo 機能を使用して、スプレッドシート全体をすばやく移動できます。セル参照を入力すると、スプレッドシートのその場所にジャンプします。[Excel Online のキーボード ショートカット](https://go.microsoft.com/fwlink/p/?LinkID=272943)の詳細をご確認ください。
-  
+ 
+## <a name="group-data"></a>グループデータ
+<a name="Group data"></a> Excel Online のスプレッドシートでは、行と列をグループ化またはアウトライン表示できます。 データのグループ化の詳細については、「Excel Online」を参照してください。
+ 
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
 
 Excel Online ではブックの行、列、シートの非表示と表示を行なえます。
-  
+ 
+## <a name="ideas"></a>アイデア
+<a name="Ideas"> </a>
+
+アイデアを使用すると、高度な視覚的な概要、傾向、パターンによってデータを理解することができます。 データ範囲のセルをクリックしてから、[ホーム] タブの [アイデア] ボタンをクリックします。[アイデア](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)の詳細については、「」を参照してください。
+
+ 
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -203,12 +221,22 @@ Excel Online ではブックの行、列、シートの非表示と表示を行�
 <a name="bkmk_Insertdeleterowscolumns"> </a>
 
 1 つまたは複数の行を選択してから [ホーム] タブの [挿入] または [削除] をクリックして、ワークシートの行または列の追加または削除を 1 つずつまたは複数まとめて行います。
+
+## <a name="insert-pictures"></a>画像を挿入する
+<a name="bkmk_insertpicture"></a>画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について[は、「Excel Online での画像の挿入」を](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)参照してください。
+
+## <a name="insert-shapes"></a>図形の挿入
+<a name="bkmk_insertshapes"></a>四角形、円、線、コネクタ、矢印などの図形を Excel Online スプレッドシートに追加して書式設定します。 [図形の追加](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)の詳細について説明します。
   
-## <a name="merge-cells"></a>セルの結合
+## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
-  
+ 
+## <a name="named-ranges"></a>名前付き範囲
+<a name="bkmk_Namedranges"></a> Excel online では、名前付き範囲を作成することはできませんが、excel online のスプレッドシートで excel デスクトップに作成した名前付き範囲を使用できます。
+
+ 
 ## <a name="number-formatting"></a>Number formatting
 <a name="bkmk_Numberformatting"> </a>
 
@@ -218,6 +246,10 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
 Excel Online はインターネット ブラウザーで起動するため、インターネット接続に依存します。オフラインでスプレッドシートにアクセスするには、ご使用のコンピューターに Microsoft Excel デスクトップ アプリをインストールし、Excel デスクトップ アプリを使用して Excel ワークシートの表示や編集を行う必要があります。
+
+## <a name="pivot-tables"></a>ピボットテーブル
+<a name="bkmk_Pivottables"></a> Excel Online のスプレッドシートにピボットテーブルを挿入し、データの計算、集計、および分析を行うことができます。 [Excel Online にピボットテーブル](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)を挿入する方法については、こちらを参照してください。
+
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
 <a name="bkmk_posttosocialnetwork"> </a>
@@ -225,9 +257,9 @@ Excel Online はインターネット ブラウザーで起動するため、イ
 ソーシャル ネットワーク ページ、Skype for Business の会話、または会議に Web 上のスプレッドシートの選択した部分を埋め込んで共有します。Excel Online では、これらの機能はサポートされていません。 
   
 ## <a name="power-pivot-viewing"></a>Power Pivot の表示
-<a name="bkmki_PowerPivotinteractivity"> </a>
+<a name="bkmk_PowerPivotinteractivity"> </a>
 
-Excel Online で Power Pivot テーブルおよびグラフを表示できますが、Power Pivot データ モデルを作成するには Excel 2013 デスクトップ アプリが必要です。
+Excel Online では、Power Pivot テーブルおよびグラフを表示できますが、Power Pivot データモデルを作成するには Excel デスクトップアプリが必要です。
   
 ## <a name="power-view-viewing"></a>Power View viewing
 <a name="bkmk_powerviewinteractivity"> </a>
@@ -253,6 +285,10 @@ Excel Online の [印刷] コマンドを使用して、ワークシート全体
 <a name="bkmk_refreshdata"> </a>
 
 ブック内のデータが外部ソース (データベース、Web ページ、または分析キューブなど) に接続されている場合は、Excel Online を使用して該当データを更新できます。
+
+## <a name="remove-duplicate-values"></a>重複する値を削除する
+<a name="bkmk_Removeduplicatevalues"></a>指定範囲またはテーブル内の重複する値を削除することができます。 詳細については、「unique の値をフィルターする」または「[重複する値を削除](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)する」を参照してください。
+
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>
@@ -267,7 +303,7 @@ Excel Online では、ヘッダー内のファイル名をクリックして、�
 ## <a name="replace"></a>Replace
 <a name="bkmk_Replace"> </a>
 
-Excel Online では使用できません。お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。[Excel 2013 での検索と置換の使用](https://go.microsoft.com/fwlink/p/?LinkId=282333)の詳細をご確認ください。
+Excel Online では使用できません。 お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。 詳細につい[ては、「Excel で検索と置換を使用する」を](https://go.microsoft.com/fwlink/p/?LinkId=282333)参照してください。
   
 ## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
 <a name="bkmk_RightsManagement"> </a>
@@ -318,6 +354,13 @@ Excel Online でセルのグループを選択すると、ステータス バー
 <a name="bkmk_Tell_Me_Excel"> </a>
 
 Excel Online で何かを成し遂げる必要があるが、その方法がわからない場合は、「教えて」検索機能を使用すれば、情報を短時間で見つけることができます。「教えて」を利用すればさまざまな機能について詳しく知ることができ、作業時間短縮のためのヒントが得られます。
+
+## <a name="text-formatting"></a>テキストの書式設定
+<a name="bkmk_Textformatting"></a> Excel Online では、取り消し線、昇順、または降順を含むさまざまなテキスト書式設定オプションを適用できます。
+
+## <a name="total-data"></a>合計データ
+<a name="bkmk_Toaldata"></a> [ホーム] タブの [表の形式] の下にある [集計行の表示/非表示] をクリックすると、テーブル内のデータの合計をすばやく表示できます。 
+
   
 ## <a name="undo-and-redo"></a>元に戻す/やり直し
 <a name="bkmk_UndoRedo"> </a>

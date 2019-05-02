@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
-description: Microsoft office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
+ms.openlocfilehash: 96b453fd96234c3082f6f665c14ace898e3668b4
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368360"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544934"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
-Microsoft office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
+Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
   
 Office 365 がクラウドベース サービスであっても、Office アプリケーションはクラウド内で動作しません。その代わりに Office アプリケーションを Office 365 ポータルからダウンロードし、ローカル コンピューターにインストールします。Microsoft ではクイック実行技術により、Office アプリケーションのダウンロードとインストールが短時間で簡単に行えるようになっています。クイック実行ではローカル コンピューター上の内蔵環境で仮想化技術を使用して Office アプリケーションを実行します。このため、Office の前バージョンと並行して Office アプリケーションを実行できます。
   
@@ -52,7 +52,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |はい  <br/> |はい<sup>5、10</sup> <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Windows 8 のアプリケーション](office-applications.md#windows-8-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Windows 10 アプリ](office-applications.md#windows-10-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -90,18 +90,18 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |<sup>9</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。
- <br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
- <br/><sup>3</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。  
-<br/><sup>4</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[excel 2013 の電源マッププレビュー](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。 
-<br/><sup>5</sup> Skype for business Basic は、すべてのお客様が利用できます。 skype for business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、skype for business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 office 365 ProPlus、および office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「 [Clients for Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)for business Online」を参照してください。 
-<br/><sup>6</sup>一部の教育機関は、office 365 ProPlus を含む教育機関向けの資格を持ち、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールできるようにします。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 
+> <sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。
+ <br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
+ <br/><sup>3</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。  
+<br/><sup>4</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[Excel 2013 の電源マッププレビュー](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。 
+<br/><sup>5</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「 [Clients For Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)For business Online」を参照してください。 
+<br/><sup>6</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格を持ち、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールできるようにします。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 
 <br/><sup>7</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。 
 <br/><sup>8</sup> Office 365 ProPlus は、ユーザー専用の仮想デスクトップインフラストラクチャ (VDI) でサポートされています。 Office 365 ProPlus は、ボリュームライセンスプログラムで購入した場合にのみリモートデスクトップサービス (RDS) をサポートします。 
-<br/><sup>9</sup> office 365 Enterprise E3 および office 365 ProPlus のボリュームライセンス認証は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、windows to Go がインストールされています。 どちらの場合も、これらのインストールにアクセスするユーザーは、office 365 Enterprise E3 または office 365 ProPlus のライセンスユーザーである必要があります。 
-<br/><sup>10</sup> Office 365 の skype for business 機能 Office 365 Enterprise F1 には、skype for business Plan 1 (デスクトップ共有なし、アプリ共有なし、マルチパーティのオーディオ、ビデオ、web 会議の開始不可、会議のスケジュール不可) が含まれています。 
-<br/>現在、段階的提供チャネルの現在のチャネルまたはターゲットリリースを使用している場合は、現在、 <sup>11</sup>のアクセスを利用できます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および business Premium の一部として含まれる Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
-<br/><sup>12</sup> Infopath 2013 はまだサポートされており、office Professional Plus 2016 インストールで提供されていますが、office 2016 には新しいバージョンはありません。 
+<br/><sup>9</sup> Office 365 Enterprise E3 および Office 365 ProPlus のボリュームライセンス認証は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、Windows to Go がインストールされています。 どちらの場合も、これらのインストールにアクセスするユーザーは、Office 365 Enterprise E3 または Office 365 ProPlus のライセンスユーザーである必要があります。 
+<br/><sup>10</sup> Office 365 の Skype for Business 機能 Office 365 Enterprise F1 には、skype For business Plan 1 (デスクトップ共有なし、アプリ共有なし、マルチパーティのオーディオ、ビデオ、web 会議の開始不可、会議のスケジュール不可) が含まれています。 
+<br/>現在、段階的提供チャネルの現在のチャネルまたはターゲットリリースを使用している場合は、現在、 <sup>11</sup>のアクセスを利用できます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および Business Premium の一部として含まれる Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
+<br/><sup>12</sup> Infopath 2013 はまだサポートされており、Office Professional Plus 2016 インストールで提供されていますが、office 2016 には新しいバージョンはありません。 
 <br/><sup>13</sup>基本的な編集機能についてのみサポートしています。 
   
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 プランの Office for Mac で利用できる Office アプリケーション
@@ -120,6 +120,6 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> Office 2016 for mac には mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。 
+> <sup>1</sup> Office 2016 for mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。 
  <br/><sup>2</sup> App Store から別途ダウンロードして入手できます。 詳細については、「 [OneNote for Mac の紹介](https://blogs.office.com/2014/03/17/introducing-onenote-for-mac/)」をご覧ください。 
  <br/><sup>3</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。 

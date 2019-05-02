@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>2019 年 3 月 18 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2019/3/18 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
-| 2019/3/18 | [製品使用権](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | 更新日時 |
-
-
 ## <a name="week-of-march-25-2019"></a>2019 年 3 月 25 日の週
 
 
@@ -68,3 +59,15 @@
 | 4/18/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
 | 4/18/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
 | 4/18/2019 | [コンテンツ](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 更新日時 |
+
+
+## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 4/24/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 4/26/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 4/26/2019 | [サービスの正常性および継続性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 更新日時 |
+| 4/26/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+| 4/26/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 変更 |

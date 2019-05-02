@@ -3,7 +3,7 @@ title: Office Online サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: office Online (以前の office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246963"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544964"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
-office Online (以前の office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。 
+Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。 
   
 各プランの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
   
@@ -120,6 +120,7 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |:-----|:-----|:-----|
 |**アプリケーション機能** <br/> |**Excel Online** <br/> |**Excel デスクトップ アプリ** <br/> |
 |[アクセシビリティ チェック](excel-online.md#add-hyperlinks) <br/> |はい  <br/> |はい  <br/> |
+|[シート見出しに背景色を追加する](excel-online.md#add-background-color-to-sheet-tabs) <br/> |はい  <br/> |はい  <br/> |
 |[ハイパーリンクの追加](excel-online.md#add-hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[高度な時間フィルター処理 (タイムライン スライサー)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |いいえ  <br/> |はい  <br/> |
 |[位置揃え](excel-online.md#alignment) <br/> |はい  <br/> |はい  <br/> |
@@ -128,7 +129,8 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[音声ノートの記録](onenote-online.md#audio-notes-recording) <br/> |いいえ  <br/> |はい  <br/> |
 |[オートコンプリート](excel-online.md#autocomplete) <br/> |はい  <br/> |はい  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |はい  <br/> |はい  <br/> |
-|[custom](excel-online.md#calculations) <br/> |はい  <br/> |はい  <br/> |
+|[Custom](excel-online.md#calculations) <br/> |はい  <br/> |はい  <br/> |
+|[数式の参照の呼び出し](excel-online.md#call-reference-in-formulas) <br/> |はい  <br/> |はい  <br/> |
 |[コメントの作成](excel-online.md#comment-creation) <br/> |はい  <br/> |はい  <br/> |
 |[コピーして貼り付け](excel-online.md#copy-and-paste) <br/> |はい  <br/> |はい  <br/> |
 |[外部データ接続の作成<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |
@@ -136,9 +138,10 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[高度な分析ビュー (Power View、Power Pivot、スライサー) の作成](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |いいえ  <br/> |はい  <br/> |
 |[データの入力規則](excel-online.md#data-validation) <br/> |はい <br/> |はい  <br/> |
 |[セルのドラッグ アンド ドロップ](excel-online.md#drag-and-drop-cells) <br/> |はい  <br/> |はい  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |はい  <br/> |はい  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |はい  <br/> |はい  <br/>|
+|[複製 (コピー) ワークロード](excel-online.md#duplicate-copy-worksheets) <br/> |はい  <br/> |はい  <br/>|
 |[Web ページやブログ ページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |はい  <br/> |いいえ  <br/> |
-|[外部参照](excel-online.md#external-references-links) <br/> |<sup>5</sup>なし <br/> |はい  <br/> |
+|[外部参照](excel-online.md#external-references-links) <br/> |<sup>4</sup>なし <br/> |はい  <br/> |
 |[フィル ハンドル](excel-online.md#fill-handle) <br/> |はい  <br/> |はい  <br/> |
 |[検索](excel-online.md#find) <br/> |はい  <br/> |はい  <br/> |
 |[フォントおよびセルの書式設定](excel-online.md#font-and-cell-formatting) <br/> |はい  <br/> |はい  <br/> |
@@ -148,16 +151,20 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[忠実な閲覧表示](excel-online.md#full-fidelity-reading-view) <br/> |はい  <br/> |はい  <br/> |
 |[関数](excel-online.md#functions) <br/> |はい  <br/> |はい  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |はい  <br/> |はい  <br/> |
+|[グループデータ](excel-online.md#group-data) <br/> |はい  <br/> |はい  <br/> |
 |[行、列、シートの表示/非表示](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |はい  <br/> |はい  <br/> |
-|[図形/画像の挿入](excel-online.md#insert-charts) <br/> |はい  <br/> |はい  <br/> |
+|[アイデア](excel-online.md#ideas) <br/> |はい  <br/> |はい  <br/> |
 |[グラフの挿入](excel-online.md#insert-charts) <br/> |はい  <br/> |はい  <br/> |
 |[行と列の挿入/削除](excel-online.md#insertdelete-rows-and-columns) <br/> |はい  <br/> |はい  <br/> |
+|[画像を挿入する](excel-online.md#insert-pictures) <br/> |はい  <br/> |はい  <br/> |
+|[図形の挿入](excel-online.md#insert-shapes) <br/> |はい  <br/> |はい  <br/> |
 |[セルの結合](excel-online.md#merge-cells) <br/> |はい  <br/> |はい  <br/> |
+|[名前付き範囲](excel-online.md#named-ranges) <br/> |はい  <br/> |はい  <br/> |
 |[数値の書式](excel-online.md#number-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[Office Add-ins](excel-online.md#office-add-ins) <br/> |はい <br/> |はい  <br/> |
 |[オフラインでの表示と編集](excel-online.md#offline-viewing-and-authoring) <br/> |いいえ  <br/> |はい  <br/> |
-|[ピボットグラフ](excel-online.md#post-to-social-network-and-present-online) <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
-|[ピボットテーブル](excel-online.md#post-to-social-network-and-present-online) <br/> |はい  <br/> |はい  <br/> |
+|[ピボットグラフ](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
+|[ピボットテーブル](excel-online.md#pivot-tables) <br/> |はい  <br/> |はい  <br/> |
 |[ソーシャル ネットワークへの投稿とオンライン共有](excel-online.md#post-to-social-network-and-present-online) <br/> |いいえ  <br/> |はい  <br/> |
 |[Power Pivot の表示](excel-online.md#power-pivot-viewing) <br/> |はい  <br/> |はい  <br/> |
 |[Power View の表示](excel-online.md#power-view-viewing) <br/> |はい  <br/> |はい  <br/> |
@@ -165,6 +172,7 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[リアルタイム共同編集](excel-online.md#real-time-co-authoring) <br/> |はい  <br/> |はい  <br/> |
 |[おすすめグラフの作成と書式設定を使用した編集](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |いいえ  <br/> |はい  <br/> |
 |[既存のデータ接続の更新](excel-online.md#refresh-existing-data-connections) <br/> |はい  <br/> |はい  <br/> |
+|[重複する値を削除する](excel-online.md#remove-duplicate-values) <br/> |はい  <br/> |はい  <br/> |
 |[シート名の変更とシートの追加](excel-online.md#rename-and-add-sheets) <br/> |はい  <br/> |はい  <br/> |
 |[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |はい  <br/> |いいえ  <br/> |
 |[置換](excel-online.md#replace) <br/> |はい  <br/> |はい  <br/> |
@@ -177,7 +185,9 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 |[スプレッドシートの監査とコンプライアンス](excel-online.md#spreadsheet-audit-and-compliance) <br/> |いいえ  <br/> |はい  <br/> |
 |[ステータス バーの集計](excel-online.md#status-bar-aggregates) <br/> |はい  <br/> |はい  <br/> |
 |[アンケート調査](excel-online.md#surveys) <br/> |はい  <br/> |いいえ  <br/> |
-|[教えて](excel-online.md#tell-me) <br/> |はい  <br/> |はい  <br/> |
+|[教えて](excel-online.md#tell-me) <br/> |はい  <br/> |はい  <br/>|
+|[テキストの書式設定](excel-online.md#text-formatting) <br/> |はい  <br/> |はい  <br/>|
+|[合計データ](excel-online.md#total-data) <br/> |はい  <br/> |はい  <br/>|
 |[元に戻す/やり直し](excel-online.md#undo-and-redo) <br/> |はい  <br/> |はい  <br/> |
 |[VBA およびマクロの作成](excel-online.md#vba-and-macro-scripting) <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
 |[3D グラフの表示](excel-online.md#view-3d-charts) <br/> |はい  <br/> |はい  <br/> |
@@ -185,11 +195,9 @@ office Online (以前の office Web Apps) は、Web ブラウザーで Word、Ex
 
 > <sup>1</sup>ピボットグラフ、表示のみを作成することはできません。
  <br/><sup>2</sup>環境の構成方法によっては、Excel Online に表示されるブックで、一部の種類のデータ接続がサポートされます。 詳細については、「ブラウザーウィンドウでブックのデータを更新する」を参照してください。 
- <br/><sup>3</sup> Excel Online で vba を使用してマクロを作成することはできませんが、ファイルに含まれる vba を削除 (または破損) しなくても、vba が有効なスプレッドシートを開いて編集することができます。
- <br/><sup>4</sup>データの入力規則を使用するブックは excel online で編集できますが、excel online ではデータの入力規則を設定できません。 
- <br/><sup>5</sup> Excel Online では、最後の既知の参照値がブラウザーウィンドウに表示されます。ただし、Excel デスクトップを使用して更新する必要があります。 
- <br/><sup>6</sup> excel デスクトップアプリを使用して作成されたウィンドウ枠の固定を表示できますが、excel Online でウィンドウ枠の固定を作成することはできません。 
- <br/><sup>7</sup>一部の Office アドインは利用可能ですが、全部ではありません。 
+ <br/><sup>3</sup> Excel ONLINE で vba を使用してマクロを作成することはできませんが、ファイルに含まれる vba を削除 (または破損) しなくても、vba が有効なスプレッドシートを開いて編集することができます。
+ <br/><sup>4</sup> Excel Online では、最後の既知の参照値がブラウザーウィンドウに表示されます。ただし、Excel デスクトップアプリを使用して更新する必要があります。 
+ <br/><sup>5</sup>一部の Office アドインを利用できます。 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>

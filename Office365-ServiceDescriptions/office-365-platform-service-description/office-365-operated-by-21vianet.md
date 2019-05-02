@@ -3,24 +3,24 @@ title: 21Vianet が運用している Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 04/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
-description: 21vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
+ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247310"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544904"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
-21vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
+21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
   
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。 
@@ -42,7 +42,7 @@ Microsoft は、サービス自体を運営していません。21Vianet はサ�
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**サービス** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**サービス** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Office 365 プラットフォーム<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -79,12 +79,12 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |**[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |機械翻訳によるメッセージセンター投稿の手動翻訳  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Flow  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Forms  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -98,8 +98,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office Delve  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい<sup>2</sup> <br/> |
-|OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[ユーザー アカウント管理](user-account-management.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>(15)<sup>  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|**[ユーザー アカウント管理](user-account-management.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |クラウド id、フェデレーション id、または多要素認証<sup>14</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 デスクトップ セットアップ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |.csv ファイルを使用した一括アップロード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -112,7 +112,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |複数の管理者役割を使用できる  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |パートナーに Office 365 の管理を許可する  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Azure Active Directory サービス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[ドメイン](domains.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[ドメイン](domains.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |fourthcoffee.com などのカスタム第 2 レベル ドメインの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |marketing.fourthcoffee.com などのカスタム第 3 レベル ドメインの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |最大 900 のカスタム ドメインの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -127,11 +127,11 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |カスタム ドメイン名を使用した複数の SharePoint Online パブリック Web サイトをホストする<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |カスタム ドメインに必要なドメイン所有権の検証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ **サービスの正常性**] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[レポート](reports.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[レポート](reports.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |アクティブおよび非アクティブ メールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |新規メールボックスおよび削除済みメールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |新規および削除済みグループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -156,20 +156,20 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービス更新](service-updates.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メッセージセンターへの通知の送信アクションが必要な場合、問題が解決された場合、機能が展開された場合、またはサービスが変更された場合  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|一部のサービス更新の[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |対象のリリースを有効にするオプション  <br/> |いいえ  <br/> |--  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[ヘルプとトレーニング](help-and-training.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[ヘルプとトレーニング](help-and-training.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |オンライン ヘルプ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |コミュニティ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |その他のセルフヘルプ リソース<sup>12</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |自己学習トレーニング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[ネットワーク](networking.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[ネットワーク](networking.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |IPv4 プロトコル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |IPv6 プロトコル  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**信頼** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**信頼** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |**[プライバシー、セキュリティ、および透過性](privacy-security-and-transparency.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |高度なデータ ガバナンス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Advanced Security Management  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -188,7 +188,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft データ処理契約  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[サービス継続性](service-health-and-continuity.md)** <br/> ||||||||
-|**[BlackBerry](blackberry.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |BlackBerry Internet Service (BIS) の使用  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[パートナー](partners.md)** <br/> ||||||||
 |指定されたプランを使用しているカスタマーに対する試用版への招待および発注書の作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -197,19 +197,20 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[製品使用権](product-use-rights.md)**<sup>10</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > <sup>1</sup> 21vianet が運用している office 365 と office 365 は、製造元によってサポートされていないオペレーティングシステムのサポートを提供していません。 
-<br/><sup>2</sup> 21vianet が運用している office 365 Enterprise F1 では、office 365 ビデオは表示のみに制限されています (公開または共有はできません)。 
+<br/><sup>2</sup> 21vianet が運用している Office 365 Enterprise F1 では、Office 365 ビデオは表示のみに制限されています (公開または共有はできません)。 
 <br/><sup>3</sup>ローカル active directory とのディレクトリ同期を使用している場合は、Office 365 ポータルではなく、ローカルの active directory を使用して、または Windows 用 Azure active directory モジュールを使用して、アカウントを削除するか、パスワードを変更する必要があります。PowerShell. 
 <br/><sup>4</sup> 21vianet が運用している Office 365 ではまだ利用できませんが、近日中に公開されています。 
-<br/><sup>5</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 その場合は、2つのパブリック web サイトがありますが、それらのうちの1つのみをカスタムドメイン名でホストできます。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「 [Office 365 のパブリック web サイトのヘルプ](https://go.microsoft.com/fwlink/p/?LinkID=325009)で公開されている web サイトの詳細」を参照してください。 
+<br/><sup>5</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 その場合は、2つのパブリック Web サイトがありますが、それらのうちの1つのみをカスタムドメイン名でホストできます。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック Web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「 [Office 365 のパブリック Web サイトのヘルプ](https://go.microsoft.com/fwlink/p/?LinkID=325009)で公開されている web サイトの詳細」を参照してください。 
 <br/><sup>6</sup>期間割引を使用して購入された座席の減少は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 >
 <br/><sup>7</sup> Office 365 エデュケーションプランでは、Microsoft 365 管理センターからのライセンスシートの変更はサポートされていません。
 <br/><sup>8</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 
 <br/><sup>9</sup> 21vianet が運用している Office 365 については、[ここに記載](http://www.21vbluecloud.com/office365/O365-SLA/)されているサービスレベル契約を参照してください。
- <sup>10</sup> 21vianet が運用している office 365 については、「 [office 365 用の 21vianet's Services 標準契約](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」を参照してください。 
+ <sup>10</sup> 21vianet が運用している office 365 については、「 [office 365 用の 21Vianet's Services 標準契約](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」を参照してください。 
 <br/><sup>11</sup>中国のインターネットコンプライアンスポリシーでは、一般向け web サイトのインターネットコンテンツプロバイダー (ICP) 番号を取得する必要があります。 詳細については、対応する ICP のトピックを参照してください。 
 <br/><sup>12</sup>一部の TechNet コンテンツは、21vianet が運用している Office 365 には適用されない場合があります。 
-<br/><sup>13</sup>減少した実績。 組織が internet explorer 8 または internet explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、internet explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 
-<br/><sup>14</sup>多要素認証は現在、Outlook mobile (IOS および Android) ではサポートされていません。 
+<br/><sup>13</sup>減少した実績。 組織が Internet Explorer 8 または Internet Explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、Internet Explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 
+<br/><sup>14</sup>多要素認証は現在、Outlook MOBILE (IOS および Android) ではサポートされていません。 
+<br/><sup>15</sup> Onenote class Notebook は21vianet から利用できますが、Onenote class notebook ツールバーは Windows 10 アプリ、iPad、または onenote Online では使用できません。
   
 ## <a name="office-365-application-features"></a>Office 365 アプリケーション機能
 <a name="BM3_OfficeApp"> </a>
@@ -221,7 +222,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
   
 ||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**21Vianet が運用している Office Professional Plus 2013** <br/> |**21Vianet が運用している Office Professional Plus 2016** <br/> |**Office 365 ProPlus 21Vianet が運用している** <br/> |**Office 365 Business 21Vianet が運用している** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**Office 365 Business Premium 21Vianet が運用している** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**機能** <br/> |**21Vianet が運用している Office Professional Plus 2013** <br/> |**21Vianet が運用している Office Professional Plus 2016** <br/> |**Office 365 ProPlus 21Vianet が運用している** <br/> |**Office 365 Business 21Vianet が運用している** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**Office 365 Business Premium 21Vianet が運用している** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |**Office アプリケーション** <br/> |||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
@@ -233,7 +234,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft Visio Pro<sup>10</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |○  <br/> |はい<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Windows 8 のアプリケーション](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Office for Mac for Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -241,7 +242,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Outlook for Android  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|**企業価値** <br/> |**21Vianet が運用している Office Professional Plus 2013** <br/> |**21Vianet が運用している Office Professional Plus 2016** <br/> |**Office 365 ProPlus 21Vianet が運用している** <br/> |**Office 365 Business 21Vianet が運用している** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**Office 365 Business Premium 21Vianet が運用している** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**企業価値** <br/> |**21Vianet が運用している Office Professional Plus 2013** <br/> |**21Vianet が運用している Office Professional Plus 2016** <br/> |**Office 365 ProPlus 21Vianet が運用している** <br/> |**Office 365 Business 21Vianet が運用している** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**Office 365 Business Premium 21Vianet が運用している** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |はい  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい  <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |多言語ユーザー インターフェイス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
@@ -273,15 +274,15 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |バージョン アップグレード  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |<sup>8</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
-> <sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。 
-<br/><sup>2</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
-<br/><sup>3</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[excel 2013 の電源マッププレビュー](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。 
- <br/><sup>4</sup> Skype for business Basic は、すべてのお客様が利用できます。 skype for business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、skype for business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 office 365 ProPlus、および office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
-<br/><sup>5</sup>一部の教育機関は、office 365 ProPlus を含む教育機関向けの資格を持ち、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールすることを許可します。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 
+> <sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。 
+<br/><sup>2</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
+<br/><sup>3</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[Excel 2013 の電源マッププレビュー](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。 
+ <br/><sup>4</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+<br/><sup>5</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格を持ち、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールすることを許可します。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 
 <br/><sup>6</sup> Office 2011 for Mac をインストールすることはできますが、アクティブ化することはできません。 
 <br/><sup>7</sup> Office 365 ProPlus は、ユーザー専用の仮想デスクトップインフラストラクチャ (VDI) でサポートされています。 Office 365 ProPlus は、ボリュームライセンスプログラムで購入した場合にのみリモートデスクトップサービス (RDS) をサポートします。 
-<br/><sup>8</sup> Volume activation for office 365 Enterprise E3 and office 365 ProPlus は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、windows to Go をインストールできます。 どちらの場合も、これらのインストールにアクセスするユーザーは、office 365 Enterprise E3 または office 365 ProPlus のライセンスユーザーである必要があります。 
-<br/><sup>9</sup>現在のチャネルを使用している場合、または段階的提供されているチャネルに対して対象指定リリースを行っている場合は、現在アクセスできます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および business Premium の一部として含まれる Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
+<br/><sup>8</sup> Volume Activation for Office 365 Enterprise E3 and Office 365 ProPlus は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、Windows to Go をインストールできます。 どちらの場合も、これらのインストールにアクセスするユーザーは、Office 365 Enterprise E3 または Office 365 ProPlus のライセンスユーザーである必要があります。 
+<br/><sup>9</sup>現在のチャネルを使用している場合、または段階的提供されているチャネルに対して対象指定リリースを行っている場合は、現在アクセスできます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および Business Premium の一部として含まれる Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
 <br/><sup>10</sup>現在、Visio Online は21vianet が運用している Office 365 をプレビューしています。 Visio Online の詳細については、「[Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
 <br/><sup>11</sup> 21vianet が運用している Office 365 について、近日中にリリースします。 
 <br/><sup>15 個</sup>の Google サービス (再生ストアを含む) は、中国内ではアクセスできません。 主要な電話の製造元、またはユーザーがモバイルアプリをインストールできる検索エンジン会社によって管理されるアプリストアがいくつかあります。
@@ -315,17 +316,17 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |**[計画と展開](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||||||
 |サポートされているハイブリッド展開  <br/> |はい<sup>9、10</sup> <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>9、10</sup> <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |
 |サポートされている IMAP 移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |カット オーバー移行のサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サポートされている段階的な移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[アクセス許可](../exchange-online-service-description/permissions.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[アクセス許可](../exchange-online-service-description/permissions.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |役割に基づくアクセス許可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |役割グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |役割の割り当てポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**[メッセージ ポリシーと準拠](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[メッセージ ポリシーと準拠](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Exchange Online ベースのメールボックスのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |オンプレミス メールボックスのクラウドベースのアーカイブ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |保持タグおよびアイテム保持ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -339,7 +340,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |トランスポート ルール  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |
 |データ損失防止  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |ジャーナル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[スパムおよびマルウェア対策](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[スパムおよびマルウェア対策](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |組み込みのスパム対策保護  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |スパム対策ポリシーのカスタマイズ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <sup>4</sup> <br/> |
 |組み込みのマルウェア対策保護  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |
@@ -347,13 +348,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |検疫 - 管理者による管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <sup>4</sup> <br/> |
 |検疫 - エンドユーザーによる自己管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |--  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[メール フロー](../exchange-online-service-description/mail-flow.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[メール フロー](../exchange-online-service-description/mail-flow.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |送信電子メールのカスタム ルーティング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |信頼できるパートナーとのセキュリティで保護されたメッセージング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |条件付きメール ルーティング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |受信セーフ リストへのパートナーの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ハイブリッド電子メール ルーティング  <br/> |はい (<sup>9</sup> ) <br/> |--  <br/> |はい (<sup>9</sup> ) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[受信者](../exchange-online-service-description/recipients.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[受信者](../exchange-online-service-description/recipients.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |容量アラート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クラッター機能  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メール ヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |
@@ -374,17 +375,17 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |会議室の管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |不在時の返信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |予定表の共有  <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |
-|**[レポート機能とトラブルシューティング ツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[レポート機能とトラブルシューティング ツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Microsoft 365 管理センターのレポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Excel レポート作成ワークブック  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |
 |Web サービス レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メッセージの追跡  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |監査レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <sup>2</sup> <br/> |
 |ユニファイド メッセージングのレポート  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[共有とコラボレーション](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[共有とコラボレーション](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |フェデレーションの共有 (予定表の公開を含む)  <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |
 |パブリック フォルダー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**[クライアントとモバイル デバイス](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[クライアントとモバイル デバイス](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Microsoft Outlook  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> | いいえ<sup>6</sup> <br/> |
 |Outlook Web App  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange ActiveSync  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -392,42 +393,42 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |SMTP  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EWS アプリケーションのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Outlook for Mac  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> | いいえ  <br/> |
-|**[ボイス メッセージ サービス](../exchange-online-service-description/voice-message-services.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[ボイス メッセージ サービス](../exchange-online-service-description/voice-message-services.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |ボイス メール  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ボイス メールとサード パーティ FAX の統合  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |サードパーティ ボイス メールの相互運用性  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Skype for Business 統合  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[高可用性とビジネス継続性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[高可用性とビジネス継続性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |データ センターでのメールボックス レプリケーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |削除済みメールボックスの回復  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |削除済みアイテムの回復  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |単一アイテムの回復  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> ||
-|**[相互運用性、接続、および互換性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[相互運用性、接続、および互換性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |OWA および Outlook のSkype for Business プレゼンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |SharePoint の相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EWS の接続サポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SMTP リレーのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[Exchange Online のセットアップと管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Exchange Online のセットアップと管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Microsoft Office 365 ポータルへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Exchange 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |リモート Windows PowerShell へのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイスの ActiveSync ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用状況レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Outlook アドインと Outlook MAPI  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |いいえ  <br/> |
    
 > <sup>1</sup>一部のサードパーティの web パーツやアドインは使用できない場合があります。 
-<br/><sup>2</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
+<br/><sup>2</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
 <br/><sup>3</sup>トランスポートルールは柔軟な条件で構成されており、条件と例外、および条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 
 <br/><sup>4</sup> Exchange 管理センター (EAC) 管理インターフェイスに直接アクセスすることによってのみアクセスできます。 
 <br/><sup>5</sup> Exchange Server 2013 は、Microsoft マルウェア対策エンジンのみを使用します。 Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 
 <br/><sup>6</sup> eoa サブスクリプションは、非アクティブなメールボックス機能が必要なメールボックスごとに個別に購入できます。 
 <<br/>sup>7</sup>電子情報開示については、オンプレミスとクラウドについて別のクエリが必要です。 
 <br/><sup>8</sup> POP はサポートされていますが、IMAP はサポートされていません。 
-<br/><sup>9</sup> Office 365 business Essentials and business Premium は、オンプレミスサーバーを使用した使用に対するアクセス権を提供しません。 準拠するには、お客様は適切な cal を購入するか、またはエンタープライズ SKU へのアップグレードを事前に購入している必要があります。これにより、これらのアクセス権が提供されます。 > <br/><sup>10</sup>ハイブリッド構成ウィザードは、Exchange 2013 CU5 およびより多くのオンプレミス展開で使用できます。 ただし、一部のハイブリッド機能には制限があります。詳細については、ヘルプトピック「21vianet が運用している Office 365 について」を参照してください。 
+<br/><sup>9</sup> Office 365 business Essentials And business Premium は、オンプレミスサーバーを使用した使用に対するアクセス権を提供しません。 準拠するには、お客様は適切な Cal を購入するか、またはエンタープライズ SKU へのアップグレードを事前に購入している必要があります。これにより、これらのアクセス権が提供されます。 > <br/><sup>10</sup>ハイブリッド構成ウィザードは、EXCHANGE 2013 CU5 およびより多くのオンプレミス展開で使用できます。 ただし、一部のハイブリッド機能には制限があります。詳細については、ヘルプトピック「21Vianet が運用している Office 365 について」を参照してください。 
 <br/><sup>11</sup> 21vianet が運用している Office 365 については、LinkedIn は利用できますが、Facebook は利用できません。 > 
-<br/><sup>12</sup>ハイブリッド展開のセットアップは、exchange 2013 CU5 のハイブリッド構成ウィザードで利用できます。または、exchange 2013 SP1 を使用している場合は手動で設定することもできます。 詳細については、ヘルプトピック「21vianet が運用している Office 365 について」を参照してください。 
+<br/><sup>12</sup>ハイブリッド展開のセットアップは、EXCHANGE 2013 CU5 のハイブリッド構成ウィザードで利用できます。または、EXCHANGE 2013 SP1 を使用している場合は手動で設定することもできます。 詳細については、ヘルプトピック「21Vianet が運用している Office 365 について」を参照してください。 
 <br/><sup>13</sup>接続されたアカウントは&amp; POP IMAP アカウントでサポートされていますが、Outlook.com (Hotmail) では無効になっています。 
 <br/><sup>14</sup>コマンドレットを使用したアドレス一覧とグローバルアドレス一覧の操作はサポートされていません。 
   
@@ -462,7 +463,7 @@ Exchange Online の制限の詳細については、次のトピックを参照�
 > - Microsoft Office 365 組織に適用される制限は、その組織がサービスに登録されている期間に応じて異なる可能性があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
 > - これらの制限の大部分は変更できませんが、注意を払う必要があります。 
 > - これらの制限は内部受信者と外部受信者の両方に適用されます。 
-> - 既定では、exchange online Protection (EOP) は exchange online メールボックスを保護します。 Exchange Online で EOP 機能に適用される制限については、「[Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 
+> - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online で EOP 機能に適用される制限については、「[Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 
   
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection の機能
 <a name="BM6_EOP"> </a>
@@ -571,7 +572,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**開発者向けの機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**開発者向けの機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アクセス サービス](../sharepoint-online-service-description/developer.md#access-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アクセス サービス](../sharepoint-online-service-description/developer.md#access-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -600,7 +601,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |List and Library APIs <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[リモート イベント レシーバー](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[REST api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[サンドボックス ソリューション](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |<sup>10</sup>なし <br/> |<sup>10</sup>なし <br/> |<sup>10</sup>なし <br/> |<sup>10</sup>なし <br/> |<sup>10</sup>なし <br/> |
 |[SharePoint デザイン マネージャー](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -611,7 +612,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Workload API: ECM APIs <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Workload API: Search APIs <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Workload API: Social APIs <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**IT プロフェッショナル向けの機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**IT プロフェッショナル向けの機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |[Active Directory の同期](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[代替アクセス マッピング (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Analytics Platform <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -648,7 +649,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Upgrade evaluation site collections <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[使用状況のレポートとログ](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Windows PowerShell のサポート](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**コンテンツ機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**コンテンツ機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |[アクセシビリティ標準のサポート](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アセット ライブラリの強化/ビデオ サポート](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[監査](../sharepoint-online-service-description/content.md#auditing) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -702,7 +703,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |WCM: Recommendations <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[WCM:検索エンジン最適化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**Insights 機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**Insights 機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |[ビジネス インテリジェンス センター](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[計算されるメジャーとメンバー](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[データ接続ライブラリ](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
@@ -723,7 +724,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |[データ モデルを含む Excel ブックの使用と対話](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>15、16</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>15</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**検索機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**検索機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Advanced Content Processing <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[継続的クロール](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Custom entity extraction <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -752,7 +753,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Search vertical: “People” <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Search vertical: “Video” <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |["このリスト" 検索](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**サイト機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**サイト機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Change the look <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Connections to Microsoft Office Clients <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[クロス ブラウザーのサポート](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -782,10 +783,10 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |[サイト閲覧状況ページ](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[バリエーション](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Work Management Service <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**ソーシャル機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**ソーシャル機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Ask Me About <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[個人用ブログ](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|Communities Reputation, Badging, and Moderation <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |nono  <br/> |
+|Communities Reputation, Badging, and Moderation <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |NoNo  <br/> |
 |[コミュニティ](../sharepoint-online-service-description/social.md#community) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[会社フィード](../sharepoint-online-service-description/social.md#company-feed) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Document Conversations with Yammer <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -806,13 +807,13 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Trending Tags <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Wikis](../sharepoint-online-service-description/social.md#wikis) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Yammer  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**アドオン** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**アドオン** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |[追加のストレージ](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Azure 対応アプリ:Access Services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Azure 対応アプリ:Azure ライトウェイト Web ロール (LWR) のカスタム コード](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > <sup>1</sup> フォルダー同期を使うには、Office2013 以降 (Standard や Professional エディション) または Office アプリケーションを含む Office 365 サブスクリプションが必要です。 Office 365 Business Essentials、Office 365 Enterprise E1、Office 365 Education プランには、Office デスクトップ アプリケーションのサブスクリプションは含まれていません。 ただし、Office2013 以降がインストールされていて、これらのプランのいずれかにサブスクライブしている場合は、フォルダー同期を使うことができます。 
-<br/> <sup>2</sup>キオスクアカウントには、OneDrive for business の機能が制限されています。 キオスクのユーザーは、OneDrive for business フォルダー同期クライアントアプリケーションを使用して、チームサイトのドキュメントライブラリを共有のコンピューターと同期し、ドキュメントにオフラインでアクセスできます。 しかし、キオスクアカウントには onedrive for business の個人用サイトが含まれていないため、1 TB のオンラインストレージを使用している onedrive for business の個人用ライブラリからメリットを得ることはできません。 
+<br/> <sup>2</sup>キオスクアカウントには、OneDrive for business の機能が制限されています。 キオスクのユーザーは、OneDrive for Business フォルダー同期クライアントアプリケーションを使用して、チームサイトのドキュメントライブラリを共有のコンピューターと同期し、ドキュメントにオフラインでアクセスできます。 しかし、キオスクアカウントには OneDrive for Business の個人用サイトが含まれていないため、1 TB のオンラインストレージを使用している OneDrive for Business の個人用ライブラリからメリットを得ることはできません。 
 <br/> <sup>3</sup> Access 2010 はサポートされていません。
 <br/> <sup>4</sup>キオスクユーザーを管理者にすることはできないため、キオスクユーザーを持つテナントは、管理センターにアクセスするために Enterprise ユーザーが1人以上必要です。
 <br/> <sup>5</sup> SharePoint Online のお客様は、ランク付けモデルを作成およびカスタマイズするために、無料のランク付けモデルチューニングアプリをダウンロードしてインストールする必要があります。 
@@ -822,7 +823,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 <br/> <sup>9</sup>一部のプロバイダーが国/地域でブロックされる場合があります。 
 <br/> <sup>10</sup>サンドボックスソリューションにユーザーコードを含めることはできません。 Rather, they may only contain definition (.xml) files and resources that are processed by the server when they activate. 
 <br/> <sup>11</sup>ドキュメント、ライブラリ、またはサイトを組織外のユーザーと電子メールで共有します。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. 組織外のユーザーと共有しようとするユーザーは、同じ警告メッセージを受け取ります。 
-<br/> <sup>12 個</sup>のキオスクアカウントでは、OneDrive for business の機能が制限されています。 キオスクのユーザーは、OneDrive for business フォルダー同期クライアントアプリケーションを使用して、チームサイトのドキュメントライブラリを共有のコンピューターと同期し、ドキュメントにオフラインでアクセスできます。 しかし、キオスクアカウントには onedrive for business の個人用サイトが含まれていないため、1 tb または 5 tb のオンラインストレージを使用している onedrive for business の個人用ライブラリからメリットを得ることはできません。
+<br/> <sup>12 個</sup>のキオスクアカウントでは、OneDrive for business の機能が制限されています。 キオスクのユーザーは、OneDrive for Business フォルダー同期クライアントアプリケーションを使用して、チームサイトのドキュメントライブラリを共有のコンピューターと同期し、ドキュメントにオフラインでアクセスできます。 しかし、キオスクアカウントには OneDrive for Business の個人用サイトが含まれていないため、1 TB または 5 TB のオンラインストレージを使用している OneDrive for Business の個人用ライブラリからメリットを得ることはできません。
 <br/> <sup>13</sup>任意のモバイルブラウザーでドキュメントを表示できます。 ドキュメントの編集には、Office Mobile アプリをインストールする必要があります。 現在 Office Mobile は、Windows Phone とタブレット、Android Phone とタブレット、iPhone、iPad で使用できます。 
 <br/> <sup>14</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。 
 <br/> <sup>15</sup> Visio Online consumption (view capability) is available for free. Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
@@ -841,7 +842,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**機能** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype for Business  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |はい<sup>1、4</sup> <br/> |はい<sup>1、4</sup> <br/> |はい  <br/> |いいえ  <br/> |
 |Lync 2013 Basic  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -849,7 +850,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Lync for Mac 2011  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business モバイル クライアント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business Web App  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**[インスタント メッセージング、プレゼンス、および連絡先](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[インスタント メッセージング、プレゼンス、および連絡先](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |PC 間の IM およびプレゼンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |マルチパーティ IM およびプレゼンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |連絡先カードの構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -861,18 +862,18 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |配布リストの展開  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |常設チャット  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |送信者 / 受信者の写真  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**[Skype 間の音声、ビデオ、メディア](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Skype 間の音声、ビデオ、メディア](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |ビデオ ベースの画面共有 (VbSS) 経由でのデスクトップ共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |リモート デスクトップ プロトコル (RDP) 経由でのデスクトップとアプリケーションの共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |ファイル転送  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |ビデオ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |ネットワークのサービス品質 (QoS) - DSCP (Differentiated Services Code Point)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[フェデレーションとパブリック IM 接続](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[フェデレーションとパブリック IM 接続](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 | Skype フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |AOL および Yahoo! フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |臨時およびスケジュールされた音声会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |臨時およびスケジュールされたビデオ会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |アクティブ スピーカー ビデオ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -901,7 +902,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Outlook Web App でのオンライン会議のスケジュール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |会議をスケジューリングするための Outlook の委任  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Outlook から静的な会議 ID で公開会議を作成  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**音声通話** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**音声通話** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |空き時間情報オプション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ブランチ オフィスの存続可能性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |通話受付管理  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -940,7 +941,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国際通話プラン)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[コミュニケーション クレジット](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Skype for Business 音声  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |IM とメディアの暗号化  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |IM とファイルのフィルタ リング  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |クライアント バージョン管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -949,7 +950,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |アプリケーション共有およびデスクトップ共有のアーカイブ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ユーザー レベル アーカイブの構成  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |
 |ログイン追跡ファイル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |プレゼンスの Exchange Server との相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |プレゼンスの Exchange Online との相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |ユニファイド メッセージングの Exchange Server との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -959,14 +960,14 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |アーカイブの Exchange Online との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |SharePoint Server によるスキルの検索  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |SharePoint Online によるスキルの検索  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[Skype for Business Online の管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21vianet が運用している Office 365 Enterprise F1** <br/> |
+|**[Skype for Business Online の管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**21Vianet が運用している Office 365 Business Essentials** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Microsoft Office 365 ポータル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft 365 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business 管理センター  <br/> |はい  <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Microsoft 365 管理センターの Skype for business Online レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft 365 管理センターの Skype for Business Online レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. office 365 ProPlus および office 365 Enterprise E3 には、完全な Skype for business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれます。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「 [Skype for business Online クライアントの比較表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)」を参照してください。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus および Office 365 Enterprise E3 には、完全な Skype for Business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれます。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「 [Skype For Business Online クライアントの比較表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)」を参照してください。 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/> <sup>3</sup> Only accessible through the Skype for Business admin center management interface. 
 <br/> <sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus. 
@@ -1068,7 +1069,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |Microsoft 365 管理センター  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business 管理センター  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センターの Skype for business Online レポート  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
+|Microsoft 365 管理センターの Skype for Business Online レポート  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
    
 
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).
@@ -1170,7 +1171,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |**レポートとビジネス インテリジェンス** <br/> |**Project Online 21Vianet が運用している Essentials for Office 365** <br/> |**Project Online 21Vianet が運用している Professional for Office 365** <br/> |**Project Online 21Vianet が運用している Premium for Office 365** <br/> |**21Vianet が運用している Project Professional 2016 for Office 365** <br/> |**21Vianet が運用している Project Server 2016 for Office 365** <br/> |
 |[OData フィード](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[すぐに使用可能なポートフォリオ ダッシュボード](../project-online-service-description/reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|power BI コンテンツパック <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Power BI コンテンツパック <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Project デスクトップ レポート](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |**リソース管理** <br/> |**Project Online 21Vianet が運用している Essentials for Office 365** <br/> |**Project Online 21Vianet が運用している Professional for Office 365** <br/> |**Project Online 21Vianet が運用している Premium for Office 365** <br/> |**21Vianet が運用している Project Professional 2016 for Office 365** <br/> |**21Vianet が運用している Project Server 2016 for Office 365** <br/> |
 |[受信リソース契約要求の承認/却下/変更](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |

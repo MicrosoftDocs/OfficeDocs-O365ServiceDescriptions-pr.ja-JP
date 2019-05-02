@@ -3,7 +3,7 @@ title: Exchange Online の制限
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: ''
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: a81406ef6584da3f5d84e7d2f5914b9822bcb04c
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368350"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544844"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -112,7 +112,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 |グループ メールボックス|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> 各ユーザーは最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 可用性について詳しくは、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 <br/> <sup>2</sup> ユーザーが共有メールボックスにアクセスするには、Exchange Online ライセンスを持っている必要があります。 共有メールボックスの使用には、特別なライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、E3 または E5 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 アーカイブ メールボックスを有効にするか、共有メールボックスに訴訟ホールドを設定する場合は、Exchange Online Plan 2 ライセンスか、Exchange Online Plan 1 と Exchange Online Archiving のライセンスが必要です。 アーカイブ メールボックスと共有メールボックスの自動拡張アーカイブを有効にした場合、アーカイブ メールボックスの 100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 <br/> <sup>3</sup> リソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、E3 または E5 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>4</sup> Exchange Online Kiosk にアーカイブ メールボックスが含まれません。 ただし、Exchange Online Archiving を通じてアドオンとして購入できます。 詳細については、「[Exchange Online Archiving サービスの説明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)」を参照してください。 <br/> <sup>5</sup>サイトメールボックスは、2017の Exchange online および SharePoint online から削除されました。 <br/> <sup>6</sup> パブリック フォルダーのメールボックス数は最大 1000 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 階層サービス メールボックスは、100 のパブリック フォルダーのメールボックスに制限されます。 <br/> <sup>7</sup> アーカイブ メールボックスは、ライセンスが適用された単一のユーザーまたはエンティティ (共有メールボックスなど) のメールをアーカイブする場合にのみ使用できます。 アーカイブ メールボックスを、複数のユーザーまたはエンティティからのメールを格納する方法として使用することは禁止されています。 たとえば、IT 管理者が共有メールボックスを作成して、アーカイブという明確な目的のために、ユーザーに (CC フィールドまたは BCC フィールドを通して、あるいは、トランスポート ルールを介して) それをコピーさせることはできません。 複数のユーザーが使用する共有メールボックスは、実際には個々のユーザーの電子メールを保存しないことに注意してください。 複数のユーザーがアクセスでき、共有メールボックスとしてメールを送信します。 このため、共有メールボックスに保存されているメールだけが、共有メールボックス*として*送受信されるメールです。 <br/> <sup>8</sup> Exchange Online でアイテム保持ポリシーを作成した場合は、ユーザーのプライマリ メールボックスが 10 MB を超える場合にのみ、メッセージが自動的にユーザーのアーカイブ メールボックスに移動されます。 10 MB より小さいメールボックスの場合、アイテム保持ポリシーが自動的に実行されることはありません。 <br/> <sup>9</sup> 共有メールボックスとリソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、E3 または E5 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>10</sup>既定では、共有メールボックスには、システムによって生成された (不明な) パスワードを持つアクティブなユーザーアカウントが関連付けられています。 関連付けられている共有メールボックスアカウントのサインインをブロックするには、「[共有メールボックスアカウントのサインインをブロック](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)する」を参照してください。
+> <sup>1</sup> 各ユーザーは最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 可用性について詳しくは、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 <br/> <sup>2</sup>共有メールボックスにアクセスするには、ユーザーが Exchange Online ライセンスを持っている必要がありますが、共有メールボックスは別のライセンスを必要としません。 ライセンスがない場合、共有メールボックスは 50 GB に制限されます。 サイズ制限を 100 GB に増やすには、共有メールボックスに exchange online Plan 2 ライセンスまたは exchange online プラン1ライセンスを割り当てる必要があります。 これにより、自動拡張アーカイブを有効にすることもできます。 同様に、共有メールボックスを訴訟ホールドの対象にする場合や、アイテム保持ポリシーを割り当てる場合は、共有メールボックスに exchange online プラン2ライセンスまたは exchange online プラン1のライセンスが必要です。 <br/> <sup>3</sup> リソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、E3 または E5 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>4</sup> Exchange Online Kiosk にアーカイブ メールボックスが含まれません。 ただし、Exchange Online Archiving を通じてアドオンとして購入できます。 詳細については、「[Exchange Online Archiving サービスの説明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)」を参照してください。 <br/> <sup>5</sup>サイトメールボックスは、2017の Exchange Online および SharePoint online から削除されました。 <br/> <sup>6</sup> パブリック フォルダーのメールボックス数は最大 1000 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 階層サービス メールボックスは、100 のパブリック フォルダーのメールボックスに制限されます。 <br/> <sup>7</sup> アーカイブ メールボックスは、ライセンスが適用された単一のユーザーまたはエンティティ (共有メールボックスなど) のメールをアーカイブする場合にのみ使用できます。 アーカイブ メールボックスを、複数のユーザーまたはエンティティからのメールを格納する方法として使用することは禁止されています。 たとえば、IT 管理者が共有メールボックスを作成して、アーカイブという明確な目的のために、ユーザーに (CC フィールドまたは BCC フィールドを通して、あるいは、トランスポート ルールを介して) それをコピーさせることはできません。 複数のユーザーが使用する共有メールボックスは、実際には個々のユーザーの電子メールを保存しないことに注意してください。 複数のユーザーがアクセスでき、共有メールボックスとしてメールを送信します。 このため、共有メールボックスに保存されているメールだけが、共有メールボックス*として*送受信されるメールです。 <br/> <sup>8</sup> Exchange Online でアイテム保持ポリシーを作成した場合は、ユーザーのプライマリ メールボックスが 10 MB を超える場合にのみ、メッセージが自動的にユーザーのアーカイブ メールボックスに移動されます。 10 MB より小さいメールボックスの場合、アイテム保持ポリシーが自動的に実行されることはありません。 <br/> <sup>9</sup> 共有メールボックスとリソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、E3 または E5 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>10</sup>既定では、共有メールボックスには、システムによって生成された (不明な) パスワードを持つアクティブなユーザーアカウントが関連付けられています。 関連付けられている共有メールボックスアカウントのサインインをブロックするには、「[共有メールボックスアカウントのサインインをブロック](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)する」を参照してください。
 
 ### <a name="storage-limits-across-standalone-plans"></a>スタンドアロン プランの格納域に関する制限
 
@@ -127,7 +127,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 |グループ メールボックス|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> これは Exchange Server 2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 オンプレミスのメールボックスの最大格納域に制限はありません。 <br/> <sup>2</sup> 各ユーザーは最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブに関する可用性の詳細については、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 <br/> <sup>3</sup> ユーザーが共有メールボックスにアクセスするには、Exchange Online ライセンスを持っている必要があります。 共有メールボックスの使用には、特別なライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 アーカイブ メールボックスを有効にするか、共有メールボックスに訴訟ホールドを設定する場合は、Exchange Online Plan 2 ライセンスか、Exchange Online Plan 1 と Exchange Online Archiving のライセンスが必要です。 アーカイブ メールボックスと共有メールボックスの自動拡張アーカイブを有効にした場合、アーカイブ メールボックスの 100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 <br/> <sup>4</sup> リソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>5</sup> Exchange Online Kiosk にアーカイブ メールボックスが含まれません。 ただし、Exchange Online Archiving を通じてアドオンとして購入できます。 詳細については、「[Exchange Online Archiving サービスの説明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)」を参照してください。 <br/> <sup>6</sup> これは Microsoft ExchangeServer2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 Exchange Server 2013 では、パブリック フォルダーのメールボックス数は最大 100 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 <br/> <sup>7</sup> Exchange Online では、パブリック フォルダーのメールボックス数は最大 1000 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。  <br/> <sup>8</sup> アーカイブ メールボックスは、ライセンスが適用された単一のユーザーまたはエンティティのメールをアーカイブする場合にのみ使用できます。 アーカイブ メールボックスを、複数のユーザーまたはエンティティからのメールを格納する方法として使用することは禁止されています。 たとえば、IT 管理者が共有メールボックスを作成して、アーカイブという明確な目的のために、ユーザーに (CC フィールドまたは BCC フィールドを通して、あるいは、トランスポート ルールを介して) 共有メールボックスをコピーさせることはできません。 <br/> <sup>9</sup>Exchange Online でアイテム保持ポリシーを作成した場合は、ユーザーのプライマリ メールボックスが 10 MB を超える場合にのみ、メッセージが自動的にユーザーのアーカイブ メールボックスに移動されます。 10 MB より小さいメールボックスの場合、アイテム保持ポリシーが自動的に実行されることはありません。 <br/> <sup>10</sup> 共有メールボックスとリソース メールボックスにライセンスを割り当てる必要はありません。 ただし、ライセンスなしの場合、これらのメールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>11</sup>既定では、共有メールボックスには、システムによって生成された (不明な) パスワードを持つアクティブなユーザーアカウントが関連付けられています。 関連付けられている共有メールボックスアカウントのサインインをブロックするには、「[共有メールボックスアカウントのサインインをブロック](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)する」を参照してください。
+> <sup>1</sup> これは Exchange Server 2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 オンプレミスのメールボックスの最大格納域に制限はありません。 <br/> <sup>2</sup> 各ユーザーは最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブに関する可用性の詳細については、「[Office 365 のロードマップ](http://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 <br/> <sup>3</sup>共有メールボックスにアクセスするには、ユーザーが Exchange Online ライセンスを持っている必要がありますが、共有メールボックスは別のライセンスを必要としません。 ライセンスがない場合、共有メールボックスは 50 GB に制限されます。 サイズ制限を 100 GB に増やすには、共有メールボックスに exchange online Plan 2 ライセンスまたは exchange online プラン1ライセンスを割り当てる必要があります。 これにより、自動拡張アーカイブを有効にすることもできます。 同様に、共有メールボックスを訴訟ホールドの対象にする場合や、アイテム保持ポリシーを割り当てる場合は、共有メールボックスに exchange online プラン2ライセンスまたは exchange online プラン1のライセンスが必要です。 <br/> <sup>4</sup> リソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの共有メールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>5</sup> Exchange Online Kiosk にアーカイブ メールボックスが含まれません。 ただし、Exchange Online Archiving を通じてアドオンとして購入できます。 詳細については、「[Exchange Online Archiving サービスの説明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)」を参照してください。 <br/> <sup>6</sup> これは Microsoft ExchangeServer2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 Exchange Server 2013 では、パブリック フォルダーのメールボックス数は最大 100 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 <br/> <sup>7</sup> Exchange Online では、パブリック フォルダーのメールボックス数は最大 1000 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。  <br/> <sup>8</sup> アーカイブ メールボックスは、ライセンスが適用された単一のユーザーまたはエンティティのメールをアーカイブする場合にのみ使用できます。 アーカイブ メールボックスを、複数のユーザーまたはエンティティからのメールを格納する方法として使用することは禁止されています。 たとえば、IT 管理者が共有メールボックスを作成して、アーカイブという明確な目的のために、ユーザーに (CC フィールドまたは BCC フィールドを通して、あるいは、トランスポート ルールを介して) 共有メールボックスをコピーさせることはできません。 <br/> <sup>9</sup>Exchange Online でアイテム保持ポリシーを作成した場合は、ユーザーのプライマリ メールボックスが 10 MB を超える場合にのみ、メッセージが自動的にユーザーのアーカイブ メールボックスに移動されます。 10 MB より小さいメールボックスの場合、アイテム保持ポリシーが自動的に実行されることはありません。 <br/> <sup>10</sup> 共有メールボックスとリソース メールボックスにライセンスを割り当てる必要はありません。 ただし、ライセンスなしの場合、これらのメールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>11</sup>既定では、共有メールボックスには、システムによって生成された (不明な) パスワードを持つアクティブなユーザーアカウントが関連付けられています。 関連付けられている共有メールボックスアカウントのサインインをブロックするには、「[共有メールボックスアカウントのサインインをブロック](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)する」を参照してください。
 
 ## <a name="capacity-alerts"></a>容量のアラート
 
@@ -224,7 +224,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |アーカイブ メールボックスの回復可能なアイテム フォルダーの記憶域のクォータ (保留である)|100 GB<sup>2</sup>|100 GB<sup>2</sup>|無制限<sup>3</sup>|無制限<sup>3</sup>|
 |復元可能アイテム フォルダー内のフォルダーごとの警告を出すメッセージ数|無制限|275 万|275 万|275 万|
 |メールボックス フォルダーごとのサブフォルダー数の最大値|無制限|1000|1000|1000|
-|メールボックス フォルダーごとの警告を出すサブフォルダー数|制限なし|900|900|900|
+|メールボックス フォルダーごとの警告を出すサブフォルダー数|無制限|900|900|900|
 |フォルダー階層の深さの最大値|制限なし|300|300|300|
 |警告を出すフォルダー階層の深さ|制限なし|250|250|250|
 |パブリック フォルダーの最大数|1,000,000|100,000|100,000|使用不可|
@@ -381,7 +381,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|
-|迷惑メール フォルダーの保存期限|30 日|30 日|30 日|30 日|30 日|30 日間|
+|迷惑メール フォルダーの保存期限|30 日間|30 日|30 日|30 日|30 日|30 日間|
 
 > [!NOTE]
 > <sup>1</sup> これはOffice 365 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
@@ -526,11 +526,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 次の制限が、モバイル デバイスと Exchange との間でメールボックス データを同期するクライアント プロトコルである Microsoft Exchange ActiveSync に適用されます。
 
-- **exchange activesync デバイスの制限**: メールボックスあたりの exchange activesync デバイスの最大数。
+- **Exchange activesync デバイスの制限**: メールボックスあたりの exchange activesync デバイスの最大数。
 
-- **exchange activesync デバイス削除の制限**: exchange 管理者が1か月で削除できる exchange activesync デバイスの最大数。
+- **Exchange activesync デバイス削除の制限**: exchange 管理者が1か月で削除できる exchange activesync デバイスの最大数。
 
-- **exchange activesync のファイル添付の制限**: exchange activesync デバイスで送受信できるメッセージファイル添付の最大サイズ。
+- **Exchange activesync のファイル添付の制限**: exchange activesync デバイスで送受信できるメッセージファイル添付の最大サイズ。
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>各 Office 365 オプションの Exchange ActiveSync の制限
 
@@ -539,7 +539,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|1280|1280|
-|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB|25 MB|25 MB|25 MB |25 MB|
+|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>各スタンドアロン オプションの Exchange ActiveSync の制限
 
@@ -548,4 +548,4 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|
-|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB |25 MB |25 MB|
+|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB|25 MB|25 MB|
