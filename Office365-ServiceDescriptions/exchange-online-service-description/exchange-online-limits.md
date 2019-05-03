@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544844"
+ms.locfileid: "33553486"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -456,6 +456,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **メッセージのリダイレクト回数** 受信トレイ ルールに基づいてメッセージを自動的にリダイレクト、転送、または返信する回数。 たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。 ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。 リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。 この例では、メッセージがユーザー C に配信されなかったことを示す配信不能レポート (NDR) をユーザー B に送信せずに、メッセージを削除します。受信トレイのルールループヘッダーを使用して、メッセージがリダイレクトされた回数を特定します。. このヘッダーは、Exchange 組織の境界を越えて引き続き利用できます。
 
+- **トランスポートルールによるメッセージのリダイレクト**回数トランスポートルールに基づいてメッセージをリダイレクトする回数。 たとえば、Exchange 組織の Tailspin Toys には、ユーザー A に送信されたすべてのメッセージを Exchange 組織の Contoso にあるユーザー B にリダイレクトするトランスポートルールがあります。 Exchange 組織 Contoso では、ユーザー B に送信されたすべてのメッセージを、Exchange organization A Datum Corporation にあるユーザー C にリダイレクトするトランスポートルールがあります。 この例では、メッセージはドロップされ、配信不能レポート (NDR) は状態コードと拒否メッセージ*550 5.7.128 TRANSPORT を使用しています。ルール.RejectMessageトランスポートルールのループ数が上限を超え、拒否*されたメッセージがユーザー A に送信されます。Exchange では、トランスポートルールによってメッセージがリダイレクトされた回数を判断するために、--Transport ルールループヘッダーを使用しています。 このヘッダーは、Exchange 組織の境界を越えて引き続き利用できます。
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Office 365 オプションのジャーナル、トランスポートおよび受信トレイのルールの制限
 
 ||||||||
@@ -468,20 +470,22 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |添付ファイルのコンテンツのスキャンの制限|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |すべてのトランスポート ルールによってメッセージに追加される最大受信者数|100 の受信者|100 の受信者|100 の受信者|100 の受信者|100 の受信者|100 の受信者|
 |被転送者の制限|10 の受信者|10 の受信者|10 の受信者|10 の受信者|10 の受信者|10 の受信者|
-|メッセージのリダイレクト回数|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
+|メッセージのリダイレクト回数|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
+|トランスポートルールによるメッセージのリダイレクト回数|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>スタンドアロン オプションのジャーナル、トランスポートおよび受信トレイのルールの制限
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
-|ジャーナル ルールの最大数|無制限|10 個のルール|10 個のルール|10 個のルール|
+|ジャーナル ルールの最大数|制限なし|10 個のルール|10 個のルール|10 個のルール|
 |トランスポート ルールの最大数|無制限|300 個のルール|300 個のルール|300 個のルール|
 |各トランスポート ルールの最大サイズ|40 KB|8 KB|8 KB|8 KB|
 |すべてのトランスポート ルールで使用されるすべての正規表現の文字に関する制限|無制限|20 KB|20 KB|20 KB|
 |すべてのトランスポート ルールによってメッセージに追加される最大受信者数|制限なし|100 の受信者|100 の受信者|100 の受信者|
 |被転送者の制限|制限なし|10 の受信者|10 の受信者|10 の受信者|
-|メッセージのリダイレクト回数|3 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
+|メッセージのリダイレクト回数|3 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
+|トランスポートルールによるメッセージのリダイレクト回数|無制限|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
 
 ## <a name="moderation-limits"></a>モデレートの制限
 <a name="ModerationLimits"> </a>
@@ -539,7 +543,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|1280|1280|
-|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
+|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB |25 MB |25 MB |25 MB |25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>各スタンドアロン オプションの Exchange ActiveSync の制限
 
@@ -548,4 +552,4 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|
-|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB|25 MB|25 MB|
+|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB |25 MB |25 MB|
