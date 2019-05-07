@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (以前の Excel Web App) は、Microsoft Excel の機能を web ブラウザーにまで拡張します。ここでは、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office Online を使用して Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621827"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641623"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ GoTo 機能を使用して、スプレッドシート全体をすばやく移動
 <a name="bkmk_HideUnhide"> </a>
 
 Excel Online ではブックの行、列、シートの非表示と表示を行なえます。
- 
-## <a name="ideas"></a>アイデア
-<a name="Ideas"> </a>
-
-アイデアを使用すると、高度な視覚的な概要、傾向、パターンによってデータを理解することができます。 データ範囲のセルをクリックしてから、[ホーム] タブの [アイデア] ボタンをクリックします。[アイデア](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)の詳細については、「」を参照してください。
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Excel Online では使用できません。Excel Online では、"What if" 分�
 ## <a name="feature-availability"></a>機能の可用性
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Office Online サービスの説明](office-online-service-description.md)」を参照してください。 
-
+Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Office Online サービスの説明](office-online-service-description.md)」を参照してください。

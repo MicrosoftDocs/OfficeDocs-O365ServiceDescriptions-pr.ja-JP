@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-25-2019"></a>2019 年 3 月 25 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 3/26/2019 | [Office 365 Engineering Direct Service の説明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 更新日時 |
-| 2019/3/28 | [Exchange Online Protection サービスの説明](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 更新日時 |
-| 2019/3/28 | [Exchange Online のセットアップと管理](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | 更新日時 |
-| 2019/3/28 | [Office 365 Advanced Threat Protection サービスの説明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 更新日時 |
-| 2019/3/28 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 更新日時 |
-| 2019/3/28 | [21Vianet が運用している Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 更新日時 |
-| 2019/3/28 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新日時 |
-
-
 ## <a name="week-of-april-01-2019"></a>2019 年 4 月 1 日の週
 
 
@@ -58,7 +44,7 @@
 | 4/18/2019 | [クライアントとモバイル デバイス](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 更新日時 |
 | 4/18/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
 | 4/18/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
-| 4/18/2019 | [コンテンツ](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 更新日時 |
+| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 更新日時 |
 
 
 ## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日の週
@@ -70,4 +56,28 @@
 | 4/26/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
 | 4/26/2019 | [サービスの正常性および継続性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 更新日時 |
 | 4/26/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
-| 4/26/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 変更 |
+| 4/26/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
+
+
+## <a name="week-of-april-29-2019"></a>2019年4月29日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 5/1/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 5/1/2019 | [Office 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 更新日時 |
+| 5/1/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 更新日時 |
+| 5/1/2019 | [21Vianet が運用している Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 更新日時 |
+| 5/1/2019 | [Office アプリケーション](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | 更新日時 |
+| 5/1/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 更新日時 |
+| 5/1/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
+| 5/1/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+| 5/2/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 5/3/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 5/3/2019 | [Office 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 更新日時 |
+| 5/3/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 更新日時 |
+| 5/3/2019 | [メッセージ ポリシーとコンプライアンス](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | 更新日時 |
+| 5/3/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
+| 5/3/2019 | [ポートフォリオ管理](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | 更新日時 |
+| 5/3/2019 | [プロジェクト管理](/Office365/ServiceDescriptions/project-online-service-description/project-management) | 更新日時 |
+| 5/3/2019 | [Project Online サービスの説明](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 更新日時 |

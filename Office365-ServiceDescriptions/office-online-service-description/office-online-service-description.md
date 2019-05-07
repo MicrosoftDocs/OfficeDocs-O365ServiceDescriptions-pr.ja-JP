@@ -3,7 +3,7 @@ title: Office Online サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621867"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641633"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -111,7 +111,8 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[拡大/縮小](word-online.md#zoom) <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> これらはビューアーでレンダリングされますが、Office Online で作成または編集することはできません。 > <sup>2</sup> 一部の Office アドインを利用できます。 
+> <sup>1</sup> これらはビューアーでレンダリングされますが、Office Online で作成または編集することはできません。<br/>
+> <sup>2</sup> 一部の Office アドインを利用できます。 <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[GoTo](excel-online.md#goto) <br/> |はい  <br/> |はい  <br/> |
 |[グループデータ](excel-online.md#group-data) <br/> |はい  <br/> |はい  <br/> |
 |[行、列、シートの表示/非表示](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |はい  <br/> |はい  <br/> |
-|[アイデア](excel-online.md#ideas) <br/> |はい  <br/> |はい  <br/> |
 |[グラフの挿入](excel-online.md#insert-charts) <br/> |はい  <br/> |はい  <br/> |
 |[行と列の挿入/削除](excel-online.md#insertdelete-rows-and-columns) <br/> |はい  <br/> |はい  <br/> |
 |[画像を挿入する](excel-online.md#insert-pictures) <br/> |はい  <br/> |はい  <br/> |
@@ -193,6 +193,7 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[3D グラフの表示](excel-online.md#view-3d-charts) <br/> |はい  <br/> |はい  <br/> |
 |[What-If 分析ツール](excel-online.md#what-if-analysis-tools) <br/> |いいえ  <br/> |はい  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup>ピボットグラフ、表示のみを作成することはできません。
  <br/><sup>2</sup>環境の構成方法によっては、Excel Online に表示されるブックで、一部の種類のデータ接続がサポートされます。 詳細については、「ブラウザーウィンドウでブックのデータを更新する」を参照してください。 
  <br/><sup>3</sup> Excel ONLINE で vba を使用してマクロを作成することはできませんが、ファイルに含まれる vba を削除 (または破損) しなくても、vba が有効なスプレッドシートを開いて編集することができます。
@@ -298,7 +299,8 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[コメントの表示と追加](powerpoint-online.md#view-and-add-comments) <br/> |はい  <br/> |はい  <br/> |
 |[スライド ノートの表示と編集](powerpoint-online.md#view-and-edit-slide-notes) <br/> |はい  <br/> |はい  <br/> |
 |[WYSIWYG 表示](powerpoint-online.md#wysiwyg-viewing) <br/> |はい  <br/> |はい  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online は、8 つの画面切り替え効果と 37 のアニメーションから成るギャラリーをサポートしています。 選択の幅を広げる場合、またはカスタム アニメーションを作成する場合は、PowerPoint デスクトップ アプリを使用します。 
  <br/><sup>2</sup> 使用しているデバイスが、インクをサポートする必要があります。 
  <br/> <sup>3</sup> 一部の Office アドインを利用できます。 
@@ -333,7 +335,8 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |OpenDocument (.odp)  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> マクロの実行または変更はできません。 > <sup>2</sup> マクロが存在する場合、ユーザーは、マクロを削除したファイルのコピーを作成するように求められます。 
+> <sup>1</sup> マクロの実行または変更はできません。<br/>
+> <sup>2</sup> マクロが存在する場合、ユーザーは、マクロを削除したファイルのコピーを作成するように求められます。<br/> 
   
 > [!NOTE]
 > 新しいファイル形式 (.docx, .xlsl, .pptx) は Office 2016、2013、2010、2007 で作成できます。また、互換性パックを追加した Office 2000 以降でも作成できます。 
