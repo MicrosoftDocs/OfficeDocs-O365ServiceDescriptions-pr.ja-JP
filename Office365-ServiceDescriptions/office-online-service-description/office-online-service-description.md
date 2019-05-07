@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544964"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621867"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -130,7 +130,7 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[オートコンプリート](excel-online.md#autocomplete) <br/> |はい  <br/> |はい  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |はい  <br/> |はい  <br/> |
 |[Custom](excel-online.md#calculations) <br/> |はい  <br/> |はい  <br/> |
-|[数式の参照の呼び出し](excel-online.md#call-reference-in-formulas) <br/> |はい  <br/> |はい  <br/> |
+|[数式内のセル参照](excel-online.md#cell-references-in-formulas) <br/> |はい  <br/> |はい  <br/> |
 |[コメントの作成](excel-online.md#comment-creation) <br/> |はい  <br/> |はい  <br/> |
 |[コピーして貼り付け](excel-online.md#copy-and-paste) <br/> |はい  <br/> |はい  <br/> |
 |[外部データ接続の作成<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |<sup>3</sup>なし <br/> |はい  <br/> |
@@ -161,10 +161,10 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[セルの結合](excel-online.md#merge-cells) <br/> |はい  <br/> |はい  <br/> |
 |[名前付き範囲](excel-online.md#named-ranges) <br/> |はい  <br/> |はい  <br/> |
 |[数値の書式](excel-online.md#number-formatting) <br/> |はい  <br/> |はい  <br/> |
-|[Office Add-ins](excel-online.md#office-add-ins) <br/> |はい <br/> |はい  <br/> |
+|[Office アドイン](excel-online.md#office-add-ins) <br/> |はい (<sup>5</sup> )  <br/> |はい  <br/> |
 |[オフラインでの表示と編集](excel-online.md#offline-viewing-and-authoring) <br/> |いいえ  <br/> |はい  <br/> |
 |[ピボットグラフ](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
-|[ピボットテーブル](excel-online.md#pivot-tables) <br/> |はい  <br/> |はい  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |はい  <br/> |はい  <br/> |
 |[ソーシャル ネットワークへの投稿とオンライン共有](excel-online.md#post-to-social-network-and-present-online) <br/> |いいえ  <br/> |はい  <br/> |
 |[Power Pivot の表示](excel-online.md#power-pivot-viewing) <br/> |はい  <br/> |はい  <br/> |
 |[Power View の表示](excel-online.md#power-view-viewing) <br/> |はい  <br/> |はい  <br/> |
@@ -283,7 +283,7 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[Skype for Business または Office Presentation Service によるオンライン プレゼンテーション](powerpoint-online.md#present-online-through-skype-for-business-or-the-office-presentation-service) <br/> |はい  <br/> |はい  <br/> |
 |[PDF に印刷](powerpoint-online.md#print-to-pdf) <br/> |はい  <br/> |はい  <br/> |
 |[校正ツール](powerpoint-online.md#proofing-tools) <br/> |はい  <br/> |はい  <br/> |
-|[リアルタイム共同編集](powerpoint-online.md#real-time-co-authoring) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |
+|[リアルタイム共同編集](powerpoint-online.md#real-time-co-authoring) <br/> |○  <br/> |はい<sup>4</sup> <br/> |
 |[レビュー担当者ツール-詳細](powerpoint-online.md#reviewer-tools---advanced) <br/> |いいえ  <br/> |はい  <br/> |
 |Rights Management: IRM and password security <br/> |いいえ  <br/> |はい  <br/> |
 |[スライド ショーの実行](powerpoint-online.md#run-slide-show) <br/> |はい  <br/> |はい  <br/> |

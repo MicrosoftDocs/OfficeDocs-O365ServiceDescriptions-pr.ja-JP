@@ -3,7 +3,7 @@ title: 教育機関向け Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートを、Microsoft の次世代のコミュニケーションおよびコラボレーション サービスのクラウドベース バージョンである、Microsoft Exchange Online、Microsoft SharePoint Online、Office Online、Microsoft Skype for Business Online と組み合わせて、インターネット上のどこから作業しても、生産性を向上させるのに役に立ちます。
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544974"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621927"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -698,7 +698,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ジャーナル ルールの最大数  <br/> |10 個のルール  <br/> |10 個のルール  <br/> |10 個のルール  <br/> |
+|ジャーナル ルールの最大数  <br/> |50ルール  <br/> |50ルール  <br/> |50ルール  <br/> |
 |トランスポート ルールの最大数  <br/> |300 個のルール  <br/> |300 個のルール  <br/> |300 個のルール  <br/> |
 |各トランスポート ルールの最大サイズ  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |すべてのトランスポート ルールで使用されるすべての正規表現の文字に関する制限  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
@@ -819,7 +819,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |List and Library APIs <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[リモート イベント レシーバー](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[サンドボックス ソリューション](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |
 |[SharePoint デザイン マネージャー](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1258,7 +1258,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日   <br/> |15 日   <br/> |15 日   <br/> |
 |会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日   <br/> |15 日  <br/> |
-|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間   <br/> |8 時間   <br/> |8 時間   <br/> |
+|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間   <br/> |8 時間   <br/> |8 時間  <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
 |会議の有効期限:定期的な会議  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
 |会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |8 時間   <br/> |8 時間  <br/> |

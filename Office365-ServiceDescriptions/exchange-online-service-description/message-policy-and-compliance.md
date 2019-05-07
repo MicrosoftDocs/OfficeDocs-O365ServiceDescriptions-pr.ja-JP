@@ -3,7 +3,7 @@ title: メッセージ ポリシーと準拠
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246543"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621877"
 ---
 # <a name="message-policy-and-compliance"></a>メッセージ ポリシーと準拠
 
@@ -90,7 +90,9 @@ BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロ�
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 Message Encryption によって、電子メール ユーザーは暗号化された電子メールを任意の宛先に送信できます。Azure Information Encryption の保護機能を活用する Office Message Encryption の新機能を発表しました。これらの新機能ではエンド ユーザー エクスペリエンスが拡張されており、それによって組織内外のだれとでも保護されたメッセージを簡単に共有し、共同作業をすることが可能になります。新しい Office Message Encryption 機能のセットアップにはいくつかの要件があります。Azure Information Protection をベースにビルドされている新しい Office 365 Message Encryption 機能のセットアップ情報を参照してください。従来の Office 365 Message Encryption を使用しているお客様は、上記のガイダンスに基づいてセットアップを行わない限り、新機能をご利用になれません。Office 365 Message Encryption の新旧それぞれの機能の詳細については、[FAQ](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) を参照してください。 
-  
+
+Office 365 Advanced Message Encryption では、メッセージの有効期限と失効を許可することによって、追加の保護を提供します。  組織から送信される暗号化メール用に複数のテンプレートを作成することもできます。  高度なメッセージの暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフの価格)、Office 365 Enterprise E5 (非営利スタッフの価格)、または Office 365 教育 A5 に含まれています。 Office 365 の高度なメッセージ暗号化が含まれていない Office 365 サブスクリプションが組織にある場合は、Microsoft 365 E5 コンプライアンスまたは Office 365 Advanced コンプライアンス SKU をアドオンとして購入できます。
+
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 
