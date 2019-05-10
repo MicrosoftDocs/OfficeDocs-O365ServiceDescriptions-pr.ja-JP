@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
+ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641633"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663291"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
@@ -336,7 +336,7 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
    
 > [!NOTE]
 > <sup>1</sup> マクロの実行または変更はできません。<br/>
-> <sup>2</sup> マクロが存在する場合、ユーザーは、マクロを削除したファイルのコピーを作成するように求められます。<br/> 
+> <sup>2</sup>マクロが存在する場合、ユーザーはマクロを削除したファイルのコピーを保存するように求められます。<br/> 
   
 > [!NOTE]
 > 新しいファイル形式 (.docx, .xlsl, .pptx) は Office 2016、2013、2010、2007 で作成できます。また、互換性パックを追加した Office 2000 以降でも作成できます。 
