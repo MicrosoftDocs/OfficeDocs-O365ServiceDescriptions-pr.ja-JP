@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-april-01-2019"></a>2019 年 4 月 1 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2019/4/3 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
-| 4/4/2019 | [Office 365 Advanced Threat Protection サービスの説明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 更新日時 |
-
-
 ## <a name="week-of-april-08-2019"></a>2019 年 4 月 8 日の週
 
 
@@ -81,3 +72,15 @@
 | 5/3/2019 | [ポートフォリオ管理](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | 更新日時 |
 | 5/3/2019 | [プロジェクト管理](/Office365/ServiceDescriptions/project-online-service-description/project-management) | 更新日時 |
 | 5/3/2019 | [Project Online サービスの説明](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 更新日時 |
+
+
+## <a name="week-of-may-06-2019"></a>2019年5月6日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 更新日時 |
+| 5/6/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
+| 5/7/2019 | [Exchange Online サービスの説明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 更新日時 |
+| 5/7/2019 | [サポート](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 更新日時 |
+| 5/7/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |

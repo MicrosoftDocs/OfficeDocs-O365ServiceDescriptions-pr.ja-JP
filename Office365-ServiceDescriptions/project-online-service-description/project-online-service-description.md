@@ -3,7 +3,7 @@ title: Project Online サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/13/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
+ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621917"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33970071"
 ---
 # <a name="project-online-service-description"></a>Project Online サービスの説明
 
@@ -65,7 +65,7 @@ Project Online サイトでのすべての操作には、Project Online のラ�
   
 ## <a name="project-online-plans"></a>Project Online のプラン
 
-以下の Project Online プランを使用できます。 Project Online の詳細については、「 [Project online の](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)概要」を参照してください。
+以下の Project Online プランを使用できます。 Project Online の詳細については、「 [Project online の](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)概要」を参照してください。
   
 ||||
 |:-----|:-----|:-----|

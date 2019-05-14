@@ -3,24 +3,24 @@ title: Microsoft 365 Business サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/08/2019
+ms.date: 05/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
-description: Microsoft 365 business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 office 365 の詳細については、「office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
+ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
+ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246417"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33973355"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
-Microsoft 365 business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。 office 365 の詳細については、「 [office 365 のサービスの説明](office-365-service-descriptions-technet-library.md)」を参照してください。
+Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「 [office 365 のサービスの説明](office-365-service-descriptions-technet-library.md)」を参照してください。
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Office 365 Business Premium および Microsoft 365 Business のプランで利用できる機能
 
@@ -41,7 +41,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Project Online  <br/> |<sup>3</sup>なし <br/> |<sup>3</sup>なし <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Yammer エンタープライズ  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |
+|Azure Information Protection  <br/> |不要  <br/> |はい<sup>4</sup> <br/> |
 |[Office 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md) <br/> |||
 |Microsoft Bookings  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |はい  <br/> |
@@ -62,6 +62,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |<sup>6</sup>なし <br/> |はい  <br/> |
+|共有コンピューターのライセンス認証 <br/> |いいえ <br/> |はい  <br/> |
 |[ユーザー アカウント管理](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Office 365 デスクトップのセットアップ  <br/> |はい  <br/> |はい  <br/> |
 |CSV ファイルを使用する一括アップロード  <br/> |はい  <br/> |はい  <br/> |
@@ -176,7 +177,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 <br/><sup>12</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://go.microsoft.com/fwlink/?linkid=863349)」を参照してください。 
 <br/><sup>13</sup> Advanced 電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)
 <br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=863490)」を参照してください。
-<br/><sup>15</sup>では、Microsoft 365 管理センターに組み込まれている Windows 10 デバイスの管理が簡単になりました。 iOS、Android、macOS、およびデバイス管理管理センターに組み込まれているその他のクロスプラットフォームデバイス管理の Intune 管理機能。また、Microsoft 365 Business での使用がライセンスされています。 サードパーティ製のアプリと wi-fi プロファイルや VPN 証明書などの構成は、デバイス管理管理センターでも管理することができます。 
+<br/><sup>15</sup>では、Microsoft 365 管理センターに組み込まれている Windows 10 デバイスの管理が簡単になりました。 IOS、Android、macOS、およびデバイス管理管理センターに組み込まれているその他のクロスプラットフォームデバイス管理の Intune 管理機能。また、Microsoft 365 Business での使用がライセンスされています。 サードパーティ製のアプリと Wi-fi プロファイルや VPN 証明書などの構成は、デバイス管理管理センターでも管理することができます。 
 <br/><sup>16</sup>このプランには、ビデオポータル、テキストの音声入力、高度な検索、顔検出などの Microsoft Stream plan 2 が付属しています。
 <br/><sup>17</sup> Microsoft 365 管理センターに組み込まれている Windows 10 のデバイス管理ポリシーと Intune アプリ保護ポリシーをシンプルにしました。
-<br/><sup>18</sup> 2019 年5月以降の Office 365 および Microsoft 365 の既存の対象となる sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 sku に含まれます。 
+<br/><sup>18</sup> 2019 年5月以降の Office 365 および Microsoft 365 の既存の対象となる sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。 
