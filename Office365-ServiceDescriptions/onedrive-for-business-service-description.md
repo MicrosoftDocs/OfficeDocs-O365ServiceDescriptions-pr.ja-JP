@@ -3,7 +3,6 @@ title: OneDrive for Business サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,118 +13,101 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: OneDrive for Business は、会社によってクラウド内に提供される、個人のオンライン ストレージ スペースです。これは、複数のデバイスに分散した作業ファイルにアクセスする際に、作業ファイルを簡単に保存し保護するために使用されます。必要に応じて仕事仲間とファイルを共有し、最新の Office デスクトップ、Web、モバイル アプリを使用して、リアルタイムで一緒に Office ドキュメントを共同作業します。OneDrive for Business 同期クライアントを使用して、ローカル コンピューターにファイルを同期します。
-ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
+ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
+ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246924"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34080468"
 ---
-# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="90e46-106">OneDrive for Business サービスの説明</span><span class="sxs-lookup"><span data-stu-id="90e46-106">OneDrive for Business Service Description</span></span>
+# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="dba8d-103">OneDrive for Business サービスの説明</span><span class="sxs-lookup"><span data-stu-id="dba8d-103">OneDrive for Business Service Description</span></span>
 
-<span data-ttu-id="90e46-p102">OneDrive for Business は、会社によってクラウド内に提供される、個人のオンライン ストレージ スペースです。これは、複数のデバイスに分散した作業ファイルにアクセスする際に、作業ファイルを簡単に保存し保護するために使用されます。必要に応じて仕事仲間とファイルを共有し、最新の Office デスクトップ、Web、モバイル アプリを使用して、リアルタイムで一緒に Office ドキュメントを共同作業します。OneDrive for Business 同期クライアントを使用して、ローカル コンピューターにファイルを同期します。</span><span class="sxs-lookup"><span data-stu-id="90e46-p102">OneDrive for Business is personal online storage space in the cloud, provided for you by your company. Use it to store and protect your work files while accessing them across multiple devices with ease. Share your files with business colleagues as needed and collaborate on Office documents together in real time with the latest Office desktop, web, and mobile apps. Sync files to your local computer using the OneDrive for Business sync client.</span></span>
+<span data-ttu-id="dba8d-104">OneDrive は、組織内のライセンスを取得した各ユーザーに提供されるクラウドのオンライン ストレージ スペースです。</span><span class="sxs-lookup"><span data-stu-id="dba8d-104">OneDrive is online storage space in the cloud that's provided for individual licensed users in an organization.</span></span> <span data-ttu-id="dba8d-105">作業ファイルを保護し、複数のデバイス間でそれらのファイルにアクセスするために使用します。</span><span class="sxs-lookup"><span data-stu-id="dba8d-105">Use it to help protect work files and access them across multiple devices.</span></span> <span data-ttu-id="dba8d-106">OneDrive では、ファイルを共有したり、ドキュメントを共同作業したり、コンピューターにファイルを同期することができます。</span><span class="sxs-lookup"><span data-stu-id="dba8d-106">OneDrive lets you share files and collaborate on documents, and sync files to your computer.</span></span> [<span data-ttu-id="dba8d-107">OneDrive の特性、機能、料金について詳しく知る</span><span class="sxs-lookup"><span data-stu-id="dba8d-107">Learn more about OneDrive features, functionality, and pricing</span></span>](https://go.microsoft.com/fwlink/?linkid=850345) 
   
-<span data-ttu-id="90e46-111">OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランや、Office 365 プランでもご購入いただけます。</span><span class="sxs-lookup"><span data-stu-id="90e46-111">OneDrive for Business is included in SharePoint Online, and can also be purchased as a standalone plan or with Office 365 plans.</span></span> 
-  
-<span data-ttu-id="90e46-112">OneDrive for Business の特徴と機能の詳細については、「[OneDrive](https://go.microsoft.com/fwlink/?linkid=850345)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="90e46-112">To learn more about OneDrive for Business features and functionality, go to [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).</span></span>
-  
-## <a name="subscription-plans"></a><span data-ttu-id="90e46-113">サブスクリプション プラン</span><span class="sxs-lookup"><span data-stu-id="90e46-113">Subscription plans</span></span>
-
-<span data-ttu-id="90e46-114">OneDrive for Business は以下のプランで提供されています。</span><span class="sxs-lookup"><span data-stu-id="90e46-114">OneDrive for Business is available through the following plans.</span></span>
-  
-||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|<span data-ttu-id="90e46-115">**サービス**</span><span class="sxs-lookup"><span data-stu-id="90e46-115">**Service**</span></span> <br/> |<span data-ttu-id="90e46-116">**Office 365 Business**</span><span class="sxs-lookup"><span data-stu-id="90e46-116">**Office 365 Business**</span></span> <br/> |<span data-ttu-id="90e46-117">**Office 365 Business Essentials**</span><span class="sxs-lookup"><span data-stu-id="90e46-117">**Office 365 Business Essentials**</span></span> <br/> |<span data-ttu-id="90e46-118">**Office 365 Business Premium**</span><span class="sxs-lookup"><span data-stu-id="90e46-118">**Office 365 Business Premium**</span></span> <br/> |<span data-ttu-id="90e46-119">**Office 365 ProPlus**</span><span class="sxs-lookup"><span data-stu-id="90e46-119">**Office 365 ProPlus**</span></span> <br/> |<span data-ttu-id="90e46-120">**Office 365 Enterprise E1**</span><span class="sxs-lookup"><span data-stu-id="90e46-120">**Office 365 Enterprise E1**</span></span> <br/> |<span data-ttu-id="90e46-121">**Office 365 Enterprise E3**</span><span class="sxs-lookup"><span data-stu-id="90e46-121">**Office 365 Enterprise E3**</span></span> <br/> |<span data-ttu-id="90e46-122">**Office 365 Enterprise E5**</span><span class="sxs-lookup"><span data-stu-id="90e46-122">**Office 365 Enterprise E5**</span></span> <br/> |<span data-ttu-id="90e46-123">**Office 365 Enterprise F1**</span><span class="sxs-lookup"><span data-stu-id="90e46-123">**Office 365 Enterprise F1**</span></span> <br/> |
-|<span data-ttu-id="90e46-124">OneDrive for Business の提供プラン</span><span class="sxs-lookup"><span data-stu-id="90e46-124">OneDrive for Business Plan included</span></span>  <br/> |<span data-ttu-id="90e46-125">プラン 1</span><span class="sxs-lookup"><span data-stu-id="90e46-125">Plan 1</span></span>  <br/> |<span data-ttu-id="90e46-126">プラン 1</span><span class="sxs-lookup"><span data-stu-id="90e46-126">Plan 1</span></span>  <br/> |<span data-ttu-id="90e46-127">プラン 1</span><span class="sxs-lookup"><span data-stu-id="90e46-127">Plan 1</span></span>  <br/> |<span data-ttu-id="90e46-128">プラン 1</span><span class="sxs-lookup"><span data-stu-id="90e46-128">Plan 1</span></span>  <br/> |<span data-ttu-id="90e46-129">プラン 1</span><span class="sxs-lookup"><span data-stu-id="90e46-129">Plan 1</span></span>  <br/> |<span data-ttu-id="90e46-130">プラン 2</span><span class="sxs-lookup"><span data-stu-id="90e46-130">Plan 2</span></span>  <br/> |<span data-ttu-id="90e46-131">プラン 2</span><span class="sxs-lookup"><span data-stu-id="90e46-131">Plan 2</span></span>  <br/> |<span data-ttu-id="90e46-132">プラン F (旧称プラン K)</span><span class="sxs-lookup"><span data-stu-id="90e46-132">Plan F (formerly Plan K)</span></span>  <br/> |
-   
-||||
-|:-----|:-----|:-----|
-|<span data-ttu-id="90e46-133">**サービス**</span><span class="sxs-lookup"><span data-stu-id="90e46-133">**Service**</span></span> <br/> |<span data-ttu-id="90e46-134">**SharePoint Online プラン 1**</span><span class="sxs-lookup"><span data-stu-id="90e46-134">**SharePoint Online Plan 1**</span></span> <br/> |<span data-ttu-id="90e46-135">**SharePoint Online プラン 2**</span><span class="sxs-lookup"><span data-stu-id="90e46-135">**SharePoint Online Plan 2**</span></span> <br/> |
-|<span data-ttu-id="90e46-136">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="90e46-136">OneDrive for Business</span></span>  <br/> |<span data-ttu-id="90e46-137">はい</span><span class="sxs-lookup"><span data-stu-id="90e46-137">Yes</span></span>  <br/> |<span data-ttu-id="90e46-138">はい</span><span class="sxs-lookup"><span data-stu-id="90e46-138">Yes</span></span>  <br/> |
-   
-<span data-ttu-id="90e46-139">プランを比較するには、「[最新の高度な機能を Office 365 で](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/ja-JP/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="90e46-139">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/ja-JP/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
+<span data-ttu-id="dba8d-108">OneDrive は Microsoft 365 および Office 365 プラン、SharePoint Online プランに含まれています。スタンドアロン プランとしてもご購入いただけます。</span><span class="sxs-lookup"><span data-stu-id="dba8d-108">OneDrive is included in Microsoft 365 and Office 365 plans, in SharePoint Online plans, and can also be purchased as a standalone plan.</span></span> 
+    
+<span data-ttu-id="dba8d-109">プランを比較するには、「[最新の高度な機能を Office 365 で](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/ja-JP/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-109">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="90e46-140">OneDrive for Business スタンドアロン プランには Office Online が含まれます。</span><span class="sxs-lookup"><span data-stu-id="90e46-140">OneDrive for Business standalone plans include Office Online.</span></span> 
+> <span data-ttu-id="dba8d-110">OneDrive for Business スタンドアロン プランには Office Online が含まれます。</span><span class="sxs-lookup"><span data-stu-id="dba8d-110">OneDrive for Business standalone plans include Office Online.</span></span> 
   
-## <a name="system-requirements"></a><span data-ttu-id="90e46-141">システム要件</span><span class="sxs-lookup"><span data-stu-id="90e46-141">System Requirements</span></span>
+## <a name="system-requirements"></a><span data-ttu-id="dba8d-111">システム要件</span><span class="sxs-lookup"><span data-stu-id="dba8d-111">System requirements</span></span>
 
-<span data-ttu-id="90e46-142">システム要件については、次の[ページ](https://go.microsoft.com/fwlink/?linkid=837584)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="90e46-142">For system requirements, see this [page](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
+<span data-ttu-id="dba8d-112">OneDrive 同期クライアントとモバイル アプリの要件については、[OneDrive のシステム要件](https://go.microsoft.com/fwlink/?linkid=837584)をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-112">To review the requirements for the OneDrive sync client and mobile app, see [OneDrive system requirements](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
   
-## <a name="about-sync"></a><span data-ttu-id="90e46-143">同期について</span><span class="sxs-lookup"><span data-stu-id="90e46-143">About sync</span></span>
+## <a name="about-sync"></a><span data-ttu-id="dba8d-113">同期について</span><span class="sxs-lookup"><span data-stu-id="dba8d-113">About sync</span></span>
 
-<span data-ttu-id="90e46-p103">最新の OneDrive for Business 同期クライアントがインストールされていない場合は、「[SharePoint および SharePoint Online 用の OneDrive for Business をインストールする方法](https://support.microsoft.com/ja-JP/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl)」をご覧ください。使用している同期クライアントが不明な場合は、「[使用している OneDrive のバージョンは何ですか?](https://go.microsoft.com/fwlink/?linkid=846624)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="90e46-p103">If you do not have the latest OneDrive for Business sync client installed, see [How to install the OneDrive for Business sync client](https://support.microsoft.com/ja-JP/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl). Not sure which sync client you're using? See [Which version of OneDrive am I using?](https://go.microsoft.com/fwlink/?linkid=846624)</span></span>
+<span data-ttu-id="dba8d-114">最新の同期クライアントをインストールするには、[OneDrive ダウンロード ページ](https://onedrive.live.com/about/download/)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-114">To install the latest sync client, go to [the OneDrive download page](https://onedrive.live.com/about/download/).</span></span> 
   
-## <a name="unlimited-cloud-storage-details"></a><span data-ttu-id="90e46-147">無制限のクラウド ストレージに関する詳細情報</span><span class="sxs-lookup"><span data-stu-id="90e46-147">Unlimited cloud storage details</span></span>
+## <a name="storage-space-per-user"></a><span data-ttu-id="dba8d-115">ユーザー 1 人あたりのストレージ スペース</span><span class="sxs-lookup"><span data-stu-id="dba8d-115">Storage per external user</span></span>
 
-<span data-ttu-id="90e46-148">以下のプランでは、5 人以上のユーザーによるサブスクリプションに対して、無制限の個人用クラウド ストレージを提供します。</span><span class="sxs-lookup"><span data-stu-id="90e46-148">The following plans provide unlimited personal cloud storage for subscriptions with five users or more.</span></span>
-  
-- <span data-ttu-id="90e46-149">OneDrive for Business (プラン 2)</span><span class="sxs-lookup"><span data-stu-id="90e46-149">OneDrive for Business Plan 2</span></span>
-    
-- <span data-ttu-id="90e46-150">SharePoint Online プラン 2</span><span class="sxs-lookup"><span data-stu-id="90e46-150">SharePoint Online Plan 2</span></span>
-    
-- <span data-ttu-id="90e46-151">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="90e46-151">Office 365 Enterprise E3</span></span>
-    
-- <span data-ttu-id="90e46-152">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="90e46-152">Office 365 Enterprise E5</span></span>
-    
-- <span data-ttu-id="90e46-153">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="90e46-153">Office 365 A1</span></span>
-    
-- <span data-ttu-id="90e46-154">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="90e46-154">Office 365 A3</span></span>
-    
-- <span data-ttu-id="90e46-155">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="90e46-155">Office 365 A5</span></span>
-    
-- <span data-ttu-id="90e46-156">Office 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="90e46-156">Office 365 US Government G3</span></span>
-    
-- <span data-ttu-id="90e46-157">Office 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="90e46-157">Office 365 US Government G5</span></span>
-    
-- <span data-ttu-id="90e46-158">Office 365 Nonprofit E3</span><span class="sxs-lookup"><span data-stu-id="90e46-158">Office 365 E3 for nonprofit</span></span>
-    
-- <span data-ttu-id="90e46-159">Office 365 Nonprofit E5</span><span class="sxs-lookup"><span data-stu-id="90e46-159">Office 365 E5 for nonprofit</span></span>
-    
-- <span data-ttu-id="90e46-160">Microsoft 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="90e46-160">Microsoft 365 Enterprise E3</span></span>
-    
-- <span data-ttu-id="90e46-161">Microsoft 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="90e46-161">Microsoft 365 Enterprise E5</span></span>
-    
-- <span data-ttu-id="90e46-162">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="90e46-162">Microsoft 365 A3</span></span>
-    
-- <span data-ttu-id="90e46-163">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="90e46-163">Microsoft 365 A5</span></span>
-    
-- <span data-ttu-id="90e46-164">Microsoft 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="90e46-164">Microsoft 365 US Government G3</span></span>
-    
-- <span data-ttu-id="90e46-165">Microsoft 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="90e46-165">Microsoft 365 US Government G5</span></span>
-    
-- <span data-ttu-id="90e46-166">Microsoft 365 Nonprofit E3</span><span class="sxs-lookup"><span data-stu-id="90e46-166">Microsoft 365 E3 for nonprofit</span></span>
-    
-- <span data-ttu-id="90e46-167">Microsoft 365 Nonprofit E5</span><span class="sxs-lookup"><span data-stu-id="90e46-167">Microsoft 365 E5 for nonprofit</span></span>
-    
-<span data-ttu-id="90e46-168">5 人未満のユーザーによるサブスクリプションの場合は、ユーザー 1 人あたり 1 TB の個人用クラウド ストレージを受け取ります。</span><span class="sxs-lookup"><span data-stu-id="90e46-168">Subscriptions with less than five users receive 1 TB of personal cloud storage per user.</span></span> 
-  
-<span data-ttu-id="90e46-p104">OneDrive for Business では、ユーザー 1 人あたり 1 TB の個人用クラウド ストレージが最初にプロビジョニングされます。1 TB の割り当て分の使用率が 90% になったら、Office 365 管理者の支援を受けて、ユーザー 1 人あたり 5 TB まで [OneDrive for Business の既定の記憶領域を増やす](https://go.microsoft.com/fwlink/?linkid=838024)ことができます。</span><span class="sxs-lookup"><span data-stu-id="90e46-p104">Customers will initially be provisioned 1 TB of personal cloud storage per user in OneDrive for Business. You may [increase the default OneDrive for Business storage space](https://go.microsoft.com/fwlink/?linkid=838024) to up to 5 TB per user with the help of your Office 365 administrator once the 1TB quota is 90% full.</span></span> 
+<span data-ttu-id="dba8d-116">**2 GB**</span><span class="sxs-lookup"><span data-stu-id="dba8d-116">**2 GB**</span></span>
+
+- <span data-ttu-id="dba8d-117">Office 365 Enterprise F1</span><span class="sxs-lookup"><span data-stu-id="dba8d-117">Office 365 Enterprise F1</span></span>
+
+<span data-ttu-id="dba8d-118">**1 TB**</span><span class="sxs-lookup"><span data-stu-id="dba8d-118">**1 TB per organization**</span></span>
+
+- <span data-ttu-id="dba8d-119">Office 365 Business Essentials</span><span class="sxs-lookup"><span data-stu-id="dba8d-119">Office 365 Business Essentials</span></span>
+- <span data-ttu-id="dba8d-120">Office 365 Business</span><span class="sxs-lookup"><span data-stu-id="dba8d-120">Office 365 Business</span></span>
+- <span data-ttu-id="dba8d-121">Office 365 Business Premium</span><span class="sxs-lookup"><span data-stu-id="dba8d-121">Office 365 Business Premium</span></span>
+- <span data-ttu-id="dba8d-122">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="dba8d-122">Office 365 ProPlus</span></span>
+- <span data-ttu-id="dba8d-123">Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="dba8d-123">Office 365 Enterprise E1</span></span>
+- <span data-ttu-id="dba8d-124">Office 365 Government G1</span><span class="sxs-lookup"><span data-stu-id="dba8d-124">Office 365 Government G1</span></span>
+- <span data-ttu-id="dba8d-125">Office 365 Nonprofit Business Essentials</span><span class="sxs-lookup"><span data-stu-id="dba8d-125">Office 365 Nonprofit Business Essentials</span></span>
+- <span data-ttu-id="dba8d-126">Office 365 Nonprofit Business Premium</span><span class="sxs-lookup"><span data-stu-id="dba8d-126">Office 365 Nonprofit Business Premium</span></span>
+- <span data-ttu-id="dba8d-127">Office 365 Nonprofit E1</span><span class="sxs-lookup"><span data-stu-id="dba8d-127">Office 365 Nonprofit E1</span></span>
+- <span data-ttu-id="dba8d-128">OneDrive for Business プラン 1</span><span class="sxs-lookup"><span data-stu-id="dba8d-128">OneDrive for Business Plan 1</span></span>
+- <span data-ttu-id="dba8d-129">SharePoint Online プラン 1</span><span class="sxs-lookup"><span data-stu-id="dba8d-129">SharePoint Online Plan 1</span></span>
+
+<span data-ttu-id="dba8d-130">**無制限の 1 TB を超える**</span><span class="sxs-lookup"><span data-stu-id="dba8d-130">**Beyond 1 TB, to unlimited**</span></span>
+ 
+<span data-ttu-id="dba8d-131">ユーザーが 5 人未満のサブスクリプションは、ユーザー 1 人あたり 1 TB です。</span><span class="sxs-lookup"><span data-stu-id="dba8d-131">1 TB per user for subscriptions with fewer than 5 users.</span></span> <span data-ttu-id="dba8d-132">ユーザーが 5 人以上のサブスクリプションでは、Microsoft が最初にユーザー 1 人あたり 1 TB を提供しますが、管理者は 1 人あたり 5 TB まで増やすことができます。 </span><span class="sxs-lookup"><span data-stu-id="dba8d-132">For subscriptions with 5 or more users, Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="dba8d-133">ストレージの追加の要求 ([方法について](/onedrive/set-default-storage-space)) は、管理者は Microsoft サポートへ連絡してください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-133">([Learn how](/onedrive/set-default-storage-space)) To request additional storage, admins must contact Microsoft support.</span></span> 
+
+- <span data-ttu-id="dba8d-134">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="dba8d-134">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="dba8d-135">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="dba8d-135">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="dba8d-136">OneDrive for Business (プラン 2)</span><span class="sxs-lookup"><span data-stu-id="dba8d-136">OneDrive for Business Plan 2</span></span>
+- <span data-ttu-id="dba8d-137">SharePoint Online プラン 2</span><span class="sxs-lookup"><span data-stu-id="dba8d-137">SharePoint Online Plan 2</span></span>
+- <span data-ttu-id="dba8d-138">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="dba8d-138">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="dba8d-139">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="dba8d-139">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="dba8d-140">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="dba8d-140">Office 365 A1</span></span>
+- <span data-ttu-id="dba8d-141">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="dba8d-141">Office 365 A3</span></span>
+- <span data-ttu-id="dba8d-142">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="dba8d-142">Office 365 A5</span></span>
+- <span data-ttu-id="dba8d-143">Office 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="dba8d-143">Office 365 US Government G3</span></span>
+- <span data-ttu-id="dba8d-144">Office 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="dba8d-144">Office 365 US Government G5</span></span>
+- <span data-ttu-id="dba8d-145">Office 365 Nonprofit E3</span><span class="sxs-lookup"><span data-stu-id="dba8d-145">Office 365 Nonprofit E3</span></span> 
+- <span data-ttu-id="dba8d-146">Office 365 Nonprofit E5</span><span class="sxs-lookup"><span data-stu-id="dba8d-146">Office 365 Nonprofit E5</span></span> 
+- <span data-ttu-id="dba8d-147">Microsoft 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="dba8d-147">Microsoft 365 Enterprise E3</span></span>
+- <span data-ttu-id="dba8d-148">Microsoft 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="dba8d-148">Microsoft 365 Enterprise E5</span></span>
+- <span data-ttu-id="dba8d-149">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="dba8d-149">Microsoft 365 A3</span></span>
+- <span data-ttu-id="dba8d-150">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="dba8d-150">Microsoft 365 A5</span></span>
+- <span data-ttu-id="dba8d-151">Microsoft 365 US Government G3</span><span class="sxs-lookup"><span data-stu-id="dba8d-151">Microsoft 365 US Government G3</span></span>
+- <span data-ttu-id="dba8d-152">Microsoft 365 US Government G5</span><span class="sxs-lookup"><span data-stu-id="dba8d-152">Microsoft 365 US Government G5</span></span>
+- <span data-ttu-id="dba8d-153">Microsoft 365 Nonprofit E3</span><span class="sxs-lookup"><span data-stu-id="dba8d-153">Microsoft 365 E3 for nonprofit</span></span>
+- <span data-ttu-id="dba8d-154">Microsoft 365 Nonprofit E5</span><span class="sxs-lookup"><span data-stu-id="dba8d-154">Microsoft 365 E5 for nonprofit</span></span>
+
   
 > [!NOTE]
-> <span data-ttu-id="90e46-171">OneDrive の既定の記憶領域を増やすには、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。</span><span class="sxs-lookup"><span data-stu-id="90e46-171">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
+> <span data-ttu-id="dba8d-155">既定の OneDrive ストレージ スペースを増やす場合、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。</span><span class="sxs-lookup"><span data-stu-id="dba8d-155">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
   
-<span data-ttu-id="90e46-p105">最初の 5 TB を超えるクラウド ストレージが必要になる場合は、[Microsoft テクニカル サポートからサポートをご依頼](https://go.microsoft.com/fwlink/?linkid=869559)ください。追加のクラウド ストレージは次のように付与されます。</span><span class="sxs-lookup"><span data-stu-id="90e46-p105">Whenever you need cloud storage beyond the initial 5 TB, [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it. Additional cloud storage will be granted as follows:</span></span> 
+<span data-ttu-id="dba8d-156">個々のユーザーに最初に 5 TB を超えるクラウド ストレージが必要になる場合は、管理者は[Microsoft テクニカル サポート](https://go.microsoft.com/fwlink/?linkid=869559)に追加の要求をしてください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-156">Whenever you need cloud storage beyond the initial 5 TB, [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it.</span></span> <span data-ttu-id="dba8d-157">追加のクラウド ストレージは次のように付与されます。</span><span class="sxs-lookup"><span data-stu-id="dba8d-157">Additional cloud storage will be granted as follows:</span></span> 
   
-- <span data-ttu-id="90e46-174">ユーザーが 5 TB のOneDrive for Business ストレージを容量の 90% 以上使用すると、Microsoft は OneDrive for Business の既定の記憶領域をユーザー 1 人あたり最大 25 TB まで増やします (管理者は、ユーザー 1 人あたりの制限を必要に応じてこれより低く設定できます)。</span><span class="sxs-lookup"><span data-stu-id="90e46-174">When a user has filled their 5 TB of OneDrive for Business storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive for Business to up to 25 TB per user (admins may set a lower per user limit if they wish to).</span></span> 
+- <span data-ttu-id="dba8d-158">ユーザーが OneDrive の 5 TB ストレージを 90% 以上使用すると、Microsoft は OneDrive の既定のストレージ スペースをユーザー 1 人あたり 25 TB まで増やします (管理者は、ユーザー 1 人あたりの制限を必要に応じてこれより低く設定できます)。</span><span class="sxs-lookup"><span data-stu-id="dba8d-158">When a user has filled their 5 TB of OneDrive for Business storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive for Business to up to 25 TB per user (admins may set a lower per user limit if they wish to).</span></span> 
     
-- <span data-ttu-id="90e46-p106">25 TB ある OneDrive for Business ストレージの容量の 90% 以上を使用しているユーザーについては、追加のクラウド ストレージが個々のユーザーに対して 25 TB の SharePoint チーム サイトとして提供されます。追加のこのストレージは、クレジットとしてテナントに提供されます。</span><span class="sxs-lookup"><span data-stu-id="90e46-p106">For any user that reaches at least 90% capacity of their 25 TB of OneDrive for Business storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users. This additional storage is provided to the tenant by way of credit.</span></span>
+- <span data-ttu-id="dba8d-159">ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。</span><span class="sxs-lookup"><span data-stu-id="dba8d-159">For any user that reaches at least 90% capacity of their 25 TB of OneDrive for Business storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users.</span></span> <span data-ttu-id="dba8d-160">この追加のストレージは、クレジットとして組織に提供されます。</span><span class="sxs-lookup"><span data-stu-id="dba8d-160">This additional storage is provided to the tenant by way of credit.</span></span>
     
-<span data-ttu-id="90e46-177">個人用クラウド ストレージの使用量を確認する場合、Office 365 管理者は OneDrive 管理センターに移動して、ユーザーの個人用クラウド ストレージを管理できます。</span><span class="sxs-lookup"><span data-stu-id="90e46-177">To see how much personal cloud storage you are using, your Office 365 administrator can go to the OneDrive Admin Center to manage their users' personal cloud storage.</span></span> 
-  
-<span data-ttu-id="90e46-178">OneDrive for Business のユーザー ストレージを Office 365 管理者が管理する方法について詳しくは、「[PowerShell を使用してユーザーの OneDrive の容量を変更します。](https://go.microsoft.com/fwlink/?linkid=866402)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="90e46-178">See [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402) for more information on how Office 365 administrators can manage user storage in OneDrive for Business.</span></span> 
-  
-## <a name="supported-uses"></a><span data-ttu-id="90e46-179">サポートされる使用目的</span><span class="sxs-lookup"><span data-stu-id="90e46-179">Supported uses</span></span>
+<span data-ttu-id="dba8d-161">ストレージ スペースと個人ユーザーの使用率を見るには、OneDrive 同期クライアントの [ストレージの管理](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-161">To see the storage space and usage for an individual user, go to [Manage storage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) in the OneDrive sync client.</span></span> <span data-ttu-id="dba8d-162">組織全体でのユーザーのストレージ使用率を見るには、Microsoft 365 管理センターの [OneDrive 使用状況レポート](/office365/admin/activity-reports/onedrive-for-business-usage) をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-162">To see how much storage users across the organization are using, go to the [OneDrive usage report](/office365/admin/activity-reports/onedrive-for-business-usage) in the Microsoft 365 admin center.</span></span> 
+   
+## <a name="supported-uses"></a><span data-ttu-id="dba8d-163">サポートされる使用目的</span><span class="sxs-lookup"><span data-stu-id="dba8d-163">Supported uses</span></span>
 
-<span data-ttu-id="90e46-p107">OneDrive for Business を使用すると、クラウドの個人用オンライン ストレージ領域にある作業ファイルの保存、アクセス、共有が容易になります。OneDrive for Business ストレージは、ユーザーごとにプロビジョニングされ、個々のユーザーのニーズに応えるように設計されています。</span><span class="sxs-lookup"><span data-stu-id="90e46-p107">With OneDrive for Business, every person can easily store, access, and share their work files in their personal online storage space in the cloud. OneDrive for Business storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
+<span data-ttu-id="dba8d-164">OneDrive ストレージは、ユーザーごとにプロビジョニングされ、個々のユーザーのニーズに対応するよう設計されています。</span><span class="sxs-lookup"><span data-stu-id="dba8d-164">OneDrive for Business storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
   
-<span data-ttu-id="90e46-p108">システムのバックアップ、部署や組織レベルのデータなど、個々のユーザーの個人用作業ファイル以外のデータ保存については、サポートされていません。また、ユーザーごとのライセンスをボット、部門、その他の人間ではないエンティティに割り当てることもできません。SharePoint は、ファイル、通信、イントラネット サイトをチームや組織全体で保存し管理するなど、より高度なコンテンツ管理と共同作業を行なうための最適なソリューションです。</span><span class="sxs-lookup"><span data-stu-id="90e46-p108">Storage of data other than an individual's personal work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity. SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
+<span data-ttu-id="dba8d-165">システム バックアップや、部署レベル、組織レベルのデータを含む個人ユーザーの作業ファイル以外のデータのストレージはサポートされません。ボットや部署、またはその他の人間ではないエンティティへのユーザーごとのライセンスの割り当てもできません。</span><span class="sxs-lookup"><span data-stu-id="dba8d-165">Storage of data other than an individual's personal work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity. SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span> <span data-ttu-id="dba8d-166">SharePoint は、ファイル、通信、イントラネット サイトをチームや組織全体で保存し管理するなど、より高度なコンテンツ管理と共同作業を行なうための最適なソリューションです。</span><span class="sxs-lookup"><span data-stu-id="dba8d-166">SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
   
-## <a name="onedrive-for-business-limitations"></a><span data-ttu-id="90e46-184">OneDrive for Business の制限事項</span><span class="sxs-lookup"><span data-stu-id="90e46-184">OneDrive for Business limitations</span></span>
+## <a name="onedrive-limits"></a><span data-ttu-id="dba8d-167">OneDrive の制限</span><span class="sxs-lookup"><span data-stu-id="dba8d-167">OneDrive for Business limits</span></span>
 
-<span data-ttu-id="90e46-p109">OneDrive for Business は SharePoint Online に付属します。ファイルのアップロード制限やサイト コレクション クォータなどの制限事項については、「[SharePoint Online の制限](https://go.microsoft.com/fwlink/?linkid=829156)」および「[ファイルおよびフォルダーを同期する際の制限事項](https://support.microsoft.com/ja-JP/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="90e46-p109">OneDrive for Business is included in SharePoint Online. To learn about limitations such as file upload limits and site collection quotas see [SharePoint Online limits](https://go.microsoft.com/fwlink/?linkid=829156) and [Restrictions and limitations when you sync files and folders](https://support.microsoft.com/ja-JP/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders).</span></span>
+<span data-ttu-id="dba8d-168">ファイルと同期の制限については、[SharePoint オンラインの制限](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) および [無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dba8d-168">To learn about file and sync limits, see [SharePoint Online limits](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) and [Invalid file names and file types](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
   
-<span data-ttu-id="90e46-187">無制限の個人用クラウド ストレージを含むプランについては、制限事項はストレージ以外の機能に適用されます。</span><span class="sxs-lookup"><span data-stu-id="90e46-187">For plans that include unlimited personal cloud storage, note that limits may apply on non-storage features.</span></span> 
+<span data-ttu-id="dba8d-169">無制限の個人ユーザー用クラウド ストレージを含むプランについては、ストレージ機能が制限される場合があります。</span><span class="sxs-lookup"><span data-stu-id="dba8d-169">For plans that include unlimited personal cloud storage, note that limits may apply on non-storage features.</span></span> 
   
 
