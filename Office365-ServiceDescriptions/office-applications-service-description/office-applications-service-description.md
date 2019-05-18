@@ -3,7 +3,7 @@ title: Office アプリケーション サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 341f5818ba89fe100218a333d13c045f26c45e3c
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
+ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973365"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34158915"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -54,9 +54,9 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Windows 10 アプリ](office-applications.md#windows-10-apps) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/>|はい (<sup>13</sup> )  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> )  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Windows Phone 用 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい ( <sup>13</sup> ) <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/>|はい (<sup>13</sup> )  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |
+|[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> )  <br/>|はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |
+|[Windows Phone 用 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい ( <sup>13</sup> ) <br/>|はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |
 |Outlook for Android  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |**企業価値** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |いいえ  <br/>| いいえ  <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
@@ -106,6 +106,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 現在、段階的提供チャネルの現在のチャネルまたはターゲットリリースを使用している場合は、現在、 <sup>11</sup>のアクセスを利用できます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および Business Premium の一部として含まれる Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。<br/> 
 <sup>12</sup> Infopath 2013 はまだサポートされており、Office Professional Plus 2016 インストールで提供されていますが、office 2016 には新しいバージョンはありません。<br/> 
 <sup>13</sup>基本的な編集機能についてのみサポートしています。<br/> 
+<sup>14</sup> 10.1 インチ以下の対角線があるデバイスに制限されています。<br/> 
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 プランの Office for Mac で利用できる Office アプリケーション
 <a name="bkmk_Officefeaturesolutions"> </a>
 
