@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-recipients
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。 これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
-ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 65d55f53804d668b83db858fbe6fb4d7e94366ce
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246334"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342946"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>受信者
 
 このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
   

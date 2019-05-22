@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247203"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343116"
 ---
 # <a name="user-account-management"></a>ユーザー アカウント管理
 
@@ -55,7 +55,7 @@ By default, the Office 365 subscription uses the \< _company name_\> **.onmicros
   
 Office 365 では、それぞれが別々の名前空間で表現される最大 900 の登録済みインターネット ドメインをホストできます。 
   
-シングルサインオンを使用する組織では、ドメイン上のすべてのユーザーが同じ id システムを使用する必要があります。これは、クラウド id とフェデレーション id のどちらかです。 たとえば、クラウド id のみを必要とするユーザーグループを1つ持つことができます。これは、オンプレミスのシステムにアクセスせず、Office 365 とオンプレミスのシステムを使用しているユーザーの別のグループであるためです。 contractors.contoso.com や staff.contoso.com などの2つのドメインを Office 365 に追加し、そのうち1つの SSO のみを設定します。 ドメイン全体を、クラウド id からフェデレーション id に変換するか、フェデレーション id からクラウド id に変換することができます。
+シングルサインオンを使用する組織では、ドメイン上のすべてのユーザーが同じ id システムを使用する必要があります。これは、クラウド id とフェデレーション id のどちらかです。 たとえば、クラウド id のみを必要とするユーザーグループを1つ持つことができます。これは、オンプレミスのシステムにアクセスせず、Office 365 とオンプレミスのシステムを使用しているユーザーの別のグループであるためです。 Contractors.contoso.com や staff.contoso.com などの2つのドメインを Office 365 に追加し、そのうち1つの SSO のみを設定します。 ドメイン全体を、クラウド id からフェデレーション id に変換するか、フェデレーション id からクラウド id に変換することができます。
   
 Office 365 におけるドメインの詳細については、「[ドメイン](domains.md)」のサービスの説明を参照してください。 
   

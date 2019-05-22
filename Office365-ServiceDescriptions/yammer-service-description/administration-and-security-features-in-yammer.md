@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - administration-and-security-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Yammer では、次の管理およびセキュリティ機能を使用できます。
-ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 9ee3f5821597f3d09e98dd6d0c155bbf194a6cc2
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246553"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342336"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer の管理とセキュリティ機能
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - clients-and-devices-in-exchange-online-archiving
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続がインターネット経由で行われるため、仮想プライベート ネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
-ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 616de5cb187f74b048d14770abb8fe640d0782d3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33245063"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341846"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving のクライアント機能
 
@@ -50,11 +50,11 @@ Outlook 2007 はアーカイブの基本的なサポートを提供しますが�
 |:-----|:-----|
 |Outlook 2010 以降  <br/> |Exchange Online Archiving の最新機能をサポートします。<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Exchange Online Archiving と一緒に使用するためにサポートされています。<sup>1、2</sup> <br/> |
-|Outlook 2003  <br/> |サポート対象外  <br/> |
-|Outlook for Mac 2011  <br/> |サポート対象外  <br/> |
+|Outlook 2003  <br/> |サポートされていません  <br/> |
+|Outlook for Mac 2011  <br/> |サポートされていません  <br/> |
 |Outlook for Mac  <br/> |サポート対象外 Exchange Online Archiving<sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |サポート対象外  <br/> |
-|IMAP と POP  <br/> |サポート対象外  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |サポートされていません  <br/> |
+|IMAP と POP  <br/> |サポートされていません  <br/> |
 |Exchange ActiveSync (モバイル デバイス)  <br/> |サポート対象外  <br/> |
    
 > [!NOTE]

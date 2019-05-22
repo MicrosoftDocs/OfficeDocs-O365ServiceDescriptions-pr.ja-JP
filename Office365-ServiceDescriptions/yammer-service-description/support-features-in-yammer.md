@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - support-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer では次のサポート機能が利用可能です。
-ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: e60dda09b20d52ad917b7e9802cd9d03b77f478f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247353"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342176"
 ---
 # <a name="support-features-in-yammer"></a>Yammer のサポート機能
 

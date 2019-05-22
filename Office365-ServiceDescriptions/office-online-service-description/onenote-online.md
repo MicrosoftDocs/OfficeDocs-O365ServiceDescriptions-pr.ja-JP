@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: onenote online (旧称 onenote Web App) を使用して、onenote ノートブックでオンラインでノートを取ることができます。これは、どこからでも追加して、他のユーザーと簡単に共有できます。 すべての office 365 のお客様は、office Online を使用して office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: OneNote Online (旧称 OneNote Web App) を使用して、OneNote ノートブックでオンラインでノートを取ることができます。これは、どこからでも追加して、他のユーザーと簡単に共有できます。 すべての Office 365 のお客様は、office Online を使用して Office ファイルを表示し、軽く編集することができます。
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247183"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343756"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-onenote online (旧称 onenote Web App) を使用して、onenote ノートブックでオンラインでノートを取ることができます。これは、どこからでも追加して、他のユーザーと簡単に共有できます。 すべての office 365 のお客様は、office Online を使用して office ファイルを表示し、軽く編集することができます。 
+OneNote Online (旧称 OneNote Web App) を使用して、OneNote ノートブックでオンラインでノートを取ることができます。これは、どこからでも追加して、他のユーザーと簡単に共有できます。 すべての Office 365 のお客様は、office Online を使用して Office ファイルを表示し、軽く編集することができます。 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 <a name="bkmk_AdvancedCollaboration"> </a>
@@ -182,7 +182,7 @@ OneNote のノートブックを SharePoint ドキュメント ライブラリ�
 
 OneNote Online では、ノートブックの編集時に表示される作成者のタグをオフにすることができます。この操作を行うと、ページ上で新規ノートの横に表示されるイニシャルが削除されます。作成者のタグはデフォルトでオンになっています。
   
-## <a name="styles"></a>Styles
+## <a name="styles"></a>スタイル
 <a name="bkmk_Styles"> </a>
 
 OneNote Online では、テキスト スタイルを適用して簡単に書式を設定できます。詳細については、「[ブラウザーと OneNote でのノートブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=272946)」を参照してください。

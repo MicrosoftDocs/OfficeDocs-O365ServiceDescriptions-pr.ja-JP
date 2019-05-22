@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246773"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342096"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -50,7 +50,7 @@ Yammer は以下のプランで提供されています。
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer エンタープライズ サービス コミュニケーション ポリシー
 <a name="YammerCommsPolicy"> </a>
 
-Yammer は office 365 の一部であり、 [office 365 の変更管理ポリシー](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)に準拠していますが、更新プログラムをロールアウトする目的で対象のリリースを使用することはありません。 
+Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシー](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)に準拠していますが、更新プログラムをロールアウトする目的で対象のリリースを使用することはありません。 
   
 すべての Yammer ユーザーは、A/B 機能テストを受けることになります。これにより、Microsoft では安定性、パフォーマンス、およびエクスペリエンスを向上するためにさまざまな環境やデバイスにおいて機能をテストすることができます。テストのために、同じネットワーク内のユーザーでも、エクスペリエンスが異なる場合があります。お客様が A/B テストを受けないことを選択することはできません。
   

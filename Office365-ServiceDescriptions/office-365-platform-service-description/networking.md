@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-networking
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365 は、次のネットワーク機能をサポートしています。
-ms.openlocfilehash: 2245e2e60333d0f1eb85e1243c49c0a04a4f62ec
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0a7956b5d59082f2f04f71ee2e349c2c3b238c83
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247263"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343626"
 ---
 # <a name="networking"></a>ネットワーク
 

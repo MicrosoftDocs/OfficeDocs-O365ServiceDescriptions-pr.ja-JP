@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Visio Online では、Visio ダイアグラムを Web 上で表示し共有することができます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio Online ユーザーは、ダイアグラムを共有して、SharePoint Online や OneDrive for Business Online にアップロードされたファイルにコメントを挿入することにより、表示や共同作業が可能です。
-ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246833"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342386"
 ---
 # <a name="visio-online-service-description"></a>Visio Online サービスの詳細
 
@@ -73,6 +73,6 @@ Visio Online を使用する際のヘルプについては、「[Visio Online �
 |**Visio 2010 以降を使用して作成された Visio ダイアグラム** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.vsdx)  <br/> |はい  <br/> |いいえ  <br/> |
 |バイナリ (.vsd)  <br/> |はい  <br/> |いいえ  <br/> |
-|マクロ (.vsdm)  <br/> |はい  <br/> |いいえ  <br/> |
+|マクロ (.vsdm)  <br/> |はい  <br/> |なし  <br/> |
    
 

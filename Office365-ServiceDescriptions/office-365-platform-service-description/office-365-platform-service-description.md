@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Exchange Online のプランを含む Office 365 プラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247223"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343306"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 プラットフォーム サービスの説明
 
@@ -28,7 +28,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
   
 Microsoft Office 365 を使用すると、あらゆる規模のビジネスは、クラウドを活用することにより生産性が向上し、時間の節約とコストの削減、貴重なリソースの効率的な活用を実現します。Office 365 は、使い慣れた Microsoft Office デスクトップ スイートを、Microsoft の次世代のコミュニケーションおよびコラボレーション サービスのクラウドベース バージョンである、Microsoft Exchange Online、Microsoft SharePoint Online、Office Online、Microsoft Skype for Business Online と組み合わせて、インターネット上のどこから作業しても、生産性を向上させるのに役に立ちます。
   
-プラン間での機能の比較については、「 [office 365 for Business プランの比較](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」または「 [office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の「関連するサービスの説明」を参照してください。
+プラン間での機能の比較については、「 [office 365 For Business プランの比較](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」または「 [office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の「関連するサービスの説明」を参照してください。
   
 - Office 365 Education プランについては、最初に [教育機関向け Office 365](office-365-education.md) ページをご覧ください。 
     
@@ -66,9 +66,9 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 の複数地域機能
 
-複数地域を使用すると、1つの office 365 テナントを複数の office 365 datacenter 地域にまたがることができ、選択した地域の Exchange Online と OneDrive for business の office 365 データをユーザーごとに保存することができます。 
+複数地域を使用すると、1つの Office 365 テナントを複数の Office 365 datacenter 地域にまたがることができ、選択した地域の Exchange Online と OneDrive for business の Office 365 データをユーザーごとに保存することができます。 
   
-利用可能な geo: アジア太平洋、オーストラリア、カナダ、欧州連合、インド、日本、韓国、英国、アメリカ合衆国。 
+利用可能な Geo: アジア太平洋、オーストラリア、カナダ、欧州連合、インド、日本、韓国、英国、アメリカ合衆国。 
   
 [Office 365 で複数地域を導入](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)する方法について詳しくは、こちらを参照してください。
   
@@ -208,19 +208,19 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |**[製品使用権](product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> | 
 
 > <sup>1</sup> Office 365 は、製造元によってサポートされていないオペレーティングシステムのサポートを提供していません。 
-<br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Microsoft 365 Business に付属している Office クライアントアプリは、完全な Azure Information Protection (プラン 1) 機能もサポートしています。
+<br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Microsoft 365 Business に付属している Office クライアントアプリは、完全な Azure Information Protection (プラン 1) 機能もサポートしています。
 <br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
 <br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup>期間割引を使用して購入された座席の減少は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
 <br/><sup>7</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=836894)」を参照してください。 
 <br/><sup>8</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 
-<br/><sup>9</sup>つの効果が低下します。 組織が internet explorer 8 または internet explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、internet explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 
-<br/><sup>10</sup> Microsoft Teams は、office 365 business Essentials、office 365 business Premium、office 365 Enterprise (E1、E3、E5、F1)、office 365 エデュケーションプランで利用できます。 
-<br/><sup>11</sup> office 365 Enterprise F1 では、office 365 のビデオは表示のみに制限されています (公開または共有はできません)。 
+<br/><sup>9</sup>つの効果が低下します。 組織が Internet Explorer 8 または Internet Explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、Internet Explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 
+<br/><sup>10</sup> Microsoft Teams は、Office 365 business Essentials、Office 365 business Premium、Office 365 Enterprise (E1、E3、E5、F1)、Office 365 エデュケーションプランで利用できます。 
+<br/><sup>11</sup> Office 365 Enterprise F1 では、office 365 のビデオは表示のみに制限されています (公開または共有はできません)。 
 <br/><sup>12</sup> inoffice 365 Enterprise F1 では、1対1の音声/ビジュアル通話がサポートされています。 会議の権限は参加のみに制限されます (作成または開始することはできません)。 
 <br/><sup>13</sup> Office 365 Enterprise F1 では、PowerApps は消費のみに制限されています (公開または共有はできません)。 
 <br/><sup>14</sup> Office 365 Enterprise F1 の場合、Flow は消費のみに制限されており、実行は1ユーザーあたりの1月あたり750に制限されます。 
-<br/><sup>15</sup> office 365 の教育機関向けプラン (office 365 E5 教育を含む) でのみ使用できます。 Office 365 Enterprise E5 では使用できません。 
+<br/><sup>15</sup> office 365 の教育機関向けプラン (Office 365 E5 教育を含む) でのみ使用できます。 Office 365 Enterprise E5 では使用できません。 
 <br/><sup>16</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
 <br/><sup>17</sup> Advanced 電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)> <br/><sup>18</sup> Microsoft Stream の場合のみ: 公開または共有を行いません。
-<br/><sup>19</sup> 2019 年5月以降、Office 365 および Microsoft 365 の既存の対象 sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 sku に含まれます。   
+<br/><sup>19</sup> 2019 年5月以降、Office 365 および Microsoft 365 の既存の対象 sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。   

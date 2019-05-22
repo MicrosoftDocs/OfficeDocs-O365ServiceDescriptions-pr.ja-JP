@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-plan-options
@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0f5a871552d9709e381ea795e196a00461f08f6b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247233"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343296"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -56,7 +56,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |
-|Skype for business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
+|Skype for Business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
 |Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online  <br/> |なし<sup></sup> <br/> |いいえ  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
@@ -66,18 +66,18 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Microsoft Kaizala<sup>17</sup> <br/> |はい <br/> |いいえ  <br/> |あり <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |
    
 > <sup>1</sup> Project Online は含まれていませんが、個別のアドオンサービスとして購入するか、Office 365 エデュケーションプランに無料で追加することができます。  
-<br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
-<br/><sup>3</sup> Office 365 プランに含まれている azure information protection 機能の詳細については、「 [azure information protection](https://technet.microsoft.com/en-us/dn858608)」を参照してください。 > <br/><sup>4</sup> Office 365 Enterprise E5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話または国際通話) が必要です。 
+<br/><sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
+<br/><sup>3</sup> Office 365 プランに含まれている Azure information protection 機能の詳細については、「 [azure information protection](https://technet.microsoft.com/en-us/dn858608)」を参照してください。 > <br/><sup>4</sup> Office 365 Enterprise E5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話または国際通話) が必要です。 
 <br/><sup>5</sup>は 2 GB のストレージを備えています。 デスクトップの同期機能は含まれていません。 
 <br/><sup>6</sup> Exchange Online プラン1が含まれます。 
 <br/><sup>7</sup> Exchange Online プラン2が含まれます。 
 <br/><sup>8</sup> Exchange Online プラン1および補足機能が含まれます。 
 <br/><sup>9</sup> Exchange Online Kiosk が含まれます。 
-<br/><sup>10</sup>基本的なクライアント制限による Skype for business Online プラン2が含まれています。 > <br/><sup>11</sup>クライアント制限のない Skype for business Online プラン2が含まれています。 > <br/><sup>12</sup> Skype for business Online プラン1と補足機能が含まれています。 > <br/><sup>13</sup>音声サポートを備えた Skype for business Online プラン2が含まれています。クライアントの制限はありません。  
-<br/><sup>14</sup> Skype for business Online プラン1が含まれています。 
-<br><sup>15</sup> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1日に、500座席またはそれ以下の新しい Office 365 お客様は、Microsoft Teams に利用され、Skype for business Online にアクセスすることはできません。 既に Skype for business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行することができます。
-<br><sup>16</sup> advanced コンプライアンスは、高度なデータガバナンス、advanced eDiscovery、カスタマーロックボックス、顧客キー、特権アクセス管理、長期の監査ログ保持機能を提供します。
-<br><sup>17</sup> 2019 年5月以降、Office 365 および Microsoft 365 の既存の対象 sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 sku に含まれます。 
+<br/><sup>10</sup>基本的なクライアント制限による Skype For Business Online プラン2が含まれています。 > <br/><sup>11</sup>クライアント制限のない Skype For Business Online プラン2が含まれています。 > <br/><sup>12</sup> Skype For Business Online プラン1と補足機能が含まれています。 > <br/><sup>13</sup>音声サポートを備えた Skype For Business Online プラン2が含まれています。クライアントの制限はありません。  
+<br/><sup>14</sup> Skype For Business Online プラン1が含まれています。 
+<br><sup>15</sup> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1日に、500座席またはそれ以下の新しい Office 365 お客様は、Microsoft Teams に利用され、Skype for Business Online にアクセスすることはできません。 既に Skype for Business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行することができます。
+<br><sup>16</sup> advanced コンプライアンスは、高度なデータガバナンス、advanced EDiscovery、カスタマーロックボックス、顧客キー、特権アクセス管理、長期の監査ログ保持機能を提供します。
+<br><sup>17</sup> 2019 年5月以降、Office 365 および Microsoft 365 の既存の対象 sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。 
   
 #### <a name="basic-client-limitations"></a>Basic クライアント制限
 

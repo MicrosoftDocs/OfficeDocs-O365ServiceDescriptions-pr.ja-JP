@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
-description: dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである dynamics 365 の一部として含まれるようになりました。 Dynamic 365 は、特定のビジネス機能を管理する新しいアプリケーションを提供することにより、カスタマー リレーションシップ マネジメント (CRM) とエンタープライズ リソース プランニング (ERP) の機能を統合します。
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである Dynamics 365 の一部として含まれるようになりました。 Dynamic 365 は、特定のビジネス機能を管理する新しいアプリケーションを提供することにより、カスタマー リレーションシップ マネジメント (CRM) とエンタープライズ リソース プランニング (ERP) の機能を統合します。
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246523"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342966"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (オンライン) サービスの説明
 
-dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである dynamics 365 の一部として含まれるようになりました。 Dynamic 365 は、特定のビジネス機能を管理する新しいアプリケーションを提供することにより、カスタマー リレーションシップ マネジメント (CRM) とエンタープライズ リソース プランニング (ERP) の機能を統合します。 
+Dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである Dynamics 365 の一部として含まれるようになりました。 Dynamic 365 は、特定のビジネス機能を管理する新しいアプリケーションを提供することにより、カスタマー リレーションシップ マネジメント (CRM) とエンタープライズ リソース プランニング (ERP) の機能を統合します。 
   
 これらのアプリケーションには以下が含まれます：
   
@@ -85,7 +85,7 @@ Dynamics 365 の機能の詳細については、「[Microsoft Dynamics 365](htt
 |**ポータルのみ: サポート利用者として (エージェントとしてではなく) のセルフサービスのケース送信とチャット開始** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
 |**ポータルのみ、従業員以外のみ: 作業指示書の更新、営業案件の作成と更新** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup>`  <br/> |
 |**ユーザー レポート、ダッシュボード、グラフ** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**システム レポート、システム グラフ、システム ダッシュボードの構成** <br/> |なし  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |
+|**システム レポート、システム グラフ、システム ダッシュボードの構成** <br/> |None  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |
 |**リード、営業案件、目標、契約、見積もり、受注、請求書、競合他社** <br/> |読み取り専用  <br/> |Full  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |
 |**セールス キャンペーン、クイック キャンペーン、マーケティング リスト、価格表、製品リスト** <br/> |読み取り専用  <br/> |Full  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |
 |**Unified Service Desk** <br/> |読み取り専用  <br/> |Full  <br/> |Full  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |
@@ -93,7 +93,7 @@ Dynamics 365 の機能の詳細については、「[Microsoft Dynamics 365](htt
 |**作業指示書、スケジュール ボードを使用したスケジュールと出荷、サービス契約、Field Service の請求書と発注書、顧客の資産、在庫、修理と返品** <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |読み取り専用  <br/> |Full  <br/> |
 |**プロジェクト、プロジェクトの費用と見積もり、リソース可用性の表示とスケジュール管理、プロジェクトの価格表/契約書/請求書、プロジェクト トランザクションの承認、Microsoft Project Online Premium** <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |読み取り専用  <br/> |Full  <br/> |Full  <br/> |
 |**PowerApps** <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |Full  <br/> |
-|**Microsoft Social Engagement、お客様の声、Mobile Offline、ゲーミフィケーション プレーヤーと管理者** <br/> |なし  <br/> |完全  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**Microsoft Social Engagement、お客様の声、Mobile Offline、ゲーミフィケーション プレーヤーと管理者** <br/> |None  <br/> |完全  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**ワークフローの作成、データの一括インポート、アプリケーションに含まれるエンティティ全体にわたるカスタマイズ** <br/> |なし  <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |読み取り専用<sup>4</sup> <br/> |完全  <br/> |
    
  **完全** = フル アクセス権 

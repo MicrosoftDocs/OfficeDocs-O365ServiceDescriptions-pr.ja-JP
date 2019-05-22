@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/03/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online では次のプロジェクト管理機能が利用可能です。
-ms.openlocfilehash: d6d51ff730b825b39fdeb8da039e1a56829aa82d
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: bc759b3df0859fa27bd5b46ae7246350d106c4b3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621847"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342046"
 ---
 # <a name="project-management"></a>プロジェクト管理
 

@@ -4,23 +4,23 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: 米国の公的機関の固有の要件および進化する要件に対応して、Microsoft は office 365 us government プラン (oroffice 365 us government) を作成しています。 このセクションでは、Office 365 US Government 固有の機能の概要について説明します。 この補足セクションは、「Office 365 サービスの説明」に記載することをお勧めします。
-ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 米国の公的機関の固有の要件および進化する要件に対応して、Microsoft は Office 365 US Government プラン (orOffice 365 US Government) を作成しています。 このセクションでは、Office 365 US Government 固有の機能の概要について説明します。 この補足セクションは、「Office 365 サービスの説明」に記載することをお勧めします。
+ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247083"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343216"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
-米国の公的機関の固有かつ進化する要件への対応として、Microsoft は office 365 us government プラン (または「office 365 US government」) を作成しています。 このセクションでは、Office 365 US Government 固有の機能の概要について説明します。 この補足セクションは、「 [Office 365 サービスの説明](../../office-365-service-descriptions-technet-library.md)」に記載することをお勧めします。
+米国の公的機関の固有かつ進化する要件への対応として、Microsoft は Office 365 US Government プラン (または「Office 365 US Government」) を作成しています。 このセクションでは、Office 365 US Government 固有の機能の概要について説明します。 この補足セクションは、「 [Office 365 サービスの説明](../../office-365-service-descriptions-technet-library.md)」に記載することをお勧めします。
   
 ## <a name="how-to-use-this-service-description-section"></a>このサービスの説明セクションの使用方法
 <a name="TopOfPage"> </a>
@@ -89,32 +89,32 @@ Office 365 は、サード パーティ アプリケーションを SharePoint O
 ## <a name="restricted-data-access-by-administrators"></a>管理者に制限されたデータ アクセス
 <a name="BM5-Restricted"> </a>
 
-Microsoft 管理者による Office 365 US Government のお客様のコンテンツへのアクセスは、スクリーン担当者に制限されています。 審査レベルの詳細については、それぞれの環境 (gcc または gcc High および DoD) について、「サービスの説明」ページを参照してください。 
+Microsoft 管理者による Office 365 US Government のお客様のコンテンツへのアクセスは、スクリーン担当者に制限されています。 審査レベルの詳細については、それぞれの環境 (GCC または GCC High および DoD) について、「サービスの説明」ページを参照してください。 
 
   
-## <a name="fasttrack-center-onboarding-assistance"></a>fasttrack センターのオンボードアシスタント
+## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack センターのオンボードアシスタント
 <a name="BM5-Restricted"> </a>
 
-office 365<sup>1</sup>の fasttrack センターの特典を使用すると、fasttrack スペシャリストとリモートで作業して、office 365 環境を使用できる状態にして、組織内での展開と使用を計画できます。 FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。 
+Office 365<sup>1</sup>の Fasttrack センターの特典を使用すると、Fasttrack スペシャリストとリモートで作業して、office 365 環境を使用できる状態にして、組織内での展開と使用を計画できます。 FastTrack プロセスでは、オンボーディングと、ユーザー採用サービスが提供されます。 
   
 オンボーディングは、次のもので構成されます。
   
-- コアオンボード-これらは、必要に応じて、テナントの構成と azure Active Directory (azure AD) との統合に必要なタスクです。 コア オンボーディングは、他の対象のサービスのオンボーディングのベースラインも提供します。
+- コアオンボード-これらは、必要に応じて、テナントの構成と Azure Active Directory (Azure AD) との統合に必要なタスクです。 コア オンボーディングは、他の対象のサービスのオンボーディングのベースラインも提供します。
     
 - サービスオンボードおよび移行サービスのオンボードタスクは、テナント内のシナリオを有効にします。 データ移行 (電子メールやファイルを含む) については、「[データ移行](https://aka.ms/whatcanmigrate)」で説明します。<sup>2</sup>
     
 ユーザー採用サービスは、ユーザーが使用できるサービスを認識し、そのサービスを使用してビジネス価値を高めることができるようにするガイダンスを提供するタスクで構成されています。この支援は、オンボーディング アクティビティと並行して行われます。
   
-fasttrack センタープロセスの詳細については、[こちら](https://aka.ms/whatistheprocess)を参照してください。 契約の役割と責任の内訳については、 [fasttrack の責任](https://aka.ms/whatdoesftcdo)だけでなく、[責任](https://aka.ms/whatdowedo)についても確認してください。
+FastTrack センタープロセスの詳細については、[こちら](https://aka.ms/whatistheprocess)を参照してください。 契約の役割と責任の内訳については、 [Fasttrack の責任](https://aka.ms/whatdoesftcdo)だけでなく、[責任](https://aka.ms/whatdowedo)についても確認してください。
   
 <sup>1</sup> fasttrack サービスを受けるには、対象となる[プラン](https://aka.ms/whocanbenefit)のリストから少なくとも50のライセンスを購入する必要があります。 
   
 <sup>2</sup>データ移行サービスは、500またはそれ以上のライセンスを持つ Office 365 テナントで使用できます。 
   
-## <a name="data-migrations-performed-by-fasttrack"></a>fasttrack によって実行されたデータ移行
+## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack によって実行されたデータ移行
 <a name="BM5-Restricted"> </a>
 
-[fasttrack](https://fasttrack.microsoft.com/)移行特典を選択する場合は、データ移行を管理するチームへのアクセス権を付与する必要があります。 これらの人員は米国市民で、Office 365 US Government サービスのお客様に移行を実行する前に、次のバックグラウンドチェックが行われています。 
+[Fasttrack](https://fasttrack.microsoft.com/)移行特典を選択する場合は、データ移行を管理するチームへのアクセス権を付与する必要があります。 これらの人員は米国市民で、Office 365 US Government サービスのお客様に移行を実行する前に、次のバックグラウンドチェックが行われています。 
   
 ||||
 |:-----|:-----|:-----|
@@ -171,12 +171,12 @@ Office 365 US Government プランのシステム要件については、[office
 |Visio Online  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
 |Yammer Enterprise  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
    
-> <sup>1</sup> Skype for business Basic は、すべてのお客様が利用できます。 skype for business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、skype for business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、G3、および G5 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user.
-<br/><sup>2</sup>含まれていませんが、個別のアドオンとして購入できます。 project online には、サブスクリプションの一部として project online デスクトップクライアントが含まれています。
+> <sup>1</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、G3、および G5 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user.
+<br/><sup>2</sup>含まれていませんが、個別のアドオンとして購入できます。 Project Online には、サブスクリプションの一部として Project Online デスクトップクライアントが含まれています。
 <br/> <sup>3</sup>現時点では GCC High または DoD プランでは利用できませんが、近日中に提供されます。 
-<br/><sup>4</sup> Yammer エンタープライズは office 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンの提案として無償で購入することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD では利用可能ではありません。
+<br/><sup>4</sup> Yammer エンタープライズは OFFICE 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンの提案として無償で購入することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD では利用可能ではありません。
 <br/><sup>5</sup>通話プランはアドオンです。 
-<br/><sup>6</sup>含まれていませんが、個別のアドオンとして購入できます。 visio online には、サブスクリプションの一部として visio online デスクトップクライアントが含まれています。  
+<br/><sup>6</sup>含まれていませんが、個別のアドオンとして購入できます。 Visio Online には、サブスクリプションの一部として Visio Online デスクトップクライアントが含まれています。  
 ## <a name="platform-features"></a>プラットフォーム機能 
 <a name="BM7-Platform"> </a>
 
@@ -298,16 +298,16 @@ Office 365 US Government プランのシステム要件については、[office
 |**[サービス レベル契約](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[製品使用権](../../office-365-platform-service-description/product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
-> <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、office 365 US government G1 または office 365 US government F1 には含まれていません。 > 
+> <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、Office 365 US Government G1 または Office 365 US Government F1 には含まれていません。 > 
 <br/><sup>2</sup>既存の bbcs および BIS お客様は、サービスを引き続き使用できます。 新規のお客様の受け付けはしていません。 
 <br/><sup>3</sup>ディレクトリ同期を使用する場合は、Office 365 ポータルではなく Active directory を使用するか、Windows PowerShell の Azure Active directory モジュールを使用して、アカウントを削除するか、パスワードを変更する必要があります。 
 <br/><sup>4</sup>パスワード同期を使用する場合、ユーザーはローカルの Active Directory でパスワードを変更する必要があります。 
-<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 この場合、パブリック Web サイトが 2 つあっても、どちらか一方のサイトしかカスタム ドメイン名でホストすることができません。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「 [Office web サイトホスティングとパブリック web サイトについて」](https://go.microsoft.com/fwlink/p/?LinkID=325009)を参照してください。 
+<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 この場合、パブリック Web サイトが 2 つあっても、どちらか一方のサイトしかカスタム ドメイン名でホストすることができません。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「365 Office web サイトホスティングとパブリック web サイトについて」を参照してください。 
 <br/><sup>7</sup>年割引を使用して購入された座席は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>8</sup>以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 > Office 365 US government G1 > office 365 us government G3 > office 365 us government K1 <br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
-<br/><sup>10</sup> office 365 US Government G1、G3、および F1、対象指定リリース、および office 365 for business ロードマップが適用されます。ただし、[コンプライアンス要件](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)により、特定のサービス更新に関して何らかの相違や遅延が発生する場合があります。
-<br/><sup>11</sup>まだ Office 365 US Government 製品では利用できませんが、近日中に公開されています。 ><br/><sup>12</sup>含まれていませんが、GCC で個別のアドオンとして購入できます。 
-<br/><sup>13</sup> Office 365 US Government 製品ではサポートされていません。 
+<br/><sup>8</sup>以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 > OFFICE 365 US Government G1 > OFFICE 365 Us Government G3 > OFFICE 365 Us government K1 <br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
+<br/><sup>10</sup> OFFICE 365 US Government G1、G3、および F1、対象指定リリース、および office 365 for business ロードマップが適用されます。ただし、[コンプライアンス要件](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)により、特定のサービス更新に関して何らかの相違や遅延が発生する場合があります。
+<br/><sup>11</sup>まだ OFFICE 365 US Government 製品では利用できませんが、近日中に公開されています。 ><br/><sup>12</sup>含まれていませんが、GCC で個別のアドオンとして購入できます。 
+<br/><sup>13</sup> OFFICE 365 US Government 製品ではサポートされていません。 
 <br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=836894)」を参照してください。 
 <br/><sup>15</sup>現時点では DoD 環境では使用できませんが、近日中に提供されます。 
 <br><sup>16</sup>管理センターには、DoD または GCC の高環境での利用状況分析は含まれていません。
@@ -337,7 +337,7 @@ Office 365 US Government プランのシステム要件については、[office
 |[Android 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
 |[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |Office Mobile for Windows 10 tablets <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
-|iOS および Android 用の Outlook<sup>5、4</sup>  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
+|IOS および Android 用の Outlook<sup>5、4</sup>  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
 |**企業価値** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -370,10 +370,10 @@ Office 365 US Government プランのシステム要件については、[office
 |バージョン アップグレード  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |Volume activation (KMS/MAK)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、office 365 US government G1 または office 365 US government F1 には含まれていません。 
-<br/><sup>2</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
-<br/><sup>3</sup> Skype for business Basic は、すべてのお客様が利用できます。 skype for business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、skype for business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 office 365 ProPlus、および office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれる、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+> <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、Office 365 US Government G1 または Office 365 US Government F1 には含まれていません。 
+<br/><sup>2</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
+<br/><sup>3</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれる、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
 <br/><sup>4</sup>現時点では GCC High または DoD 環境では使用できませんが、近日中に提供されます。
-<br/><sup>5</sup>詳細について[は、「Government Community Cloud で Outlook for iOS と Outlook for Android を使用する](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)」を参照してください。
+<br/><sup>5</sup>詳細について[は、「Government Community Cloud で Outlook For iOS と Outlook For Android を使用する](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)」を参照してください。
   <br/><sup>6</sup> Office 365 DoD 環境ではまだ使用できませんが、近日中に提供されます。
 <br/><br/>[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)

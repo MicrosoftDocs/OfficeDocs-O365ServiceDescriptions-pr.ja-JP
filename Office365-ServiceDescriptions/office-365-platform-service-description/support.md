@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/07/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-support
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Office 365 Enterprise、Business、エデュケーション、および政府のすべてのサブスクリプションで、Microsoft サポートは、グローバルな技術、セールス前、請求書、サブスクリプションサポートを提供します。 サポートは、Office 365 ポータルと、有料サブスクリプションおよび試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Office 365 サポートオプション」を参照してください。
-ms.openlocfilehash: 99d815aae9708951e1012658db52eab1b5f11f98
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+ms.openlocfilehash: 42fd0a816f55f988cab77c2e1b883b4c8902dbae
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663301"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343136"
 ---
 # <a name="support"></a>サポート
 

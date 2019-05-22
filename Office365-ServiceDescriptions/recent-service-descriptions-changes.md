@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 次の表は、サービスの説明の内容に最近加えられた変更の一覧です。
-ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246633"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343596"
 ---
 # <a name="recent-service-descriptions-changes"></a>サービスの説明の最近の変更
 
@@ -42,7 +42,7 @@ ms.locfileid: "33246633"
 |:-----|:-----|:-----|
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |GCC High および DoD の共有機能を明確化しました。  <br/> |
-||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |GCC のトピックに fasttrack セクションを追加しました。  <br/> |
+||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |GCC のトピックに FastTrack セクションを追加しました。  <br/> |
    
 ## <a name="april-2018"></a>2018 年 4 月
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
@@ -14,23 +14,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
-description: 特定の Skype for business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。 詳細については、「Skype for business ライセンスの概要」を参照してください。
-ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 特定の Skype for Business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。 詳細については、「Skype for Business ライセンスの概要」を参照してください。
+ms.openlocfilehash: ba3e2f87f4bc6b6e66e06aa1a7ded86787324a8f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246863"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342396"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
 
 > [!NOTE]
-> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1日に、500座席またはそれ以下の新しい Office 365 お客様は、Microsoft Teams に利用され、Skype for business Online にアクセスすることはできません。 既に Skype for business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行することができます。
+> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1日に、500座席またはそれ以下の新しい Office 365 お客様は、Microsoft Teams に利用され、Skype for Business Online にアクセスすることはできません。 既に Skype for Business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行することができます。
 
 > [!NOTE]
-> Skype for business Online プラン2は、2019年7月1日時点で販売から廃止されました。 これは、インスタントメッセージング、プレゼンス、会議、およびピアツーピア音声およびビデオに対して Skype for business Online プラン2を取得できなくなることを意味します。 これらの機能は、office 365 スイートを含む Teams を含むすべての office 365 製品で引き続きサポートされます。 現在の用語の最後にプランの期限が切れると、これらの機能に継続してアクセスするためには、別のプランに切り替える必要があります。 現在 Skype for business Online プラン2を割り当てられているユーザーに対して、office 365 business Essentials、business Premium、またはその他の office スイートを評価することをお勧めします。 
+> Skype for Business Online プラン2は、2019年7月1日時点で販売から廃止されました。 これは、インスタントメッセージング、プレゼンス、会議、およびピアツーピア音声およびビデオに対して Skype for Business Online プラン2を取得できなくなることを意味します。 これらの機能は、Office 365 スイートを含む Teams を含むすべての Office 365 製品で引き続きサポートされます。 現在の用語の最後にプランの期限が切れると、これらの機能に継続してアクセスするためには、別のプランに切り替える必要があります。 現在 Skype for Business Online プラン2を割り当てられているユーザーに対して、Office 365 Business Essentials、Business Premium、またはその他の Office スイートを評価することをお勧めします。 
 
- **特定の Skype for business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。詳細については、「 [Skype for business ライセンスの概要](https://go.microsoft.com/fwlink/?LinkID=799524)」を参照してください。**
+ **特定の Skype for Business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。詳細については、「 [Skype For business ライセンスの概要](https://go.microsoft.com/fwlink/?LinkID=799524)」を参照してください。**
   
 Skype for Business Online はコミュニケーション サービスであり、いつでも、ほとんどどこからでも人々を会議や会話に参加させることができます。ユーザーはプレゼンスに関する情報にアクセスし、インスタント メッセージ、音声とビデオの通話、豊富なオンライン会議、さまざまな Web 会議機能を使用できます。 
   
@@ -181,13 +181,13 @@ Skype for Business Online のバージョンを選択する場合は、簡易比
 |Microsoft 365 管理センター  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センターの Skype for business Online レポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft 365 管理センターの Skype for Business Online レポート  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. office 365 ProPlus および office 365 Enterprise E3 には、完全な Skype for business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれます。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「 [Clients for Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)for business Online」を参照してください。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus および Office 365 Enterprise E3 には、完全な Skype for Business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれます。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「 [Clients For Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)For business Online」を参照してください。 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>3</sup>ボイスメールを使用するユーザーには、Exchange Online (プラン 2) プランを割り当てる必要があります。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
-<br/><sup>4</sup> Office 365 Enterprise F1 ユーザーは、Skype for business Online プラン2または Enterprise プランのユーザーに招待された場合、共有セッションに参加できます。 
-<br/> <sup>5</sup>電話会議は、office 365 Business Premium、office 365 Enterprise E1、および office 365 Enterprise E3 サブスクリプションプランにアドオンとして追加できます。 
+<br/><sup>4</sup> Office 365 Enterprise F1 ユーザーは、Skype For Business Online プラン2または Enterprise プランのユーザーに招待された場合、共有セッションに参加できます。 
+<br/> <sup>5</sup>電話会議は、Office 365 Business Premium、Office 365 Enterprise E1、および Office 365 Enterprise E3 サブスクリプションプランにアドオンとして追加できます。 
 <br/> <sup>6</sup>電話会議のみをサポートするアドオンとして Office 365 Business Premium サブスクリプションプランに追加できるコミュニケーションクレジット。 
 <br/><sup>7</sup>緊急通話は Mac およびモバイルクライアントでは使用できません。 
 <br/> <sup>8</sup>ユーザーキーを使用すると、組織の暗号化キーを制御し、Office 365 を構成して、Microsoft のデータセンターで保存されているデータを暗号化することができます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://go.microsoft.com/fwlink/?linkid=862702)」を参照してください。 
@@ -286,10 +286,10 @@ Skype for Business Online のバージョンを選択する場合は、簡易比
 |Microsoft 365 管理センター  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |Skype for Business 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センターの Skype for business Online レポート  <br/> |いいえ  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
+|Microsoft 365 管理センターの Skype for Business Online レポート  <br/> |いいえ  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「[クライアントの Skype for business Online のクライアント](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)」を参照してください。> 
-<br/><sup>2</sup>ユーザーが skype for business online プラン2ユーザーに招待された場合、skype for business online プラン1ユーザーは共有セッションに参加できます。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「[クライアントの Skype for Business Online のクライアント](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)」を参照してください。> 
+<br/><sup>2</sup>ユーザーが skype For Business online プラン2ユーザーに招待された場合、Skype For Business online プラン1ユーザーは共有セッションに参加できます。 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan. 

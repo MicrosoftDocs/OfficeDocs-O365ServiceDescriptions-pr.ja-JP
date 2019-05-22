@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - message-and-conversation-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer では次のメッセージおよび会話機能を使用できます。
-ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247163"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342196"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージと会話機能
 

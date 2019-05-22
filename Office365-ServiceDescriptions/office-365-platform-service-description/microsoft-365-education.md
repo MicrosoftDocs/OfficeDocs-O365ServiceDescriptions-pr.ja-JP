@@ -3,19 +3,19 @@ title: Microsoft 365 Education
 ms.author: sharik
 author: skjerland
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247253"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343606"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -103,7 +103,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 > <sup>4</sup> SharePoint Online プラン2が含まれます。 <br/>
 > <sup>5</sup> Project Online Essentials は含まれていませんが、Office 365 教育機関向けプランに無料で追加することができます。 <br/>
 > <sup>6</sup> Microsoft 365 エデュケーション A5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/>
-> <sup>7</sup> Office 365 プランに含まれている azure information protection 機能の詳細については、「 [azure information protection](https://go.microsoft.com/fwlink/?linkid=838357)」を参照してください。 <br/>
+> <sup>7</sup> Office 365 プランに含まれている Azure information protection 機能の詳細については、「 [azure information protection](https://go.microsoft.com/fwlink/?linkid=838357)」を参照してください。 <br/>
 > <sup>8</sup> Intune が含まれます。 <br/>
 > <sup>9</sup>サーバーと cal は、Exchange、SharePoint、および Skype for business に含まれています。 <br/>
 > <sup>10</sup> ecal または Core CAL (購入される A3 のバージョンによって異なります)。 A5 には、ecal 権限が含まれています。 <br/>

@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: The Office 365 Security &amp; Compliance Center is designed to help you manage compliance features across Office 365 for your organization. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a7cb37e0cf8202281f65ffcc6b233bf254619c20
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247213"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343266"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
@@ -35,7 +35,7 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |[脅威の管理](https://go.microsoft.com/fwlink/?linkid=845550)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度な脅威の管理](https://go.microsoft.com/fwlink/?linkid=846673)<sup>6</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[モバイル デバイス管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Exchange online、SharePoint online、OneDrive for business のデータ損失防止](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[Exchange Online、SharePoint Online、OneDrive for business のデータ損失防止](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Microsoft Teams のチャットおよびチャネル会話のデータ損失防止](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/>|
 |[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
@@ -51,7 +51,7 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 <br/><sup>2</sup>高度なデータガバナンスにより、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーに基づいて情報を分類することができます。 これには、ポリシーの推奨、データへのラベルの自動適用、機密性の高いデータ型またはクエリに基づくラベルの適用、廃棄のレビュー、およびスマートインポートフィルターの使用などのインテリジェント/自動アクションが含まれています。 また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。
 <br/><sup>3</sup> 50 GB の制限。 
 <br/><sup>4</sup>無制限。 
-<br/><sup>5</sup> Advanced eDiscovery は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/><sup>6</sup> Advanced Threat Protection は、office 365 enterprise E5 および office 365 enterprise E1 および office 365 enterprise E3 のスタンドアロンサービスとして提供されています。 
+<br/><sup>5</sup> Advanced EDiscovery は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/><sup>6</sup> Advanced Threat Protection は、Office 365 enterprise E5 および Office 365 enterprise E1 および Office 365 enterprise E3 のスタンドアロンサービスとして提供されています。 
   
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -82,10 +82,10 @@ The [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-セキュリティ & コンプライアンスセンターは、21vianet が運用しているすべての Office 365 プランでは利用できません。
+セキュリティ & コンプライアンスセンターは、21Vianet が運用しているすべての Office 365 プランでは利用できません。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Security & コンプライアンスセンターは、Office 365 ドイツで利用できます。 office 365 ドイツの詳細については、「 [office 365 ドイツ](office-365-germany.md)」を参照してください。
+Security & コンプライアンスセンターは、Office 365 ドイツで利用できます。 Office 365 ドイツの詳細については、「 [office 365 ドイツ](office-365-germany.md)」を参照してください。
   
 

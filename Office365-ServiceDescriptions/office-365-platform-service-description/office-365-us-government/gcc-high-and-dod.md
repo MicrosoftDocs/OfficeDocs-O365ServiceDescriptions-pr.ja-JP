@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247113"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343256"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -77,15 +77,15 @@ GCC High および DoD 環境内の Office 365 サブスクリプションには
     
 4. 特定のユーザー
     
-GCC High または DoD 環境で SharePoint Online と OneDrive for business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーとの共有は、GCC High および DoD 環境でのみ (4 番目のオプション)、これらのオプションは、テナントレベルのアクセス制御に基づいて制限することもできます。
+GCC High または DoD 環境で SharePoint Online と OneDrive for Business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーとの共有は、GCC High および DoD 環境でのみ (4 番目のオプション)、これらのオプションは、テナントレベルのアクセス制御に基づいて制限することもできます。
   
-gcc high テナントは、他の gcc high テナントとのみ共有できます。 次に例を示します。
+GCC High テナントは、他の GCC High テナントとのみ共有できます。 次に例を示します。
   
-- gcc high テナント a は、gcc high テナント B と共有できます。
+- GCC High テナント A は、GCC High テナント B と共有できます。
     
-- 非 gcc テナント C は、gcc High テナント A または B と共有できます。
+- 非 GCC テナント C は、GCC High テナント A または B と共有できます。
     
-- gcc high テナント A または B は、非 gcc high テナント C と共有できません。
+- GCC High テナント A または B は、非 GCC High テナント C と共有できません。
     
 また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。 たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC High テナントと同期されます。 ユーザー A がライブラリに移動し、変更について通知を作成します。 通知は Gmail アドレスに送信されません。
   

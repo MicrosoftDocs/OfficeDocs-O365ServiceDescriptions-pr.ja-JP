@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - project-planning
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: project Online では次のプロジェクト計画機能を使用できます。
-ms.openlocfilehash: 059fff81c541cb378688f25d7d09180a8a9d8419
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Project Online では次のプロジェクト計画機能を使用できます。
+ms.openlocfilehash: 52922c7ebf757351cd4f46214a484d7c1a18ba86
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246853"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343706"
 ---
 # <a name="project-planning"></a>プロジェクトの計画
 
-project Online では次のプロジェクト計画機能を使用できます。
+Project Online では次のプロジェクト計画機能を使用できます。
   
 すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
@@ -46,7 +46,7 @@ project Online では次のプロジェクト計画機能を使用できます�
 
 プロジェクトの主要な目標をマイルストーンとしてマークします。[マイルストーンの追加](https://go.microsoft.com/fwlink/p/?LinkId=271339)について詳細情報を参照してください。
   
-## <a name="filtering"></a>フィルター処理
+## <a name="filtering"></a>フィルター
 <a name="bkmk_Filtering"> </a>
 
 計画に含まれる値を使用して、プロジェクト計画をフィルターします。[ユーザー設定フィルターの作成](https://go.microsoft.com/fwlink/p/?LinkId=271341)について詳細情報を参照してください。

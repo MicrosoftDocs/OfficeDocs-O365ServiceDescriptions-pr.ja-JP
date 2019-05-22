@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: 次のレポート機能とビジネスインテリジェンス機能は、Project Online で利用できます。
-ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d5120c03f991665399ee1862a4f9970ee952a548
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246693"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343672"
 ---
 # <a name="reporting-and-business-intelligence"></a>レポートとビジネス インテリジェンス
 

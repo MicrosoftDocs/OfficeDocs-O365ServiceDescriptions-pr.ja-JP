@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-08-2019"></a>2019 年 4 月 8 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2019 年 4 月 10 日 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 2019 年 4 月 10 日 | [Office 365 プランのオプション](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-plan-options) | 更新日時 |
-| 2019 年 4 月 10 日 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新日時 |
-| 2019 年 4 月 10 日 | [Office 365 スイート機能](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-suite-features) | 更新日時 |
-| 2019 年 4 月 10 日 | [ユーザー アカウント管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 更新日時 |
-| 4/11/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 更新日時 |
-| 4/11/2019 | [メッセージング ポリシーとコンプライアンス](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | 更新日時 |
-| 4/11/2019 | [クライアントとモバイル デバイス](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 更新日時 |
-| 4/11/2019 | [コンプライアンス](/Office365/ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc) | 更新日時 |
-| 4/11/2019 | [Microsoft 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/microsoft-365-education) | 更新日時 |
-| 4/11/2019 | [プライバシー、セキュリティ、および透過性](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | 更新日時 |
-| 4/11/2019 | [サービスの更新情報](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | 更新日時 |
-| 4/11/2019 | [IT プロフェッショナル](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | 更新日時 |
-| 4/11/2019 | [サイト](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | 更新日時 |
-| 4/11/2019 | [Exchange Online アーカイブのアーカイブ機能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 更新日時 |
-| 4/11/2019 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
-| 4/11/2019 | [Skype for Business Online サービスの説明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 更新日時 |
-
-
 ## <a name="week-of-april-15-2019"></a>2019 年 4 月 15 日の週
 
 
@@ -35,7 +11,7 @@
 | 4/18/2019 | [クライアントとモバイル デバイス](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 更新日時 |
 | 4/18/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
 | 4/18/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
-| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 更新日時 |
+| 4/18/2019 | [コンテンツ](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 更新日時 |
 
 
 ## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日の週
@@ -84,3 +60,15 @@
 | 5/7/2019 | [Exchange Online サービスの説明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 更新日時 |
 | 5/7/2019 | [サポート](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 更新日時 |
 | 5/7/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
+
+
+## <a name="week-of-may-13-2019"></a>2019年5月13日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 5/13/2019 | [Project Online サービスの説明](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 更新日時 |
+| 5/13/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
+| 5/13/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+| 5/15/2019 | [OneDrive for Business サービスの説明](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 更新日時 |
+| 5/17/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |

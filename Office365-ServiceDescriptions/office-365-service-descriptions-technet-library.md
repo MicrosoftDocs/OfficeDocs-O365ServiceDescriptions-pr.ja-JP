@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 03/14/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246793"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343016"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 サービスの説明  
 
@@ -33,7 +33,7 @@ Microsoft Office 365 は、堅牢なセキュリティ、信頼性、および�
 > [!NOTE]
 > サービスの説明を比較するスプレッドシートをお探しの場合、このスプレッドシートは廃止されました。各サービスの説明ページに記載されている、製品機能の提供状況を示す表が、ニーズに合った Office 365 のバージョンを選択するために役立つように更新されています。 
   
-Microsoft では、対象となるプランに含まれるサービスのために Office 365 用の fasttrack センターの特典を提供しています。 特典を利用すると、Microsoft の専門家とリモートで作業して、Office 365 環境を使用できる状態にすることができます。 詳細については、「[Office 365 用 FastTrack Center 特典](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
+Microsoft では、対象となるプランに含まれるサービスのために Office 365 用の FastTrack センターの特典を提供しています。 特典を利用すると、Microsoft の専門家とリモートで作業して、Office 365 環境を使用できる状態にすることができます。 詳細については、「[Office 365 用 FastTrack Center 特典](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
   
 まず、次のサービスの説明を参照してください。
   
@@ -76,5 +76,5 @@ Microsoft では、対象となるプランに含まれるサービスのため�
   
 ## <a name="disclaimer"></a>免責事項
 
-© 2018 Microsoft Corporation All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。 
+© 2018 Microsoft Corporation. All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。 
   

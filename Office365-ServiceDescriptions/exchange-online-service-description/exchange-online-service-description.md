@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含む Office 365 サブスクリプションの機能の比較をお探しですか。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
-ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
+ms.openlocfilehash: b7beee90d49d9962a0234758ae3f9aba087a226a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33659676"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342766"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -170,7 +170,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |Outlook アドインと Outlook MAPI|Yes (<sup>19</sup> )|はい|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|いいえ|
 
 > [!NOTE]
-> <sup>1</sup>クラウドベースのアーカイブがある社内メールボックスユーザーごとに、Exchange Online ARCHIVE (eoa) のサブスクリプションが必要です。 <br/>
+> <sup>1</sup>クラウドベースのアーカイブがある社内メールボックスユーザーごとに、Exchange Online archive (eoa) のサブスクリプションが必要です。 <br/>
 <sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
 <sup>3</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 <br/>
 <sup>4</sup>トランスポートルールは、柔軟な条件で構成されており、条件と例外、および条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 <br/>
@@ -305,7 +305,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 <sup>2</sup>社内での exchange ホスト型スパムフィルターの利点については、「exchange [Server 2013 経由の exchange Online Protection のスパム対策機能のメリット](https://go.microsoft.com/fwlink/p/?LinkId=271726)」を参照してください。 <br/>
 <sup>3</sup> SharePoint をオンプレミスの Exchange 組織に展開する必要があります。 <br/>
 <sup>4</sup> Office 365 のサブスクリプションプランには、SharePoint Online が含まれている必要があります。 <br/>
-<sup>5</sup>クラウドベースのアーカイブがある社内メールボックスユーザーごとに、Exchange Online ARCHIVE (eoa) のサブスクリプションが必要です。 <br/>
+<sup>5</sup>クラウドベースのアーカイブがある社内メールボックスユーザーごとに、Exchange Online archive (eoa) のサブスクリプションが必要です。 <br/>
 <sup>6</sup> eoa サブスクリプションは、非アクティブなメールボックス機能が必要なメールボックスごとに個別に購入できます。 <br/>
 <sup>7</sup> Exchange Server 2013 は、Microsoft マルウェア対策エンジンのみを使用します。 Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 <br/>
 <sup>8</sup> Exchange 管理センター (EAC) 管理インターフェイスに直接アクセスすることによってのみアクセス可能です。 <br/>

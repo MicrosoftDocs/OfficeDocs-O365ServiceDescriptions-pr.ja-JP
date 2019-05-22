@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/01/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
-ms.openlocfilehash: f8b3a1a04956a94eb9dccd7b14078fd5b926ec03
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544953"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342996"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 
@@ -70,15 +70,15 @@ Excel や Word などの一部の Office アプリケーションでは、既定
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-IPad および iPhone 用 Office Mobile には、Word for iPad/iPhone、Excel for iPad/iPhone、PowerPoint for iPad/iPhone など、お気に入りの Office アプリが含まれています。 アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、iPad または iPhone でドキュメントの作成と編集ができます。 詳細については、「 [iOS デバイスで Office アプリとメールをセットアップ](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)する」を参照してください。
+IPad および iPhone 用 office Mobile には、Word for iPad/iPhone、Excel for iPad/iPhone、PowerPoint for iPad/iPhone など、お気に入りの Office アプリが含まれています。 アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、iPad または iPhone でドキュメントの作成と編集ができます。 詳細については、「 [iOS デバイスで Office アプリとメールをセットアップ](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)する」を参照してください。
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Android 用 Office Mobile には、Word for Android、Excel for Android、PowerPoint for Android など、お気に入りの Office アプリが含まれています。 アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、Android デバイスでドキュメントの作成と編集ができます。 詳細については、「 [Android で Office アプリとメールをセットアップ](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)する」を参照してください。
+Android 用 office Mobile には、Word for Android、Excel for Android、PowerPoint for Android など、お気に入りの Office アプリが含まれています。 アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、Android デバイスでドキュメントの作成と編集ができます。 詳細については、「 [Android で Office アプリとメールをセットアップ](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)する」を参照してください。
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Windows phone 用 Office Mobile には、Word for Windows Phone、Excel for windows phone、PowerPoint for windows phone など、お気に入りの Office アプリが含まれています。 アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、Windows Phone でドキュメントの作成と編集ができます。 詳細については、「 [Windows Phone で Office アプリとメールをセットアップ](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)する」を参照してください。
+Windows phone 用 office Mobile には、Word for Windows Phone、Excel for windows phone、PowerPoint for windows phone など、お気に入りの Office アプリが含まれています。 アプリは無料でダウンロードでき、該当する Office 365 プランがあれば、Windows Phone でドキュメントの作成と編集ができます。 詳細については、「 [Windows Phone で Office アプリとメールをセットアップ](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)する」を参照してください。
 
 ## <a name="office-for-windows-10-mobile"></a>Windows 10 Mobile の Office
 

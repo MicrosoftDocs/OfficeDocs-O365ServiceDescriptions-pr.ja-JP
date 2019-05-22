@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: powerpoint Online (以前の powerpoint Web App) は、Microsoft powerpoint の機能を web ブラウザーにまで拡張します。ここでは、プレゼンテーションが保存されている web サイトでプレゼンテーションを直接操作できます。 Microsoft office 365 office Online を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: PowerPoint Online (以前の PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。ここでは、プレゼンテーションが保存されている web サイトでプレゼンテーションを直接操作できます。 Microsoft Office 365 Office Online を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246943"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343746"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-powerpoint Online (以前の powerpoint Web App) は、Microsoft powerpoint の機能を web ブラウザーにまで拡張します。ここでは、プレゼンテーションが保存されている web サイトでプレゼンテーションを直接操作できます。 Microsoft office 365 office Online を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
+PowerPoint Online (以前の PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。ここでは、プレゼンテーションが保存されている web サイトでプレゼンテーションを直接操作できます。 Microsoft Office 365 Office Online を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
   
 PowerPoint エディターは、ブラウザーベースの編集画面を作成する web フロントエンドコンポーネントです。これにより、ユーザーは忠実に作業を失うことなく、ドキュメントを操作できます。
   
-powerpoint Online のツールバーの [ **powerpoint で開く**] ボタンをクリックすると、powerpoint デスクトップアプリでプレゼンテーションが開きます (コンピューターに Microsoft PowerPoint 2010 以降がインストールされている場合)。 
+Powerpoint Online のツールバーの [ **powerpoint で開く**] ボタンをクリックすると、powerpoint デスクトップアプリでプレゼンテーションが開きます (コンピューターに Microsoft PowerPoint 2010 以降がインストールされている場合)。 
   
 方法については、「[一般法人向け Office 365 を使って PC に Office をダウンロードしてインストールする](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)」を参照してください。
   
@@ -240,7 +240,7 @@ PowerPoint Online で何かを成し遂げる必要があるが、その方法�
 ## <a name="view-and-add-comments"></a>コメントの表示と追加
 <a name="bkmk_Viewaddcomments"> </a>
 
-ファイルが SharePoint Online または OneDrive for business に保存されている場合は、コメントを追加、編集、または削除することができます。 
+ファイルが SharePoint Online または OneDrive for Business に保存されている場合は、コメントを追加、編集、または削除することができます。 
   
 ファイルが OneDrive に保存されている場合は、編集ビューでコメントを追加、編集、または削除することができます。また、閲覧表示中にコメントを表示して更新することもできます。
   

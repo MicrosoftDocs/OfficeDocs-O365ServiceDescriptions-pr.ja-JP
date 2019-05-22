@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/13/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973355"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342977"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -41,7 +41,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Project Online  <br/> |<sup>3</sup>なし <br/> |<sup>3</sup>なし <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Yammer エンタープライズ  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection  <br/> |不要  <br/> |はい<sup>4</sup> <br/> |
+|Azure Information Protection  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |
 |[Office 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md) <br/> |||
 |Microsoft Bookings  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |はい  <br/> |

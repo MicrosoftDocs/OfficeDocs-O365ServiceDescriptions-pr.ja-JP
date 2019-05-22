@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246233"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342726"
 ---
 # <a name="clients-and-mobile-devices"></a>クライアントとモバイル デバイス
 
@@ -36,7 +36,7 @@ Microsoft Outlook は、予定表、連絡先、タスク、および以下の�
 Exchange 2016 と Exchange Online でサポートされている Outlook クライアントの詳細については、「[Exchange 2016 のシステム要件](https://go.microsoft.com/fwlink/?LinkID=828972)」の「サポートされるクライアント」を参照してください。
   
 > [!IMPORTANT]
->  Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft Office Pro Plus (Microsoft Outlook を含みます) は、一部の Office 365 プランに含まれている他、個別のサブスクリプションとしても購入できます。 pop を使用して Exchange Online の電子メールアカウントに接続する場合は、次の制限があります。 > ない予定表情報 > no free/busy 情報 > no free/busy information POP 経由で接続するときに、すべてのメッセージがダウンします。クライアントに対して実行されており、複数のコンピューターまたはデバイス (ノート pc と電話間など) 間の同期はありません。 
+>  Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft Office Pro Plus (Microsoft Outlook を含みます) は、一部の Office 365 プランに含まれている他、個別のサブスクリプションとしても購入できます。 POP を使用して Exchange Online の電子メールアカウントに接続する場合は、次の制限があります。 > ない予定表情報 > no free/busy 情報 > no free/busy information POP 経由で接続するときに、すべてのメッセージがダウンします。クライアントに対して実行されており、複数のコンピューターまたはデバイス (ノート pc と電話間など) 間の同期はありません。 
   
 ## <a name="outlook-on-the-web"></a>Outlook on the web
 
