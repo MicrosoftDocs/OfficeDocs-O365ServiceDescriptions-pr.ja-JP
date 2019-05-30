@@ -3,7 +3,7 @@ title: Microsoft 365 Business サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/29/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
+ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342977"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34493495"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -119,7 +119,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |||||
 |:-----|:-----|:-----|:-----|
 |**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
-|Office 365 多要素認証 (MFA)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Azure 多要素認証 (MFA)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |管理単位  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Discovery  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |動的グループ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -133,6 +133,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Connect Health  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|条件付きアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**デバイスとアプリケーションの管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |モバイルデバイス管理 (MDM)<sup>15</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -169,14 +170,14 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 <br/><sup>4</sup> Azure Information Protection (AIP) は、サポートされている Information Rights Management (IRM) 機能を有効にします。 AIP プラン 1 は、Microsoft 365 Business に含まれています。 
 <br/><sup>5</sup> Microsoft Teams は、Microsoft 365 Business、Office 365 Business Essentials、Office 365 Business Premium、Office 365 Enterprise (E1、E3、E5、F1) で利用できます。 現時点で、Office 365 Education プランではまだ利用できません。 
 <br/><sup>6</sup> Azure Information Protection (AIP) は、サポートされている Information Rights Management (IRM) 機能を有効にします。 AIP プラン 1 は、Microsoft 365 Business に含まれています。 
-<br/><sup>7</sup> ディレクトリ同期を有効にするための Azure AD Connect ツールは、Microsoft 365 Business のコンポーネントである Office 365 Business Premium でサポートされています。 ただし、Windows 管理コンポーネントが Microsoft 365 Business に対して有効である場合、Azure AD に参加させる必要があります。 オンプレミスの Active Directory 環境があり、ドメイン参加済みデバイスを Azure AD に参加させたい場合、「 [ハイブリッド Azure Active Directory 参加済みデバイスの構成方法](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)」の手順に従うことで実現できます。 
+<br/><sup>7</sup> ディレクトリ同期を有効にするための Azure AD Connect ツールは、Microsoft 365 Business のコンポーネントである Office 365 Business Premium でサポートされています。 ただし、Windows 管理コンポーネントが Microsoft 365 Business に対して有効である場合、Azure AD に参加させる必要があります。 オンプレミスの Active Directory 環境があり、ドメイン参加済みデバイスを Azure AD に参加させたい場合、「 [ハイブリッド Azure Active Directory 参加済みデバイスの構成方法](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)」の手順に従うことで実現できます。 
 <br/><sup>8</sup> ローカル Active Directory でディレクトリ同期を使用する場合、アカウントを削除するか、パスワードを変更する必要があります。 
-<br/><sup>9</sup>クラウド id のみ。 「[ユーザーが Office 365 で自分のパスワードをリセットできるように](https://go.microsoft.com/fwlink/?linkid=852917)する」を参照してください。 
+<br/><sup>9</sup>クラウド id のみ。 「[ユーザーが Office 365 で自分のパスワードをリセットできるように](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords)する」を参照してください。 
 <br/><sup>10</sup> 長期割引で購入したシートを減らすと、早期解約手数料を徴収される場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>11</sup> Microsoft 365 Business には、Exchange Online Archiving サブスクリプションが含まれます。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=863320)」をご覧ください。 
-<br/><sup>12</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://go.microsoft.com/fwlink/?linkid=863349)」を参照してください。 
+<br/><sup>11</sup> Microsoft 365 Business には、Exchange Online Archiving サブスクリプションが含まれます。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」をご覧ください。 
+<br/><sup>12</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 
 <br/><sup>13</sup> Advanced 電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)
-<br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://go.microsoft.com/fwlink/?linkid=863490)」を参照してください。
+<br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。
 <br/><sup>15</sup>では、Microsoft 365 管理センターに組み込まれている Windows 10 デバイスの管理が簡単になりました。 IOS、Android、macOS、およびデバイス管理管理センターに組み込まれているその他のクロスプラットフォームデバイス管理の Intune 管理機能。また、Microsoft 365 Business での使用がライセンスされています。 サードパーティ製のアプリと Wi-fi プロファイルや VPN 証明書などの構成は、デバイス管理管理センターでも管理することができます。 
 <br/><sup>16</sup>このプランには、ビデオポータル、テキストの音声入力、高度な検索、顔検出などの Microsoft Stream plan 2 が付属しています。
 <br/><sup>17</sup> Microsoft 365 管理センターに組み込まれている Windows 10 のデバイス管理ポリシーと Intune アプリ保護ポリシーをシンプルにしました。
