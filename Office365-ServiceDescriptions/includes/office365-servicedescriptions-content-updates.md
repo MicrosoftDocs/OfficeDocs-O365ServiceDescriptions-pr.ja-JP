@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 4/24/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
-| 4/26/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
-| 4/26/2019 | [サービスの正常性および継続性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 更新日時 |
-| 4/26/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
-| 4/26/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
-
-
 ## <a name="week-of-april-29-2019"></a>2019年4月29日の週
 
 
@@ -176,3 +164,12 @@
 | 5/21/2019 | [Yammer のサポート機能](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | 更新日時 |
 | 5/21/2019 | [Yammer のプラットフォーム機能](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | 更新日時 |
 | 5/21/2019 | [Yammer サービスの説明](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | 更新日時 |
+
+
+## <a name="week-of-may-27-2019"></a>2019年5月27日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 5/28/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
+| 5/31/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
