@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise プランとスタンドアロン プランの場合の SharePoint Online の制限について説明します。
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742156"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780666"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online の制限 
 
@@ -30,15 +30,13 @@ Office 365 プランと SharePoint Online スタンドアロン プランの場�
 |1 組織あたりのサイト コレクション  <br/> |100万<sup>6</sup> <br/> |100万<sup>6</sup> <br/> |100 万<br/> |
 |ユーザー数  <br/> |最大 300  <br/> |1 から 500,000<sup>7</sup> <br/> |1 から 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup>追加の SharePoint ストレージを無制限に購入できます。 「 [サブスクリプションの記憶域を変更する](/office365/admin/subscriptions-and-billing/add-storage-space)」を参照してください。 
+<sup>1</sup>追加の SharePoint ストレージを無制限に購入できます。 「 [サブスクリプションの記憶域を変更する](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)」を参照してください。 
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用する記憶領域は、組織の記憶域の合計の制限の一部です。 
-<br/> <sup>3</sup> Office 365 サブスクリプションと SharePoint Online スタンドアロン プランを持っている場合は、ストレージ容量が追加されます。  
-<br/> <sup>4</sup>これは、サイトコレクションごとに提供される記憶域の量ではなく、1つのサイトコレクションの記憶域の制限です。 この制限は、Office 365 グループに接続されたチームサイトと OneDrive を含む、すべての種類のサイトコレクションに適用されます。 SharePoint 管理者は、[より低い記憶域制限を手動で設定](/sharepoint/manage-site-collection-storage-limits)できます。 
+<br/> <sup>3</sup> office 365 サブスクリプションと office 365 追加のファイル記憶域アドオンがある場合は、ストレージ容量が追加されます。 
+<br/> <sup>4</sup>これは、サイトコレクションごとに提供される記憶域の量ではなく、1つのサイトコレクションの記憶域の制限です。 この制限は、Office 365 グループに接続されたチームサイトと OneDrive を含む、すべての種類のサイトコレクションに適用されます。 SharePoint 管理者は、[より低い記憶域制限を手動で設定](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)できます。 
 <br/> <sup></sup>最初の1行のワーカーは SharePoint サイトコレクションを管理できません。 
 <br/> <sup>6</sup>ライセンスユーザーごとに作成された OneDrive は含まれません。 
 <br/> <sup>7</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>すべてのプランのサービスの制限
 
@@ -68,8 +66,8 @@ Office 365 プランと SharePoint Online スタンドアロン プランの場�
 - **ユーザー** - サイト コレクションあたり 200 万。
 
 > [!NOTE]
-> SharePoint サイトコレクションに招待できるゲストの数に制限はありません。 外部共有の詳細については、「[外部共有の概要](/sharepoint/external-sharing-overview)」を参照してください。
+> SharePoint サイトコレクションに招待できるゲストの数に制限はありません。 外部共有の詳細については、「[外部共有の概要](https://docs.microsoft.com/sharepoint/external-sharing-overview)」を参照してください。
 
 ## <a name="see-also"></a>関連項目
 
-[SharePoint Online の検索制限](/sharepoint/search-limits)
+[SharePoint Online の検索制限](https://docs.microsoft.com/sharepoint/search-limits)

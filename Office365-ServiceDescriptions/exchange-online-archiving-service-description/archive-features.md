@@ -3,7 +3,6 @@ title: Exchange Online Archiving のアーカイブ機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/11/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: 3c11d5a9fccb05f027e5030c34eb9171295bfb1b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7cbaaf81106084795630ced11837f4f9a56dcf85
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341916"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780676"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving のアーカイブ機能
 
@@ -30,10 +29,11 @@ ms.locfileid: "34341916"
 
 Exchange Online Archiving は、アーカイブ メールボックス機能を使用した高度なアーカイブ機能をユーザーに提供します。アーカイブ メールボックスは、Outlook または Outlook Web App でユーザーのプライマリ メールボックス フォルダーと一緒に表示される特殊なメールボックスです。ユーザーは、プライマリ メールボックスと同じ方法でアーカイブにアクセスできます。加えて、アーカイブとプライマリ メールボックスの両方を検索することができます。
   
-管理者は、Exchange 管理センター (EAC) またはリモート Windows PowerShell を使用して特定のユーザーのアーカイブ機能を有効にすることができます。詳細については、「[Exchange Online のアーカイブ メールボックスを有効または無効にする](https://go.microsoft.com/fwlink/p/?LinkId=404425)」を参照してください。
+管理者は、Exchange 管理センター (EAC) またはリモート Windows PowerShell を使用して特定のユーザーのアーカイブ機能を有効にすることができます。詳細については、「[Exchange Online のアーカイブ メールボックスを有効または無効にする](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)」を参照してください。
   
 > [!IMPORTANT]
->  アーカイブの目的で、ジャーナリング、トランスポート ルール、または自動転送ルールを使用して Exchange Online Archiving にメッセージをコピーすることは許可されていません。 >  ユーザーのアーカイブ メールボックスは、そのユーザー専用です。Microsoft は、ユーザーのアーカイブ メールボックスを使用して他のユーザーのアーカイブ データを格納する、インスタンスでの無制限アーカイブを拒否する権利を有します。 
+>  アーカイブの目的で、ジャーナリング、トランスポート ルール、または自動転送ルールを使用して Exchange Online Archiving にメッセージをコピーすることは許可されていません。 <br/>
+>  ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブ メールボックスを使用して他のユーザーのアーカイブ データを格納する、インスタンスでの無制限アーカイブを拒否する権利を有します。 
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving へのメッセージの移動
 
@@ -49,10 +49,10 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
     
 - 電子メールメッセージをプライマリ メールボックスからアーカイブにドラッグします。
     
-- アーカイブ ポリシーを利用して、電子メール メッセージをその保存期間に基づいてプライマリ メールボックスから自動的に移動します。詳細については、「[保持タグおよびアイテム保持ポリシー](https://go.microsoft.com/fwlink/p/?LinkId=314153)」を参照してください。
+- アーカイブ ポリシーを利用して、電子メール メッセージをその保存期間に基づいてプライマリ メールボックスから自動的に移動します。詳細については、「[保持タグおよびアイテム保持ポリシー](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)」を参照してください。
     
 > [!NOTE]
-> 管理者は、ユーザーのクラウドベースのアーカイブ メールボックスに .pst ファイルをインポートするため Office 365 インポート サービスを使用することもできます。詳細については、「[ネットワーク アップロードを使用して PST ファイルを Office 365 にインストールする](https://go.microsoft.com/fwlink/p/?linkid=823074)」を参照してください。 
+> 管理者は、ユーザーのクラウドベースのアーカイブ メールボックスに .pst ファイルをインポートするため Office 365 インポート サービスを使用することもできます。詳細については、「[ネットワーク アップロードを使用して PST ファイルを Office 365 にインストールする](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)」を参照してください。 
   
 ## <a name="deleted-item-recovery"></a>削除済みアイテムの回復
 
@@ -60,10 +60,11 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 アーカイブの [削除済みアイテム] フォルダーからアイテムが削除されると、さらに 14 日間アーカイブの回復可能なアイテム フォルダー内に保存されてから、完全に削除されます。ユーザーは、これらのアイテムを Microsoft Outlook または Outlook Web App の **[削除済みアイテムの回復]** 機能を使用して回復できます。 
   
-ユーザーが回復可能なアイテム フォルダーからアイテムを手動で削除した場合、管理者は単一アイテムの回復と呼ばれる機能を使って同じ 14 日間の期間内にアイテムを回復できます。管理者は、この機能を使用して、複数のメールボックスを検索して削除されたアイテムを検索してから、 `Search-Mailbox` Windows PowerShell コマンドレットを使用してそれらのアイテムを探索メールボックスからユーザーのメールボックスに移動できます。詳細については、「 [メールボックスの単一アイテムの回復を有効または無効にする](https://go.microsoft.com/fwlink/p/?LinkId=314155)」を参照してください。
+ユーザーが回復可能なアイテム フォルダーからアイテムを手動で削除した場合、管理者は単一アイテムの回復と呼ばれる機能を使って同じ 14 日間の期間内にアイテムを回復できます。管理者は、この機能を使用して、複数のメールボックスを検索して削除されたアイテムを検索してから、 `Search-Mailbox` Windows PowerShell コマンドレットを使用してそれらのアイテムを探索メールボックスからユーザーのメールボックスに移動できます。詳細については、「 [メールボックスの単一アイテムの回復を有効または無効にする](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)」を参照してください。
   
 > [!NOTE]
->  既定で、単一アイテムの回復期間は 14 日間ですが、一部の環境ではカスタマイズができます。 >  管理者がユーザーのメールボックスでインプレース保持または訴訟ホールドを設定にしている場合は、削除されたアイテムが無期限に保存されるため、14 日間の期間が適用されません。 
+>  既定で、単一アイテムの回復期間は 14 日間ですが、一部の環境ではカスタマイズができます。 <br/>
+>  管理者がユーザーのメールボックスをインプレース保持または訴訟ホールドの対象にしている場合、削除されたアイテムは無期限に保持されるため、14日間の期間は適用されません。 
   
 ## <a name="deleted-mailbox-recovery"></a>削除済みメールボックスの回復
 

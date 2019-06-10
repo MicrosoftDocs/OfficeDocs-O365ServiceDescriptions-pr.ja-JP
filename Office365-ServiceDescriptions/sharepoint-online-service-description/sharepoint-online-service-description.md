@@ -3,7 +3,6 @@ title: SharePoint Online サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「SharePoint とは」を参照してください。
-ms.openlocfilehash: cb5fece44554d57ee019b298fcf2aa9938cd6c48
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341836"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780706"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
 Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「 [SharePoint とは](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)」を参照してください。
   
-各プランの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&clcid=0x409)」をご覧ください。
+各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。
   
 ## <a name="whats-new"></a>新機能
 
@@ -147,7 +146,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[Office Online (表示)](content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office ProPlus  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Office Web Apps サーバーの統合](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |はい  <br/> |はい  <br/> |
-|[アイテム保管ライブラリ](content.md#preservation-hold-library) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[アイテム保管ライブラリ](content.md#preservation-hold-library) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[発行分析](content.md#publishing-analytics) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[クイック編集](content.md#quick-edit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[レコードの管理](content.md#records-management) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -234,23 +233,23 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[追加のストレージ](add-ons.md#additional-storage) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Azure 対応アプリ:Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Azure 対応アプリ:Azure ライトウェイト Web ロール (LWR) のカスタム コード](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-> [!NOTE]
-> <sup>1</sup> フォルダー同期を使うには、Office2013 以降 (Standard や Professional エディション) または Office アプリケーションを含む Office 365 サブスクリプションが必要です。 Office 365 Business Essentials、Office 365 Enterprise E1、Office 365 Education プランには、Office デスクトップ アプリケーションのサブスクリプションは含まれていません。 ただし、Office2013 以降がインストールされていて、これらのプランのいずれかにサブスクライブしている場合は、フォルダー同期を使うことができます。 
-<br/><sup>2 つ</sup>の firstline ワーカーには、OneDrive for business の機能が制限されています。 Firstline ワーカーは 2 GB のストレージを受け取り、デスクトップ同期機能はありません。 最初の行のアカウントには OneDrive for business の個人用サイトが含まれていないため、1 TB または 5 TB のオンラインストレージを使用した OneDrive for Business の個人用ライブラリを利用するメリットはありません。
-<br/> <sup>3</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. 
-<br/><sup>4</sup>最初の回線ワーカーが管理者になることができないため、firstline ワーカーを使用するテナントには、管理センターにアクセスするためのエンタープライズユーザーが少なくとも1人必要です。 
-<br/><sup>5</sup> SharePoint Online のお客様は、ランク付けモデルを作成およびカスタマイズするために、無料のランク付けモデルチューニングアプリをダウンロードしてインストールする必要があります。 
-<br/> <sup>6</sup>電子情報開示機能を使用する場合、その機能を許可するプランのライセンス要件は、電子情報開示の操作 (検索、保留、エクスポート) の一部であるすべてのエンドユーザーに適用されます。 
-<br/><sup>7</sup>認証された SharePoint Online ユーザーは、ファセットナビゲーション付きのプライベートサイトコレクションにアクセスできます。 
-<br/><sup>8</sup>一部のプロバイダーは、お住まいの国/地域ではブロックされる場合があります。 
-<br/> <sup>9</sup>組織外のユーザーと電子メールでドキュメント、ライブラリ、またはサイトを共有します。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. 組織外のユーザーと共有しようとするユーザーは、同じ警告メッセージを受け取ります。 
-<br/><sup>10</sup>ドキュメントは任意のモバイルブラウザーで表示できます。 ドキュメントの編集には、Office Mobile アプリをインストールする必要があります。 現在 Office Mobile は、Windows Phone とタブレット、Android Phone とタブレット、iPhone、iPad で使用できます。 
-<br/><sup>11</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。 
-<br/> <sup>12</sup>ブログでコメントを追加することはできません。 
-<br/> <sup>13</sup>組織コミュニティの web サイトは利用可能ですが、パブリックコミュニティ提供のヘルプは利用できません。 
-<br/><sup>14</sup> Access 2010 はサポートされていません。 
-<br/> <sup>15</sup> office online では、F1 ユーザーはコンテンツを作成するために office online (ライブタイル) にアクセスできる必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
-<sup>16</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 
-<br/><sup>17</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/><sup>18</sup> f1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 
-<br/><sup>19</sup>ユーザーキーは Office 365 Enterprise E5 で利用できます。 カスタマー キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにおける保存データの暗号化に使用するよう Office 365 を構成できます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)」を参照してください。 
-<br/><sup>20</sup>は近日中に予定されています。 
+
+<sup>1</sup> フォルダー同期を使うには、Office2013 以降 (Standard や Professional エディション) または Office アプリケーションを含む Office 365 サブスクリプションが必要です。 Office 365 Business Essentials、Office 365 Enterprise E1、Office 365 Education プランには、Office デスクトップ アプリケーションのサブスクリプションは含まれていません。 ただし、Office2013 以降がインストールされていて、これらのプランのいずれかにサブスクライブしている場合は、フォルダー同期を使うことができます。 <br/>
+<sup>2 つ</sup>の firstline ワーカーには、OneDrive for business の機能が制限されています。 Firstline ワーカーは 2 GB のストレージを受け取り、デスクトップ同期機能はありません。 最初の行のアカウントには OneDrive for business の個人用サイトが含まれていないため、1 TB または 5 TB のオンラインストレージを使用した OneDrive for Business の個人用ライブラリを利用するメリットはありません。<br/> 
+<sup>3</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
+<sup>4</sup>最初の回線ワーカーが管理者になることができないため、firstline ワーカーを使用するテナントには、管理センターにアクセスするためのエンタープライズユーザーが少なくとも1人必要です。 <br/>
+<sup>5</sup> SharePoint Online のお客様は、ランク付けモデルを作成およびカスタマイズするために、無料のランク付けモデルチューニングアプリをダウンロードしてインストールする必要があります。 <br/> 
+<sup>6</sup>電子情報開示機能を使用する場合、その機能を許可するプランのライセンス要件は、電子情報開示の操作 (検索、保留、エクスポート) の一部であるすべてのエンドユーザーに適用されます。 <br/>
+<sup>7</sup>認証された SharePoint Online ユーザーは、ファセットナビゲーション付きのプライベートサイトコレクションにアクセスできます。 <br/>
+<sup>8</sup>一部のプロバイダーは、お住まいの国/地域ではブロックされる場合があります。 <br/> 
+<sup>9</sup>組織外のユーザーと電子メールでドキュメント、ライブラリ、またはサイトを共有します。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. 組織外のユーザーと共有しようとするユーザーは、同じ警告メッセージを受け取ります。 <br/>
+<sup>10</sup>ドキュメントは任意のモバイルブラウザーで表示できます。 ドキュメントの編集には、Office Mobile アプリをインストールする必要があります。 現在 Office Mobile は、Windows Phone とタブレット、Android Phone とタブレット、iPhone、iPad で使用できます。 <br/>
+<sup>11</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。 <br/> <sup>12</sup>ブログでコメントを追加することはできません。 <br/> 
+<sup>13</sup>組織コミュニティの web サイトは利用可能ですが、パブリックコミュニティ提供のヘルプは利用できません。 <br/>
+<sup>14</sup> Access 2010 はサポートされていません。 <br/> 
+<sup>15</sup> office online では、F1 ユーザーはコンテンツを作成するために office online (ライブタイル) にアクセスできる必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
+<sup>16</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 <br/>
+<sup>17</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
+<sup>18</sup> f1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 <br/>
+<sup>19</sup>ユーザーキーは Office 365 Enterprise E5 で利用できます。 カスタマー キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにおける保存データの暗号化に使用するよう Office 365 を構成できます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
+<sup>20</sup>は近日中に予定されています。 
