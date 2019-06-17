@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「SharePoint とは」を参照してください。
-ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780706"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931129"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
@@ -62,6 +62,9 @@ OneDrive for Business (従来の SkyDrive Pro) は社員向けの個人用オン
 <a name="bkmk_tableo365"> </a>
 
 SharePoint 機能が Office 365 プランで利用可能かどうかを確認するには、次の表を使用してください。 
+
+> [!TIP]
+> このテーブル内の一部の列が非表示になっている可能性があります。 表の下部にあるスクロールバーを使用して、右にスクロールし、追加の列を表示します。
   
 ****
 

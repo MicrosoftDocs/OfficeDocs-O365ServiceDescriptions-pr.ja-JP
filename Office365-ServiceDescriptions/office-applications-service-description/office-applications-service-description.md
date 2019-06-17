@@ -3,7 +3,6 @@ title: Office アプリケーション サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343096"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931139"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -90,7 +89,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|<sup>9</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Office 365 または Office 2019 をインストールすると、既定で Windows 10 の OneNote が取得されます。 詳細については、「 [Office 2019 での OeNOte についてよく寄せられる質問](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
+><sup>+</sup>Office 365 または Office 2019 をインストールすると、既定で Windows 10 の OneNote が取得されます。 詳細については、「 [Office 2019 の OneNote に関してよく寄せられる質問](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
 ><sup>++</sup>OneNote アプリは、SharePoint Server、SharePoint Online、OneDrive for Business、および Office 365 上のノートブックへのアクセスを可能にします。 <br/>
 ><sup>+++</sup>BHO support は、Internet Explorer の拡張技術です。 <br/>
 ><sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。<br/>
