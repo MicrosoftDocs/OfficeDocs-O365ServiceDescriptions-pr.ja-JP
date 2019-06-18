@@ -3,7 +3,6 @@ title: Office Online サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343785"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018309"
 ---
 # <a name="office-online-service-description"></a>Office Online サービスの説明
 
 Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office Online を使用すると、インターネットに接続できる場所であればどこからでも、ほぼすべてのデバイスから、Office ファイルを作成し、共有できるようになります。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。 
   
-各プランの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
+各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。
   
 ## <a name="feature-availability-across-office-online-plans"></a>Office Online の各プランで利用できる機能
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 組織に最適な Office ソリューションをお探しですか?次の表では、Office Online の各機能と、豊富な機能を持つ Microsoft Office デスクトップ アプリを比較しています。この表を使用して Office Online で使用可能な機能を探し、その機能の名前をクリックすると、機能の簡単な説明を読むことができます。組織内には、Excel デスクトップ アプリの高度な図表機能を必要とする人もいれば、Office Online で Word 文書と PowerPoint プレゼンテーションを簡単に表示し、編集できればいいという人もいるかもしれません。 
   
 > [!NOTE]
->  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。 >  Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。 >  Microsoft Office Online Server をオンプレミスで使用しているお客様は、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入している場合、Office Online の編集ライセンスを取得します。 
+>  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。<br/>  Microsoft Office Online Server オンプレミスのお客様が office デスクトップスイートライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入している場合は、Office Online の編集ライセンスを取得します。 
   
 > [!NOTE]
 > Office ドキュメントを Outlook 電子メール添付ファイルとして、または SharePoint ドキュメント ライブラリから開くと、Office Online で読み取り専用のドキュメントとして開かれます。Office Online (編集モード) でドキュメントを編集するには、Office 365 Enterprise E1 などの Office 365 スイート ライセンスが必要です。デスクトップ アプリケーションでドキュメントを編集するには、Office 365 ProPlus のサブスクリプションや、インストール バージョンの Office Professional Plus 2010 などの Office デスクトップ スイートのライセンスを必要としています。 
@@ -45,7 +44,7 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |**アプリケーション機能** <br/> |**Word Online** <br/> |**Word デスクトップ アプリ** <br/> |
 |[位置揃えガイドと忠実なレイアウト](word-online.md#alignment-guides-and-live-layout) <br/> |いいえ  <br/> |はい  <br/> |
 |[スタイルの適用](word-online.md#apply-styles) <br/> |はい  <br/> |はい  <br/> |
-|[自動保存](word-online.md#autosave) <br/> |いいえ  <br/> |はい  <br/> |
+|[自動保存](word-online.md#autosave) <br/> |はい  <br/> |はい  <br/> |
 |[定型句](word-online.md#autotext) <br/> |はい  <br/> |はい  <br/> |
 |[プロがデザインしたテンプレートの参照と利用](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |はい  <br/> |はい  <br/> |
 |[箇条書きと段落番号](word-online.md#bullets-and-numbering) <br/> |はい  <br/> |はい  <br/> |
@@ -214,9 +213,9 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[共同編集](onenote-online.md#co-authoring) <br/> |はい  <br/> |はい  <br/> |
 |[ページおよびセクションの作成と管理](onenote-online.md#create-and-manage-pages-and-sections) <br/> |はい  <br/> |はい  <br/> |
 |[埋め込まれた Office ファイルのダウンロード](onenote-online.md#download-copy-of-embedded-office-files) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |
-|[ドラッグアンドドロップページ] <br/> |はい  <br/> |はい <br/> |
-|[ドラッグアンドドロップセクション] <br/> |はい  <br/> |はい <br/> |
-|[セクショングループのドラッグアンドドロップ] <br/> |いいえ  <br/> |はい <br/> |
+|ページのドラッグアンドドロップ <br/> |はい  <br/> |はい <br/> |
+|ドラッグアンドドロップセクション <br/> |はい  <br/> |はい <br/> |
+|セクショングループのドラッグアンドドロップ <br/> |いいえ  <br/> |はい <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |はい  <br/> |はい  <br/> |
 |[埋め込まれたファイルの編集](onenote-online.md#EmbeddedFileEdit) <br/> |いいえ  <br/> |はい  <br/> |
 |[数式](onenote-online.md#equations) <br/> |はい  <br/> |はい  <br/> |
@@ -301,10 +300,11 @@ Office Online (以前の Office Web Apps) は、Web ブラウザーで Word、Ex
 |[WYSIWYG 表示](powerpoint-online.md#wysiwyg-viewing) <br/> |はい  <br/> |はい  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint Online は、8 つの画面切り替え効果と 37 のアニメーションから成るギャラリーをサポートしています。 選択の幅を広げる場合、またはカスタム アニメーションを作成する場合は、PowerPoint デスクトップ アプリを使用します。 
- <br/><sup>2</sup> 使用しているデバイスが、インクをサポートする必要があります。 
- <br/> <sup>3</sup> 一部の Office アドインを利用できます。 
- <br/><sup>4</sup> ピボットグラフまたはピボットテーブルは作成できませんが、ビューアーに表示することはできます。 
+><sup>1</sup> PowerPoint Online は、8 つの画面切り替え効果と 37 のアニメーションから成るギャラリーをサポートしています。 選択の幅を広げる場合、またはカスタム アニメーションを作成する場合は、PowerPoint デスクトップ アプリを使用します。 
+ <br/>
+<sup>2</sup> 使用しているデバイスが、インクをサポートする必要があります。 <br/> 
+<sup>3</sup> 一部の Office アドインを利用できます。 <br/>
+<sup>4</sup> ピボットグラフまたはピボットテーブルは作成できませんが、ビューアーに表示することはできます。 
   
 ## <a name="supported-file-types-for-office-online"></a>Office Online でサポートされるファイルの種類
 <a name="bkmk_SupportedFileTypes"> </a>

@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>2019年5月6日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 更新日時 |
-| 5/6/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
-| 5/7/2019 | [Exchange Online サービスの説明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 更新日時 |
-| 5/7/2019 | [サポート](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 更新日時 |
-| 5/7/2019 | [Office Online サービスの説明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
-
-
 ## <a name="week-of-may-13-2019"></a>2019年5月13日の週
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
 | 6/7/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
 | 6/7/2019 | [SharePoint Online サービスの説明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 更新日時 |
+
+
+## <a name="week-of-june-10-2019"></a>2019年6月10日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 6/13/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+| 6/13/2019 | [SharePoint Online サービスの説明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 更新日時 |
