@@ -3,7 +3,6 @@ title: ヘルプとトレーニング
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,24 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
-ms.openlocfilehash: 6a7dacef8f970de86c5199d2217e957a10da59ea
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343576"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130901"
 ---
 # <a name="help-and-training"></a>ヘルプとトレーニング
 
 Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
   
 ## <a name="online-help"></a>オンライン ヘルプ
-<a name="BKMK_Online_Help"> </a>
 
 ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。 すべての Office 365 ヘルプを[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)検索することもできます。 
   
 ## <a name="training"></a>トレーニング
-<a name="BKMK_Online_Help"> </a>
 
 トレーニングはビデオ、ウェビナー、認定クラスを介して利用可能です。詳細については、以下を参照してください。
   
@@ -47,7 +44,6 @@ Microsoft Office 365 では、次のヘルプとトレーニングリソース�
 - [Office 365 管理者サポート スキル:中心概念](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
 ## <a name="community"></a>コミュニティ
-<a name="BKMK_Community"> </a>
 
 > [!NOTE]
 > コミュニティ リソースは、Office 365 の各国版に当てはまります。21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
@@ -95,14 +91,12 @@ Office 365 コミュニティのホーム ページから次のリソースに�
 詳細については、[Office 365 コミュニティ](https://go.microsoft.com/fwlink/?LinkId=272057)をご覧ください。
   
 ## <a name="office-365-techcenter"></a>Office 365 TechCenter
-<a name="BKMK_O365TechCenter"> </a>
 
 大企業の IT プロフェッショナルは、TechNet の Office 365 TechCenter にアクセスできます。Office 365 TechCenter は、大企業向けに複雑な展開のガイダンスを提供します。
   
 詳細については、「[Office 365 (IT 担当者向け)](https://go.microsoft.com/fwlink/?LinkId=272058)」をご覧ください。
   
 ## <a name="other-self-help-resources"></a>その他のセルフヘルプ リソース
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Office 365 コミュニティ、およびオンライン ヘルプ以外にも、Office 365 には次のセルフヘルプ リソースがあります。
   
@@ -115,7 +109,6 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
     21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
     
 ## <a name="languages"></a>言語
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 ヘルプとトレーニング リソースは、次の言語で利用可能です。
   
@@ -155,7 +148,6 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
 |ウクライナ語  <br/> |はい  <br/> | いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 ## <a name="feature-availability"></a>機能の可用性
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Office 365 のプラン、スタンドアロンのオプションとオンプレミスのソリューションで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
   

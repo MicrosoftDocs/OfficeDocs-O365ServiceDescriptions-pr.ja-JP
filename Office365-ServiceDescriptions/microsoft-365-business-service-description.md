@@ -3,7 +3,6 @@ title: Microsoft 365 Business サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742106"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130971"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -36,7 +35,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Online  <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |
-|Office Online  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |はい  <br/> |はい  <br/> |
 |Project Online  <br/> |<sup>3</sup>なし <br/> |<sup>3</sup>なし <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -118,7 +117,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure 多要素認証 (MFA)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |管理単位  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Discovery  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -126,14 +125,13 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |クラウド ID のセルフサービスのパスワードのリセット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |オンプレミス AD の書き戻しによるセルフサービスのパスワードのリセット  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |オンプレミスのディレクトリと Azure AD 間でのデバイス オブジェクトの双方向同期 (デバイスの書き戻し)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|条件付きのアクセス (グループ、場所、デバイスの状態、サインイン、ユーザーのリスクに基づく)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|条件付きアクセス (グループ、場所、またはデバイスの状態に基づく)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |会社のブランド化 (ログオン ページ、アクセス パネルのカスタマイズ)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アプリケーションプロキシ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Microsoft Identity Manager (MIM) ユーザー CAL  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Connect Health  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|条件付きアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**デバイスとアプリケーションの管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |モバイルデバイス管理 (MDM)<sup>15</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® スマートフォンは、Office 365 の電子メールや文書にアクセスすることができます。
-ms.openlocfilehash: 410148ac7d422aba4565caf673e9be5fb9f3cb31
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 2e6421c2d877cb4688ac1e1909cccb1a5eb07f14
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342986"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130957"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -50,7 +50,7 @@ BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前の�
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>BlackBerry スマートフォンと SharePoint Online
 
-マイクロソフト SharePoint Online にアクセスする場合、BlackBerry ユーザーは BlackBerry スマートフォンのネイティブなブラウザーを使用して SharePoint Online サイトにアクセスできます。BlackBerry ユーザーは、モバイル ブラウザー内で Office Online のレンダリングを使用して、Word、Excel、および PowerPoint 文書を表示できます。
+マイクロソフト SharePoint Online にアクセスする場合、BlackBerry ユーザーは BlackBerry スマートフォンのネイティブなブラウザーを使用して SharePoint Online サイトにアクセスできます。 BlackBerry ユーザーは、Office を使用してモバイルブラウザーで web レンダリングを使用して、Word、Excel、PowerPoint のドキュメントを表示できます。
   
 ## <a name="feature-availability"></a>機能の可用性
 

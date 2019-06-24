@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の固有の要件および進化する要件に対応して、Microsoft は Office 365 US Government プラン (orOffice 365 US Government) を作成しています。 このセクションでは、Office 365 US Government 固有の機能の概要について説明します。 この補足セクションは、「Office 365 サービスの説明」に記載することをお勧めします。
-ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343216"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131281"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -75,7 +75,7 @@ Office 365 US Government サービスは、米国内に物理的に配置され�
 > [!NOTE]
 > 一般的な使用法では、Skype for Business が顧客コンテンツを保管することはありませんが、保管する場合には、米国内のデータセンターに保管されます。 
   
-米国内にいるユーザーが Office Online (旧称 Office Web Apps) を使用している場合、あるいはActive Directory フェデレーション サービス (AD FS) 2.0 を使用していてユーザーがシングル サインオンでサービスに接続するようにポリシーをセットアップしている場合は、一時的に Office Online にキャッシュされる顧客コンテンツは、米国内にあることになります。
+ユーザーが web 用 Office (旧称 Office Web Apps) を使用しているとき、または Active Directory フェデレーションサービス (AD FS) 2.0 の使用を採用している場合に、ユーザーが米国内内に配置されている場合、またはユーザーが単一の si を通じてサービスに接続できるようにするためのポリシーを設定する場合gn は、web 用に Office に一時的にキャッシュされるお客様のコンテンツが米国内に配置されます。
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -158,7 +158,7 @@ Office 365 US Government プランのシステム要件については、[office
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 サービス** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government F1** <br/> |
-|Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ProPlus  <br/> |いいえ <br/> |あり <br/> |はい <br/> |いいえ  <br/> |
 |Exchange Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online Protection  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -302,9 +302,9 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>2</sup>既存の bbcs および BIS お客様は、サービスを引き続き使用できます。 新規のお客様の受け付けはしていません。 
 <br/><sup>3</sup>ディレクトリ同期を使用する場合は、Office 365 ポータルではなく Active directory を使用するか、Windows PowerShell の Azure Active directory モジュールを使用して、アカウントを削除するか、パスワードを変更する必要があります。 
 <br/><sup>4</sup>パスワード同期を使用する場合、ユーザーはローカルの Active Directory でパスワードを変更する必要があります。 
-<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 この場合、パブリック Web サイトが 2 つあっても、どちらか一方のサイトしかカスタム ドメイン名でホストすることができません。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「365 Office web サイトホスティングとパブリック web サイトについて」を参照してください。 
+<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 この場合、パブリック Web サイトが 2 つあっても、どちらか一方のサイトしかカスタム ドメイン名でホストすることができません。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「 [365 Office web サイトホスティングとパブリック web サイトについて」](https://go.microsoft.com/fwlink/p/?LinkID=325009)を参照してください。 
 <br/><sup>7</sup>年割引を使用して購入された座席は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>8</sup>以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 > OFFICE 365 US Government G1 > OFFICE 365 Us Government G3 > OFFICE 365 Us government K1 <br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
+<br/><sup>8</sup>以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 > OFFICE 365 Us government G1 > OFFICE 365 Us government G3 > OFFICE 365 Us government K1 <br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
 <br/><sup>10</sup> OFFICE 365 US Government G1、G3、および F1、対象指定リリース、および office 365 for business ロードマップが適用されます。ただし、[コンプライアンス要件](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)により、特定のサービス更新に関して何らかの相違や遅延が発生する場合があります。
 <br/><sup>11</sup>まだ OFFICE 365 US Government 製品では利用できませんが、近日中に公開されています。 ><br/><sup>12</sup>含まれていませんが、GCC で個別のアドオンとして購入できます。 
 <br/><sup>13</sup> OFFICE 365 US Government 製品ではサポートされていません。 

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のサイト機能は、組織があらゆる種類のサイトを作成し、さらにサイト管理を簡素化する単一のインフラストラクチャを構築するために使用できる完全なツール セットを提供します。 詳細については、「SharePoint Online に関する情報を探す」をご覧ください。
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342486"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130871"
 ---
 # <a name="sites"></a>サイト
 
@@ -104,7 +104,7 @@ Web Analytics レポートは、SharePoint に事前に組み込まれている�
 ## <a name="team-notebook"></a>チームノートブック
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-チーム サイトを作成すると、OneNote 2013 共有ノートブックがサイトの一部として自動的に作成されます。このノートブックを使用して、情報をキャプチャ、コンパイル、および共有することができます(この機能は、Office Online サポートを含む Office 365 スイートに登録している場合のみ使用できます)。
+チームサイトを作成すると、OneNote 2013 共有ノートブックがサイトの一部として自動的に作成されます。 このノートブックを使用して、情報を取得、コンパイル、および共有することができます。 (この機能は、web 用の Office を含む Office 365 スイートでサインアップした場合にのみ使用できます)。
   
 ## <a name="variations"></a>バリエーション
 <a name="bkmk_Variations"> </a>

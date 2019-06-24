@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: ccc1a0efe2f5a6563d7e5602f5522a3da8fb5595
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343586"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131080"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -38,7 +38,7 @@ Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 3
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ProPlus<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online <sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Power BI <sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -329,24 +329,24 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 <sup>10</sup> Volume Activation for Office 365 ドイツ Enterprise E3 および Office 365 ProPlus は、windows Server 2008 R2 以降のインストールに限定され、RDS の役割が有効になっているか、Windows to Go をインストールすることができます。 どちらの場合も、これらのインストールにアクセスするユーザーは、Office 365 ドイツ Enterprise E3 または Office 365 ProPlus のユーザーにライセンスが付与されている必要があります。<br/>
 <sup>11</sup> Office 365 ドイツでは利用できませんが、近日中に公開されます。 
   
-## <a name="office-online-features"></a>Office Online の機能
+## <a name="office-for-the-web-features"></a>Web 用 Office の機能
 <a name="BM1_Platform"> </a>
 
-次の表では、Office 365 Germany プランで使用可能な Office Online の各機能と、豊富な機能を持つ Microsoft Office デスクトップ アプリとを比較するリンクを示しています。この比較を利用して Office Online で使用可能な機能を探し、その機能の名前をクリックすると、機能の簡単な説明を読むことができます。組織内には、Excel デスクトップ アプリの高度な図表機能を必要とする人もいれば、Office Online で Word 文書と PowerPoint プレゼンテーションを簡単に表示し、編集できればいいという人もいるかもしれません。 
+次の表に、office 365 ドイツプランで利用可能な web 機能の Office を機能豊富な Microsoft Office デスクトップアプリに比較するためのリンクを示します。 比較を使用して、Office で web で利用できる機能を確認し、機能名をクリックすると、その機能がどのように機能するかについての簡単な説明を読むことができます。 組織内のユーザーによっては、Excel デスクトップアプリの高度なグラフ機能が必要になることがありますが、他のユーザーは、Office を使用して web 用の Word ドキュメントと PowerPoint プレゼンテーションを表示したり、軽く編集したりする必要がある場合があります。 
   
 > [!NOTE]
 > - Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。 表は、Microsoft Office の機能の包括的なリストではありません。 <br/> 
 > - Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。 <br/>
-> -  Microsoft Office Web Apps Server 2013 オンプレミスのお客様が office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Office 365 ProPlus ライセンス) を購入している場合は、Office Online 編集ライセンスを取得します。 <br/>
+> -  Microsoft Office Web Apps Server 2013 オンプレミスのお客様が Office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Office 365 ProPlus ライセンス) を購入している場合は、web 編集ライセンスの Office を入手できます。 <br/>
 > -  Office 365 ドイツの性質上、まだ有効になっていない機能がいくつかあります。 グローバル サービスにより、段階的にサービスの完全な機能をご利用いただけるようになります。 
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション** <br/> |**Office Online** <br/> |**詳細な機能比較へのリンク** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**アプリケーション** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|Word  <br/> |Web 用の Word  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Web 用の Excel  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |Web 用 OneNote  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |Web 用の PowerPoint  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 <a name="BM1_Platform"> </a>
@@ -638,7 +638,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[ドキュメント セット](../sharepoint-online-service-description/content.md#document-sets) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word Online でのドキュメントの翻訳](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示の検索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
@@ -653,30 +653,30 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[Managed Metadata Service](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[メタデータ駆動型ナビゲーション](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[多段処分](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (作成/編集)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Office Online (表示)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
+|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PowerPoint Automation Services <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[アイテム保管ライブラリ](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[クイック編集](../sharepoint-online-service-description/content.md#quick-edit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[レコードの管理](../sharepoint-online-service-description/content.md#records-management) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|[レコードの管理](../sharepoint-online-service-description/content.md#records-management) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[ごみ箱 (SharePoint 管理センター)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ごみ箱 (サイト コレクション)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Related Items <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Rich Media Management <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Related Items <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Rich Media Management <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[共有コンテンツ タイプ](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint Translation Services](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|[SharePoint Translation Services](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |アンケート調査 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[動画検索](../sharepoint-online-service-description/content.md#video-search) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[発行分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|[発行分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[カテゴリページとカタログアイテムページ](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[検索 web パーツ](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[クロスサイト発行](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|WCM: Designer Tools <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|WCM: Designer Tools <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[ファセットナビゲーション](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[画像レンディション](../sharepoint-online-service-description/content.md#image-renditions) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|[画像レンディション](../sharepoint-online-service-description/content.md#image-renditions) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |WCM: Managed navigation <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |WCM: Mobile and Device Rendering <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |WCM: Multiple Domains <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -897,7 +897,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ドキュメント セット](../sharepoint-online-service-description/content.md#document-sets) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word Online でのドキュメントの翻訳](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示の検索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |はい<sup>6</sup> <br/> |はい  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |
 |[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |
@@ -912,8 +912,8 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[Managed Metadata Service](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[メタデータ駆動型ナビゲーション](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[多段処分](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (作成/編集)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
-|[Office Online (表示)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
+|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office ProPlus (Osub)  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PowerPoint Automation Services <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |

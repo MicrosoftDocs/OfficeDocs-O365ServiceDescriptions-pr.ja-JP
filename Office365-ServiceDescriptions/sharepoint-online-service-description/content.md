@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のコンテンツ機能により、エンタープライズ コンテンツ管理 (ECM) がだれにとっても簡単なものになります。 これは、従来のコンテンツ管理、ソーシャル機能、および強力な検索を組み合わせたものです。
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342556"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130958"
 ---
 # <a name="content"></a>コンテンツ
 
@@ -76,10 +76,10 @@ SharePoint Online サイト コレクション管理者は監査機能を使用�
 
 ユーザーはドキュメント セットにより、複数のファイルを単一エンティティとして保存、操作、エクスポートしたり、説明を追加したりできます。作成されたどのドキュメント セットにも、ポリシー、タグ付け、およびテンプレートを適用できます。詳細については、「[ドキュメント セット](https://go.microsoft.com/fwlink/?LinkId=270954)」を参照してください。
   
-## <a name="document-translation-in-word-online"></a>Word Online でのドキュメントの翻訳
+## <a name="document-translation-in-word-for-the-web"></a>Word で web 用のドキュメントを翻訳する
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-Word Online の読み取りビューには、組織がドキュメントをブラウザーで直接翻訳できるオプションが付きました。これにより、ドキュメントのコメントも翻訳されます。
+閲覧ビューでは、web 用の Word は、組織が自分のドキュメントをブラウザーで直接翻訳できるようにするためのオプションを備えています。 これにより、ドキュメントのコメントも翻訳されます。
   
 ## <a name="ediscovery-search"></a>電子情報開示の検索
 <a name="bkmk_eDiscovery_Search"> </a>
@@ -141,15 +141,15 @@ SharePoint Online IRM では、Office 365 の情報保護技術である Azure I
 
 アイテム保持ポリシーに複数のステージを含めて、ドキュメントのライフサイクル全体を 1 つのポリシーとして指定できます。たとえば、契約を毎年確認して 7 年後に削除します。詳細については、「[レコードの保存と管理の方法を選ぶ](https://go.microsoft.com/fwlink/?LinkId=270968)」を参照してください。
   
-## <a name="office-online-createedit"></a>Office Online (作成/編集)
+## <a name="office-for-the-web-createedit"></a>Web 用 Office (作成/編集)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-Office 365 を利用している場合は、インターネット ブラウザーから Office Online を使用して Office ファイルの作成と編集を自動的に行うことができます。Office Online で使用可能な機能を知るためには、[Office Online サービスの説明](../office-online-service-description/office-online-service-description.md) を参照してください。
+Office 365 をご利用のお客様の場合は、インターネットブラウザーから office を使用して office ファイルを自動的に作成および編集できます。 Web 用に Office で使用できる機能については、「 [office for the Web Service Description](../office-online-service-description/office-online-service-description.md)」を参照してください。
   
-## <a name="office-online-view"></a>Office Online (表示)
+## <a name="office-for-the-web-view"></a>Web 用 Office (ビュー)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-既定で、Office Online は表示専用になっています。表示専用の機能は無料で提供されます。詳細については、「[組織の SharePoint サイトで Office Web Apps を使う](https://go.microsoft.com/fwlink/?LinkId=392609)」を参照してください。
+既定では、web 用の Office は表示のみです。 表示専用の機能は無料で提供されます。 詳細について[は、「組織の SharePoint サイトでの web 用 Office の使用](https://go.microsoft.com/fwlink/?LinkId=392609)について」を参照してください。
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps サーバーの統合
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>

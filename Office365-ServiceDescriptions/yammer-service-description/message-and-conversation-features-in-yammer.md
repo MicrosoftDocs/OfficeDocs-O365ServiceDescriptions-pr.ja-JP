@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer では次のメッセージおよび会話機能を使用できます。
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342196"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131001"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージと会話機能
 
@@ -49,10 +49,10 @@ Yammer では次のメッセージおよび会話機能を使用できます。
 
 別のグループのフィードに対して、またはプライベート メッセージを介して会話を共有して、情報や重要なメッセージを中継することができます。
   
-## <a name="office-online-support"></a>Office Online support
+## <a name="office-for-the-web-support"></a>Office for web サポート
 <a name="bkmk_ShareConversations"> </a>
 
-Yammer の Office Online サポートを使用すると、Yammer にアップロードされたドキュメントを Yammer 内で Office Online を使用して直接表示したり編集したりできます。したがって、Office Online を使用してドキュメントを美しく表示することや、複数のユーザーが同時に共同編集できるようにすること、関連する Yammer 会話を表示することが、ブラウザーから行えるようになります。
+Yammer の web サポート用 Office を使用すると、yammer にアップロードされたドキュメントを、yammer で直接 web 上の Office を使用して表示および編集できます。 これにより、ドキュメントを美しいで web 用の Office と共にレンダリングし、さまざまなユーザーによる共同編集が可能になり、ブラウザーに適切な Yammer の会話が表示されるようになります。
   
 ## <a name="events"></a>イベント
 <a name="bkmk_Events"> </a>

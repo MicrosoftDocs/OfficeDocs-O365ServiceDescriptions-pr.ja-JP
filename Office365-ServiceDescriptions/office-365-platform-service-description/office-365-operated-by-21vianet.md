@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742146"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131321"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -47,7 +47,7 @@ Microsoft は、サービス自体を運営していません。21Vianet はサ�
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
 |Skype for Business Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ProPlus  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Power BI  <br/> |いいえ <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br/> |いいえ  <br/> |いいえ <br/> |いいえ <br/> |
@@ -210,7 +210,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>12</sup>一部の TechNet コンテンツは、21vianet が運用している Office 365 には適用されない場合があります。<br/>
 <sup>13</sup>減少した実績。 組織が Internet Explorer 8 または Internet Explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、Internet Explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 <br/>
 <sup>14</sup>多要素認証は現在、Outlook MOBILE (IOS および Android) ではサポートされていません。 <br/>
-<sup>15</sup> Onenote class Notebook は21vianet から利用できますが、Onenote class notebook ツールバーは Windows 10 アプリ、iPad、または onenote Online では使用できません。
+<sup>15</sup> Onenote class Notebook は21vianet から利用できますが、Onenote class notebook ツールバーは、Windows 10 アプリ、iPad、または Web 用 onenote では使用できません。
   
 ## <a name="office-365-application-features"></a>Office 365 アプリケーション機能
 <a name="BM3_OfficeApp"> </a>
@@ -287,24 +287,24 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup> 21vianet が運用している Office 365 について、近日中にリリースします。 
 <br/><sup>15 個</sup>の Google サービス (再生ストアを含む) は、中国内ではアクセスできません。 主要な電話の製造元、またはユーザーがモバイルアプリをインストールできる検索エンジン会社によって管理されるアプリストアがいくつかあります。
   
-## <a name="office-online-features"></a>Office Online の機能
+## <a name="office-for-the-web-features"></a>Web 用 Office の機能
 <a name="BM4_OfficeOnline"> </a>
 > [!NOTE]
-> Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。<br/>
+> Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。 <br/>
   
-次の表では、Office Online の各機能と、豊富な機能を持つ Microsoft Office デスクトップ アプリとの比較のリンクを提供しています。この比較を使用すると、Office Online で使用できる機能を確認できます。また、機能名をクリックすると、その機能の動作方法に関する簡単な説明を確認できます。
+次の表に、web 機能の Office を機能豊富な Microsoft Office デスクトップアプリに比較するためのリンクを示します。 比較を使用して、Office で web で使用できる機能を確認し、機能名をクリックして、その機能がどのように機能するかについて簡単な説明を表示します。
 > [!NOTE]
 >- Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。 比較表は、Microsoft Office の機能の包括的なリストではありません。 
 >- Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。 
->- Microsoft Office Web Apps Server 2013 オンプレミスのお客様が office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Office 365 ProPlus ライセンス) を購入している場合は、Office Online 編集ライセンスを取得します。<br/>
+>- Microsoft Office Web Apps Server 2013 オンプレミスのお客様が Office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Office 365 ProPlus ライセンス) を購入している場合は、web 編集ライセンスの Office を入手できます。<br/>
 
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション** <br/> |**21Vianet が運用している Office Online** <br/> |**詳細な機能比較へのリンク** <br/> |
-|Word  <br/> |21Vianet が運用している Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |21Vianet が運用している Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |21Vianet が運用している OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |21Vianet が運用している PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Application** <br/> |**21Vianet が運用している web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|Word  <br/> |21Vianet が運用している web 用の Word  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |21Vianet が運用している web 用の Excel  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |21Vianet が運用している web 用の OneNote  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |21Vianet が運用している web 用の PowerPoint  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 <a name="BM5_ExchangeOnline"> </a>
@@ -646,7 +646,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Streamlined Central Administration <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |System Status Notifications <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Unattached Content Database Recovery <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|Upgrade evaluation site collections <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Upgrade evaluation site collections <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[使用状況のレポートとログ](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Windows PowerShell のサポート](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**コンテンツ機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
@@ -657,7 +657,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ドキュメント セット](../sharepoint-online-service-description/content.md#document-sets) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word Online でのドキュメントの翻訳](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[電子情報開示の検索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |はい<sup>6</sup> <br/> |はい  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |
 |[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |
@@ -672,8 +672,8 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |[Managed Metadata Service](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[メタデータ駆動型ナビゲーション](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[多段処分](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (作成/編集)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |
-|[Office Online (表示)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |
+|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office ProPlus (Osub)  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PowerPoint Automation Services <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |

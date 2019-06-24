@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online は使用中の Microsoft Visio エクスペリエンスを Web ブラウザーにまで拡張します。これにより、ダイアグラムをそれが保存された Web サイト上で直接操作することができます。Microsoft Office 365 のお客様は、Office Online を使用して外出先でもダイアグラムを表示して共有し、コメントを挿入することができます。
-ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Visio Online では、Microsoft Visio の機能が web ブラウザーに拡張されます。ここでは、図が保存されている web サイト上で図を直接操作できます。 Microsoft Office 365 Office を使用しているお客様は、図を表示して共有したり、移動に関するコメントを挿入したりすることができます。
+ms.openlocfilehash: fab0748238a7c5abdea13864e694d25c8c80bf31
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342346"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130981"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio Online は使用中の Microsoft Visio エクスペリエンスを Web ブラウザーにまで拡張します。これにより、ダイアグラムをそれが保存された Web サイト上で直接操作することができます。Microsoft Office 365 のお客様は、Office Online を使用して外出先でもダイアグラムを表示して共有し、コメントを挿入することができます。
+Visio Online では、Microsoft Visio の機能が web ブラウザーに拡張されます。ここでは、図が保存されている web サイト上で図を直接操作できます。 Microsoft Office 365 Office を使用しているお客様は、図を表示して共有したり、移動に関するコメントを挿入したりすることができます。
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>テキストと図形へのリッチ書式の適用
 <a name="BM_1"> </a>
@@ -88,7 +88,7 @@ Visio Online では Office アドインは使用できません。
 ## <a name="offline-viewing"></a>オフライン表示
 <a name="BM_13"> </a>
 
-Visio Online では利用できません。Office Online には、インターネット接続とインターネット ブラウザーが必要です。インターネットやオンプレミスの Office Web Apps Server に接続されていない状態でダイアグラムの表示や編集を行うには、お使いのコンピューターに Visio デスクトップ アプリケーションがインストールされている必要があります。Visio デスクトップ アプリケーションがインストールされている場合は、Visio のすべての機能を使用してダイアグラムを表示して編集できます。保存時に、変更内容がオンライン ダイアグラムに反映されます。ダイアグラムをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。詳しくは、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](https://technet.microsoft.com/library/ff431685.aspx)」を参照してください。
+Visio Online では利用できません。 Web 用 Office には、インターネット接続とインターネットブラウザーが必要です。 インターネットやオンプレミスの Office Web Apps Server に接続されていない状態でダイアグラムの表示や編集を行うには、お使いのコンピューターに Visio デスクトップ アプリケーションがインストールされている必要があります。 Visio デスクトップ アプリケーションがインストールされている場合は、Visio のすべての機能を使用してダイアグラムを表示して編集できます。 保存時に、変更内容がオンライン ダイアグラムに反映されます。 ダイアグラムをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 詳しくは、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](https://technet.microsoft.com/library/ff431685.aspx)」を参照してください。
   
 ## <a name="print-to-pdf"></a>PDF に印刷
 <a name="BM_14"> </a>

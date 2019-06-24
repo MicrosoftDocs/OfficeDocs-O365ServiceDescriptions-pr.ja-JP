@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートを、Microsoft の次世代のコミュニケーションおよびコラボレーション サービスのクラウドベース バージョンである、Microsoft Exchange Online、Microsoft SharePoint Online、Office Online、Microsoft Skype for Business Online と組み合わせて、インターネット上のどこから作業しても、生産性を向上させるのに役に立ちます。
-ms.openlocfilehash: 4b0835673a5c78c9751f802632c3b96900237a13
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
+ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343616"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131091"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートを、Microsoft の次世代のコミュニケーションおよびコラボレーション サービスのクラウドベース バージョンである、Microsoft Exchange Online、Microsoft SharePoint Online、Office Online、Microsoft Skype for Business Online と組み合わせて、インターネット上のどこから作業しても、生産性を向上させるのに役に立ちます。
+Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
   
 この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 Business および Enterprise プランでの機能を比較するには、「[最新の高度な機能を Office 365 で](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda)」、機能の詳細なリストについては、「[Office 365 サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)」の関連サービスの説明を参照してください。
   
@@ -38,7 +38,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Online  <br/> |Yes<sup>7</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
-|Office Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Project Online  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -283,27 +283,27 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 > <sup>1</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 <br/> 
 <sup>2</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「[デスクトップクライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。 <br/> 
 <sup>3</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格情報に対応しており、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールすることができます。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 <br/> 
-<sup>4 つ</sup>の Office Online バージョンが含まれています。 詳細については、「[Office Online の機能](office-365-education.md#office-online-features)」を参照してください。
+web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳細については、「 [Office for the web features](office-365-education.md#office-for-the-web-features) 」を参照してください。
   
-## <a name="office-online-features"></a>Office Online の機能
+## <a name="office-for-the-web-features"></a>Web 用 Office の機能
 <a name="OfcOnline"> </a>
 
-次の表に、Office 365 エデュケーションプランで利用可能な Office Online の機能と、機能豊富な Microsoft Office デスクトップアプリとの比較へのリンクを示します。 この比較を使用して Office Online で使用可能な機能を探し、その機能の名前をクリックすると、機能の簡単な説明を読むことができます。 組織内には、Excel デスクトップ アプリの高度な図表機能を必要とする人もいれば、Office Online で Word 文書と PowerPoint プレゼンテーションを簡単に表示し、編集できればいいという人もいるかもしれません。
+次の表に、Office 365 エデュケーションプランで利用可能な web 機能の Office を機能豊富な Microsoft Office デスクトップアプリに比較するためのリンクを示します。 比較を使用して、Office で web で利用できる機能を確認し、機能名をクリックすると、その機能がどのように機能するかについての簡単な説明を読むことができます。 組織内のユーザーによっては、Excel デスクトップアプリの高度なグラフ機能が必要になることがありますが、他のユーザーは、Office を使用して web 用の Word ドキュメントと PowerPoint プレゼンテーションを表示したり、軽く編集したりする必要がある場合があります。
   
 > [!NOTE]
 > - Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。 <br/>
 > - この表は、Microsoft Office の機能の包括的なリストではありません。 <br/> 
 > - Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。 <br/>
-> - Microsoft Office Online Server オンプレミスのお客様が office デスクトップスイートライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入している場合は、Office Online の編集ライセンスを取得します。 
+> - Microsoft Office Online Server のオンプレミスのお客様が Office デスクトップスイートライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入している場合は、web 編集ライセンスを取得します。 
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション** <br/> |**Office Online** <br/> |**詳細な機能比較へのリンク** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Visio Online 機能の比較](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-online-plans) <br/> |
+|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|Word  <br/> |Web 用の Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Web 用の Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |Web 用の PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio Online  <br/> |[Visio Online 機能の比較](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 <a name="OfcOnline"> </a>
@@ -799,9 +799,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business の機能
 <a name="OfcOnline"> </a>
 
-OneDrive for Business (以前の SkyDrive Pro) は、クラウド内の個人のオンライン ストレージ スペースです。これは、複数のデバイスに分散した作業ファイルを簡単かつ安全に保存するために使用されます。必要に応じて仲間とファイルを共有し、Office Online を使用してリアルタイムで一緒に Office ドキュメントを編集します。OneDrive for Business 同期アプリを使用して、ローカル コンピューターにファイルを同期します。
+OneDrive for Business (以前の SkyDrive Pro) は、クラウド内の個人のオンライン ストレージ スペースです。 これは、複数のデバイスに分散した作業ファイルを簡単かつ安全に保存するために使用されます。 必要に応じてファイルを同僚と共有し、web 用の Office を使用してリアルタイムで Office ドキュメントを同時に編集します。 OneDrive for Business 同期アプリを使用して、ローカル コンピューターにファイルを同期します。
   
-OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。OneDrive for Business スタンドアロン オプションには Office Online が含まれています。詳細については、「[OneDrive for Business とは](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)」を参照してください。
+OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 詳細については、「[OneDrive for Business とは](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)」を参照してください。
   
 ### <a name="system-requirements"></a>システム要件
 
@@ -920,7 +920,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ドキュメント セット](../sharepoint-online-service-description/content.md#document-sets) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word Online でのドキュメントの翻訳](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示の検索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
@@ -935,8 +935,8 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |[Managed Metadata Service](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[メタデータ駆動型ナビゲーション](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[多段処分](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (作成/編集)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (表示)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office ProPlus (Osub)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |PowerPoint Automation Services <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |

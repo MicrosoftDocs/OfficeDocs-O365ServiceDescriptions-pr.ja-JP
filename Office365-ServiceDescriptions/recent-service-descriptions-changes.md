@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 次の表は、サービスの説明の内容に最近加えられた変更の一覧です。
-ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8840159713f3563d55f3f894b71a1bf56c22fee6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343596"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131301"
 ---
 # <a name="recent-service-descriptions-changes"></a>サービスの説明の最近の変更
 
@@ -53,7 +53,7 @@ ms.locfileid: "34343596"
 ||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft 365 Business を追加しました。  <br/> |
 ||[Office 365 セキュリティ&amp;コンプライアンスセンター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Office 365 Business Essentials と Office 365 Business Premium のアーカイブ制限のエントリを「はい」に変更しました。  <br/> |
 ||[Office 365 セキュリティ&amp;コンプライアンスセンター](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |「Advanced Security Management」を「Office 365 Cloud App Security」に変更しました。  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |トピックの最初の注記を「Microsoft SharePoint Online から Excel Online で 30 メガバイト (MB) を超えるブックを表示することはできません」に変更しました。以前の注記では、10 MB となっていました。  <br/> |
+|Web 用 Office  <br/> |[Web 用の Excel](office-online-service-description/excel-online.md) <br/> |「Microsoft SharePoint Online 内から web 用の Excel では、30 mb を超えるブックを Excel で表示できません」というトピックの最初のメモを変更しました。 以前の注記では、10 MB となっていました。  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business サービスの説明](onedrive-for-business-service-description.md) <br/> |OneDrive for Business サービスの説明を大幅に更新しました。  <br/> |
    
 ## <a name="march-2018"></a>2018 年 3 月
@@ -63,7 +63,7 @@ ms.locfileid: "34343596"
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |Office 365 Message Encryption (OME) およびデータ センター内の保存データ暗号化に関して更新しました。  <br/> |
 ||[メッセージ ポリシーと準拠](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Office 365 Message Encryption (OME) およびデータ センター内の保存データ暗号化に関して更新しました。  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Excel Online でウィンドウ枠の固定サポートに対して更新を行いました。  <br/> |
+|Web 用 Office  <br/> |[Web 用の Excel](office-online-service-description/excel-online.md) <br/> |Web 用 Excel のウィンドウ枠の固定を更新します。  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |複数の更新と再構成を行いました。  <br/> |
 ||[SharePoint Online の制限](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |複数の更新を行いました。  <br/> |
 |Yammer  <br/> |[Yammer の管理とセキュリティ機能](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |注記とアクティビティ ストリーム キーを削除しました。  <br/> |
@@ -182,11 +182,11 @@ ms.locfileid: "34343596"
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Windows Server AD RMS を使用した Information Rights Management (IRM) を更新しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |「ユーザー アカウントの管理」の下に「アプリ パスワードの作成」の行を追加しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
-|Office Online  <br/> |[Office Online サービスの説明](office-online-service-description/office-online-service-description.md) <br/> |Visio を追加しました。  <br/> |
+|Web 用 Office  <br/> |[Web サービスの説明のための Office](office-online-service-description/office-online-service-description.md) <br/> |Visio を追加しました。  <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |「保持タグおよびアイテム保持ポリシー」を「メッセージング レコード管理 (MRM) 保持タグとアイテム保持ポリシー」に変更しました。  <br/> |
 ||[ボイス メッセージ サービス](exchange-online-service-description/voice-message-services.md) <br/> |SBC を介した Exchange Online ユニファイド メッセージングの終了に関するお知らせを含むように更新しました。  <br/> |
 | Workplace Analytics  <br/> |[Workplace Analytics サービスの説明](workplace-analytics-service-description.md) <br/> |新しいサービスの説明を追加しました  <br/> |
 |複数  <br/> |複数  <br/> |Azure RMS は Azure Information Protection (AIP) という名前に変更されました。  <br/> |
-|複数  <br/> |複数  <br/> |Office Online との比較を削除しました。Office 365 Germany ページと 21Vianet が運用している Office 365 のページの Office デスクトップ比較の詳細です。Office Online サービスの説明ページと同じコンテンツへのポインターを追加しました。  <br/> |
+|複数  <br/> |複数  <br/> |Office で office 365 ドイツおよび office 365 を使用して、21Vianet が運用している web サイトと office デスクトップの比較の詳細を削除しました。 Web サービスの説明ページに Office の同じコンテンツへのポインターを追加しました。  <br/> |
    
 

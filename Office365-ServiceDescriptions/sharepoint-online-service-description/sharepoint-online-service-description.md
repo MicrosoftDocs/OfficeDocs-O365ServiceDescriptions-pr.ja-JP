@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「SharePoint とは」を参照してください。
-ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931129"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131011"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
@@ -52,7 +52,7 @@ SharePoint Online にアクセスする各ユーザーは、Office 365 プラン
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
-OneDrive for Business (従来の SkyDrive Pro) は社員向けの個人用オンライン ストレージです。これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。OneDrive for Business は SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。OneDrive for Business スタンドアロン オプションには Office Online が含まれています。Office Online に付属の OneDrive for Business にどの機能が含まれているかを調べるには、「[OneDrive for Business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
+OneDrive for Business (従来の SkyDrive Pro) は社員向けの個人用オンライン ストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive for Business は SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 OneDrive for business に含まれる web 用 Office の機能を確認するには、「 [onedrive For Business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online Enterprise 外部ユーザー
 
@@ -96,7 +96,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[SharePoint 2013 および SharePoint 2016 のワークフロー](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**IT プロフェッショナル向けの機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Active Directory の同期](it-professional.md#active-directory-synchronization) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[代替アクセス マッピング (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|[代替アクセス マッピング (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[マルウェア対策保護](it-professional.md#anti-malware-protection) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[クレームベース認証のサポート](it-professional.md#claims-based-authentication-support) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[Office 365 のカスタマー キー](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |<sup>19</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -130,7 +130,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[クロスサイト発行](content.md#cross-site-publishing) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[デザイン マネージャー](content.md#design-manager) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ドキュメント セット](content.md#document-sets) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word Online でのドキュメントの翻訳](content.md#document-translation-in-word-online) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Word で web 用のドキュメントを翻訳する](content.md#document-translation-in-word-for-the-web) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示の検索](content.md#ediscovery-search) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示の保留](content.md#ediscovery-hold) <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |はい  <br/> |
 |[電子情報開示のエクスポート](content.md#ediscovery-export) <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |はい<sup>6</sup> <br/> |<sup>6</sup>なし <br/> |いいえ  <br/> |はい  <br/> |
@@ -145,8 +145,8 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[Managed Metadata Service](content.md#managed-metadata-service) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[メタデータ駆動型ナビゲーション](content.md#metadata-driven-navigation) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[多段処分](content.md#multi-stage-disposition) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (作成/編集)](content.md#office-online-createedit) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい (<sup>15</sup> ) <br/> |はい  <br/> |はい  <br/> |
-|[Office Online (表示)](content.md#office-online-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (作成/編集)](content.md#office-for-the-web-createedit) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい (<sup>15</sup> ) <br/> |はい  <br/> |はい  <br/> |
+|[Web 用 Office (ビュー)](content.md#office-for-the-web-view) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office ProPlus  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Office Web Apps サーバーの統合](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |はい  <br/> |はい  <br/> |
 |[アイテム保管ライブラリ](content.md#preservation-hold-library) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
@@ -250,7 +250,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 <sup>11</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。 <br/> <sup>12</sup>ブログでコメントを追加することはできません。 <br/> 
 <sup>13</sup>組織コミュニティの web サイトは利用可能ですが、パブリックコミュニティ提供のヘルプは利用できません。 <br/>
 <sup>14</sup> Access 2010 はサポートされていません。 <br/> 
-<sup>15</sup> office online では、F1 ユーザーはコンテンツを作成するために office online (ライブタイル) にアクセスできる必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
+<sup>15</sup> for office web では、F1 ユーザーはコンテンツを作成するために、web (ライブタイル) に対して office へのアクセス権を持っている必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
 <sup>16</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 <br/>
 <sup>17</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
 <sup>18</sup> f1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 <br/>

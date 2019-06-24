@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 US Government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343246"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131101"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -34,7 +34,7 @@ Office 365 US Government は、連邦政府によるリスクと権限に関す�
   
 Office 365 US Government は、レベル 2 (管理されていない非機密情報) システムの米国防総省クラウド コンピューティング セキュリティ要件ガイドもサポートしています。 
   
-Exchange Online、SharePoint Online、Exchange Online Archiving、Skype for Business、および Office Online には、お客様の法執行機関向け CJIS 要件、連邦税情報 (FTI) を扱うお客様向けの IRS-1075 要件をサポートできる機能があります。
+Web 用の exchange Online、SharePoint Online、Exchange Online アーカイブ、Skype for Business、および Office の機能には、法律執行機関のお客様の CJIS 要件と、FTI を処理するお客様に対する IRS 1075 の要件をサポートできる機能が用意されています。
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 US Government Community の厳選されたスタッフ
 
@@ -69,6 +69,7 @@ MyAnalytics は、Office 365 サービス向けの FedRAMP コントロールの
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 US Government Community Cloud (GCC) カスタマーサポート
 
-Office 365 GCC カスタマーサポートは、365 office 2010 の全世界バージョンに提供されているものと同じ条件下で提供されます。これには、サポートエージェントの物理的な場所や市民権の保証は含まれません。 Office 365 GCC は Azure パブリッククラウドと連携して動作しますが、以下の[条項および条件](https://azure.microsoft.com/en-us/support/plans/)でサポートされています。
+Office 365 GCC カスタマーサポートは、 [365 office 2010 の全世界バージョン](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+)に提供されているものと同じ条件下で提供されます。これには、サポートエージェントの物理的な場所や市民権の保証は含まれません。 Office 365 GCC は Azure パブリッククラウドと連携して動作しますが、以下の[条項および条件](https://azure.microsoft.com/en-us/support/plans/)でサポートされています。
 
 Microsoft では、管理対象の機密情報や機密情報を Office 365 GCC 関連のサポートインシデントの一部として共有しないようにして、そのようなデータを表示またはアクセスすることを承認することをお客様に促します。 Microsoft は[、プライバシーの保護に努めています。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC カスタマーサポートは、サービスの認定境界には含まれていません。 FedRAMP、SRG、ITAR、IRS 1075、または CJIS のデータ処理やコンプライアンスの保証は提供されません。

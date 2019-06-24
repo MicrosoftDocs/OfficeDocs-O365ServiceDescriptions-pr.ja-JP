@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の SharePoint 機能を使用すると、IT プロフェッショナルは組織の SharePoint 環境のセキュリティを確保し、管理することができます。
-ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341936"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131311"
 ---
 # <a name="it-professional"></a>IT プロフェッショナル
 
@@ -102,7 +102,7 @@ SharePoint Online のカスタマーは利用できません。リソースの�
 ## <a name="service-application-platform"></a>Service Application Platform
 <a name="bkmk_ServiceApplicationPlatform"> </a>
 
-SharePoint サービスは、任意の Web アプリケーションから個別に使用できます。このプラットフォームでは、アプリケーションのニーズに応じてサービスを柔軟に使用できます。Web Analytics は、もはやサービス アプリケーションではありません。分析とレポート作成プロセスは、Search service アプリケーションに組み込まれました。Office Online はサービス アプリケーションではなくなりました。Office Web Apps サーバーは別のサーバー製品になりました。組織でサブスクライブした Office 365 プランによっては、SharePoint Online のお客様が Office Online を利用できる場合があります。「[SharePoint サービス アプリケーション](https://go.microsoft.com/fwlink/p/?LinkId=270989)」の詳細情報を参照してください。
+SharePoint サービスは、任意の Web アプリケーションから個別に使用できます。 このプラットフォームでは、アプリケーションのニーズに応じてサービスを柔軟に使用できます。 Web Analytics は、もはやサービス アプリケーションではありません。 分析とレポート作成プロセスは、Search service アプリケーションに組み込まれました。 Web 用の Office はサービスアプリケーションではなくなりました。 Office Web Apps サーバーは別のサーバー製品になりました。 組織が加入している Office 365 プランによっては、web 用の Office を SharePoint Online のお客様が利用できる場合があります。 「[SharePoint サービス アプリケーション](https://go.microsoft.com/fwlink/p/?LinkId=270989)」の詳細情報を参照してください。
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint Health Analyzer
 <a name="bkmk_SharePointHealthAnalyzer"> </a>

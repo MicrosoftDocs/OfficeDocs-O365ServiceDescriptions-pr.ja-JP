@@ -15,18 +15,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Exchange Online のプランを含む Office 365 プラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1e4e5b6beb99a7a3b095d6a1f0cb56f0913abb19
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343306"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131076"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 プラットフォーム サービスの説明
 
 Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Exchange Online のプランを含む Office 365 プラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
   
-Microsoft Office 365 を使用すると、あらゆる規模のビジネスは、クラウドを活用することにより生産性が向上し、時間の節約とコストの削減、貴重なリソースの効率的な活用を実現します。Office 365 は、使い慣れた Microsoft Office デスクトップ スイートを、Microsoft の次世代のコミュニケーションおよびコラボレーション サービスのクラウドベース バージョンである、Microsoft Exchange Online、Microsoft SharePoint Online、Office Online、Microsoft Skype for Business Online と組み合わせて、インターネット上のどこから作業しても、生産性を向上させるのに役に立ちます。
+Microsoft Office 365 を使用すると、あらゆる規模のビジネスは、クラウドを活用することにより生産性が向上し、時間の節約とコストの削減、貴重なリソースの効率的な活用を実現します。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
   
 プラン間での機能の比較については、「 [office 365 For Business プランの比較](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」または「 [office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の「関連するサービスの説明」を参照してください。
   
