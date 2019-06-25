@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343806"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131251"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
@@ -27,10 +27,10 @@ OneDrive は、組織内のライセンスを取得した各ユーザーに提�
   
 OneDrive は Microsoft 365 および Office 365 プラン、SharePoint Online プランに含まれています。スタンドアロン プランとしてもご購入いただけます。 
     
-プランを比較するには、「[最新の高度な機能を Office 365 で](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/ja-JP/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。 
+プランを比較するには、「[一般法人向け Office 365 のプランを比較する](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/ja-JP/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。 
   
 > [!NOTE]
-> OneDrive for Business スタンドアロン プランには Office Online が含まれます。 
+> OneDrive for Business スタンドアロン プランには Web 用 Office が含まれます。 
   
 ## <a name="system-requirements"></a>システム要件
 
