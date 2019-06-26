@@ -3,7 +3,6 @@ title: Office 365 GCC High および DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343256"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233524"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。 
   
-詳細情報を確認したり、検証プロセスを開始したりするよう、アカウント チームや優先パートナーに働きかけてください。
+詳細情報を確認したり、検証プロセスを開始したりするよう、アカウント チームや優先パートナーに働きかけてください。 購入方法の詳細については、「 [Microsoft 365 Government-購入方法](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)」を参照してください。
   
 ## <a name="how-to-use-this-service-description-section"></a>このサービスの説明セクションの使用方法
 
@@ -56,7 +55,7 @@ Office 365 のスタッフには、GCC High および DoD 製品への永続的�
 |指紋チェック  <br/> |FBI データベースに照らして行う指紋の身元調査  <br/> |
 |米国国防総省 IT-2  <br/> |お客様データへの管理者特権のアクセス許可、または国防総省 SRG L5 サービス機能への管理者特権アクセスを要求しているスタッフは、OPM Tier 3 調査に基づく国防総省 IT-2 の判定に合格する必要があります  <br/> |
 
-<sup>1</sup> Office でホストされている顧客コンテンツへの一時的または継続的なアクセス権を持つ人員にのみ適用されます 365 US GCC-高または DOD 雲
+<sup>1</sup>は、OFFICE 365 US GCC-高または DOD クラウドでホストされている顧客のコンテンツに一時的なアクセス権または永続的にアクセスできる人員にのみ適用されます。
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>対応しているクラウド アーキテクチャに基づく機能のわずかな違い
 
 GCC High および DoD 環境内の Office 365 サブスクリプションには、コアの Exchange Online、SharePoint Online、および Skype for Business 機能が含まれます。インフラストラクチャの認定資格は増加しており、市販の Office 365 オファリングと GCC High および DoD で提供されるものでも、機能に違いがあります。
@@ -93,7 +92,7 @@ GCC High テナントは、他の GCC High テナントとのみ共有できま�
   
  **Business Connectivity Services** -BCS 機能は、クラウドサービスのセキュリティ境界内でデータソースにアクセスできるという接続シナリオに対してサポートされています。 
   
- **サンド ボックス ソリューション**: この機能は非推奨であり、利用できません。サンドボックス ソリューションはすべて、 [ SharePoint アドイン拡張モデル ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)に移行する必要があります。
+ **サンド ボックス ソリューション**: この機能は非推奨であり、利用できません。サンドボックス ソリューションはすべて、 [ SharePoint アドイン拡張モデル ]( https://msdn.microsoft.com/library/office/fp179930.aspx)に移行する必要があります。
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
