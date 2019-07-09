@@ -1,8 +1,7 @@
 
   
 
-# [Office 365 サービスの説明 ](office-365-service-descriptions-technet-library.md)
-## [Microsoft 365 Business サービスの説明](microsoft-365-business-service-description.md)
+# [Office 365 サービスの説明](office-365-service-descriptions-technet-library.md)
 ## [Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 のシステム要件](office-365-platform-service-description/office-365-system-requirements.md)
@@ -33,11 +32,11 @@
 ### [製品使用権](office-365-platform-service-description/product-use-rights.md)
 ## [Office アプリケーション サービスの説明](office-applications-service-description/office-applications-service-description.md)
 ### [Office アプリケーション](office-applications-service-description/office-applications.md)
-## [Web サービスの説明のための Office](office-online-service-description/office-online-service-description.md)
-### [Web 用の Word](office-online-service-description/word-online.md)
-### [Web 用の Excel](office-online-service-description/excel-online.md)
-### [Web 用 OneNote](office-online-service-description/onenote-online.md)
-### [Web 用の PowerPoint](office-online-service-description/powerpoint-online.md)
+## [Office for the web サービスの説明](office-online-service-description/office-online-service-description.md)
+### [Word for the web](office-online-service-description/word-online.md)
+### [Excel for the web](office-online-service-description/excel-online.md)
+### [OneNote for the web](office-online-service-description/onenote-online.md)
+### [PowerPoint for the web](office-online-service-description/powerpoint-online.md)
 ## [Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)
 ### [Exchange Online の制限](exchange-online-service-description/exchange-online-limits.md)
 ### [計画と展開](exchange-online-service-description/planning-and-deployment.md)
@@ -107,5 +106,8 @@
 ### [Yammer のプラットフォーム機能](yammer-service-description/yammer-platform-features.md)
 ### [Yammer の管理とセキュリティ機能](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer のサポート機能](yammer-service-description/support-features-in-yammer.md)
+## Microsoft 365 サービスの説明
+### [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
 
