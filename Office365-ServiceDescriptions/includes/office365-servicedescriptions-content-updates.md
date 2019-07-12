@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>2019年5月27日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 5/28/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 5/31/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
-
-
 ## <a name="week-of-june-03-2019"></a>2019年6月3日の週
 
 
@@ -93,3 +84,11 @@
 | 6/28/2019 | [ドメイン](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 更新日時 |
 | 6/28/2019 | [ネットワーク](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | 更新日時 |
 | 6/28/2019 | [ユーザー アカウント管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 更新日時 |
+
+
+## <a name="week-of-july-01-2019"></a>2019年7月01日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 7/1/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
