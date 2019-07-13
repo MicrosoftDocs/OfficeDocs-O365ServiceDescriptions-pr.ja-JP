@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: The Office 365 Security &amp; Compliance Center is designed to help you manage compliance features across Office 365 for your organization. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 96b9e2c9528f0ea5052ec73fa4f514f2eb767b21
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 39bea7c658b82dfef7735f56af94c5f3676bb7e9
+ms.sourcegitcommit: 4c97cb3bd8254b0b4b681f16b0396b6db64c9010
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780646"
+ms.lasthandoff: 07/13/2019
+ms.locfileid: "35645142"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
@@ -35,7 +35,8 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)<sup>6</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Exchange online、SharePoint online、OneDrive for business のデータ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7</sup><br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Teams のチャットおよびチャネル会話のデータ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/>|
+|[Microsoft Teams のチャットおよびチャネルメッセージのデータ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/>|
+|[情報の障壁](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/>|
 |[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[検索と調査](https://docs.microsoft.com/office365/securitycompliance/datainvestigations/search-for-data) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -64,7 +65,9 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[脅威の管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[データ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい <sup>7<sup> <br/> |いいえ  <br/> |はい  <br/> |
+|[Exchange Online、SharePoint Online、OneDrive for business のデータ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい <sup>7<sup> <br/> |いいえ  <br/> |はい  <br/> |
+|[Microsoft Teams のチャットおよびチャネルメッセージのデータ損失防止](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|[情報の障壁](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |はい<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[検索と調査](https://docs.microsoft.com/office365/securitycompliance/datainvestigations/search-for-data) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
