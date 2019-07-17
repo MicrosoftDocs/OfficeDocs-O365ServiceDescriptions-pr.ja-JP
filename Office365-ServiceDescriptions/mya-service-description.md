@@ -2,22 +2,21 @@
 title: MyAnalytics サービスの説明
 ms.author: sharik
 author: skjerland
-ms.reviewer: v-pascha
-ms.date: 03/14/2019
+ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics -- 機能、配布、プライバシー、前提条件
-ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 464938e19185e360990cc9b146b670ccd3e5beca
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246503"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753826"
 ---
-# <a name="myanalytics-service-description"></a>myanalytics サービスの説明
+# <a name="myanalytics-service-description"></a>MyAnalytics サービスの説明
 
 MyAnalytics は、業務時間中の時間の使い方を要約し、仕事を効率化する方法を提案します。 MyAnalytics は、Microsoft Outlook または Web ブラウザーでアクセスできる[要素](#elements)により、これらの分析を提供します。
 
@@ -29,19 +28,19 @@ MyAnalytics は、従業員のプライバシーを保護する方法で情報�
 
 MyAnalytics は次の要素で構成されています。
 
-* [MyAnalytics の個人用ダッシュボード](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard): フォーカスに使用できる時間、会議とメールの習慣、ネットワークの使用などの仕事上の習慣を振り返るのに役立ちます。
-* [Outlook アドイン](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): Outlook で実践的な洞察を提供し、タスクをうまくやりこなし生産性を高めることができるように助けます。
-* [メールのダイジェスト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): 前の週についての概要を提供します。
-* [MyAnalytics ナッジ](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): メールや会議出席依頼の閲覧時または作成時に Outlook に表示される、データ/AI 主導の簡潔な通知です。
+* [Myanalytics dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): フォーカスが得られた時間、会議やメールの習慣、ネットワークなどの作業パターンについての反映に役立てることができます。
+* [Insights outlook アドイン](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): 自分の仕事を整理し、さらに完了できるようにするための、outlook の実用的な洞察を提供します。
+* [電子メールダイジェスト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): 毎週の電子メールでは、作業パターンに関する重要なハイライトが提供されます。
+* [Outlook でのインライン修正](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): メールまたは会議出席依頼の読み取りまたは作成を行っている間、これらの簡単なデータと AI による推奨事項が outlook に表示されます。
 
 ## <a name="myanalytics-distributions"></a>MyAnalytics の配布
 
 MyAnalytics の要素は、次の表で説明するように、Microsoft Office 365 プランに応じてさまざまなレベルで利用できます。
 
-| プラン | 使用可能な要素 |
-| --- | --- |
-| Microsoft 365 E3</br>Microsoft 365 Business</br>Office 365 E3</br>Office 365 E1</br>Business Premium</br>Business Essentials | </br></br></br>[アドイン](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
-| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 Nonprofit E5</br>MyAnalytics アドオン | </br>[ダッシュボード](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard)、[アドイン](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in)、[メール ダイジェスト](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)、[MyAnalytics ナッジ](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) |
+| プラン | サービス プラン | 使用可能な要素 |
+| --- | --- | ----- |
+| Microsoft 365 E3</br>Microsoft 365 Business</br>Office 365 E3</br>Office 365 E1</br>Business Premium</br>Business Essentials |  <br>Insights by <br>MyAnalytics| </br></br></br>[Insights Outlook アドイン](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) <br> (他の MyAnalytics 要素<br> 今後利用可能になります)|
+| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 Nonprofit E5</br>MyAnalytics アドオン | MyAnalytics (完全)<br>and<br>  MyAnalytics による洞察 | </br>[ダッシュボード](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2)、 [Insights Outlook アドイン](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)、[電子メールダイジェスト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)、および[インラインの提案](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications) |
 
 詳細については、「[機能の可用性](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。
 

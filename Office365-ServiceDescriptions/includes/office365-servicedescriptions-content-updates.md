@@ -3,25 +3,6 @@
 
 
 
-## <a name="week-of-june-03-2019"></a>2019年6月3日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 6/6/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 6/6/2019 | [21Vianet が運用している Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 更新日時 |
-| 6/6/2019 | [検索](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | 更新日時 |
-| 6/6/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
-| 6/7/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 6/7/2019 | [Exchange Online アーカイブのアーカイブ機能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 更新日時 |
-| 6/7/2019 | [Exchange Online Archiving サービスの説明](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 更新日時 |
-| 6/7/2019 | [Exchange Online Protection サービスの説明](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 更新日時 |
-| 6/7/2019 | [Exchange Online サービスの説明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 更新日時 |
-| 6/7/2019 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
-| 6/7/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
-| 6/7/2019 | [SharePoint Online サービスの説明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 更新日時 |
-
-
 ## <a name="week-of-june-10-2019"></a>2019年6月10日の週
 
 
@@ -92,3 +73,13 @@
 | 公開日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 7/1/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
+
+
+## <a name="week-of-july-08-2019"></a>2019年7月8日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 7/11/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+| 7/12/2019 | [Office 365 Engineering Direct Service の説明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 更新日時 |
+| 7/12/2019 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
