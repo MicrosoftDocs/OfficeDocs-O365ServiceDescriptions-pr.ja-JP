@@ -3,7 +3,6 @@ title: Web 用の Word
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
-ms.openlocfilehash: 92a5768e6b745dbc65d47eba6b437af81eb7dc30
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: d15376278f04f129b8161d7220c62d0380d0b89f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131291"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777598"
 ---
 # <a name="word-for-the-web"></a>Web 用の Word
 

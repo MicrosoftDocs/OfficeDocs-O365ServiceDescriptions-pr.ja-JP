@@ -3,7 +3,6 @@ title: 洞察力
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 組織では、次の 洞察力 機能により、データベース、レポート、ビジネス アプリケーションの情報を使用して、特定のビジネス ニーズに対処できます。
-ms.openlocfilehash: 3765a8bbbb931e22bfcd26962a370d55724865e9
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3dd85cc7bd714b1a6a22435adc7a4c894b6921bd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131331"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35778008"
 ---
 # <a name="insights"></a>分析情報
 

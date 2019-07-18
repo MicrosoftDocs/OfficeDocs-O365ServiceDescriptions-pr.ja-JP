@@ -3,7 +3,6 @@ title: サービスの正常性および継続性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/25/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ffa55d304f5fbf7a9f97aef83207a923ea4dcce2
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343156"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776448"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 

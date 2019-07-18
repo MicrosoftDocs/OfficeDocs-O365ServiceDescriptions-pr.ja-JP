@@ -3,7 +3,6 @@ title: Project Online サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: ec194d758c50b4da0544605c85b0beb0b81ec79e
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343726"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777338"
 ---
 # <a name="project-online-service-description"></a>Project Online サービスの説明
 

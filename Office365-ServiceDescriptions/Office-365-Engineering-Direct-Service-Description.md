@@ -3,19 +3,18 @@ title: Office 365 Engineering Direct Service の説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 Office 365 Engineering Direct Service の説明には、提供される機能と実装の要件に関する追加情報が含まれています。
-ms.openlocfilehash: 68ba0a963cdf4bd28417ca3332175beeb65e5df6
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eb890bdd2ab0fa5b01702828b0eb9a02eb7c8a91
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341856"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776458"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct Service の説明
 
@@ -26,4 +25,4 @@ Office 365 Engineering Direct オファーリングを新しいお客様とし�
 大企業のお客様が、従来の Office 365 専用オファーリングから最新のマルチテナントサービス fabric に移行された (a)、または (b) 利用がマルチテナントの強化されたお客様として提供されていた場合、Office 365 エンジニアリングダイレクトが「Enhanced Support Services」と呼ばれる、移行サポートプログラムとしての組織。 移行オファリングは、既存の Office 365 サブスクリプションサービス契約のバランスを無償で提供されます。 サブスクリプションサービスの更新時に、Office 365 Engineering Direct は、追加料金に関するオプションのサポートプランとして提供されます。 購入した場合は、追加されたサービススイートに対する個別の契約補遺が実行され、既存のプレミアサポート契約に追加されます。
 
 > [!NOTE]
-> 現時点では、Office 365 Engineering Direct および移行された Enhanced Support Services プログラムは、従来の ITAR サポートのお客様または、政府機関コミュニティクラウド (GCC) または Office の GCC 高サブスクリプションサービスに関連するお客様には使用できません。365
+> 現時点では、Office 365 Engineering Direct および移行された Enhanced Support Services プログラムは、従来の ITAR サポートのお客様または、政府機関コミュニティのクラウド高 (GCC High) サブスクリプション製品に関連するお客様には使用できません。365

@@ -3,7 +3,6 @@ title: Web 用の PowerPoint
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft Office 365 Office を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 68a0fd93508885d9d541b163ddfdf5b16098de05
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: b5a73e3c5fb1d064d37117cb6661d8bf7d004c2e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130884"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777538"
 ---
 # <a name="powerpoint-for-the-web"></a>Web 用の PowerPoint
 

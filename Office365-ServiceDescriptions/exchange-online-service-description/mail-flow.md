@@ -3,7 +3,6 @@ title: メール フロー
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
-ms.openlocfilehash: d65ba6b96f9cbeffd42d46f40fd126fb9a659690
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342776"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776788"
 ---
 # <a name="mail-flow"></a>メール フロー
 

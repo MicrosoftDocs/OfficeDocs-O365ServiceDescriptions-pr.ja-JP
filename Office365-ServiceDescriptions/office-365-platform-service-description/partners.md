@@ -3,7 +3,6 @@ title: パートナー
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
-ms.openlocfilehash: e2f4cf0d034708f25b187eb1626f058b89ed6dde
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 50a575da327c05d627edf99c2afd3b5812fc4dd7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343206"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777377"
 ---
 # <a name="partners"></a>パートナー
 

@@ -3,7 +3,6 @@ title: 教育機関向け Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
-ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131091"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777018"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -303,7 +302,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |Excel  <br/> |Web 用の Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
 |PowerPoint  <br/> |Web 用の PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Visio Online 機能の比較](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|Visio  <br/> |Web 用の Visio  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 <a name="OfcOnline"> </a>

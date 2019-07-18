@@ -3,7 +3,6 @@ title: BlackBerry
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® スマートフォンは、Office 365 の電子メールや文書にアクセスすることができます。
-ms.openlocfilehash: 2e6421c2d877cb4688ac1e1909cccb1a5eb07f14
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0af0e0f1615c45c468b05d66e274c158dba673e0
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130957"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776948"
 ---
 # <a name="blackberry"></a>BlackBerry
 

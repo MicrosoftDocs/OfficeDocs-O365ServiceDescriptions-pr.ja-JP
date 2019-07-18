@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「SharePoint とは」を参照してください。
-ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131011"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777858"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
@@ -177,7 +177,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[クイック調査](insights.md#quick-explore) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[SQL Server Reporting Services (SSRS) 統合モード](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[タイムラインのスライサー](insights.md#timeline-slicer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx)<sup>17</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
+|[Web 用の Visio](https://technet.microsoft.com/library/mt827475.aspx)<sup>17</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[Visio Services](insights.md#visio-services)<sup>17</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |**検索機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[継続的クロール](search.md#continuous-crawls) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -252,7 +252,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 <sup>14</sup> Access 2010 はサポートされていません。 <br/> 
 <sup>15</sup> for office web では、F1 ユーザーはコンテンツを作成するために、web (ライブタイル) に対して office へのアクセス権を持っている必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
 <sup>16</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 <br/>
-<sup>17</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
+<sup>17</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
 <sup>18</sup> f1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 <br/>
 <sup>19</sup>ユーザーキーは Office 365 Enterprise E5 で利用できます。 カスタマー キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにおける保存データの暗号化に使用するよう Office 365 を構成できます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
 <sup>20</sup>は近日中に予定されています。 

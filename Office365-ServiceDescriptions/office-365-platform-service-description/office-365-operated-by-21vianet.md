@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
-ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
+ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753846"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777308"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -50,13 +50,13 @@ Microsoft は、サービス自体を運営していません。21Vianet はサ�
 |Office 365 ProPlus  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Power BI  <br/> |いいえ <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br/> |いいえ  <br/> |いいえ <br/> |いいえ <br/> |
-|Visio Online<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Visio<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Yammer エンタープライズ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Azure Information Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 <sup>1</sup> Office 365 管理、Office 365 スイート アプリ、ユーザー アカウント管理、ドメイン、サービス正常性と継続性、レポート作成、サービスの更新、ヘルプとトレーニング、ネットワーキングなどの機能が含まれます。 詳しくは、 [プラットフォーム機能](office-365-operated-by-21vianet.md#platform-features)表をご覧ください。
 <br/><sup>2</sup> Project Online は含まれていませんが、個別のアドオン サービスとして購入するか、Office 365 A1 プランに無料で追加することができます。 
-<br/><sup>3</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
+<br/><sup>3</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -282,7 +282,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>7</sup> Office 365 ProPlus は、ユーザー専用の仮想デスクトップインフラストラクチャ (VDI) でサポートされています。 Office 365 ProPlus は、ボリュームライセンスプログラムで購入した場合にのみリモートデスクトップサービス (RDS) をサポートします。 
 <br/><sup>8</sup> Volume Activation for Office 365 Enterprise E3 and Office 365 ProPlus は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、Windows to Go をインストールできます。 どちらの場合も、これらのインストールにアクセスするユーザーは、Office 365 Enterprise E3 または Office 365 ProPlus のライセンスユーザーである必要があります。 
 <br/><sup>9</sup>現在のチャネルを使用している場合、または段階的提供されているチャネルに対して対象指定リリースを行っている場合は、現在アクセスできます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および Business Premium の一部として含まれる Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
-<br/><sup>10</sup>現在、Visio Online は21vianet が運用している Office 365 をプレビューしています。 Visio Online の詳細については、「[Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
+<br/><sup>10</sup> web 版 Visio は現在、21vianet が運用している Office 365 のプレビュー段階です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
 <br/><sup>11</sup> 21vianet が運用している Office 365 について、近日中にリリースします。 
 <br/><sup>15 個</sup>の Google サービス (再生ストアを含む) は、中国内ではアクセスできません。 主要な電話の製造元、またはユーザーがモバイルアプリをインストールできる検索エンジン会社によって管理されるアプリストアがいくつかあります。
   
@@ -721,7 +721,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |[SQL Server Reporting Services (SSRS) 統合モード](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[タイムラインのスライサー](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[データ モデルを含む Excel ブックの使用と対話](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Visio Online](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14、15</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用の Visio](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14、15</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>14</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**検索機能** <br/> |**Office 365 Business Essentials 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Business** <br/> |**21Vianet が運用している Office 365 Business Premium** <br/> |**Office 365 A1 21Vianet が運用している** <br/> |**21Vianet が運用している Office 365 Enterprise E1** <br/> |**21Vianet が運用している Office 365 Enterprise E3** <br/> |**21Vianet が運用している Office 365 Enterprise F1** <br/> |
 |Advanced Content Processing <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -824,7 +824,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 <br/><sup>11</sup>キオスクアカウントには、OneDrive for business の機能が制限されています。 キオスクのユーザーは、OneDrive for Business フォルダー同期クライアントアプリケーションを使用して、チームサイトのドキュメントライブラリを共有のコンピューターと同期し、ドキュメントにオフラインでアクセスできます。 しかし、キオスクアカウントには OneDrive for Business の個人用サイトが含まれていないため、1 TB または 5 TB のオンラインストレージを使用している OneDrive for Business の個人用ライブラリからメリットを得ることはできません。
 <br/><sup>12</sup>任意のモバイルブラウザーでドキュメントを表示できます。 ドキュメントの編集には、Office Mobile アプリをインストールする必要があります。 現在 Office Mobile は、Windows Phone とタブレット、Android Phone とタブレット、iPhone、iPad で使用できます。 
 <br/><sup>13</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。 
-<br/><sup>14</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
+<br/><sup>14</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
 <br/><sup>15</sup> K1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 K1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online の機能

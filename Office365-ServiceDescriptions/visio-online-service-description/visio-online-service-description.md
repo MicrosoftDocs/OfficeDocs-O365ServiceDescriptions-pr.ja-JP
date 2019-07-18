@@ -1,38 +1,37 @@
 ---
-title: Visio Online サービスの詳細
+title: Web サービスの説明のための Visio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Visio Online では、Visio ダイアグラムを Web 上で表示し共有することができます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio Online ユーザーは、ダイアグラムを共有して、SharePoint Online や OneDrive for Business Online にアップロードされたファイルにコメントを挿入することにより、表示や共同作業が可能です。
-ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
+ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342386"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777728"
 ---
-# <a name="visio-online-service-description"></a>Visio Online サービスの詳細
+# <a name="visio-for-the-web-service-description"></a>Web サービスの説明のための Visio
 
-Visio Online では、Visio ダイアグラムを Web 上で表示し共有することができます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio Online ユーザーは、ダイアグラムを共有して、SharePoint Online や OneDrive for Business Online にアップロードされたファイルにコメントを挿入することにより、表示や共同作業が可能です。
+Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
   
-詳細を確認して使用を開始するには「[Visio Online](https://products.office.com/en-US/visio/visio-online)」を参照してください。
+詳細と作業の開始については、「 [Visio for the web](https://products.office.com/en-US/visio/visio-online)」を参照してください。
   
-Visio Online を使用する際のヘルプについては、「[Visio Online ヘルプ](https://go.microsoft.com/fwlink/?linkid=855982)」を参照してください。
+Visio を web に使用する場合のヘルプについては、「 [visio ヘルプセンター](https://support.office.com/visio)」を参照してください。
   
 ## <a name="feature-availability-and-comparison"></a>機能の可用性と比較
 
-次の表では、Visio Online の各機能と、豊富な機能を持つ Visio デスクトップ アプリを比較しています。この表を使用して Visio Online で使用可能な機能を探し、その機能の名前をクリックすると、機能の簡単な説明を読むことができます。組織内には、Visio デスクトップ アプリの高度な機能を必要とする人もいれば、Visio Online で Visio ダイアグラムを表示し、簡単に編集できればいいという人もいるかもしれません。 
+次の表では、Visio の機能豊富な Visio デスクトップアプリに Visio の機能を比較します。 表を使用して、Visio で web で利用できる機能を確認し、機能名をクリックすると、その機能がどのように機能するかについての簡単な説明が表示されます。 組織内の一部のユーザーが Visio デスクトップアプリの高度な機能を必要とするだけでなく、visio で visio の図を web に対して表示し、軽く編集しなければならない場合があります。 
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**Visio Online** <br/> |**Visio デスクトップ アプリ** <br/> |
+|**アプリケーション機能** <br/> |**Web 用の Visio** <br/> |**Visio デスクトップ アプリ** <br/> |
 |[テキストと図形へのリッチ書式の適用](visio-online.md#BM_1) <br/> |はい  <br/> |はい  <br/> |
 |[オブジェクトの配置](visio-online.md#BM_2) <br/> |はい  <br/> |はい  <br/> |
 |[マッシュアップ ソリューションの構築](visio-online.md#BM_3) <br/> |はい  <br/> |はい  <br/> |
@@ -61,12 +60,12 @@ Visio Online を使用する際のヘルプについては、「[Visio Online �
    
 > <sup>1</sup> ハイパーリンク先に移動 (挿入や変種はできません)。 
 <br/><sup>2</sup>SharePoint や One Drive for Business 経由の共有、および SharePoint や OneDrive を持っていないユーザーとの共有。 
-<br/> <sup>3</sup> Visio Online Editor では使用できません。
-<br/><sup>4</sup> Visio Online Viewer では使用できません。 
-<br/><sup>5</sup> Visio Online Editor では使用できませんが、表示モードに切り替えてコメントを表示することができます。 
-<br/><sup>6</sup> Visio Online エディターで使用できます。 
+<br/> <sup>3</sup> web エディターの Visio では使用できません。
+<br/><sup>4</sup> web ビューアーの Visio では使用できません。 
+<br/><sup>5</sup> web エディタでは Visio では使用できませんが、表示モードに切り替えてコメントを表示することができます。 
+<br/><sup>6</sup> web エディターの Visio で使用できます。 
   
-## <a name="supported-file-types-in-visio-online"></a>Visio Online でサポートされているファイルの種類
+## <a name="supported-file-types-in-visio-for-the-web"></a>Visio でサポートされている web 上のファイルの種類
 
 ||||
 |:-----|:-----|:-----|

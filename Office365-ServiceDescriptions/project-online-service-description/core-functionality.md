@@ -3,7 +3,6 @@ title: コア機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online では次のコア機能が利用可能です。
-ms.openlocfilehash: 4c2313569d11e0bea84e19282ad397bb09a9f76f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 429392b849c832c3a70a713c3ed28ce9ec0ee17c
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342016"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777658"
 ---
 # <a name="core-functionality"></a>コア機能
 

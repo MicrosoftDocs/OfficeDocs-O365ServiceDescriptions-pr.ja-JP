@@ -1,8 +1,7 @@
 ---
-title: Visio Online
+title: Web 用の Visio
 ms.author: sharik
 author: skjerland
-ms.date: 6/28/2017
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,102 +12,102 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online では、Microsoft Visio の機能が web ブラウザーに拡張されます。ここでは、図が保存されている web サイト上で図を直接操作できます。 Microsoft Office 365 Office を使用しているお客様は、図を表示して共有したり、移動に関するコメントを挿入したりすることができます。
-ms.openlocfilehash: fab0748238a7c5abdea13864e694d25c8c80bf31
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+description: Web 用の visio は、Microsoft Visio の操作を web ブラウザーに拡張し、図が保存されている web サイトで図を直接操作することができます。 Microsoft Office 365 Office を使用しているお客様は、図を表示して共有したり、移動に関するコメントを挿入したりすることができます。
+ms.openlocfilehash: bb800434a9845dc9634e53972ae155c7178b52d3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130981"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777748"
 ---
-# <a name="visio-online"></a>Visio Online
+# <a name="visio-for-the-web"></a>Web 用の Visio
 
-Visio Online では、Microsoft Visio の機能が web ブラウザーに拡張されます。ここでは、図が保存されている web サイト上で図を直接操作できます。 Microsoft Office 365 Office を使用しているお客様は、図を表示して共有したり、移動に関するコメントを挿入したりすることができます。
+Web 用の visio は、Microsoft Visio の操作を web ブラウザーに拡張し、図が保存されている web サイトで図を直接操作することができます。 Microsoft Office 365 Office を使用しているお客様は、図を表示して共有したり、移動に関するコメントを挿入したりすることができます。
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>テキストと図形へのリッチ書式の適用
 <a name="BM_1"> </a>
 
-Visio Online では利用できません。書式設定機能 (多くの色数、グラデーション、効果、スタイルなど) は Visio デスクトップ アプリケーションで利用できる機能です。Visio Online では、テキスト ボックスを追加したり、図形のギャラリーから選択して、塗りつぶし、アウトライン、影の効果を定義するスタイルを適用したりできます。
+Web では、Visio では使用できません。 書式設定機能 (多くの色数、グラデーション、効果、スタイルなど) は Visio デスクトップ アプリケーションで利用できる機能です。 Web 用の Visio では、テキストボックスを追加するか、図形のギャラリーから選択して、塗りつぶし、アウトライン、影の効果を定義するスタイルを適用することができます。
   
 ## <a name="arrange-objects"></a>オブジェクトの配置
 <a name="BM_2"> </a>
 
-現時点で、Visio Online では利用できません。Visio デスクトップ アプリケーションでは、図形とテキスト ボックスを移動、サイズ変更、回転、順序変更でき、図形のグループを解除して個別に操作することもできます。 
+まだ、Visio の web では利用できません。 Visio デスクトップ アプリケーションでは、図形とテキスト ボックスを移動、サイズ変更、回転、順序変更でき、図形のグループを解除して個別に操作することもできます。 
   
 ## <a name="build-mashup-solutions"></a>マッシュアップ ソリューションの構築
 <a name="BM_3"> </a>
 
-Visio Online JavaScript Mashup API により、開発者は Visio Web ダイアグラムとそのページ、およびその図形にアクセスし、操作することができます。詳細については、「[Visio Online についてよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=825706)」を参照してください。
+Web JavaScript の Mashup API 用の Visio を使用すると、開発者は Visio web 図面、そのページ、およびその図形にアクセスして操作することができます。 詳細については、「 [Visio for web: よく寄せられる質問](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee)」を参照してください。
   
 ## <a name="create-diagrams"></a>ダイアグラムの作成
 <a name="BM_4"> </a>
 
-Visio Online ではダイアグラムを作成できませんが、Visio デスクトップ アプリケーションではダイアグラムを作成し、それを SharePoint または OneDrive for Business にアップロードすることができます。その後、ダイアグラムを他のユーザーと共有できます。
+Visio で web 用の図を作成することはできません。ただし、Visio デスクトップアプリケーションで図を作成して、それらを SharePoint または OneDrive for business にアップロードすることはできます。 その後、ダイアグラムを他のユーザーと共有できます。
   
 ## <a name="cut-copy-and-paste"></a>切り取り、コピー、および貼り付け
 <a name="BM_5"> </a>
 
-現時点で、Visio Online では利用できません。Visio デスクトップ アプリケーションで、切り取り、コピー、貼り付け機能を使用して、ダイアグラム内の図形やテキストを移動または削除することができます。
+まだ、Visio の web では利用できません。 Visio デスクトップ アプリケーションで、切り取り、コピー、貼り付け機能を使用して、ダイアグラム内の図形やテキストを移動または削除することができます。
   
 ## <a name="edit-diagrams"></a>ダイアグラムの編集
 <a name="BM_6"> </a>
 
-Visio Online でダイアグラムに変更を加えることはできません。ダイアグラムに変更を加える場合は、Visio デスクトップ アプリケーションを使用します。
+Visio では、web 用のダイアグラムを変更することはできません。 ダイアグラムに変更を加える場合は、Visio デスクトップ アプリケーションを使用します。
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>SharePoint、Web、またはブログ ページにダイアログを埋め込む
 <a name="BM_7"> </a>
 
-SharePoint、Web、またはブログ ページに (Visio デスクトップ アプリケーションで作成した) Visio のダイアグラムを挿入するために Visio Online を使用することができます。詳細については、「[Visio Online についてよく寄せられる質問](https://go.microsoft.com/fwlink/?linkid=825706)」を参照してください。
+Web で Visio を使用して、SharePoint、web、またはブログページに visio の図 (Visio デスクトップアプリケーションで作成) を挿入できます。 詳細については、「 [Visio for web: よく寄せられる質問](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee)」を参照してください。
   
 ## <a name="find"></a>検索
 <a name="BM_8"> </a>
 
-Visio Online では、省略記号ボタン (…) をクリックし、その後 [検索] を選択するか Ctrl+F を押すと、ページ上に出現する単語、数字、フレーズを検索できます。結果は、ダイアグラムの横に表示されます。Visio は図形の名前、図形のテキスト、図形データ、およびユーザー定義セルで検索を行います。
+Web 用の Visio では、省略記号ボタン (...) をクリックしてから [検索] (または Ctrl + F キーを押します) を選択すると、ページ上で単語、数字、または語句のすべての出現を検索できます。 結果は、ダイアグラムの横に表示されます。 Visio は図形の名前、図形のテキスト、図形データ、およびユーザー定義セルで検索を行います。
   
 ## <a name="font-formatting"></a>フォントの書式設定
 <a name="BM_9"> </a>
 
-Visio Online では、フォント、フォント サイズ、またはその他のフォント外観の属性 (太字、斜体、上付き文字、下線など) は変更できません。
+Visio では、フォント、フォントサイズ、またはその他のフォント表示属性 (太字、斜体、上付き文字、下線など) を web で変更することはできません。
   
 ## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
-Visio Online では、図形をクリックするとハイパーリンクに直接アクセスできます。
+Web 用の Visio では、図形をクリックすることでハイパーリンクに直接アクセスできます。
   
 ## <a name="navigation"></a>ナビゲーション
 <a name="BM_11"> </a>
 
-Visio Online では、左下のタブをクリックすると他のページに移動できます。
+Web 用の Visio では、左下のタブをクリックして、他のページに移動できます。
   
 ## <a name="office-add-ins"></a>Office アドイン
 <a name="BM_12"> </a>
 
-Visio Online では Office アドインは使用できません。
+Office アドインは、Visio の web では使用できません。
   
 ## <a name="offline-viewing"></a>オフライン表示
 <a name="BM_13"> </a>
 
-Visio Online では利用できません。 Web 用 Office には、インターネット接続とインターネットブラウザーが必要です。 インターネットやオンプレミスの Office Web Apps Server に接続されていない状態でダイアグラムの表示や編集を行うには、お使いのコンピューターに Visio デスクトップ アプリケーションがインストールされている必要があります。 Visio デスクトップ アプリケーションがインストールされている場合は、Visio のすべての機能を使用してダイアグラムを表示して編集できます。 保存時に、変更内容がオンライン ダイアグラムに反映されます。 ダイアグラムをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 詳しくは、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](https://technet.microsoft.com/library/ff431685.aspx)」を参照してください。
+Web では、Visio では使用できません。 Web 用 Office には、インターネット接続とインターネットブラウザーが必要です。 インターネットやオンプレミスの Office Web Apps Server に接続されていない状態でダイアグラムの表示や編集を行うには、お使いのコンピューターに Visio デスクトップ アプリケーションがインストールされている必要があります。 Visio デスクトップ アプリケーションがインストールされている場合は、Visio のすべての機能を使用してダイアグラムを表示して編集できます。 保存時に、変更内容がオンライン ダイアグラムに反映されます。 ダイアグラムをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 詳しくは、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](https://technet.microsoft.com/library/ff431685.aspx)」を参照してください。
   
 ## <a name="print-to-pdf"></a>PDF に印刷
 <a name="BM_14"> </a>
 
-Visio Online では、PDF に印刷できません。
+PDF への印刷は、Visio の web では使用できません。
   
 ## <a name="proofing-tools"></a>校正ツール
 <a name="BM_15"> </a>
 
-スペル チェック、翻訳、ユーザー辞書などの校正ツールは、Visio Online では利用できません。
+スペルチェック、翻訳、ユーザー辞書などの校正ツールは、Visio の web では使用できません。
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
 <a name="BM_16"> </a>
 
-Visio Online では利用できません。重複の結合やダイアグラムの比較などの高度な校閲者機能は、Visio デスクトップ アプリケーションでのみ利用できます。Visio Online では、コメントを表示、追加、または削除することができます。
+Web では、Visio では使用できません。 重複の結合やダイアグラムの比較などの高度な校閲者機能は、Visio デスクトップ アプリケーションでのみ利用できます。 Web 用の Visio では、コメントの表示、追加、または削除を行うことができます。
   
 ## <a name="save-as-or-download-a-copy"></a>名前を付けて保存またはダウンロード
 <a name="BM_17"> </a>
 
-Visio Online では、[名前を付けて保存] を使用したり、ダイアグラムのコピーをダウンロードしたりできますが、ローカル コピーを編集するには Microsoft Visio のデスクトップ アプリケーションが必要です。
+Visio for the web では、[名前を付けて保存] を使用することも、図のコピーをダウンロードすることもできますが、ローカルコピーを編集するには Microsoft Visio デスクトップアプリケーションが必要です。
   
 ## <a name="share-a-diagram"></a>ダイアグラムを共有する
 <a name="BM_18"> </a>
@@ -118,27 +117,27 @@ Visio Online では、[名前を付けて保存] を使用したり、ダイア�
 ## <a name="smartart"></a>SmartArt
 <a name="BM_19"> </a>
 
-Visio Online では、ダイアグラムに SmartArt を追加できません。ただし、Visio デスクトップ アプリケーションで SmartArt を追加した場合は、Visio Online に表示されます。
+Web 用の Visio では、図に SmartArt を追加することはできません。 ただし、Visio デスクトップアプリケーションを使用して SmartArt を追加した場合は、Visio の web に表示されます。
   
-## <a name="tell-me"></a>教えて
+## <a name="tell-me"></a>操作アシスト
 <a name="BM_20"> </a>
 
-Visio Online では、操作アシスト機能は使用できません。Visio デスクトップ アプリケーションでは、操作アシストの検索機能を使用して、実行するタスクに関するヘルプをすばやく検索できます。
+[通知] 機能は、Visio の web では使用できません。 Visio デスクトップ アプリケーションでは、操作アシストの検索機能を使用して、実行するタスクに関するヘルプをすばやく検索できます。
   
 ## <a name="undo-and-redo"></a>元に戻す/やり直し
 <a name="BM_21"> </a>
 
-元に戻す/やり直し機能は Visio Online では使用できません。
+元に戻す/やり直し機能は、Visio の web では使用できません。
   
 ## <a name="view-and-add-comments"></a>コメントの表示と追加
 <a name="BM_22"> </a>
 
- Visio Online では、ダイアグラム上でコメントを表示、追加、応答して、他のユーザーとの共同作業が可能です。 
+ Web 用の Visio では、ダイアグラムでコメントを表示、追加、および返信することで、他のユーザーと共同作業を行うことができます。 
   
 ## <a name="view-shape-data"></a>図形データの表示
 <a name="BM_23"> </a>
 
-Visio Online では、ダイアグラムのメタデータを表示できます。図形をクリックし、次に **[図形情報]** をクリックしてください。
+Visio を web に使用して、図面のメタデータを確認できます。図形をクリックしてから、[**図形情報**] をクリックします。
   
 ## <a name="view-visio-files-in-the-browser"></a>ブラウザーでの Visio ファイルの表示
 <a name="BM_24"> </a>
@@ -148,6 +147,6 @@ Visio ダイアグラムはオンラインで保存されるため、そのリ�
 ## <a name="zoom"></a>拡大/縮小
 <a name="BM_25"> </a>
 
-Visio Online includes a slider that lets you zoom in and out. Also, you can use the Pan &amp; Zoom feature to zoom in on a region of the diagram.
+Visio on the web には、拡大または縮小するためのスライダーが含まれています。また、パン&amp;ズーム機能を使用して、図の領域を拡大することもできます。
   
 

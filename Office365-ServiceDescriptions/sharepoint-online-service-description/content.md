@@ -3,7 +3,6 @@ title: コンテンツ
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のコンテンツ機能により、エンタープライズ コンテンツ管理 (ECM) がだれにとっても簡単なものになります。 これは、従来のコンテンツ管理、ソーシャル機能、および強力な検索を組み合わせたものです。
-ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 6b4765e1d811c1c23ef6e4f5cf95c2d20522295b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130958"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777578"
 ---
 # <a name="content"></a>コンテンツ
 

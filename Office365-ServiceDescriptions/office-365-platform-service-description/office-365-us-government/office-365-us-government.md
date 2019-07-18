@@ -3,7 +3,6 @@ title: Office 365 US Government
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の固有の要件および進化する要件に対応して、Microsoft は Office 365 US Government プラン (orOffice 365 US Government) を作成しています。 このセクションでは、Office 365 US Government 固有の機能の概要について説明します。 この補足セクションは、「Office 365 サービスの説明」に記載することをお勧めします。
-ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 327c35a24a760c9a4dfd5f6f377ea7e9b9a68c6d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131281"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777298"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -168,7 +167,7 @@ Office 365 US Government プランのシステム要件については、[office
 | 音声ビデオシステム、電話会議  <br/> |いいえ <sup>2、3</sup> <br/> |いいえ <sup>2、3</sup> <br/> |はい <sup>3、5</sup> <br/> |いいえ  <br/> |
 |Power BI Pro  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Project Online  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |
-|Visio Online  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
+|Web 用の Visio  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
 |Yammer Enterprise  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
    
 > <sup>1</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、G3、および G5 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user.
@@ -176,7 +175,7 @@ Office 365 US Government プランのシステム要件については、[office
 <br/> <sup>3</sup>現時点では GCC High または DoD プランでは利用できませんが、近日中に提供されます。 
 <br/><sup>4</sup> Yammer エンタープライズは OFFICE 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンの提案として無償で購入することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD では利用可能ではありません。
 <br/><sup>5</sup>通話プランはアドオンです。 
-<br/><sup>6</sup>含まれていませんが、個別のアドオンとして購入できます。 Visio Online には、サブスクリプションの一部として Visio Online デスクトップクライアントが含まれています。  
+<br/><sup>6</sup>含まれていませんが、個別のアドオンとして購入できます。 Visio for the web には、サブスクリプションの一部として Visio デスクトップアプリが含まれています。
 ## <a name="platform-features"></a>プラットフォーム機能 
 <a name="BM7-Platform"> </a>
 

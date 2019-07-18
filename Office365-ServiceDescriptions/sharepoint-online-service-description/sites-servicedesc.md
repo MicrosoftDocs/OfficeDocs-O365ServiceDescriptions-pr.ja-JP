@@ -3,7 +3,6 @@ title: サイト
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ Web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のサイト機能は、組織があらゆる種類のサイトを作成し、さらにサイト管理を簡素化する単一のインフラストラクチャを構築するために使用できる完全なツール セットを提供します。 詳細については、「SharePoint Online に関する情報を探す」をご覧ください。
-ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 9b7848c07aa9c161eedaae85a168befff804716b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130871"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777828"
 ---
 # <a name="sites"></a>サイト
 

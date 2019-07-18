@@ -3,7 +3,6 @@ title: リソース管理
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
 description: Project Online では、次のリソース管理機能が利用可能です。
-ms.openlocfilehash: 13857e3db105d7e968d3a449bda777bb55392982
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 11dee5e532d96efc20cfc9c35563307fc67ce572
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343686"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777898"
 ---
 # <a name="resource-management"></a>リソース管理
 

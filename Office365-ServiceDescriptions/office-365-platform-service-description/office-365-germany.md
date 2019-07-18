@@ -3,7 +3,6 @@ title: Office 365 Germany
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 4a98fa9b16e68233ffb9cc76d62bd07c1eed97e7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131080"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777388"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -39,10 +38,10 @@ Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 3
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 ProPlus<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|Office 365 ProPlus <sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online <sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Power BI <sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|Visio Online<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 用 Visio <sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Yammer エンタープライズ  <br/> |該当なし  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |
 |Azure Information Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
@@ -50,7 +49,7 @@ Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 3
 > <sup>1</sup>ユーザーとドメインをセットアップできる Microsoft 365 管理センターを含む、関連機能を備えたクラウドベースのサブスクリプションサービス。 <br/>
 <sup>2</sup>Office 365 ProPlus プランを別途購入できます。 Office 365 ProPlus は Office 365 Germany Enterprise E3 と Office 365 Germany Enterprise E4 に含まれています。 先進認証 (「[Office クライアントで Office 365 先進認証を使用する](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)」) が Office 365 Germany で使用可能になっている必要があります。 <br/>
 <sup>3</sup> Project Online と Power BI は含まれていませんが、個別のアドオン サービスとして購入するか、または Office 365 Germany Education A1 プランに無料で追加することが可能です。 <br/>
-<sup>4</sup> Visio Online 従量課金プラン (表示機能) は無料でご利用いただけます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
+<sup>4</sup> web 消費 (表示機能) の Visio は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -700,7 +699,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |Scorecards & Dashboards <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[SQL Server Reporting Services (SSRS) 統合モード](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[タイムラインのスライサー](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[Visio Online](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用の Visio](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>4</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**検索機能** <br/> |**OneDrive for Business プラン 1** <br/> |**OneDrive for Business プラン 2** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |
 |Advanced Content Processing <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -793,7 +792,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 > <sup>1</sup> Azure Information Protection は含まれていませんが、サポートされている IRM 機能を有効にするために個別のアドインとして購入できます。<br/>
 <sup>2</sup>Office および SharePoint のアプリ ストアは、Microsoft Corporation または Microsoft の世界中のいずれかの施設の関連会社が運用しているオプションのサービスです。 ストアで入手可能なアプリは、アプリのさまざまな発行元によって提供され、アプリ発行元の使用条件とプライバシーに関する声明が適用されます。 これらのいずれかのアプリを使用した場合、データは、アプリの発行元、その関連会社またはサービス プロバイダーが施設を保有する国に転送されたり、それらの国で保存または処理されます。 特定のアプリおよび支払い方法が使えるかどうかは、地域やサービスによって異なります。 そのようなアプリをダウンロードして使用する前に、アプリ発行元の使用条件とプライバシーに関する声明をよく確認してください。<br/>
 <sup>3</sup> 現時点では Windows スマートフォンでは利用できません。<br/> 
-<sup>4</sup> Visio Online 従量課金プラン (表示機能) は無料でご利用いただけます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
+<sup>4</sup> web 消費 (表示機能) の Visio は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。 
   
 ## <a name="project-online-features"></a>Project Online の機能
 <a name="BM1_Platform"> </a>
@@ -962,7 +961,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[SQL Server Reporting Services (SSRS) 統合モード](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[タイムラインのスライサー](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[データ モデルを含む Excel ブックの使用と対話](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx)<sup>18</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Web 用の Visio](https://technet.microsoft.com/library/mt827475.aspx)<sup>18</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>18</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**検索機能** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Advanced Content Processing <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1068,7 +1067,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 <sup>14</sup>組織コミュニティの web サイトは利用可能ですが、パブリックコミュニティ提供のヘルプは利用できません。<br/>
 <sup>15</sup> Access 2010 はサポートされていません。<br/> <sup>16</sup>キオスクユーザーは、ライブタイルを使用して Office ドキュメントを作成できません。 ドキュメントを作成するには、[**新規**] をクリックし、[新しい**ファイルの作成**] メニューからファイルの種類-Word 文書、excel ブック、PowerPoint プレゼンテーション、OneNote ノートブック、または excel アンケートを選択して、SharePoint Online サイトからドキュメントを作成する必要があります。 <br/>
 <sup>17</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。<br/>
-<sup>18</sup> Visio Online の使用量 (表示機能) は無料で利用できます。 Visio Online の作成機能と編集機能には、ライセンスが必要です。 Visio Online の詳細については、「 [Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。<br/>
+<sup>18</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。<br/>
 <sup>19</sup> K1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 K1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
@@ -1213,9 +1212,9 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon. 
   
-## <a name="visio-online-features"></a>Visio Online の機能
+## <a name="visio-for-the-web-features"></a>Web 機能用の Visio
 <a name="BM3_Skype"> </a>
 
-Visio Online は Office 365 Germany でご利用いただけます。Visio Online の詳細については、「[Visio Online サービスの詳細](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+Web 用の Visio は、Office 365 ドイツで利用できます。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
   
 

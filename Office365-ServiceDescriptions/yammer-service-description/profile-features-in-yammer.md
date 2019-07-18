@@ -3,7 +3,6 @@ title: Yammer のプロファイル機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer では次のプロファイル機能が利用可能です。
-ms.openlocfilehash: c98517d1a7dc51976ec4c3b20b6ad7e42f6bb94a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342186"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777938"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer のプロファイル機能
 

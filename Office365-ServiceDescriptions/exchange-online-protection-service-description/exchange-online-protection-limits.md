@@ -3,7 +3,6 @@ title: Exchange Online Protection の制限
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。
-ms.openlocfilehash: 0a391a4b11241ff9c502de334a10425e4edff60a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342026"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776708"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 

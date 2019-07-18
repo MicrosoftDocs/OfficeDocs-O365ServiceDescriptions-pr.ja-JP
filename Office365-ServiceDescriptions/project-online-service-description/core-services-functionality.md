@@ -3,7 +3,6 @@ title: コア サービスの機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 12/21/2016
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 次のコアサービス機能は、Project Online で利用できます。
-ms.openlocfilehash: 2216fb1fc2531711c7ccf26a77328d386e2c07f6
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: fdcf02187d4f896ddd0b668176deb7508f608faf
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343766"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776968"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 

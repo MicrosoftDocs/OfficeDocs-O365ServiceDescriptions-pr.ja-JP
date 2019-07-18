@@ -3,7 +3,6 @@ title: Office 365 スイート機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/08/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343286"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776908"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 

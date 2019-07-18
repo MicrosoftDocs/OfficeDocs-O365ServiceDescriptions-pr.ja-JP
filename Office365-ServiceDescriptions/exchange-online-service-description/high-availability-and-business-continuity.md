@@ -3,7 +3,6 @@ title: 高可用性とビジネス継続性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online は、組織の電子メールインフラストラクチャに対して広範な保存と回復のサポートを提供します。 これには、データ センターでのメールボックス レプリケーションと、削除済みメールボックスと削除済みアイテムを復元する機能が含まれます。
-ms.openlocfilehash: d9aac8e2843e085bea9aa4c1e3edc0dbb0789130
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342886"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776828"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性とビジネス継続性
 

@@ -3,7 +3,6 @@ title: Exchange Online のセットアップと管理
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: このセクションでは、Exchange Online の設定をカスタマイズし、組織の Exchange Online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
-ms.openlocfilehash: 93eb996df011a83658aa953521a469d7822f9118
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342786"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776488"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
