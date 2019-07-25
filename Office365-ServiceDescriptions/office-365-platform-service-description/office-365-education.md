@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
-ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777018"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854886"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -157,7 +157,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Advanced Security Management  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|Office 365 Advanced eDiscovery<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|高度な電子情報開示<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |**[コンプライアンス [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
@@ -186,7 +186,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 <sup>5</sup>で[https://securescore.office.com](https://securescore.office.com/)利用可能 (リンクは管理者権限が必要)。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
 <sup>6</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 <br/> 
 <sup>7</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br>
-<sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。 
+<sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。 <br/>
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 Security &amp; Compliance Center features
 <a name="SCC"> </a>
@@ -201,26 +201,30 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Advanced Security Management](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)(メールフィルタリング、マルウェア対策など)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)(フィッシングキャンペーン用の脅威エクスプローラーなど) <sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[検索と調査]<br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[電子情報開示検索](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4)<sup>4</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4)<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|手動のアイテム保持/削除ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[電子情報開示のケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[手動のアイテム保持/削除ポリシー](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[統合](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)された監査<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|||||
    
 > [!NOTE]
 > <sup>1</sup>データガバナンスにより、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。そして、ワークロード、ユーザー、およびグループにわたって保持/削除ポリシーを作成して適用します。 メールボックスに適用されるアイテム保持ポリシーには、Office 365 Enterprise E3 または E5 が必要です。 <br/> 
 <sup>2</sup>高度なデータガバナンスにより、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーに基づいて情報を分類することができます。 これには、ポリシーの推奨などのインテリジェント/自動アクションが含まれます。データにラベルを自動的に適用する。機密データの種類またはクエリに基づいてラベルを適用する。スマートインポートフィルターの使用。 また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。 <br/> 
 <sup>3</sup>無制限。 <br/> 
 <sup>4</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/> 
-<sup>5</sup> Advanced Threat Protection は、Office 365 A5、および Office 365 A1 および Office 365 A3 のスタンドアロンサービスとして使用できます。 
+<sup>5</sup> Advanced Threat Protection は、Office 365 A5、および Office 365 A1 および Office 365 A3 のスタンドアロンサービスとして使用できます。<br/>
+<sup>6</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。 <br/>
   
 ## <a name="office-application-features"></a>Office アプリケーション機能
 <a name="SCC"> </a>

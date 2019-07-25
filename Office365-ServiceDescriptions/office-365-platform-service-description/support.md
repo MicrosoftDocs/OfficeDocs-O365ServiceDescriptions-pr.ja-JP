@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Office 365 Enterprise、Business、エデュケーション、および政府のすべてのサブスクリプションで、Microsoft サポートは、グローバルな技術、セールス前、請求書、サブスクリプションサポートを提供します。 サポートは、Office 365 ポータルと、有料サブスクリプションおよび試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Office 365 サポートオプション」を参照してください。
-ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233514"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854905"
 ---
 # <a name="support"></a>サポート
 
@@ -185,7 +185,7 @@ Microsoft パートナーを選択して、サービス要求チケットの作�
 開発者は、[MSDN](https://developer.microsoft.com/office/docs) で Office 365 用の Office アプリケーションや SharePoint アプリケーションの開発について学習することができます。開発者向けのサポートは、Premier またはパートナー サポート リソースから開発者コミュニティのブログやフォーラムとしてオンラインで提供、または Microsoft から直接提供します。開発者向けサポート オプションのリンクについては、「 [Office 開発者向けドキュメント](https://developer.microsoft.com/office/docs)」を参照してください。
   
 > [!NOTE]
-> Office 365 チームではスクリプトをサポートしていません。スクリプトに関するサポートが必要な場合は、「[何にお困りですか?](https://support.microsoft.com/)」をご確認ください。
+> Office 365 チームは、スクリプト (たとえば、JavaScript、VBScript などのスクリプト手法、VBA など) をサポートしていません。 スクリプトに関するサポートが必要な場合は、「[何にお困りですか?](https://support.microsoft.com/)」をご確認ください。 Office アプリケーションの使用状況に関するサポートについては、「 [office 365 サブスクライバーの Microsoft office アプリケーションの問題](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)」を参照してください。
   
 ### <a name="volume-licensing"></a>ボリューム ライセンス
 
