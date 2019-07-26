@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411462"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908724"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -191,7 +191,7 @@ ADG アイテム保持ポリシーは、自動分類を使用して、特定の�
 
 ## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
-上級電子情報開示 Office 365 をエクスポートする前に、組織内の IT および法務部門に対して、調査や訴訟に関連するコンテンツを特定、収集、保存、削減、確認するための調査および電子情報開示ソリューションを提供します。bios.
+Office 365 Advanced eDiscovery は、企業内の IT および法務部門向けの調査および電子情報開示ソリューションを提供して、調査または訴訟に関連するコンテンツを特定、収集、保存、削減、およびレビューしてからエクスポートする前にOffice 365 システム
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -199,7 +199,7 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-訴訟や調査の一環として、コンテンツが保留中になっている場合は、Advanced eDiscovery からメリットを得ることができます。
+ユーザーがケースのデータ保管担当者 (ドキュメントまたは電子ファイルの管理者の制御を持つユーザー) として選択されている場合、高度な電子情報開示によるユーザーの利点があります。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -207,7 +207,7 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-組織は、ユーザーごとに高度な電子情報開示を管理し、高度な電子情報開示ケースにユーザーを追加したり、電子情報開示のアクセス許可によって共有の場所に対する編集アクセス権を持つユーザーに提供したりすることができます。 詳細な電子情報開示のアクセス許可をライセンスユーザーに適用する方法については、「[セキュリティ & コンプライアンスセンターで電子情報開示のアクセス許可を割り当てる](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)」を参照してください。
+電子情報開示管理者は、「 [Add 保管担当者 to The Advanced ediscovery case](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)」の説明に従って、高度な電子情報開示の組み込みの保管担当者管理ツールを使用して、特定のユーザーをデータ保管担当者として選択できます。
 
 ## <a name="office-365-customer-key"></a>Office 365 の顧客キー
 
@@ -255,7 +255,7 @@ Microsoft は、ライセンスが付与されていないユーザーに対す�
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 での特権アクセス管理
 
-特権アクセス管理 (PAM) は、Office 365 の特権のある管理タスクに対するきめ細かいアクセス制御を提供します。 特権アクセス管理を有効にした後は、管理者特権のタスクを完了するために、ユーザーは、高いスコープと時間がバインドされた承認ワークフローを使用してジャストインタイムアクセスを要求する必要があります。
+特権アクセス管理 (PAM) は、Office 365 の特権のある管理タスクに対するきめ細かいアクセス制御を提供します。 PAM を有効にした後は、管理者特権のタスクを完了するために、ユーザーは、高いスコープと時間がバインドされた承認ワークフローを使用してジャストインタイムアクセスを要求する必要があります。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -293,21 +293,21 @@ Office 365 E3、Microsoft 365 E3、および Office 365 データ損失防止の
 
 管理者は、[**データ損失防止** > の**場所**] の下にある Office 365 セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>Teams チャットおよびチャネル会話のデータ損失防止
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Teams チャットおよびチャネルメッセージのデータ損失防止
 
-Teams チャットおよびチャネル会話のデータ損失防止 (DLP) を使用すると、組織は、金融情報、個人を特定する情報などの機密情報を含むチャットおよびチャネル会話のメッセージをブロックできます。正常性に関する情報、またはその他の機密情報。
+Teams チャットおよびチャネルメッセージのデータ損失防止 (DLP) を使用すると、組織は、金融情報、個人を特定できる情報、健康関連の情報などの機密情報を含むチャットおよびチャネルメッセージをブロックできます。その他の機密情報。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、Teams のチャットとチャネルの会話において DLP の恩恵を受けることができます。
+Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、Teams のチャットおよびチャネルメッセージに対して DLP の恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-送信者は、組織の DLP ポリシーに構成されているように、機密性の高い情報を検査して機密情報を受信することで、機密性の高い情報を得ることができます。
+送信者は、組織の DLP ポリシーで構成されているように、機密性の高い情報があることを調査して、送信したチャットとチャネルメッセージに機密情報を含めることによって得られます。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Teams のチャットとチャネルの会話は、テナント内のすべてのユーザーについて、これらの DLP 機能の*有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「[データ損失防止の概要](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)」を参照してください。
+既定では、Teams チャットおよびチャネルメッセージは、テナント内のすべてのユーザーについて、これらの DLP 機能の*有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「[データ損失防止の概要](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -359,3 +359,23 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 管理者は、高度なメッセージ暗号化のメールフロールールをライセンスユーザーにのみ適用する必要があります。 メールフロールールの定義の詳細については、「 [Office のメールメッセージを暗号化するためのメールフロールールを定義する 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)」を参照してください。
+
+## <a name="supervision-policies"></a>監督ポリシー
+
+Office 365 の監督ポリシーでは、指定されたレビュー担当者による調査のために従業員の通信を取得できます。 組織内の内部および外部の電子メール、Microsoft Teams、またはサードパーティの通信をキャプチャする特定のポリシーを定義できます。 その後、レビュー担当者がメッセージを調べて、組織のメッセージ標準に準拠していることを確認し、分類型を使用してそれらを解決できます。
+
+### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
+
+Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、監督ポリシーからメリットを得ることができます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+ユーザーは、監督ポリシーによって通信を監視することによって、サービスからメリットを得ることができます。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+管理者セキュリティ & コンプライアンスセンターで監督ポリシーを作成します。 これらのポリシーでは、組織内で検討する必要のある通信およびユーザーを定義し、通信で満たす必要のあるカスタム条件を定義し、レビューを実行するユーザーを指定します。
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+管理者は、監督ポリシーに含める特定のユーザーまたはグループを選択します。 グループを選択するときに、監督ポリシーから除外するグループ内の特定のユーザーを選択することもできます。 監督ポリシーの詳細については、「 [Office 365 の監督ポリシー](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)」を参照してください。
