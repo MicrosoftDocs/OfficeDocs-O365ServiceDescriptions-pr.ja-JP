@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233524"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928416"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -76,15 +76,17 @@ GCC High および DoD 環境内の Office 365 サブスクリプションには
     
 4. 特定のユーザー
     
-GCC High または DoD 環境で SharePoint Online と OneDrive for Business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーとの共有は、GCC High および DoD 環境でのみ (4 番目のオプション)、これらのオプションは、テナントレベルのアクセス制御に基づいて制限することもできます。
+GCC High または DoD 環境で SharePoint Online と OneDrive for Business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーと共有します (4 番目のオプション)。 これらのオプションは、テナントレベルのアクセス制御に基づいて制限できます。
+
+特定のユーザーと共有している場合、SharePoint は、共有先の電子メールアドレスにワンタイムパスコードを送信して、ユーザーがリンクの目的の受信者であることを確認します。 ただし、GCC-High テナントが別の GCC-High テナントと共有している場合、Azure AD の受信者にはゲストアカウントが作成され、ユーザー名とパスワードでサインインします。
   
-GCC High テナントは、他の GCC High テナントとのみ共有できます。 次に例を示します。
+その他の例:
   
-- GCC High テナント A は、GCC High テナント B と共有できます。
+- GCC High テナント A は GCC High テナント B と共有でき、B ユーザーは Azure AD ユーザー名とパスワードを使用してサインインできます。
     
-- 非 GCC テナント C は、GCC High テナント A または B と共有できます。
+- 非 GCC テナント C は、GCC High テナント A または B と共有でき、A または B ユーザーはワンタイムパスコードを使用してサインインします。
     
-- GCC High テナント A または B は、非 GCC High テナント C と共有できません。
+- GCC High テナント A または B は、非 GCC High テナント C と共有でき、C ユーザーはワンタイムパスコードを使用してサインインします。
     
 また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。 たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC High テナントと同期されます。 ユーザー A がライブラリに移動し、変更について通知を作成します。 通知は Gmail アドレスに送信されません。
   
@@ -92,7 +94,7 @@ GCC High テナントは、他の GCC High テナントとのみ共有できま�
   
  **Business Connectivity Services** -BCS 機能は、クラウドサービスのセキュリティ境界内でデータソースにアクセスできるという接続シナリオに対してサポートされています。 
   
- **サンド ボックス ソリューション**: この機能は非推奨であり、利用できません。サンドボックス ソリューションはすべて、 [ SharePoint アドイン拡張モデル ]( https://msdn.microsoft.com/library/office/fp179930.aspx)に移行する必要があります。
+ **サンド ボックス ソリューション**: この機能は非推奨であり、利用できません。 セキュリティで保護されたソリューションはすべて、 [SharePoint アドインの拡張モデル]( https://msdn.microsoft.com/library/office/fp179930.aspx)に移行する必要があります。
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 

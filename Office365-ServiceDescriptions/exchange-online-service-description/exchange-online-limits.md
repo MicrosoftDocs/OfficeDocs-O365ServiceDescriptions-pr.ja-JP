@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776748"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928898"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -240,7 +240,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 - **メッセージサイズの制限**: メッセージサイズの制限は、サイズの大きいメッセージが他のメッセージの配信をブロックしたり、すべてのユーザーのサービスのパフォーマンスに影響を与えないようにするために必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。
 
     > [!NOTE]
-    > 電子メール クライアントによっては、Exchange Online のメッセージ サイズ制限よりも制限値が低い場合や、個別の添付ファイルのサイズを制限できる場合があります。
+    > 電子メール クライアントによっては、メッセージ サイズの制限が低くなるか、個々の添付ファイルのサイズが Exchange Online のメッセージ サイズ制限より小さい値に制限される場合があります。
 
 - **メッセージヘッダーサイズの制限**: メッセージ内のすべてのメッセージヘッダーフィールドの最大サイズを指定します。 現在の制限は 256 KB です。 すべてのメッセージ ヘッダーの合計サイズが 256 KB を超えた場合、Exchange Online はエラー「552 5.3.4 ヘッダーサイズが最大固定サイズを超えています」を表示して、メッセージを拒否します。 メッセージ本文や添付ファイルのサイズは考慮されません。 ヘッダー フィールドはプレーン テキストであるため、ヘッダーのサイズは各ヘッダー フィールドの文字数とヘッダー フィールドの合計数によって決定されます。 テキストの 1 文字のサイズは 1 バイトです。
 
@@ -333,7 +333,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     > [!NOTE]
     > 受信者数の制限と受信者制限の目的で、組織の共有アドレス帳に保存される配布グループは 1 つの受信者としてカウントされます。個人用の配布リストでは、各受信者は個別にカウントされます。
 
-- **メッセージ**数の制限: メッセージ数の制限は、指定した期間内にユーザーが Exchange Online アカウントから送信できるメッセージの数を決定します。 この制限により、単一の送信者がシステム リソースを過剰に消費するのを防ぐことができます。 SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。
+- **受信者のプロキシアドレスの制限**: 受信者のプロキシアドレスの制限は、受信者のメールボックスが持つことのできるエイリアス (電子メールアドレス) の最大数です。 
+
+- **メッセージ**数の制限: メッセージ数の制限は、指定した期間内にユーザーが Exchange Online アカウントから送信できるメッセージの数を決定します。 この制限によって、単一の送信者がシステムリソースを消費することを防ぐことができます。 SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。
 
 #### <a name="sending-limits-across-office-365-options"></a>Office 365 の各オプションでの送信の制限
 
@@ -353,17 +355,16 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |受信者数の制限|制限なし<sup>1</sup>|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|
 |受信者の制限|500 の受信者<sup>1</sup>|500 の受信者|500 の受信者|500 の受信者|
 |受信者のプロキシ アドレスの制限|400|400|400|400|
+|メッセージ数の制限|1 分あたり 30 個のメッセージ|1 分あたり 30 個のメッセージ|1 分あたり 30 個のメッセージ|1 分あたり 30 個のメッセージ|
 
 > [!NOTE]
 > <sup>1</sup> これは Exchange Server 2013 組織の既定の制限です。管理者は、組織に適用されるこの値を変更できます。
 
 ## <a name="reporting-and-message-trace-limits"></a>レポート作成とメッセージ追跡の制限
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 レポート作成とメッセージ追跡の制限については、「[Exchange Online Protection でのレポート作成とメッセージ追跡](http://go.microsoft.com/fwlink/p/?LinkId=394248)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
 
 ## <a name="retention-limits"></a>保持の制限
-<a name="RetentionLimits"> </a>
 
 これらの制限で、受信トレイ内の特定のフォルダー内のアイテムにアクセス可能な時間長を制御します。
 
@@ -487,7 +488,6 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |トランスポートルールによるメッセージのリダイレクト回数|無制限|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
 
 ## <a name="moderation-limits"></a>モデレートの制限
-<a name="ModerationLimits"> </a>
 
 これらの制限は、配布グループとトランスポート ルールに適用されるメッセージの承認のモデレート設定を制御します。
 
@@ -525,15 +525,12 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 > <sup>1</sup> これは Exchange Server 2013 組織の既定の制限です。管理者は、組織に適用されるこの値を変更できます。
 
 ## <a name="exchange-activesync-limits"></a>Exchange ActiveSync の制限
-<a name="BKMK_ExchangeActiveSync_Limits"> </a>
 
 次の制限が、モバイル デバイスと Exchange との間でメールボックス データを同期するクライアント プロトコルである Microsoft Exchange ActiveSync に適用されます。
 
 - **Exchange activesync デバイスの制限**: メールボックスあたりの exchange activesync デバイスの最大数。
 
 - **Exchange activesync デバイス削除の制限**: exchange 管理者が1か月で削除できる exchange activesync デバイスの最大数。
-
-- **Exchange activesync のファイル添付の制限**: exchange activesync デバイスで送受信できるメッセージファイル添付の最大サイズ。
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>各 Office 365 オプションの Exchange ActiveSync の制限
 
@@ -542,7 +539,6 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|1280|1280|
-|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB |25 MB |25 MB |25 MB |25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>各スタンドアロン オプションの Exchange ActiveSync の制限
 
@@ -551,4 +547,3 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|
-|Exchange ActiveSync ファイル添付の制限|25 MB|25 MB |25 MB |25 MB|

@@ -3,7 +3,6 @@ title: Microsoft Dynamics 365 (オンライン) サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: Dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである Dynamics 365 の一部として含まれるようになりました。 Dynamic 365 は、特定のビジネス機能を管理する新しいアプリケーションを提供することにより、カスタマー リレーションシップ マネジメント (CRM) とエンタープライズ リソース プランニング (ERP) の機能を統合します。
-ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8455300ea65eebb842c8e6fd21d1a2c5a73f4465
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342966"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928484"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (オンライン) サービスの説明
 
@@ -48,7 +47,7 @@ Dynamics 365 の機能の詳細については、「[Microsoft Dynamics 365](htt
   
 ## <a name="application-availability-across-dynamics-365-plans"></a>Dynamics 365 プラン全体のアプリケーションの可用性
 
-次の表は、Enterprise プランと Business プラン全体におけるすべての Dynamics 365 アプリケーションとその可用性を示しています。価格、ライセンス、ユーザー権利などに関する詳細情報については、次のダウンロードを参照してください。[Dynamics 365 ライセンス ガイド](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
+次の表は、Enterprise プランと Business プラン全体におけるすべての Dynamics 365 アプリケーションとその可用性を示しています。価格、ライセンス、ユーザー権利などに関する詳細情報については、次のダウンロードを参照してください。[Dynamics 365 ライセンス ガイド](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)。
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -68,7 +67,7 @@ Dynamics 365 の機能の詳細については、「[Microsoft Dynamics 365](htt
   
 ## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Dynamics 365 for Sales、Customer Service、Field Service、Project Service Automation のサブスクリプション ライセンスの比較
 
-5 つの各ユーザー サービス レベルに関連する使用権の大まかな概要を次に示します。詳細な比較については、ダウンロードの「 **付録 B** 」を参照してください。 [Dynamics 365 ライセンス ガイド](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
+5 つの各ユーザー サービス レベルに関連する使用権の大まかな概要を次に示します。詳細な比較については、ダウンロードの「 **付録 B** 」を参照してください。 [Dynamics 365 ライセンス ガイド](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)。
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
