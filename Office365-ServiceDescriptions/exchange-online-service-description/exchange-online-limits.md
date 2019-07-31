@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928898"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940535"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -266,6 +266,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |メッセージ サイズの制限 - OWA|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|
 |メッセージ サイズの制限 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |メッセージ サイズの制限 - 移行|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|
+|メッセージサイズの制限-iOS および Android 用の Outlook | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |暗号化されたメッセージのサイズ制限 (新しい機能を備えた Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup>|150 MB |150 MB|150 MB|150 MB|150 MB|150 MB|
 |暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |件名の長さの制限|255 文字|255 文字|255 文字|255 文字|255 文字|255 文字|
@@ -273,6 +274,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |添付ファイルのサイズ制限 - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
 |添付ファイルのサイズ制限 - OWA <sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
 |添付ファイルのサイズ制限 - Outlook for Mac|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|添付ファイルのサイズ制限-iOS および Android 用の Outlook|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |マルチパート メッセージの制限|250 パーツ|250 パーツ|250 パーツ|250 パーツ|250 パーツ|250 パーツ|
 |埋め込みメッセージの深さの制限|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|
 
@@ -289,13 +291,15 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |メッセージ サイズの制限 - OWA|10 MB<sup>4</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|150 MB<sup>1、2</sup>|
 |メッセージ サイズの制限 - Outlook for Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |メッセージ サイズの制限 - 移行|該当なし|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
+|メッセージサイズの制限-iOS および Android 用の Outlook |25 MB |33 MB |33 MB |33 MB |
 |暗号化されたメッセージのサイズ制限 (新しい機能を備えた Office 365 Message Encryption を使用するサブスクライバー向け)<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
-|暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)<sup>6</sup>|25 MB|25 MB |25 MB |25 MB|
+|暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |件名の長さの制限|255 文字|255 文字|255 文字|255 文字|
 |添付ファイルの制限|1024 attachments<sup>4</sup>|250 個の添付ファイル|250 個の添付ファイル|250 個の添付ファイル|
 |添付ファイルのサイズ制限 - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
 |添付ファイルのサイズ制限 - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
 |添付ファイルのサイズ制限 - Outlook for Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
+|添付ファイルのサイズ制限-iOS および Android 用の Outlook|25 MB |33 MB|33 MB|33 MB|
 |マルチパート メッセージの制限|250 パーツ|250 パーツ|250 パーツ|250 パーツ|
 |埋め込みメッセージの深さの制限|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|
 
@@ -381,7 +385,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|
-|迷惑メール フォルダーの保存期限|30 日間|30 日|30 日|30 日|30 日|30 日間|
+|迷惑メール フォルダーの保存期限|30 日間|30 日間|30 日間|30 日間|30 日間|30 日間|
 
 > [!NOTE]
 > <sup>1</sup> これはOffice 365 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
@@ -393,7 +397,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>2</sup>|14 日間<sup>2</sup>|14 日間<sup>2</sup>|
-|迷惑メール フォルダーの保存期限|2 年間<sup>1</sup>|30 日間|30 日|30 日|
+|迷惑メール フォルダーの保存期限|2 年間<sup>1</sup>|30 日間|30 日|30 日間|
 
 > [!NOTE]
 > <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。 <br/> <sup>2</sup> これは Exchange Online 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
@@ -478,11 +482,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
-|ジャーナル ルールの最大数|無制限|50ルール|50ルール|50ルール|
+|ジャーナル ルールの最大数|制限なし|50ルール|50ルール|50ルール|
 |トランスポート ルールの最大数|無制限|300 個のルール|300 個のルール|300 個のルール|
 |各トランスポート ルールの最大サイズ|40 KB|8 KB|8 KB|8 KB|
 |すべてのトランスポート ルールで使用されるすべての正規表現の文字に関する制限|無制限|20 KB|20 KB|20 KB|
-|すべてのトランスポート ルールによってメッセージに追加される最大受信者数|制限なし|100 の受信者|100 の受信者|100 の受信者|
+|すべてのトランスポート ルールによってメッセージに追加される最大受信者数|無制限|100 の受信者|100 の受信者|100 の受信者|
 |被転送者の制限|制限なし|10 の受信者|10 の受信者|10 の受信者|
 |メッセージのリダイレクト回数|3 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
 |トランスポートルールによるメッセージのリダイレクト回数|無制限|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
@@ -508,7 +512,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |調停メールボックスの最大サイズ|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |最大モデレーター数|10 人|10 人|10 人|10 人|10 人|10 人|
-|モデレートを待機しているメッセージの有効期限|2 日|2 日|2 日|2 日|2 日|2 日間|
+|モデレートを待機しているメッセージの有効期限|2 日|2 日間|2 日間|2 日間|2 日間|2 日間|
 |期限切れモデレート通知メッセージの最大頻度|1 時間あたり 300 通|1 時間あたり 300 通|1 時間あたり 300 通|1 時間あたり 300 通|1 時間あたり 300 通|1 時間あたり 300 通|
 
 ### <a name="moderation-limits-across-standalone-options"></a>スタンドアロン オプションのモデレートの制限
