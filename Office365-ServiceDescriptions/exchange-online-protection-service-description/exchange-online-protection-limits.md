@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928406"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051608"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
@@ -52,7 +52,7 @@ ms.locfileid: "35928406"
 |メッセージ サイズの制限 (添付ファイルを含む)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |受信者の制限  <br/> |上記の "受信者の制限" を参照  <br/> |ホストされているメールボックスから送信する場合は、500 人の受信者。その他のシナリオについては、上記の "受信者の制限" を参照  <br/> |上記の "受信者の制限" を参照  <br/> |
 |差出人セーフ リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
-|ブロックする差出人の制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
+|ポリシーあたりの受信拒否リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
 |IP 許可一覧または IP 禁止一覧の制限  <br/> |1,273 エントリ  <br/> |1,273 エントリ  <br/> |1,273 エントリ  <br/> |
 |保留状態のメッセージの制限  <br/> |2 日間、15 分ごとに再試行  <br/> |2 日間、15 分ごとに再試行  <br/> |2 日間、15 分ごとに再試行  <br/> |
 |スパム検疫の保存期間  <br/> |既定では30日間ですが、下げることができます  <br/> |既定では30日間ですが、下げることができます  <br/> |既定では30日間ですが、下げることができます  <br/> |

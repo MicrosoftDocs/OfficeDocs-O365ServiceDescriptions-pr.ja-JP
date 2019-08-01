@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Exchange Online のプランを含む Office 365 プラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 66a958899ed12638344a3bf6d04b2808f6e7e275
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777398"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051599"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 プラットフォーム サービスの説明
 
@@ -96,11 +96,11 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |<sup>20</sup>なし  <br/> |<sup>20</sup>なし  <br/> |いいえ  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft MyAnalytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft MyAnalytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |<sup>21</sup>  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft Planner  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft PowerApps  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>13</sup> ) <br/> |
 |Microsoft StaffHub  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -222,4 +222,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 <br/><sup>15</sup> office 365 の教育機関向けプラン (Office 365 E5 教育を含む) でのみ使用できます。 Office 365 Enterprise E5 では使用できません。 
 <br/><sup>16</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
 <br/><sup>17</sup> Advanced 電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)> <br/><sup>18</sup> Microsoft Stream の場合のみ: 公開または共有を行いません。
-<br/><sup>19</sup> 2019 年5月以降、Office 365 および Microsoft 365 の既存の対象 sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。   
+<br/><sup>19</sup> 2019 年5月以降、Office 365 および Microsoft 365 の既存の対象 sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。
+<br/><sup>20</sup>無料アドオンとして利用できます。 詳細については、「 [Microsoft 予約へのアクセスを取得する](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)」を参照してください。
+<br/><sup>21</sup> E3 プランを使用して myanalytics (完全) を取得するには、myanalytics アドオンを購入する必要があります。 詳細については、「 [Myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。 
+

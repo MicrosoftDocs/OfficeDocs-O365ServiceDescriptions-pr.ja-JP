@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131241"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051618"
 ---
 # <a name="office-for-the-web-service-description"></a>Web サービスの説明のための Office
 
@@ -175,7 +175,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[シート名の変更とシートの追加](excel-online.md#rename-and-add-sheets) <br/> |はい  <br/> |はい  <br/> |
 |[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |はい  <br/> |いいえ  <br/> |
 |[置換](excel-online.md#replace) <br/> |はい  <br/> |はい  <br/> |
-|[アクセス権管理:IRM とパスワード セキュリティ](excel-online.md#bkmk_RightsManagement) <br/> |いいえ  <br/> |はい  <br/> |
+|[アクセス権管理:IRM とパスワード セキュリティ](excel-online.md#rights-management-irm-and-password-security) <br/> |いいえ  <br/> |はい  <br/> |
 |[保存またはダウンロード](excel-online.md#save-or-download-a-copy) <br/> |はい  <br/> |はい  <br/> |
 |[共有](excel-online.md#share) <br/> |はい  <br/> |はい  <br/> |
 |[シートの保護](excel-online.md#sheet-protection) <br/> |はい  <br/> |はい  <br/> |

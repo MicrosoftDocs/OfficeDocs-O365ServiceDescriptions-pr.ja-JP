@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 2f58a2fc3245d2d6d0512f3a7837a98e18112aea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f9ba402476f707748e6b3bd487ce97def3d985cb
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777548"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051628"
 ---
 # <a name="excel-for-the-web"></a>Web 用の Excel
 
@@ -34,345 +34,295 @@ Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブ�
 Excel でサポートされているファイルの種類を確認するには、「web 用に[Office でサポート](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)されているファイルの種類」を参照してください。 Excel と excel デスクトップアプリの相違点の詳細については、「[ブラウザーと excel でのブックの使用の相違点](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)」を参照してください。 
   
 ## <a name="add-background-color-to-sheet-tabs"></a>シート見出しに背景色を追加する 
-<a name="bkmk_Addbackgroundcolor"></a>背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「[シート見出しに背景色を追加](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。 
 
-## <a name="add-hyperlinks"></a>Add hyperlinks
-<a name="bkmk_Addhyperlinks"> </a>
+背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「[シート見出しに背景色を追加](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。 
+
+## <a name="add-hyperlinks"></a>ハイパーリンクの追加
 
 セルにハイパーリンクを追加することによって、Web ページや Web 上のファイルにリンクします。セルに直接 Web アドレスを入力するか、または [ハイパーリンクの挿入] コマンドを使用することができます。 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>高度な時間フィルター処理 (タイムライン スライサー)
-<a name="bkmk_Advancedtimefiltering"> </a>
 
 タイムライン コントロールでは、モデル化されたデータのフィルター処理を行うことができます。この機能を使用すると、連続した日付範囲の表示や変更、ピボットテーブルやピボットグラフなどのピボットベースのオブジェクトのフィルター処理を視覚的に行うことができます。  
   
 ## <a name="alignment"></a>Alignment
-<a name="bkmk_Alignment"> </a>
 
 [ホーム] タブの配置ボタンを使用して、テキストの配置を変更します。  
   
 ## <a name="apply-conditional-formatting"></a>条件付き書式の適用
-<a name="bkmk_Applyconditionalformatting"></a>条件付き書式を使用すると、データを視覚的に調査および分析したり、重大な問題を検出したり、パターンや傾向を特定したりするのに役立ちます。 [Web 用の Excel で条件付き書式を使用](https://go.microsoft.com/fwlink/p/?LinkId=282326)する方法について説明します。
+
+条件付き書式を使用すると、データを視覚的に調査および分析したり、重大な問題を検出したり、パターンや傾向を特定したりするのに役立ちます。 [Web 用の Excel で条件付き書式を使用](https://go.microsoft.com/fwlink/p/?LinkId=282326)する方法について説明します。
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
-<a name="bkmk_Applydatavalidationtocells"> </a>
 
 この機能は、Excel の web で利用できます。 その他の高度な機能は、Excel デスクトップアプリでのみ利用できます。
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
-<a name="bkmk_Applysmartformatting"> </a>
 
 Web 用 Excel では使用できません。 Excel デスクトップアプリでは、推奨されるグラフを使用して、データの表示に最適なさまざまなグラフを選択できます。 [Excel でのグラフの推奨事項の使用方法](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)について説明します。
   
 ## <a name="office-add-ins"></a>Office アドイン
-<a name="bkmk_AppsOfficeIntegration"> </a>
 
  一部の Office アドインは、Excel の web では使用できません。 Excel 用のアドインは、Office ストアから入手できます。 [Excel アドインを取得する方法](https://go.microsoft.com/fwlink/p/?LinkId=271667)の詳細については、「」を参照してください。
   
 ## <a name="autocomplete"></a>候補
-<a name="bkmk_Autocomplete"> </a>
 
 Web 用 Excel は、セルに入力した内容を完了し、複数の値がある場合は、それらすべてを選択可能な一覧に表示します。
   
 ## <a name="autosum"></a>AutoSum
-<a name="bkmk_AutoSum"> </a>
 
 列または行の数値を合計するには、合計するセルを選択して [オート SUM] をダブルクリックします。結果は次の空白のセルに表示されます。
   
 ## <a name="calculations"></a>計算
-<a name="BKMK_Calculations"> </a>
 
 Excel を使用して、さまざまな自動、手動、反復計算を実行することができます。Excel では、これらの計算を実行するのに関数を使用します。詳細については、「[Excel 関数 (カテゴリ別)](https://go.microsoft.com/fwlink/?linkid=847459)」を参照してください
 
 ## <a name="cell-references-in-formulas"></a>数式内のセル参照
-<a name="bkmk_Cellreferenceinformulas"></a>数式ではセル参照を使用できます。 数式でセルまたは範囲を参照すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)」を参照してください。
-  
-## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
-<a name="bkmk_Chartanimations"> </a>
 
-高度なグラフ機能は、Microsoft Excel デスクトップ アプリのみでサポートされます。[SmartArt グラフィックにアニメーションを設定する方法](https://go.microsoft.com/fwlink/p/?LinkId=271668)の詳細をご確認ください。
+数式ではセル参照を使用できます。 数式でセルまたは範囲を参照すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)」を参照してください。
+  
+## <a name="chart-animations-adapt-to-new-data"></a>新しいデータに合わせたグラフ アニメーション
+
+高度なグラフ機能は、Microsoft Excel デスクトップ アプリのみでサポートされます。 [SmartArt グラフィックをアニメーション化する方法の](https://go.microsoft.com/fwlink/p/?LinkId=271668)詳細については、「」を参照してください。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル
-<a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
 Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。詳細については、「[Excel テーブルを作成または削除する](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)」と「[ピボットテーブル/ピボットグラフ レポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
   
 ## <a name="comment-creation"></a>Comment creation
-<a name="bkmk_Commentcreation"> </a>
 
 Web 用の Excel でコメントを挿入、編集、および削除することができます。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
   
 ## <a name="copy-and-paste"></a>Copy and paste
-<a name="bkmk_Copyandpaste"> </a>
 
 最良の結果を得るには、web 用 Excel の右クリックメニューまたはクリップボードコマンドではなく、キーボードショートカットを使用して、アイテムを別のワークシートの場所にコピーします。 詳細について[は、「Excel でコピーと貼り付けを使用する」](https://go.microsoft.com/fwlink/p/?LinkId=271669)を参照してください。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
-<a name="bkmk_Createexternaldataconnections"> </a>
 
 Excel を web に使用してデータ接続を表示することはできますが、web 用の Excel を使用して外部データ接続を作成することはできません。 外部データを操作するには、Excel デスクトップアプリが必要です。 [Excel Services での外部データの](https://go.microsoft.com/fwlink/p/?LinkId=282330)使用の詳細については、「」を参照してください。 
   
-## <a name="create-tables"></a>Create tables
-<a name="bkmk_CreateTables"> </a>
+## <a name="create-tables"></a>テーブルの作成
 
 テーブルを作成して関連データの整理と分析を行います。テーブルを作成することで、データの並べ替え、フィルター処理、および書式設定が容易になります。 
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>高度な分析ビュー (Power View、Power Pivot、スライサー) の作成
-<a name="bkmk_Creationadvancedanalysistools"> </a>
 
 Power Pivot や Power View などの高度な分析機能は、Excel デスクトップ アプリでのみ利用できます。 これらの機能は、Excel の web ではサポートされていません。 詳細については、「 [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671)」を参照してください。
   
 ## <a name="data-validation"></a>データ検証
-<a name="BKMK_DataValidation"> </a>
 
 データ検証を使うと、ユーザーがセルに入力するデータや値の種類を制限することができます。詳細については、「[セルにデータの入力規則を適用する](https://go.microsoft.com/fwlink/?linkid=844735)」を参照してください。
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
-<a name="bkmk_DragAndDrop"> </a>
 
 Excel では、1つの場所から別の場所にセルをドラッグアンドドロップすることによって、Excel でセルの値を移動することができます。
   
 ## <a name="dropbox"></a>Dropbox
-<a name="bkmk_Dropbox"> </a>
 
 Dropbox は、クラウド ストレージ、ファイルの同期、個人用クラウド、およびクライアント ソフトウェアを提供するファイル ホスティング サービスです。
   
 ## <a name="duplicate-copy-worksheets"></a>ワークシートの複製 (コピー)
+
 ブック内のワークシートを複製 (またはコピー) したり、web 用 Excel の他のブックにコピーしたりすることができます。 [Excel での web 上のワークシートのコピー](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)の詳細については、「」を参照してください。 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
-<a name="bkmk_EmbedWorkbookWeb"> </a>
 
 OneDrive.com に Excel ブックを保存すると、ブログや Web サイトに直接 Excel ブックを埋め込むことができます。閲覧者はデータの並べ替え、フィルター処理、計算をその場で行うことができます。また、OneDrive のブックを更新すると、閲覧者がページを更新したときに最新の変更内容が表示されます。[ブログへの Excel ブックの埋め込み](https://go.microsoft.com/fwlink/p/?LinkId=271673)の詳細をご確認ください。
   
 ## <a name="external-references-links"></a>外部参照 (リンク)
-<a name="BKMK_ExternalReferences"> </a>
 
-外部参照を作成することによって、別のブック内のセルの内容を参照できます。外部参照 (リンクとも呼ばれる) とは、別の Excel ブック内のワークシートのセルやワークシートの範囲への参照、または別のブック内の定義された名前への参照のことです。 
+外部参照 (リンクとも呼ばれる) とは、別の Excel ブック内のワークシートのセルやワークシートの範囲への参照、または別のブック内の定義された名前への参照のことです。 Excel を web に使用して外部参照を表示することはできますが、Excel を使用して web に対して作成することはできません。 外部参照を作成または更新するには、Excel デスクトップアプリが必要です。 
   
 ## <a name="fill-handle"></a>フィル ハンドル
-<a name="bkmk_Fillhandle"> </a>
 
 選択したセルまたはセルの範囲の右下に表示されるフィル ハンドルをドラッグして、隣接するセルにデータを入力します。
   
 ## <a name="find"></a>検索
-<a name="bkmk_Find"> </a>
 
 作業中のワークシートでセルの内容を検索します。使いやすいダイアログ ボックスを使用して、ワークシートの現在の選択範囲を上方向または下方向に検索できます。
   
 ## <a name="font-and-cell-formatting"></a>フォントおよびセルの書式設定
-<a name="bkmk_FontCellFormatting"> </a>
 
 必要に応じてデータの表示形式をカスタマイズします。 さまざまなフォント スタイルや色を選択したり、テキストのサイズや色を変更したりできます。 また、セルの罫線を描画し、境界線の色を選択することもできます。
   
 ## <a name="formula-bar"></a>Formula bar
-<a name="bkmk_FormulaBar"> </a>
 
 数式バーでは、セルの表示結果の元になる数式を確認します。Excel デスクトップ アプリと同じように、ブラウザーで数式の追加、変更、および削除を行うことができます。
   
-## <a name="formula-tools--advanced"></a>Formula tools- advanced
-<a name="bkmk_AdvancedFormulaTools"> </a>
+## <a name="formula-tools--advanced"></a>高度な数式ツール
 
 Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式などの高度な数式ツールをサポートします。 Excel for the web では、最も基本的な Excel 数式のみがサポートされています。 [数式](https://go.microsoft.com/fwlink/p/?LinkId=271665)の詳細については、こちらを参照してください。
   
 ## <a name="freeze-panes"></a>Freeze panes
-<a name="bkmk_FreezePanes"> </a>
 
 [ウィンドウ枠の固定機能は、web リボンの Excel で使用できます。 [Excel でペインを固定する方法](https://go.microsoft.com/fwlink/p/?LinkId=282331)と[、Web 用の excel のヒント](https://go.microsoft.com/fwlink/?linkid=869873)について説明します。
   
 ## <a name="full-fidelity-reading-view"></a>忠実な閲覧表示
-<a name="bkmk_FullFidelityReadingView"> </a>
 
 編集表示でブラウザーのブックに表示できるものはすべて、閲覧表示でも表示できます。
   
 ## <a name="functions"></a>関数
-<a name="bkmk_Functions"> </a>
 
 Excel の web 用の数式では、Excel の最大400のワークシート関数を使用できます。
   
 ## <a name="goto"></a>GoTo
-<a name="BKMK_GoTo_Excel"> </a>
 
 GoTo 機能を使用して、スプレッドシート全体をすばやく移動できます。 セル参照を入力すると、スプレッドシートのその場所にジャンプします。 [Web 用 Excel のキーボードショートカット](https://go.microsoft.com/fwlink/p/?LinkID=272943)について説明します。
  
 ## <a name="group-data"></a>グループデータ
-<a name="Group data"></a> Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)参照してください。
+
+Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)参照してください。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
-<a name="bkmk_HideUnhide"> </a>
 
 Excel で web 用のブックの行、列、およびシートを表示または非表示にすることができます。
   
 ## <a name="insert-charts"></a>Insert charts
-<a name="bkmk_InsertCharts"> </a>
 
 グラフを作成してデータを視覚的に表現します。縦棒グラフ、折れ線グラフ、円グラフ、横棒グラフなどの各種グラフから選択できます。[利用可能なグラフの種類](https://go.microsoft.com/fwlink/p/?LinkId=273899)の詳細をご確認ください。
   
-## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
-<a name="bkmk_Insertdeleterowscolumns"> </a>
+## <a name="insertdelete-rows-and-columns"></a>行と列の挿入/削除
 
 1 つまたは複数の行を選択してから [ホーム] タブの [挿入] または [削除] をクリックして、ワークシートの行または列の追加または削除を 1 つずつまたは複数まとめて行います。
 
 ## <a name="insert-pictures"></a>画像を挿入する
-<a name="bkmk_insertpicture"></a>画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について[は、「Excel での画像の挿入](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)について」を参照してください。
+
+画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について[は、「Excel での画像の挿入](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)について」を参照してください。
 
 ## <a name="insert-shapes"></a>図形の挿入
-<a name="bkmk_insertshapes"></a>ボックス、円、線、コネクタ、矢印などの図形を、web スプレッドシートの Excel に追加して書式設定します。 [図形の追加](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)の詳細について説明します。
+
+ボックス、円、線、コネクタ、矢印などの図形を、web スプレッドシートの Excel に追加して書式設定します。 [図形の追加](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)の詳細について説明します。
   
 ## <a name="merge-cells"></a>Merge cells
-<a name="bkmk_MergeCells"> </a>
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
  
 ## <a name="named-ranges"></a>名前付き範囲
-<a name="bkmk_Namedranges"></a> Excel では、web 用の excel で名前付き範囲を作成することはできませんが、excel の excel のスプレッドシートで、excel デスクトップで作成した名前付き範囲を使用できます。
+
+Excel では、web 用の excel で名前付き範囲を作成することはできませんが、excel の excel のスプレッドシートで、Excel デスクトップで作成した名前付き範囲を使用できます。
 
  
-## <a name="number-formatting"></a>Number formatting
-<a name="bkmk_Numberformatting"> </a>
+## <a name="number-formatting"></a>数値の書式
 
 数値の書式を変更します。書式の一覧での [通貨] や [短い日付形式] などの書式の選択、小数点以下の桁数の変更、または桁区切り記号の追加を行います。
   
 ## <a name="offline-viewing-and-authoring"></a>オフラインでの表示と編集
-<a name="bkmk_Offlineviewingauthoring"> </a>
 
 Web 用 Excel はインターネットブラウザーから起動し、インターネット接続に依存します。 オフラインでスプレッドシートにアクセスするには、ご使用のコンピューターに Microsoft Excel デスクトップ アプリをインストールし、Excel デスクトップ アプリを使用して Excel ワークシートの表示や編集を行う必要があります。
 
 ## <a name="pivottables"></a>PivotTables
-<a name="bkmk_Pivottables"></a> Web ワークシート用の Excel にピボットテーブルを挿入し、データの計算、集計、および分析を行うことができます。 [Web 用の Excel にピボットテーブル](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)を挿入する方法について説明します。
+
+Web ワークシート用の Excel にピボットテーブルを挿入し、データの計算、集計、および分析を行うことができます。 [Web 用の Excel にピボットテーブル](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)を挿入する方法について説明します。
 
   
-## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
-<a name="bkmk_posttosocialnetwork"> </a>
+## <a name="post-to-social-network-and-present-online"></a>ソーシャル ネットワークへの投稿とオンライン共有
 
 ソーシャル ネットワーク ページ、Skype for Business の会話、または会議に Web 上のスプレッドシートの選択した部分を埋め込んで共有します。 Web 用の Excel では、これらの機能はサポートされていません。 
   
 ## <a name="power-pivot-viewing"></a>Power Pivot の表示
-<a name="bkmk_PowerPivotinteractivity"> </a>
 
 Excel for the web を使用すると、Power Pivot テーブルおよびグラフを表示できますが、Power Pivot データモデルを作成するには Excel デスクトップアプリが必要です。
   
 ## <a name="power-view-viewing"></a>Power View viewing
-<a name="bkmk_powerviewinteractivity"> </a>
 
 ブック内の Power View シートを表示して操作することはできますが、web に Excel を使用して Power View を作成することはできません。 Power View を作成するには、デスクトップ アプリケーションを使用する必要があります。 Power View では、対話型で、プレゼンテーションに対応したビューでデータの作成、共有、探索ができます。 1 つのワークシートの相互にリンクされた対話型のマップ、グラフ、テーブルで情報を表示します。 詳細については、「 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674)」を参照してください。
   
 ## <a name="print"></a>Print
-<a name="bkmk_Print"> </a>
 
 Web 用 Excel の [印刷] コマンドを使用して、ワークシート全体または現在の選択範囲をプリンターに送信します。 詳細について[は、「Excel で web 用に印刷する」を](https://go.microsoft.com/fwlink/p/?LinkId=271676)参照してください。
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
-<a name="bkmk_Coauthoring"> </a>
 
 2 人以上のユーザーが、Excel デスクトップ アプリの代わりに各自の Web ブラウザーを使用して、同時に同じスプレッドシートで作業することができます。リアルタイム プレゼンスを使用すれば、共同編集者が文書のどこを編集しているかを確認して編集中の競合を避けたり、彼らの変更箇所を表示したりできます。リアルタイム共同編集の詳細については、「[Excel ブックの共同編集を使用して同時に共同作業を行う](https://go.microsoft.com/fwlink/?linkid=850793)」を参照してください。
   
-## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Recommended chart creation and editing with formatting controls
-<a name="bkmk_Advancedrecommendedchart"> </a>
+## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>おすすめグラフの作成と書式設定を使用した編集
 
 高度なグラフは、Microsoft Excel デスクトップ アプリのみでサポートされます。 Web 用の Excel では、これらの機能はサポートされていません。 [使用可能なグラフの種類](https://go.microsoft.com/fwlink/p/?LinkId=271666)の詳細について説明します。
   
 ## <a name="refresh-existing-data-connections"></a>Refresh existing data connections
-<a name="bkmk_refreshdata"> </a>
 
 ブック内のデータがデータベース、web ページ、分析キューブなどの外部ソースに接続されている場合は、web 用の Excel を使用してそのデータを更新できます。
 
 ## <a name="remove-duplicate-values"></a>重複する値を削除する
-<a name="bkmk_Removeduplicatevalues"></a>指定範囲またはテーブル内の重複する値を削除することができます。 詳細については、「 [unique の値をフィルターする」または「重複する値を削除する](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)」を参照してください。
+
+指定範囲またはテーブル内の重複する値を削除することができます。 詳細については、「 [unique の値をフィルターする」または「重複する値を削除する](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)」を参照してください。
   
-## <a name="rename-and-add-sheets"></a>Rename and add sheets
-<a name="bkmk_renameaddsheets"> </a>
+## <a name="rename-and-add-sheets"></a>シート名の変更とシートの追加
 
 シートを追加するには、新規シート アイコンをクリックします。シートの名前を変更するには、シートのタブを右クリックします。
   
 ## <a name="rename-file-while-workbook-is-open"></a>ブックが開いている間にファイルの名前を変更
-<a name="bkmk_RenameFileWorkbookOpen"> </a>
 
 Web 用の Excel では、ヘッダー内のファイル名をクリックして新しい名前を入力することによって、ブックファイルを閉じずに名前を変更することができます。 Excel デスクトップ アプリを使用してファイルの名前を変更するには、デバイス上のその場所に移動して、その名前を変更します。
   
 ## <a name="replace"></a>Replace
-<a name="bkmk_Replace"> </a>
 
 Web 用 Excel では使用できません。 お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。 詳細につい[ては、「Excel で検索と置換を使用する」を](https://go.microsoft.com/fwlink/p/?LinkId=282333)参照してください。
   
-## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
-<a name="bkmk_RightsManagement"> </a>
+## <a name="rights-management-irm-and-password-security"></a>アクセス権管理:IRM とパスワード セキュリティ
 
  Excel デスクトップ アプリでは、パスワード、アクセス許可、その他の制限を使ってブックを保護します。 Web 用の Excel では、シート保護を含むブックを読み込んで操作することができます。これにより、保護されたセルをユーザーが選択したり、入力したりすることができなくなります。 これにより、ユーザーは保護されたセルの選択や入力ができなくなります。[Excel ブックの保護](https://go.microsoft.com/fwlink/p/?LinkId=271672)の詳細をご確認ください。
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
-<a name="bkmk_SaveDownload"> </a>
 
 ブックを自分用にコピーする必要がある場合は、[ファイル] タブの [名前を付けて保存] コマンドを使用するか、またはブックのフォルダーでブック名を右クリックして [ダウンロード] コマンドを使用し、お使いのコンピューターにブックをダウンロードします。
   
 ## <a name="share"></a>共有
-<a name="bkmk_Share"> </a>
 
 他のユーザーがドキュメントを表示または編集できるように、ワンクリックでリンクを送付できます。 Office の使用についての詳細[は、「office 365 での共同作業」](https://go.microsoft.com/fwlink/p/?linkid=272770)を参照してください。
   
 ## <a name="sheet-protection"></a>シートの保護
-<a name="bkmk_SheetProtection"> </a>
 
 Excel ファイルを他のユーザーと共有する場合、ワークシートが変更されるのを防ぐためにワークシートを保護することができ、ワークシートのユーザーに許可する操作を選択することもできます。
   
 ## <a name="slicer-viewing"></a>スライサーの表示
-<a name="bkmk_Slicerviewing"> </a>
 
 ワークシートでスライサーを表示し、スライサー ボタンをクリックしてデータをフィルター処理します。 Excel では、web でスライサーを作成または編集することはできません。
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
-<a name="bkmk_Sortfilterdata"> </a>
 
 Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理、およびピボットテーブルの詳細の表示を行うことができます。
   
-## <a name="spreadsheet-audit-and-compliance"></a>Spreadsheet audit and compliance
-<a name="bkmk_Spreadsheetauditcompliance"> </a>
+## <a name="spreadsheet-audit-and-compliance"></a>スプレッドシートの監査とコンプライアンス
 
 Microsoft Excel デスクトップ アプリでは、ワークシートの検査と比較の機能を使用して、ブックのバージョンの比較、ブックの問題点や不整合の分析、またはブックとワークシートとの間のリンクの確認を行うことができます。 Web 用の Excel では、これらの機能はサポートされていません。 [スプレッドシートの照会を使用してできること](https://go.microsoft.com/fwlink/p/?LinkId=271677)について説明します。
   
 ## <a name="status-bar-aggregates"></a>Status bar aggregates
-<a name="bkmk_StatusBarAggregates"> </a>
 
 Web 用の Excel でセルのグループを選択すると、ステータスバーに合計、平均、およびカウントが表示されます。 表示する集計を選択することによって、ステータス バーをカスタマイズすることもできます。
   
 ## <a name="surveys"></a>アンケート調査
-<a name="bkmk_Surveys"> </a>
 
 アンケートを使用して、入力可能な web フォームの Excel をユーザーに送信します。応答は自動的にオンラインワークシートにコンパイルされます。 [Excel のアンケートの詳細を](https://go.microsoft.com/fwlink/p/?LinkId=391470)参照してください。
   
 ## <a name="tell-me"></a>操作アシスト
-<a name="bkmk_Tell_Me_Excel"> </a>
 
 Excel で何らかの操作を実行する必要があり、その方法がわからない場合は、[検索] 検索機能を使用して、探しているものをすばやく見つけることができます。 「教えて」を利用すればさまざまな機能について詳しく知ることができ、作業時間短縮のためのヒントが得られます。
 
 ## <a name="text-formatting"></a>テキストの書式設定
-<a name="bkmk_Textformatting"></a>取り消し線などのさまざまなテキスト書式設定オプションを適用することができます。
+
+取り消し線などのさまざまなテキスト書式設定オプションを適用することができます。
 
 ## <a name="total-data"></a>合計データ
-<a name="bkmk_Toaldata"></a> [ホーム] タブの [表の形式] の下にある [集計行の表示/非表示] をクリックすると、テーブル内のデータの合計をすばやく表示できます。 
 
-  
+[ホーム] タブの [表の形式] の下にある [集計行の表示/非表示] をクリックすると、テーブル内のデータの合計をすばやく表示できます。 
+
 ## <a name="undo-and-redo"></a>元に戻す/やり直し
-<a name="bkmk_UndoRedo"> </a>
 
 Excel for web では、自動的に作業が保存されます。 間違いを犯した場合は、[元に戻す] を使用するか Ctrl + Z キーを押して、やり直し、または Ctrl + Y キーを押します。 [web 用の Excel のキーボードショートカット](https://go.microsoft.com/fwlink/p/?LinkId=272943)の詳細については、こちらを参照してください。
   
-## <a name="vba-and-macro-scripting"></a>VBA and macro scripting
-<a name="bkmk_VBAMacrosscripting"> </a>
+## <a name="vba-and-macro-scripting"></a>VBA およびマクロの作成
 
 Microsoft Excel デスクトップ アプリは、データの操作、分析、共有に使用できる強力なツールです。 これには充実した機能が備わっていますが、必要な場合には、プログラミング言語である VBA (Visual Basic for Applications) を使用して、日常的な繰り返し作業を実行するマクロやユーザー インターフェイス (UI) では対応していないような作業を実行するマクロを作成して、作業を効率的に進めることができます。 Excel で VBA を使用して web 用のマクロを作成することはできませんが、ファイルに含まれる VBA を削除 (または破損) することなく、VBA 対応のスプレッドシートを開いて編集することができます。 [マクロの](https://go.microsoft.com/fwlink/p/?LinkId=271678)概要について説明します。
   
-## <a name="view-3d-charts"></a>View 3D charts
-<a name="bkmk_View3dcharts"> </a>
+## <a name="view-3d-charts"></a>3D グラフの表示
 
 ワークシートに 3D グラフを表示します。 Excel では、web 用の3D グラフを作成または編集することはできません。
   
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
-<a name="bkmk_WhatIfAnalysis"> </a>
 
 Web 用 Excel では使用できません。 必要に応じて、Excel での "What-if" 分析の結果を表示できます。 目標シーク、データテーブル、ソルバー、系列などの分析ツールを使用する場合は、Excel デスクトップアプリが必要になります。 [ブラウザーと Excel デスクトップアプリでのブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=273900)について説明します。
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_WhatIfAnalysis"> </a>
 
 Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the Web Service Description](office-online-service-description.md)」を参照してください。
