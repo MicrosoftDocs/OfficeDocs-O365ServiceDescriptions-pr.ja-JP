@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。ATP には多機能なレポート機能と URL トレース機能があるので、管理者は組織内で発生する攻撃の種類を見極めることができます。
-ms.openlocfilehash: a54d0fddae4430b450b944781cbeca1cbb1e414f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776418"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058819"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -133,7 +133,9 @@ Office 365 セキュリティ & コンプライアンスセンターで利用可
 
 ### <a name="explorer"></a>Explorer
 
-[エクスプローラー](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)(脅威エクスプローラーとも呼ばれます) は、承認されたユーザーが最近の脅威を特定して分析できるようにするリアルタイムレポートです。 既定では、このレポートには過去7日間のデータが表示されます。ただし、過去30日間のデータを表示するようにビューを変更することはできます。 
+エクスプローラー (脅威エクスプローラーとも呼ばれます) は、承認されたユーザーが最近の脅威を識別して分析できるリアルタイムレポートです。 既定では、このレポートには過去7日間のデータが表示されます。ただし、過去30日間のデータを表示するようにビューを変更することはできます。 
+
+エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「[脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/office365/securitycompliance/threat-explorer)」を参照してください。
 
 ### <a name="attack-simulator"></a>アタックシミュレータ
   

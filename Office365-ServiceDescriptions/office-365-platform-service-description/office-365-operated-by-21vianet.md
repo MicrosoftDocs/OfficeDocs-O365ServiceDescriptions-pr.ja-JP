@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 76ba8a468a2036818addd3d0ece908a691179ab1
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908814"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058839"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -357,13 +357,13 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |容量アラート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クラッター機能  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メール ヒント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |
-|代理人アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|代理人アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |受信トレイのルール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |接続されているアカウント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |
 |非アクティブなメールボックス  <br/> |<sup>6</sup>なし <br/> |--  <br/> |<sup>6</sup>なし <br/> |はい  <br/> |<sup>6</sup>なし <br/> |はい  <br/> |いいえ <sup>6</sup> <br/> |
 |オフライン アドレス帳  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アドレス帳ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|階層型アドレス帳  <br/> |はい  <br/> |--  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|階層型アドレス帳  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |アドレス一覧とグローバル アドレス一覧  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |はい<sup>14</sup> <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |配布グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
