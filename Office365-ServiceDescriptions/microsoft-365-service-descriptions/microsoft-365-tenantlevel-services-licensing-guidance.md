@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908724"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171677"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -31,7 +31,7 @@ Azure active Directory Id 保護 (AYOUR p) は、組織の id に影響を及ぼ
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Enterprise Mobility + Security E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 セキュリティ、および Azure Active Directory Premium プラン2は、Aお役に立てます。
+Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Azure Active Directory Premium プラン2は、お役に立てます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -51,7 +51,7 @@ Azure Advanced Threat Protection (ATP) は、複数の種類の高度なター�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Enterprise Mobility + Security E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 セキュリティ、および Azure Advanced Threat Protection を使用すると、Azure ATP からメリットを得ることができます。
+Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 セキュリティ、および Azure Advanced Threat Protection を使用すると、Azure ATP からメリットを得ることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -71,7 +71,7 @@ Azure Information Protection (AIP) は、組織が機密ドキュメントや電
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Microsoft 365 F1、Microsoft 365 E3、AIP Plan 1 のライセンスを持つユーザーは、AIP プラン1の恩恵を受けることができます。 Microsoft 365 E5 のライセンスユーザー、Microsoft 365 E5 コンプライアンス、および AIP Plan 2 は AIP Plan 2 からメリットを得られます。
+Microsoft 365 F1、microsoft 365 Business、Microsoft 365 E3/A3/G3、AIP Plan 1 のライセンスを持つユーザーは、AIP プラン1の恩恵を受けることができます。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、AIP Plan 2 のライセンスを持つユーザーは、AIP Plan 2 から恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -80,7 +80,6 @@ AIP スキャナー機能は、オンプレミスのファイルリポジトリ�
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
 既定では、テナント内のすべてのユーザーについて、テナントレベルで AIP 機能が有効になっています。 ライセンスを持つユーザーの AIP ポリシーの構成の詳細については、「 [Azure Rights Management をアクティブ化](https://docs.microsoft.com/azure/information-protection/activate-service)する」を参照してください。
-
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 AIP の機能のポリシー (スキャナー機能を除く) は、特定のグループまたはユーザーに限定できます。レジストリを編集して、ライセンスのないユーザーが AIP 分類またはラベル機能を実行できないようにすることができます。 AIP の展開のスコープを設定する方法については、「 [Azure Information Protection ポリシーの構成](https://docs.microsoft.com/azure/information-protection/configure-policy)」を参照してください。
@@ -93,7 +92,7 @@ Advanced Threat Protection (ATP) は、フィッシングやゼロデイマル�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 セキュリティ、Microsoft 365 Business、および Office 365 ATP プラン1と2は、ATP によってメリットを得ることができます。
+Office のライセンスユーザー 365 E5/A5/G5、Microsoft 365 E5/A5/G5、microsoft 365 E5/a5/G5 セキュリティ、microsoft 365 Business、および Office 365 ATP プラン1と2は、ATP からメリットを得られます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -121,7 +120,7 @@ OCAS は、組織の生産性を向上させるクラウドアプリやサービ
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 にライセンスを付与されたユーザーは、OCAS の恩恵を受けることができます。
+Office 365 E5/A5/G5 のライセンスユーザーは、OCAS から恩恵を受けることができます。
 
 詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](http://www.aka.ms/mcaslicensing)」を参照してください。
 
@@ -145,13 +144,13 @@ Microsoft Cloud App Security (MCAS) は、組織がクラウドアプリやサ�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-MCAS のライセンスユーザー、Enterprise Mobility + Security E5、Microsoft 365 E5、Microsoft 365 E5 セキュリティは、MCAS から恩恵を受けることができます。
+MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 の各セキュリティは、MCAS からメリットを得られます。
 
 Azure AD P1 にライセンスを付与されたユーザーは、MCAS の検出機能からメリットを得ることができます。
 
-MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を利用するには、enterprise Mobility + Security E3、enterprise Mobility + Security E5、Microsoft 365 E3、microsoft 365 に含まれている Azure Active Directory P1 のユーザーにもライセンスを付与する必要があります。E5、Microsoft 365 E5 セキュリティ。
+MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を活用するには、Azure Active Directory P1 のライセンスも必要です。これは enterprise Mobility + security E3/A3/G3、Enterprise Mobility + security E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/G5 Security。
 
-[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るには、Enterprise Mobility + Security E5、Microsoft 365 E5、Microsoft 365 e5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスをユーザーに付与する必要があります。
+[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスを持っている必要があります。
 
 詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](http://www.aka.ms/mcaslicensing)」を参照してください。
 
@@ -175,7 +174,7 @@ Advanced Data ガバナンス (ADG) は、組織が情報ガバナンスの要�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、ADG の恩恵を受けることができます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、ADG の恩恵を受けられます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -195,7 +194,7 @@ Office 365 Advanced eDiscovery は、企業内の IT および法務部門向け
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced advanced コンプライアンスは、高度な電子情報開示からメリットを得られます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、高度な電子情報開示の恩恵を受けられます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -215,7 +214,7 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、顧客キーによる恩恵を受けることができます。 顧客キーのすべての利点を得るには、Azure Key Vault のサブスクリプションも必要です。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、お客様キーを利用することができます。 顧客キーのすべての利点を得るには、Azure Key Vault のサブスクリプションも必要です。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -239,7 +238,7 @@ Office 365 顧客キー暗号化キーは、Exchange Online と Skype for busine
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、お客様のロックボックスからメリットを得ることができます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、お客様のロックボックスを利用できます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -259,7 +258,7 @@ Microsoft は、ライセンスが付与されていないユーザーに対す�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは PAM の恩恵を受けます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、PAM の恩恵を受けられます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -279,7 +278,7 @@ Exchange Online、SharePoint Online、OneDrive for Business のデータ損失�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E3、Microsoft 365 E3、および Office 365 データ損失防止のライセンスを持つユーザーは、Exchange Online、SharePoint Online、OneDrive for Business の DLP から恩恵を受けることができます。
+Office 365 E3/A3/G3、Microsoft 365 Business、Microsoft 365 E3/A3/G3、および Office 365 データ損失防止のライセンスを持つユーザーは、Exchange Online、SharePoint Online、OneDrive for business の DLP から恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -299,7 +298,7 @@ Teams チャットおよびチャネルメッセージのデータ損失防止 (
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、Teams のチャットおよびチャネルメッセージに対して DLP の恩恵を受けることができます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、Teams のチャットおよびチャネルメッセージに DLP を使用してメリットを得られます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -319,7 +318,7 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、情報の障壁からメリットを得られます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、情報の障壁から恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -346,7 +345,7 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、高度なメッセージ暗号化の恩恵を受けることができます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、高度なメッセージ暗号化による恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -366,7 +365,7 @@ Office 365 の監督ポリシーでは、指定されたレビュー担当者に
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Office 365 Advanced コンプライアンスは、監督ポリシーからメリットを得ることができます。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、監督ポリシーからメリットを得ることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
