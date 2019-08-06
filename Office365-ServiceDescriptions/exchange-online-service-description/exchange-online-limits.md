@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940535"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206847"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -410,7 +410,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **大きい配布グループへのメッセージの送信を制限**する: この制限によって指定されたメンバー数を含む配布グループには、配信管理またはメッセージ承認のオプションが構成されている必要があります。 配信の管理では、その配布グループにメッセージを送信することが許可される送信者のリストを指定します。 メッセージの承認では、その配布グループに送信されるすべてのメッセージを承認する必要があるモデレーターを 1 人以上指定します。
 
-- **大規模な配布グループの最大メッセージサイズ**: メッセージが5000以上の受信者に送信される場合、メッセージサイズがこの制限を超えることはできません。 サイズがこの制限を超えている場合はメッセージが配信されず、送信者に配信不能レポート (NDR) が送信されます。 受信者の合計数は、配布グループの展開後に決定されます。
+- **大規模な配布グループの最大メッセージサイズ**: メッセージが5000以上の受信者に送信される場合、メッセージサイズがこの制限を超えることはできません。 サイズがこの制限を超えている場合はメッセージが配信されず、送信者に配信不能レポート (NDR) が送信されます。
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Office 365 オプションの配布グループの制限
 

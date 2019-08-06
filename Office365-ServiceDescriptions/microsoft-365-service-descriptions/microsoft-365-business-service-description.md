@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908734"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206857"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -90,7 +90,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |[プライバシー、セキュリティ、および透過性](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |組み込みのスパム対策保護  <br/> |はい  <br/> |はい  <br/> |
 |組み込みのマルウェア対策保護  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |いいえ  <br/> |はい <br/> |
+|Office 365 Advanced Threat Protection  <br/> |いいえ  <br/> |Yes (<sup>19</sup> ) <br/> |
 |Advanced Security Management  <br/> |いいえ  <br/> |いいえ  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Office のカスタマーキー 365<sup>12</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -180,3 +180,4 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 <br/><sup>16</sup>このプランには、ビデオポータル、テキストの音声入力、高度な検索、顔検出などの Microsoft Stream plan 2 が付属しています。
 <br/><sup>17</sup> Microsoft 365 管理センターに組み込まれている Windows 10 のデバイス管理ポリシーと Intune アプリ保護ポリシーをシンプルにしました。
 <br/><sup>18</sup> 2019 年5月以降の Office 365 および Microsoft 365 の既存の対象となる sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。 
+<br><sup>19</sup> Microsoft 365 には、Office 365 Advanced Threat Protection プラン1が付属しています。 詳細については、「 [Microsoft 365 Business security and コンプライアンス機能](https://docs.microsoft.com/microsoft-365/business/security-features)」を参照してください。

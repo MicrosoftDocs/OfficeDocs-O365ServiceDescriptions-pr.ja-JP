@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-june-24-2019"></a>2019年6月24日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 6/25/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 更新日時 |
-| 6/25/2019 | [Microsoft 365 Government を購入する方法](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 更新日時 |
-| 6/25/2019 | [Office 365 GCC High および DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 更新日時 |
-| 6/25/2019 | [サポート](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 更新日時 |
-| 6/25/2019 | [SharePoint Online の制限](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 更新日時 |
-| 6/28/2019 | [Microsoft Dynamics 365 (オンライン) サービスの説明](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | 更新日時 |
-| 6/28/2019 | [Office 365 サービスの説明 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 更新日時 |
-| 6/28/2019 | [ドメイン](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 更新日時 |
-| 6/28/2019 | [ネットワーク](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | 更新日時 |
-| 6/28/2019 | [ユーザー アカウント管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 更新日時 |
-
-
 ## <a name="week-of-july-01-2019"></a>2019年7月01日の週
 
 
@@ -148,3 +131,24 @@
 | 7/25/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
 | 7/25/2019 | [21Vianet が運用している Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 更新日時 |
 | 7/25/2019 | [Office アプリケーション サービスの説明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 更新日時 |
+
+
+## <a name="week-of-july-29-2019"></a>2019年7月29日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 7/29/2019 | [Exchange Online Protection の制限](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 更新日時 |
+| 7/29/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 7/29/2019 | [Microsoft Dynamics 365 (オンライン) サービスの説明](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | 更新日時 |
+| 7/29/2019 | [Office 365 GCC High および DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 更新日時 |
+| 7/29/2019 | [IT プロフェッショナル](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | 更新日時 |
+| 7/30/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 7/31/2019 | [Exchange Online Protection の制限](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 更新日時 |
+| 7/31/2019 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新日時 |
+| 7/31/2019 | [Web 用の Excel](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 更新日時 |
+| 7/31/2019 | [Web サービスの説明のための Office](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 更新日時 |
+| 8/1/2019 | [Office 365 Advanced Threat Protection サービスの説明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 更新日時 |
+| 8/1/2019 | [21Vianet が運用している Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 更新日時 |
+| 8/2/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
+| 8/2/2019 | [Office 365 Advanced Threat Protection サービスの説明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 更新日時 |

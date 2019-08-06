@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
-ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
+ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171677"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206867"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -338,6 +338,29 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 管理者は、Office 365 セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。 たとえば、すべてのユーザーに Office 365 E3 のライセンスが付与されており、Office 365 Advanced コンプライアンス/E5 のライセンスを持っていない場合は、組織の情報バリアポリシーを作成する必要はありません。 詳細については、「 [Microsoft Teams の情報障壁](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)」を参照してください。
+
+## <a name="office-365-message-encryption"></a>はい
+
+Office 365 Message Encryption (OME) は、Azure Rights Management (Azure RMS) で構築され、宛先のメール アドレス (Gmail、Yahoo! Mail、Outlook.com など) に関係なく、暗号化された電子メールを組織内外の宛先に送信できるようにするサービスです。
+
+受信者は、ワンタイム パスコードを取得するか、Microsoft アカウントまたは Office 365 と関連付けられている職場または学校のアカウントを使用してサインインして、暗号化されたメッセージを表示できます。 受信者は、暗号化された返信を送信することもできます。 暗号化されたメッセージを表示したり、暗号化された返信を送信したりするために Office 365 サブスクリプションは必要ありません。
+
+### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
+
+Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3、および Azure Information Protection Plan 1 のライセンスユーザーは、Office 365 Message Encryption を利用することができます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+メッセージの送信者は、Office 365 メッセージの暗号化によって提供される機密メールを追加することによって役立ちます。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+管理者は、Exchange 管理センターで**メールフロー** > **ルール**の下に Office 365 メッセージ暗号化ポリシーを作成して管理します。 既定では、これらのルールはテナント内のすべてのユーザーに適用されます。 新しい Office 365 メッセージ暗号化機能のセットアップの詳細については、「 [365 office の新しいメッセージの暗号化機能をセットアップ](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)する」を参照してください。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+管理者は、ライセンスを持つユーザーにのみ Office 365 メッセージ暗号化のメールフロールールを適用する必要があります。 メールフロールールの定義の詳細については、「 [Office のメールメッセージを暗号化するためのメールフロールールを定義する 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)」を参照してください。
+
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 Advanced Message Encryption
 
