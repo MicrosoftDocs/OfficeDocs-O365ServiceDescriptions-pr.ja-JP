@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776788"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231415"
 ---
 # <a name="mail-flow"></a>メール フロー
 
@@ -29,16 +29,16 @@ Office 365 を使用しているほとんどの組織では、メールボック
 
 Microsoft Exchange Online は、社内サーバーまたはホステッド サービス (「スマート ホスティング」と呼ぶ) を通じて、組織からのメール フローをルーティングできます。この機能により組織は、データ損失防止 (DLP) アプライアンスを使用したり、送信電子メールのカスタムの事後処理を実行したり、プライベート ネットワーク経由でビジネス パートナーに電子メールを送信できます。Exchange Online はアドレス書き換えもサポートします。アドレス書き換え機能により、送信電子メールはアドレスを変更するオンプレミス ゲートウェイを通るようにルーティングされます。この機能により組織は、サブドメインを非公開にしたり、マルチドメイン組織からの電子メールを単一ドメインのように見せかけたり、パートナーからの中継電子メールを組織内部から送信されたように見せかけられます。管理者は、Exchange 管理センター (EAC) でカスタム電子メール ルーティングを構成します。
   
-詳細については、「[Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx)」を参照してください。
+詳細については、「[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)」を参照してください。
   
 > [!IMPORTANT]
-> Exchange Online は、組織との間を流れるメールを配信できます。 
+> Exchange Online は、組織との間を流れるメールを配信できます。 受信者のドメインが、Exchange Online Protection をポイントする DNS MX レコードと共に Exchange Online でホストされている場合、テナントから受信者へのメールフローはインターネット経由で転送されません。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Exchange Online のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。コネクタを作成して、TLS による暗号化を適用することができます。[TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) は、インターネット上の通信にセキュリティを提供する暗号化プロトコルです。コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
+Exchange Online のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。コネクタを作成して、TLS による暗号化を適用することができます。[TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) は、インターネット上の通信にセキュリティを提供する暗号化プロトコルです。コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
   
-詳細については、「[Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx)」を参照してください。
+詳細については、「[Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)」を参照してください。
   
 > [!IMPORTANT]
 > CA 検証の証明書が必要な場合があります。 
@@ -47,13 +47,13 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
 
 コネクタとトランスポート ルールを使用して特定のサイトにメールをルーティングできます。条件に基づいたルーティングでは、特定の条件に基づいてコネクタを選択できます。
   
-詳しくは、「[Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx)」を参照してください。
+詳しくは、「[Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing)」を参照してください。
   
 ## <a name="incoming-mail-safe-list"></a>受信メールのセーフ リスト
 
 信頼できるパートナーの IP アドレスをセーフ リストに追加して、自分宛てにパートナーから送信されるメッセージにスパム対策フィルター処理を施さないようにすることができます。そのためには、接続フィルターの IP 許可一覧を使います。
   
-詳細については、「[Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx)」を参照してください。
+詳細については、「[Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy)」を参照してください。
   
 ## <a name="hybrid-email-routing"></a>ハイブリッド電子メール ルーティング
 
@@ -98,4 +98,3 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
 
 Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
-

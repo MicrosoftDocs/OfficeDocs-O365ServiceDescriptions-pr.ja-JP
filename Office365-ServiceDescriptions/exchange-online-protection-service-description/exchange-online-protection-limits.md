@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051608"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231395"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
@@ -36,7 +36,7 @@ ms.locfileid: "36051608"
     
 - **IP 許可一覧または IP 禁止一覧の制限** 接続フィルターの IP 許可一覧または IP 禁止一覧を構成するとき、最大で 1,273 個のエントリを指定できます (エントリは、単一の IP アドレス、または /24 ～ /32 までの CIDR レンジの IP アドレスです)。 
     
-- **保留状態のメッセージの制限** 保留状態のメッセージはキューに 2 日間保持されます。メッセージの再送信は、受信者のメールシステムから返されたエラーの種類に基づいて行われます。15 分ごとにメッセージの送信が再試行されます。 
+- **メッセージ遅延の制限**延期されたメッセージは、24時間キューに残ります。 メッセージの再送信は、受信者のメールシステムから返されたエラーの種類に基づいて行われます。 15 分ごとにメッセージの送信が再試行されます。 
     
 - **スパム検疫の保存期間**既定では、検疫に送信されたスパムメッセージは30日間保持されます。 管理者は、コンテンツ フィルター ポリシーによってこの値を下げることができます。 
     

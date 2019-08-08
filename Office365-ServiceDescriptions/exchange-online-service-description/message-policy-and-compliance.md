@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: b5d6d66780dd77456f5952e353f7030bdd288262
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776438"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231425"
 ---
 # <a name="message-policy-and-compliance"></a>メッセージ ポリシーと準拠
 
@@ -84,24 +84,21 @@ BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロ�
   
 ## <a name="customer-key"></a>顧客キー
 
-顧客キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにある保存データの暗号化にそれを使用するよう Office 365 を構成できます。保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。詳しくは、「[顧客キーを使用して Office 365 のデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)」および「[Office 365 の顧客キーによるサービスの暗号化に関してよく寄せられる質問](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6)」を参照してください。
+顧客キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにある保存データの暗号化にそれを使用するよう Office 365 を構成できます。保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。詳しくは、「[顧客キーを使用して Office 365 のデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」および「[Office 365 の顧客キーによるサービスの暗号化に関してよく寄せられる質問](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)」を参照してください。
   
 ## <a name="office-365-message-encryption"></a>はい
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 Message Encryption によって、電子メール ユーザーは暗号化された電子メールを任意の宛先に送信できます。Azure Information Encryption の保護機能を活用する Office Message Encryption の新機能を発表しました。これらの新機能ではエンド ユーザー エクスペリエンスが拡張されており、それによって組織内外のだれとでも保護されたメッセージを簡単に共有し、共同作業をすることが可能になります。新しい Office Message Encryption 機能のセットアップにはいくつかの要件があります。Azure Information Protection をベースにビルドされている新しい Office 365 Message Encryption 機能のセットアップ情報を参照してください。従来の Office 365 Message Encryption を使用しているお客様は、上記のガイダンスに基づいてセットアップを行わない限り、新機能をご利用になれません。Office 365 Message Encryption の新旧それぞれの機能の詳細については、[FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) を参照してください。 
 
 Office 365 Advanced Message Encryption では、メッセージの有効期限と失効を許可することによって、追加の保護を提供します。  組織から送信される暗号化メール用に複数のテンプレートを作成することもできます。  高度なメッセージの暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフの価格)、Office 365 Enterprise E5 (非営利スタッフの価格)、または Office 365 教育 A5 に含まれています。 Office 365 の高度なメッセージ暗号化が含まれていない Office 365 サブスクリプションが組織にある場合は、Microsoft 365 E5 コンプライアンスまたは Office 365 Advanced コンプライアンス SKU をアドオンとして購入できます。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 S/MIME を使用すれば、組織内で署名して暗号化した電子メールを送信することにより、機密情報を保護することができます。管理者は、PKI 証明書を設定してユーザーに発行した後で、リモート Windows PowerShell を使用して S/MIME をセットアップすることができます。この証明書は、社内の Active Directory 証明書サービスから同期する必要があります。
   
-S/MIME は Internet Explorer 9 以降でサポートされています。現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。詳細については、「[S/MIME によるメッセージの署名と暗号化](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)」を参照してください。
+S/MIME は Microsoft Edge および Internet Explorer 11 でサポートされています。 現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。 詳細については、「[S/MIME によるメッセージの署名と暗号化](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)」を参照してください。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>インプレース保持と訴訟ホールド
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 訴訟となる可能性がある程度見込まれる場合、組織では、訴訟に関連する電子メールを含めた電子的に格納された情報 (ESI) を保持する必要があります。訴訟の詳細が明らかになる前に訴訟の可能性を予測する場合もあるため、保持の対象が広範囲にわたることもあります。組織では、特定の問題に関するすべての電子メールを保存したり、特定の個人に関するすべての電子メールを保存したりします。
   
@@ -131,7 +128,6 @@ Exchange Online では、次の目標を達成するためにインプレース�
 詳細については、「[インプレース保持と訴訟ホールド](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds)」を参照してください。
   
 ## <a name="in-place-ediscovery"></a>インプレース電子情報開示 (eDiscovery)
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online では、カスタマーは Web ベースのインターフェイスを使用して組織全体のメールボックスの内容を検索することができます。インプレースの電子情報開示検索の実行を許可された管理者やコンプライアンス担当者およびセキュリティ担当者は、(割り当てにより) 電子メール メッセージ、添付ファイル、予定表の予定、タスク、連絡先、およびその他のアイテムを検索できます。インプレース電子情報開示では、プライマリ メールボックスとアーカイブを同時に検索できます。KQL 構文に加えて、送信者、受信者、メッセージの種類、送信/受信日付、およびカーボン コピー/ブラインド カーボン コピーなどの豊富なフィルタリング機能が利用できます。検索結果には、検索クエリに一致した削除済みアイテム フォルダー内のアイテムも含まれます。
   
@@ -156,7 +152,6 @@ Exchange Online では、権限のあるユーザーがインプレース電子�
 詳細については、「[インプレース電子情報開示 (eDiscovery) (このページは英語の可能性があります)](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)」を参照してください。
   
 ## <a name="mail-flow-rules"></a>メール フロー ルール
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 メール フロー ルールを使用すると、組織を通過するメッセージを、特定の条件に基づいて確認し、処理することができます。メール フロー ルールによって、電子メール メッセージにメッセージング ポリシーを適用し、メッセージおよびメッセージング システムを保護し、情報漏洩を防ぐことができます。
   
@@ -173,12 +168,11 @@ Exchange Online では、権限のあるユーザーがインプレース電子�
 - メッセージが組織を通過するときに免責事項を適用する
     
 > [!IMPORTANT]
-> 電子メール サーバー上にサードパーティの iFilter をインストールする必要のある添付ファイルの種類 (Adobe .pdf など) では、適切な iFilter をインストールしない限りメール フロー ルールを使用して検査できません。メール フロー ルールでサポートされているファイルの種類の詳細については、「[Office 365 で、メール フロー ルールを使用してメッセージの添付ファイルを検査する](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)」を参照してください。 
+> 電子メール サーバー上にサードパーティの iFilter をインストールする必要のある添付ファイルの種類 (Adobe .pdf など) では、適切な iFilter をインストールしない限りメール フロー ルールを使用して検査できません。メール フロー ルールでサポートされているファイルの種類の詳細については、「[Office 365 で、メール フロー ルールを使用してメッセージの添付ファイルを検査する](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)」を参照してください。
   
 メール フロー ルールの詳細については、「[Exchange 2016 でのメール フロー ルール](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)」をご覧ください。
   
 ## <a name="data-loss-prevention"></a>データ損失防止
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 データ損失防止 (DLP) 機能では、詳細なコンテンツ分析を通じて組織内の機密情報の識別、監視、および保護を行うことができます。DLP はプレミアム機能です。ビジネスクリティカルな電子メールには保護が必要な機密データが含まれるため、企業のメッセージ システムでの DLP の重要性はますます高まっています。Exchange Online で DLP 機能を使用すると、業務の生産性に影響を及ぼすことなく機密データを保護することができます。
   
@@ -203,7 +197,6 @@ DLP ポリシーは Exchange 管理センター (EAC) の管理インターフ�
 DLP の詳細については、「[データ損失防止](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)」を参照してください。
   
 ## <a name="journaling"></a>ジャーナリング
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online は、SMTP を介してメッセージを受信できる任意の外部メールボックスに電子メールのコピーをジャーナリングするように構成することができます。ジャーナリングは、受信および送信電子メールを記録することで、組織が法律、規則、および組織の準拠要件に応答するのに役立ちます。メッセージのアイテム保持および準拠の計画をする場合、ジャーナリングについて、どのように組織の準拠ポリシーに適合するかを理解することは重要です。
   
@@ -224,7 +217,6 @@ Exchange Online は、SMTP を介してメッセージを受信できる任意�
 ジャーナルの詳細については、「[Exchange Online でのジャーナリング](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
