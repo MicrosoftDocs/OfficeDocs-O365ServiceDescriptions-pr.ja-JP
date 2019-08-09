@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206867"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258865"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -63,7 +63,7 @@ SecOp アナリストおよびセキュリティ担当者は、Azure ATP の機�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft は、ライセンスが付与されていないユーザーに脅威検出機能を提供することを確約することはありません。 時間の経過とともに、ライセンスチェックまたは対象となるツールが Azure ATP に追加され、Azure ATP 機能がライセンスユーザーにのみ適用されるようになります。
+Microsoft は、ライセンスを付与されたユーザーに対するカスタマーロックボックスのアクセス制御承認要求を提供します。
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -150,7 +150,7 @@ Azure AD P1 にライセンスを付与されたユーザーは、MCAS の検出
 
 MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を活用するには、Azure Active Directory P1 のライセンスも必要です。これは enterprise Mobility + security E3/A3/G3、Enterprise Mobility + security E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/G5 Security。
 
-[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスを持っている必要があります。
+[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P1 のライセンスを持っている必要があります。
 
 詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](http://www.aka.ms/mcaslicensing)」を参照してください。
 
@@ -226,9 +226,9 @@ Office 365 顧客キー暗号化キーは、Exchange Online と Skype for busine
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-ライセンスを持つユーザーの Office 365 または Microsoft 365 テナント内のデータに暗号化キーを割り当てるには、顧客キーの暗号化キー展開ポリシーに従います。
+ライセンスを持つユーザーの Office 365 または Microsoft 365 テナント内のデータに暗号化キーを割り当てるには、顧客キーの暗号化キーの展開手順に従います。
 
-  - SharePoint Online では、以下の説明に従って、1つ以上のサイト上のファイルを顧客キーを使用して暗号化できます。 [Sharepoint online および OneDrive for business の顧客キーを設定](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)します。
+  - SharePoint Online と OneDrive for business では、以下の説明に従って、1つ以上のサイト上のファイルを顧客キーで暗号化できます。「 [SharePoint Online および onedrive for business の顧客キーの設定](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)」を参照してください。
 
   - Exchange Online と Skype for business Online では、以下の説明に従って、顧客キーを使用してメールボックスを暗号化できます。 [Exchange online と skype for business の顧客キーの設定](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
 
