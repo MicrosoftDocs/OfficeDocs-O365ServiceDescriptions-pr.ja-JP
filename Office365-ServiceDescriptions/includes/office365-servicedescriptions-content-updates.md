@@ -3,14 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>2019年7月01日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 7/1/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
-
-
 ## <a name="week-of-july-08-2019"></a>2019年7月8日の週
 
 
@@ -152,3 +144,24 @@
 | 8/1/2019 | [21Vianet が運用している Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 更新日時 |
 | 8/2/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
 | 8/2/2019 | [Office 365 Advanced Threat Protection サービスの説明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 更新日時 |
+
+
+## <a name="week-of-august-05-2019"></a>2019年8月5日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 8/5/2019 | [Exchange Online の制限](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 更新日時 |
+| 8/5/2019 | [Microsoft 365 Business サービスの説明](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) | 更新日時 |
+| 8/5/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
+| 8/5/2019 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新日時 |
+| 8/7/2019 | [Exchange Online Archiving サービスの説明](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 更新日時 |
+| 8/7/2019 | [Exchange Online Protection の制限](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 更新日時 |
+| 8/7/2019 | [メール フロー](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | 更新日時 |
+| 8/7/2019 | [メッセージ ポリシーとコンプライアンス](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | 更新日時 |
+| 8/7/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 更新日時 |
+| 8/8/2019 | [Microsoft 365 テナントレベルサービスライセンスガイダンス](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 更新日時 |
+| 8/8/2019 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新日時 |
+| 8/8/2019 | [Office 365 セキュリティ/コンプライアンス センター](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 更新日時 |
+| 8/9/2019 | [Office 365 プラットフォーム サービスの説明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 更新日時 |
+| 8/9/2019 | [OneDrive for Business サービスの説明](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 更新日時 |

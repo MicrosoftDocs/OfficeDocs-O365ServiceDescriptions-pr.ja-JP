@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: ffa55d304f5fbf7a9f97aef83207a923ea4dcce2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
+ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776448"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36298037"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -49,7 +49,7 @@ Office 365 のサービス正常性セクションには、サービスの現在
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
-| 99.97% <br/> |  <br/> |  <br/> |  <br/> |
+| 99.97% <br/> | 99.97% <br/> |  <br/> |  <br/> |
 
 <br/>
 
