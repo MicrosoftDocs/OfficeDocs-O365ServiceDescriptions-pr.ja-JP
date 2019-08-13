@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
-ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
+ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131251"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36286014"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
@@ -38,7 +38,7 @@ OneDrive 同期クライアントとモバイル アプリの要件について�
   
 ## <a name="about-sync"></a>同期について
 
-最新の同期クライアントをインストールするには、[OneDrive ダウンロード ページ](https://onedrive.live.com/about/download/)を参照してください。 
+計画に OneDrive が含まれる場合は、IT 部門が明示的に無効にしない限り、OneDrive 同期クライアントを使用できます。 最新の同期クライアントをインストールするには、「[OneDrive ダウンロード ページ](https://onedrive.live.com/about/download/)」を参照してください。 同期クライアントの詳細については、「[Windows の OneDrive 同期クライアントを使用してファイルを同期する](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)」を参照してください。
   
 ## <a name="storage-space-per-user"></a>ユーザー 1 人あたりのストレージ スペース
 
