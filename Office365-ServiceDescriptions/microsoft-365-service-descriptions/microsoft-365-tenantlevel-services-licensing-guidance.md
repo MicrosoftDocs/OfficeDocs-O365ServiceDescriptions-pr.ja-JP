@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258865"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384871"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -63,7 +63,7 @@ SecOp アナリストおよびセキュリティ担当者は、Azure ATP の機�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft は、ライセンスを付与されたユーザーに対するカスタマーロックボックスのアクセス制御承認要求を提供します。
+Microsoft では、ライセンスを持つユーザーの脅威検出機能を提供しています。
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -250,7 +250,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft は、ライセンスが付与されていないユーザーに対する、カスタマーロックボックスへのアクセス制御の承認要求の提供にはコミットしません。 時間の経過とともに、ライセンスチェックまたは対象となるツールがカスタマーロックボックスに追加され、お客様のロックボックスがライセンスユーザーに確実に割り当てられるようになります。
+Microsoft では、Office 365 組織のユーザーに対するカスタマーロックボックスのアクセス制御の承認要求を提供しています。
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 での特権アクセス管理
 
