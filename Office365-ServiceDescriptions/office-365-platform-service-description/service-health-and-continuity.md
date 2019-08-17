@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
-ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
+ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36298037"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450281"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -79,7 +79,7 @@ Office 365 テナント管理者向けの管理アプリには、外出先で組
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 用 Office 365 管理パック
 
-Microsoft System Center は、データ センター、クライアント デバイス、ハイブリッド クラウド IT 環境の管理に役立つ統合された管理プラットフォームです。System Center を使用する Office 365 管理者は、Office 365 管理パックをインポートできるようになりました。それにより、System Center で Operations Manager 内のすべてのサービス通信を表示することが可能になります。このツールを使用すると、サブスクライブ済みサービス、アクティブおよび解決済みサービス インシデント、およびメッセージ センターとの通信の状態にアクセスできます。詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+Microsoft System Center は、データ センター、クライアント デバイス、ハイブリッド クラウド IT 環境の管理に役立つ統合された管理プラットフォームです。System Center を使用する Office 365 管理者は、Office 365 管理パックをインポートできるようになりました。それにより、System Center で Operations Manager 内のすべてのサービス通信を表示することが可能になります。このツールを使用すると、サブスクライブ済みサービス、アクティブおよび解決済みサービス インシデント、およびメッセージ センターとの通信の状態にアクセスできます。詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 サービス通信 API
 
@@ -91,7 +91,7 @@ Office 365 サービス通信 API を使用すると、思いどおりに Office
     
 - 計画済みメンテナンスの通知
     
-詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
   
 ## <a name="post-incident-reviews"></a>インシデントの事後レビュー
 
@@ -115,7 +115,7 @@ Office 365 サービス通信 API を使用すると、思いどおりに Office
 
 Microsoft Office 365 は、ピーク時のサービスのパフォーマンスを維持できる回復力の高いシステムによって提供されます。サービス継続性の提供は、Office 365 システムの設計の一部です。これらの備えにより、Office 365 は、ハードウェアやアプリケーションの障害、データ破損、ユーザーに影響を与えるその他のインシデントといった予期しない事態から迅速に復旧できます。サービス継続性ソリューションは、重大なサービス停止 (たとえば、自然災害やインシデントによって、ある Microsoft のデータ センター全体が使用不能になった場合など) の際にも適用されます。
   
-致命的な障害から復旧した後、データ センターの完全な冗長性がサービスに復元されるまで一定の時間がかかることがあります。たとえば、データ センター 1 に障害が発生すると、サービスがデータ センター 2 のリソースによって復元されます。ただし、データ センター 1 の復元されたリソースまたはデータ センター 3 の新規リソースによって、データ センター 2 のサービスの継続性がサポートされるまで時間がかかります。Office 365 の[サービス レベル契約](https://technet.microsoft.com/en-us/library/office-365-service-level-agreement.aspx) (SLA) は、この期間に適用されます。21Vianet が運用している Office 365 には、別の SLA があります。詳細については、 [21Vianet サイト](http://www.21vbluecloud.com/office365/O365-SLA/)をご覧ください。 
+致命的な障害から復旧した後、データ センターの完全な冗長性がサービスに復元されるまで一定の時間がかかることがあります。たとえば、データ センター 1 に障害が発生すると、サービスがデータ センター 2 のリソースによって復元されます。ただし、データ センター 1 の復元されたリソースまたはデータ センター 3 の新規リソースによって、データ センター 2 のサービスの継続性がサポートされるまで時間がかかります。Office 365 の[サービス レベル契約](service-level-agreement.md) (SLA) は、この期間に適用されます。21Vianet が運用している Office 365 には、別の SLA があります。詳細については、 [21Vianet サイト](http://www.21vbluecloud.com/office365/O365-SLA/)をご覧ください。 
   
 ## <a name="ensuring-data-availability"></a>データ可用性の確保
 
@@ -149,9 +149,9 @@ Office 365 の開発および運用チームは、お客様にビジネス継続
     
 お客様は、サービス リクエストを作成する前にサポート技術情報の記事や FAQ を参照することで、よくある問題に関するヘルプを即座に得ることができます。これらのリソースは絶えず最新の情報に更新され、既知の問題に対する解決策をタイムリーに提供します。また、サポート担当者による対応が必要な問題が発生した場合は、電話または管理ポータルを通じて、24 時間 365 日体制のスタッフによる迅速な支援を得ることができます。
   
-サポートの詳細については、「[サポート](https://technet.microsoft.com/en-us/library/office-365-support.aspx)」トピックを参照してください。 
+サポートの詳細については、「[サポート](support.md)」トピックを参照してください。 
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
+Office 365 プランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928416"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450291"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -84,7 +84,7 @@ GCC High または DoD 環境で SharePoint Online と OneDrive for Business を
   
 - GCC High テナント A は GCC High テナント B と共有でき、B ユーザーは Azure AD ユーザー名とパスワードを使用してサインインできます。
     
-- 非 GCC テナント C は、GCC High テナント A または B と共有でき、A または B ユーザーはワンタイムパスコードを使用してサインインします。
+- 非 GCC High テナント C は、GCC High テナント A または B と共有でき、A または B ユーザーはワンタイムパスコードを使用してサインインします。
     
 - GCC High テナント A または B は、非 GCC High テナント C と共有でき、C ユーザーはワンタイムパスコードを使用してサインインします。
     

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
-ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
-ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
+ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
+ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36286014"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36407721"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
@@ -59,15 +59,12 @@ OneDrive 同期クライアントとモバイル アプリの要件について�
 - Office 365 Nonprofit E1
 - OneDrive for Business プラン 1
 - SharePoint Online プラン 1
+- Microsoft 365 Business
 
 **無制限の 1 TB を超える**
  
-ユーザーが 5 人未満のサブスクリプションは、ユーザー 1 人あたり 1 TB です。 ユーザーが 5 人以上のサブスクリプションでは、Microsoft が最初にユーザー 1 人あたり 1 TB を提供しますが、管理者は 1 人あたり 5 TB まで増やすことができます。  ストレージの追加の要求 ([方法について](/onedrive/set-default-storage-space)) は、管理者は Microsoft サポートへ連絡してください。 
+ユーザーが 5 人未満のサブスクリプションは、ユーザー 1 人あたり 1 TB です。 ユーザーが 5 人以上のサブスクリプションでは (対象プランの任意の組み合わせが可能)、Microsoft が最初にユーザー 1 人あたり 1 TB を提供しますが、管理者は 1 人あたり 5 TB まで増やすことができます。  (方法については、「[OneDrive ユーザー向けに既定の記憶領域を設定する](/onedrive/set-default-storage-space)」を参照してください。) 追加の記憶領域をリクエストするには、管理者が Microsoft サポートに連絡する必要があります。
 
-- Office 365 Enterprise E3
-- Office 365 Enterprise E5
-- OneDrive for Business (プラン 2)
-- SharePoint Online プラン 2
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
 - Office 365 A1
@@ -75,8 +72,10 @@ OneDrive 同期クライアントとモバイル アプリの要件について�
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Nonprofit E3 
-- Office 365 Nonprofit E5 
+- Office 365 Nonprofit E3
+- Office 365 Nonprofit E5
+- OneDrive for Business (プラン 2)
+- SharePoint Online プラン 2
 - Microsoft 365 Enterprise E3
 - Microsoft 365 Enterprise E5
 - Microsoft 365 A3
@@ -86,7 +85,6 @@ OneDrive 同期クライアントとモバイル アプリの要件について�
 - Microsoft 365 Nonprofit E3
 - Microsoft 365 Nonprofit E5
 
-  
 > [!NOTE]
 > 既定の OneDrive ストレージ スペースを増やす場合、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。 
   

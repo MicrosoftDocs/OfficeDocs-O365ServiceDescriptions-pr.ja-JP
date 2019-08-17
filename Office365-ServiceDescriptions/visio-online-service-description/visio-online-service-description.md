@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
-ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777728"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450301"
 ---
 # <a name="visio-for-the-web-service-description"></a>Web サービスの説明のための Visio
 
@@ -32,31 +32,31 @@ Visio を web に使用する場合のヘルプについては、「 [visio ヘ�
 ||||
 |:-----|:-----|:-----|
 |**アプリケーション機能** <br/> |**Web 用の Visio** <br/> |**Visio デスクトップ アプリ** <br/> |
-|[テキストと図形へのリッチ書式の適用](visio-online.md#BM_1) <br/> |はい  <br/> |はい  <br/> |
-|[オブジェクトの配置](visio-online.md#BM_2) <br/> |はい  <br/> |はい  <br/> |
-|[マッシュアップ ソリューションの構築](visio-online.md#BM_3) <br/> |はい  <br/> |はい  <br/> |
-|[ダイアグラムの作成](visio-online.md#BM_4) <br/> |はい  <br/> |はい  <br/> |
-|[切り取り、コピー、および貼り付け](visio-online.md#BM_5) <br/> |はい  <br/> |はい  <br/> |
-|[ダイアグラムの編集](visio-online.md#BM_6) <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint、Web、またはブログ ページにダイアログを埋め込む](visio-online.md#BM_7) <br/> |はい  <br/> |いいえ  <br/> |
-|[検索](visio-online.md#BM_8) <br/> |はい  <br/> |はい  <br/> |
-|[フォントの書式設定](visio-online.md#BM_9) <br/> |はい  <br/> |はい  <br/> |
-|[ハイパーリンク](visio-online.md#BM_10)<sup>1</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |
-|[ナビゲーション](visio-online.md#BM_11) <br/> |はい  <br/> |はい  <br/> |
-|[Office アドイン](visio-online.md#BM_12) <br/> |いいえ  <br/> |はい  <br/> |
-|[オフライン表示](visio-online.md#BM_13) <br/> |いいえ  <br/> |はい  <br/> |
-|[PDF に印刷](visio-online.md#BM_14) <br/> |はい<sup>4</sup> <br/> |はい  <br/> |
-|[校正ツール](visio-online.md#BM_15) <br/> |いいえ  <br/> |はい  <br/> |
-|[リアルタイム共同編集](visio-online.md#BM_16) <br/> |いいえ  <br/> |はい  <br/> |
-|[名前を付けて保存またはダウンロード](visio-online.md#BM_17) <br/> |はい  <br/> |はい  <br/> |
-|[ダイアグラムを共有する](visio-online.md#BM_18)<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |いいえ  <br/> |はい  <br/> |
-|[教えて](visio-online.md#BM_20) <br/> |いいえ  <br/> |はい  <br/> |
-|[元に戻す/やり直し](visio-online.md#BM_21) <br/> |いいえ  <br/> |はい  <br/> |
-|[コメントの表示と追加](visio-online.md#BM_22) <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |
-|[図形データの表示](visio-online.md#BM_23) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |
-|[ブラウザーでの Visio ファイルの表示](visio-online.md#BM_24) <br/> |はい  <br/> |はい  <br/> |
-|[拡大/縮小](visio-online.md#BM_25) <br/> |はい<sup>6</sup> <br/> |はい  <br/> |
+|[テキストと図形へのリッチ書式の適用](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |はい  <br/> |はい  <br/> |
+|[オブジェクトの配置](visio-online.md#arrange-objects) <br/> |はい  <br/> |はい  <br/> |
+|[マッシュアップ ソリューションの構築](visio-online.md#build-mashup-solutions) <br/> |はい  <br/> |はい  <br/> |
+|[ダイアグラムの作成](visio-online.md#create-diagrams) <br/> |はい  <br/> |はい  <br/> |
+|[切り取り、コピー、および貼り付け](visio-online.md#cut-copy-and-paste) <br/> |はい  <br/> |はい  <br/> |
+|[ダイアグラムの編集](visio-online.md#edit-diagrams) <br/> |はい  <br/> |はい  <br/> |
+|[SharePoint、Web、またはブログ ページにダイアログを埋め込む](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |はい  <br/> |いいえ  <br/> |
+|[検索](visio-online.md#find) <br/> |はい  <br/> |はい  <br/> |
+|[フォントの書式設定](visio-online.md#font-formatting) <br/> |はい  <br/> |はい  <br/> |
+|[ハイパーリンク](visio-online.md#hyperlinks)<sup>1</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |
+|[ナビゲーション](visio-online.md#navigation) <br/> |はい  <br/> |はい  <br/> |
+|[Office アドイン](visio-online.md#office-add-ins) <br/> |いいえ  <br/> |はい  <br/> |
+|[オフライン表示](visio-online.md#offline-viewing) <br/> |いいえ  <br/> |はい  <br/> |
+|[PDF に印刷](visio-online.md#print-to-pdf) <br/> |はい<sup>4</sup> <br/> |はい  <br/> |
+|[校正ツール](visio-online.md#proofing-tools) <br/> |いいえ  <br/> |はい  <br/> |
+|[リアルタイム共同編集](visio-online.md#real-time-co-authoring) <br/> |いいえ  <br/> |はい  <br/> |
+|[名前を付けて保存またはダウンロード](visio-online.md#save-as-or-download-a-copy) <br/> |はい  <br/> |はい  <br/> |
+|[ダイアグラムを共有する](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |
+|[SmartArt](visio-online.md#smartart) <br/> |いいえ  <br/> |はい  <br/> |
+|[教えて](visio-online.md#tell-me) <br/> |いいえ  <br/> |はい  <br/> |
+|[元に戻す/やり直し](visio-online.md#undo-and-redo) <br/> |いいえ  <br/> |はい  <br/> |
+|[コメントの表示と追加](visio-online.md#view-and-add-comments) <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |
+|[図形データの表示](visio-online.md#view-shape-data) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |
+|[ブラウザーでの Visio ファイルの表示](visio-online.md#view-visio-files-in-the-browser) <br/> |はい  <br/> |はい  <br/> |
+|[拡大/縮小](visio-online.md#zoom) <br/> |はい<sup>6</sup> <br/> |はい  <br/> |
    
 > <sup>1</sup> ハイパーリンク先に移動 (挿入や変種はできません)。 
 <br/><sup>2</sup>SharePoint や One Drive for Business 経由の共有、および SharePoint や OneDrive を持っていないユーザーとの共有。 
