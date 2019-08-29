@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online のアーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、microsoft を展開している組織のための Microsoft Office 365 クラウドベースのエンタープライズクラスのアーカイブソリューションです。Exchange Server 2010 (SP2 以降)。または、特定の Exchange Online または Office 365 プランにサブスクライブします。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: 257904ba751b23cb5e04f923994449cf3794488f
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231385"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656291"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
@@ -42,7 +42,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 |:-----|:-----|
 |**Exchange Server 用の Exchange Online Archiving** <br/> |Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange 2010 (SP2 以降) 内のプライマリメールボックスを使用するユーザーのためのクラウドベースのアーカイブ。  <br/> 社内の Exchange サーバー上にあるプライマリ メールボックスにクラウド ベースのアーカイブを追加する場合は、ハイブリッド展開を構成する必要があります。ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://docs.microsoft.com/exchange/exchange-hybrid)」を参照してください。  <br/> |
 |**Exchange Server 用の Exchange Online Archiving (Enterprise CAL Suite 経由)** <br/> |Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange 2010 (SP2 以降) 内のプライマリメールボックスを使用するユーザーのためのクラウドベースのアーカイブ。 詳細については、「[ライセンス簡易ガイド - Core クライアント アクセス ライセンス (CAL) スイートおよび Enterprise CAL スイートのライセンス](https://www.microsoft.com/licensing/product-licensing/client-access-license)」を参照してください。  <br/> |
-|**Exchange Online 用の Exchange Online Archiving** <br/> | 次のプラン<sup>1</sup>について、クラウドベースのアーカイブとインプレースホールドをアドオンとして使用します。<br/>  Exchange Online プラン 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/>  <b>注:</b>次のプランには既にアーカイブが含まれており、アドオンとして Exchange Online のアーカイブは必要ありません。<br/> Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online プラン 2 <br/>  Exchange Online メールボックスのアーカイブ機能について詳しくは、「 [Exchange Online のアーカイブ メールボックス](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)」をご覧ください。           |
+|**Exchange Online 用の Exchange Online Archiving** <br/> | 次のプラン<sup>1</sup>について、クラウドベースのアーカイブとインプレースホールドをアドオンとして使用します。<br/>  Exchange Online プラン 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> Microsoft 365 Business <br/> Microsoft 365 Enterprise F1<br/> <b>注:</b>次のプランには既にアーカイブが含まれており、アドオンとして Exchange Online のアーカイブは必要ありません。<br/> Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online プラン 2 <br/> Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Exchange Online メールボックスのアーカイブ機能について詳しくは、「 [Exchange Online のアーカイブ メールボックス](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)」をご覧ください。           |
    
 >[!NOTE]
 ><sup>1</sup> 社内の Exchange サーバーにメールボックスを置かず、クラウドだけを使用する組織では、ハイブリッド展開は不要です。 ただし、社内メールボックスが存在する場合は、ハイブリッド展開が必要です。
