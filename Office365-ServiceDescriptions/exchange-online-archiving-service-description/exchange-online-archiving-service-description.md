@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online のアーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、microsoft を展開している組織のための Microsoft Office 365 クラウドベースのエンタープライズクラスのアーカイブソリューションです。Exchange Server 2010 (SP2 以降)。または、特定の Exchange Online または Office 365 プランにサブスクライブします。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656291"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672581"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
@@ -65,7 +65,7 @@ Exchange Online Archiving サービスにアクセスするユーザーは、Exc
   
 ## <a name="unlimited-archive-storage-quota"></a>無制限のアーカイブ ストレージのクォータ
 
- Office 365 の無制限アーカイブ機能 (自動拡張アーカイブと呼ばれます) は、Exchange Online のアーカイブメールボックスに無制限の記憶域を提供します。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 Exchange ハイブリッド展開では、オンプレミスのユーザーのメールボックスが Exchange Server 2019、Exchange Server 2016、または Exchange Server 2013 (SP1 以降) に存在する場合にのみ、自動拡張アーカイブが、クラウドベースのアーカイブメールボックスに対してサポートされます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」をご覧ください。 可用性について詳しくは、「[Office 365 のロードマップ](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=)」を参照してください。
+ Office 365 の無制限アーカイブ機能 (*自動拡張アーカイブ*と呼ばれます) は、Exchange Online のアーカイブメールボックスに最大 1 TB のストレージを提供します。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブが有効になっている場合は、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 Exchange ハイブリッド展開では、オンプレミスのユーザーのメールボックスが Exchange Server 2019、Exchange Server 2016、または Exchange Server 2013 (SP1 以降) に存在する場合にのみ、自動拡張アーカイブが、クラウドベースのアーカイブメールボックスに対してサポートされます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」をご覧ください。
   
 > [!IMPORTANT]
 > 管理者は、記憶域のクォータを調整できません。<br/>
