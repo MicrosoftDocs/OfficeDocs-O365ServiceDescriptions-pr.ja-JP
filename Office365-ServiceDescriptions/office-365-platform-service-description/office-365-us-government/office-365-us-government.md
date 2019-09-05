@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231405"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762395"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -323,10 +323,10 @@ Office 365 US Government プランのシステム要件については、[office
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup> <br/> |
 |[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[IPad/iPhone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
-|[Android 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
-|[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
+|[IPad/iPhone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |はい  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |はい  <br/> |
+|[Android 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |はい  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |はい  <br/> |
+|[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |はい  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |はい  <br/> |
 |IOS および Android 用の Outlook<sup>5、4</sup>  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
 |**企業価値** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
