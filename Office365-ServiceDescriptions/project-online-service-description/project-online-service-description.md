@@ -14,15 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
+ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777338"
+ms.lasthandoff: 09/07/2019
+ms.locfileid: "36790743"
 ---
 # <a name="project-online-service-description"></a>Project Online サービスの説明
 
+> [!NOTE]
+> この記事の更新プロセスが進行中です。 更新されたコンテンツについては、2019年10月の最初に確認してください。
+>
 Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。 
   
 Project Online は、Project Online Essentials、Project Online Professional、および Project Online Premium の 3 つのプランで使用できます。
