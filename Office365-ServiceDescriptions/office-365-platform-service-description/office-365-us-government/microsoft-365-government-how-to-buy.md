@@ -3,18 +3,17 @@ title: Microsoft 365 Government を購入する方法
 ms.author: danarl
 author: danarl
 manager: mnirkhe
-ms.date: 1/28/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: c01d790b6c484aa618bc98b8def3bfa0c098a16c
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
+ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343236"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36839868"
 ---
 ---
 
@@ -23,12 +22,10 @@ ms.locfileid: "34343236"
 米国の公的機関の固有の要件および進化する要件に対応して、Microsoft では、公的機関のお客様に特定の Microsoft 365 Government 環境を作成しました。 このセクションでは、環境の概要と、購入方法について詳しく説明します。 この補足セクションは、「 [Office 365 サービスの説明](../../office-365-service-descriptions-technet-library.md)」に記載することをお勧めします。
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 Government とは
-<a name="TopOfPage"> </a>
 
 Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けに特化した、生産性、セキュリティ、モビリティの各クラウドソフトウェア機能のセットです。 最も厳格なコンプライアンス要件を満たす固有の環境によって提供される Microsoft 365 Government は、Microsoft コマーシャルクラウドの機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。エンタープライズサービス。 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 Government の価値
-<a name="BM1_About"> </a>
 
 Microsoft 365 Government は、政府機関が法令データのコンプライアンスを効果的に管理できるようにすることで、いつでも、モバイル生産性とセキュリティ保護された共同作業を可能にすることにより、企業のリーダーと作業者の生産性を常に向上させる要件. 次の表に、主な自治体の役割についての例を示します。
 
@@ -42,8 +39,6 @@ Microsoft 365 Government は、政府機関が法令データのコンプライ�
 |コストの削減とアジリティの向上に役立つ米国政府準拠のソリューションを確保する  <br/> | <br/> |
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-enterprise-offerings"></a>Microsoft 365 Government と Microsoft 365 enterprise のサービスとではどのような違いがありますか?
-<a name="BM1_About"> </a>
-  
 
 Microsoft 365 Government は、以下の4つの主要な分野において米国政府機関のコンプライアンス要件に対応するように独自に設計されています。
 
@@ -61,10 +56,9 @@ Microsoft 365 Government は、以下の4つの主要な分野において米国
 |Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |はい  <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |はい  <br/> |
 
-Microsoft セキュリティおよびコンプライアンス認定の詳細については、 [Microsoft Trust Center](https://www.microsoft.com/en-us/trustcenter/default.aspx)にアクセスしてください。  
-    
+Microsoft セキュリティおよびコンプライアンス認定の詳細については、 [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx)にアクセスしてください。  
+
 ## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>米国政府の資格および検証のための Microsoft 365
-<a name="BM2-customer"> </a>
 
 米国政府機関向けの Microsoft 365 は、対象となる政府機関のお客様と、統制された情報を保持または処理することにより政府機関以外の組織が利用できます。 これらの2つのカテゴリの顧客の適格性条件は、Microsoft Government クラウドで一貫しています。
 
@@ -72,13 +66,12 @@ Microsoft Government Cloud の対象となっているお客様は、GCC と GCC
 
 適格な政府機関のお客様は、以下のいずれかによって定義されます。
 
--   官庁、事務所、代理店、department または米国政府機関のその他のエンティティとして定義された連邦機関
--   次のいずれかとして定義された、都道府県/ローカルエンティティ。
+- 官庁、事務所、代理店、department または米国政府機関のその他のエンティティとして定義された連邦機関
+- 次のいずれかとして定義された、都道府県/ローカルエンティティ。
     1. 米国の州または地方自治体のいずれかのエージェンシー
-    
     2. 米国の郡、borough、ペンシルバニア州、市町村、municipality、市街、township、特殊目的の部署、または顧客の州の法律によって確立され、お客様の state's 管轄に配置されているその他の類似の種類の政府機関 instrumentalityと地理的な境界
     3. コロンビアの地区、プエルトリコ、グアム、米領サモア、米国領バージン諸島、北マリアナ諸島の地区。
--   エスニックエンティティ。 federally として定義されており、米国内部の米国部署からの資金およびサービスの対象として定義されています。これは、その状態をインドの tribe として、または、アラスカ州またはアラスカ州の地域のネイティブ企業で使用します。
+- エスニックエンティティ。 federally として定義されており、米国内部の米国部署からの資金およびサービスの対象として定義されています。これは、その状態をインドの tribe として、または、アラスカ州またはアラスカ州の地域のネイティブ企業で使用します。
 
 次の種類のデータを保持し、Microsoft Government Cloud validation プロセスについて一覧表示されている校正を提供できる、米国以外の組織。
 
@@ -95,14 +88,23 @@ Microsoft Government Cloud の対象となっているお客様は、GCC と GCC
 
 上記のいずれかのグループのメンバーシップの証明が、Microsoft 365 Government のオファーリングへのアクセスに必要になります。
 
+## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Microsoft 365 Government クラウド環境で使用可能なサービスと機能は何ですか。
 
-## <a name="what-services-are-available-in-microsoft-365-government"></a>Microsoft 365 Government で利用可能なサービス
-<a name="BM3-withinUSA"> </a>
+Microsoft 365 Government で利用可能なサービスの詳細については、次のリソースを参照してください。
 
-Microsoft 365 Government で利用可能なサービスの詳細については、「 [Office 365 のサービスの説明](http://aka.ms/o365usgovservicedescription)、[米国政府サービスの説明のための Enterprise Mobility + Security (EMS)](http://aka.ms/emsusgovservicedescription) 」、および「 [Windows 10 Enterprise IT Pro センター」を参照してください。](https://www.microsoft.com/en-us/itpro/windows-10)
+- [Office 365 Government サービスの説明](office-365-us-government.md)
+- [米国政府機関向けサービスの説明のための Enterprise Mobility + Security](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [米国政府機関向けの Microsoft Defender ATP (高お客様向け)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Government-GCC 展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
+- [Government-GCC 高展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [米国国防総省の展開のための Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
+- [Government Community Cloud での iOS および Android 用の Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
+- [Microsoft Flow US Government](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
+- [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 
 ## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government で利用可能な販売チャネル
-<a name="BM3-withinUSA"> </a>
 
 次の表に、各セグメントのニーズに対応できるオプションを示します。 
 
@@ -112,14 +114,13 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 |**番** <br/> |Gov 用の政府機関向け、GOVCON (商用)||GCC-High|DOD| 
 |**チャネル**   <br/> |EA (LSP)、AOS-G、MPSA、Web Direct、CSP <br/> |  |EA (LSP)、AOS-G     <br/> |EA <br/> |
 
-## <a name="how-to-buy-microsoft-365-government"></a>Microsoft 365 Government を購入する方法
-<a name="BM3-withinUSA"> </a>
+## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 Government を購入するにはどうすればよいですか?
 
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
-1.   [フォームを完成](https://products.office.com/en-us/government/eligibility-validation)させて送信し、組織の適格性を検証します。 
-2.  Microsoft アカウントチームまたは認定パートナーと協力して、注文を行います。 お客様は、セレクトパートナーを通じてのみ Microsoft 365 を米国政府ライセンスで購入できます。
+1. [フォームを完成](https://products.office.com/government/eligibility-validation)させて送信し、組織の適格性を検証します。
+2. Microsoft アカウントチームまたは認定パートナーと協力して、注文を行います。 お客様は、セレクトパートナーを通じてのみ Microsoft 365 を米国政府ライセンスで購入できます。
 
-**Lsp GCC および GCC 高 (+ 500 座席)** 
+**Lsp GCC および GCC 高 (+ 500 座席)**
 - CDW
 - 接続 (旧称 PC 接続)
 - 工場
@@ -133,7 +134,10 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 
 **AOS-G パートナー GCC および GCC High (500 座席下)**
 
+- アジャイル IT
 - C3 統合ソリューション
+- Dox エレクトロニクス、.Inc
+- F1 ソリューション、Inc
 - KTL ソリューション, Inc
 - LiftOff、//
 - 惑星テクノロジ
@@ -141,23 +145,29 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 
 **注:** 前のリストに記載されているすべての Microsoft licensing solution providers (Lsp) は、エンタープライズアグリーメント (EA) を使用して、顧客の価格シート (CPS) を作成することにより、GCC と GCC の両方を使用することができます。 EA に対応していない組織では、リストされた AOS パートナーまたは CSP パートナープログラムを使用して GCC ライセンスを購入できます。
 
-**CSP パートナーと協力している場合は、それらのユーザーに連絡するか[、csp を検索](https://www.microsoft.com/en-us/solution-providers/home)してください。**
+**CSP パートナーと協力している場合は、それらのユーザーに連絡するか[、csp を検索](https://www.microsoft.com/solution-providers/home)してください。**
 
 ## <a name="what-trials-are-available"></a>どのような試用版が用意されていますか?
-<a name="BM3-withinUSA"> </a>
 
-
-- [EMS.](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security) お客様は、EMS ページの右上にある [今すぐ試行] ボタンを選択して、Office commerce ポータルでゲートのサインアップ処理を実行することができます。これは、Azure Active Directory (AAD) ポータルにルーティングされます。
--  [Office 365](https://aka.ms/gcctrial)   無料の1か月の試用版は米国政府機関でのみ利用可能です。これは、GCC のみを対象としており、政府請負業者を除外します。  
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) お客様は、EMS ページの右上にある [今すぐ試行] ボタンを選択して、Office commerce ポータルでゲートのサインアップ処理を実行することができます。これは、Azure Active Directory (AAD) ポータルにルーティングされます。
+- [Office 365](https://aka.ms/gcctrial)   無料の1か月の試用版は米国政府機関でのみ利用可能です。これは、GCC のみを対象としており、政府請負業者を除外します。  
 - Microsoft では、コマーシャル版のお客様に Office 365 GCC の試用版を提供していません。また、GCC High または DoD の試用版はありません。
 
 ## <a name="where-can-i-learn-more"></a>関連情報
-<a name="BM3-withinUSA"> </a>
 
-Microsoft 365 Government の詳細については、次のリソースを参照してください。
+Microsoft 365 Government の詳細については、以下のリソースを参照してください。
 
--  [Office 365 US Government サービスの説明](http://aka.ms/o365usgovservicedescription) 
-- [米国政府機関向けサービスの説明の EMS](http://aka.ms/emsusgovservicedescription)
-- [米国政府機関向け Microsoft 365](https://microsoft.com/microsoft-365/government)
-- [米国政府機関向け Microsoft 365 のアナウンス](http://aka.ms/m365usgovannouncement) 
-
+- [Office 365 Government サービスの説明](office-365-us-government.md)
+- [米国政府機関向けサービスの説明のための Enterprise Mobility + Security](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [米国政府機関向けの Microsoft Defender ATP (高お客様向け)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Government-GCC 展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
+- [Government-GCC 高展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [米国国防総省の展開のための Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
+- [Government Community Cloud での iOS および Android 用の Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
+- [Microsoft Flow US Government](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
+- [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
+- [Microsoft Government の業界ページ](https://www.microsoft.com/enterprise/government)
+- [Microsoft IT 技術者コミュニティ-パブリックセクター](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
+- [Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
