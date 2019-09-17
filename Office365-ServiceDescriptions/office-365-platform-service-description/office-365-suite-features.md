@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776908"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998459"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 
@@ -48,7 +48,7 @@ Microsoft Graph API を使用すると、豊富なリソース、リレーショ
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-MyAnalytics では、あなたが仕事中にどのように時間を使っているかを理解するのに役立つ統計を提供します。MyAnalytics はあなたの毎日の仕事の活動内容を観察し、注意を向けるとよいエリアを検索し、より思慮深く時間を使えるようにするツールを提供します。MyAnalytics の詳細については、「[Microsoft MyAnalytics を操作する方法の詳細](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US)」と、「[Office 365 管理者のための Microsoft MyAnalytics](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7)」を参照してください。
+MyAnalytics では、個人の生産性における主な要因として、お客様の時間とその支出をどのように使用しているかについて洞察を提供しています。 MyAnalytics は、日常の作業パターンを調べて、注意してメリットが得られる領域を検出し、時間をより慎重に使用できるようにするツールを提供します。 詳細については、「 [Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics) 」および「 [microsoft Myanalytics for Office 365 admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)」を参照してください。
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
-ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
+ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/05/2019
-ms.locfileid: "36762395"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998499"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -183,7 +183,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Microsoft Flow  <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
 |Microsoft Forms  <br/> |はい <br/> |はい <br/> |はい<br/> |はい</sup> <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft MyAnalytics  <br/> |<sup>9、12、15</sup> <br/> |<sup>9、12、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |<sup>9、12、15</sup> <br/> |
+|Microsoft MyAnalytics  <br/> |いいえ <br/> |いいえ <br/> |Yes<sup>17</sup> <br/> |いいえ <br/> |
 |Microsoft Planner  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |Microsoft PowerApps  <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
 |Microsoft StaffHub  <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ<br/> |

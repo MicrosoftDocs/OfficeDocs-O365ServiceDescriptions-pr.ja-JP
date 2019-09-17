@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854886"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998489"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -74,7 +74,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Microsoft Flow  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft MyAnalytics  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Planner  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft PowerApps  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft StaffHub  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -186,8 +186,9 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 <sup>5</sup>で[https://securescore.office.com](https://securescore.office.com/)利用可能 (リンクは管理者権限が必要)。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
 <sup>6</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 <br/> 
 <sup>7</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br>
-<sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。 <br/>
-  
+<sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。<br>
+<sup>9</sup>詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 Security &amp; Compliance Center features
 <a name="SCC"> </a>
 
@@ -436,7 +437,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 > [!NOTE]
 > タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。<br/> 
-> - [](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)メールの作成と送信に関するヘルプを提供します。 
+> - [メールの](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)作成と送信に関するヘルプを提供します。 
 >- [一般法人向け Office 365 のメール - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/email/email?redirectSourcePath=%252farticle%252f5ff63bc1-308b-46de-a39b-cdc43ac117de&view=o365-worldwide)
 >- [メッセージ サイズの制限](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [Microsoft Support and Recovery Assistant for Office 365 を使用して Outlook および Office 365 の問題を修正する](https://diagnostics.office.com/)
@@ -622,9 +623,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |件名の長さの制限  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |
 |添付ファイルの制限  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |
-|添付ファイルのサイズ制限 - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|添付ファイルのサイズ制限 - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |添付ファイルのサイズ制限 - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |マルチパート メッセージの制限  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
