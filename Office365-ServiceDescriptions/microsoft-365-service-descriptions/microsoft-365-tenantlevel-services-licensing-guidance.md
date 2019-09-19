@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
-ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
+ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384871"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035133"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -150,7 +150,7 @@ Azure AD P1 にライセンスを付与されたユーザーは、MCAS の検出
 
 MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を活用するには、Azure Active Directory P1 のライセンスも必要です。これは enterprise Mobility + security E3/A3/G3、Enterprise Mobility + security E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/G5 Security。
 
-[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P1 のライセンスを持っている必要があります。
+[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスを持っている必要があります。
 
 詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](http://www.aka.ms/mcaslicensing)」を参照してください。
 
@@ -278,7 +278,7 @@ Exchange Online、SharePoint Online、OneDrive for Business のデータ損失�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E3/A3/G3、Microsoft 365 Business、Microsoft 365 E3/A3/G3、および Office 365 データ損失防止のライセンスを持つユーザーは、Exchange Online、SharePoint Online、OneDrive for business の DLP から恩恵を受けることができます。
+Office 365 E3/A3/G3、Microsoft 365 Business、Microsoft 365 A1/E3/A3/G3、および Office 365 データ損失防止のライセンスを持つユーザーは、Exchange Online、SharePoint Online、OneDrive for business の DLP からメリットを得られます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
