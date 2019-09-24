@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「SharePoint とは」を参照してください。
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568130"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131478"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
@@ -238,7 +238,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[Azure 対応アプリ:Azure ライトウェイト Web ロール (LWR) のカスタム コード](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 
 <sup>1</sup> フォルダー同期を使うには、Office2013 以降 (Standard や Professional エディション) または Office アプリケーションを含む Office 365 サブスクリプションが必要です。 Office 365 Business Essentials、Office 365 Enterprise E1、Office 365 Education プランには、Office デスクトップ アプリケーションのサブスクリプションは含まれていません。 ただし、Office2013 以降がインストールされていて、これらのプランのいずれかにサブスクライブしている場合は、フォルダー同期を使うことができます。 <br/>
-<sup>2 つ</sup>の firstline ワーカーには、OneDrive for business の機能が制限されています。 Firstline ワーカーは 2 GB のストレージを受け取り、デスクトップ同期機能はありません。 最初の行のアカウントには OneDrive for business の個人用サイトが含まれていないため、1 TB または 5 TB のオンラインストレージを使用した OneDrive for Business の個人用ライブラリを利用するメリットはありません。<br/> 
+<sup>2 つ</sup>の firstline ワーカーには、OneDrive for business の機能が制限されています。 Firstline ワーカーは 2 GB のストレージを受け取ります。<br/> 
 <sup>3</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
 <sup>4</sup>最初の回線ワーカーが管理者になることができないため、firstline ワーカーを使用するテナントには、管理センターにアクセスするためのエンタープライズユーザーが少なくとも1人必要です。 <br/>
 <sup>5</sup> SharePoint Online のお客様は、ランク付けモデルを作成およびカスタマイズするために、無料のランク付けモデルチューニングアプリをダウンロードしてインストールする必要があります。 <br/> 
