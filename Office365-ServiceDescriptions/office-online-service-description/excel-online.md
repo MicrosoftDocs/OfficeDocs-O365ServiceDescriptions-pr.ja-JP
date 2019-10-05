@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: f9ba402476f707748e6b3bd487ce97def3d985cb
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051628"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401763"
 ---
 # <a name="excel-for-the-web"></a>Web 用の Excel
 
@@ -27,21 +27,25 @@ Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブ�
   
 > [!NOTE]
 > 30 mb を超えるブックは、Microsoft SharePoint Online 内から web 用の Excel では表示できません。 これよりサイズの大きいファイルを表示するには、ご使用のコンピューターに Excel デスクトップ アプリをインストールする必要があります。 
-  
-> [!NOTE]
-> 比較に役立つように、この記事に記載している高度な機能には、Office スイート (Office Professional Plus、Office Standard、または Office 365 ProPlus など) のみで提供される Excel デスクトップ アプリの機能も含まれています。 Web 用の Word、web 用の PowerPoint など、web 機能を使用するすべての Office のリストについては、「 [web 上の office の機能の利用状況](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)」を参照してください。 
 
-Excel でサポートされているファイルの種類を確認するには、「web 用に[Office でサポート](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)されているファイルの種類」を参照してください。 Excel と excel デスクトップアプリの相違点の詳細については、「[ブラウザーと excel でのブックの使用の相違点](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)」を参照してください。 
+> [!NOTE]
+> 比較に役立つように、この記事に記載している高度な機能には、Office スイート (Office Professional Plus、Office Standard、または Office 365 ProPlus など) のみで提供される Excel デスクトップ アプリの機能も含まれています。 Web 用の Word、web 用の PowerPoint など、web 機能を使用するすべての Office のリストについては、「 [web 上の office の機能の利用状況](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)」を参照してください。
+
+Excel でサポートされているファイルの種類を確認するには、「web 用に[Office でサポート](office-online-service-description.md#supported-file-types-for-office-for-the-web)されているファイルの種類」を参照してください。 Excel と excel デスクトップアプリの相違点の詳細については、「[ブラウザーと excel でのブックの使用の相違点](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)」を参照してください。
   
 ## <a name="add-background-color-to-sheet-tabs"></a>シート見出しに背景色を追加する 
 
-背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「[シート見出しに背景色を追加](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。 
+背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「[シート見出しに背景色を追加](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。
 
 ## <a name="add-hyperlinks"></a>ハイパーリンクの追加
 
-セルにハイパーリンクを追加することによって、Web ページや Web 上のファイルにリンクします。セルに直接 Web アドレスを入力するか、または [ハイパーリンクの挿入] コマンドを使用することができます。 
+セルにハイパーリンクを追加することによって、Web ページや Web 上のファイルにリンクします。セルに直接 Web アドレスを入力するか、または [ハイパーリンクの挿入] コマンドを使用することができます。
+
+## <a name="advanced-data-types-stocks-and-geography"></a>高度なデータ型: 株式および地理
+
+Excel で株および地理データを取得することができます。 これは、セルにテキストを入力し、それを株価データ型または Geography データ型に変換するのと同じように簡単に行うことができます。 [株および地理データ型](https://support.office.com/article/e61a33056-9935-484f-8ac8-f1a89e210877)の詳細については、こちらを参照してください。
   
-## <a name="advanced-time-filtering-timeline-slicer"></a>高度な時間フィルター処理 (タイムライン スライサー)
+## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
 タイムライン コントロールでは、モデル化されたデータのフィルター処理を行うことができます。この機能を使用すると、連続した日付範囲の表示や変更、ピボットテーブルやピボットグラフなどのピボットベースのオブジェクトのフィルター処理を視覚的に行うことができます。  
   
@@ -59,11 +63,7 @@ Excel でサポートされているファイルの種類を確認するには�
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Web 用 Excel では使用できません。 Excel デスクトップアプリでは、推奨されるグラフを使用して、データの表示に最適なさまざまなグラフを選択できます。 [Excel でのグラフの推奨事項の使用方法](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)について説明します。
-  
-## <a name="office-add-ins"></a>Office アドイン
-
- 一部の Office アドインは、Excel の web では使用できません。 Excel 用のアドインは、Office ストアから入手できます。 [Excel アドインを取得する方法](https://go.microsoft.com/fwlink/p/?LinkId=271667)の詳細については、「」を参照してください。
+Web 用 Excel では使用できません。 Excel デスクトップアプリでは、推奨されるグラフを使用して、データの表示に最適なさまざまなグラフを選択できます。 [Excel でのグラフの推奨事項の使用方法](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)について説明します。
   
 ## <a name="autocomplete"></a>候補
 
@@ -79,7 +79,7 @@ Excel を使用して、さまざまな自動、手動、反復計算を実行�
 
 ## <a name="cell-references-in-formulas"></a>数式内のセル参照
 
-数式ではセル参照を使用できます。 数式でセルまたは範囲を参照すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)」を参照してください。
+数式ではセル参照を使用できます。 数式でセルまたは範囲を参照すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)」を参照してください。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>新しいデータに合わせたグラフ アニメーション
 
@@ -87,15 +87,15 @@ Excel を使用して、さまざまな自動、手動、反復計算を実行�
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル
 
-Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。詳細については、「[Excel テーブルを作成または削除する](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)」と「[ピボットテーブル/ピボットグラフ レポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
+Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。 詳細については、「 [Create and format tables](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) 」、および「[ピボットテーブルとピボットグラフレポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
   
 ## <a name="comment-creation"></a>Comment creation
 
-Web 用の Excel でコメントを挿入、編集、および削除することができます。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
+Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-最良の結果を得るには、web 用 Excel の右クリックメニューまたはクリップボードコマンドではなく、キーボードショートカットを使用して、アイテムを別のワークシートの場所にコピーします。 詳細について[は、「Excel でコピーと貼り付けを使用する」](https://go.microsoft.com/fwlink/p/?LinkId=271669)を参照してください。
+最良の結果を得るには、web 用 Excel の右クリックメニューまたはクリップボードコマンドではなく、キーボードショートカットを使用して、アイテムを別のワークシートの場所にコピーします。 詳細について[は、「Excel でコピーと貼り付けを使用する」](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816)を参照してください。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -111,7 +111,7 @@ Power Pivot や Power View などの高度な分析機能は、Excel デスク�
   
 ## <a name="data-validation"></a>データ検証
 
-データ検証を使うと、ユーザーがセルに入力するデータや値の種類を制限することができます。詳細については、「[セルにデータの入力規則を適用する](https://go.microsoft.com/fwlink/?linkid=844735)」を参照してください。
+データ検証を使うと、ユーザーがセルに入力するデータや値の種類を制限することができます。 詳細については、「[セルにデータの入力規則を適用](https://go.microsoft.com/fwlink/?linkid=844735)する」を参照してください。
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
@@ -123,9 +123,9 @@ Dropbox は、クラウド ストレージ、ファイルの同期、個人用�
   
 ## <a name="duplicate-copy-worksheets"></a>ワークシートの複製 (コピー)
 
-ブック内のワークシートを複製 (またはコピー) したり、web 用 Excel の他のブックにコピーしたりすることができます。 [Excel での web 上のワークシートのコピー](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)の詳細については、「」を参照してください。 
+ブック内のワークシートを複製 (またはコピー) したり、web 用 Excel の他のブックにコピーしたりすることができます。 [Excel での web 上のワークシートのコピー](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)の詳細については、「」を参照してください。
 
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Web ページまたはブログページへのブックの埋め込み (OneDrive)
 
 OneDrive.com に Excel ブックを保存すると、ブログや Web サイトに直接 Excel ブックを埋め込むことができます。閲覧者はデータの並べ替え、フィルター処理、計算をその場で行うことができます。また、OneDrive のブックを更新すると、閲覧者がページを更新したときに最新の変更内容が表示されます。[ブログへの Excel ブックの埋め込み](https://go.microsoft.com/fwlink/p/?LinkId=271673)の詳細をご確認ください。
   
@@ -171,7 +171,7 @@ GoTo 機能を使用して、スプレッドシート全体をすばやく移動
  
 ## <a name="group-data"></a>グループデータ
 
-Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)参照してください。
+Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)参照してください。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -187,37 +187,39 @@ Excel で web 用のブックの行、列、およびシートを表示または
 
 ## <a name="insert-pictures"></a>画像を挿入する
 
-画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について[は、「Excel での画像の挿入](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)について」を参照してください。
+画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について[は、「Excel での画像の挿入](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3)について」を参照してください。
 
 ## <a name="insert-shapes"></a>図形の挿入
 
-ボックス、円、線、コネクタ、矢印などの図形を、web スプレッドシートの Excel に追加して書式設定します。 [図形の追加](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)の詳細について説明します。
+ボックス、円、線、コネクタ、矢印などの図形を、web スプレッドシートの Excel に追加して書式設定します。 [図形の追加](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)の詳細について説明します。
   
 ## <a name="merge-cells"></a>Merge cells
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
- 
+
 ## <a name="named-ranges"></a>名前付き範囲
 
 Excel では、web 用の excel で名前付き範囲を作成することはできませんが、excel の excel のスプレッドシートで、Excel デスクトップで作成した名前付き範囲を使用できます。
 
- 
 ## <a name="number-formatting"></a>数値の書式
 
 数値の書式を変更します。書式の一覧での [通貨] や [短い日付形式] などの書式の選択、小数点以下の桁数の変更、または桁区切り記号の追加を行います。
   
+## <a name="office-add-ins"></a>Office アドイン
+
+ 一部の Office アドインは、Excel の web では使用できません。 Excel 用のアドインは、Office ストアから入手できます。 [Excel アドインを取得する方法](https://go.microsoft.com/fwlink/p/?LinkId=271667)の詳細については、「」を参照してください。
+
 ## <a name="offline-viewing-and-authoring"></a>オフラインでの表示と編集
 
 Web 用 Excel はインターネットブラウザーから起動し、インターネット接続に依存します。 オフラインでスプレッドシートにアクセスするには、ご使用のコンピューターに Microsoft Excel デスクトップ アプリをインストールし、Excel デスクトップ アプリを使用して Excel ワークシートの表示や編集を行う必要があります。
 
 ## <a name="pivottables"></a>PivotTables
 
-Web ワークシート用の Excel にピボットテーブルを挿入し、データの計算、集計、および分析を行うことができます。 [Web 用の Excel にピボットテーブル](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)を挿入する方法について説明します。
+Web ワークシート用の Excel にピボットテーブルを挿入し、データの計算、集計、および分析を行うことができます。 [Web 用の Excel にピボットテーブル](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)を挿入する方法について説明します。
 
-  
 ## <a name="post-to-social-network-and-present-online"></a>ソーシャル ネットワークへの投稿とオンライン共有
 
-ソーシャル ネットワーク ページ、Skype for Business の会話、または会議に Web 上のスプレッドシートの選択した部分を埋め込んで共有します。 Web 用の Excel では、これらの機能はサポートされていません。 
+ソーシャル ネットワーク ページ、Skype for Business の会話、または会議に Web 上のスプレッドシートの選択した部分を埋め込んで共有します。 Web 用の Excel では、これらの機能はサポートされていません。
   
 ## <a name="power-pivot-viewing"></a>Power Pivot の表示
 
@@ -245,7 +247,7 @@ Web 用 Excel の [印刷] コマンドを使用して、ワークシート全�
 
 ## <a name="remove-duplicate-values"></a>重複する値を削除する
 
-指定範囲またはテーブル内の重複する値を削除することができます。 詳細については、「 [unique の値をフィルターする」または「重複する値を削除する](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)」を参照してください。
+指定範囲またはテーブル内の重複する値を削除することができます。 詳細については、「 [unique の値をフィルターする」または「重複する値を削除する](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2)」を参照してください。
   
 ## <a name="rename-and-add-sheets"></a>シート名の変更とシートの追加
 
@@ -281,7 +283,7 @@ Excel ファイルを他のユーザーと共有する場合、ワークシー�
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理、およびピボットテーブルの詳細の表示を行うことができます。
+Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理、およびピボットテーブルの詳細の表示を行うことができます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)の詳細について説明します。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>スプレッドシートの監査とコンプライアンス
 
@@ -309,7 +311,7 @@ Excel で何らかの操作を実行する必要があり、その方法がわ�
 
 ## <a name="undo-and-redo"></a>元に戻す/やり直し
 
-Excel for web では、自動的に作業が保存されます。 間違いを犯した場合は、[元に戻す] を使用するか Ctrl + Z キーを押して、やり直し、または Ctrl + Y キーを押します。 [web 用の Excel のキーボードショートカット](https://go.microsoft.com/fwlink/p/?LinkId=272943)の詳細については、こちらを参照してください。
+Excel for web では、自動的に作業が保存されます。 間違いを犯した場合は、[元に戻す] を使用するか、Ctrl + Z キーを押してやり直してください。または、Ctrl + Y キーを押します。 [Web 用 Excel のキーボードショートカット](https://go.microsoft.com/fwlink/p/?LinkId=272943)について説明します。
   
 ## <a name="vba-and-macro-scripting"></a>VBA およびマクロの作成
 
