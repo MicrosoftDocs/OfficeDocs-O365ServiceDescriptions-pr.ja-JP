@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含む Office 365 サブスクリプションの機能の比較をお探しですか。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776598"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442652"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -27,7 +27,7 @@ Exchange Online を含む Office 365 サブスクリプションの機能の比�
   
 > [!NOTE]
 > タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。 <br/>
-[](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed)メールの作成と送信に関するヘルプを提供します。 <br/> 
+[メールの](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed)作成と送信に関するヘルプを提供します。 <br/> 
 [一般法人向け Office 365 の電子メール-管理者向けヘルプ](https://docs.microsoft.com/office365/admin/email/email)<br/> 
 [Microsoft Support and Recovery Assistant for Office 365 を使用して Outlook および Office 365 の問題を修正する](https://diagnostics.office.com/)<br/> 
 [Office 365 の配信不能レポート (メール)](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
@@ -35,7 +35,7 @@ Exchange Online を含む Office 365 サブスクリプションの機能の比�
   
 Microsoft Exchange Online は、Microsoft Exchange Server の機能をクラウドベースのサービスとして提供するホスト型のメッセージング ソリューションです。ユーザーは PC、Web、およびモバイル デバイスから電子メール、カレンダー、連絡先、タスクにアクセスできます。Active Directory と完全に統合するので、管理者がグループ ポリシーを他の管理ツールと共に使用し、環境全体にわたって Exchange Online 機能を管理することができます。
   
-Exchange Online をサブスクライブする組織は、ユーザーに提供するメッセージング サービスを管理できますが、社内サーバー ソフトウェアを運用するときのような負荷はありません。このドキュメントで説明する Exchange Online のホスト型のプランでは、電子メールは、複数のカスタマーを同時にサポートするサーバー上でホストされます。これらのサーバーは、Microsoft データ センターに収容され、企業ネットワーク内部から、またはインターネット経由でさまざまなデバイスのユーザーがアクセスできます。
+Exchange Online をサブスクライブする組織は、ユーザーに提供するメッセージング サービスを管理できますが、社内サーバー ソフトウェアを運用するときのような負荷はありません。 このドキュメントで説明する Exchange Online のホスト型のプランでは、電子メールは、複数のカスタマーを同時にサポートするサーバー上でホストされます。 これらのサーバーは、Microsoft データセンターに格納されており、企業ネットワーク内から、またはインターネット経由でさまざまなデバイスのユーザーがアクセスできます。
   
 各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。Office 365 Germany のプランを比較するには、[Office 365 Germany のサブスクリプション プラン](https://go.microsoft.com/fwlink/?linkid=839016)をご覧ください。
   
@@ -151,7 +151,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |EWS アプリケーションのサポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |**[ボイス メッセージ サービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |ボイスメール<sup>23</sup>|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|ボイスメールとサードパーティ製 FAX の統合<sup></sup>|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
+|ボイスメールとサードパーティ<sup>製 FAX の</sup>統合|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |サードパーティボイスメールの相互運用性<sup>23</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |Skype for Business 統合|はい|はい|はい|はい|はい|はい|はい|はい|
 |**[高可用性とビジネス継続性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
@@ -171,7 +171,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |リモート Windows PowerShell へのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
 |モバイル デバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
 |使用状況レポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Outlook アドインと Outlook MAPI|Yes (<sup>19</sup> )|はい|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|いいえ|
 
 <sup>1</sup>クラウドベースのアーカイブがある社内メールボックスユーザーごとに Exchange Online アーカイブサブスクリプションが必要です。 <br/>
@@ -196,7 +196,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 <sup>20</sup>電子情報開示では、オンプレミスとクラウドの間に別のクエリが必要になります。 <br/>
 <sup>21</sup>表は、クライアントが関連付けられたプランを使用して動作するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 <br/>
 <sup>22</sup>詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
-<sup>23</sup>お客様の操作による直接接続を介したサードパーティ製 PBX システム向けの EXCHANGE Online UM サポートは、2019年4月に終了します。 詳細については、「exchange [Online ユニファイドメッセージングでのセッションボーダーコントローラーのサポート中止](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)」を参照してください。 <br/>
+<sup>23</sup>お客様の操作による直接接続を介したサードパーティ製 PBX システム向けの EXCHANGE Online UM サポートは、2019年4月に終了します。 詳細については、「exchange [Online ユニファイドメッセージングでのセッションボーダーコントローラーのサポート中止](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)」を参照してください。 <br/>
 <sup>24</sup> F1 ユーザーが自分のメールボックスに代理人を追加することはできませんが、他のメールボックス (共有メールボックスを含む) にアクセスして、それらに委任されている操作を実行することはできます。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online スタンドアロンの各プランで利用できる機能
@@ -301,7 +301,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |リモート Windows PowerShell へのアクセス|はい|はい|はい|はい|はい|
 |モバイル デバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|
 |使用状況レポート|はい|はい|はい|はい|はい|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Outlook Web App の Web パーツ|はい|はい|はい|はい|はい|
 |Outlook アドインと Outlook MAPI|はい|はい|はい (<sup>21</sup> )|はい (<sup>21</sup> )|いいえ|
 

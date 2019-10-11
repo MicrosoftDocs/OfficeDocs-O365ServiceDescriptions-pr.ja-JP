@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) には、組織の全体的な状態と正常性を判断するのに役立つさまざまなレポートが用意されています。 一部のレポートは、Microsoft 365 管理センターで利用できますが、Exchange 管理センター (EAC) で使用できます。
-ms.openlocfilehash: cedf3d62360ce8c43da9dbb96c0938d78ffec110
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334117"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442712"
 ---
 # <a name="reporting-and-message-trace"></a>レポート作成とメッセージ追跡
 
@@ -36,7 +36,7 @@ Microsoft 365 管理センターの [レポート] ページには、メッセ�
 > [!NOTE]
 > REST ベースのレポート機能および関連するコマンドレットの多くは、2018年1月に廃止されました。 Office 365 で利用可能な代替の Microsoft Graph レポートの詳細については、「 [Microsoft graph で office 365 使用状況レポートを](https://go.microsoft.com/fwlink/p/?LinkID=865135)使用する」のサブトピックを参照してください。
 
-EOP スタンドアロンのお客様は利用できません。 REST/OData テナントレポート Web サービスを使用すると、プログラムによってメッセージングデータに関する概要と詳細レポートを収集できます。また、カスタム web 管理ポータルの web ページにデータを表示することもできます。
+EOP スタンドアロンのお客様は利用できません。 REST/OData テナントレポート web サービスを使用すると、プログラムによってメッセージングデータに関する概要と詳細レポートを収集できます。また、カスタム web 管理ポータルの web ページにデータを表示することもできます。
 
 ## <a name="message-trace"></a>メッセージの追跡
 

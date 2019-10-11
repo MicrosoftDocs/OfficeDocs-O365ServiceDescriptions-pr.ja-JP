@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online は、Exchange 管理センター (EAC) の内外で、さまざまなレポート機能を提供します。
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776868"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442642"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>レポート機能とトラブルシューティング ツール
 
@@ -25,7 +25,7 @@ Microsoft Exchange Online は、Exchange 管理センター (EAC) の内外で�
   
 ## <a name="reporting-features"></a>レポート作成機能
 
-Exchange Online のお客様は、Microsoft 365 管理センターで、Excel レポートブックをダウンロードするか、Web サービスを使用して、レポートにアクセスできます。
+Exchange Online のお客様は、Microsoft 365 管理センターで、Excel レポートブックをダウンロードするか、web サービスを使用して、レポートにアクセスできます。
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>Microsoft 365 管理センターでのレポート
 
@@ -39,9 +39,9 @@ Microsoft 365 管理センターの [レポート] ページには、メール�
 
 Excel 2013 レポート作成ワークブックを使用して、ドリルダウン機能を備えた概要レポートを表示することもできます。 ただし、強化された Microsoft 365 管理センターのレポートを代わりに使用することをお勧めします。 Excel 2013 レポート ワークブックは、今後は提供されなくなる予定です。 詳細情報およびレポート作成ワークブックのダウンロードおよびインストール用のリンクについては、次の[ダウンロード ページ](https://go.microsoft.com/fwlink/p/?LinkId=271776)を参照してください。 レポート作成ワークブックの使用方法については、「[Excel レポート ワークブックを使用したメール保護レポート](https://go.microsoft.com/fwlink/p/?LinkId=285211)」を参照してください。 
   
-### <a name="reporting-using-web-services"></a>Web サービスを使用したレポート作成
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-メールボックス、グループ、およびメッセージング データに関する概要レポートと詳細レポートには、REST/OData テナント レポート Web サービスを使用してアクセスできます。この Web サービスは、カスタム レポートを作成できるプログラマティック インターフェイスです。詳細については、「[Office 365 レポート Web サービス](https://go.microsoft.com/fwlink/p/?LinkId=287041)」を参照してください。
+メールボックス、グループ、およびメッセージングデータに関する概要と詳細なレポートの両方にアクセスするには、REST/OData テナントレポート web サービスを使用します。これは、カスタムレポートの作成を可能にするプログラマティックなインターフェイスです。 詳細については、「 [Office 365 Reporting web services](https://go.microsoft.com/fwlink/p/?LinkId=287041)」を参照してください。
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC のレポート作成機能とトラブルシューティング ツール
 

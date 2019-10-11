@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998499"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442742"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -122,7 +122,7 @@ FastTrack センタープロセスの詳細については、[こちら](https:/
   
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 US Government および Azure Government ExpressRoute
 
-Office 365 US Government のお客様は Azure Government ExpressRoute サービスを使用して、サポートされている Office 365 サービスにパブリック インターネット経由で接続するのではなく、プライベートで接続できます。
+Office 365 米国政府機関のお客様は、Azure Government ExpressRoute サービスを使用して、パブリックインターネット経由で接続するのではなく、サポートされている Office 365 サービスにプライベートに接続できます。
   
 サポートされているプロバイダーや価格モデルなどの詳細については、「[ExpressRoute のドキュメント](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)」をご確認ください。
   
@@ -157,8 +157,8 @@ Office 365 US Government プランのシステム要件については、[office
 | 音声ビデオシステム、電話会議  <br/> |いいえ <sup>2、3</sup> <br/> |いいえ <sup>2、3</sup> <br/> |はい <sup>3、5</sup> <br/> |いいえ  <br/> |
 |Power BI Pro  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Project Online  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |
-|Web 用の Visio  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
-|Yammer Enterprise  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
+|Web 用 Visio  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
+|Yammer エンタープライズ  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
    
 > <sup>1</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、G3、および G5 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup>含まれていませんが、個別のアドオンとして購入できます。 Project Online には、サブスクリプションの一部として Project Online デスクトップクライアントが含まれています。
@@ -261,7 +261,7 @@ Office 365 US Government プランのシステム要件については、[office
 |高度なデータ ガバナンス  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |はい <br/> |<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |いいえ<sup>11、12</sup> <br/> |いいえ<sup>11、12</sup> <br/> |はい<sup>11</sup> <br/> |いいえ<sup>11、12</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12、18</sup> <br/> |<sup>12、18</sup> <br/> |はい<sup>18</sup>  <br/> |<sup>12、18</sup> <br/> |
-|カスタマー ロックボックス  <br/> |<sup>9、12、15</sup> <br/> |<sup>9、12、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |<sup>9、12、15</sup> <br/> |
+|顧客ロックボックス  <br/> |<sup>9、12、15</sup> <br/> |<sup>9、12、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |<sup>9、12、15</sup> <br/> |
 |Office 365 Advanced eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |はい  <br/> |<sup>12</sup> <br/> |
 |セキュリティ スコア<sup>14</sup> <br/> |Yes<sup>9、15</sup> <br/> |はい (<sup>9</sup> ) <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
 |Office メッセージの暗号化  <br/> |いいえ  <br/> |あり <br/> |はい <br/> |いいえ  <br/> |
@@ -362,7 +362,7 @@ Office 365 US Government プランのシステム要件については、[office
    
 > <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、Office 365 Government の G1 または Office 365 Government F1 には含まれていません。 
 <br/><sup>2</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
-<br/><sup>3</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれる、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/library/gg425836%28v=ocs.15%29.aspx). 
+<br/><sup>3</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれる、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup>現時点では GCC High または DoD 環境では使用できませんが、近日中に提供されます。
 <br/><sup>5</sup>詳細について[は、「Government Community Cloud で Outlook For iOS と Outlook For Android を使用する](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)」を参照してください。
   <br/><sup>6</sup> Office 365 DoD 環境ではまだ使用できませんが、近日中に提供されます。

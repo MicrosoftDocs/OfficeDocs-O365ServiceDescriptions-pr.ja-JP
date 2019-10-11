@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231415"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442602"
 ---
 # <a name="mail-flow"></a>メール フロー
 
@@ -36,7 +36,7 @@ Microsoft Exchange Online は、社内サーバーまたはホステッド サ�
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Exchange Online のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。コネクタを作成して、TLS による暗号化を適用することができます。[TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) は、インターネット上の通信にセキュリティを提供する暗号化プロトコルです。コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
+Exchange Online のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。 Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。 [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)は、インターネット上での通信のセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
   
 詳細については、「[Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)」を参照してください。
   
@@ -65,7 +65,7 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>社内ルーティング制御を使った共有アドレス スペース (MX が社内を指定)
 
-社内ルーティング制御を使った共有アドレス スペース (MX が社内を指定) はハイブリッド展開メールルーティング シナリオで、メールボックスの一部が Exchange Online、残りが社内でホストされます。受信および送信インターネット メール フローは社内 Exchange 組織を経由してルーティングされます。このシナリオは、集中型メール トランスポートとも呼びます。このシナリオでは、Exchange Online は EOP とプロビジョニングされ、受信インターネット メールは、EOP および最終的な Exchange Online でホストされるメールボックスにルーティングされる前に、社内メール サーバーにルーティングされます。さらに、Exchange Online メールボックスからの送信メールは、外部受信者宛てに送信されたメッセージ用の社内 Exchange 組織を通じてルーティングされます。この構成では、社内 Exchange 組織と Exchange Online 組織の両方に含まれるすべてのメールボックスに、単一の SMTP ドメイン名前空間を使用できます。 
+オンプレミスルーティングコントロール (オンプレミスへの MX ポイント) を使用した共有アドレススペースは、Exchange Online と部分的にオンプレミスの両方にホストされ、受信および送信インターネットメールフローが一部である、ハイブリッド展開のメールルーティングシナリオです。は、オンプレミスの Exchange 組織を経由してルーティングされます。 このシナリオは、メールトランスポートの集中管理とも呼ばれます。 このシナリオでは、Exchange Online は EOP を使用してプロビジョニングされ、受信インターネットメールは、EOP にルーティングされる前にオンプレミスのメールサーバーにルーティングされ、最終的に Exchange Online でホストされるメールボックスにルーティングされます。 さらに、Exchange Online メールボックスからの送信メールは、外部の受信者に送信されたメッセージの社内 Exchange 組織を経由してルーティングされます。 この構成では、オンプレミスの Exchange 組織と Exchange Online 組織の両方のすべてのメールボックスに対して、単一の SMTP ドメイン名前空間を使用できます。 
   
 ハイブリッド展開でのトランスポート オプションの詳細については、「[Exchange ハイブリッド展開でのトランスポート オプション](https://go.microsoft.com/fwlink/p/?LinkID=271758)」を参照してください。
   

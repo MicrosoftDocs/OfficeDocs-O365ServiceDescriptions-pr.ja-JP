@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: このセクションでは、Exchange Online の設定をカスタマイズし、組織の Exchange Online 環境を常に最新の状態にして、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
-ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776488"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442632"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
@@ -40,24 +40,20 @@ Microsoft はすべての Exchange Online データ センターを直接制御�
 - [Exchange Online 用リモート Windows PowerShell](exchange-online-setup-and-administration.md#remote-windows-powershell-for-exchange-online)
     
 ### <a name="microsoft-office-365-portal"></a>Microsoft Office 365 ポータル
-<a name="BKMK_MicrosoftOnlineServicesPortal"> </a>
 
 Microsoft Office 365 ポータル ([https://portal.office.com](https://portal.office.com)) は、管理者やパートナーが Office 365 サービスを購入および管理する Web サイトです。ユーザーは、このサイトで Office 365 コラボレーション ツールにアクセスして使用することができます。
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理センター
-<a name="BKMK_Office365admincenterl"> </a>
 
 Microsoft 365 管理センターは、各企業のサービス管理者が、購読している各 Office 365 サービスのユーザーアカウントと設定を管理できる web ポータルです。 Microsoft 365 管理センターでは、管理者は Exchange 管理センター (EAC) へのリンクをたどって、Exchange Online に固有の設定を管理できます。 Microsoft 365 管理センターを使用した取得と実行の詳細については、「 [Office 365 Enterprise の概要](https://go.microsoft.com/fwlink/p/?LinkId=271806)」を参照してください。
   
 ### <a name="exchange-admin-center"></a>Exchange 管理センター
-<a name="BKMK_ExchangeAdministrationCenter"> </a>
 
 Exchange Online には、使いやすく、社内、オンライン、またはハイブリッド展開の管理用に最適化された、統合管理コンソールがあります。Exchange 管理センター (EAC) では、管理者が Exchange に固有の設定を管理することができます。
   
 EAC を使用して Exchange Online を管理する方法の詳細については、「[Exchange Online の Exchange 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=271807)」を参照してください。
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online 用リモート Windows PowerShell
-<a name="BKMK_RemoteWindowsPowerShell"> </a>
 
 リモート Windows PowerShell を使用することにより、管理者は Exchange Online にアクセスして、EAC では使用不可であったり実用的ではない管理タスクを実行できます。これらは、繰り返しタスクの自動化、カスタム レポートからのデータ抽出、ポリシーのカスタマイズ、既存インフラストラクチャおよびプロセスへの Exchange Online の接続などの機能です。詳細については、「[リモート PowerShell による Exchange への接続](https://go.microsoft.com/fwlink/p/?LinkId=308994)」を参照してください。
   

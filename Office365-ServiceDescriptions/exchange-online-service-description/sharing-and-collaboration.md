@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776918"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442542"
 ---
 # <a name="sharing-and-collaboration"></a>共有とコラボレーション
 
 ## <a name="federated-sharing"></a>フェデレーションの共有
 
-フェデレーションとは、フェデレーション共有をサポートする、基盤となる信頼インフラストラクチャを指します。フェデレーションは、Microsoft Exchange Online ユーザーが外部のフェデレーションされた組織の受信者、またはインターネット アクセスがあるユーザーと空き時間予定表データと連絡先情報を共有する方法です。これらには、Exchange Online によりホストされる組織、外部の Microsoft Exchange Server 2010 または Exchange Server 2013 組織が含まれます。組織の関係と共有ポリシーを使用することにより、Exchange Online 管理者は、Microsoft Outlook Web App または Microsoft Outlook 2010 以降からユーザーが予定表共有のお知らせを送信できるように設定できます。 フェデレーションとは、フェデレーション共有をサポートする、基盤となる信頼インフラストラクチャを指します。 フェデレーションは、Microsoft Exchange Online ユーザーが外部のフェデレーションされた組織の受信者、またはインターネット アクセスがあるユーザーと空き時間予定表データと連絡先情報を共有する方法です。
+フェデレーションとは、フェデレーション共有をサポートする基盤となる信頼インフラストラクチャを指します。 Microsoft Exchange Online ユーザーは、他の外部のフェデレーション組織の受信者と連絡先情報を共有するための方法と、インターネットにアクセスできるユーザー。 これらには、Exchange Online でホストされている組織や、外部の Microsoft Exchange Server 2010 または Exchange Server 2013 組織があります。 Exchange Online 管理者は、組織上の関係と共有ポリシーを使用して、Microsoft Outlook Web App または Microsoft Outlook 2010 以降から予定表の共有への招待を送信することを許可できます。
   
 > [!IMPORTANT]
 >  組織の関係と共有ポリシーを使用することにより、Exchange Online 管理者は、Microsoft Outlook Web App または Microsoft Outlook 2010 以降からユーザーが予定表共有のお知らせを送信できるように設定できます。 外部の Exchange 2010 および Exchange 2013 組織は、フェデレーション共有の構成の一環として、Microsoft Federation Gateway でフェデレーションの信頼を構成する必要があります。Exchange Online 組織はフェデレーションの信頼を構成する必要はありません。Office 365 テナントの作成時に、Microsoft Federation Gateway でフェデレーションの信頼が作成されるためです。 >  Exchange Online 組織は、フェデレーション共有を有効にするため、組織の関係、または共有ポリシーのいずれかを構成する必要があります。 >  フェデレーション共有では、異なる Office 365 テナントの Exchange Online 組織間でグローバル アドレス一覧 (GAL) を共有したり、ユーザー メールボックスを移動することはサポートされません。 外部の Exchange 2010 および Exchange 2013 組織は、フェデレーション共有の構成の一環として、Microsoft Federation Gateway でフェデレーションの信頼を構成する必要があります。 Exchange Online 組織はフェデレーションの信頼を構成する必要はありません。 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。 これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
-ms.openlocfilehash: c4bac85f6a3610152cd8cb0767c7344c2e88d1f2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776888"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442622"
 ---
 # <a name="recipients"></a>受信者
 
@@ -155,7 +155,7 @@ Exchange Online には、会議室およびその他リソースのスケジュ�
   
 - **フェデレーション予定表共有** フェデレーションは基礎となる信頼インフラストラクチャで、フェデレーション共有という、Exchange ユーザーが空き時間情報の予定表データおよび連絡先情報を、他の外部フェデレーション組織内の受信者と簡単に共有できる方法をサポートします。これらには、Exchange Online 組織、あるいは Exchange Server 2010 または Exchange Server 2013 を社内で実行する組織が含まれます。この信頼は、Office 365 テナント サービスの作成時にすべての Exchange Online のお客様に対して事前に構成されているため、Exchange Online 管理者は、Microsoft Federation Gateway との信頼を設定する必要がありません。既定の共有ポリシーを使用すると、ユーザーは予定表共有の招待状を Outlook Web App または Outlook 2010 から送信できます。管理者はリモート Windows PowerShell を使用して、このポリシーを無効にするか、ユーザーが共有できる予定表の空き時間情報のレベルを構成できます。また、管理者は、別のフェデレーション組織を指定して組織間の関係を作成することもできます。これにより、個別のユーザーに共有の招待状を送信する必要がなくなり、組織間ですべてのユーザーに必要なレベルの空き時間情報を表示できます。ユーザーは、管理者定義の共有ポリシー、組織間の関係、またはその両方のスコープ内で、共有の範囲の詳細を個別に制限できます。 
     
-- **インターネット予定表共有** Exchange Online では、組織内外のすべてのユーザーが匿名アクセスで利用できるように、iCal 形式で予定表を公開することが可能です。受信者は、Exchange、別のプラットフォーム、または Web ブラウザーを使用することができます。また、Exchange Online ユーザーは、他のユーザーが iCal を使用してインターネット上に公開した予定表を利用できます。この個人予定表の共有は、管理者が構成し、組織間で空き時間情報を共有するフェデレーション予定表の共有とは異なります。管理者が公開を許可する共有ポリシーを設定し適用するまでは、どのユーザーも iCal 形式で予定表データを公開することはできません。管理者は、組織内のユーザーについて、リモート Windows PowerShell で iCal の公開と利用を無効化できます。 
+- **インターネット予定表共有** Exchange Online では、組織内外のすべてのユーザーが匿名アクセスで利用できるように、iCal 形式で予定表を公開することが可能です。 受信者は、Exchange、別のプラットフォーム、または Web ブラウザーを使用することができます。 Exchange Online ユーザーは、iCal でインターネット上の場所に公開されている予定表を購読することもできます。 この個人予定表の共有は、管理者が構成し、組織間で空き時間情報を共有するフェデレーション予定表の共有とは異なります。 管理者が公開を許可する共有ポリシーを設定し適用するまでは、どのユーザーも iCal 形式で予定表データを公開することはできません。 管理者は、組織内のユーザーについて、リモート Windows PowerShell で iCal の公開と利用を無効化できます。 
     
 フェデレーション共有の詳細については、「[Exchange Online での共有](https://go.microsoft.com/fwlink/p/?LinkId=271774)」をご覧ください。
   

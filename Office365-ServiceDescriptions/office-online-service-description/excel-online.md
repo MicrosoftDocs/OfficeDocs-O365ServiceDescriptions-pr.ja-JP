@@ -1,5 +1,5 @@
 ---
-title: Web 用の Excel
+title: Web 用 Excel
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401763"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442752"
 ---
-# <a name="excel-for-the-web"></a>Web 用の Excel
+# <a name="excel-for-the-web"></a>Web 用 Excel
 
 Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
   
@@ -88,7 +88,11 @@ Excel を使用して、さまざまな自動、手動、反復計算を実行�
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル
 
 Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。 詳細については、「 [Create and format tables](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) 」、および「[ピボットテーブルとピボットグラフレポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
-  
+
+## <a name="check-spelling"></a>スペルチェックを行う
+
+ワークシート上のテキストのスペルチェックを行うには、[**校正** > の**スペル**チェックを行う]**を選択し** > ます。 詳細については、「[スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
+
 ## <a name="comment-creation"></a>Comment creation
 
 Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
@@ -123,7 +127,7 @@ Dropbox は、クラウド ストレージ、ファイルの同期、個人用�
   
 ## <a name="duplicate-copy-worksheets"></a>ワークシートの複製 (コピー)
 
-ブック内のワークシートを複製 (またはコピー) したり、web 用 Excel の他のブックにコピーしたりすることができます。 [Excel での web 上のワークシートのコピー](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)の詳細については、「」を参照してください。
+ブック内のワークシートを複製 (またはコピー) したり、web 用 Excel の他のブックにコピーしたりすることができます。 [Excel での web 上のワークシートのコピー](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web)の詳細については、「」を参照してください。
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Web ページまたはブログページへのブックの埋め込み (OneDrive)
 
@@ -171,7 +175,7 @@ GoTo 機能を使用して、スプレッドシート全体をすばやく移動
  
 ## <a name="group-data"></a>グループデータ
 
-Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)参照してください。
+Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)参照してください。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Excel で web 用のブックの行、列、およびシートを表示または
 
 グラフを作成してデータを視覚的に表現します。縦棒グラフ、折れ線グラフ、円グラフ、横棒グラフなどの各種グラフから選択できます。[利用可能なグラフの種類](https://go.microsoft.com/fwlink/p/?LinkId=273899)の詳細をご確認ください。
   
-## <a name="insertdelete-rows-and-columns"></a>行と列の挿入/削除
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-1 つまたは複数の行を選択してから [ホーム] タブの [挿入] または [削除] をクリックして、ワークシートの行または列の追加または削除を 1 つずつまたは複数まとめて行います。
+1つまたは複数の行を選択してから、[**ホーム**] タブの [**挿入**] または [**削除**] を選択して、一度に1つまたは複数のワークシートの行または列を追加または削除します。
 
 ## <a name="insert-pictures"></a>画像を挿入する
 
@@ -195,7 +199,7 @@ Excel で web 用のブックの行、列、およびシートを表示または
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. 配置ボタンを選択すると、配置を変更できます。
 
 ## <a name="named-ranges"></a>名前付き範囲
 
@@ -249,15 +253,15 @@ Web 用 Excel の [印刷] コマンドを使用して、ワークシート全�
 
 指定範囲またはテーブル内の重複する値を削除することができます。 詳細については、「 [unique の値をフィルターする」または「重複する値を削除する](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2)」を参照してください。
   
-## <a name="rename-and-add-sheets"></a>シート名の変更とシートの追加
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-シートを追加するには、新規シート アイコンをクリックします。シートの名前を変更するには、シートのタブを右クリックします。
+シートを追加するには、[新しいシート] アイコンを選択します。 シートの名前を変更するには、シートのタブを右クリックします。
   
 ## <a name="rename-file-while-workbook-is-open"></a>ブックが開いている間にファイルの名前を変更
 
-Web 用の Excel では、ヘッダー内のファイル名をクリックして新しい名前を入力することによって、ブックファイルを閉じずに名前を変更することができます。 Excel デスクトップ アプリを使用してファイルの名前を変更するには、デバイス上のその場所に移動して、その名前を変更します。
+Web 用の Excel では、ヘッダーでファイル名を選択し、新しい名前を入力することによって、ブックファイルを閉じることなく名前を変更できます。 Excel デスクトップ アプリを使用してファイルの名前を変更するには、デバイス上のその場所に移動して、その名前を変更します。
   
-## <a name="replace"></a>Replace
+## <a name="replace"></a>置換
 
 Web 用 Excel では使用できません。 お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。 詳細につい[ては、「Excel で検索と置換を使用する」を](https://go.microsoft.com/fwlink/p/?LinkId=282333)参照してください。
   
@@ -279,7 +283,7 @@ Excel ファイルを他のユーザーと共有する場合、ワークシー�
   
 ## <a name="slicer-viewing"></a>スライサーの表示
 
-ワークシートでスライサーを表示し、スライサー ボタンをクリックしてデータをフィルター処理します。 Excel では、web でスライサーを作成または編集することはできません。
+ワークシートのスライサーを表示し、[スライサー] ボタンを選択してデータをフィルター処理します。 Excel では、web でスライサーを作成または編集することはできません。
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Excel で何らかの操作を実行する必要があり、その方法がわ�
 
 ## <a name="total-data"></a>合計データ
 
-[ホーム] タブの [表の形式] の下にある [集計行の表示/非表示] をクリックすると、テーブル内のデータの合計をすばやく表示できます。 
+[集計行の表示/非表示] オプションを有効にすることによって、テーブル内のデータをすばやく合計することができます。 詳細については、「 [Excel テーブル内のデータの合計](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)」を参照してください。
 
 ## <a name="undo-and-redo"></a>元に戻す/やり直し
 

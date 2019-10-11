@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717545"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442552"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -58,7 +58,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |はい  <br/> |はい  <br/> |
-|[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Microsoft 365 管理センターの機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |<sup>6</sup>なし <br/> |はい  <br/> |
 |共有コンピューターのライセンス認証 <br/> |いいえ <br/> |はい  <br/> |
