@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998489"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523390"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office など) のクラウドベースのバージョンと統合しています。Microsoft Skype for Business Online-ユーザーがインターネットを介して実質的に生産性を向上させるのに役立ちます。
   
-この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 Business および Enterprise プランでの機能を比較するには、「[最新の高度な機能を Office 365 で](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda)」、機能の詳細なリストについては、「[Office 365 サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)」の関連サービスの説明を参照してください。
+この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 Business および Enterprise プランでの機能を比較するには、「[最新の高度な機能を Office 365 で](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)」、機能の詳細なリストについては、「[Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連サービスの説明を参照してください。
   
 サポート記事および情報を検索するには、「[Office のヘルプとトレーニングにようこそ](https://support.office.com/)」を参照してください。
   
@@ -57,7 +57,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
-サービス レベル契約については、[サービス レベル契約](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement)をご覧ください。 Office 365 の最近の稼働率については、「[Office 365 による透明性のある運用](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)」を参照してください。
+サービス レベル契約については、[サービス レベル契約](../office-365-platform-service-description/service-level-agreement.md)をご覧ください。 最近使用した稼働時間 for Office 365 の詳細については、「[最近の世界規模の稼働時間](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)」を参照してください。
   
 ## <a name="platform-features"></a>プラットフォーム機能 
 
@@ -66,7 +66,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Office 365 の管理機能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -216,7 +216,7 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[手動のアイテム保持/削除ポリシー](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[統合](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)された監査<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[統合監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |||||
    
 > [!NOTE]
@@ -303,11 +303,11 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 ||||
 |:-----|:-----|:-----|
 |**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
-|Word  <br/> |Web 用の Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Web 用の Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |Web 用の PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Web 用の Visio  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|PowerPoint  <br/> |Web 用 PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Web 用 Visio  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 <a name="OfcOnline"> </a>
@@ -418,7 +418,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |リモート Windows PowerShell へのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイスの ActiveSync ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用状況レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook アドインと Outlook MAPI  <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -440,7 +440,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 > - [メールの](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)作成と送信に関するヘルプを提供します。 
 >- [一般法人向け Office 365 のメール - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/email/email?redirectSourcePath=%252farticle%252f5ff63bc1-308b-46de-a39b-cdc43ac117de&view=o365-worldwide)
 >- [メッセージ サイズの制限](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
->- [Microsoft Support and Recovery Assistant for Office 365 を使用して Outlook および Office 365 の問題を修正する](https://diagnostics.office.com/)
+>- [Microsoft Office 365 サポート/回復アシスタントで Outlook と Office 365 の問題を解決する](https://diagnostics.office.com/)
 >- [Office 365 でのメール配信不能レポート](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [Exchange Online のヘルプ](https://docs.microsoft.com/exchange/exchange-online)<br/>
 
@@ -805,7 +805,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 OneDrive for Business (以前の SkyDrive Pro) は、クラウド内の個人のオンライン ストレージ スペースです。 これは、複数のデバイスに分散した作業ファイルを簡単かつ安全に保存するために使用されます。 必要に応じてファイルを同僚と共有し、web 用の Office を使用してリアルタイムで Office ドキュメントを同時に編集します。 OneDrive for Business 同期アプリを使用して、ローカル コンピューターにファイルを同期します。
   
-OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 詳細については、「[OneDrive for Business とは](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)」を参照してください。
+OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 詳細については、「 [OneDrive For business](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)について」を参照してください。
   
 ### <a name="system-requirements"></a>システム要件
 
@@ -825,9 +825,9 @@ OneDrive for Business プラン 1 は、ユーザーごとに 1 TB の記憶領�
     
 特定の OneDrive ユーザーに、それ以上の記憶域を割り当てることはできません。ただし、ユーザーに表示される記憶域の容量を減らすことができます。Office 365 Enterprise F1 ユーザーがより多くの記憶域を必要とする場合、Office 365 Enterprise E1 をアップグレードする必要があります。
   
-OneDrive for Business に追加できないファイルの種類については、「[リストまたはライブラリに追加できないファイルの種類](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US)」を参照してください。
+OneDrive for Business に追加できないファイルの種類については、「[リストまたはライブラリに追加できないファイルの種類](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)」を参照してください。
   
-OneDrive for Business は SharePoint Online に含まれています。サイト コレクションのクォータ、ファイルのアップロード制限、記憶域制限などの SharePoint Online での追加の制限についての詳細は、「[SharePoint Online ソフトウェアの境界と制限](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498)」を参照してください。 
+OneDrive for Business は SharePoint Online に含まれています。サイト コレクションのクォータ、ファイルのアップロード制限、記憶域制限などの SharePoint Online での追加の制限についての詳細は、「[SharePoint Online ソフトウェアの境界と制限](../sharepoint-online-service-description/sharepoint-online-limits.md)」を参照してください。
   
 ### <a name="subscription-plans"></a>サブスクリプション プラン
 
@@ -1105,7 +1105,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |ユーザー数  <br/> |1 から 500,000<sup>6</sup> <br/> |1 から 500,000<sup>6</sup> <br/> |1 から 500,000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を変更する](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 <br/> <sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。<br/> 
+> <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「[サブスクリプションの記憶域スペースを追加](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)する」を参照してください。 <br/> <sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。<br/> 
 <sup>3</sup> Office 365 サブスクリプションと SharePoint Online スタンドアロン プランを持っている場合は、記憶域の量が追加されます。<br/> 
 <sup>4</sup> SharePoint Online 管理者は、サイト コレクションとサイトの記憶域使用制限を設定できます。<br/> 
 <sup>5</sup> ライセンス ユーザーごとの OneDrive for Business サイト コレクションは含まれません。<br/> 
@@ -1220,7 +1220,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |ボイスメール  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国内通話プラン)  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |
 |[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国際通話プラン)  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |
-|[追加機能クレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[コミュニケーションクレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Skype for Business 音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |IM とメディアの暗号化  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1269,7 +1269,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 #### <a name="peer-to-peer-limits"></a>ピアツーピア制限
 
-- **ファイル転送制限**Skype for Business Online IM 会話で転送できるファイルの最大サイズ。ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o)」を参照してください。
+- **ファイル転送制限**Skype for Business Online IM 会話で転送できるファイルの最大サイズ。ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
     
 - **開かれたタブ付き会話数の制限** Skype for Business ユーザーが同時に開くことのできる会話タブの最大数。 
     
@@ -1330,4 +1330,3 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 
 Skype for Business Online 国内/国際通話プランの分数の制限については、「[Skype for Business Online PSTN サービスの使用条件](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services)」をご覧ください。
   
-

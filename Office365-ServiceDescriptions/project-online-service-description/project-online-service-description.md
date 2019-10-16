@@ -1,5 +1,5 @@
 ---
-title: Project Online サービスの説明
+title: Microsoft Project サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,171 +14,264 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
-ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
+ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/07/2019
-ms.locfileid: "36790743"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523261"
 ---
-# <a name="project-online-service-description"></a>Project Online サービスの説明
+# <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
+
+## <a name="overview"></a>概要
+
+Microsoft Project は、次のアプリケーションを使用して、プロジェクトおよび作業管理に関する組織のニーズを満たすことができます。
+
+- Web のプロジェクト
+- Project Online 
+- Project Online デスクトップクライアント
+
+この記事では、各 Project サブスクリプションで提供されるアプリケーションと、各アプリケーションが提供する機能について説明します。
 
 > [!NOTE]
-> この記事の更新プロセスが進行中です。 更新されたコンテンツについては、2019年10月の最初に確認してください。
->
-Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。 
-  
-Project Online は、Project Online Essentials、Project Online Professional、および Project Online Premium の 3 つのプランで使用できます。
-  
-各プランの機能を比較するには、「[プランと価格](https://products.office.com/en-us/project/compare-microsoft-project-management-software)」を参照してください。
-  
-Office 365 サービスの説明のページは、エクスポート、保存、印刷が可能です。[複数のページをエクスポート](https://techcommunity.microsoft.com/t5/Project-Support-Blog/Project-Online-New-ways-to-work-with-Team-Assignments/ba-p/362001?advanced=false&collapse_discussion=true&q=New%20ways%20to%20work%20with%20Team%20Assignments&search_type=thread)する方法について説明します。
-  
-## <a name="project-online-boundaries-and-limits"></a>Project Online の境界と制限
+> 10月29日に、Project Online Professional と Project Online Premium サブスクリプションの2019がそれぞれ Project プラン3および project プラン5に変更されます。
 
-Project Online サービスにはいくつかの制約事項があります。 詳細については、「[Project Online: ソフトウェアの境界と制限 ](https://support.office.com/en-us/article/Project-Online-software-boundaries-and-limits-5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)」をご覧ください。
-  
-## <a name="data-backup"></a>データ バックアップ
+### <a name="project-for-the-web"></a>Web のプロジェクト
 
- Project Online は、Office 365 と同じデータバックアップとアイテム保持ポリシーを備えています。 詳細については、「 [Office 365 でのデータの保存、削除、および破棄](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview)」を参照してください。
-  
-## <a name="use-of-sharepoint-online"></a>SharePoint Online の使用
+Web 用 Project は、クラウドベースの作業およびプロジェクト管理のための Microsoft の最新のサービスです。 Web 用 Project は、ほとんどのニーズと役割を満たす、シンプルで強力な作業管理機能を備えています。 プロジェクト管理者とチームメンバーは、web に Project を使用して、任意のサイズの作業を計画し、管理することができます。
 
-Project Online サービスには、Project Online サービスの一部としてプロビジョニングされる SharePoint Online を使用する必要があります。 Project Online Professional または Premium で提供される SharePoint Online の機能に対する権限は、Project Online をサポートするためのデータの格納とアクセスに制限されます。
-  
-## <a name="licensing-considerations"></a>ライセンスに関する考慮事項
+Web の Project は、Microsoft 電源プラットフォーム上に構築されています。 電源プラットフォームは、PowerApps、Microsoft Flow、Power BI、および Common Data Service (CD) で構成されます。 Web データの Project は CD に保存されています。 
 
-### <a name="internal-users"></a>内部ユーザー
+Web 用の project は、Project Online Professional と Project Online Premium という2つのサブスクリプションで利用できます。 [ [Web 機能] セクションのプロジェクト](#project-for-the-web-features)にリストされている機能は、web データストアのプロジェクト内のデータのみを操作します。
 
-Project Online サイトでのすべての操作には、Project Online のライセンスが必要です。
-  
-- Project Online Essentials は、組織内で Project Online Professional または Project Online Premium を既に使用しているお客様向けのチームメンバーアドオンライセンスです。
-    
-- より高度なユースケースでは、ユーザーは適切なライセンスを持っている必要があります。 プロジェクトマネージャーには、少なくとも Project Online Professional ライセンスが必要です。 ポートフォリオマネージャーには、Project Online Premium ライセンスが必要です。
-    
-> [!IMPORTANT]
->  Project online Essentials は、Project Online Professional または Project Online Premium を持つお客様のためのチームメンバー*アドオン*ライセンスです。 
-<br/>前回の Project Online Professional または Project Online Premium ライセンスの有効期限が切れると、Project Web App インスタンスは120日後に削除されます。 
-<br/>Project Online 試用版サブスクリプションの場合、試用期間が終了してから30日後に Project Web App インスタンスが削除されます。 
-  
-### <a name="external-users"></a>外部ユーザー
+### <a name="project-online"></a>Project Online
+ 
+Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online には、ほとんどすべてのデバイスで、プロジェクトとプロジェクトポートフォリオ投資&mdash;を計画、優先度付け、管理するための強力なプロジェクト管理機能が用意されています。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
 
-外部ユーザーの Project Online ライセンスは、内部ユーザーの場合と同じポリシーに従います。 Project Online サイトでのすべての操作には、Project Online のライセンスが必要です。
-  
-## <a name="project-online-plans"></a>Project Online のプラン
+Project Online は SharePoint プラットフォーム上に構築され、SharePoint データストアにデータを格納します。
 
-以下の Project Online プランを使用できます。 Project Online の詳細については、「 [Project online の](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)概要」を参照してください。
-  
-||||
-|:-----|:-----|:-----|
-|**プラン** <br/> |**対象ユーザー** <br/> |**説明** <br/> |
-|Project Online Essentials<sup>1</sup> |チーム メンバー <br/> <br/> |チーム メンバーの Web ベースのインターフェイス <br/>  タスク、懸案事項、およびリスクの更新 <br/>  タイムシートの送信 <br/> Microsoft Teams または Skype for Business プレゼンスでドキュメントを共有し、共同作業を行う <br/> 
-|Project Online Professional<sup>1</sup> <br/>|プロジェクト管理者  <br/> | すべての Project Online Essentials 機能、および以下の機能：  <br/>    Web インタ フェース経由でいつでもどこからでもアクセス  <br/>  プロジェクトのスケジュール設定とコスト計算  <br/>  リソース管理  <br/>  クラウドへのプロジェクトの発行  <br/>  Windows PC に即座にストリーミングされる最新バージョンの Project デスクトップ アプリケーションが含まれます。  <br/>  サブスクリプション ライセンスごとに最大 5 つの Project デスクトップ アプリケーショを同時にインストールすることができます。  <br/> |
-|Project Online Premium<sup>1</sup> <br/>|ポートフォリオ管理者とリソース管理者  <br/> | すべての Project Online Professional 機能、および以下の機能：  <br/>  ポートフォリオの選択と最適化  <br/>  需要管理  <br/>  エンタープライズ リソースの管理  <br/>  すぐに使用可能なポートフォリオ レポート  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Project online Essentials、Project online Professional、および Project online Premium は、中国に固有のバージョンの office 365 である、21vianet が運用している office 365 の一部としても提供されます。 
-  
-## <a name="feature-availability-across-project-online-standalone-plans"></a> Project Online スタンドアロンの各プランで利用できる機能
-<a name="BKMK_ProjectFeatures"> </a>
+Project Online は、Project Online Professional と Project Online Premium という2つのサブスクリプションで利用できます。 Project Online のチームメンバー機能は、 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)サブスクリプションを通じて利用できます。 [Project online](#project-online-features)の [機能] セクションにリストされている機能は、Project online SharePoint データストア内のデータとのみやり取りを行います。
 
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|**コア機能 (デスクトップ クライアント)** <br/> ||||||
-|[列の追加](core-functionality.md#add-columns) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Backstage](core-functionality.md#backstage) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[クイック実行](core-functionality.md#click-to-run) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[コンテキスト メニュー (右クリック メニュー)](core-functionality.md#contextual-right-click-menus) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[カスタム フィールド](core-functionality.md#custom-fields) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft Office アプリケーション間でのコピー アンド ペースト機能の強化](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[ガント チャート、カレンダー、タスク シート ビュー](core-functionality.md#gantt-chart-calendar-and-task-sheet-views) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Fluent ユーザー インターフェイス、リボン](core-functionality.md#microsoft-fluent-user-interface-the-ribbon) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[複数レベルの取り消し](core-functionality.md#multiple-level-undo) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[ネットワーク ダイアグラムのビュー](core-functionality.md#network-diagram-view) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Office ストア](core-functionality.md#office-store) <br/> |いいえ  <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |いいえ  <br/> |
-|[オンライン ヘルプ](core-functionality.md#online-help) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[PDF および XPS 出力](core-functionality.md#pdf-and-xps-output) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Project フィールドのプレースホルダー テキスト](core-functionality.md#placeholder-text-in-project-fields) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[プロジェクト テンプレート](core-functionality.md#project-templates) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[スタート エクスペリエンス](core-functionality.md#start-experience) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[文字列の折り返し](core-functionality.md#text-wrap) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[タイムライン ビュー](core-functionality.md#timeline-view) <br/> |いいえ <br/>|あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[ズーム コントロール](core-functionality.md#zoom-controls) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**プロジェクトの計画 (デスクトップ クライアント)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[基準計画の重ね合わせ](project-planning.md#baseline-rollup) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[予算計画](project-planning.md#budget-planning) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[プロジェクト バージョンの比較](project-planning.md#compare-project-versions) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[期限](project-planning.md#deadlines) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[フィルター](project-planning.md#filtering) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[式とグラフィカル インジケーター](project-planning.md#formulas-and-graphical-indicators) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Project データのグループ化と並べ替え](project-planning.md#group-and-sort-project-data) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[レポート](project-planning.md#reports) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[チーム プランナー](project-planning.md#team-planner) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**タスク管理 (デスクトップ クライアント)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[アクティブおよび非アクティブ タスク](task-management.md#active-and-inactive-tasks) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[オートコンプリート](task-management.md#auto-complete) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[自動スケジュール](task-management.md#automatic-scheduling) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[2149 年まで延長されたカレンダー](task-management.md#calendar-date-extended-to-2149) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[プロジェクト間のクリティカル パス](task-management.md#cross-project-critical-path) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[タスクの詳細情報](task-management.md#task-inspector) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[タスク パス解析](task-management.md#task-path-analysis) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[トップダウン サマリー タスク](task-management.md#top-down-summary-tasks) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[進行状況の更新](task-management.md#update-progress) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[ユーザーが制御する手動スケジュール](task-management.md#user-controlled-and-manual-scheduling) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**プロジェクト リソース管理 (デスクトップ クライアント)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[コスト型リソース](project-resource-management.md#cost-resources) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[非稼働時間の管理](project-resource-management.md#manage-nonworking-time) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[リソースの平準化](project-resource-management.md#resource-leveling) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[リソース シートおよび配分状況ビュー](project-resource-management.md#resource-sheet-and-usage-views) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[リソースの切り替え](project-resource-management.md#resource-substitution) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[チーム リソース](project-resource-management.md#team-resources) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[時間単価型リソース、標準リソース、数量単価型リソース](project-resource-management.md#work-generic-and-material-resources) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**プロジェクトの発行 (デスクトップ クライアント)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[プロジェクト サイトの作成](project-publishing.md#create-a-project-site) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[SharePoint のマスター プロジェクト](project-publishing.md#master-projects-on-sharepoint) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Skype for Business でのプレゼンス](project-publishing.md#presence-with-skype-for-business) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Project Server または Project Online へのプロジェクトの発行](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Project MPP ファイルの SharePoint への保存](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[Sharepoint へのタスク リストの同期](project-publishing.md#task-list-sync-to-sharepoint) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|**コア サービスの機能** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[Active Directory の統合](core-services-functionality.md#active-directory-integration) <br/> |はい<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[管理、展開、および機能拡張](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |Yes<sup>23</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[はじめに](core-services-functionality.md#getting-started) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[問題とリスクの管理 (チーム メンバー向け)](core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Office 365 セキュリティ センター](core-services-functionality.md#office-365-trust-center) <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |該当なし  <br/> |N/A  <br/> |
-|[PPM パートナーのエコシステム](core-services-functionality.md#ppm-partner-ecosystem) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[サービスの信頼性](core-services-functionality.md#service-reliability) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |N/A  <br/> |N/A  <br/> |
-|[サービス更新](core-services-functionality.md#service-updates) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |N/A  <br/> |該当なし  <br/> |
-|[チーム メンバーのコラボレーション](core-services-functionality.md#team-member-collaboration) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[時間とタスクの管理 (チーム メンバー向け)](core-services-functionality.md#time-and-task-management-for-team-members) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|**プロジェクト管理** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[問題とリスク管理](project-management.md#issues-and-risk-management) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[プロジェクト リソース管理](project-management.md#manage-project-resources) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[スケジュール管理](project-management.md#schedule-management) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[時間とタスクの管理](project-management.md#time-and-task-management) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[ホーム](project-management.md#project-home) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**ポートフォリオ管理** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[プロジェクトの分析とポートフォリオの最適化](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[プロジェクトの作成と編集](portfolio-management.md#create-and-edit-projects) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[財務管理](portfolio-management.md#financial-management) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[ワークフローへの参加](portfolio-management.md#participate-in-workflow) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[ポートフォリオ分析と選択](portfolio-management.md#portfolio-analytics-and-selection) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[プログラム管理](portfolio-management.md#program-management) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[ロードマップ](portfolio-management.md#roadmap) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**レポートとビジネス インテリジェンス** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[OData フィード](reporting-and-business-intelligence.md#odata-feeds) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[すぐに使用可能なポートフォリオ ダッシュボード](reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Project デスクトップ レポート](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|[時間単位のレポート](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|**リソース管理** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[受信リソース契約要求の承認/却下/変更](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[リソース共有元の管理](resource-management.md#manage-resource-pool) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[リソース容量の計画](resource-management.md#plan-resource-capacity) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[リソース契約の要求](resource-management.md#request-resource-agreements) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[使用可能なリソースの表示とチームの構築](resource-management.md#view-available-resources-and-build-teams) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Active Directory 統合には、Project Online Essentials のユーザーが含まれます。 ただし、Active Directory 統合を管理するには Project Online サブスクリプションが必要です。 
- <br/><sup>2</sup> 21Vianet が運用している Project Online for Office 365 では利用できません。 
- <br/><sup>3</sup> チーム メンバーのシナリオの機能拡張のみがサポートされています。 
+### <a name="project-online-desktop-client"></a>Project Online デスクトップクライアント
+
+Microsoft Project Online デスクトップクライアントは、自動スケジュール、プロジェクトリソース管理、および組み込みレポート機能を備えたプロジェクト管理プログラムです。 Project Online デスクトップクライアントは、スタンドアロンアプリケーションとして使用することも、Project Online に接続することもできます。 Project Online デスクトップクライアントは、project Online デスクトップクライアントのサブスクリプションバージョンであり、Project Online Professional および Project Online Premium サブスクリプションで利用できます。
+
+### <a name="using-project-for-the-web-and-project-online-together"></a>Project を web および Project Online に一緒に使用する
+
+Web および Project Online の Project は独立したアプリケーションですが、それらを並行して使用することができます。 Project Home の両方のアプリケーションからすべてのプロジェクトを表示できます。 プロジェクトロードマップ機能を使用すると、両方のアプリケーションからのプロジェクトを含むロードマップを構築できます。 また、web Power BI コンテンツパックの Power BI とプロジェクトを使用して、2つのアプリケーション間でプロジェクトとリソースの洞察を得ることができます。<sup>3</sup>
+
+この図は、アプリケーションを並行して連携させる方法を示しています。
+
+![Web 上のプロジェクトと Project Online が一緒に表示されている図](../media/project-online-applications.png)
+
+今後、Microsoft は、web イノベーションのプロジェクトに重点を置いています。 ただし、主要なパフォーマンスとセキュリティの向上を引き続き受けることができるので、Project Online を引き続き使用することができます。
+
+## <a name="microsoft-project-subscriptions"></a>Microsoft Project サブスクリプション
+
+Microsoft Project は、組織のニーズを満たすために、2つの異なるサブスクリプションから入手できます。 サブスクリプション間で機能を比較するには、「[アプリケーションとサブスクリプションの機能の可用性](#feature-availability-across-applications-and-subscriptions)」を参照してください。
+
+|製品 | Project Online Professional | Project Online Premium |
+|--------|-----------------------------|------------------------|
+|Web のプロジェクト |**x x** |**x x**|
+|Project Online |**x x**|**x x x**|
+|Project Online デスクトップクライアント |**x**|**x**|
+
+上記の表で、チェックの数 (**x**) は、プランによって提供される機能の全般レベルを示しています。 たとえば、project online の場合、project online Premium は、Project Online Professional の機能をさらに提供します。
+
+## <a name="feature-availability-across-applications-and-subscriptions"></a>アプリケーションおよびサブスクリプション間で利用できる機能
+
+### <a name="project-for-the-web-features"></a>Web 機能のプロジェクト
+
+このセクションに記載されている機能は、web データストアのプロジェクト内のデータのみを操作します。 これらのすべての機能は、Project Online Professional と Project Online Premium の両方で使用できます。
+
+|機能 | 説明 |
+|--------|-------------|
+|**プロジェクト、タスク、および時間の管理**||
+|ボードビュー | プロジェクトのタスクを視覚的に追跡して、不在時とカスタムのタスクボードを使用したワークフローと状態の監視を向上させます。|
+|依存関係 | タスク間の依存関係を設定し、視覚的に追跡します。|
+|グリッド ビュー | タスクの階層グリッドビューを使用して、プロジェクトの計画と管理を行います。|
+|マイルストーン | プロジェクトとタスクの重要なマイルストーンを確立し、追跡します。|
+|プロジェクトのホーム | 最近作業したプロジェクトの鳥な視点、および綿密に監視する必要がある重要なプロジェクトを取得します。|
+|タスク スケジュール | タスクの開始日と終了日、工数、作業、および依存関係を使用して、プロジェクトの日付の正確なスケジュールを取得します。|
+|タイムラインビュー (ガントチャート) | 階層タイムラインビューで、プロジェクトの日付、依存関係、および割り当てを視覚的に追跡および理解します。|
+|サマリー タスク | サマリータスクを使用して、成果物とフェーズを計画、管理、および追跡します。|
+|**コラボレーション**||
+|Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup>|
+|**リソースおよびプログラムの管理**||
+|プロジェクトチームのセットアップ | メンバーを追加または削除して、作業中のカレンダーを設定することにより、プロジェクトチームを管理します。|
+|ロードマップ | Microsoft Project Online、Microsoft Project for web、および Azure ボードプロジェクトから、プロジェクト間でビジュアルな対話型ロードマップを構築します。<sup>2</sup>|
+|**レポート**<sup>3</sup>||
+|すぐにレポートを作成する | 事前に作成されたレポートを使用して、プロジェクト、プログラム、ポートフォリオ、およびリソースデータを理解します。|
+|カスタムレポート | 既定のレポートを基にしてカスタムレポートを作成するか、または最初から組織にとって重要なデータについて理解します。|
+|ダッシュボードとポータル | 特定の組織のニーズを満たすために役立つカスタムダッシュボードとポータルを作成します。|
+|**性**||
+|共同編集 | 関係者とチームメンバーと連携して、タスクリスト、プロジェクトスケジュールなどを同時に作成、編集、および更新します。|
+|マーク | 画像マークを使用して、タスクの状態、割り当てなどについて理解します。 |
+|**モビリティ**||
+|モバイルアプリケーション | PowerApps を使用してカスタムモバイルアプリケーションを構築します。<sup>4</sup> |
+|**カスタマイズと統合**||
+|PowerApps | PowerApps を使用して web およびモバイル用のソリューションを構築して使用します。<sup>4</sup> |
+|ワークフロー | Microsoft Flow を使用してビジネスプロセスを自動化および統合します。<sup>5</sup> |
+|Microsoft Office 365 の統合 | 使い慣れた Office 365 ツールとアプリケーションを使用して、共同作業、ドキュメント管理などを行います。<sup>1</sup> |
+|**セキュリティとユーザーの管理**||
+|Office モダングループ | 共同作業を行うためのプロジェクトチームを構築し、チームメンバーが共有するためのリソースのコレクションを簡単にセットアップできるようにします。|
+
+### <a name="project-online-features"></a>Project Online の機能
+
+このセクションに記載されている機能は、Project Online SharePoint データストア内のデータとのみやり取りします。
+
+|機能 | 説明 | Project Online Professional | Project Online Premium |
+|--------|-------------|-----------------------------|------------------------|
+|**プロジェクト、タスク、および時間の管理**||||
+|通知と事前通知 | Outlook および Microsoft Teams のアラームを使用して、今後の重要なタスクとプロジェクトイベントのスケジュールを維持します。<sup>1</sup>| はい | はい |
+|} | プロジェクトの基準を設定して、Project Web App を使用して過去のパフォーマンスに対する現在のパフォーマンスを監視します。| はい | はい |
+|ボードビュー | 向上したワークフローおよび状態監視のプロジェクトタスクを視覚的に追跡します。 | はい | はい |
+|クリティカルパス | Project Web App を使用して、プロジェクトの最長パスを表すタスクを視覚的に追跡します。| はい | はい |
+|成果物の管理 | 開始日と終了日および自動スケジュールを使用して、成果物を追跡および管理します。| はい | はい |
+|依存関係 | タスク間の依存関係を設定し、視覚的に追跡します。| はい | はい |
+|ガントビュー | Project Web App を使用して、プロジェクトの日付、依存関係、および割り当てを階層的なガントチャートで視覚的に追跡および理解します。| はい | はい |
+|グリッド ビュー | Project Web App を使用して、タスクの階層的なグリッドビューを使用して、プロジェクトの計画と管理を行います。| はい | はい |
+|問題とリスクの管理 | プロジェクトとタスクレベルで、問題とリスクを特定し、追跡します。| はい | はい |
+|マスター プロジェクト | Project Web App を使用して、1つのマスタープロジェクトの下にある小さな関連プロジェクトをグループ化します。 | はい | はい |
+|通知 | Outlook および Teams の通知を使用して、タスクの割り当て、状態、重要なプロジェクトイベントを常に把握できます。<sup>1</sup> | はい | はい |
+|プロジェクトのホーム | 最近作業したプロジェクトの鳥な視点、および綿密に監視する必要がある重要なプロジェクトを取得します。| はい | はい |
+|プロジェクトのバージョン管理 | プロジェクトの異なるバージョンを、バージョン間で変更されたものを示すレポートと比較します。 | はい | はい |
+|サマリー タスク | Project Web App のサマリータスクを使用して、成果物とフェーズを計画、管理、および追跡します。 | はい | はい |
+|タスク スケジュール | タスクの開始日と終了日、作業時間、作業時間、リードタイム、ラグタイム、および依存関係を使用して、Project Web App を使用してプロジェクト日付の正確なスケジュールを取得します。 | はい | はい |
+|タスクの更新 | プロジェクトタスク、非プロジェクト作業、非稼働時間に関するコメントを含む時間と状態をキャプチャします。 | はい | はい |
+|期限 | Project Web App を使用して、プロジェクトの日付、依存関係、および割り当てをタイムラインビューで視覚的に追跡および理解します。 | はい | はい |
+|タイムシート | チームメンバーは、タスク、非プロジェクト作業、非稼働時間に対して時間と進捗状況を入力できます。 | はい | はい |
+|タイムシートの承認 | チームメンバーは、承認のためにタイムシートを提出できます。 リソースマネージャーおよびスーパーバイザーは、提出されたタイムシートをレビュー、承認、辞退することができます。 | はい | はい |
+|非稼働時間のセットアップ | 休日、祝日、医療休暇、その他の非稼働時間を自分のプロジェクト スケジュールに追加します。 | いいえ | はい |
+|**コラボレーション** ||||
+|Attachments | チーム、プロジェクト、またはタスクレベルでドキュメント、画像、およびその他のファイルを添付します。 これらの添付ファイルは、チームレベルまたはプロジェクトレベルの中央ライブラリで管理します。 | はい | はい |
+|外部チームメンバー |プロジェクト、タスク、ドキュメントを表示して操作するためのアクセス許可を付与することにより、組織外のユーザーと共同作業を行います。<sup>6</sup> | はい | はい |
+|プロジェクト サイト | プロジェクトのグループ作業とドキュメントのハブを作成およびカスタマイズします。 | はい | はい |
+Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup> | はい | はい |
+|**需要管理** ||||
+|プロジェクト要求の承認ワークフローの設定 | 受信需要を評価、優先度設定、および承認するために必要なワークフローを構築します。 | いいえ | はい |
+|プロジェクト要求フォームの作成 | 新しい作業を評価して優先度を設定するのに役立つ、受信要求に関する重要なデータを取得します。 | いいえ | はい |
+|プロジェクト要求 | 組織内から、および外部の顧客やパートナーからの受信需要の追跡、管理、評価、および優先度設定を行います。 | はい | はい |
+|**リソース、プログラム、ポートフォリオの管理** ||||
+|プロジェクトのコストと予算 | Project Web App を使用して、計画された進捗状況と予算を実際の時間とコストと比較します。 | はい | はい |
+|プロジェクトチームのセットアップ | メンバーを追加および削除し、割り当てレベルを設定し、外部メンバーを追加することで、プロジェクトチームを管理します。 | はい | はい |
+|リソース最大利用可能時間のビュー | プロジェクト、チーム、組織レベルでリソースの処理能力を追跡および管理します。 | はい | はい |
+|リソースのコスト | プロジェクトのリソースコストを追跡および管理します。 | はい | はい |
+|リソース予約 (予約) | プロジェクトマネージャーは、役割、スキル、または名前によってリソースの要求を送信できます。 リソース管理者は、要求を確認し、利用可能なリソースを割り当てることができます。 |Yes<sup>7</sup> | はい<sup>8</sup> |
+|リソース容量の計画 | プロジェクト、チーム、組織レベルでリソースの処理能力を追跡および管理します。 | いいえ | はい |
+|ロードマップ | Microsoft Project Online、Microsoft Project for web、および Azure ボードプロジェクトから、プロジェクト間でビジュアルな対話型ロードマップを構築します。<sup>2</sup> | はい | はい |
+|ポートフォリオ分析と優先度設定 | 組織のビジネス戦略に最適なプロジェクトポートフォリオを特定、選択、および提供し、投資収益率 (ROI) を最大化します。 | いいえ | はい |
+|ダッシュボード/ポータル | リアルタイム対話ダッシュボードを使用して、ポートフォリオ、プログラム、プロジェクト、タスク、チーム、およびリソースレベルで、状態、優先度設定などについて理解します。 | はい | はい |
+|Work, generic, and material resources | プロジェクトにリソースを追加します。たとえば、人などの時間単価型リソース、職人のような標準リソース、コンピューターやコンクリートなどの資材リソースが追加されます。 | はい | はい |
+|**レポート**<sup>3</sup> ||||
+|すぐにレポートを作成する | 事前に作成されたレポートを使用して、プロジェクト、プログラム、ポートフォリオ、およびリソースデータを理解します。 | はい | はい |
+|カスタムレポート | 既定のレポートを基にしてカスタムレポートを作成するか、または最初から組織にとって重要なデータについて理解します。 | はい | はい |
+|ダッシュボードとポータル | 特定の組織のニーズを満たすために役立つカスタムダッシュボードとポータルを作成します。 | はい | はい |
+|**カスタマイズと統合**||||
+|カスタム ブランディング | 独自のブランド、ロゴ、および色を使用して、プロジェクトの展開をカスタマイズします。 | いいえ | はい |
+|Custom fields | プロジェクト、タスク、およびリソースレベルでユーザー設定フィールドを追加して、組織やプロジェクトにとって重要なデータを追跡します。 | はい | はい |
+|式 | タスクやプロジェクト間で数式を使用して、重要なデータを計算して取得します。 | はい | はい |
+|PowerApps | PowerApps を使用して web とモバイル (OData を介して) のソリューションを構築して使用します。<sup>4</sup> | はい | はい |
+|ワークフロー | Microsoft Flow を使用して、(OData を介して) ビジネスプロセスを自動化および統合します。<sup>5</sup> | はい | はい |
+|Microsoft Office 365 の統合 | 使い慣れた Office 365 ツールとアプリケーションを使用して、共同作業、ドキュメント管理などを行います。<sup>1</sup> | はい | はい |
+|Microsoft Planner の統合 | プロジェクトタスクを Planner プランに接続し、プランナーで詳細な作業を追跡します。<sup>1</sup> | はい | はい |
+|**セキュリティ、ユーザー、およびサービスの管理**||||
+|Active Directory の統合 | 組織の Active Directory のメンバーからチームを作成します。<sup>9</sup> | はい | はい |
+|ユーザー管理 | プロジェクト、チーム、および組織レベルでユーザーとグループの役割とアクセス許可を管理します。 | いいえ | はい |
+|サービス管理 | Office 365<sup>1</sup>環境の一部としての Microsoft Project 環境の計画、インストール、構成、管理、拡張を行います。  | いいえ | はい |
+
+#### <a name="notes"></a>メモ
+
+<sup>1</sup> Office または Microsoft 365 商用サブスクリプションが必要です。</br>
+<sup>2</sup>個別に購入した Azure ボード。</br>
+<sup>3</sup> Web 用プロジェクトおよび project Online のレポートは、Power BI を使用して行うことができます。 レポートを表示、編集、および作成するには、Power BI Pro サブスクリプションが必要です。 Microsoft は、あらかじめ組み込まれている Power BI レポートのセットを提供しています。 ユーザーは、Power BI を使用してこれらのレポートをカスタマイズしたり、追加のレポートを作成したりできます。</br> 
+<sup>4</sup> web データの project にアクセスするカスタムの PowerApps モバイルアプリケーションを作成するには、PowerApps サブスクリプションと、Project online Professional または Project online Premium サブスクリプションが必要です。</br>
+<sup>5</sup> web データの Project で microsoft flow を使用してビジネスプロセスを自動化および統合するには、microsoft flow サブスクリプションと Project online Professional または Project online Premium サブスクリプションが必要です。</br>
+<sup>6</sup>外部ユーザー用の Project Online ライセンスは、内部ユーザーの場合と同じポリシーに従います。 Project Online サイトで対話を行うには、Project Online のサブスクリプションが必要です。</br>
+<sup>7</sup> Project Online Professional サブスクリプションを使用しているユーザーは、リソース契約要求を送信できます。 リソース契約要求をレビュー、履行、または承認することはできません。</br>
+<sup>8</sup> Project Online Premium サブスクリプションを使用するユーザーは、リソース契約要求をレビュー、履行、承認できます。</br>
+<sup>9</sup> Active Directory では、別のサブスクリプションが必要です。 </br>
+
+### <a name="project-online-desktop-client-features"></a>Project Online デスクトップクライアントの機能
+
+|機能 | 説明 |
+|--------|-------------|
+|**プロジェクトとタスクの管理**||
+|} | プロジェクトの基準を設定して、現在のパフォーマンスを過去のパフォーマンスに対して監視します。 |
+|予定表ビュー | 週単位または月単位の予定表ビューで、重要なプロジェクトとタスクの期限とマイルストーンを追跡します。 |
+|クリティカルパス | プロジェクトを通じて最も長いパスを表すタスクを視覚的に追跡します。 |
+|期限 | プロジェクトとタスクの重要な期限を確立し、追跡します。 |
+|依存関係 | タスク間の依存関係を設定し、視覚的に追跡します。 |
+|ガントビュー | 階層化されたガントビューで、プロジェクトの日付、依存関係、および割り当てを視覚的に追跡および理解します。 |
+|グリッド ビュー | タスクの階層グリッドビューを使用して、プロジェクトの計画と管理を行います。 |
+|マスター プロジェクト | 1つのマスタープロジェクトの下にある小さな関連プロジェクトをグループ化します。 |
+|マイルストーン | プロジェクトとタスクの重要なマイルストーンを確立し、追跡します。 |
+|ネットワーク図 | [ネットワークダイアグラム] ビューに、プロジェクトのタスク、依存関係、およびクリティカルパスを表示します。 |
+|タスク スケジュール | タスクの開始日と終了日、作業時間、作業時間、リードタイム、ラグタイム、および依存関係を使用して、プロジェクトの日付の正確なスケジュールを取得する |
+|チームプランナー | プロジェクト以外の作業時間や非稼働時間を含む、すべてのプロジェクトチームメンバーの割り当てと容量を追跡できます。|
+|期限 | タイムラインビューで、プロジェクトの日付、依存関係、および割り当てを視覚的に追跡および理解します。 |
+|無効なタスク | 非アクティブなタスクを使用して、リソースの利用可能時間や割り当てに影響を与えずに作業を追跡し、プロジェクトスケジュールに影響を与えません。 |
+|サマリー タスク | サマリータスクを使用して、成果物とフェーズを計画、管理、および追跡します。 |
+|タスクの詳細情報 | 変更された開始日やエラー メッセージなどのタスクのスケジューリングに影響する要因を表示します。 |
+|タスクパス分析 | タスクと他のタスクとの関係を確認するため、プロジェクト全体のタスクのタスク パスを強調表示します。 |
+|**リソースおよび財務管理**||
+|Resource leveling | 割り当てを自動的に平準化して、リソースの競合または割り当て超過を解決します。 |
+|Work, generic, and material resources | プロジェクトにリソースを追加します。たとえば、人などの時間単価型リソース、職人のような標準リソース、コンピューターやコンクリートなどの資材リソースが追加されます。 |
+|プロジェクトのコストと予算 | 計画された進捗状況と予算を実績時間とコストと比較します。 |
+|リソースのコスト | プロジェクトのリソースコストを追跡および管理します。|
+|**レポート** ||
+|カスタムレポート | プロジェクト、プログラム、ポートフォリオ、およびリソースのカスタムレポートを作成します。 |
+|すぐにレポートを作成する | 事前に作成されたレポートを使用して、プロジェクト、プログラム、ポートフォリオ、およびリソースデータを理解します。 |
+|PDF and XPS output | プロジェクトファイルを PDF または XPS ファイルとして保存します。 |
+|**性**||
+|オートコンプリート | 入力したタスクまたはリソースの名前と依存関係の提案を取得します。 |
+|フィルター処理されたビュー | プラン内の任意の値でプロジェクト計画をフィルター処理する |
+|マーク | 画像マークを使用して、タスクの状態、割り当てなどについて理解します。 |
+|複数レベルの取り消し | [**元に戻す**] メニューを使用して、複数の変更を一度に元に戻すことができます。 |
+|並べ替えとグループ化 | ユーザー設定の並べ替えとグループ化を使用して、プロジェクト、タスク、およびリソースの焦点を絞ったビューを取得します。|
+|**カスタマイズと統合**||
+|カスタム フィールド | プロジェクト、タスク、およびリソースレベルでユーザー設定フィールドを追加して、組織やプロジェクトにとって重要なデータを追跡します。 |
+|Forms | ユーザー設定フォームを作成および展開して、重要なプロジェクトデータをキャプチャします。 |
+|式 | タスクやプロジェクト間で数式を使用して、重要なデータを計算して取得します。 |
+|テンプレート | プロジェクト計画、チーム、割り当てなどの一般的なプロジェクトのテンプレートを作成します。 |
+|.mpp のインポート/エクスポート | 既存の .mpp ファイルから新しいプロジェクトを作成するか、既存のプロジェクトの .mpp ファイルを作成します。 |
+|Excel のインポート/エクスポート | Excel ファイルから新しいプロジェクトを作成するか、既存のプロジェクトの Excel ファイルを作成します。 |
+
+## <a name="service-considerations"></a>サービスに関する考慮事項
+
+### <a name="licensing-considerations"></a>ライセンスに関する考慮事項
+
+- Project Online サイトで対話を行うには、Project Online のサブスクリプションが必要です。
+- 前回の Project Online Professional または Project Online Premium サブスクリプションの有効期限が切れると、web および Project Online インスタンスのプロジェクトは、120日後に削除されます。
+- Project for web および Project Online の試用版サブスクリプションの場合、試用期間が終了してから30日後に試用版のインスタンスが削除されます。
+
+### <a name="use-of-sharepoint-online"></a>SharePoint Online の使用
+
+Project Online では、Project Online の一部として準備されている SharePoint Online を使用する必要があります。 Project Online Professional または Premium で提供される SharePoint Online の機能に対する権限は、Project Online をサポートするためのデータの格納とアクセスに制限されます。
+
+### <a name="data-backup-and-retention"></a>データのバックアップと保持
+
+Web および Project Online の project は、両方とも Office 365 と同じデータバックアップとアイテム保持ポリシーを備えています。 詳細については、「 [Office 365 でのデータの保存、削除、および破棄](https://docs.microsoft.com/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)」を参照してください。
+
+### <a name="project-for-the-web-boundaries-and-limitations"></a>Web の境界と制限のプロジェクト
+
+Web 用のプロジェクトにはいくつかの制限があります。次の表で説明します。
+
+|Entity/field | 制限 |
+|-------------|-------|
+|**タスク** ||
+|上限. タスクの階層レベル | 10レベル |
+|上限. タスクのリンク (後続 + 先行タスク) | 1280 |
+|上限. リーフタスクの期間 | 1250日 |
+|上限. サマリータスクの期間 | 3650日 (10 年) |
+|上限. タスクに割り当てることができるリソース | 20リソース |
+|タスクのサポートされている日付範囲 | 1/1/1984 &ndash; 12/31/2149 |
+|**Project** ||
+|上限. プロジェクトのタスクの合計 | 500 |
+|上限. プロジェクトの合計時間 | 3650日 (10 年) |
+|上限. プロジェクトの総リソース | 150 |
+|上限. プロジェクトの合計リンク (後継のみ) | 600 |
+
+### <a name="project-online-boundaries-and-limitations"></a>Project Online の境界と制限
+
+Project Online にはいくつかの制限事項があります。 詳細については、「 [Project Online: ソフトウェアの境界と制限](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)」を参照してください。

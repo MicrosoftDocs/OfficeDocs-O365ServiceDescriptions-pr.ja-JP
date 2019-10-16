@@ -3,7 +3,6 @@ title: ドメイン
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/10/2017
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,31 +14,31 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: ドメインを追加する時にステップ バイ ステップのウィザードを使用すれば、ユーザーを追加したり、Office 365 のメール アドレスやその他のサービスを会社名に変換したりする作業を簡単に行えます。 ウィザードを完了すると、ビジネス用の電子メールは、現在のメール プロバイダーではなく Office 365 に届くようになります。 詳細については、「Office 365 にユーザーとドメインを追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: febc87051ec9b4e6853cadfc43a0d0c272dd1b04
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d4d2e0316960f6c3d91cbdb088bd154d6739c2f2
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343736"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523405"
 ---
 # <a name="domains"></a>ドメイン
 
-ドメインを追加する時にステップ バイ ステップのウィザードを使用すれば、ユーザーを追加したり、Office 365 のメール アドレスやその他のサービスを会社名に変換したりする作業を簡単に行えます。 ウィザードを完了すると、ビジネス用の電子メールは、現在のメール プロバイダーではなく Office 365 に届くようになります。 詳細については、「[Office 365 にユーザーとドメインを追加する](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「[ドメインを確認する](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)」を参照してください。
+ドメインを追加する時にステップ バイ ステップのウィザードを使用すれば、ユーザーを追加したり、Office 365 のメール アドレスやその他のサービスを会社名に変換したりする作業を簡単に行えます。 ウィザードを完了すると、ビジネス用の電子メールは、現在のメール プロバイダーではなく Office 365 に届くようになります。 詳細については、「[Office 365 にユーザーとドメインを追加する](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「[ドメインを確認する](https://docs.microsoft.com/office365/admin/setup/add-domain)」を参照してください。
   
 ## <a name="custom-domains"></a>カスタム ドメイン
 <a name="BKMK_CustomDomains"> </a>
 
-最大 900 のドメインを Office 365 サブスクリプションに追加できます。ただし、別の Microsoft クラウド サービスで既に使用している Office 365 にドメインを追加することはできません。つまり、複数の Office 365 サブスクリプションに同一ドメインを追加することはできません。詳細については、「[ドメインに関する FAQ](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
+最大 900 のドメインを Office 365 サブスクリプションに追加できます。ただし、別の Microsoft クラウド サービスで既に使用している Office 365 にドメインを追加することはできません。つまり、複数の Office 365 サブスクリプションに同一ドメインを追加することはできません。詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
   
 ### <a name="second-and-third-level-domains"></a>第 2 および第 3 レベル ドメイン
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
 
-Office 365 Enterprise と Office 365 Business を使用すれば、marketing.contoso.com などの第 3 レベル ドメインを含む任意のレベル ドメインを追加できます。詳細は、「[カスタム サブドメインまたは複数のドメインを Office 365 に追加する](http://go.microsoft.com/fwlink/?LinkID=733345&amp;clcid=0x409)」を参照してください。21Vianet が運用している Office 365 をご使用の方は、「[21Vianet が運用している Office 365 にカスタム サブドメインまたは複数のドメインを追加する](http://go.microsoft.com/fwlink/?LinkID=733346&amp;clcid=0x409)」を参照してください。
+Office 365 Enterprise と Office 365 Business を使用すれば、marketing.contoso.com などの第 3 レベル ドメインを含む任意のレベル ドメインを追加できます。詳細は、「[カスタム サブドメインまたは複数のドメインを Office 365 に追加する](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。21Vianet が運用している Office 365 をご使用の方は、「[21Vianet が運用している Office 365 にカスタム サブドメインまたは複数のドメインを追加する](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。
   
 ## <a name="domain-verification-and-managing-dns-records"></a>ドメインの検証および DNS レコードの管理
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Office 365 では、DNS ホスティング プロバイダーですべての DNS レコードを管理することも、Office 365 がドメインの DNS レコードを設定して管理するよう選択することもできます。レコードを引き続き自分で管理する場合は、必要に応じて特定のレコードが Office 365 サービスを指すよう変更します。各レコードに使用する特定の値など、レコードの追加に関する詳しい手順を提供しているドメイン登録業者の一覧については、「[任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://go.microsoft.com/fwlink/p/?LinkID=270173)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「21Vianet が運用している Office 365 用に任意のプロバイダーで DNS レコードを作成する」を参照してください。 
+Office 365 では、DNS ホスティング プロバイダーですべての DNS レコードを管理することも、Office 365 がドメインの DNS レコードを設定して管理するよう選択することもできます。レコードを引き続き自分で管理する場合は、必要に応じて特定のレコードが Office 365 サービスを指すよう変更します。各レコードに使用する特定の値など、レコードの追加に関する詳しい手順を提供しているドメイン登録業者の一覧については、「[任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「21Vianet が運用している Office 365 用に任意のプロバイダーで DNS レコードを作成する」を参照してください。 
   
 Office 365 がドメインの DNS レコードを管理する場合は、最初にドメインのネームサーバー レコードが Office 365 を指すよう切り替えてから、Office 365 が Office 365 のサービスを設定し、その後ドメインの DNS レコードが Office 365 で管理されるようにする必要があります。
   
@@ -49,7 +48,7 @@ DNS レコードがどこでホストされているかに関係なく、Office 
   
 Office 365 は、DNS レコードを積極的にチェックし、DNS の問題を検索して解決します。 DNS レコードが予期したとおりに一致しない場合は、Microsoft 365 管理センターで通知を受け取り、特定された可能性のある問題を解決する方法についての情報を提供します。
   
-詳細については、「[ドメインに関する FAQ](https://go.microsoft.com/fwlink/p/?LinkID=270144)」を参照してください。21Vianet が運用している Office 365 については、「[DNS レコードの管理時に Office 365 の DNS レコードを作成する](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409)」を参照してください。
+詳細については、「[ドメインに関する FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。21Vianet が運用している Office 365 については、「[DNS レコードの管理時に Office 365 の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)」を参照してください。
   
 ## <a name="sharing-a-domain"></a>ドメインの共有
 <a name="BKMK_ManagingDNSRecords"> </a>
@@ -63,6 +62,6 @@ Office 365 は、Office 365 上のドメインのいくつかの電子メール 
 ## <a name="feature-availability"></a>機能の可用性
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Office 365 のプラン、スタンドアロンのオプションとオンプレミスのソリューションで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 Platform Service Description](office-365-platform-service-description.md)」を参照してください。
   
 

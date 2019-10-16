@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
-ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130901"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523415"
 ---
 # <a name="help-and-training"></a>ヘルプとトレーニング
 
@@ -88,17 +88,17 @@ Office 365 コミュニティのホーム ページから次のリソースに�
     
 - **ブログ** Office 365 の技術ブログは、Office 365 オンライン サービスの最新情報の取得や、Office 365 の機能のメリットについての学習に適したリソースです。トピックには、製品に関する見識、新製品の発表、お客様のインタビュー、ゲストのブログ シリーズなどがあります。 
     
-詳細については、[Office 365 コミュニティ](https://go.microsoft.com/fwlink/?LinkId=272057)をご覧ください。
+詳細については、[Office 365 コミュニティ](https://techcommunity.microsoft.com/)をご覧ください。
   
-## <a name="office-365-techcenter"></a>Office 365 TechCenter
+## <a name="manage-office-365-guidance"></a>Office 365 ガイダンスを管理する
 
-大企業の IT プロフェッショナルは、TechNet の Office 365 TechCenter にアクセスできます。Office 365 TechCenter は、大企業向けに複雑な展開のガイダンスを提供します。
+大規模な組織の IT 担当者は、「Manage Office 365 documentation home page」を参照してください。 このページでは、大規模な組織向けの複雑な展開ガイダンスへのリンクを示します。
   
-詳細については、「[Office 365 (IT 担当者向け)](https://go.microsoft.com/fwlink/?LinkId=272058)」をご覧ください。
+詳細については、「 [Manage Office 365](https://docs.microsoft.com/Office365/)」を参照してください。
   
 ## <a name="other-self-help-resources"></a>その他のセルフヘルプ リソース
 
-Office 365 コミュニティ、およびオンライン ヘルプ以外にも、Office 365 には次のセルフヘルプ リソースがあります。
+Office 365 のコミュニティとオンラインヘルプに加えて、Office 365 には次のセルフヘルプリソースが含まれています。
   
 - **Office 365 のトラブルシューティング ツール** Office 365 のトラブルシューティング ツールは、ユーザーが問題に関する一連の短い質問に回答した後、その回答に基づいて有用なツールと情報を提示します。ツールを使用するには、Office 365 コミュニティの [Office 365 のトラブルシューティング ツール](https://go.microsoft.com/fwlink/?LinkId=272113)に関するページへ移動してください。 
     
@@ -149,6 +149,4 @@ Office 365 コミュニティ、およびオンライン ヘルプ以外にも�
    
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプションとオンプレミスのソリューションで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
-  
-
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 Platform Service Description](office-365-platform-service-description.md)」を参照してください。

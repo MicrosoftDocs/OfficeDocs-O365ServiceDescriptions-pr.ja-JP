@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 は業界標準と規制に準拠しており、ビジネスの規制要件に適合できるように設計されています。 詳細については、「コンプライアンス認証」をご覧ください。
-ms.openlocfilehash: fc899afcbf91bd34825f1b741428ae9e08c49856
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776988"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523462"
 ---
 # <a name="compliance"></a>コンプライアンス
 
@@ -111,6 +111,5 @@ Office 365 のコンプライアンスと監査報告書の詳細については
     
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
+さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   
-

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® スマートフォンは、Office 365 の電子メールや文書にアクセスすることができます。
-ms.openlocfilehash: 0af0e0f1615c45c468b05d66e274c158dba673e0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776948"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523472"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -34,7 +34,7 @@ BlackBerry 10 スマートフォンは、Microsoft Exchange ActiveSync を使用
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>BlackBerry® 7 以前のスマートフォンと Microsoft Exchange Online
 
-BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前のスマートフォンを Exchange Online に接続できます。BIS を使用することで、BlackBerry ユーザーは、IMAP または POP によるインターネット経由で電子メール アカウントにアクセスできます。
+BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前のスマートフォンを Exchange Online に接続できます。 BIS は、BlackBerry ユーザーが IMAP または POP を経由してインターネット経由で電子メールアカウントにアクセスできるようにします。
   
 ほとんどの携帯電話会社では BIS がセットアップされています。そのためエンド ユーザーは、次のサポート技術情報の記事を使用して、電子メール、予定表、連絡先の同期を構成する必要があります。
   
@@ -53,6 +53,5 @@ BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前の�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
+さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   
-
