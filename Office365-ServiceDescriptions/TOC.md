@@ -82,7 +82,7 @@
 ## [Workplace Analytics サービスの説明](workplace-analytics-service-description.md)
 ## [MyAnalytics サービスの説明](mya-service-description.md)
 ## [Power BI サービスの説明](power-bi-service-description.md)
-## [Project Online サービスの説明](project-online-service-description/project-online-service-description.md)
+## [Microsoft Project サービスの説明](project-online-service-description/project-online-service-description.md)
 ### [コア機能](project-online-service-description/core-functionality.md)
 ### [プロジェクトの計画](project-online-service-description/project-planning.md)
 ### [タスク管理](project-online-service-description/task-management.md)
