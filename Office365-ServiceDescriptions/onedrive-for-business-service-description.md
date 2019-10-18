@@ -27,7 +27,7 @@ OneDrive は、組織内のライセンスを取得した各ユーザーに提�
   
 OneDrive は Microsoft 365 および Office 365 プラン、SharePoint Online プランに含まれています。スタンドアロン プランとしてもご購入いただけます。 
     
-プランを比較するには、「[一般法人向け Office 365 のプランを比較する](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/ja-JP/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。 
+プランを比較するには、「[一般法人向け Office 365 のプランを比較する](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。 
   
 > [!NOTE]
 > OneDrive for Business スタンドアロン プランには Web 用 Office が含まれます。 
