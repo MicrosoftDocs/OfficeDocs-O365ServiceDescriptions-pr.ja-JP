@@ -1,5 +1,5 @@
 ---
-title: クライアントとモバイル デバイス
+title: クライアントとモバイルデバイス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442702"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581923"
 ---
-# <a name="clients-and-mobile-devices"></a>クライアントとモバイル デバイス
+# <a name="clients-and-mobile-devices"></a>クライアントとモバイルデバイス
 
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
@@ -39,7 +39,7 @@ Exchange 2016 と Exchange Online でサポートされている Outlook クラ�
   
 ## <a name="outlook-on-the-web"></a>Web 上の Outlook
 
-Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。 これにより、ユーザーは、インターネットに接続されている場所から、web ブラウザーを使用して電子メール、予定表、連絡先にアクセスできます。 サポートされているブラウザーについては、「[Office のシステム要件](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)」を参照してください。
+Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。 これにより、ユーザーは、インターネットに接続されている場所から、web ブラウザーを使用して電子メール、予定表、連絡先にアクセスできるようになります。 サポートされているブラウザーについては、「[Office のシステム要件](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)」を参照してください。
   
 Outlook on the web のクライアントには 2 つのバージョンがあり、どちらも Exchange Online とともに利用できます。
   
@@ -70,7 +70,7 @@ Exchange Online は、iOS、Android、および Windows Phone で使用可能な
 
 Outlook は、ユーザーが最新のモバイル アプリに期待する高速で直感的な電子メールと予定表のエクスペリエンスを提供し、Office 365 の最高の機能をサポートする唯一のアプリです。これは、特に完全な Office 365 エクスペリエンスをサポートするように設計された唯一の電子メール アプリであり、ユーザーにデスクトップからモバイルまでの一貫したエクスペリエンスを提供します。Outlook は Intune、エンタープライズ モビリティとセキュリティ、および Exchange コントロールと統合され、データとユーザーの安全を確保します。
   
-Outlook を使用すると、次のことが可能になります。
+Outlook では、ユーザーは次のことができます。
   
 - 全日をモバイル デバイスから管理できます。
 
@@ -161,5 +161,5 @@ Office 365 の電子メールは BlackBerry® デバイスで利用できます 
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   

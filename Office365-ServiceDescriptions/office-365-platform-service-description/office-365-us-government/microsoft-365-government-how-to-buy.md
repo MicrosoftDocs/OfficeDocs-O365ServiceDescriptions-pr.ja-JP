@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839868"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595266"
 ---
 ---
 
@@ -117,10 +117,12 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 Government を購入するにはどうすればよいですか?
 
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
+
 1. [フォームを完成](https://products.office.com/government/eligibility-validation)させて送信し、組織の適格性を検証します。
 2. Microsoft アカウントチームまたは認定パートナーと協力して、注文を行います。 お客様は、セレクトパートナーを通じてのみ Microsoft 365 を米国政府ライセンスで購入できます。
 
 **Lsp GCC および GCC 高 (+ 500 座席)**
+
 - CDW
 - 接続 (旧称 PC 接続)
 - 工場

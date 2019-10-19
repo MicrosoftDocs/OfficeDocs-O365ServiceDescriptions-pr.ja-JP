@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 7f4f1d184915c7098ed00e94e8eb8bf47b38deea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9dfa0f5b1e7ade5a957d8acb83dc0658077c5cdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777468"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581363"
 ---
 # <a name="service-level-agreement"></a>サービス レベル契約
 
@@ -26,7 +26,7 @@ ms.locfileid: "35777468"
 
 マイクロソフトは、各サービスのサービス レベルを達成および維持するという当社の約束に関し返金制度を設けています。サービス レベル契約に記載のとおり、各サービスのサービス レベルが達成、維持されない場合、お客様は月額サービス料金の一部に対してクレジットを受ける対象になる場合があります。当社のサービスに関するサービス レベル契約の詳細については、「[Microsoft Online サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=272026)」をダウンロードしてください。システムの稼働時間、セキュリティ、プライバシー、コンプライアンスに関する情報の概要については、「[Office 365 による透明性のある運用](https://go.microsoft.com/fwlink/?linkid=845427)」を参照してください。
   
-## <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
+## <a name="office-365-operated-by-21vianet"></a>21 Vianet が運用している Office 365
 
 21Vianet が運用している Office 365 については、「[21Vianet サービス レベル アグリーメント](https://go.microsoft.com/fwlink/?linkid=846729)」と「[オンライン サービスの標準的な契約](https://go.microsoft.com/fwlink/?linkid=846730)」を参照してください。 
   
@@ -35,5 +35,5 @@ ms.locfileid: "35777468"
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)」を参照してください。
+さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   

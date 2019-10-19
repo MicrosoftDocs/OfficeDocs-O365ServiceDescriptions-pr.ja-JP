@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含む Office 365 サブスクリプションの機能の比較をお探しですか。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442652"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581943"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -58,7 +58,7 @@ Exchange Online サービスにアクセスする各ユーザーは、サブス�
 
 企業組織、教育組織、および行政機関で使用可能な月単位のサブスクリプションベースのサービスである、Office 365 のシステム要件については、「[Office 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online でのストレージと受信者の制限事項
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online のストレージと受信者の制限
 
 Exchange Online サブスクリプション プランで使用できるストレージおよび受信者数の制限の詳細については、「[Exchange Online の制限](exchange-online-limits.md)」を参照してください。
   
@@ -77,9 +77,9 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |役割に基づくアクセス許可|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |役割グループ|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |役割の割り当てポリシー|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|**[メッセージ ポリシーと準拠](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[メッセージポリシーとコンプライアンス](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange Online ベースのメールボックスのアーカイブ| いいえ|いいえ|あり|はい|はい|はい|はい|いいえ|
-|オンプレミス メールボックスのクラウドベースのアーカイブ|はい <sup>1</sup>|はい<sup>1</sup>|いいえ|いいえ|あり|はい|はい|いいえ|
+|社内メールボックスのクラウドベースのアーカイブ|はい <sup>1</sup>|はい<sup>1</sup>|いいえ|いいえ|あり|はい|はい|いいえ|
 |Messaging Records Management(MRM) |はい|はい|はい|はい|はい|はい|はい|はい|
 |手動のアイテム保持ポリシー、ラベル、タグ |いいえ|いいえ|いいえ|いいえ|あり|はい|はい|はい|
 |保存中のデータの暗号化 (BitLocker)|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい|はい|はい|はい|はい|はい|
@@ -90,25 +90,25 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |S/MIME|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい|はい|はい|はい|はい|はい||
 |インプレース保持と訴訟ホールド|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |インプレース電子情報開示 (eDiscovery)|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|あり|
-|トランスポート ルール|はい <sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|
+|Transport rules|はい <sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|
 |データ損失防止|はい<sup>5、14</sup>|はい<sup>5、14</sup>|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |ジャーナル|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[スパムおよびマルウェア対策](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[スパム対策とマルウェア対策の保護](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |組み込みのスパム対策保護|はい <sup>6</sup>|はい <sup>6</sup>|はい|はい|はい|はい|はい|はい|
-|スパム対策ポリシーのカスタマイズ|はい (ただし、PowerShell 経由のみ)|はい (ただし、PowerShell 経由のみ)|はい|はい|はい|はい|はい|はい <sup>7</sup>|
+|Customize anti-spam policies|はい (ただし、PowerShell 経由のみ)|はい (ただし、PowerShell 経由のみ)|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |組み込みのマルウェア対策保護|はい <sup>8</sup>|はい <sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|
-|マルウェア対策ポリシーのカスタマイズ|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
+|Customize anti-malware policies|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
 |Advanced Threat Protection|いいえ|はい|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|送信電子メールのカスタム ルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
-|信頼できるパートナーとのセキュリティで保護されたメッセージング|はい|はい|はい|はい|はい|はい|はい|はい|
-|条件付きメール ルーティング|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
-|受信セーフ リストへのパートナーの追加|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
-|ハイブリッド電子メール ルーティング|はい|はい|Yes<sup>16</sup>|Yes<sup>16</sup>|はい|はい|はい|はい|
+|送信メールのカスタムルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
+|Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|
+|Conditional mail routing|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
+|着信セーフリストへのパートナーの追加|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
+|ハイブリッド電子メールルーティング|はい|はい|Yes<sup>16</sup>|Yes<sup>16</sup>|はい|はい|はい|はい|
 |**[受信者](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|容量アラート|はい|はい|はい|はい|はい|はい|はい|はい|
+|容量のアラート|はい|はい|はい|はい|はい|はい|はい|はい|
 |クラッター機能|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |メール ヒント|はい|はい|はい|はい|はい|はい|はい|はい|
 |代理人アクセス|はい|はい|はい|はい|はい|はい|はい|<sup>24</sup>|
@@ -118,29 +118,29 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |オフライン アドレス帳|はい|はい|はい|はい|はい|はい|はい|はい|
 |アドレス帳ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
 |階層型アドレス帳|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|アドレス一覧とグローバル アドレス一覧|はい|はい|はい|はい|はい<sup>18</sup>|はい<sup>18</sup>|はい<sup>18</sup>|はい<sup>18</sup>|
+|アドレス一覧とグローバルアドレス一覧|はい|はい|はい|はい|はい<sup>18</sup>|はい<sup>18</sup>|はい<sup>18</sup>|はい<sup>18</sup>|
 |Office 365 グループ|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
 |配布グループ|はい|はい|はい|はい|はい|はい|はい|はい|
-|外部連絡先 (グローバル)|はい|はい|はい|はい|はい|はい|はい|はい|
+|外部連絡先 （グローバル）|はい|はい|はい|はい|はい|はい|はい|はい|
 |ユニバーサル連絡先カード|はい|はい|はい|はい|はい|はい|はい|はい|
-|連絡先とソーシャル ネットワークのリンク|はい|はい|はい|はい|はい|はい|はい|はい|
+|ソーシャルネットワークを使用した連絡先リンク|はい|はい|はい|はい|はい|はい|はい|はい|
 |リソース メールボックス|はい|はい|はい|はい|はい|はい|はい|はい|
 |会議室の管理|はい|はい|はい|はい|はい|はい|はい|はい|
 |不在時の返信|はい|はい|はい|はい|はい|はい|はい|はい|
 |予定表の共有|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[レポート機能とトラブルシューティング ツール](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[レポート機能とトラブルシューティングツール](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Microsoft 365 管理センターのレポート|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
-|Excel レポート作成ワークブック|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
-|Web サービス レポート|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
-|メッセージの追跡|いいえ|あり|はい|はい|はい|はい|はい|はい|
+|Excel レポート作成ブック|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
+|Web サービスレポート|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
+|Message trace|いいえ|あり|はい|はい|はい|はい|はい|はい|
 |監査レポート|はい|はい|はい|はい|はい|はい|はい|はい <sup>3</sup>|
 |ユニファイド メッセージングのレポート|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |**[共有とコラボレーション](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |フェデレーションの共有 (予定表の公開を含む)|はい|はい|はい|はい|はい|はい|はい|はい|
 |サイト メールボックス|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|
 |パブリック フォルダー|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|**[クライアントとモバイル デバイス](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-| Outlook for Windows <sup>21</sup>|はい|はい|はい|はい|はい|はい|はい| いいえ|
+|**[クライアントとモバイルデバイス](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Outlook for Windows <sup>21</sup>|はい|はい|はい|はい|はい|はい|はい| いいえ|
 |Outlook on the web<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |Outlook for Mac<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい| いいえ|
 |Outlook for iOS and Android<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -149,29 +149,29 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |POP と IMAP|はい|はい|はい|はい|はい|はい|はい|はい <sup>12</sup>|
 |SMTP|はい|はい|はい|はい|はい|はい|はい|はい|
 |EWS アプリケーションのサポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|**[ボイス メッセージ サービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[音声メッセージサービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |ボイスメール<sup>23</sup>|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |ボイスメールとサードパーティ<sup>製 FAX の</sup>統合|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |サードパーティボイスメールの相互運用性<sup>23</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|Skype for Business 統合|はい|はい|はい|はい|はい|はい|はい|はい|
+|Skype for Business の統合|はい|はい|はい|はい|はい|はい|はい|はい|
 |**[高可用性とビジネス継続性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|データ センターでのメールボックス レプリケーション|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
+|データセンターでのメールボックスレプリケーション|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
 |削除済みメールボックスの回復|はい|はい|はい|はい|はい|はい|はい|はい|
 |削除済みアイテムの回復|はい|はい|はい|はい|はい|はい|はい|はい|
 |単一アイテムの回復|はい|はい|はい|はい|はい|はい|はい|いいえ||
 |**[相互運用性、接続、および互換性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|OWA および Outlook のSkype for Business プレゼンス|はい|はい|はい|はい|はい|はい|はい|はい|
+|OWA および Outlook の Skype for Business のプレゼンス|はい|はい|はい|はい|はい|はい|はい|はい|
 |SharePoint の相互運用性|はい|はい|はい|はい|はい|はい|はい|はい|
-|EWS の接続サポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|EWS 接続のサポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |SMTP リレーのサポート|はい|はい|はい|はい|はい|はい|はい|はい|
 |**[Exchange Online のセットアップと管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Microsoft Office 365 ポータルへのアクセス|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 管理センターへのアクセス|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
 |Exchange 管理センターへのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
 |リモート Windows PowerShell へのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
-|モバイル デバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
-|使用状況レポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|モバイルデバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
+|利用状況レポート|はい|はい|はい|はい|はい|はい|はい|はい|
+|**サービスのカスタマイズ、アドイン、およびリソースの拡張**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Outlook アドインと Outlook MAPI|Yes (<sup>19</sup> )|はい|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|いいえ|
 
 <sup>1</sup>クラウドベースのアーカイブがある社内メールボックスユーザーごとに Exchange Online アーカイブサブスクリプションが必要です。 <br/>
@@ -214,7 +214,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |役割の割り当てポリシー|はい|はい|はい|はい|いいえ|
 |**[メッセージ ポリシーと準拠](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Exchange Online ベースのメールボックスのアーカイブ|はい|いいえ|あり|はい|いいえ|
-|オンプレミス メールボックスのクラウドベースのアーカイブ|はい <sup>5</sup>|はい <sup>5</sup>|いいえ|はい|いいえ|
+|社内メールボックスのクラウドベースのアーカイブ|はい <sup>5</sup>|はい <sup>5</sup>|いいえ|はい|いいえ|
 |Messaging Records Management(MRM) |はい|はい|はい|はい|はい|
 |手動のアイテム保持ポリシー、ラベル、タグ|いいえ|いいえ|あり|はい|はい|
 |保存中のデータの暗号化 (BitLocker)|Yes<sup>16</sup>|Yes<sup>16</sup>|はい|はい|はい|
@@ -227,21 +227,21 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |トランスポート ルール|はい <sup>1</sup>|はい <sup>1</sup>|はい <sup>1</sup>|はい <sup>1</sup>|はい <sup>1</sup>|
 |データ損失防止|はい<sup>10、14</sup>|はい<sup>10、14</sup>|いいえ|はい|いいえ|
 |ジャーナル|はい|はい|はい|はい|はい|
-|**[スパムおよびマルウェア対策](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**[スパム対策とマルウェア対策の保護](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |組み込みのスパム対策保護|はい <sup>2</sup>|はい <sup>2</sup>|はい|はい|はい|
-|スパム対策ポリシーのカスタマイズ|はい (PowerShell を使用する必要がある)|はい (PowerShell を使用する必要がある)|はい|はい|はい <sup>8</sup>|
+|Customize anti-spam policies|はい (PowerShell を使用する必要がある)|はい (PowerShell を使用する必要がある)|はい|はい|はい <sup>8</sup>|
 |組み込みのマルウェア対策保護|はい <sup>7</sup>|はい <sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|
-|マルウェア対策ポリシーのカスタマイズ|はい|はい|はい|はい|はい <sup>8</sup>|
+|Customize anti-malware policies|はい|はい|はい|はい|はい <sup>8</sup>|
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい <sup>8</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|あり|はい|はい|
 |**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
-|送信電子メールのカスタム ルーティング|はい|はい|はい|はい|はい|
-|信頼できるパートナーとのセキュリティで保護されたメッセージング|はい|はい|はい|はい|はい|
-|条件付きメール ルーティング|いいえ|いいえ|あり|はい|はい|
-|受信セーフ リストへのパートナーの追加|いいえ|いいえ|あり|はい|はい|
-|ハイブリッド電子メール ルーティング|はい|はい|はい|はい|はい|
+|送信メールのカスタムルーティング|はい|はい|はい|はい|はい|
+|Secure messaging with a trusted partner|はい|はい|はい|はい|はい|
+|Conditional mail routing|いいえ|いいえ|あり|はい|はい|
+|着信セーフリストへのパートナーの追加|いいえ|いいえ|あり|はい|はい|
+|ハイブリッド電子メールルーティング|はい|はい|はい|はい|はい|
 |**[受信者](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
-|容量アラート|はい|はい|はい|はい|はい|
+|容量のアラート|はい|はい|はい|はい|はい|
 |クラッター機能|いいえ|いいえ|あり|はい|はい|
 |メール ヒント|はい|はい|はい|はい|はい|
 |代理人アクセス|はい|はい|Yes\|(はい)|いいえ|
@@ -251,21 +251,21 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |オフライン アドレス帳|はい|はい|はい|はい|はい|
 |アドレス帳ポリシー|はい|はい|はい|はい|はい|
 |階層型アドレス帳|はい|はい|はい|はい|いいえ|
-|アドレス一覧とグローバル アドレス一覧|はい|はい|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|
-|Office 365 グループ|いいえ|いいえ|はい<sup>24</sup>|はい<sup>24</sup>|いいえ|
+|アドレス一覧とグローバルアドレス一覧|はい|はい|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|
+|Office 365 グループ|いいえ|いいえ|はい<sup>24</sup>|はい<sup>24</sup>|なし|
 |配布グループ|はい|はい|はい|はい|はい|
-|外部連絡先 (グローバル)|はい|はい|はい|はい|はい|
+|外部連絡先 （グローバル）|はい|はい|はい|はい|はい|
 |ユニバーサル連絡先カード|はい|はい|はい|はい|はい|
-|連絡先とソーシャル ネットワークのリンク|はい|はい|はい|はい|はい|
+|ソーシャルネットワークを使用した連絡先リンク|はい|はい|はい|はい|はい|
 |リソース メールボックス|はい|はい|はい|はい|はい|
 |会議室の管理|はい|はい|はい|はい|はい|
 |不在時の返信|はい|はい|はい|はい|はい|
 |予定表の共有|はい|はい|はい|はい|あり <sup>18</sup>|
-|**[レポート機能とトラブルシューティング ツール](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**[レポート機能とトラブルシューティングツール](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Microsoft 365 管理センターのレポート|いいえ|いいえ|あり|はい|はい|
-|Excel レポート作成ワークブック|いいえ|いいえ|あり|はい|はい|
-|Web サービス レポート|いいえ|いいえ|あり|はい|はい|
-|メッセージの追跡|いいえ|あり|はい|はい|あり <sup>8</sup>|
+|Excel レポート作成ブック|いいえ|いいえ|あり|はい|はい|
+|Web サービスレポート|いいえ|いいえ|あり|はい|はい|
+|Message trace|いいえ|あり|はい|はい|はい <sup>8</sup>|
 |監査レポート|はい|はい|はい|はい|はい <sup>8</sup>|
 |ユニファイド メッセージングのレポート|はい|はい|いいえ|はい|いいえ|
 |**[共有とコラボレーション](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
@@ -274,7 +274,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |パブリック フォルダー|はい|はい|はい|はい|いいえ|
 |**[クライアントとモバイル デバイス](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|はい|はい|はい|はい|いいえ|
-|Outlook Web App|はい|はい|はい|はい|はい|
+|Outlook on the web|はい|はい|はい|はい|はい|
 |Exchange ActiveSync|はい|はい|はい|はい|はい|
 |POP と IMAP|はい|はい|はい|はい|はい <sup>9</sup>|
 |SMTP|はい|はい|はい|はい|はい|
@@ -282,27 +282,27 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |Outlook for Mac|はい|はい|はい|はい|いいえ|
 |**[ボイス メッセージ サービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |ボイス メール|はい|はい|いいえ|はい|いいえ|
-|サードパーティ ボイス メールの相互運用性|はい|はい|はい|はい|はい|
-|Skype for Business 統合|はい|はい|はい|はい|はい|
+|サードパーティボイスメールの相互運用性|はい|はい|はい|はい|はい|
+|Skype for Business の統合|はい|はい|はい|はい|はい|
 |**[高可用性とビジネス継続性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |データ センターでのメールボックス レプリケーション|いいえ|いいえ|あり|はい|はい|
 |削除済みメールボックスの回復|はい|はい|はい|はい|はい|
 |削除済みアイテムの回復|はい|はい|はい|はい|はい|
 |単一アイテムの回復|はい|はい|はい|はい|いいえ|
 |**[相互運用性、接続、および互換性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
-|OWA および Outlook のSkype for Business プレゼンス|はい|はい|はい|はい|はい|
+|OWA および Outlook の Skype for Business のプレゼンス|はい|はい|はい|はい|はい|
 |SharePoint の相互運用性|はい|はい|はい|はい|はい|
-|EWS の接続サポート|はい|はい|はい|はい|はい|
+|EWS 接続のサポート|はい|はい|はい|はい|はい|
 |SMTP リレーのサポート|はい|はい|はい|はい|はい|
 |**[Exchange Online のセットアップと管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Microsoft Office 365 ポータルへのアクセス|いいえ|いいえ|あり|はい|はい|
 |Microsoft 365 管理センターへのアクセス|いいえ|いいえ|あり|はい|はい|
 |Exchange 管理センターへのアクセス|はい|はい|はい|はい|はい <sup>8</sup>|
 |リモート Windows PowerShell へのアクセス|はい|はい|はい|はい|はい|
-|モバイル デバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|
-|使用状況レポート|はい|はい|はい|はい|はい|
+|モバイルデバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|
+|利用状況レポート|はい|はい|はい|はい|はい|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
-|Outlook Web App の Web パーツ|はい|はい|はい|はい|はい|
+|Web 上の Outlook web パーツ|はい|はい|はい|はい|はい|
 |Outlook アドインと Outlook MAPI|はい|はい|はい (<sup>21</sup> )|はい (<sup>21</sup> )|いいえ|
 
 <sup>1</sup>トランスポートルールは柔軟な条件で構成されており、条件と例外、および条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 <br/>

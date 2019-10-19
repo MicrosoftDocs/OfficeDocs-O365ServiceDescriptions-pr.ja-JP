@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231395"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581470"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
-現在、Exchange Online Protection には次の制限があります。 これらの制限は、構成可能と指定されていない限り、構成できません。 
+現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。 
   
 > [!TIP]
 > Exchange Online の制限について詳しくは、「[Exchange Online の制限](../exchange-online-service-description/exchange-online-limits.md)」を参照してください。トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 

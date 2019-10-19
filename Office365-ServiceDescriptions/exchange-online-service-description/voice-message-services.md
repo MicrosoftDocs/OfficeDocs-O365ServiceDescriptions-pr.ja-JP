@@ -1,5 +1,5 @@
 ---
-title: ボイス メッセージ サービス
+title: 音声メッセージサービス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442562"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581433"
 ---
-# <a name="voice-message-services"></a>ボイス メッセージ サービス
+# <a name="voice-message-services"></a>音声メッセージサービス
 
 ## <a name="voice-mail"></a>ボイス メール
 
@@ -44,11 +44,11 @@ Exchange Online で使用可能な音声メッセージング サービス機能
     
 - メッセージ待機インジケーター (詳細については「[Exchange Online の MWI](https://go.microsoft.com/fwlink/p/?LinkId=271794)」を参照してください)。 
     
-- 通話応答ルール (詳細については、「[ボイス メール ユーザーの呼び出し転送を許可する](https://go.microsoft.com/fwlink/p/?LinkId=271795)」を参照してください)。 
+- 通話応答ルール (詳細については、「[ボイスメールユーザーが通話を転送できるように](https://go.microsoft.com/fwlink/p/?LinkId=271795)する」を参照してください)。
     
-- Exchange Online の保護されたボイス メール (詳細については、「[Exchange Online のボイス メールを保護する](https://go.microsoft.com/fwlink/p/?LinkId=271796)」を参照してください)。 
+- Exchange Online の保護されたボイスメール (詳細については、「 [Exchange online のボイスメールを保護](https://go.microsoft.com/fwlink/p/?LinkId=271796)する」を参照してください)。
     
-- ボイス メール プレビュー (サポートされる言語のリストについては、「[ユーザーがボイス メールのトランスクリプトを表示できるようにする](https://go.microsoft.com/fwlink/p/?LinkId=271797)」を参照してください)。 
+- ボイスメールプレビュー (サポートされている言語の一覧については、「[ユーザーがボイスメールのトランスクリプトを表示できる」を](https://go.microsoft.com/fwlink/p/?LinkId=271797)参照してください)。
     
 - 電子メール、ボイス メール、連絡先、個人用連絡先、および個人用連絡先グループへの音声アクセス
     
@@ -56,10 +56,16 @@ Exchange Online で使用可能な音声メッセージング サービス機能
     
 - 管理者は Exchange 管理センター (EAC) を使用して、音声メッセージング サービスの相互運用性を構成して管理できます。
     
-ボイス メール機能の詳細については、「[Exchange Online のボイス メール: ユニファイド メッセージング](https://go.microsoft.com/fwlink/p/?LinkId=271798)」を参照してください。
+ボイスメール機能の詳細については、「 [Exchange Online のボイスメール](https://go.microsoft.com/fwlink/p/?LinkId=271798)」を参照してください。
   
 > [!IMPORTANT]
-> 自動音声認識 (ASR) 機能は、音声コマンドを使用したメニュー ナビゲーションまたは Outlook Voice Access ユーザーや自動応答の発信者のディレクトリ検索では使用できません。 > カスタマーは、VoIP ゲートウェイと PBX、IP PBX、または Skype for Business Server 2015 を使用して、公衆交換電話網からのテレフォニー接続を用意する必要があります。 > カスタマーは、社内 SBC ハードウェア デバイスを用意し、オンライン ボイス メール サービスに接続するように SBC を構成する必要があります。これには、証明書とパブリックおよびプライベート IP インターフェイスを使用し、社内ファイアウォール経由による正しい TCP ポートを有効にすることによる、適切なレベルのセキュリティを構成することが含まれます。 > ホスト型ボイス メールは Exchange Online Plan 2 および Office 365 Enterprise E3 の加入者のみが使用できます。 
+> 自動音声認識 (ASR) 機能は、音声コマンドを使用したメニュー ナビゲーションまたは Outlook Voice Access ユーザーや自動応答の発信者のディレクトリ検索では使用できません。 
+>
+> お客様は、VoIP ゲートウェイと PBX、IP PBX、または Skype for Business Server 2015 を使用して、公衆交換電話網 (PSTN) からテレフォニー接続を提供する必要があります。 
+>
+> カスタマーは、社内 SBC ハードウェア デバイスを用意し、オンライン ボイス メール サービスに接続するように SBC を構成する必要があります。これには、証明書とパブリックおよびプライベート IP インターフェイスを使用し、社内ファイアウォール経由による正しい TCP ポートを有効にすることによる、適切なレベルのセキュリティを構成することが含まれます。 
+>
+> ホストボイスメールは、Exchange Online プラン2および Office 365 Enterprise E3 サブスクライバーに対してのみ使用できます。 
   
 ## <a name="third-party-voice-mail-interoperability"></a>サードパーティ ボイス メールの相互運用性
 
@@ -74,6 +80,6 @@ Exchange Online で使用可能な音声メッセージング サービス機能
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

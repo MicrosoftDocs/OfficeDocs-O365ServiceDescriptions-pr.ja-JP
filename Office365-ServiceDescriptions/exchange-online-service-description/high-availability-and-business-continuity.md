@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online は、組織の電子メールインフラストラクチャに対して広範な保存と回復のサポートを提供します。 これには、データ センターでのメールボックス レプリケーションと、削除済みメールボックスと削除済みアイテムを復元する機能が含まれます。
-ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776828"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581973"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性とビジネス継続性
 
@@ -35,9 +35,9 @@ Microsoft がデータを保護する方法の詳細については、「[Office
   
 ## <a name="deleted-item-recovery"></a>削除済みアイテムの回復
 
-Exchange Online では、削除済みアイテム フォルダーを含む電子メール フォルダーから削除したアイテムを回復できます。削除されたアイテムは、ユーザーの削除済みアイテム フォルダーに保持されます。削除済みアイテム フォルダー内のアイテムは、ユーザーが手動で削除するか、保持ポリシーによって自動的に削除されるまで、フォルダーに保持されたままになります。管理者は、EAC またはリモート Windows PowerShell を使用して、保持ポリシーをカスタマイズできます。
+Exchange Online では、ユーザーは削除済みアイテムフォルダーを含むすべての電子メールフォルダーから削除されたアイテムを復元できます。 削除されたアイテムは、ユーザーの削除済みアイテム フォルダーに保持されます。 削除済みアイテム フォルダー内のアイテムは、ユーザーが手動で削除するか、保持ポリシーによって自動的に削除されるまで、フォルダーに保持されたままになります。 管理者は、EAC またはリモート Windows PowerShell を使用して、保持ポリシーをカスタマイズできます。
   
-削除済みアイテム フォルダーからアイテムが削除された後、さらに 14 日間は回復可能なアイテム フォルダーに保持され、その後に完全に削除されますが、管理者がリモート Windows PowerShell を使用してこの期間を延長した場合は、最大で 30 日間保持できます。ユーザーはこの期間中に、Outlook Web App または Outlook の削除済みアイテムの復元機能を使用してアイテムを復元できます。詳細については、「[Exchange Online メールボックスの完全に削除したアイテムの保持期間を変更する](https://go.microsoft.com/fwlink/p/?LinkId=286940)」を参照してください。
+削除済みアイテム フォルダーからアイテムが削除された後、さらに 14 日間は回復可能なアイテム フォルダーに保持され、その後に完全に削除されますが、管理者がリモート Windows PowerShell を使用してこの期間を延長した場合は、最大で 30 日間保持できます。 ユーザーは、web 上または Outlook 上の Outlook の削除済みアイテムの回復機能を使用して、この期間にアイテムを復元できます。 詳細については、「[Exchange Online メールボックスの完全に削除したアイテムの保持期間を変更する](https://go.microsoft.com/fwlink/p/?LinkId=286940)」を参照してください。
   
 ユーザーが手動で回復可能なアイテム フォルダーからアイテムを削除した場合、管理者は同じ期間内であれば単一アイテムの回復機能とリモート Windows PowerShell を使用してアイテムを復元できます。既定では、メールボックスの作成時に単一アイテムの回復機能は有効になっています。詳細については、「[メールボックスの単一アイテムの回復を有効または無効にする](https://go.microsoft.com/fwlink/p/?LinkID=286941)」を参照してください。
   
@@ -45,6 +45,5 @@ Exchange Online では、削除済みアイテム フォルダーを含む電子
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
-

@@ -16,21 +16,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131261"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582063"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
 Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 サービス ファミリーおよびプラン
-<a name="bkmk_O365Service_Families_and_Plans"> </a>
 
-次の表に、Office 365 で使用できるさまざまなサービス ファミリーおよびプランを示します。機能および価格情報について概要を確認する場合、またはオンライン担当者とチャットする場合は、各プランの列に示されたリンクをクリックしてください。
+次の表に、Office 365 で使用できるさまざまなサービス ファミリーおよびプランを示します。 機能と価格情報の概要、またはオンラインの代表者とチャットするには、[プラン] 列のいずれかのリンクを選択します。
   
 |**Office 365 サービス ファミリー**|**プラン**|
 |:-----|:-----|
@@ -108,7 +107,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 ## <a name="standalone-services"></a>スタンドアロン サービス
 <a name="bkmk_standaloneservices"> </a>
 
-次のオンライン サービスはスタンドアロン プランとして専用に使用できます。また、まだ含まれていないビジネス サービスとエンタープライズ サービスのファミリ プランに追加することもできます。価格情報について確認する場合、またはオンライン担当者とチャットする場合は、次の表に示された任意のプランをクリックしてください。
+次のオンライン サービスはスタンドアロン プランとして専用に使用できます。 また、まだ含まれていないビジネス サービスとエンタープライズ サービスのファミリ プランに追加することもできます。 価格情報の場合、またはオンラインの担当者とチャットする場合は、次の表に示すいずれかのプランを選択します。
   
 |**サービス**|**プラン**|
 |:-----|:-----|
@@ -128,4 +127,4 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 ## <a name="feature-availability"></a>機能の可用性
 <a name="bkmk_standaloneservices"> </a>
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)」を参照してください。
+さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。

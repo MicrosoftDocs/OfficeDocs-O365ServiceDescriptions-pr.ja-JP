@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: リリース直後またはリリース予定の Office 365 機能については、「Microsoft 365 ロードマップ」を参照してください。
-ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777498"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581353"
 ---
 # <a name="service-updates"></a>サービス更新
 
@@ -35,7 +35,7 @@ ms.locfileid: "35777498"
   
 ## <a name="update-notifications"></a>更新の通知
 
-Office 365 では、通常どおりサービスを機能させ続けるために管理者のアクションが必要となる変更が生じた場合、事前にお客様に通知するよう努めています。更新で管理者のアクションが必要となる場合、特に記載されていない限り、Microsoft では [Message Center](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx) を介して少なくとも 30 日前に通知します。 
+Office 365 では、通常どおりサービスを機能させ続けるために管理者のアクションが必要となる変更が生じた場合、事前にお客様に通知するよう努めています。更新で管理者のアクションが必要となる場合、特に記載されていない限り、Microsoft では [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) を介して少なくとも 30 日前に通知します。 
   
 多くの場合、Office 365 サービスの更新は、バグの修正、パフォーマンスの向上、およびセキュリティの更新になり、お客様のためにアクションを実行する必要はありません。 新機能と強化された機能については、「 [Microsoft 365 for business のロードマップ](http://roadmap.office.com/)」を参照してください。
   
@@ -43,6 +43,6 @@ Office 365 は「[マイクロソフト サポート ライフサイクル](http
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)」を参照してください。
+さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   
 

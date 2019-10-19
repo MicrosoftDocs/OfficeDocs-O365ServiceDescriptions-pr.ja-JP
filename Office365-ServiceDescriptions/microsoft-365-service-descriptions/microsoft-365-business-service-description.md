@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 . このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「Office 365 のサービスの説明」を参照してください。
-ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05e2da6ede768120c0cde61eb28ca1deb7c2cbf5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442552"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582043"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -77,7 +77,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
    
 ||||
 |:-----|:-----|:-----|
-|[メッセージ ポリシーと準拠](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[メッセージポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Exchange Online ベースのメールボックスのアーカイブ  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |
 |メッセージング レコード管理 (MRM) 保持タグとアイテム保持ポリシー  <br/> |はい  <br/> |はい  <br/> |
 |保存中のデータの暗号化 (BitLocker)  <br/> |はい  <br/> |はい  <br/> |
@@ -97,7 +97,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
 |セキュリティ スコア<sup>14</sup> <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[準拠[ServiceDesc]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[コンプライアンス](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |
@@ -117,7 +117,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**ID およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Id およびアクセス管理機能** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure 多要素認証 (MFA)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |管理単位  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Discovery  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -138,7 +138,7 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |Intune モバイルアプリケーション管理 (MAM) (Office アプリおよび LOB アプリ)<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Windows update management、Defender、ファイアウォールポリシー<sup>15</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |データ保護 - 選択的ワイプ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ポリシーを対象としたセキュリティ グループ (SG)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|ポリシーを対象としたセキュリティグループ (SG)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |登録済みの Windows 10 デバイスで Office アプリをインストールする  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Windows Defender の構成  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |デバイスプロファイルおよびセキュリティ構成の展開<sup>15</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -149,11 +149,11 @@ Office 365 プランで利用できる機能を確認するには、「[Office 3
 |:-----|:-----|
 |**Windows 10 管理機能** - Microsoft 365 Business によりデバイスの管理が容易になります。Microsoft 365 Business テナントを設定するときには、アプリ保護、およびデバイス構成の設定を選択します。これらの設定は、Azure Active Directory に参加するときにデバイスに自動的に適用されるポリシーを決定します。Windows 10 Pro 管理機能は次のとおりです。  <br/>|**Microsoft 365 Business** <br/> |
 |Windows AutoPilot による簡略化された展開  <br/> |はい  <br/> |
-|サブスクリプション ライセンス認証  <br/> |はい  <br/> |
-|アイドル状態のデバイス画面に対する組織の制御  <br/> |はい  <br/> |
-|Microsoft Store からのアプリへのユーザー アクセスに対する組織の制御  <br/> |はい  <br/> |
-|Cortana へのユーザー アクセスに対する組織の制御  <br/> |はい  <br/> |
-|Windows のヒントと Microsoft の広告に対する組織の制御  <br/> |はい  <br/> |
+|サブスクリプションのアクティブ化  <br/> |はい  <br/> |
+|アイドル時のデバイス画面の組織的な制御  <br/> |はい  <br/> |
+|Microsoft Store からのアプリへのユーザーアクセスの組織的な制御  <br/> |はい  <br/> |
+|Cortana へのユーザーアクセスの組織的な制御  <br/> |はい  <br/> |
+|Microsoft による Windows のヒントと広告の組織的な制御  <br/> |はい  <br/> |
 |Windows 10 デバイスを自動的に最新の状態に保つ  <br/> |はい  <br/> |
 |**Windows 10 のセキュリティ機能** <br/> |**Microsoft 365 Business** <br/> |
 |Windows Defender ウイルス対策を使用して、PC をウイルスやその他の脅威から保護する  <br/> |はい  <br/> |

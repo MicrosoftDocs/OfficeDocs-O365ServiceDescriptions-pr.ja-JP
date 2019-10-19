@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online のアーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、microsoft を展開している組織のための Microsoft Office 365 クラウドベースのエンタープライズクラスのアーカイブソリューションです。Exchange Server 2010 (SP2 以降)。または、特定の Exchange Online または Office 365 プランにサブスクライブします。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672581"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581863"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
@@ -79,17 +79,17 @@ Exchange Online Archiving サービスにアクセスするユーザーは、Exc
 ||||
 |:-----|:-----|:-----|
 |**機能** <br/> |**Exchange Online Archiving for Exchange Server<sup>1</sup>**          <br/> |**Exchange Online Archiving for Exchange Online<sup>2</sup>** <br/> |
-|**[Exchange Online Archiving のアーカイブ機能](archive-features.md)** <br/> |||
+|**[Exchange Online アーカイブのアーカイブ機能](archive-features.md)** <br/> |||
 |アーカイブ メールボックス  <br/> |はい  <br/> |はい  <br/> |
 |アーカイブポリシーを使用したメッセージの移動  <br/> |はい  <br/> |はい  <br/> |
 |アーカイブへのデータのインポート  <br/> |はい  <br/> |はい  <br/> |
 |削除済みアイテムの回復  <br/> |はい  <br/> |はい  <br/> |
 |削除済みメールボックスの回復  <br/> |はい  <br/> |はい  <br/> |
 |メールボックスのバックアップ  <br/> |はい  <br/> |はい  <br/> |
-|**[Exchange Online Archiving のクライアント機能](client-features.md)** <br/> |||
+|**[Exchange Online アーカイブのクライアント機能](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|Outlook Web App  <br/> |はい  <br/> |はい  <br/> |
-|**[Exchange Online Archiving のコンプライアンス機能とセキュリティ機能](compliance-and-security-features.md)** <br/> |||
+|Outlook on the web  <br/> |はい  <br/> |はい  <br/> |
+|**[Exchange Online アーカイブのコンプライアンス機能とセキュリティ機能](compliance-and-security-features.md)** <br/> |||
 |アイテム保持ポリシー  <br/> |はい  <br/> |はい  <br/> |
 |インプレース保持と訴訟ホールド<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |
 |インプレース電子情報開示 (eDiscovery)  <br/> |はい  <br/> |はい  <br/> |

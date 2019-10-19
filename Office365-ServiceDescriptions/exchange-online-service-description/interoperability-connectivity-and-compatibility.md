@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776798"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581833"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>相互運用性、接続、および互換性
 
@@ -28,7 +28,7 @@ ms.locfileid: "35776798"
   
 内部設置型の Lync Server 2010 と Lync Server 2013 は、次の 2 つの方法でも Exchange Online と相互運用できます。
   
-- Outlook Web App での IM とプレゼンスの相互運用性
+- Outlook on the web での IM とプレゼンスの相互運用性
     
 - ボイス メールの相互運用性
     
@@ -50,7 +50,7 @@ Exchange Online は、外部のアプリケーションおよびデバイスと�
     
 ### <a name="exchange-web-services"></a>Exchange Web サービス
 
-Exchange Web Service (EWS) は、Exchange Server および Exchange Online 用に推奨される開発 API です。管理者は EWS または EWS マネージ API を使用して、社内、Azure、またはその他のホステッド サービスで実行されているアプリケーションから Exchange Online によって格納されたデータにアクセスできます。EWS によって、管理者は、メールボックスのコンテンツのクエリ、カレンダー イベントの登録、タスクの作成、電子メール メッセージの内容に基づく特定のアクションのトリガーなど特化したアクションを実行できます。Exchange Online では、顧客アカウントにアプリケーションのアクセス許可を付与することで EWS 機能を有効にできます。これらのアクセス許可によって、顧客のアプリケーションは、アプリケーション メールボックスにアクセスし、コンテンツを追加できます。Exchange の偽装は、アプリケーションのアクセス許可を付与するために使用する方法の 1 つです。Exchange Web Service と Exchange Online を併用する方法の詳細については、Exchange Online デベロッパー センターの技術情報を参照してください。
+Exchange Web Service (EWS) は、Exchange Server および Exchange Online 用に推奨される開発 API です。 管理者は EWS または EWS マネージ API を使用して、社内、Azure、またはその他のホステッド サービスで実行されているアプリケーションから Exchange Online によって格納されたデータにアクセスできます。 EWS を使用すると、管理者は、メールボックスのコンテンツのクエリ、予定表イベントの投稿、タスクの作成、または電子メールメッセージの内容に基づいて特定のアクションを開始するなど、特別な操作を実行できます。 Exchange Online では、顧客アカウントにアプリケーションのアクセス許可を付与することで EWS 機能を有効にできます。 これらのアクセス許可によって、顧客のアプリケーションは、アプリケーション メールボックスにアクセスし、コンテンツを追加できます。 Exchange の偽装は、アプリケーションのアクセス許可を付与するために使用する方法の 1 つです。 Exchange Web Service と Exchange Online を併用する方法の詳細については、Exchange Online デベロッパー センターの技術情報を参照してください。
   
 ### <a name="smtp-relay"></a>SMTP リレー
 
@@ -58,6 +58,6 @@ Exchange Online は、ファックス ゲートウェイ、ネットワーク �
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

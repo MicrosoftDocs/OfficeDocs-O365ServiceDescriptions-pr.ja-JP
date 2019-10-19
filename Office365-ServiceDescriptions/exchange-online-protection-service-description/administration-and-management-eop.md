@@ -1,5 +1,5 @@
 ---
-title: 管理 [EOP]
+title: 管理と管理 [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: このセクションでは、Microsoft Exchange Online Protection (EOP) 管理者が使用できる管理インターフェイスについて説明します。
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442482"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581469"
 ---
-# <a name="administration-and-managementeop"></a>管理 [EOP]
+# <a name="administration-and-managementeop"></a>管理と管理 [EOP]
 
 このセクションでは、Microsoft Exchange Online Protection (EOP) 管理者が使用できる管理インターフェイスについて説明します。
   
@@ -39,5 +39,5 @@ Exchange 管理センター (EAC) は、簡単に使用できる単一の統合�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
   

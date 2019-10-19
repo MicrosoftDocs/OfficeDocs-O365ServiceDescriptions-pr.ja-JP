@@ -1,5 +1,5 @@
 ---
-title: メール フロー [EOP]
+title: メールフロー [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、そのニーズを満たすことができ、クラウドでウィルス対策とスパム対策のメール処理を行えます。 詳細について、および EOP を購入するには、Exchange Online Protection にアクセスしてください。
-ms.openlocfilehash: 5a581c8004bcdc001160a2499cd623c6eee772f2
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+description: Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。
+ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442732"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581853"
 ---
-# <a name="mail-floweop"></a>メール フロー [EOP]
+# <a name="mail-floweop"></a>メールフロー [EOP]
 
-Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、そのニーズを満たすことができ、クラウドでウィルス対策とスパム対策のメール処理を行えます。 詳細について、および EOP を購入するには、[Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection) にアクセスしてください。
+Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。 詳細について、および EOP を購入するには、[Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) にアクセスしてください。
   
-ドメイン管理や、ディレクトリ ベースのエッジ ブロック (DBEB) に関する詳細情報は、「[受信者、ドメイン、および会社の管理](recipient-domain-and-company-management.md)」を参照してください。EOP のすべての機能についての詳細は、「[Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+ドメイン管理またはディレクトリベースのエッジブロック (DBEB) に関する情報をお探しですか? 「[受信者、ドメイン、および会社の管理](recipient-domain-and-company-management.md)」を参照してください。 すべての EOP 機能の詳細については、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Office 365 とご使用の電子メール サーバー間で電子メールをルーティングする
 
@@ -53,4 +53,4 @@ EOP のお客様は、Office 365 コネクタを使用して、信頼できる�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。

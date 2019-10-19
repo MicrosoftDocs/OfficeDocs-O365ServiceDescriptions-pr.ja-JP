@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: 746b58eda83545b97e00b77ba67c6e9794420018
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 706ff7bb1f5f3d7b3ae1ba761bcdadc237051e3d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777348"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582103"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透過性
 
@@ -38,7 +38,7 @@ Office 365 ProPlus を含む他の Microsoft サービスのセキュリティ�
 
 Microsoft が Office 365 サービスを安全かつ確実に提供する方法については、「[セキュリティ](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)」をご覧ください。
   
-## <a name="transparency"></a>透明度
+## <a name="transparency"></a>Transparency
 
 Office 365 のお客様は、データの格納場所、Microsoft 内でデータにアクセスできる担当者、Microsoft 内でのデータの扱いについて知ることができます。詳細については、「[透過性](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)」をご覧ください。
   
@@ -46,7 +46,7 @@ Office 365 のお客様は、データの格納場所、Microsoft 内でデー�
 
 電子情報開示 (eDiscovery) とは、訴訟で証拠として使用できる電子的情報を特定および提供するプロセスです。Office 365 の詳細な電子情報開示は、Office 365 の既存の電子情報開示機能のセットに基づいており、構造化されていない大規模なデータセットを分析したり、訴訟に関連したデータの量を軽減したりすることができます。Office 365 コンプライアンス センターの検索機能を使用して、組織内のすべてのコンテンツ ソースの初回検索を実行し、特定の訴訟に関連する可能性のあるデータを識別および収集できます。次に、高度な電子情報開示のテキスト分析機能、マシン学習機能、関連/予測コーディング機能を適用することによって、そのデータを分析できます。詳細については、「[Office 365 の高度な電子情報開示](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)」をご覧ください。
   
-## <a name="customer-lockbox"></a>カスタマー ロックボックス
+## <a name="customer-lockbox"></a>顧客ロックボックス
 
 Office 365 管理者はカスタマー ロックボックスを使用して、Microsoft のサポート エンジニアがヘルプ セッション中にデータにアクセスする方法を制御することができます。問題をトラブルシューティングして解決するために、エンジニアがデータへのアクセスを要求した場合、カスタマー ロックボックスを使用してアクセス権の要求を承認または拒否することができます。承認すると、エンジニアはデータにアクセスできるようになります。各要求には有効期限があり、問題が解決されると、要求は閉じられ、アクセスは取り消されます。
   
@@ -54,10 +54,9 @@ Office 365 管理者はカスタマー ロックボックスを使用して、Mi
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
-Office 365 Advanced Threat Protection を使用すると、マルウェアやウイルスから組織を保護することができます。 ATP には、[安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[フィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)、および[スプーフィングインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)機能が含まれます。 安全なリンクは、メッセージ内の悪意のあるハイパーリンクからユーザーを事前に保護して、リンクがクリックされるたびに保護を提供します。 安全な添付ファイルは、不明なマルウェアやウイルスから保護され、既知のウイルスまたはマルウェアの署名を持たないすべてのメッセージと添付ファイルを、ATP が悪意のある目的を検出できる特別な環境にルーティングします。 ATP の詳細については、「 [Office 365 Advanced Threat Protection サービスの説明](../office-365-advanced-threat-protection-service-description.md)」を参照してください。
+Office 365 Advanced Threat Protection を使用すると、マルウェアやウイルスから組織を保護することができます。 ATP には、[安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[フィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)、および[スプーフィングインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)機能が含まれます。 安全なリンクは、メッセージ内の悪意のあるハイパーリンクからユーザーを事前に保護し、リンクが選択されるたびに保護を提供します。 安全な添付ファイルは、不明なマルウェアやウイルスから保護され、既知のウイルスまたはマルウェアの署名を持たないすべてのメッセージと添付ファイルを、ATP が悪意のある目的を検出できる特別な環境にルーティングします。 ATP の詳細については、「 [Office 365 Advanced Threat Protection サービスの説明](../office-365-advanced-threat-protection-service-description.md)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)」を参照してください。
+さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   
-

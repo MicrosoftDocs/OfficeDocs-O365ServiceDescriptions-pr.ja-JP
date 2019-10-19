@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 US Government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998509"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595285"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -37,23 +37,24 @@ Web 用の exchange Online、SharePoint Online、Exchange Online アーカイブ
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 US Government Community の厳選されたスタッフ
 
-Office 365 のスタッフには、Office 365 US Government Community でホストされているお客様のコンテンツへの永続的なアクセス権がありません。お客様のコンテンツへのアクセス権を付与する一時的なアクセス許可の昇格を要求するすべてのスタッフは、まず次の身元調査に合格する必要があります。 
+Office 365 のスタッフには、Office 365 US Government Community でホストされているお客様のコンテンツへの永続的なアクセス権がありません。 顧客コンテンツへのアクセスを許可する一時的なアクセス許可昇格を要求するスタッフは、まず、次のバックグラウンドチェックに合格している必要があります。 
   
 |||
 |:-----|:-----|
-|**Microsoft の人事審査とバックグラウンドチェック**<sup>1</sup> <br/> |**説明** <br/> |
-|アメリカ国籍  <br/> |アメリカ国籍の確認  <br/> |
-|職歴チェック  <br/> |過去 7 年間の職歴の確認  <br/> |
-|学歴の確認  <br/> |最終学歴の検証  <br/> |
+|**Microsoft の人事審査と背景のチェック** <sup>1</sup> <br/> |**説明** <br/> |
+|米国市民権  <br/> |アメリカ国籍の確認  <br/> |
+|雇用履歴チェック  <br/> |過去 7 年間の職歴の確認  <br/> |
+|教育機関の確認  <br/> |最終学歴の検証  <br/> |
 |社会保障番号 (SSN) の検索  <br/> |提供された SSN が有効であるかどうかの確認  <br/> |
-|犯罪歴のチェック  <br/> |州、郡、地域レベル、さらに連邦レベルにおける、過去 7 年間の重犯罪および軽犯罪の記録のチェック  <br/> |
+|犯罪履歴チェック  <br/> |州、郡、地域レベル、さらに連邦レベルにおける、過去 7 年間の重犯罪および軽犯罪の記録のチェック  <br/> |
 |米国財務省外国資産管理局 (OFAC) のリスト  <br/> |米国人が貿易や金融取引の相手とすることを禁じられているグループが記載された財務省のリストの照合  <br/> |
 |米国産業安全保障局 (BIS) のリスト  <br/> |輸出活動が禁じられた個人または事業体が記載された米国商務省のリストの照合  <br/> |
 |国防貿易管理局 (DDTC) の禁止対象者リスト  <br/> |軍需産業に関連する輸出活動が禁じられた個人または事業体が記載された米国国務省のリストの照合  <br/> |
 |指紋チェック  <br/> |FBI データベースに照らして行う指紋の身元調査  <br/> |
-|CJIS の背景調査  <br/> |州の判断による、連邦および州の犯罪履歴の確認。Microsoft CJIS IA プログラムにサインアップしている各州内の、州の CSA が指定した機関が行う。  <br/> |
+|CJIS の背景審査  <br/> |州の判断による、連邦および州の犯罪履歴の確認。Microsoft CJIS IA プログラムにサインアップしている各州内の、州の CSA が指定した機関が行う。  <br/> |
 
-<sup>1</sup> OFFICE 365 US Government Community CLOUD (GCC) でホストされている顧客コンテンツへの一時的または継続的なアクセス権を持つ人員にのみ適用されます。  
+<sup>1</sup>は、OFFICE 365 US Government Community CLOUD (GCC) でホストされている顧客コンテンツへの一時的なアクセス権または永続的なアクセス権を持つ人員にのみ適用されます。
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government Community および Yammer
 
 Yammer Enterprise は Office 365 US Government のコンポーネントではありませんが、Office 365 US Government プラン E1 と E3 のライセンスを受けた各ユーザー向けに、スタンドアロン プランとして無料で取得できます。現在、このプランは、Enterprise Agreement および Enterprise Subscription Agreement に基づいて Office 365 US Government を購入するユーザーに限定されています。 

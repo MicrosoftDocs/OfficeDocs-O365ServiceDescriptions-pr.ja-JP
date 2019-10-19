@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442602"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581453"
 ---
 # <a name="mail-flow"></a>メール フロー
 
@@ -27,7 +27,7 @@ Office 365 を使用しているほとんどの組織では、メールボック
   
 ## <a name="custom-routing-of-outbound-email"></a>送信電子メールのカスタム ルーティング
 
-Microsoft Exchange Online は、社内サーバーまたはホステッド サービス (「スマート ホスティング」と呼ぶ) を通じて、組織からのメール フローをルーティングできます。この機能により組織は、データ損失防止 (DLP) アプライアンスを使用したり、送信電子メールのカスタムの事後処理を実行したり、プライベート ネットワーク経由でビジネス パートナーに電子メールを送信できます。Exchange Online はアドレス書き換えもサポートします。アドレス書き換え機能により、送信電子メールはアドレスを変更するオンプレミス ゲートウェイを通るようにルーティングされます。この機能により組織は、サブドメインを非公開にしたり、マルチドメイン組織からの電子メールを単一ドメインのように見せかけたり、パートナーからの中継電子メールを組織内部から送信されたように見せかけられます。管理者は、Exchange 管理センター (EAC) でカスタム電子メール ルーティングを構成します。
+Microsoft Exchange Online は、オンプレミスのサーバーまたはホストされたサービス ("スマートホスト" とも呼ばれる) を介して組織からのメールフローをルーティングできます。 これにより、組織はデータ損失防止 (DLP) アプライアンスを使用して、送信電子メールのカスタム事後処理を実行し、プライベートネットワークを介してビジネスパートナーに電子メールを配信することができます。 Exchange Online は、アドレス書き換えもサポートしています。これは、アドレスを変更するオンプレミスのゲートウェイを経由して送信電子メールをルーティングします。 この機能を使用すると、サブドメインを非表示にしたり、マルチドメイン組織からの電子メールを1つのドメインとして表示したり、パートナー中継された電子メールを組織内部から送信したように表示したりすることができます。 管理者は、Exchange 管理センター (EAC) 内でカスタムの電子メールルーティングを構成します。
   
 詳細については、「[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)」を参照してください。
   
@@ -96,5 +96,5 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   

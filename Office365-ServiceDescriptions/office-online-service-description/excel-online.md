@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442752"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595305"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -96,6 +96,10 @@ Excel のグラフとテーブルを使えば、データの書式設定と情�
 ## <a name="comment-creation"></a>Comment creation
 
 Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
+
+## <a name="convert-a-table-to-a-range"></a>テーブルを範囲に変換する
+
+Excel のテーブルを作成した後は、テーブルの機能を使用せずに表のスタイルのみが必要になることがあります。 適用したテーブルスタイルの書式設定を失わずに、テーブル内のデータの処理を中止するには、ワークシート内の通常のデータ範囲にテーブルを変換します。 [Excel テーブルをデータ範囲に変換](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web)する方法について説明します。
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ GoTo 機能を使用して、スプレッドシート全体をすばやく移動
  
 ## <a name="group-data"></a>グループデータ
 
-Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)参照してください。
+Excel では、web スプレッドシートの行と列をグループ化またはアウトライン表示することができます。 キーボードショートカットを使用すると、作成したグループを簡単に展開または折りたたむことができます。 [Excel でのデータのグループ化の詳細については、「web」を](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)参照してください。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 Excel で web 用のブックの行、列、およびシートを表示または非表示にすることができます。
+
+## <a name="ideas"></a>アイデア
+
+Excel のアイデアは、高度な視覚的な概要、傾向、パターンによってデータを理解するのに便利です。 データ範囲のセルを選択し、[**ホーム**] タブの [**アイデア**] ボタンを選択するだけです。 Excel でのアイデアは、データを分析し、それに関する興味深い視覚効果を作業ウィンドウに表示します。 詳細について[は、「Excel のアイデア」を](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)参照してください。
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -287,7 +295,7 @@ Excel ファイルを他のユーザーと共有する場合、ワークシー�
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理、およびピボットテーブルの詳細の表示を行うことができます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)の詳細について説明します。
+Web 用の Excel では、すべてのワークシートの表示と並べ替え、データの並べ替えとフィルター処理 (上から下へ、または左から右)、ピボットテーブルの詳細の表示を行うことができます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)の詳細について説明します。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>スプレッドシートの監査とコンプライアンス
 

@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334127"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581873"
 ---
-# <a name="messaging-policy-and-compliance"></a>メッセージングのポリシーと準拠
+# <a name="messaging-policy-and-compliance"></a>メッセージング ポリシーとコンプライアンス
 
 Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
 
@@ -35,7 +35,7 @@ Microsoft Exchange Online Protection (EOP) は、電子メールデータの管�
 
 ## <a name="data-loss-prevention-dlp"></a>データ損失防止 (DLP)
 
-EOP スタンドアロンのお客様は利用できません。データ損失防止 (DLP) では、詳細なコンテンツ分析によって、組織内の機密情報を特定、監視、保護できます。ビジネスクリティカルな電子メールには保護が必要な機密データが含まれているため、企業のメッセージ システムでの DLP の重要性がますます高まっています。DLP 機能を使用すると、業務の生産性に影響を及ぼすことなく機密データを保護することができます。
+EOP スタンドアロンのお客様は利用できません。 データ損失防止 (DLP) では、詳細なコンテンツ分析によって、組織内の機密情報を特定、監視、保護できます。 ビジネスクリティカルな電子メールには保護が必要な機密データが含まれているため、企業のメッセージ システムでの DLP の重要性がますます高まっています。 DLP 機能を使用すると、ワーカーの生産性に影響を与えることなく機密データを保護できます。
 
 EAC で DLP ポリシーを構成することにより、次のことが可能になります。
 
@@ -51,7 +51,7 @@ EAC で DLP ポリシーを構成することにより、次のことが可能�
 
 - ドキュメントのフィンガープリント機能を使って機密性の高いフォーム データを検出できます。 ドキュメントフィンガープリンティングを使用すると、メールフロールールと DLP ポリシーを定義するために使用できるテキストベースのフォームに基づいて、カスタムの機密情報の種類を簡単に作成できます。
 
-- ポリシー ヒントを追加して、Outlook 2013、Outlook Web App、およびデバイス用 OWA の各ユーザーに通知メッセージを表示し、データの損失を削減できます。また、誤検知の報告を許可することによりポリシーの有効性を改善することもできます。
+- ポリシーヒントを追加します。これにより、Outlook 2013、Outlook on the web、およびデバイス用 OWA のユーザーに通知が表示されるので、データの損失を減らすことができます。また、誤報告を許可することで、ポリシーの有効性を向上させることもできます。
 
 - インシデント レポートの生成アクションを使用して、DLP レポートでのインシデント データの確認や独自のレポートの追加を行うことができます。
 
