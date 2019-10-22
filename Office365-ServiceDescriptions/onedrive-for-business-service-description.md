@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
-ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
-ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
+ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36407721"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582203"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
@@ -27,7 +27,7 @@ OneDrive は、組織内のライセンスを取得した各ユーザーに提�
   
 OneDrive は Microsoft 365 および Office 365 プラン、SharePoint Online プランに含まれています。スタンドアロン プランとしてもご購入いただけます。 
     
-プランを比較するには、「[一般法人向け Office 365 のプランを比較する](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。 
+プランを比較するには、「[一般法人向け Office 365 のプランを比較する](https://go.microsoft.com/fwlink/?linkid=799177)」および「[OneDrive for Business プランを比較する](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)」をご覧ください。 
   
 > [!NOTE]
 > OneDrive for Business スタンドアロン プランには Web 用 Office が含まれます。 
@@ -38,11 +38,11 @@ OneDrive 同期クライアントとモバイル アプリの要件について�
   
 ## <a name="about-sync"></a>同期について
 
-計画に OneDrive が含まれる場合は、IT 部門が明示的に無効にしない限り、OneDrive 同期クライアントを使用できます。 最新の同期クライアントをインストールするには、「[OneDrive ダウンロード ページ](https://onedrive.live.com/about/download/)」を参照してください。 同期クライアントの詳細については、「[Windows の OneDrive 同期クライアントを使用してファイルを同期する](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)」を参照してください。
+計画に OneDrive が含まれる場合は、IT 部門が明示的に無効にしない限り、OneDrive 同期クライアントを使用できます。 最新の同期クライアントをインストールするには、「[OneDrive ダウンロード ページ](https://onedrive.live.com/about/download/)」を参照してください。 同期クライアントの詳細については、「[Windows の OneDrive 同期クライアントを使用してファイルを同期する](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49)」を参照してください。
   
 ## <a name="storage-space-per-user"></a>ユーザー 1 人あたりのストレージ スペース
 
-**2 GB**
+**5 GB**
 
 - Office 365 Enterprise F1
 
