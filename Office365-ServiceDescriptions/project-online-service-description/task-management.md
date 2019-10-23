@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online では、次のタスク管理機能が利用可能です。
-ms.openlocfilehash: e2aab9c7b0c84f2f544dcff18ee54faae33fc32b
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: c457dbbc77afa6539b01fb457ed42d554c575533
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776978"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633566"
 ---
 # <a name="task-management"></a>タスク管理
 
@@ -26,58 +26,46 @@ Project Online では、次のタスク管理機能が利用可能です。
 すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
-<a name="bkmk_ActiveInactiveTasks"> </a>
 
 タスクを非アクティブ化すると、プロジェクト プラン内に保持されていても、リソースの可用性、プロジェクト スケジュール、その他のタスクのスケジュール方法には影響しません。[タスクの非アクティブ化](https://go.microsoft.com/fwlink/p/?LinkId=271335)について詳細情報を参照してください。
   
 ## <a name="auto-complete"></a>オートコンプリート
-<a name="bkmk_AutoComplete"> </a>
 
 入力に応じてタスクまたはリソース名の候補を表示します。 
   
 ## <a name="automatic-scheduling"></a>自動スケジュール
-<a name="bkmk_AutomaticScheduling"> </a>
 
-自動スケジュール モードを使用して、タスクを自動的にスケジュールに設定します。[プロジェクトでタスクをスケジュールに設定する方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)について詳細情報を参照してください。 
+自動スケジュール モードを使用して、タスクを自動的にスケジュールに設定します。 [Project がタスクをスケジュールする方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)について説明します。 
   
-## <a name="calendar-date-extended-to-2149"></a>Calendar date extended to 2149
-<a name="bkmk_Calendardatextended"> </a>
+## <a name="calendar-date-extended-to-2149"></a>2149 年まで延長されたカレンダー
 
 プロジェクトのタスクは、2149 年までのカレンダーを使用できるようになりました。 
   
 ## <a name="cross-project-critical-path"></a>プロジェクト間のクリティカル パス
-<a name="bkmk_Cross_projectcriticalpath"> </a>
 
 クリティカル パスとは、プロジェクトがスケジュールどおりに終了するためには、スケジュールに従って完了させる必要がある一連のタスクのことです。別のプロジェクト内のタスクとの依存関係を作成、編集、削除できます。 
   
 ## <a name="task-inspector"></a>タスクの詳細情報
-<a name="bkmk_Taskinspector"> </a>
 
 変更された開始日やエラー メッセージなどのタスクのスケジューリングに影響する要因を表示します。
   
-## <a name="task-path-analysis"></a>タスク パス解析
-<a name="bkmk_TaskPath"> </a>
+## <a name="task-path-analysis"></a>タスクパス分析
 
 タスクと他のタスクとの関係を確認するため、プロジェクト全体のタスクのタスク パスを強調表示します。[タスク間のリンクを強調表示する方法](https://go.microsoft.com/fwlink/p/?LinkId=271345)について詳細情報を参照してください。
   
-## <a name="top-down-summary-tasks"></a>Top-down summary tasks
-<a name="bkmk_Topdownsummarytasks"> </a>
+## <a name="top-down-summary-tasks"></a>トップダウン サマリー タスク
 
-サマリー タスクへのリソース割り当てを作成します。[トップダウンの計画](https://go.microsoft.com/fwlink/p/?LinkId=271333)について詳細情報を参照してください。
+サマリー タスクへのリソース割り当てを作成します。 [トップダウンプランニング](https://go.microsoft.com/fwlink/p/?LinkId=271333)の詳細について説明します。
   
-## <a name="update-progress"></a>Update progress
-<a name="bkmk_Updateprogress"> </a>
+## <a name="update-progress"></a>進行状況の更新
 
 タスクの進行状況を更新し、完了の割合を表示します。
   
 ## <a name="user-controlled-and-manual-scheduling"></a>ユーザーが制御する手動スケジュール
-<a name="bkmk_User_controlledManualscheduling"> </a>
 
-手動スケジュール モードを使用して、タスクを手動でスケジュールに設定します。[プロジェクトでタスクをスケジュールに設定する方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)について詳細情報を参照してください。
+手動スケジュール モードを使用して、タスクを手動でスケジュールに設定します。 「 [Project がタスクをスケジュールする方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_User_controlledManualscheduling"> </a>
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
-

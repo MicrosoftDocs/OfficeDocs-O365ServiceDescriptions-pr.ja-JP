@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595305"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631636"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -79,10 +79,9 @@ Excel を使用して、さまざまな自動、手動、反復計算を実行�
 
 ## <a name="cell-references-in-formulas"></a>数式内のセル参照
 
-数式ではセル参照を使用できます。 数式でセルまたは範囲を参照すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)」を参照してください。
+数式ではセル参照を使用できます。 [数式でセルまたは範囲を参照](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)」を参照してください。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>新しいデータに合わせたグラフ アニメーション
-
 高度なグラフ機能は、Microsoft Excel デスクトップ アプリのみでサポートされます。 [SmartArt グラフィックをアニメーション化する方法の](https://go.microsoft.com/fwlink/p/?LinkId=271668)詳細については、「」を参照してください。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル
@@ -95,7 +94,7 @@ Excel のグラフとテーブルを使えば、データの書式設定と情�
 
 ## <a name="comment-creation"></a>Comment creation
 
-Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
+Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 コメントで @mentions を使用して、伝えた人物に電子メールを送信します。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
 
 ## <a name="convert-a-table-to-a-range"></a>テーブルを範囲に変換する
 
@@ -103,7 +102,7 @@ Excel のテーブルを作成した後は、テーブルの機能を使用せ�
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-最良の結果を得るには、web 用 Excel の右クリックメニューまたはクリップボードコマンドではなく、キーボードショートカットを使用して、アイテムを別のワークシートの場所にコピーします。 詳細について[は、「Excel でコピーと貼り付けを使用する」](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816)を参照してください。
+テキスト、数値、数式、図形、グラフ、および画像の切り取り、コピー、貼り付けを行うことができます。 行に配置するために回転する必要があるデータが列にある場合は、[**貼り付け**] メニューの [**置換**] 機能を使用します。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Power Pivot や Power View などの高度な分析機能は、Excel デスク�
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 Excel では、1つの場所から別の場所にセルをドラッグアンドドロップすることによって、Excel でセルの値を移動することができます。
+
+## <a name="draw-cell-borders"></a>セルの罫線を描画する
+
+ワークシートのセルを囲む罫線を描画して、データを視覚的に整理することができます。 [Excel のセルの罫線の](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web)詳細については、こちらを参照してください。
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ OneDrive.com に Excel ブックを保存すると、ブログや Web サイト�
   
 ## <a name="formula-bar"></a>Formula bar
 
-数式バーでは、セルの表示結果の元になる数式を確認します。Excel デスクトップ アプリと同じように、ブラウザーで数式の追加、変更、および削除を行うことができます。
+数式バーでは、セルの表示結果の元になる数式を確認します。 Excel デスクトップ アプリと同じように、ブラウザーで数式の追加、変更、および削除を行うことができます。 Excel の場合、数式の引数は、数式とワークシート上のデータの間に視覚的なマッピングを提供する色で強調表示されます。
   
-## <a name="formula-tools--advanced"></a>高度な数式ツール
+## <a name="formula-tools-advanced"></a>数式ツール、詳細
 
 Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式などの高度な数式ツールをサポートします。 Excel for the web では、最も基本的な Excel 数式のみがサポートされています。 [数式](https://go.microsoft.com/fwlink/p/?LinkId=271665)の詳細については、こちらを参照してください。
   
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>名前付き範囲
 
-Excel では、web 用の excel で名前付き範囲を作成することはできませんが、excel の excel のスプレッドシートで、Excel デスクトップで作成した名前付き範囲を使用できます。
+Excel では、web 用の excel で名前付き範囲を作成することはできませんが、excel の excel のスプレッドシートで、Excel デスクトップで作成した名前付き範囲を使用できます。 名前付き範囲を選択すると、その名前が数式バーの直前に表示されます。
 
 ## <a name="number-formatting"></a>数値の書式
 
@@ -295,7 +298,7 @@ Excel ファイルを他のユーザーと共有する場合、ワークシー�
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Web 用の Excel では、すべてのワークシートの表示と並べ替え、データの並べ替えとフィルター処理 (上から下へ、または左から右)、ピボットテーブルの詳細の表示を行うことができます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)の詳細について説明します。
+Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理 (上から下へ、または左から右へ)、およびピボットテーブルの詳細へのドリルを行うことができます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)の詳細について説明します。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>スプレッドシートの監査とコンプライアンス
 

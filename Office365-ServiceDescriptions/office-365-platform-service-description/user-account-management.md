@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582173"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631656"
 ---
 # <a name="user-account-management"></a>ユーザー アカウント管理
 
@@ -104,7 +104,7 @@ Office 365 サービスの適切な検出と認証を確認するため、管理
 |Windows Vista で Outlook 2010 または Office Outlook 2007 を使用  <br/> |セッションごとにサインイン <sup>1</sup> <br/> |セッションごとにサインイン <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |セッションごとにサインイン <sup>1</sup> <br/> |セッションごとにサインイン <sup>2</sup> <br/> |
 |POP、IMAP、Outlook for Mac  <br/> |セッションごとにサインイン <sup>1</sup> <br/> |セッションごとにサインイン <sup>2</sup> <br/> |
-|Web エクスペリエンス: Office 365 portal/Outlook Web App/SharePoint Online/Office for web  <br/> |ブラウザー セッションごとにサインイン <sup>4</sup> <br/> |セッションごとにサインイン <sup>3</sup> <br/> |
+|Web エクスペリエンス: Office 365 portal/Outlook on the web/SharePoint Online/Office for web  <br/> |ブラウザー セッションごとにサインイン <sup>4</sup> <br/> |セッションごとにサインイン <sup>3</sup> <br/> |
 |SharePoint Online で Office 2010 または Office 2007 を使用  <br/> |SharePoint Online セッションごとにサインイン <sup>4</sup> <br/> |SharePoint Online セッションごとにサインイン <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |セッションごとにサインイン <sup>1</sup> <br/> |プロンプトなし  <br/> |
 |Outlook for Mac  <br/> |セッションごとにサインイン <sup>1</sup> <br/> |セッションごとにサインイン <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Office 365 にユーザーを追加する方法は複数あります。 詳細�
     
     エンタープライズプランでは、管理者がパスワードを紛失または忘れた場合、グローバル管理者の役割を持つ別の管理者が、Microsoft 365 管理センターまたは Windows PowerShell を使用して、管理者のパスワードを再設定することができます。 詳細については、「[Office 365 の管理者パスワードを再設定する](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)」を参照してください。 中国で 21Vianet が運用している Office 365 で作業している場合は、「[21Vianet が運用している Office 365 でパスワードを変更または再設定する](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)」を参照してください。
     
-- **Outlook Web App を使用したユーザーによるパスワード変更** Outlook Web App オプション ページには、ユーザーを **[パスワードの変更]** ページにリダイレクトする、パスワード変更のハイパーリンクが含まれています。ユーザーは、以前のパスワードを知っている必要があります。詳細については、「 [Outlook Web アプリでパスワードを変更する](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)」を参照してください。中国で 21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でパスワードを変更または再設定する](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)」を参照してください。
+- **ユーザーが Outlook on the web を使用してパスワードを変更する**Outlook on the web オプションページには、[パスワードの変更] ハイパーリンクが含まれています。これにより、ユーザーは [**パスワードの変更**] ページにリダイレクトされます。 ユーザーは、以前のパスワードを知っている必要があります。 詳細については、「 [Outlook Web アプリでパスワードを変更する](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)」を参照してください。 中国で 21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でパスワードを変更または再設定する](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)」を参照してください。
     
 - **パスワードを再設定する役割ベースの権限** Enterprise プランでは、ヘルプデスクのスタッフなどの承認されたユーザーには、 **[パスワードの再設定]** を実行するユーザー権限や、Office 365 の定義済みの役割やカスタムの役割を使用して、全サービスの管理者にすることなく、パスワードを変更する権限を割り当てることができます。既定では、Enterprise プランの場合、全体管理者、パスワード管理者、またはユーザー管理の管理者の役割が割り当てられた管理者がパスワードを変更できます。詳細については、「 [一般法人向け Office 365 で管理者ロールを割り当てる](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)」を参照してください。
     
@@ -157,11 +157,11 @@ Office 365 にユーザーを追加する方法は複数あります。 詳細�
     
  **フェデレーション ID パスワードの管理:**
   
-フェデレーション ID を使用する場合、パスワードは Active Directory で管理されます。 社内セキュリティトークンサービスは、ユーザーのローカル Active Directory パスワードをインターネット経由で Office 365 に渡しずに、Office 365 フェデレーションゲートウェイとの認証をネゴシエートします。 ローカル パスワード ポリシーを使用するか、Web クライアントの場合には 2 要素認証を使用します。 Outlook Web App には、パスワード変更のハイパーリンクは含まれていません。 ユーザーは、標準の社内ツールを使用して、またはデスクトップ PC のログオン オプションでパスワードを変更します。
+フェデレーション ID を使用する場合、パスワードは Active Directory で管理されます。 社内セキュリティトークンサービスは、ユーザーのローカル Active Directory パスワードをインターネット経由で Office 365 に渡しずに、Office 365 フェデレーションゲートウェイとの認証をネゴシエートします。 ローカル パスワード ポリシーを使用するか、Web クライアントの場合には 2 要素認証を使用します。 Outlook on the web には、パスワードの変更ハイパーリンクは含まれていません。 ユーザーは、標準の社内ツールを使用して、またはデスクトップ PC のログオン オプションでパスワードを変更します。
   
 [ディレクトリ同期とシングル サインオン](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100))が Office 365 環境で有効で、フェデレーション ID プロバイダーに影響する停止が生じた場合、フェデレーション サインインのパスワード同期バックアップにより、ドメインを手動でパスワード同期に切り替えることができます。パスワード同期を使用すると、ユーザーは停止の修復作業中でも Office 365 にアクセスできます。[シングル サインオンからパスワード同期に切り替える方法](https://go.microsoft.com/fwlink/p/?LinkId=509832)をご確認ください。
   
-## <a name="license-management"></a>ライセンスの管理
+## <a name="license-management"></a>ライセンス管理
 
 Office 365 ライセンスは、Office 365 サービスのセットへのアクセスをユーザーに提供します。管理者は、必要なサービスにアクセスするためのライセンスを各ユーザーに割り当てます。たとえば、Skype for Business Online へのアクセス権は割り当て、SharePoint Online へのアクセス権は割り当てないということができます。
   

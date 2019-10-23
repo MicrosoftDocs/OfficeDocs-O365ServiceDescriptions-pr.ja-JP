@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450281"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633438"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -79,11 +79,11 @@ Office 365 テナント管理者向けの管理アプリには、外出先で組
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 用 Office 365 管理パック
 
-Microsoft System Center は、データ センター、クライアント デバイス、ハイブリッド クラウド IT 環境の管理に役立つ統合された管理プラットフォームです。System Center を使用する Office 365 管理者は、Office 365 管理パックをインポートできるようになりました。それにより、System Center で Operations Manager 内のすべてのサービス通信を表示することが可能になります。このツールを使用すると、サブスクライブ済みサービス、アクティブおよび解決済みサービス インシデント、およびメッセージ センターとの通信の状態にアクセスできます。詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+Microsoft System Center は、データセンター、クライアントデバイス、ハイブリッドクラウド IT 環境の管理に役立つ統合された管理プラットフォームです。 Office 365 System Center を使用している管理者は、Office 365 管理パックをインポートすることができます。これにより、System Center の Operations Manager 内のすべてのサービス通信が表示されます。 このツールを使用すると、加入しているサービス、アクティブおよび解決済みのサービスインシデント、およびメッセージセンター通信の状態にアクセスできます。 詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 サービス通信 API
 
-Office 365 サービス通信 API を使用すると、思いどおりに Office 365 サービス通信にアクセスできます。この新しい管理ツールを使用すると、Office 365 サービス通信を作成し、ツールを接続できるようになります。これにより、環境の監視を簡略化する可能性が高まります。サービス通信 API を使用すると、環境内で以下を監視できるようになります。
+Office 365 サービス通信 API を使用すると、必要な方法で Office 365 サービス通信にアクセスできます。 この新しい管理ツールを使用すると、Office 365 サービス通信に対してツールを作成または接続できるようになり、環境の監視が容易になる可能性があります。 サービス通信 API を使用すると、環境内の次のものを監視できます。
   
 - リアルタイムのサービスの正常性
     

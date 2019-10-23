@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582063"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633502"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -33,10 +33,10 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
   
 |**Office 365 サービス ファミリー**|**プラン**|
 |:-----|:-----|
-|**ビジネス (ユーザー数は 300 以下)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (最大300ユーザー)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**エンタープライズ (無制限の数のユーザー)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F1](https://products.office.com/business/office-365-f1) <br/> |
-|**教育機関向け (無制限の数のユーザー)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**行政機関向け (無制限の数のユーザー)** <br/> |[利用可能なすべてのビジネス プランを参照します](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**教育機関 (無制限の数のユーザー)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**Government (無制限の数のユーザー)** <br/> |[利用可能なすべてのビジネス プランを参照します](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**21Vianet が中国で運用している Office 365** <br/> |[利用可能なすべてのビジネス プランを参照できます](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[利用可能なすべてのビジネス プランを参照します](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
    
@@ -54,13 +54,13 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |
-|Skype for Business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
+|Skype for Business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |なし  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
 |Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
 |Project Online  <br/> |なし<sup></sup> <br/> |いいえ  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
-|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
 |Yammer エンタープライズ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |いいえ  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
+|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |なし  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |はい <br/> |いいえ  <br/> |あり <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |
    
 <sup>1</sup> Project Online は含まれていませんが、個別のアドオンサービスとして購入するか、Office 365 エデュケーションプランに無料で追加することができます。<br/>
@@ -84,6 +84,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 #### <a name="basic-client-limitations"></a>Basic クライアント制限
 
 次の機能は、フル クライアントは使用可能ですが、Basic クライアントは利用できません。
+
 - チーム呼び出し設定の管理
 - 代理人の管理    
 - 別の連絡先の代理としての発信 (マネージャー/代理人シナリオ)    
@@ -97,7 +98,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 
 組織のニーズの変化に合わせて、Office 365 プランを変更しなければならない場合があります。次のように、現在の Office 365 サブスクリプションを別の Office 365 サブスクリプション切り替えることができます。 
   
-- **同じサービス ファミリ内の切り替え:** たとえば、Office 365 Business Essentials から Office 365 Business Premium、または Office 365 Enterprise E1 から Office 365 Enterprise E3 に移行できます。     
+- **同じサービス ファミリ内の切り替え:** たとえば、Office 365 Business Essentials から Office 365 Business Premium、または Office 365 Enterprise E1 から Office 365 Enterprise E3 に移行できます。
 - **スタンドアロン プランからの切り替え:** たとえば、Exchange Online プラン 1 から Office 365 Enterprise E1 に移行できます。     
 - **別のサービス ファミリへの切り替え:** たとえば、Office 365 Business Essentials から Office 365 Enterprise E3 に移行できます。     
 試用版のサブスクリプションから有料版のサブスクリプションへの移行方法を含む、サブスクリプションの変更方法については、「[別の一般法人向け Office 365 プランに切り替える](https://support.office.com/article/HA104031833)」を参照してください。
@@ -105,7 +106,6 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 1 つのアカウント内でエンタープライズ、ビジネス、スタンドアロンのプランを組み合わせることができます (例: Exchange Online プラン 1)。 しかし、プランごとのシート数に関する既存の制限は変更されません。たとえば、Office 365 Business Essentials と Office 365 Business Premium ではプランごとに 300 シートまで使用できますが、Exchange Online プラン 1 ではユーザー数に制限はありません。
   
 ## <a name="standalone-services"></a>スタンドアロン サービス
-<a name="bkmk_standaloneservices"> </a>
 
 次のオンライン サービスはスタンドアロン プランとして専用に使用できます。 また、まだ含まれていないビジネス サービスとエンタープライズ サービスのファミリ プランに追加することもできます。 価格情報の場合、またはオンラインの担当者とチャットする場合は、次の表に示すいずれかのプランを選択します。
   
@@ -125,6 +125,5 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_standaloneservices"> </a>
 
 さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。

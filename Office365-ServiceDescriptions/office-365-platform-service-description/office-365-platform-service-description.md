@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Exchange Online のプランを含む Office 365 プラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 936c610438ddb7589352380d6adc33e1fbe4aef1
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582143"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633464"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 プラットフォーム サービスの説明
 
@@ -92,25 +92,25 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Office 365 の管理機能](https://docs.microsoft.com/office/admins-itprofessionals)** <br/> ||||||||
+|**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |<sup>20</sup>なし  <br/> |<sup>20</sup>なし  <br/> |いいえ  <br/> |
+|Microsoft の予約  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |<sup>20</sup>なし  <br/> |<sup>20</sup>なし  <br/> |いいえ  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft MyAnalytics<sup>22</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Microsoft Planner  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft MyAnalytics<sup>22</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |
+|Microsoft Planner  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |
 |Microsoft PowerApps  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>13</sup> ) <br/> |
-|Microsoft StaffHub  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft StaffHub  <br/> |いいえ  <br/> |なし  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Stream  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>18</sup> <br/> |
 |Microsoft Sway  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |
-|Office Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Office Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |なし  <br/> |
 |Office 365 グループ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |
-|OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>15</sup> ) <br/> |いいえ  <br/> |
+|Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |
+|OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい (<sup>15</sup> ) <br/> |いいえ  <br/> |
 |Microsoft Kaizala<sup>19</sup> <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
 |**[ユーザー アカウント管理](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |クラウド ID、フェデレーション ID、多要素認証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -133,7 +133,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |DNS ホスティング プロバイダーで管理される DNS レコード (部分的な再委託)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.com**ドメインまたはカスタム ドメイン名を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイト用に **name.sharepoint.com** を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チーム サイトのカスタム ドメイン名の使用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|チーム サイトのカスタム ドメイン名の使用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |
 |別のプロバイダーを使用してパブリック Web サイトをホストする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |電子メールと IM に異なるプロバイダーを使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |カスタム ドメインに必要なドメイン所有権の検証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -155,10 +155,10 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |メールの上位マルウェア  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メールのルール一致  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メールの上位ルール一致  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|メールの上位 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|メールの重大度別 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|メールの DLP ポリシーの一致、上書き、および誤検知の数  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|メールの上位 DLP ルール一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|メールの上位 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
+|メールの重大度別 DLP ポリシー一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
+|メールの DLP ポリシーの一致、上書き、および誤検知の数  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
+|メールの上位 DLP ルール一致  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
 |IM とオーディオ セッション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アプリケーション共有、Web、およびダイヤルイン会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ビデオ、アプリケーション共有、およびファイル転送セッション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -181,13 +181,13 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |IPv4 および IPv6 プロトコル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**信頼** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[プライバシー、セキュリティ、および透過性](privacy-security-and-transparency.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 Cloud App Security  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Office 365 の顧客キー<sup>16</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|Office 365 Cloud App Security  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
+|Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
+|顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
+|Office 365 の顧客キー<sup>16</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
+|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
 |セキュリティ スコア<sup>7</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
 |**[コンプライアンス](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -196,7 +196,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |HIPAA ビジネス アソシエイト契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |FISMA 運用認可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft データ処理契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |
 |**[サービス継続性](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |BlackBerry Internet Service (BIS) の使用  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

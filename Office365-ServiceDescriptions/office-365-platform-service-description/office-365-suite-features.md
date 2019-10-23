@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 801079a5a6b26872acb34ad2b21aad4aff875430
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582123"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633426"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 
@@ -67,11 +67,11 @@ Microsoft Sway は、対話型の Web ベースのキャンバスを使用して
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams は、チーム メンバーが協力してもっと成果をあげるのに役立つ、Office 365 のチャット中心のワークスペースです。Microsoft Teams はチームワークのハブとしての役割を担い、Office 365 全体にわたるチャット会話、コンテンツ、ツールに対する即時アクセスを単一ワークスペースで提供します。SharePoint と OneNote が組み込まれており、チーム メンバーは、アプリ内の Office ドキュメント上ですぐに作業できます。Microsoft Teams は、チャットの他にも、ビデオ通話、会議をサポートし、チームは必要時でも、またあらかじめ計画されている場合であってもライブ会議を開くことができます。チーム メンバーは簡単に複数のチームと共同作業し、連絡先、チャット、ファイル間における検索をいつでも実行できます。Microsoft Teams は、Windows、Mac、Web、Android、iOS の各プラットフォーム間で動作します。詳細は、「[Microsoft Teams のヘルプ](https://go.microsoft.com/fwlink/?linkid=834413)」を参照してください。現時点で、Teams は [Office 365 Germany](office-365-germany.md) では利用可能ではありません。
+Microsoft Teams は、チーム メンバーが協力してもっと成果をあげるのに役立つ、Office 365 のチャット中心のワークスペースです。 Microsoft Teams はチームワークのハブとしての役割を担い、Office 365 全体にわたるチャット会話、コンテンツ、ツールに対する即時アクセスを単一ワークスペースで提供します。 SharePoint と OneNote が組み込まれており、チーム メンバーは、アプリ内の Office ドキュメント上ですぐに作業できます。 チャットとは別に、Microsoft Teams もビデオ通話と会議をサポートしているため、必要に応じて、またはスケジュールされたときに Teams が live をミーティングできるようになります。 チーム メンバーは簡単に複数のチームと共同作業し、連絡先、チャット、ファイル間における検索をいつでも実行できます。 Microsoft Teams は、Windows、Mac、web、Android、iOS の各プラットフォームで動作します。 詳細は、「[Microsoft Teams のヘルプ](https://go.microsoft.com/fwlink/?linkid=834413)」を参照してください。 現時点で、Teams は [Office 365 Germany](office-365-germany.md) では利用可能ではありません。
   
 ## <a name="office-delve"></a>Office Delve
 
-Office Delve によってユーザーは、パーソナライズされた洞察に基づいて、Office 365 全体のコンテンツを検索および検出できます。Delve は、Office Graph を利用する最初のエクスペリエンスとなります。Office Delve の詳細については、「[Office Delve とは](https://go.microsoft.com/fwlink/?LinkId=511463)」を参照してください。 
+Office Delve を使用すると、ユーザーは、パーソナライズされた洞察に基づいて Office 365 全体のコンテンツを検索して検出することができます。 Delve は、Office Graph を利用する最初のエクスペリエンスとなります。 Office Delve の詳細については、「[Office Delve とは](https://go.microsoft.com/fwlink/?LinkId=511463)」を参照してください。 
   
 ## <a name="office-365-groups"></a>Office 365 グループ
 
@@ -87,7 +87,7 @@ Class Notebook は OneNote の一部となっていて、Office 365 Education �
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリであり、Microsoft 365 に固有の機能を提供し、契約社員、ベンダーなど、組織のディレクトリの内部と外部の両方のユーザーに接続して参加することができます。パートナー、納入業者、顧客、および市民: 大規模で[柔軟なグループの種類](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)を使用します。 Kaizala のオープンディレクトリモデルを使用すると、簡単にオンボードするための電話番号ベースの id と、メッセージングおよび作業管理のための簡単なユーザー操作を行うことができます。 Kaizala モバイルアプリを使用すると、ユーザーは、インスタントメッセージと添付ファイル (画像、ドキュメント、ビデオ、audios など) を送信したり、アンケート、投票、ジョブ割り当て、アナウンス、トレーニングなどのアクションカードを使用したりすることができます。 [Kaizala は Office 365 で利用でき](https://products.office.com/en/business/microsoft-kaizala)、IPhone と Android でも動作します。 詳細については、 [Kaizala web サイト](https://products.office.com/en/business/microsoft-kaizala)を参照してください。 
+Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリであり、Microsoft 365 に固有の機能を提供し、契約社員、ベンダーなど、組織のディレクトリの内部と外部の両方のユーザーに接続して参加することができます。パートナー、納入業者、顧客、および市民: 大規模で[柔軟なグループの種類](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)を使用します。 Kaizala のオープンディレクトリモデルを使用すると、簡単にオンボードするための電話番号ベースの id と、メッセージングおよび作業管理のための簡単なユーザー操作を行うことができます。 Kaizala モバイルアプリを使用すると、ユーザーはインスタントメッセージと添付ファイル (画像、ドキュメント、ビデオ、audios など) を送信したり、アンケート、投票、ジョブ割り当て、アナウンス、トレーニングなどのアクションカードを使用したりすることができます。 [Kaizala は Office 365 で利用でき](https://products.office.com/en/business/microsoft-kaizala)、IPhone と Android でも動作します。 詳細については、 [Kaizala web サイト](https://products.office.com/en/business/microsoft-kaizala)を参照してください。 
   
 ## <a name="feature-availability"></a>機能の可用性
 
