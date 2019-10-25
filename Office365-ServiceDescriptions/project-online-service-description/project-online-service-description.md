@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523261"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700249"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -50,7 +50,18 @@ Project Online は、プロジェクトポートフォリオ管理 (PPM) およ�
 
 Project Online は SharePoint プラットフォーム上に構築され、SharePoint データストアにデータを格納します。
 
-Project Online は、Project Online Professional と Project Online Premium という2つのサブスクリプションで利用できます。 Project Online のチームメンバー機能は、 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)サブスクリプションを通じて利用できます。 [Project online](#project-online-features)の [機能] セクションにリストされている機能は、Project online SharePoint データストア内のデータとのみやり取りを行います。
+Project Online は、Project Online Professional と Project Online Premium という2つのサブスクリプションで利用できます。 [Project online](#project-online-features)の [機能] セクションにリストされている機能は、Project online SharePoint データストア内のデータとのみやり取りを行います。
+
+Project Online のチームメンバー機能は、 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)サブスクリプションを通じて利用できます。 Project online Essentials は、Project Online Professional または Project Online Premium サブスクリプションをご利用のお客様向けのチームメンバー*アドオン*サブスクリプションです。 これにより、チームメンバーは、Project Online で管理されているプロジェクトに対してタスクと時間の更新を実行する web インターフェイスを提供します。 
+
+Project Online Essentials を使用したチームメンバーは、次の Project Online 機能を実行できます。
+
+- Web ベースのインターフェイスを使用する
+- タスク、懸案事項、およびリスクの更新
+- タイムシートの送信
+- Microsoft Teams または Skype for Business ユーザーとドキュメントを共有し、共同作業を行う
+
+Project Online Essentials には、web のプロジェクトは含まれていません。
 
 ### <a name="project-online-desktop-client"></a>Project Online デスクトップクライアント
 
@@ -231,7 +242,7 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 |並べ替えとグループ化 | ユーザー設定の並べ替えとグループ化を使用して、プロジェクト、タスク、およびリソースの焦点を絞ったビューを取得します。|
 |**カスタマイズと統合**||
 |カスタム フィールド | プロジェクト、タスク、およびリソースレベルでユーザー設定フィールドを追加して、組織やプロジェクトにとって重要なデータを追跡します。 |
-|Forms | ユーザー設定フォームを作成および展開して、重要なプロジェクトデータをキャプチャします。 |
+|フォーム | ユーザー設定フォームを作成および展開して、重要なプロジェクトデータをキャプチャします。 |
 |式 | タスクやプロジェクト間で数式を使用して、重要なデータを計算して取得します。 |
 |テンプレート | プロジェクト計画、チーム、割り当てなどの一般的なプロジェクトのテンプレートを作成します。 |
 |.mpp のインポート/エクスポート | 既存の .mpp ファイルから新しいプロジェクトを作成するか、既存のプロジェクトの .mpp ファイルを作成します。 |
@@ -249,6 +260,14 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 
 Project Online では、Project Online の一部として準備されている SharePoint Online を使用する必要があります。 Project Online Professional または Premium で提供される SharePoint Online の機能に対する権限は、Project Online をサポートするためのデータの格納とアクセスに制限されます。
 
+### <a name="project-roadmap-and-microsoft-flow"></a>プロジェクトロードマップと Microsoft Flow
+
+プロジェクトのロードマップでは、Project サブスクリプションの一部として準備される Microsoft Flow を使用する必要があります。 Microsoft Flow 機能に対する権限は、プロジェクトのロードマップに必要な Microsoft フロー機能に制限されます。 プロジェクトのロードマップに必要な microsoft Flow の機能は、Microsoft 365 管理センターの [**アプリ**] セクションにある [**プロジェクトのフロー** ] サービスプランのデータ統合として表示されます。
+
+### <a name="project-for-the-web-and-common-data-service"></a>Web および Common Data Service のプロジェクト
+
+Web の Project では、データを保存するために Common Data Service (CD) を使用する必要があります。 CD は、Project サブスクリプションの一部として準備されます。 CD へのアクセスの機能は、web のプロジェクトをサポートするためのデータの格納とアクセスに制限されます。 Project で必要な CD 機能は、Microsoft 365 管理センターの [**アプリ**] セクションで、project service プラン**の共通データサービス**として表示されます。
+
 ### <a name="data-backup-and-retention"></a>データのバックアップと保持
 
 Web および Project Online の project は、両方とも Office 365 と同じデータバックアップとアイテム保持ポリシーを備えています。 詳細については、「 [Office 365 でのデータの保存、削除、および破棄](https://docs.microsoft.com/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)」を参照してください。
@@ -257,7 +276,7 @@ Web および Project Online の project は、両方とも Office 365 と同じ
 
 Web 用のプロジェクトにはいくつかの制限があります。次の表で説明します。
 
-|Entity/field | 制限 |
+|Entity/field | 極限 |
 |-------------|-------|
 |**タスク** ||
 |上限. タスクの階層レベル | 10レベル |
@@ -266,7 +285,7 @@ Web 用のプロジェクトにはいくつかの制限があります。次の�
 |上限. サマリータスクの期間 | 3650日 (10 年) |
 |上限. タスクに割り当てることができるリソース | 20リソース |
 |タスクのサポートされている日付範囲 | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**プロジェクト** ||
 |上限. プロジェクトのタスクの合計 | 500 |
 |上限. プロジェクトの合計時間 | 3650日 (10 年) |
 |上限. プロジェクトの総リソース | 150 |

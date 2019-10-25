@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含む Office 365 サブスクリプションの機能の比較をお探しですか。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581943"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701365"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -88,7 +88,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |Office 365 Message Encryption|はい (<sup>13</sup> )|はい (<sup>13</sup> )|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|はい|はい|<sup>2</sup>なし|
 |Office 365 の顧客キー<sup>22</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ||
 |S/MIME|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい|はい|はい|はい|はい|はい||
-|インプレース保持と訴訟ホールド|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
+|インプレース保持と訴訟ホールド|はい|はい|不要|いいえ|いいえ|あり|はい|いいえ|
 |インプレース電子情報開示 (eDiscovery)|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|はい (<sup>20</sup> )|あり|
 |Transport rules|はい <sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|
 |データ損失防止|はい<sup>5、14</sup>|はい<sup>5、14</sup>|いいえ|いいえ|いいえ|あり|はい|いいえ|
@@ -100,7 +100,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |Customize anti-malware policies|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
-|Advanced Threat Protection|いいえ|はい|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|Advanced Threat Protection|いいえ|はい|不要|いいえ|いいえ|いいえ|はい|いいえ|
 |**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |送信メールのカスタムルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -134,7 +134,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |Web サービスレポート|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
 |Message trace|いいえ|あり|はい|はい|はい|はい|はい|はい|
 |監査レポート|はい|はい|はい|はい|はい|はい|はい|はい <sup>3</sup>|
-|ユニファイド メッセージングのレポート|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
+|ユニファイド メッセージングのレポート|はい|はい|不要|いいえ|いいえ|あり|はい|いいえ|
 |**[共有とコラボレーション](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |フェデレーションの共有 (予定表の公開を含む)|はい|はい|はい|はい|はい|はい|はい|はい|
 |サイト メールボックス|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|
@@ -150,8 +150,8 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |SMTP|はい|はい|はい|はい|はい|はい|はい|はい|
 |EWS アプリケーションのサポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |**[音声メッセージサービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|ボイスメール<sup>23</sup>|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|ボイスメールとサードパーティ<sup>製 FAX の</sup>統合|はい|はい|いいえ|いいえ|いいえ|あり|はい|いいえ|
+|ボイスメール<sup>23</sup>|はい|はい|不要|いいえ|いいえ|あり|はい|いいえ|
+|ボイスメールとサードパーティ<sup>製 FAX の</sup>統合|はい|はい|不要|いいえ|いいえ|あり|はい|いいえ|
 |サードパーティボイスメールの相互運用性<sup>23</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |Skype for Business の統合|はい|はい|はい|はい|はい|はい|はい|はい|
 |**[高可用性とビジネス継続性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
@@ -245,7 +245,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |クラッター機能|いいえ|いいえ|あり|はい|はい|
 |メール ヒント|はい|はい|はい|はい|はい|
 |代理人アクセス|はい|はい|Yes\|(はい)|いいえ|
-|受信トレイのルール|はい|はい|はい|はい|いいえ|
+|受信トレイのルール|はい|はい|はい|はい|はい|
 |接続されているアカウント|はい|はい|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|Yes (<sup>19</sup> )|
 |非アクティブなメールボックス|いいえ|いいえ|いいえ <sup>6</sup>|はい|いいえ <sup>6</sup>|
 |オフライン アドレス帳|はい|はい|はい|はい|はい|
