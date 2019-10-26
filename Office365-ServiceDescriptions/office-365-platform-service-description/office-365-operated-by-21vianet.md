@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701709"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734145"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -200,8 +200,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>6</sup>期間割引を使用して購入された座席の減少は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。<br/>
 <sup>7</sup> Office 365 エデュケーションプランでは、Microsoft 365 管理センターからのライセンスシートの変更はサポートされていません。<br/>
 <sup>8</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 <br/>
-<sup>9</sup> 21vianet が運用している Office 365 については、[ここに記載](http://www.21vbluecloud.com/office365/O365-SLA/)されているサービスレベル契約を参照してください。<br/>
-<sup>10</sup> 21vianet が運用している office 365 については、「 [office 365 用の 21Vianet's Services 標準契約](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」を参照してください。
+<sup>9</sup> 21vianet が運用している Office 365 については、[ここに記載](https://www.21vbluecloud.com/office365/O365-SLA/)されているサービスレベル契約を参照してください。<br/>
+<sup>10</sup> 21vianet が運用している office 365 については、「 [office 365 用の 21Vianet's Services 標準契約](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」を参照してください。
 <br/>
 <sup>11</sup>中国のインターネットコンプライアンスポリシーでは、一般向け web サイトのインターネットコンテンツプロバイダー (ICP) 番号を取得する必要があります。 詳細については、対応する ICP のトピックを参照してください。 <br/>
 <sup>12</sup>一部のコンテンツは、21vianet が運用している Office 365 には適用されない場合があります。<br/>

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 特定の Skype for Business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。 詳細については、「Skype for Business ライセンスの概要」を参照してください。
-ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701699"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733748"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
 
@@ -46,7 +46,7 @@ Skype for Business Online の新機能については、「[Skype for Business �
 
 Skype for Business Online のバージョンを選択する場合は、簡易比較ページを使用することをお勧めします。[Skype 会議のプランの比較](https://go.microsoft.com/fwlink/?linkid=798291)に関する記事を参照してください。さらに詳細に比較する場合は、以下の機能の表をご覧ください。さらに支援が必要な場合は[サポート](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)にお問い合わせください。ドロップダウン リストからロケールを選択すると、現地の番号が見つかります。
   
-すべての Office 365 プランを確認するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。詳細な比較については、「[Office 365 プランのオプション](https://go.microsoft.com/fwlink/?linkid=846972)」を参照してください。
+すべての Office 365 プランを確認するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。詳細な比較については、「[Office 365 プランのオプション](https://go.microsoft.com/fwlink/?linkid=846972)」を参照してください。
   
  Skype for Business のデスクトップと Web クライアントの個々の機能を比較する場合は、[Skype for Business Online のクライアントの比較表](https://go.microsoft.com/fwlink/?linkid=829754)をご覧ください。Skype for Business のモバイル クライアントの詳細な比較については、[モバイル クライアントの比較表](https://go.microsoft.com/fwlink/?linkid=846932)をご覧ください。
   
@@ -153,7 +153,7 @@ Skype for Business Online のバージョンを選択する場合は、簡易比
 |ボイスメール  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business PSTN 通話](skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国内通話プラン)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business PSTN 通話](skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国際通話プラン)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |いいえ  <br/> |
-|[コミュニケーション クレジット](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |いいえ  <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[コミュニケーション クレジット](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |いいえ  <br/> |いいえ  <br/> |<sup>6</sup>なし <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business の音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |**[セキュリティとアーカイブ](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |IM とメディアの暗号化  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -196,7 +196,7 @@ Skype for Business Online のバージョンを選択する場合は、簡易比
 次の表は、さまざまなスタンドアロン プランで Skype for Business Online の機能が利用できるかどうかを示しています。これらの機能の説明については、[Skype for Business Online の機能](skype-for-business-online-features.md) をご覧ください。
   
 > [!NOTE]
-> Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。Skype for Business クライアントをユーザーに展開するには、「[Office 365 に Skype for Business クライアントを展開する](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)」をご覧ください。 
+> Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。Skype for Business クライアントをユーザーに展開するには、「[Office 365 に Skype for Business クライアントを展開する](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)」をご覧ください。 
   
 |||||
 |:-----|:-----|:-----|:-----|

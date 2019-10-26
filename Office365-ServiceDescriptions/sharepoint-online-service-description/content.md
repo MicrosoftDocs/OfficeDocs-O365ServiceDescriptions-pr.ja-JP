@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のコンテンツ機能により、エンタープライズ コンテンツ管理 (ECM) がだれにとっても簡単なものになります。 これは、従来のコンテンツ管理、ソーシャル機能、および強力な検索を組み合わせたものです。
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726264"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733958"
 ---
 # <a name="content"></a>コンテンツ
 
@@ -172,7 +172,7 @@ SharePoint ユーザーのゴミ箱には、削除されたコンテンツが保
     
 SharePoint Designer によって行われるサイトのカスタマイズはごみ箱には入りません。 
   
-詳細については、「[SharePoint Online サイト コレクションのごみ箱を管理する](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)」を参照してください。
+詳細については、「[SharePoint Online サイト コレクションのごみ箱を管理する](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)」を参照してください。
   
 ## <a name="search-web-parts"></a>検索 web パーツ
 
