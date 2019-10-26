@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
-ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582203"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734004"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
-OneDrive は、組織内のライセンスを取得した各ユーザーに提供されるクラウドのオンライン ストレージ スペースです。 作業ファイルを保護し、複数のデバイス間でそれらのファイルにアクセスするために使用します。 OneDrive では、ファイルを共有したり、ドキュメントを共同作業したり、コンピューターにファイルを同期することができます。 [OneDrive の特性、機能、料金について詳しく知る](https://go.microsoft.com/fwlink/?linkid=850345) 
+OneDrive は、組織内のライセンスを取得した各ユーザーに提供されるクラウドのオンライン ストレージ スペースです。 作業ファイルを保護し、複数のデバイス間でそれらのファイルにアクセスするために使用します。 OneDrive では、ファイルを共有したり、ドキュメントを共同作業したり、コンピューターにファイルを同期することができます。 詳細については、「[OneDrive の特性、機能、料金](https://go.microsoft.com/fwlink/?linkid=850345)」を参照してください。
   
 OneDrive は Microsoft 365 および Office 365 プラン、SharePoint Online プランに含まれています。スタンドアロン プランとしてもご購入いただけます。 
     
@@ -108,4 +108,3 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
   
 無制限の個人ユーザー用クラウド ストレージを含むプランについては、ストレージ機能が制限される場合があります。 
   
-
