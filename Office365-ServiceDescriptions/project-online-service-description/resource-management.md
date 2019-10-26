@@ -10,34 +10,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
 description: Project Online では、次のリソース管理機能が利用可能です。
-ms.openlocfilehash: 2ed92d63e4df06941e09f44d9704aa46fc98ae18
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 187bea0dad7dd099d1697b44c53c41d7d8c3ec8f
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631466"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733968"
 ---
-# <a name="resource-management"></a><span data-ttu-id="6b0fd-103">リソース管理</span><span class="sxs-lookup"><span data-stu-id="6b0fd-103">Resource management</span></span>
+# <a name="resource-management"></a><span data-ttu-id="b5825-103">リソース管理</span><span class="sxs-lookup"><span data-stu-id="b5825-103">Resource management</span></span>
 
-<span data-ttu-id="6b0fd-104">Project Online では、次のリソース管理機能が利用可能です。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-104">The following resource management features are available in Project Online.</span></span>
+<span data-ttu-id="b5825-104">Project Online では、次のリソース管理機能が利用可能です。</span><span class="sxs-lookup"><span data-stu-id="b5825-104">The following resource management features are available in Project Online.</span></span>
   
-## <a name="approverejectmodify-incoming-resource-engagement-requests"></a><span data-ttu-id="6b0fd-105">受信リソース契約要求の承認/却下/変更</span><span class="sxs-lookup"><span data-stu-id="6b0fd-105">Approve/reject/modify incoming resource engagement requests</span></span>
+## <a name="approverejectmodify-incoming-resource-engagement-requests"></a><span data-ttu-id="b5825-105">受信リソース契約要求の承認/却下/変更</span><span class="sxs-lookup"><span data-stu-id="b5825-105">Approve/reject/modify incoming resource engagement requests</span></span>
 
-<span data-ttu-id="6b0fd-p101">全体のリソース ビューに基づいて、受信リソース契約要求を承認、却下、変更することができます。詳細については、「[契約依頼を承認または拒否する](http://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-p101">You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](http://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).</span></span>
+<span data-ttu-id="b5825-p101">全体のリソース ビューに基づいて、受信リソース契約要求を承認、却下、変更することができます。詳細については、「[契約依頼を承認または拒否する](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b5825-p101">You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).</span></span>
   
-## <a name="manage-resource-pool"></a><span data-ttu-id="6b0fd-108">リソース共有元の管理</span><span class="sxs-lookup"><span data-stu-id="6b0fd-108">Manage resource pool</span></span>
+## <a name="manage-resource-pool"></a><span data-ttu-id="b5825-108">リソース共有元の管理</span><span class="sxs-lookup"><span data-stu-id="b5825-108">Manage resource pool</span></span>
 
-<span data-ttu-id="6b0fd-p102">個別管理と一括管理の両方で、エンタープライズ リソース共有元を管理します。詳細については、「[リソースを Project Web App に追加する](http://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409)」と「[外部データ ファイルを利用し、エンタープライズ リソースを追加または更新する](http://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-p102">Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](http://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](http://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).</span></span>
+<span data-ttu-id="b5825-p102">個別管理と一括管理の両方で、エンタープライズ リソース共有元を管理します。詳細については、「[リソースを Project Web App に追加する](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409)」と「[外部データ ファイルを利用し、エンタープライズ リソースを追加または更新する](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b5825-p102">Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).</span></span>
   
-## <a name="plan-resource-capacity"></a><span data-ttu-id="6b0fd-111">リソース容量の計画</span><span class="sxs-lookup"><span data-stu-id="6b0fd-111">Plan resource capacity</span></span>
+## <a name="plan-resource-capacity"></a><span data-ttu-id="b5825-111">リソース容量の計画</span><span class="sxs-lookup"><span data-stu-id="b5825-111">Plan resource capacity</span></span>
 
-<span data-ttu-id="6b0fd-p103">リソースが重複して予約されているかどうかを知る必要がある場合、リソース センターのキャパシティ プランニング ビューを使用して、リソースを配置できる時間と、リソースをプロジェクトで必要とする時間を比較できます。詳細については、「[リソースの最大利用可能時間を評価する](http://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-p103">When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](http://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).</span></span>
+<span data-ttu-id="b5825-p103">リソースが重複して予約されているかどうかを知る必要がある場合、リソース センターのキャパシティ プランニング ビューを使用して、リソースを配置できる時間と、リソースをプロジェクトで必要とする時間を比較できます。詳細については、「[リソースの最大利用可能時間を評価する](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b5825-p103">When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).</span></span>
   
-## <a name="request-resource-agreements"></a><span data-ttu-id="6b0fd-114">リソース契約の要求</span><span class="sxs-lookup"><span data-stu-id="6b0fd-114">Request resource agreements</span></span>
+## <a name="request-resource-agreements"></a><span data-ttu-id="b5825-114">リソース契約の要求</span><span class="sxs-lookup"><span data-stu-id="b5825-114">Request resource agreements</span></span>
 
-<span data-ttu-id="6b0fd-115">リソースの時間を体系的に要求することができます。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-115">Gives you the ability to systematically request a resource's time.</span></span> <span data-ttu-id="6b0fd-116">詳細については、「[リソースの時間を要求する](http://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-116">For details, see [Request a resource's time](http://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409).</span></span>
+<span data-ttu-id="b5825-115">リソースの時間を体系的に要求することができます。</span><span class="sxs-lookup"><span data-stu-id="b5825-115">Gives you the ability to systematically request a resource's time.</span></span> <span data-ttu-id="b5825-116">詳細については、「[リソースの時間を要求する](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="b5825-116">For details, see [Request a resource's time](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409).</span></span>
   
-## <a name="view-available-resources-and-build-teams"></a><span data-ttu-id="6b0fd-117">使用可能なリソースの表示とチームの構築</span><span class="sxs-lookup"><span data-stu-id="6b0fd-117">View available resources and build teams</span></span>
+## <a name="view-available-resources-and-build-teams"></a><span data-ttu-id="b5825-117">使用可能なリソースの表示とチームの構築</span><span class="sxs-lookup"><span data-stu-id="b5825-117">View available resources and build teams</span></span>
 
-<span data-ttu-id="6b0fd-118">利用可能なリソースからチームを構築することができます。</span><span class="sxs-lookup"><span data-stu-id="6b0fd-118">Gives you the ability to build teams from available resources.</span></span>
+<span data-ttu-id="b5825-118">利用可能なリソースからチームを構築することができます。</span><span class="sxs-lookup"><span data-stu-id="b5825-118">Gives you the ability to build teams from available resources.</span></span>
   
