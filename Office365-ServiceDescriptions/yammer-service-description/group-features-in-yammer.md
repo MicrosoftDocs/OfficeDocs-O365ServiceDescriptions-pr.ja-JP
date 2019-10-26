@@ -12,35 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer では次のグループ機能が利用可能です。
-ms.openlocfilehash: a036e1ad8f491b915c78171226c3a2bbe1db4952
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f8b7d31dfee3b56f5bbf3edf3eda64f01fe7c2a6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777978"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726350"
 ---
 # <a name="group-features-in-yammer"></a>Yammer のグループ機能
 
 Yammer では次のグループ機能が利用可能です。
   
-## <a name="groups"></a>グループ
-<a name="bkmk_Groups"> </a>
+## <a name="announcements"></a>Announcements
 
-部門内の通信から、次回キャンペーンの立ち上げや会社のイベントまで、任意のチーム、プロジェクト、興味に関するグループを数秒でセットアップします。
+アナウンスをグループと共有して、重要な更新をメンバーに直ちに通知します。 管理者は、簡単に検出できるように、アナウンスをグループにピン留めすることができます。
+  
+## <a name="groups"></a>グループ
+
+部署間通信から、次のキャンペーン開始または組織イベントに、チーム、プロジェクト、または利息に対してグループを数秒で設定します。
   
 ## <a name="related-groups"></a>関連グループ
-<a name="bkmk_RelatedGroups"> </a>
 
-すでに参加済みのグループにグループを追加して優先順位付けができるので、同僚は関連するもっと多くの関係者、コンテンツ、会話を見つけられます。
-  
-## <a name="announcements"></a>Announcements
-<a name="bkmk_Announcements"> </a>
-
-アナウンスをグループと共有して、重要な更新をメンバーに直ちに通知します。管理者は、簡単に見つけられるように、グループに対するアナウンスをピン留めできます。
+参加済みのグループに関連するグループを追加して優先度を設定します。これにより、同僚は、より関連性の高い人、コンテンツ、会話を見つけ出すことができます。
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_Announcements"> </a>
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
   
-

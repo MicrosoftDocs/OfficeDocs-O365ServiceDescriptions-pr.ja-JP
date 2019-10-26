@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581923"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734225"
 ---
 # <a name="clients-and-mobile-devices"></a>クライアントとモバイルデバイス
 
@@ -47,7 +47,7 @@ Outlook on the web のクライアントには 2 つのバージョンがあり�
 
 - **Outlook on the web の light バージョン**ライトバージョンの Outlook on the web では、ほとんどすべての web ブラウザーを使用して Exchange Online ユーザーがメールボックスにアクセスできます。 ユーザーは、メッセージの読み取りと送信、連絡先の整理、予定および会議のスケジュールを行うことができます。 既定の動作ベースのタイムアウトは6時間に設定されていますが、 [Windows PowerShell の管理者が](https://go.microsoft.com/fwlink/p/?LinkId=399155)5 ~ 8 時間に構成することができます。 このタイムアウトは、web アプリ内でのユーザー操作に依存します。たとえば、ボタンを選択したり、メッセージを選択したりできます。 また、個別にセキュリティで保護されたタイムアウトもあります。これは構成できず、ユーザーのアクティビティに関係なく実行されます。 ユーザーが8時間でログインしている場合、light バージョンの OWA は自動的にユーザーをログアウトし、再認証を要求します。 
 
-Outlook on the web は、モバイル バージョンでも利用可能です。 詳細については、「[このページ](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)」をご覧ください。
+Outlook on the web は、モバイル バージョンでも利用可能です。 詳細については、「[このページ](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)」をご覧ください。
   
 ## <a name="outlook-for-mac"></a>Outlook for Mac
 

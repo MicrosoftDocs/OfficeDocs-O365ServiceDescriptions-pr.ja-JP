@@ -1,5 +1,5 @@
 ---
-title: Web サービスの説明のための Visio
+title: Web 用 Viso サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
-ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。
+ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450301"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700239"
 ---
-# <a name="visio-for-the-web-service-description"></a>Web サービスの説明のための Visio
+# <a name="visio-for-the-web-service-description"></a>Web 用 Viso サービスの説明
 
-Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用されるダイアグラムの種類や豊富な図形のセットを使って簡単に最上クラスのダイアグラムを作成することができます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
+Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用される図の種類と豊富な図形のセットを使用して、最初のクラスの図を簡単に作成できます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
   
 詳細と作業の開始については、「 [Visio for the web](https://products.office.com/en-US/visio/visio-online)」を参照してください。
   
@@ -27,11 +27,11 @@ Visio を web に使用する場合のヘルプについては、「 [visio ヘ�
   
 ## <a name="feature-availability-and-comparison"></a>機能の可用性と比較
 
-次の表では、Visio の機能豊富な Visio デスクトップアプリに Visio の機能を比較します。 表を使用して、Visio で web で利用できる機能を確認し、機能名をクリックすると、その機能がどのように機能するかについての簡単な説明が表示されます。 組織内の一部のユーザーが Visio デスクトップアプリの高度な機能を必要とするだけでなく、visio で visio の図を web に対して表示し、軽く編集しなければならない場合があります。 
+次の表では、Visio の機能豊富な Visio デスクトップアプリに Visio の機能を比較します。 表を使用して、Visio で web で利用できる機能を確認し、機能名を選択して、その機能がどのように機能するかについての簡単な説明を読みます。 組織内の一部のユーザーが Visio デスクトップアプリの高度な機能を必要とするだけでなく、visio で visio の図を web に対して表示し、軽く編集しなければならない場合があります。 
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**Web 用の Visio** <br/> |**Visio デスクトップ アプリ** <br/> |
+|**アプリケーション機能** <br/> |**Web 用 Visio** <br/> |**Visio デスクトップ アプリ** <br/> |
 |[テキストと図形へのリッチ書式の適用](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |はい  <br/> |はい  <br/> |
 |[オブジェクトの配置](visio-online.md#arrange-objects) <br/> |はい  <br/> |はい  <br/> |
 |[マッシュアップ ソリューションの構築](visio-online.md#build-mashup-solutions) <br/> |はい  <br/> |はい  <br/> |

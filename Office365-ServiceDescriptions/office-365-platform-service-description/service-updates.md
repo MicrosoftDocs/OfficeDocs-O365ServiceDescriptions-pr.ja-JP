@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: リリース直後またはリリース予定の Office 365 機能については、「Microsoft 365 ロードマップ」を参照してください。
-ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581353"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734044"
 ---
 # <a name="service-updates"></a>サービス更新
 
 > [!NOTE]
-> このトピックは、21Vianet が運用している Office 365 には適用されません。サービスの更新についての詳細は、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照してください。 
+> このトピックは、21Vianet が運用している Office 365 には適用されません。サービスの更新についての詳細は、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照してください。 
   
 リリース直後またはリリース予定の Office 365 機能については、「 [Microsoft 365 ロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。
   
@@ -37,7 +37,7 @@ ms.locfileid: "37581353"
 
 Office 365 では、通常どおりサービスを機能させ続けるために管理者のアクションが必要となる変更が生じた場合、事前にお客様に通知するよう努めています。更新で管理者のアクションが必要となる場合、特に記載されていない限り、Microsoft では [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) を介して少なくとも 30 日前に通知します。 
   
-多くの場合、Office 365 サービスの更新は、バグの修正、パフォーマンスの向上、およびセキュリティの更新になり、お客様のためにアクションを実行する必要はありません。 新機能と強化された機能については、「 [Microsoft 365 for business のロードマップ](http://roadmap.office.com/)」を参照してください。
+多くの場合、Office 365 サービスの更新は、バグの修正、パフォーマンスの向上、およびセキュリティの更新になり、お客様のためにアクションを実行する必要はありません。 新機能と強化された機能については、「 [Microsoft 365 for business のロードマップ](https://roadmap.office.com/)」を参照してください。
   
 Office 365 は「[マイクロソフト サポート ライフサイクル](https://support.microsoft.com/lifecycle#gp/osslpolicy)」に準拠します。
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online は、組織の電子メールインフラストラクチャに対して広範な保存と回復のサポートを提供します。 これには、データ センターでのメールボックス レプリケーションと、削除済みメールボックスと削除済みアイテムを復元する機能が含まれます。
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581973"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734245"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性とビジネス継続性
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online は、組織の電子メールインフラストラク
 
 Exchange Online メールボックスは、地理的に分散した Microsoft データ センター内で、複数のデータベース コピーに継続的にレプリケートされ、ローカルのメッセージング インフラストラクチャに障害が発生した場合にデータ復元機能を提供します。大規模な障害の場合、サービス継続性管理手順が開始されます。
   
-Microsoft がデータを保護する方法の詳細については、「[Office 365 セキュリティ センター](https://go.microsoft.com/fwlink/p/?LinkId=299135)」をご覧ください。21Vianet が運用している Office 365 をご使用の方は、「[21Vianet セキュリティ センター](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)」をご覧ください。
+Microsoft がデータを保護する方法の詳細については、「[Office 365 セキュリティ センター](https://go.microsoft.com/fwlink/p/?LinkId=299135)」をご覧ください。21Vianet が運用している Office 365 をご使用の方は、「[21Vianet セキュリティ センター](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)」をご覧ください。
   
 ## <a name="deleted-mailbox-recovery"></a>削除済みメールボックスの回復
 

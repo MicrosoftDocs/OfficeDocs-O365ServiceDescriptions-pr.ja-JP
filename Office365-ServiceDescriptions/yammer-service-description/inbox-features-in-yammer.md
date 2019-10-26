@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Yammer では次の受信トレイ機能が利用可能です。
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777948"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726340"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer の受信トレイ機能
 
 Yammer では次の受信トレイ機能が利用可能です。
   
 ## <a name="inbox"></a>Inbox
-<a name="bkmk_Inbox"> </a>
 
-返信に優先順位を簡単に付けることができるように、受信トレイは @Mention、グループ アナウンス、会話、プライベート メッセージを自動的に集計します。
+受信トレイは、@mentions、グループアナウンス、会話、およびプライベートメッセージを自動的に集約して、応答の優先順位を簡単に設定できるようにします。
   
-## <a name="inbox-search"></a>受信トレイ検索
-<a name="bkmk_InboxSearch"> </a>
+## <a name="inbox-search"></a>受信トレイの検索
 
-会話、プライベート メッセージ、アナウンスを素早く見つけるために受信トレイ全体を検索します。
+受信トレイ全体を検索して、会話、プライベートメッセージ、およびアナウンスをすばやく検索します。
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_InboxSearch"> </a>
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
   
 

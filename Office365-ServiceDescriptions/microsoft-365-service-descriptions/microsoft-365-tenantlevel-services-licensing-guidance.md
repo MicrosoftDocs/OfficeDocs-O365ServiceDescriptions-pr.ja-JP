@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582033"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734195"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
 
@@ -123,7 +123,7 @@ OCAS は、組織の生産性を向上させるクラウドアプリやサービ
 
 Office 365 E5/A5/G5 のライセンスユーザーは、OCAS から恩恵を受けることができます。
 
-詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](http://www.aka.ms/mcaslicensing)」を参照してください。
+詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -153,7 +153,7 @@ MCAS の[条件付きアクセスアプリコントロール](https://docs.micro
 
 [自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスを持っている必要があります。
 
-詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](http://www.aka.ms/mcaslicensing)」を参照してください。
+詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -323,7 +323,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
 
 | シナリオ                                                                                                                                                                                                              | ライセンスを必要とするのはだれですか? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |

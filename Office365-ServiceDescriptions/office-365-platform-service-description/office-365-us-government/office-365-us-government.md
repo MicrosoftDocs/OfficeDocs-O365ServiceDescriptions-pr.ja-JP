@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595245"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734235"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -124,15 +124,15 @@ FastTrack センタープロセスの詳細については、[こちら](https:/
 
 Office 365 米国政府機関のお客様は、Azure Government ExpressRoute サービスを使用して、パブリックインターネット経由で接続するのではなく、サポートされている Office 365 サービスにプライベートに接続できます。
   
-サポートされているプロバイダーや価格モデルなどの詳細については、「[ExpressRoute のドキュメント](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)」をご確認ください。
+サポートされているプロバイダーや価格モデルなどの詳細については、「[ExpressRoute のドキュメント](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)」をご確認ください。
   
-Azure ExpressRoute の Office 365 サポートの詳細については、「[Azure ExpressRoute for Office 365](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)」をご覧ください。
+Azure ExpressRoute の Office 365 サポートの詳細については、「[Azure ExpressRoute for Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)」をご覧ください。
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>システム要件
 
-Office 365 US Government プランのシステム要件については、[office.com](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 製品サイトの「 [Office のシステム要件](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)」を参照してください。 
+Office 365 US Government プランのシステム要件については、[office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 製品サイトの「 [Office のシステム要件](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)」を参照してください。 
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -244,7 +244,7 @@ Office 365 US Government プランのシステム要件については、[office
 |使用されるブラウザー  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |使用されるオペレーティング システム  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
-|**[サービスの更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
+|**[サービス更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |一部のサービス更新のための Roadmap.office.com  <br/> |いいえ<sup>10、13</sup> <br/> |いいえ<sup>10、13</sup> <br/> |いいえ<sup>10、13</sup> <br/> |いいえ<sup>10、13</sup> <br/> |

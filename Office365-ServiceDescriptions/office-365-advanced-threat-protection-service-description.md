@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。ATP には多機能なレポート機能と URL トレース機能があるので、管理者は組織内で発生する攻撃の種類を見極めることができます。
-ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
+ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401743"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734175"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -61,12 +61,14 @@ ATP は、次の Exchange と Office 365 サブスクリプション プラン�
 
 Office 365 Advanced Threat Protection を購入するには、「[Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)」を参照してください。
 
-プランの機能を比較するには、「 [Office 365 For Business プランの比較](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照して、[適切な Microsoft 365 Enterprise ソリューションを見つけ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)てください。
+プランの機能を比較するには、「 [Office 365 For Business プランの比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照して、[適切な Microsoft 365 Enterprise ソリューションを見つけ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)てください。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の新機能
 
 引き続き Office 365 ATP に新機能を追加しています。 ATP (または Microsoft 365 全般) に出てくる新機能の詳細については、以下のリソースを参照してください。
+
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+
 - [Office 365 ATP の新機能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の要件
@@ -104,15 +106,15 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ### <a name="safe-links"></a>安全なリンク
 
-[ATP の安全なリンク](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)機能は、メッセージまたは Office ドキュメント内の悪意のある url からユーザーを予防的に保護します。 リンクをクリックした後も保護は毎回継続し、悪意のあるリンクは動的にブロックされ、適切なリンクにはアクセスできます。
+[ATP の安全なリンク](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)機能は、メッセージまたは Office ドキュメント内の悪意のある url からユーザーを予防的に保護します。 リンクを選択するたびに保護は保持されます。悪意のあるリンクは、適切なリンクにアクセスできるように、動的にブロックされます。
 
 安全なリンクは、次のアプリの Url に対して使用できます。
 
-- Office 365 ProPlus on Windows または Mac。
+- Office 365 ProPlus on Windows または Mac
 
-- Web 用 Office (web 用の Word、web 用の Excel、web 用の PowerPoint、web 用の OneNote)。
+- Web 用 Office (web 用の Word、web 用の Excel、web 用の PowerPoint、web 用の OneNote)
 
-- Windows 上の Word、Excel、PowerPoint、および Visio と、iOS および Android デバイス上の Office アプリ。
+- Windows 上の Word、Excel、PowerPoint、および Visio と、iOS および Android デバイス上の Office アプリ
 
 > [!NOTE]
 > ユーザーが ATP<sup>\*</sup>のライセンスを持っている必要があり、Atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
@@ -121,7 +123,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
 
-[ATP のフィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)は、メッセージがフィッシングである可能性があることを示すインジケーターの受信メッセージをチェックします。 ユーザーが ATP ポリシー (安全な添付ファイル、安全なリンク、またはフィッシング対策) でカバーされている場合、受信メッセージは、メッセージを分析し、構成されたポリシーに基づいて適切なアクションを実行する複数のマシン学習モデルによって評価されます。
+[ATP のフィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)は、メッセージがフィッシングである可能性があることを示すインジケーターの受信メッセージをチェックします。 ユーザーが ATP ポリシー (「安全な添付ファイル」、「安全なリンク」、または「フィッシング対策」) でカバーされている場合、受信メッセージは、メッセージを分析し、構成されたポリシーに基づいて適切なアクションを実行する複数の machine learning モデルによって評価されます。
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams 用の ATP
 
@@ -129,7 +131,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ### <a name="real-time-reports"></a>リアルタイムレポート
 
-Office 365 セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムレポートと洞察](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)が含まれています。これにより、セキュリティおよびコンプライアンス管理者は、セキュリティ攻撃や増加などの優先度の高い問題に焦点を当てることができます。疑わしいアクティビティ。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
+Office 365 セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムのレポートと洞察](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)が含まれており、セキュリティおよびコンプライアンスの管理者が、セキュリティ攻撃などの優先度の高い問題に焦点を当てることができます。疑わしいアクティビティ。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
 
 ### <a name="threat-trackers"></a>脅威トラッカー
 
@@ -137,10 +139,10 @@ Office 365 セキュリティ & コンプライアンスセンターで利用可
 
 ### <a name="explorer"></a>Explorer
 
-エクスプローラー (脅威エクスプローラーとも呼ばれます) は、承認されたユーザーが最近の脅威を識別して分析できるリアルタイムレポートです。 既定では、このレポートには過去7日間のデータが表示されます。ただし、過去30日間のデータを表示するようにビューを変更することはできます。
+エクスプローラー (脅威エクスプローラーとも呼ばれます) はリアルタイムレポートで、承認されたユーザーが最近の脅威を識別して分析できるようにします。 既定では、このレポートには過去7日間のデータが表示されます。ただし、過去30日間のデータを表示するようにビューを変更することはできます。
 
 エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「[脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/office365/securitycompliance/threat-explorer)」を参照してください。
 
 ### <a name="attack-simulator"></a>アタックシミュレータ
 
-[アタックシミュレータ](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator)は、承認されたユーザーが組織内で現実的な攻撃シナリオを実行できるようにします。 表示名のスピアーフィッシング攻撃、パスワードスプレー攻撃、ブルートフォースパスワード攻撃など、さまざまな種類の攻撃が利用可能です。
+[アタックシミュレータ](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator)を使用すると、承認されたユーザーが組織内で現実的な攻撃シナリオを実行できます。 表示名のスピアーフィッシング攻撃、パスワードスプレー攻撃、ブルートフォースパスワード攻撃など、さまざまな種類の攻撃が利用可能です。

@@ -12,50 +12,43 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer では次のプロファイル機能が利用可能です。
-ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777938"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726498"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer のプロファイル機能
 
 Yammer では次のプロファイル機能が利用可能です。
-  
-## <a name="user-profiles"></a>ユーザー プロファイル
-<a name="bkmk_UserProfiles"> </a>
-
-画像をアップロードし、連絡先の詳細を記入し、専門知識を書き出します。プロファイルには会話やファイルなどの情報がすべて集約されます。
-  
+ 
 ## <a name="expertise"></a>専門知識
-<a name="bkmk_Expertise"> </a>
 
-必要とする専門家を会社全体から探します。専門知識を瞬時に検索できるので、有用な情報を必要な時に見つけられます。
-  
-## <a name="member-directory"></a>メンバー ディレクトリ
-<a name="bkmk_MemberDirectory"> </a>
+組織全体を対象にして、必要な専門家を見つけます。 専門知識はすぐに検索できるため、必要に応じて有用な情報を見つけることができます。
 
-メンバー ディレクトリを参照し、会社全体からあなたのチーム メンバーや同僚を見つけます。
-  
-## <a name="org-chart"></a>組織図
-<a name="bkmk_OrgChart"> </a>
-
-管理者やレポートを追加して同僚と一緒に会社の組織図を作成します。組織図の情報は自動的にプロファイルに表示されます。
-  
-## <a name="praise"></a>称賛
-<a name="bkmk_Praise"> </a>
-
-上手くこなした仕事を評価したり、評価を受けたりします。成果とバッジは [称賛] タブ内のプロファイルに表示されます。
-  
 ## <a name="leaderboards"></a>ランキング
-<a name="bkmk_Leaderboards"> </a>
 
 ネットワーク内の影響力のある同僚を識別します。ランキングには、メッセージ、返信メッセージ、「いいね！」メッセージが最も多い人が表示されます。
+
+## <a name="member-directory"></a>メンバーディレクトリ
+
+メンバーディレクトリを参照して、組織全体からチームや同僚の人を検索します。
+  
+## <a name="org-chart"></a>組織図
+
+上司とレポートを追加して、同僚と共に組織図を作成します。 組織図の情報はプロファイルに自動的に表示されます。
+  
+## <a name="praise"></a>称賛
+
+上手くこなした仕事を評価したり、評価を受けたりします。 **称賛**タブのプロファイルに、実績とバッジが表示されます。
+ 
+## <a name="user-profiles"></a>ユーザー プロファイル
+
+画像をアップロードし、連絡先の詳細を記入して、専門知識をリストします。 プロファイルには会話やファイルなどの情報がすべて集約されます。
   
 ## <a name="feature-availability"></a>機能の可用性
-<a name="bkmk_Leaderboards"> </a>
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
   
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595237"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734024"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -29,7 +29,7 @@ Office 365 がクラウドベース サービスであっても、Office アプ�
   
 Office アプリケーションは、32 ビットおよび 64 ビット版で利用可能です。
   
-各プランの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
+各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 の各プランで利用できる機能
 <a name="bkmk_Officefeaturesolutions"> </a>
@@ -50,7 +50,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい<sup>11</sup>  <br/> |
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |はい  <br/> |はい<sup>5、10</sup> <br/> |はい (<sup>5</sup> )  <br/> |
-|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
+|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |[Windows 10 アプリ](office-applications.md#windows-10-apps) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
 |[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/>|はい (<sup>13</sup> )  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |
@@ -60,32 +60,32 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |**エンタープライズ価値** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |いいえ  <br/>| いいえ  <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> | Yes<sup>7</sup> <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |該当なし  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|多言語ユーザー インターフェイス  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
+|多言語ユーザー インターフェイス  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |クライアント プッシュ展開  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |社内 Exchange のクライアント サポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |社内 SharePoint のクライアント サポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |ソフトウェア更新の制御  <br/> |はい  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|データベース比較  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br> |
+|データベース比較  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br> |
 |デスクトップの仮想化  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Excel スプレッドシート比較  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
-|Excel スプレッドシート検査  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/>
+|Excel スプレッドシート比較  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Excel スプレッドシート検査  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/>
 |Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |はい<sup>1</sup> <br/> |はい  <br/> |はい  <br/>|はい<sup>1</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|グループ ポリシーのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
-|Office cloud policy のサポート  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
+|グループ ポリシーのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Office cloud policy のサポート  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |Azure Information Protection を使用した Information Rights Management  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |
 |Windows Server AD RMS を使用した Information Rights Management  <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい <br/>| はい<sup>3</sup> <br/>|はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |
-|Office アドイン、ActiveX、および BHO のサポート  <br/> |はい  <br/> |はい  <br/> |はい<sup>+++<sup> <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
+|Office アドイン、ActiveX、および BHO のサポート  <br/> |はい  <br/> |はい  <br/> |はい<sup>+++<sup> <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
 |OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |はい  <br/> |はい  <br/> |うん<sup>++</sup> <br/> |はい <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/>|はい  <br/> |いいえ  <br/> |はい <br/> |
-|Office テレメトリ  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
+|Office テレメトリ  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |クライアント アプリケーションのオフライン サポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Power Map for Excel  <br/> |<sup>4</sup>なし <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
+|Power Map for Excel  <br/> |<sup>4</sup>なし <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |Power Pivot for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Power Query for Excel  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
-|Power View for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
-|ローミング設定  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
-|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|クラウドベース ファイル ストレージのブロックのサポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|タップしてコンテンツを検索し、再利用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
+|Power Query for Excel  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Power View for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|ローミング設定  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
+|クラウドベース ファイル ストレージのブロックのサポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
+|タップしてコンテンツを検索し、再利用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |バージョン アップグレード  <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|<sup>9</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br> |
    
@@ -96,7 +96,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 ><sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。<br/>
 <sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。<br/>
-<sup>4</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[Excel 2013 の電源マッププレビュー](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。<br/> 
+<sup>4</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[Excel 2013 の電源マッププレビュー](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。<br/> 
 <sup>5</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. 機能の比較については、「[デスクトップクライアントの比較表 (Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables))」を参照してください。<br/> 
 <sup>6</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格を持ち、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールできるようにします。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 <br/>
 <sup>7</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。 <br/>

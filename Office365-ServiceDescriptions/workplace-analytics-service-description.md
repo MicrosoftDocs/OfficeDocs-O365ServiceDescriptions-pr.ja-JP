@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Microsoft Workplace Analytics は、企業のコミュニケーションとコラボレーションの傾向に関する豊富で実用的な洞察を提供し、より効果的なビジネス上の意思決定を行うのに役立ちます。
-ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+description: Microsoft Workplace Analytics は、組織のコミュニケーションとコラボレーションの傾向に関する豊富で実用的な洞察を提供し、より効果的なビジネス上の意思決定を行うのに役立ちます。
+ms.openlocfilehash: f048b57a1a41137941fe80edbdcc3f683fd23718
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998529"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733618"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics サービスの説明
 
-Microsoft Workplace Analytics は、企業のコミュニケーションとコラボレーションの傾向に関する豊富で実用的な洞察を提供し、より効果的なビジネス上の意思決定を行うのに役立ちます。
+Microsoft Workplace Analytics は、組織のコミュニケーションとコラボレーションの傾向に関する豊富で実用的な洞察を提供し、より効果的なビジネス上の意思決定を行うのに役立ちます。
 
 ## <a name="transform-unprecedented-insights-into-action"></a>前例のない洞察をアクションに変換する
 

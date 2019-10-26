@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582003"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733868"
 ---
 # <a name="planning-and-deployment"></a>計画と展開
 
@@ -38,7 +38,7 @@ ms.locfileid: "37582003"
 
 Microsoft Exchange 2003、Exchange 2007、Exchange 2010 および Exchange 2013 社内組織で利用可能なハイブリッド展開は、社内でホストされる一部のメールボックスと、Exchange Online でホストされる他のメールボックスが長期にわたって共存する構成か、すべてのユーザー メールボックスを Exchange Online でホストするための移行パスを提供します。ハイブリッド展開によって、充実した機能の利用、および既存の社内 Microsoft Exchange 組織に対する管理制御をクラウドにまで拡張することができます。ハイブリッド展開の機能には、安全なメール トランスポート、共有予定表の空き時間情報、および社内組織と Exchange Online 組織間のメッセージ追跡が含まれます。
   
-ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://go.microsoft.com/fwlink/p/?LinkId=287035)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 を使用して Exchange ハイブリッド展開機能を構成する](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)」をご覧ください。
+ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://go.microsoft.com/fwlink/p/?LinkId=287035)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 を使用して Exchange ハイブリッド展開機能を構成する](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)」をご覧ください。
   
 > [!IMPORTANT]
 > オンプレミスの Exchange 2003 組織は、Exchange Online でハイブリッド展開を構成する場合、少なくとも 1 台の Exchange 2010 クライアント アクセス/メールボックス サーバーをインストールする必要があります。オンプレミスの Exchange 2007 組織は、Exchange Online でハイブリッド展開を構成する場合、少なくとも 1 台の Exchange 2010 または Exchange 2013 のクライアント アクセス/メールボックス サーバーをインストールする必要があります。オンプレミスの Exchange 2010 および Exchange 2013 組織は、Exchange Online でのハイブリッド展開をネイティブでサポートします。ハイブリッド展開における Exchange サーバーの互換性の詳細については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/p/?LinkId=243541)」を参照してください。 > オンプレミスの Exchange 組織では、組織をハイブリッド展開用に構成する必要があります。管理者が Exchange Server 展開アシスタントおよびハイブリッド構成ウィザードを使用してハイブリッド展開を構成することを強くお勧めします。詳細については、「[Microsoft Exchange Server 展開アシスタント](https://go.microsoft.com/fwlink/p/?LinkId=287036)」を参照してください。

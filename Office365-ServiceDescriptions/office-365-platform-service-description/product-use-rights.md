@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582093"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734074"
 ---
 # <a name="product-use-rights"></a>製品使用権
 
 ## <a name="microsoft-online-services-use-rights"></a>Microsoft Online Services の使用権
 
-Microsoft Online サブスクリプション契約に従うことに同意した場合は、「[マイクロソフト製品およびオンライン サービスのボリューム ライセンス](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)」で明示的に許可されているとおりにオンライン サービスと関連ソフトウェアを使用できます。
+Microsoft Online サブスクリプション契約に従うことに同意した場合は、「[マイクロソフト製品およびオンライン サービスのボリューム ライセンス](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)」で明示的に許可されているとおりにオンライン サービスと関連ソフトウェアを使用できます。
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>21Vianet が運用している Office 365 の使用権
 
-詳しくは、「[オンライン サービスの標準的な契約](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」、「[使用条件](http://www.21vbluecloud.com/office365/O365-TOU/)」を参照してください。
+詳しくは、「[オンライン サービスの標準的な契約](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」、「[使用条件](https://www.21vbluecloud.com/office365/O365-TOU/)」を参照してください。
   
 ## <a name="licensing"></a>ライセンス
 

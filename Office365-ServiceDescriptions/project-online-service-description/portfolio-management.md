@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online では、次のポートフォリオ管理機能を使用できます。
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633744"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733878"
 ---
 # <a name="portfolio-management"></a>ポートフォリオ管理
 
@@ -25,11 +25,11 @@ Project Online では、次のポートフォリオ管理機能を使用でき�
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>プロジェクトの分析とポートフォリオの最適化
 
-プロジェクトを分析して、予算とリソースの両方の投資に対して最適な roi を得るために、どのユーザーが最適かを判断します。 このプロセスのことをポートフォリオ分析と呼びます。 詳細については、「[ポートフォリオ分析の散布図の使用](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)」を参照してください。
+プロジェクトを分析して、予算とリソースの両方の投資に対して最適な roi を得るために、どのユーザーが最適かを判断します。 このプロセスのことをポートフォリオ分析と呼びます。 詳細については、「[ポートフォリオ分析の散布図の使用](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)」を参照してください。
   
 ## <a name="create-and-edit-projects"></a>プロジェクトの作成と編集
 
-複数の方法でプロジェクトを作成します。 詳細については、「[Project Web App でプロジェクトを作成する](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)」を参照してください。
+複数の方法でプロジェクトを作成します。 詳細については、「[Project Web App でプロジェクトを作成する](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)」を参照してください。
   
 ## <a name="enterprise-resource-management"></a>エンタープライズ リソースの管理
 

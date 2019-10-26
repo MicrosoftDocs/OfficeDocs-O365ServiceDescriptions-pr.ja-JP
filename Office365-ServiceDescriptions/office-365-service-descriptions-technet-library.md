@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 サービスの説明  '
+title: 'Office 365 サービスの説明 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777478"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734034"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明  
+# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
 
 Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
-このライブラリの本稿では、Office 365 で使用可能なサービスと機能の詳細を説明します。プラン全体でそれぞれの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」、または以下の一覧で該当するサービスの説明をご覧ください。 
+このライブラリの本稿では、Office 365 で使用可能なサービスと機能の詳細を説明します。プラン全体でそれぞれの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」、または以下の一覧で該当するサービスの説明をご覧ください。 
   
 サポート記事および情報を検索するには、「[Office のサポート](https://support.office.com/)」を参照してください。
   
@@ -40,7 +40,7 @@ Microsoft では、対象となるプランに含まれるサービスのため�
     
 - [Office アプリケーション サービスの説明](office-applications-service-description/office-applications-service-description.md)
     
-- [Web サービスの説明のための Office](office-online-service-description/office-online-service-description.md)
+- [Office for the web サービスの説明](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -64,18 +64,18 @@ Microsoft では、対象となるプランに含まれるサービスのため�
     
 - [Project Online サービスの説明](project-online-service-description/project-online-service-description.md)
     
-- [Web サービスの説明のための Visio](visio-online-service-description/visio-online-service-description.md)
+- [Web 用 Viso サービスの説明](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer サービスの説明](yammer-service-description/yammer-service-description.md)
 
 - [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 テナントレベルサービスライセンスガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> Office Delve、Microsoft MyAnalytics、Microsoft Sway、Microsoft Teams などの [スイート機能](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)の可用性が含まれます。 
+> <sup>1</sup> Office Delve、Microsoft MyAnalytics、Microsoft Sway、Microsoft Teams などの [スイート機能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)の可用性が含まれます。
   
 ## <a name="disclaimer"></a>免責事項
 

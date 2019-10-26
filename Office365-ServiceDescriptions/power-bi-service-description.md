@@ -11,28 +11,26 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
-description: Power BI とはクラウド ベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータへの接続、データのビジュアル化および分析をより速く効率的に、また、よりわかりやすく実行できます。使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
-ms.openlocfilehash: 92d2037bb818a43b23d4c377c3fc93fd20290a51
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Power BI は、クラウドベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータに接続して、データをより速く、効率よく、そして理解できるようにします。 使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
+ms.openlocfilehash: 1190c6af728f3f09c023f59673372a7ddf30adce
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777678"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733994"
 ---
 # <a name="power-bi-service-description"></a>Power BI サービスの説明
 
-Power BI とはクラウド ベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータへの接続、データのビジュアル化および分析をより速く効率的に、また、よりわかりやすく実行できます。使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
+Power BI は、クラウドベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータに接続して、データをより速く、効率よく、そして理解できるようにします。 使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
   
 現在、Power BI は Office 365 Enterprise E5 バージョンの一部として入手できます。詳細については、[Power BI](https://powerbi.microsoft.com/) にアクセスしてください。
   
-各プランの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
+各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
   
 ## <a name="power-bi-plans"></a>Power BI のプラン
-<a name="BKMK_PowerBIPlans"> </a>
 
-利用可能でニーズに最も適した[Power BI のプラン](https://go.microsoft.com/fwlink/?LinkID=786854)のいずれかにサインアップできます。 
+お客様のニーズに最も適した[POWER BI プラン](https://go.microsoft.com/fwlink/?LinkID=786854)にサインアップできます。 
   
 > [!NOTE]
-> Power BI と Power BI for Office 365 は、異なる製品です。Power BI for Office 365 はバージョン 1 のサービスであり、廃止されています。 
+> Power BI と Power BI for Office 365 は、異なる製品です。 Power BI for Office 365 はバージョン 1 のサービスであり、廃止されています。 
   
-

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection の機能と要件に関する情報を取得します。 Exchange Online Protection を提供するプランの一覧と、それらのプラン全体での機能の比較について説明します。
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581913"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700229"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection サービスの説明
 
@@ -25,9 +25,9 @@ Exchange Online Protection の機能と要件に関する情報を取得しま�
 
 マイクロソフト Exchange Online Protection (EOP) は、クラウドベースの電子メール フィルタリング サービスであり、スパムやマルウェアから組織を保護するのに役立ち、メッセージング ポリシー違反から組織を保護する機能が含まれています。EOP はメッセージング環境の管理を簡素化し、社内のハードウェアおよびソフトウェアの維持に伴う負荷の多くを軽減します。
 
-メッセージング保護に EOP を使用できる基本的な方法として、次のようなものがあります。
+次の一覧では、メッセージング保護に EOP を使用する主な方法について説明します。
 
-- **スタンドアロンのシナリオで**は、EOP は、オンプレミスの exchange server 2013 以降の環境、従来の exchange server バージョン、またはその他の社内 SMTP 電子メールソリューション向けにクラウドベースの電子メール保護を提供します。
+- **スタンドアロンのシナリオで**は、EOP は、オンプレミスの電子メール環境 (Exchange サーバーやその他のオンプレミスの SMTP 電子メールソリューション) に対してクラウドベースの電子メール保護を提供します。
 
 - **Microsoft Exchange online の一部として**: 既定では、EOP は Exchange Online クラウドホスト型メールボックスを保護します。 Exchange Online の詳細については、「[Exchange Online サービスの説明](../exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
 
@@ -50,13 +50,13 @@ EOP は以下のサブスクリプション プランで提供されています
 
 |**プラン**|**説明**|
 |:-----|:-----|
-|[Office 365 Advanced Threat Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)|EOP が社内のメールボックスを保護します。|
-|[Exchange Online プランの比較](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|EOP が Exchange Online クラウド ホスト型メールボックスを保護します。|
-|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|EOP スタンドアロンと同様に EOP が社内のメールボックスを保護します。さらに、データ損失防止 (DLP) と Web サービスを使用したレポート機能を備えています。|
+|[Office 365 Advanced Threat Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)|オンプレミスの電子メール組織を保護する別のクラウドベースのサービス。|
+|[Exchange Online の EOP 機能](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Exchange Online クラウドホスト型メールボックスの組み込み保護。|
+|[Exchange Enterprise CAL (サービス付き)](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|EOP およびその他のクラウドベースの機能を含むオンプレミスの Exchange 組織用に購入するアドオンライセンス (詳細については、次のセクションを参照してください)。|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL with Services の機能
 
-Microsoft Exchange Enterprise CAL with Services は、社内メッセージング環境用の EOP の電子メール保護機能に加えて、以下の機能を提供します。
+Microsoft Exchange Enterprise CAL with Services には、EOP の電子メール保護機能と、次のクラウドベースの追加機能が用意されています。
 
 - [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
@@ -64,7 +64,7 @@ Microsoft Exchange Enterprise CAL with Services は、社内メッセージン�
 
 Exchange Enterprise CAL with Services のライセンスの詳細については、「 [Exchange Server licensing](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)」を参照してください。
 
-Exchange Enterprise CAL とサービスのライセンスがあり、サービスをプロビジョニングする場合は、「 [Set up THE EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)」の手順に従ってください。 セットアップ手順は EOP スタンドアロンのセットアップ手順と同じです。
+Exchange Enterprise CAL とサービスライセンスがあり、EOP をプロビジョニングする場合は、「 [Set up THE EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)」の手順に従ってください。 セットアップ手順は EOP スタンドアロンのセットアップ手順と同じです。
 
 > [!NOTE]
 > Exchange Enterprise CAL with Services の新機能は Exchange Online と同時に展開され、EOP スタンドアロンと同時には展開されません。EOP スタンドアロンと Exchange Online/Exchange Enterprise CAL with Services の展開スケジュールは、多少異なる場合があります。

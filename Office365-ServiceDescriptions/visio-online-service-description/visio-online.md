@@ -1,5 +1,5 @@
 ---
-title: Web 用の Visio
+title: Web 用 Visio
 ms.author: sharik
 author: skjerland
 audience: ITPro
@@ -13,14 +13,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio for the web は、Microsoft Visio の機能をブラウザーに拡張し、クラウドに保存されているダイアグラムを作成および編集できるようにします。 Microsoft Office 365 のお客様は、図を表示、印刷、および共有したり、移動にコメントを挿入したりすることができます。
-ms.openlocfilehash: 6230cb61748d4e64614e9e2ea130c0495a092328
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450311"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700219"
 ---
-# <a name="visio-for-the-web"></a>Web 用の Visio
+# <a name="visio-for-the-web"></a>Web 用 Visio
 
 Visio for the web は、Microsoft Visio の機能をブラウザーに拡張し、クラウドに保存されているダイアグラムを作成および編集できるようにします。 Microsoft Office 365 のお客様は、図を表示、印刷、および共有したり、移動にコメントを挿入したりすることができます。 Visio サブスクリプションをお持ちの場合は、次のセクションで説明するような追加機能を使用できます。
   
@@ -34,7 +34,7 @@ Visio for the web は、Microsoft Visio の機能をブラウザーに拡張し�
   
 ## <a name="build-mashup-solutions"></a>マッシュアップ ソリューションの構築
 
-Web JavaScript の Mashup API 用の Visio を使用すると、開発者は Visio web 図面、そのページ、およびその図形にアクセスして操作することができます。 詳細については、「 [Visio for web: よく寄せられる質問](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee)」を参照してください。
+Web JavaScript の Mashup API 用の Visio を使用すると、開発者は Visio web 図面、そのページ、およびその図形にアクセスして操作することができます。 詳細については、「 [Visio for web: よく寄せられる質問](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)」を参照してください。
   
 ## <a name="create-diagrams"></a>ダイアグラムの作成
 
@@ -50,11 +50,11 @@ Visio for the web には、さまざまな編集機能が含まれています�
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>SharePoint、Web、またはブログ ページにダイアログを埋め込む
 
-Web で Visio を使用して、SharePoint、web、またはブログページに visio の図 (Visio デスクトップアプリケーションで作成) を挿入できます。 詳細については、「 [Visio for web: よく寄せられる質問](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee)」を参照してください。
+Web で Visio を使用して、SharePoint、web、またはブログページに visio の図 (Visio デスクトップアプリケーションで作成) を挿入できます。 詳細については、「 [Visio for web: よく寄せられる質問](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)」を参照してください。
   
 ## <a name="find"></a>検索
 
-Web 用の Visio では、省略記号ボタン (...) をクリックしてから [検索] (または Ctrl + F キーを押します) を選択すると、ページ上で単語、数字、または語句のすべての出現を検索できます。 結果は、ダイアグラムの横に表示されます。 Visio は図形の名前、図形のテキスト、図形データ、およびユーザー定義セルで検索を行います。
+Web 用の Visio では、**詳細**(省略記号ボタン) を選択し、[**検索**] を選択する (または Ctrl + F キーを押す) ことによって、ページ上のすべての単語、数字、または語句を検索できます。 結果は、ダイアグラムの横に表示されます。 Visio は図形の名前、図形のテキスト、図形データ、およびユーザー定義セルで検索を行います。
   
 ## <a name="font-formatting"></a>フォントの書式設定
 
@@ -62,11 +62,11 @@ Web 用の Visio では、フォント、フォントサイズ、およびその
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-Web 用の Visio では、図形をクリックすることによって直接ハイパーリンクにアクセスできます。
+Web 用の Visio では、図形を選択することによって直接ハイパーリンクにアクセスできます。
   
 ## <a name="navigation"></a>ナビゲーション
 
-Web 用の Visio では、左下のタブをクリックして、他のページに移動できます。
+Web 用の Visio では、左下のタブを選択することによって、他のページに移動できます。
   
 ## <a name="office-add-ins"></a>Office アドイン
 
@@ -94,7 +94,7 @@ Visio for the web では、[名前を付けて保存] を使用するか、図�
   
 ## <a name="share-a-diagram"></a>ダイアグラムを共有する
 
-ダイアグラムが SharePoint ドキュメント ライブラリまたは OneDrive for Business に保存されている場合、ダイアグラムはオンライン上にあるため、電子メールの添付ファイルではなくリンクを送信することによってダイアグラムを共有できます。 適切なアクセス許可を持つ閲覧者は、Web ブラウザーやモバイル デバイスでダイアグラムを表示することができます。 右上隅の **[共有]** をクリックします。 リンクを共有して、データに接続された図が重複しないようにすることをお勧めします。
+ダイアグラムが SharePoint ドキュメント ライブラリまたは OneDrive for Business に保存されている場合、ダイアグラムはオンライン上にあるため、電子メールの添付ファイルではなくリンクを送信することによってダイアグラムを共有できます。 適切なアクセス許可を持つ閲覧者は、Web ブラウザーやモバイル デバイスでダイアグラムを表示することができます。 右上にある [**共有**] を選択するだけです。 リンクを共有して、データに接続された図が重複しないようにすることをお勧めします。
   
 ## <a name="smartart"></a>SmartArt
 
@@ -114,7 +114,7 @@ Web 用の Visio では、図に SmartArt を追加することはできませ�
   
 ## <a name="view-shape-data"></a>図形データの表示
 
-Visio を web に使用して、図面のメタデータを確認できます。図形をクリックしてから、[**図形情報**] をクリックします。
+Visio を web に使用して、図面のメタデータを表示することができます。図形を選択してから、[**図形情報**] を選択するだけです。
   
 ## <a name="view-visio-files-in-the-browser"></a>ブラウザーでの Visio ファイルの表示
 

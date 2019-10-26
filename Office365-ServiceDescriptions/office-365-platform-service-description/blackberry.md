@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® スマートフォンは、Office 365 の電子メールや文書にアクセスすることができます。
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523472"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734165"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前の�
   
 ほとんどの携帯電話会社では BIS がセットアップされています。そのためエンド ユーザーは、次のサポート技術情報の記事を使用して、電子メール、予定表、連絡先の同期を構成する必要があります。
   
-- [KB31310 - BlackBerry Internet Service と Microsoft Office 365 サービス](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310 - BlackBerry Internet Service と Microsoft Office 365 サービス](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561 - BlackBerry スマートフォン上でワイヤレスの予定表同期を構成する方法](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561 - BlackBerry スマートフォン上でワイヤレスの予定表同期を構成する方法](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430 - BlackBerry Internet Service とのワイヤレスの連絡先同期を有効または無効にする方法](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430 - BlackBerry Internet Service とのワイヤレスの連絡先同期を有効または無効にする方法](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > IMAP または POP 接続を使用して自分のアカウントに接続するユーザーは、ワイヤレス接続を使用する場合にのみ電子メールを同期することができます。BIS ユーザーが BlackBerry スマートフォンとアカウントとの間の連絡先や予定表を有線接続で同期する方法については、BlackBerry サポートにお問い合わせください。 

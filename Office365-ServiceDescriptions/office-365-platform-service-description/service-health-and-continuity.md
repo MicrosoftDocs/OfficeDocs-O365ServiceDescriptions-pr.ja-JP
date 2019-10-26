@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633438"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734054"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
 Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
   
 > [!NOTE]
-> 21Vianet が運用している Office 365 を使用している場合、以下の情報は適用できない場合があります。 代わりに、「[21Vianet のサービス レベル契約](http://www.21vbluecloud.com/office365/O365-SLA/)」を参照してください。 
+> 21Vianet が運用している Office 365 を使用している場合、以下の情報は適用できない場合があります。 代わりに、「[21Vianet のサービス レベル契約](https://www.21vbluecloud.com/office365/O365-SLA/)」を参照してください。 
   
 ## <a name="view-status-of-services"></a>サービスの状態の表示
 
@@ -75,7 +75,7 @@ Microsoft は、サービス インシデントが発生した場合、タイム
 
 ### <a name="office-365-admin-app"></a>Office 365 管理アプリ
 
-Office 365 テナント管理者向けの管理アプリには、外出先で組織の Office 365 サービスの状態に接続する機能が設けられています。Office 365 テナントの管理者は、モバイル デバイスにサービス正常性の情報とメンテナンス状態の更新情報を表示できます。詳細については、「[管理アプリの FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)」にアクセスしてください。
+Office 365 テナント管理者向けの管理アプリには、外出先で組織の Office 365 サービスの状態に接続する機能が設けられています。Office 365 テナントの管理者は、モバイル デバイスにサービス正常性の情報とメンテナンス状態の更新情報を表示できます。詳細については、「[管理アプリの FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)」にアクセスしてください。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 用 Office 365 管理パック
 
@@ -115,7 +115,7 @@ Office 365 サービス通信 API を使用すると、必要な方法で Office
 
 Microsoft Office 365 は、ピーク時のサービスのパフォーマンスを維持できる回復力の高いシステムによって提供されます。サービス継続性の提供は、Office 365 システムの設計の一部です。これらの備えにより、Office 365 は、ハードウェアやアプリケーションの障害、データ破損、ユーザーに影響を与えるその他のインシデントといった予期しない事態から迅速に復旧できます。サービス継続性ソリューションは、重大なサービス停止 (たとえば、自然災害やインシデントによって、ある Microsoft のデータ センター全体が使用不能になった場合など) の際にも適用されます。
   
-致命的な障害から復旧した後、データ センターの完全な冗長性がサービスに復元されるまで一定の時間がかかることがあります。たとえば、データ センター 1 に障害が発生すると、サービスがデータ センター 2 のリソースによって復元されます。ただし、データ センター 1 の復元されたリソースまたはデータ センター 3 の新規リソースによって、データ センター 2 のサービスの継続性がサポートされるまで時間がかかります。Office 365 の[サービス レベル契約](service-level-agreement.md) (SLA) は、この期間に適用されます。21Vianet が運用している Office 365 には、別の SLA があります。詳細については、 [21Vianet サイト](http://www.21vbluecloud.com/office365/O365-SLA/)をご覧ください。 
+致命的な障害から復旧した後、データ センターの完全な冗長性がサービスに復元されるまで一定の時間がかかることがあります。たとえば、データ センター 1 に障害が発生すると、サービスがデータ センター 2 のリソースによって復元されます。ただし、データ センター 1 の復元されたリソースまたはデータ センター 3 の新規リソースによって、データ センター 2 のサービスの継続性がサポートされるまで時間がかかります。Office 365 の[サービス レベル契約](service-level-agreement.md) (SLA) は、この期間に適用されます。21Vianet が運用している Office 365 には、別の SLA があります。詳細については、 [21Vianet サイト](https://www.21vbluecloud.com/office365/O365-SLA/)をご覧ください。 
   
 ## <a name="ensuring-data-availability"></a>データ可用性の確保
 

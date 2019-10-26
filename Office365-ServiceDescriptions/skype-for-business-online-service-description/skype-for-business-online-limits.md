@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: Skype for Business Online の制限は、以下のカテゴリに分類されます。
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Skype for Business Online の制限は、次のカテゴリに分類されます。
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777808"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726066"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -68,7 +68,6 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 > <sup>1</sup> クライアントは、手動でユーザーを追加するか、グループまたは配信リストのコンテキスト メニューからインスタント メッセージを送信することにより、99 人までのユーザーとのチャットを開始することができます。Skype for Business Online のインスタント メッセージングについては、「 [Skype for Business で IM を送信する](https://go.microsoft.com/fwlink/?linkid=533412)」を参照してください。 
   
 ## <a name="meeting-limits"></a>会議の制限
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **ファイルのアップロード制限** 配布資料や PowerPoint プレゼンテーションなど、Skype for Business 会議にアップロードできるファイルの最大サイズ。 
     
@@ -112,7 +111,6 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |チーム呼び出しグループ内の個人  <br/> |まで  <br/> |該当なし  <br/> |まで  <br/> |
    
 ## <a name="meeting-retention-limits"></a>会議の保存期限
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **会議コンテンツの保存期限** 最後のユーザーが会議を退席してから、アップロードされた会議コンテンツが完全に削除されるまで Skype for Business に保持される時間。 
     
@@ -131,10 +129,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |終了日を含まない定期的な会議| 新しい会議の参加 (ライセンス認証) がある場合、または1年に1回以上のスケジュール更新が行われた場合、常に会議にアクセスできるようになります。
 |即時会議|少なくとも8時間、会議にアクセスできるようになります。
 
-
-  
 ## <a name="minute-limits"></a>分数の制限
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Office 365 国内通話プランまたは Office 365 国際通話プランの分数の制限については、[こちら](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)をクリックしてください。
+Office 365 国内通話プランまたは Office 365 国際通話プランの分数の制限については、「[電話会議と通話プランの国および地域の可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)」を参照してください。
   

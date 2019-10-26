@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633426"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734115"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 
@@ -47,7 +47,7 @@ MyAnalytics では、個人の生産性における主な要因として、お�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner とは、ユーザーが視覚的にチームワークを編成するためのツールです。チームは、新しい計画の作成、タスクの編成および割り当て、ファイルの共有、現在の作業に関するチャット、期限の設定、状態の更新を行うことができます。また、Microsoft Planner にはドキュメントを特定のタスクに関連付け、それをまとめて編集し、タスクに関連する会話を行う機能が備わっています。詳細については、「[Microsoft Planner の概要](http://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)」をご覧ください。Planner は、[Office 365 Germany](office-365-germany.md) においては現時点では利用できません。
+Microsoft Planner とは、ユーザーが視覚的にチームワークを編成するためのツールです。チームは、新しい計画の作成、タスクの編成および割り当て、ファイルの共有、現在の作業に関するチャット、期限の設定、状態の更新を行うことができます。また、Microsoft Planner にはドキュメントを特定のタスクに関連付け、それをまとめて編集し、タスクに関連する会話を行う機能が備わっています。詳細については、「[Microsoft Planner の概要](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)」をご覧ください。Planner は、[Office 365 Germany](office-365-germany.md) においては現時点では利用できません。
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 

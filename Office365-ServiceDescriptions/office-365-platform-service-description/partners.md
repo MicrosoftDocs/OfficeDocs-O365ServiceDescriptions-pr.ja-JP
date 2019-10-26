@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582113"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734084"
 ---
 # <a name="partners"></a>パートナー
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582113"
 Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
   
 > [!NOTE]
-> パートナー機能の使用方法の詳細については、「[パートナー: ビジネスを構築して Office 365 パートナー サブスクリプションを管理する](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)」を参照して、パートナー機能の説明を確認してください。パートナー機能へのアクセス許可を得るには、[Microsoft オンライン サービス パートナー契約書](https://go.microsoft.com/fwlink/p/?LinkId=285473) に署名して Cloud Essentials に登録してください。 
+> パートナー機能の使用方法の詳細については、「[パートナー: ビジネスを構築して Office 365 パートナー サブスクリプションを管理する](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)」を参照して、パートナー機能の説明を確認してください。パートナー機能へのアクセス許可を得るには、[Microsoft オンライン サービス パートナー契約書](https://go.microsoft.com/fwlink/p/?LinkId=285473) に署名して Cloud Essentials に登録してください。 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>試用版への招待および発注書の作成
 
@@ -47,9 +47,9 @@ Office 365 の各カスタマーは 1 つの代理管理パートナーを持つ
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Office 365 Marketplace でのカスタマーや他のパートナーとの結びつき
 
-Office 365 Marketplace は、カスタマーがパートナー サービスや専門家の助言を求める機会を提供します。詳細については、「[Office 365 Marketplace に登録する](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)」を参照してください。
+Office 365 Marketplace は、カスタマーがパートナー サービスや専門家の助言を求める機会を提供します。詳細については、「[Office 365 Marketplace に登録する](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)」を参照してください。
   
-マイクロソフト パートナー ネットワークはパートナーのニーズに応えることに取り組んでいます。マイクロソフト パートナー ネットワークに参加する、また Microsoft のパートナーへのサービスについて知るためには、「[マイクロソフト パートナー ネットワーク](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)」を参照してください。
+マイクロソフト パートナー ネットワークはパートナーのニーズに応えることに取り組んでいます。マイクロソフト パートナー ネットワークに参加する、また Microsoft のパートナーへのサービスについて知るためには、「[マイクロソフト パートナー ネットワーク](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

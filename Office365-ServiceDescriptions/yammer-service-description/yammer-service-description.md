@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: 4140f3cb779c6b444dfff9626f8fadb1686e2ddd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777888"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733578"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -25,7 +25,7 @@ Yammer は、高性能で安全、かつプライベートなエンタープラ�
   
 Yammer を組み込んだ Office 365 プランのリストについては、「[Office 365 サービス ファミリーおよびプラン](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)」を参照してください。
   
-各プランの機能を比較するには、「[プランを選ぶ](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
+各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
   
 > [!TIP]
 > Office 365 サービスの説明のページは、エクスポート、保存、印刷が可能です。[複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
@@ -46,7 +46,7 @@ Yammer は以下のプランで提供されています。
 > [!NOTE]
 > [Office 365 プラットフォーム サービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md) に記載されている機能とポリシーは、Yammer サービスには適用されません。 
   
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer エンタープライズ サービス コミュニケーション ポリシー
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise service communications policy
 <a name="YammerCommsPolicy"> </a>
 
 Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシー](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)に準拠していますが、更新プログラムをロールアウトする目的で対象のリリースを使用することはありません。 
@@ -59,14 +59,13 @@ Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシ
   
 |||
 |:-----|:-----|
-|**アクションが必要となる変更 (変更の計画)**         管理者にサービスを実行し続けるため変更を加えることが求められる、組織の法令遵守に影響が生じる可能性のある更新  <br/> |Office 365 メッセージ センター Yammer 認証管理者に直接電子メールを送信 Office 365 ロードマップYammer サービス更新情報の外部グループ一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
-|**認知を必要とする変更 (必ず通知)**         管理者のアクションを必要としない変更、視覚的デザインの変更  <br/> |Office 365 メッセージ センター Office 365 ロードマップYammer サービス更新情報の外部グループ一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
-|**重要でない**         一部のユーザーによって識別される可能性はあるものの、重要でない、またはアクションや認知を必要としない変更  <br/> |幅広く通知することはありません |
+|**アクションを必要とする変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があり、組織の法令遵守に影響を与える可能性のある更新を行う必要があります。  <br/> |-Office 365 メッセージセンターの電子メールを Yammer 認証済み管理者に直接送信 <br/>-Office 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
+|**認識を必要とする変更 (情報を入手する)**<br/>管理者による操作を必要としない変更、ビジュアルデザインの変更  <br/> |-Office 365 メッセージセンター<br/>-Office 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
+|**重要でない** <br/>重要でないが、一部のユーザーが見ることができる場合でも、アクションや認識を必要としない変更  <br/> |幅広く通知することはありません |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Yammer の各プランで利用できる機能
-<a name="YammerCommsPolicy"> </a>
 
-組織のニーズに最適な Yammer プランをお探しですか？各プランで利用できる機能を次の表でご確認ください。機能名をクリックすると、Yammerの機能の仕組みについて概要を確認できます。
+組織のニーズに最適な Yammer プランをお探しですか？ 各プランで利用できる機能を次の表でご確認ください。 機能名を選択して、この機能が Yammer でどのように機能するかについての概要を確認します。
   
 |**機能**|**Yammer ベーシック**|**Yammer エンタープライズ**|
 |:-----|:-----|:-----|
@@ -75,15 +74,14 @@ Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシ
 |[アナウンス](group-features-in-yammer.md#announcements) <br/> |いいえ  <br/> |はい  <br/> |
 |[ユーザー プロファイル](profile-features-in-yammer.md#user-profiles) <br/> |はい  <br/> |はい  <br/> |
 |[専門知識](profile-features-in-yammer.md#expertise) <br/> |はい  <br/> |はい  <br/> |
-|[メンバー ディレクトリ](profile-features-in-yammer.md#member-directory) <br/> |はい  <br/> |はい  <br/> |
+|[メンバーディレクトリ](profile-features-in-yammer.md#member-directory) <br/> |はい  <br/> |はい  <br/> |
 |[組織図](profile-features-in-yammer.md#org-chart) <br/> |はい  <br/> |はい  <br/> |
 |[称賛](profile-features-in-yammer.md#praise) <br/> |はい  <br/> |はい  <br/> |
 |[ランキング](profile-features-in-yammer.md#leaderboards) <br/> |はい  <br/> |はい  <br/> |
 |[発行元](message-and-conversation-features-in-yammer.md#publisher) <br/> |はい  <br/> |はい  <br/> |
 |[@Mention](message-and-conversation-features-in-yammer.md#section) <br/> |はい  <br/> |はい  <br/> |
-|[Online Now](message-and-conversation-features-in-yammer.md#online-now) <br/> |はい  <br/> |はい  <br/> |
-|[プライベート メッセージ](message-and-conversation-features-in-yammer.md#private-messages) <br/> |はい  <br/> |はい  <br/> |
-|[会話の共有](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |はい  <br/> |はい  <br/> |
+|[今すぐオンライン](message-and-conversation-features-in-yammer.md#online-now) <br/> |はい  <br/> |はい  <br/> |
+|[プライベートメッセージ](message-and-conversation-features-in-yammer.md#private-messages) <br/> |はい  <br/> |はい  <br/> |
 |[会話の共有](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |はい  <br/> |はい  <br/> |
 |[イベント](message-and-conversation-features-in-yammer.md#events) <br/> |はい  <br/> |はい  <br/> |
 |[投票](message-and-conversation-features-in-yammer.md#polls) <br/> |はい  <br/> |はい  <br/> |
@@ -91,34 +89,32 @@ Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシ
 |[最近の変更](document-collaboration-features-in-yammer.md#recent-changes) <br/> |はい  <br/> |はい  <br/> |
 |[公式コンテンツ](document-collaboration-features-in-yammer.md#official-content) <br/> |いいえ  <br/> |はい  <br/> |
 |[受信トレイ](inbox-features-in-yammer.md#inbox) <br/> |はい  <br/> |はい  <br/> |
-|[受信トレイ検索](inbox-features-in-yammer.md#inbox-search) <br/> |はい  <br/> |はい  <br/> |
+|[受信トレイの検索](inbox-features-in-yammer.md#inbox-search) <br/> |はい  <br/> |はい  <br/> |
 |[フィード](discovery-features-in-yammer.md#feeds) <br/> |はい  <br/> |はい  <br/> |
 |[ティッカー](discovery-features-in-yammer.md#ticker) <br/> |はい  <br/> |はい  <br/> |
 |[トピック](discovery-features-in-yammer.md#topics) <br/> |はい  <br/> |はい  <br/> |
 |[ユニバーサル検索](discovery-features-in-yammer.md#universal-search) <br/> |いいえ  <br/> |はい  <br/> |
 |[即時先行入力](discovery-features-in-yammer.md#instant-type-ahead) <br/> |はい  <br/> |はい  <br/> |
 |[外部ネットワーク](external-network-features-in-yammer.md#external-networks) <br/> |はい  <br/> |はい  <br/> |
-|[高速ネットワーク スイッチ](external-network-features-in-yammer.md#fast-network-switching) <br/> |はい  <br/> |はい  <br/> |
-|[Yammer の接続ログイン](yammer-platform-features.md#yammer-connect-login) <br/> |はい  <br/> |はい  <br/> |
+|[高速ネットワークスイッチング](external-network-features-in-yammer.md#fast-network-switching) <br/> |はい  <br/> |はい  <br/> |
+|[Yammer connect ログイン](yammer-platform-features.md#yammer-connect-login) <br/> |はい  <br/> |はい  <br/> |
 |[埋め込み可能フィード](yammer-platform-features.md#embeddable-feeds) <br/> |はい  <br/> |はい  <br/> |
-|[[いいね！] ボタンと [フォローする] ボタン](yammer-platform-features.md#like-and-follow-buttons) <br/> |はい  <br/> |はい  <br/> |
+|[Like とフォローボタン](yammer-platform-features.md#like-and-follow-buttons) <br/> |はい  <br/> |はい  <br/> |
 |[ブラウザー拡張](yammer-platform-features.md#browser-extension) <br/> |はい  <br/> |はい  <br/> |
-|[アクティビティ ストリーム API](yammer-platform-features.md#activity-stream-api) <br/> |はい  <br/> |はい  <br/> |
-|[カスタム ネットワーク ブランド](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |いいえ  <br/> |はい  <br/> |
+|[アクティビティストリーム API](yammer-platform-features.md#activity-stream-api) <br/> |はい  <br/> |はい  <br/> |
+|[カスタムネットワークブランド](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |いいえ  <br/> |はい  <br/> |
 |[ユーザー管理](administration-and-security-features-in-yammer.md#user-management) <br/> |いいえ  <br/> |はい  <br/> |
-|[単一 ID](administration-and-security-features-in-yammer.md#single-identity) <br/> |はい  <br/> |はい  <br/> |
+|[単一の id](administration-and-security-features-in-yammer.md#single-identity) <br/> |はい  <br/> |はい  <br/> |
 |[ディレクトリ同期](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |いいえ  <br/> |はい  <br/> |
-|[データのエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |いいえ  <br/> |はい  <br/> |
+|[データエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |いいえ  <br/> |はい  <br/> |
 |[キーワード監視](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |いいえ  <br/> |はい  <br/> |
 |[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |いいえ  <br/> |はい  <br/> |
-|[会社のリソース](administration-and-security-features-in-yammer.md#company-resources) <br/> |はい  <br/> |はい  <br/> |
-|[パスワード ポリシー](administration-and-security-features-in-yammer.md#password-policies) <br/> |いいえ  <br/> |はい  <br/> |
-|[セッション管理](administration-and-security-features-in-yammer.md#session-management) <br/> |いいえ  <br/> |はい  <br/> |
+|[組織のリソース](administration-and-security-features-in-yammer.md#organization-resources) <br/> |はい  <br/> |はい  <br/> |
+|[パスワードポリシー](administration-and-security-features-in-yammer.md#password-policies) <br/> |いいえ  <br/> |はい  <br/> |
+|[セッションの管理](administration-and-security-features-in-yammer.md#session-management) <br/> |いいえ  <br/> |はい  <br/> |
 |[論理ファイアウォール](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |いいえ  <br/> |はい  <br/> |
-|[使用ポリシー](administration-and-security-features-in-yammer.md#usage-policy) <br/> |いいえ  <br/> |はい  <br/> |
-|[FastTrack センター](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |いいえ  <br/> |はい  <br/> |
+|[利用状況ポリシー](administration-and-security-features-in-yammer.md#usage-policy) <br/> |いいえ  <br/> |はい  <br/> |
+|[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |いいえ  <br/> |はい  <br/> |
 |[カスタマー サポート](support-features-in-yammer.md#customer-support) <br/> |はい  <br/> |はい  <br/> |
 |[管理者サポート](support-features-in-yammer.md#administrator-support) <br/> |いいえ  <br/> |はい  <br/> |
-|[管理者のプライベート コンテンツ モード](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |いいえ  <br/> |はい  <br/> |
-   
-
+|[管理者プライベートコンテンツモード](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |いいえ  <br/> |はい  <br/> |

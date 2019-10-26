@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
-ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 262f6d17c1fc537244091de8746c7e307463a6d0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582163"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734014"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 
@@ -59,7 +59,7 @@ Skype for Business は、インスタント メッセージング クライア�
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath は、電子フォームの設計、配布、完成、送信を実行できるようにするプログラムです。InfoPath フォーム Web パーツを SharePoint Online サイトに追加することを選択できます。InfoPath フォーム Web パーツの詳細については、「[InfoPath フォーム Web パーツの使用](http://go.microsoft.com/fwlink/p/?LinkId=271687)」を参照してください。
+Microsoft InfoPath は、電子フォームの設計、配布、完成、送信を実行できるようにするプログラムです。InfoPath フォーム Web パーツを SharePoint Online サイトに追加することを選択できます。InfoPath フォーム Web パーツの詳細については、「[InfoPath フォーム Web パーツの使用](https://go.microsoft.com/fwlink/p/?LinkId=271687)」を参照してください。
 
 コードを記述しなくても、InfoPath の後続の PowerApps が SharePoint のビジネス生産性を向上させる方法については、「 [powerapps を使用して sharepoint をカスタマイズ](https://powerapps.microsoft.com/infopath/)する」を参照してください。
   
