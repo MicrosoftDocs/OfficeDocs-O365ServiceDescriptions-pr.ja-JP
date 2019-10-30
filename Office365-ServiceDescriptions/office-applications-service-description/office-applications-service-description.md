@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734024"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765628"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -32,11 +32,10 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 の各プランで利用できる機能
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 次の表では、さまざまな Office 365 プランおよび Microsoft Office 2013 と Office 2016 のボリューム ライセンス版で使用できる機能を比較しています。
   
-いくつかの Office 365 のビジネス プランには、サブスクリプションのために購入可能なアドオンが用意されています。アドオンにより、サブスクリプションに追加機能が提供されます。詳細については、「[一般法人向け Office 365 向けのアドオンを購入または編集する](https://support.office.com/en-us/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」を参照してください。
+いくつかの Office 365 のビジネス プランには、サブスクリプションのために購入可能なアドオンが用意されています。アドオンにより、サブスクリプションに追加機能が提供されます。詳細については、「[一般法人向け Office 365 向けのアドオンを購入または編集する](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」を参照してください。
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -80,7 +79,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |クライアント アプリケーションのオフライン サポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
 |Power Map for Excel  <br/> |<sup>4</sup>なし <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |Power Pivot for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Power Query for Excel  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Power Query for Excel  <br/> |<sup>15</sup>なし  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |Power View for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |ローミング設定  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
@@ -90,7 +89,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|<sup>9</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br> |
    
 > [!NOTE]
-><sup>+</sup>Office 365 または Office 2019 をインストールすると、既定で Windows 10 の OneNote が取得されます。 詳細については、「 [Office 2019 の OneNote に関してよく寄せられる質問](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
+><sup>+</sup>Office 365 または Office 2019 をインストールすると、既定で Windows 10 の OneNote が取得されます。 詳細については、「 [Office 2019 の OneNote に関してよく寄せられる質問](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
 ><sup>++</sup>OneNote アプリは、SharePoint Server、SharePoint Online、OneDrive for Business、および Office 365 上のノートブックへのアクセスを可能にします。 <br/>
 ><sup>+++</sup>BHO support は、Internet Explorer の拡張技術です。 <br/>
 ><sup>1</sup>アーカイブおよびコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online および SharePoint online のプランは含まれておらず、別途購入する必要があります。また、サポートされているオンプレミスサーバーと同等の機能を使用して購入する必要があります。<br/>
@@ -107,8 +106,9 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 <sup>12</sup> Infopath 2013 はまだサポートされており、Office Professional Plus 2016 インストールで提供されていますが、office 2016 には新しいバージョンはありません。<br/> 
 <sup>13</sup>基本的な編集機能についてのみサポートしています。<br/> 
 <sup>14</sup> 10.1 インチ以下の対角線があるデバイスに制限されています。<br/> 
+<sup>15</sup> power query は、ここからダウンロードできる無料のアドインです。 [power Query アドインをダウンロードして](https://www.microsoft.com/download/details.aspx?id=39379)ください。 有効にした場合、Power Query 機能はリボンの [Power Query] タブから使用できます。
+
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 プランの Office for Mac で利用できる Office アプリケーション
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -123,6 +123,6 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> Office 2016 for mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。<br/> 
-<sup>2</sup> App Store から別途ダウンロードして入手できます。 詳細については、「 [OneNote for Mac の紹介](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」をご覧ください。<br/> 
-<sup>3</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。 
+> <sup>1</sup> Office 2016 for mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。<br/>
+<sup>2</sup> App Store から別途ダウンロードして入手できます。 詳細については、「 [OneNote for Mac の紹介](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」をご覧ください。<br/> 
+<sup>3</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。

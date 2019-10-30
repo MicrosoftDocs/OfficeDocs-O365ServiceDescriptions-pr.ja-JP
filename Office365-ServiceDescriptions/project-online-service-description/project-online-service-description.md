@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700249"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765638"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -33,16 +33,13 @@ Microsoft Project は、次のアプリケーションを使用して、プロ�
 
 この記事では、各 Project サブスクリプションで提供されるアプリケーションと、各アプリケーションが提供する機能について説明します。
 
-> [!NOTE]
-> 10月29日に、Project Online Professional と Project Online Premium サブスクリプションの2019がそれぞれ Project プラン3および project プラン5に変更されます。
-
 ### <a name="project-for-the-web"></a>Web のプロジェクト
 
 Web 用 Project は、クラウドベースの作業およびプロジェクト管理のための Microsoft の最新のサービスです。 Web 用 Project は、ほとんどのニーズと役割を満たす、シンプルで強力な作業管理機能を備えています。 プロジェクト管理者とチームメンバーは、web に Project を使用して、任意のサイズの作業を計画し、管理することができます。
 
 Web の Project は、Microsoft 電源プラットフォーム上に構築されています。 電源プラットフォームは、PowerApps、Microsoft Flow、Power BI、および Common Data Service (CD) で構成されます。 Web データの Project は CD に保存されています。 
 
-Web 用の project は、Project Online Professional と Project Online Premium という2つのサブスクリプションで利用できます。 [ [Web 機能] セクションのプロジェクト](#project-for-the-web-features)にリストされている機能は、web データストアのプロジェクト内のデータのみを操作します。
+Web 用のプロジェクトは3つのサブスクリプション (プロジェクトプラン1、プロジェクトプラン3、およびプロジェクト計画 5) から入手できます。 [ [Web 機能] セクションのプロジェクト](#project-for-the-web-features)にリストされている機能は、web データストアのプロジェクト内のデータのみを操作します。
 
 ### <a name="project-online"></a>Project Online
  
@@ -50,9 +47,9 @@ Project Online は、プロジェクトポートフォリオ管理 (PPM) およ�
 
 Project Online は SharePoint プラットフォーム上に構築され、SharePoint データストアにデータを格納します。
 
-Project Online は、Project Online Professional と Project Online Premium という2つのサブスクリプションで利用できます。 [Project online](#project-online-features)の [機能] セクションにリストされている機能は、Project online SharePoint データストア内のデータとのみやり取りを行います。
+Project Online は、「プロジェクトプラン3」と「プロジェクトプラン5」の2つのサブスクリプションから入手できます。 [Project online](#project-online-features)の [機能] セクションにリストされている機能は、Project online SharePoint データストア内のデータとのみやり取りを行います。
 
-Project Online のチームメンバー機能は、 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)サブスクリプションを通じて利用できます。 Project online Essentials は、Project Online Professional または Project Online Premium サブスクリプションをご利用のお客様向けのチームメンバー*アドオン*サブスクリプションです。 これにより、チームメンバーは、Project Online で管理されているプロジェクトに対してタスクと時間の更新を実行する web インターフェイスを提供します。 
+Project Online のチームメンバー機能は、Project Online Essentials サブスクリプションを通じて利用できます。 Project Online Essentials は、プロジェクト計画3またはプロジェクト計画5のサブスクリプションを使用しているお客様向けのチームメンバー *アドオン* サブスクリプションです。 これにより、チームメンバーは、Project Online で管理されているプロジェクトに対してタスクと時間の更新を実行する web インターフェイスを提供します。
 
 Project Online Essentials を使用したチームメンバーは、次の Project Online 機能を実行できます。
 
@@ -65,7 +62,7 @@ Project Online Essentials には、web のプロジェクトは含まれてい�
 
 ### <a name="project-online-desktop-client"></a>Project Online デスクトップクライアント
 
-Microsoft Project Online デスクトップクライアントは、自動スケジュール、プロジェクトリソース管理、および組み込みレポート機能を備えたプロジェクト管理プログラムです。 Project Online デスクトップクライアントは、スタンドアロンアプリケーションとして使用することも、Project Online に接続することもできます。 Project Online デスクトップクライアントは、project Online デスクトップクライアントのサブスクリプションバージョンであり、Project Online Professional および Project Online Premium サブスクリプションで利用できます。
+Microsoft Project Online デスクトップクライアントは、自動スケジュール、プロジェクトリソース管理、および組み込みレポート機能を備えたプロジェクト管理プログラムです。 Project Online デスクトップクライアントは、スタンドアロンアプリケーションとして使用することも、Project Online に接続することもできます。 Project Online デスクトップクライアントは、project Online デスクトップクライアントのサブスクリプションバージョンであり、プロジェクト計画3およびプロジェクト計画5のサブスクリプションで利用できます。
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Project を web および Project Online に一緒に使用する
 
@@ -79,21 +76,21 @@ Web および Project Online の Project は独立したアプリケーション
 
 ## <a name="microsoft-project-subscriptions"></a>Microsoft Project サブスクリプション
 
-Microsoft Project は、組織のニーズを満たすために、2つの異なるサブスクリプションから入手できます。 サブスクリプション間で機能を比較するには、「[アプリケーションとサブスクリプションの機能の可用性](#feature-availability-across-applications-and-subscriptions)」を参照してください。
+Microsoft Project は、組織のニーズを満たすために、3つの異なるサブスクリプションを通じて利用できます。 これらのサブスクリプションは、プロジェクト計画1、プロジェクト計画3、およびプロジェクト計画5です。 サブスクリプション間で機能を比較するには、「[アプリケーションとサブスクリプションの機能の可用性](#feature-availability-across-applications-and-subscriptions)」を参照してください。
 
-|製品 | Project Online Professional | Project Online Premium |
-|--------|-----------------------------|------------------------|
-|Web のプロジェクト |**x x** |**x x**|
-|Project Online |**x x**|**x x x**|
-|Project Online デスクトップクライアント |**x**|**x**|
+|製品 | プラン 1 | プラン3 | プラン5 |
+|--------|-----------------------------|------------------------|------------------------|
+|Web のプロジェクト |**x**  | **x x** | **x x** |
+|Project Online | |**x x**| **x x x** |
+|Project Online デスクトップクライアント | |**x**|**x**|
 
-上記の表で、チェックの数 (**x**) は、プランによって提供される機能の全般レベルを示しています。 たとえば、project online の場合、project online Premium は、Project Online Professional の機能をさらに提供します。
+上記の表で、チェックの数 (**x**) は、プランによって提供される機能の全般レベルを示しています。 たとえば、Project Online の場合は、プラン5がより多くの機能をプラン3で提供します。
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>アプリケーションおよびサブスクリプション間で利用できる機能
 
 ### <a name="project-for-the-web-features"></a>Web 機能のプロジェクト
 
-このセクションに記載されている機能は、web データストアのプロジェクト内のデータのみを操作します。 これらのすべての機能は、Project Online Professional と Project Online Premium の両方で使用できます。
+このセクションに記載されている機能は、web データストアのプロジェクト内のデータのみを操作します。 これらのすべての機能は、「プロジェクトプラン1」、「プロジェクトプラン3」、および「プロジェクトプラン5」のすべての Microsoft Project サブスクリプションで使用できます。
 
 |機能 | 説明 |
 |--------|-------------|
@@ -110,7 +107,7 @@ Microsoft Project は、組織のニーズを満たすために、2つの異な�
 |Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup>|
 |**リソースおよびプログラムの管理**||
 |プロジェクトチームのセットアップ | メンバーを追加または削除して、作業中のカレンダーを設定することにより、プロジェクトチームを管理します。|
-|ロードマップ | Microsoft Project Online、Microsoft Project for web、および Azure ボードプロジェクトから、プロジェクト間でビジュアルな対話型ロードマップを構築します。<sup>2</sup>|
+|ロードマップ | Microsoft Project Online、Microsoft Project for web、および Azure ボードプロジェクトから、プロジェクト間でビジュアルな対話型ロードマップを構築します。<sup>2</sup>プロジェクト計画1では、ロードマップへの読み取り専用アクセス権を取得します。 プロジェクト計画3またはプロジェクト計画5を使用して、ロードマップを作成することもできます。 |
 |**レポート**<sup>3</sup>||
 |すぐにレポートを作成する | 事前に作成されたレポートを使用して、プロジェクト、プログラム、ポートフォリオ、およびリソースデータを理解します。|
 |カスタムレポート | 既定のレポートを基にしてカスタムレポートを作成するか、または最初から組織にとって重要なデータについて理解します。|
@@ -122,7 +119,7 @@ Microsoft Project は、組織のニーズを満たすために、2つの異な�
 |モバイルアプリケーション | PowerApps を使用してカスタムモバイルアプリケーションを構築します。<sup>4</sup> |
 |**カスタマイズと統合**||
 |PowerApps | PowerApps を使用して web およびモバイル用のソリューションを構築して使用します。<sup>4</sup> |
-|ワークフロー | Microsoft Flow を使用してビジネスプロセスを自動化および統合します。<sup>5</sup> |
+|Workflows | Microsoft Flow を使用してビジネスプロセスを自動化および統合します。<sup>5</sup> |
 |Microsoft Office 365 の統合 | 使い慣れた Office 365 ツールとアプリケーションを使用して、共同作業、ドキュメント管理などを行います。<sup>1</sup> |
 |**セキュリティとユーザーの管理**||
 |Office モダングループ | 共同作業を行うためのプロジェクトチームを構築し、チームメンバーが共有するためのリソースのコレクションを簡単にセットアップできるようにします。|
@@ -131,7 +128,7 @@ Microsoft Project は、組織のニーズを満たすために、2つの異な�
 
 このセクションに記載されている機能は、Project Online SharePoint データストア内のデータとのみやり取りします。
 
-|機能 | 説明 | Project Online Professional | Project Online Premium |
+|機能 | 説明 | プロジェクト計画3 | プロジェクト計画5 |
 |--------|-------------|-----------------------------|------------------------|
 |**プロジェクト、タスク、および時間の管理**||||
 |通知と事前通知 | Outlook および Microsoft Teams のアラームを使用して、今後の重要なタスクとプロジェクトイベントのスケジュールを維持します。<sup>1</sup>| はい | はい |
@@ -155,7 +152,7 @@ Microsoft Project は、組織のニーズを満たすために、2つの異な�
 |タイムシートの承認 | チームメンバーは、承認のためにタイムシートを提出できます。 リソースマネージャーおよびスーパーバイザーは、提出されたタイムシートをレビュー、承認、辞退することができます。 | はい | はい |
 |非稼働時間のセットアップ | 休日、祝日、医療休暇、その他の非稼働時間を自分のプロジェクト スケジュールに追加します。 | いいえ | はい |
 |**コラボレーション** ||||
-|Attachments | チーム、プロジェクト、またはタスクレベルでドキュメント、画像、およびその他のファイルを添付します。 これらの添付ファイルは、チームレベルまたはプロジェクトレベルの中央ライブラリで管理します。 | はい | はい |
+|添付ファイル | チーム、プロジェクト、またはタスクレベルでドキュメント、画像、およびその他のファイルを添付します。 これらの添付ファイルは、チームレベルまたはプロジェクトレベルの中央ライブラリで管理します。 | はい | はい |
 |外部チームメンバー |プロジェクト、タスク、ドキュメントを表示して操作するためのアクセス許可を付与することにより、組織外のユーザーと共同作業を行います。<sup>6</sup> | はい | はい |
 |プロジェクト サイト | プロジェクトのグループ作業とドキュメントのハブを作成およびカスタマイズします。 | はい | はい |
 Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup> | はい | はい |
@@ -183,7 +180,7 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 |Custom fields | プロジェクト、タスク、およびリソースレベルでユーザー設定フィールドを追加して、組織やプロジェクトにとって重要なデータを追跡します。 | はい | はい |
 |式 | タスクやプロジェクト間で数式を使用して、重要なデータを計算して取得します。 | はい | はい |
 |PowerApps | PowerApps を使用して web とモバイル (OData を介して) のソリューションを構築して使用します。<sup>4</sup> | はい | はい |
-|ワークフロー | Microsoft Flow を使用して、(OData を介して) ビジネスプロセスを自動化および統合します。<sup>5</sup> | はい | はい |
+|Workflows | Microsoft Flow を使用して、(OData を介して) ビジネスプロセスを自動化および統合します。<sup>5</sup> | はい | はい |
 |Microsoft Office 365 の統合 | 使い慣れた Office 365 ツールとアプリケーションを使用して、共同作業、ドキュメント管理などを行います。<sup>1</sup> | はい | はい |
 |Microsoft Planner の統合 | プロジェクトタスクを Planner プランに接続し、プランナーで詳細な作業を追跡します。<sup>1</sup> | はい | はい |
 |**セキュリティ、ユーザー、およびサービスの管理**||||
@@ -196,11 +193,11 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 <sup>1</sup> Office または Microsoft 365 商用サブスクリプションが必要です。</br>
 <sup>2</sup>個別に購入した Azure ボード。</br>
 <sup>3</sup> Web 用プロジェクトおよび project Online のレポートは、Power BI を使用して行うことができます。 レポートを表示、編集、および作成するには、Power BI Pro サブスクリプションが必要です。 Microsoft は、あらかじめ組み込まれている Power BI レポートのセットを提供しています。 ユーザーは、Power BI を使用してこれらのレポートをカスタマイズしたり、追加のレポートを作成したりできます。</br> 
-<sup>4</sup> web データの project にアクセスするカスタムの PowerApps モバイルアプリケーションを作成するには、PowerApps サブスクリプションと、Project online Professional または Project online Premium サブスクリプションが必要です。</br>
-<sup>5</sup> web データの Project で microsoft flow を使用してビジネスプロセスを自動化および統合するには、microsoft flow サブスクリプションと Project online Professional または Project online Premium サブスクリプションが必要です。</br>
-<sup>6</sup>外部ユーザー用の Project Online ライセンスは、内部ユーザーの場合と同じポリシーに従います。 Project Online サイトで対話を行うには、Project Online のサブスクリプションが必要です。</br>
-<sup>7</sup> Project Online Professional サブスクリプションを使用しているユーザーは、リソース契約要求を送信できます。 リソース契約要求をレビュー、履行、または承認することはできません。</br>
-<sup>8</sup> Project Online Premium サブスクリプションを使用するユーザーは、リソース契約要求をレビュー、履行、承認できます。</br>
+<sup>4</sup> web データのプロジェクトにアクセスするカスタムの PowerApps モバイルアプリケーションを作成するには、PowerApps サブスクリプションとプロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
+<sup>5</sup> web データの Project で microsoft flow を使用してビジネスプロセスを自動化および統合するには、microsoft flow サブスクリプションとプロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
+<sup>6</sup>外部ユーザー用の Project Online ライセンスは、内部ユーザーの場合と同じポリシーに従います。 Project Online サイトで操作する場合は、プロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
+<sup>7</sup>プロジェクト計画3またはプロジェクト計画5のサブスクリプションを持つユーザーは、リソース契約要求を送信できます。 リソース契約要求をレビュー、履行、または承認することはできません。</br>
+<sup>8</sup>プロジェクト計画5のサブスクリプションを使用するユーザーは、リソース契約要求の確認、履行、承認を行うことができます。</br>
 <sup>9</sup> Active Directory では、別のサブスクリプションが必要です。 </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online デスクトップクライアントの機能
@@ -252,13 +249,14 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 
 ### <a name="licensing-considerations"></a>ライセンスに関する考慮事項
 
-- Project Online サイトで対話を行うには、Project Online のサブスクリプションが必要です。
-- 前回の Project Online Professional または Project Online Premium サブスクリプションの有効期限が切れると、web および Project Online インスタンスのプロジェクトは、120日後に削除されます。
+- Project Online サイトで操作する場合は、プロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。
+- 前回のプロジェクト計画1、プロジェクト計画3、またはプロジェクト計画5のサブスクリプションの有効期限が切れると、web インスタンスのプロジェクトは120日後に削除されます。
+- 前回のプロジェクト計画3またはプロジェクト計画5のサブスクリプションの有効期限が切れた場合、Project Online インスタンスは120日後に削除されます。
 - Project for web および Project Online の試用版サブスクリプションの場合、試用期間が終了してから30日後に試用版のインスタンスが削除されます。
 
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online の使用
 
-Project Online では、Project Online の一部として準備されている SharePoint Online を使用する必要があります。 Project Online Professional または Premium で提供される SharePoint Online の機能に対する権限は、Project Online をサポートするためのデータの格納とアクセスに制限されます。
+Project Online では、Project Online の一部として準備されている SharePoint Online を使用する必要があります。 Project プラン3または project プラン5のサブスクリプションで提供される SharePoint Online の機能に対する権限は、Project Online をサポートするためのデータの格納とアクセスに制限されます。
 
 ### <a name="project-roadmap-and-microsoft-flow"></a>プロジェクトロードマップと Microsoft Flow
 
