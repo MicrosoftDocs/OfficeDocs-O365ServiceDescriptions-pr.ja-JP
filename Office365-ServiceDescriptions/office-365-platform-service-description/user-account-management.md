@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
+ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631656"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890056"
 ---
 # <a name="user-account-management"></a>ユーザー アカウント管理
 
@@ -64,9 +64,9 @@ Office 365 におけるドメインの詳細については、「[ドメイン](
 
 SharePoint Online で作成される匿名アクセス用のインターネット サイトの例外として、Office 365 サービスにアクセスする場合、ユーザーは認証を受ける必要があります。 
   
-- **先進認証**: 先進認証によって、各種プラットフォームにおける Office クライアント アプリへの Active Directory 認証ライブラリ (ADAL) ベースのサインインを行えます。これにより、多要素認証 (MFA) によるサインイン、SAML ベースのサードパーティ製 ID プロバイダーから Office クライアント アプリケーションへのサインイン、スマート カードや証明書をベースとする認証機能を使用したサインインなどが可能になります。また、Microsoft Outlook を使用していなくても基本認証プロトコルを使用できるようになります。Office アプリケーション間における先進認証の可用性を含む詳細については、「[Office 2013 および Office 2016 クライアント アプリにおける先進認証のしくみ](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)」および「[Office クライアントで Office 365 先進認証を使用する](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)」をご覧ください。
+- **先進認証**: 先進認証によって、各種プラットフォームにおける Office クライアント アプリへの Active Directory 認証ライブラリ (ADAL) ベースのサインインを行えます。 これにより、多要素認証 (MFA) によるサインイン、SAML ベースのサードパーティ製 ID プロバイダーから Office クライアント アプリケーションへのサインイン、スマート カードや証明書をベースとする認証機能を使用したサインインなどが可能になります。 また、Microsoft Outlook を使用していなくても基本認証プロトコルを使用できるようになります。 Office アプリケーション間での先進認証の可用性を含む詳細については、「 [office 2013 および office 2016 クライアントアプリでの先進認証のしくみ](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)」を参照してください。
     
-    Exchange Online に対しては、先進認証は既定で無効です。有効にする方法については、「[Exchange Online で先進認証を有効にする](https://docs.microsoft.com/Exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)」をご覧ください。
+    モダン認証は、Exchange Online では既定でオンになっています。 この機能をオンまたはオフにする方法については、「 [Exchange Online で先進認証を有効](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)にする」を参照してください。
     
 - **クラウド ID の認証** クラウド ID を持つユーザーは、従来のチャレンジ / レスポンスを使用して認証されます。Web ブラウザーは Office 365 サインイン サービスにリダイレクトされるため、職場または学生アカウント用のユーザー名とパワードを入力します。サインイン サービスは、ユーザーの資格情報を認証し、サービス トークンを生成します。Web ブラウザーは、このサービス トークンを要求されたサービスに表示して、ユーザーを登録します。 
     
