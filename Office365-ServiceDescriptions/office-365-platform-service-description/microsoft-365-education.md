@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: a10f8c563481b00b76fceec7499a3bf01a7006a3
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595255"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890403"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -106,7 +106,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 > <sup>8</sup> Intune が含まれます。 <br/>
 > <sup>9</sup>サーバーと cal は、Exchange、SharePoint、および Skype for business に含まれています。 <br/>
 > <sup>10</sup> ecal または Core CAL (購入される A3 のバージョンによって異なります)。 A5 には、ecal 権限が含まれています。 <br/>
-> <sup>11</sup> Azure active directory の詳細については、「 [active directory とは](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)」を参照してください。 <br/>
+> <sup>11</sup> Azure active directory の詳細については、「 [active directory とは](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)」を参照してください。 <br/>
 > <sup>12</sup> Office Pro Plus を適用して、保護された電子メールを Outlook デスクトップから送信する必要があります。 
   
 

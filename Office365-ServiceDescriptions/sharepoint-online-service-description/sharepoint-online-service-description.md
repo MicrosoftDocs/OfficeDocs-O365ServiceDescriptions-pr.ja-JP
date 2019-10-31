@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。
-ms.openlocfilehash: ec12aa14160415cc2de93742d05e7b80bcb3fa01
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726169"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890413"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
@@ -254,5 +254,5 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 <sup>16</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 <br/>
 <sup>17</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
 <sup>18</sup> f1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 <br/>
-<sup>19</sup>ユーザーキーは Office 365 Enterprise E5 で利用できます。 顧客キーを使用すると、組織の暗号化キーを制御し、Office 365 を構成して、Microsoft のデータセンターで保存されているデータを暗号化することができます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
+<sup>19</sup>ユーザーキーは Office 365 Enterprise E5 で利用できます。 顧客キーを使用すると、組織の暗号化キーを制御し、Office 365 を構成して、Microsoft のデータセンターで保存されているデータを暗号化することができます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
 <sup>20</sup>は近日中に予定されています。 

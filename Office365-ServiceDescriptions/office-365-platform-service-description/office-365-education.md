@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、microsoft の次世代コミュニケーションおよびコラボレーションサービス&mdash;(Microsoft Exchange Online、Microsoft SharePoint Online、office を含む) のクラウドベースの microsoft office デスクトップスイートを統合しています。web および Microsoft Skype for Business Online&mdash;を使用すると、ユーザーはインターネットを介して実質的に生産性を向上させることができます。
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595275"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890443"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -140,7 +140,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -191,7 +191,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 Security &amp; Compliance Center features
 
-The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb) is designed to help you manage compliance features across Office 365 for your organization. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) is designed to help you manage compliance features across Office 365 for your organization. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -199,14 +199,14 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Advanced Security Management](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)(メールフィルタリング、マルウェア対策など)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)(フィッシングキャンペーン用の脅威エクスプローラーなど) <sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|[高度な脅威の管理](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)(フィッシングキャンペーン用の脅威エクスプローラーなど) <sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示のケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -585,7 +585,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 #### <a name="message-limits"></a>メッセージの制限
 
-- **メッセージのサイズ制限** サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。
+- **メッセージのサイズ制限** サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。
     
    > [!NOTE]
     > 電子メール クライアントによっては、メッセージ サイズの制限が低くなるか、個々の添付ファイルのサイズが Exchange Online のメッセージ サイズ制限より小さい値に制限される場合があります。 
@@ -621,7 +621,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。<br/> 
+> <sup>1</sup> Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。<br/> 
 <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> 
 <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> 
 <sup>4</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 この制限は、サポート対象の Exchange メールボックス レプリケーション サービスを使用する、移動ベースの移行に適用されます。 その他の移行方法 (一括、段階的な IMAP、PST) およびその他のサード パーティ製ツールは、一般的なメッセージ サイズの制限を受けます。 <br/> 
@@ -829,7 +829,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |[アプリカタログ (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アプリの展開: クラウドでホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アプリの展開: SharePoint でホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[アプリ管理サービス](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |BCS: 外部リストのアラート <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[BCS: アプリを対象範囲とする外部コンテンツタイプ (Ect)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[BCS: ビジネスデータ Web パーツ](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -951,7 +951,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |WCM: モバイルとデバイスのレンダリング <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |WCM: 複数のドメイン <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |WCM: Recommendations <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[WCM:検索エンジン最適化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[WCM: 検索エンジンの最適化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**Insights 機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[ビジネス インテリジェンス センター](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -1011,7 +1011,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |ハイブリッド OneDrive for Business とサイト  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[大規模なリストのスケーラビリティと管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[モバイル接続](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |
-|[多言語ユーザーインターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
+|[多言語ユーザーインターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
 |My Tasks <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[OOTB web パーツ](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[アクセス許可の管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1046,7 +1046,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |個人用サイト <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |写真とプレゼンス <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |プロファイル <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|評価 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Ratings <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |共有アイテム <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1210,7 +1210,7 @@ OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使�
 |クライアントバージョンコントロール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |IM コンテンツのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |会議コンテンツのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|アプリケーション共有とデスクトップ共有のアーカイブ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アプリケーション共有とデスクトップ共有のアーカイブ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
 |ユーザーレベルのアーカイブ構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ログイントレースファイル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
