@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734115"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911710"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 
@@ -55,7 +55,7 @@ Microsoft PowerApps は、各デバイスで動作するアプリをすばやく
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub は、スタッフとマネージャーが自分のモバイル デバイスを使用して、スケジュールを管理し、コミュニケーションを取ることを可能にするクラウドベースのアプリケーションです。従業員は StaffHub を使用して休暇を申請したり、シフトを交代したり、他の従業員と連絡をとったりすることができます。従業員はまた、お互いに直接に、あるいはチーム全体に対してメッセージを送信できます。マネージャーは StaffHub を使用してメッセージを送信したり、スケジュールを作成したり、チームのニュースや会社のお知らせを送信したりすることができます。StaffHub の詳細については、Microsoft の[StaffHub の Web サイト](https://staffhub.office.com/) および [Office 365 チームのブログ](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/)を参照してください。
+Microsoft StaffHub は、スタッフとマネージャーが自分のモバイル デバイスを使用して、スケジュールを管理し、コミュニケーションを取ることを可能にするクラウドベースのアプリケーションです。従業員は StaffHub を使用して休暇を申請したり、シフトを交代したり、他の従業員と連絡をとったりすることができます。従業員はまた、お互いに直接に、あるいはチーム全体に対してメッセージを送信できます。マネージャーは StaffHub を使用してメッセージを送信したり、スケジュールを作成したり、チームのニュースや会社のお知らせを送信したりすることができます。StaffHub の詳細については、Microsoft の[StaffHub の Web サイト](https://staffhub.office.com/) および [Office 365 チームのブログ](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)を参照してください。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Office 365 のグループは、協力してもっと成果をあげるために
   
 ## <a name="office-365-video"></a>Office 365 ビデオ
 
-Office 365 ビデオは、さまざまなデバイスでビデオをアップロード、共有、探索できる、セキュリティ保護された全社的な宛先として機能します。これは Microsoft Azure Media Services を利用しています。閲覧者は常時 Office 365 ビデオに参加して最新情報が得られ、こうして幅広いアイデア交換や、組織の調和が促進されます。詳細については、「[Office 365 のビデオの紹介](https://blogs.office.com/2014/11/18/introducing-office-365-video/)」を参照してください。
+Office 365 ビデオは、さまざまなデバイスでビデオをアップロード、共有、探索できる、セキュリティ保護された全社的な宛先として機能します。これは Microsoft Azure Media Services を利用しています。閲覧者は常時 Office 365 ビデオに参加して最新情報が得られ、こうして幅広いアイデア交換や、組織の調和が促進されます。詳細については、「[Office 365 のビデオの紹介](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)」を参照してください。
   
 ## <a name="onenote-class-notebook"></a>OneNote Class Notebook
 

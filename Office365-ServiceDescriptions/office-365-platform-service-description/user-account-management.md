@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
-ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
+ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890056"
+ms.locfileid: "37911796"
 ---
 # <a name="user-account-management"></a>ユーザー アカウント管理
 
@@ -184,7 +184,7 @@ Office 365 Enterprise は、ロールベースのアクセス制御 (RBAC) モ�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory サービス
 
-Azure Active Directory (AD) は、Office 365 に対して包括的な ID およびアクセス管理の機能を提供します。開発者のために、ディレクトリ サービス、高度な ID ガバナンス、アプリケーション アクセス管理、機能豊富な標準ベースのプラットフォームを組み合わせています。Office 365 における AD 機能について詳しくは、「[サインイン ページのブランド化とクラウド ユーザーのセルフサービスによるパスワードのリセット](https://blogs.office.com/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)」をご覧ください。[Azure Active Directory のエディション](https://msdn.microsoft.com/library/azure/dn532272.aspx)の詳細をご確認ください。 
+Azure Active Directory (AD) は、Office 365 に対して包括的な ID およびアクセス管理の機能を提供します。開発者のために、ディレクトリ サービス、高度な ID ガバナンス、アプリケーション アクセス管理、機能豊富な標準ベースのプラットフォームを組み合わせています。Office 365 における AD 機能について詳しくは、「[サインイン ページのブランド化とクラウド ユーザーのセルフサービスによるパスワードのリセット](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)」をご覧ください。[Azure Active Directory のエディション](https://msdn.microsoft.com/library/azure/dn532272.aspx)の詳細をご確認ください。 
   
 ## <a name="feature-availability"></a>機能の可用性
 

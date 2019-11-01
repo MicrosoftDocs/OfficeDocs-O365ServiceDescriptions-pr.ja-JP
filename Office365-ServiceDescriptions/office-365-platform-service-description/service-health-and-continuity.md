@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734054"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911799"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -79,7 +79,7 @@ Office 365 テナント管理者向けの管理アプリには、外出先で組
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 用 Office 365 管理パック
 
-Microsoft System Center は、データセンター、クライアントデバイス、ハイブリッドクラウド IT 環境の管理に役立つ統合された管理プラットフォームです。 Office 365 System Center を使用している管理者は、Office 365 管理パックをインポートすることができます。これにより、System Center の Operations Manager 内のすべてのサービス通信が表示されます。 このツールを使用すると、加入しているサービス、アクティブおよび解決済みのサービスインシデント、およびメッセージセンター通信の状態にアクセスできます。 詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+Microsoft System Center は、データセンター、クライアントデバイス、ハイブリッドクラウド IT 環境の管理に役立つ統合された管理プラットフォームです。 Office 365 System Center を使用している管理者は、Office 365 管理パックをインポートすることができます。これにより、System Center の Operations Manager 内のすべてのサービス通信が表示されます。 このツールを使用すると、加入しているサービス、アクティブおよび解決済みのサービスインシデント、およびメッセージセンター通信の状態にアクセスできます。 詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 サービス通信 API
 
@@ -91,7 +91,7 @@ Office 365 サービス通信 API を使用すると、必要な方法で Office
     
 - 計画済みメンテナンスの通知
     
-詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
   
 ## <a name="post-incident-reviews"></a>インシデントの事後レビュー
 

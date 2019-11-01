@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。 これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734205"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911720"
 ---
 # <a name="recipients"></a>受信者
 
@@ -58,7 +58,7 @@ Exchange Online では、ユーザーが、メッセージの到着時に特定�
   
 ### <a name="clutter"></a>クラッター機能
 
-クラッター機能は、受信トレイにある最も重要なメッセージに集中できるように設計されています。機会学習を使用すると、優先度の低いメッセージを新しいクラッター フォルダーに移すことにより受信トレイを整理します。クラッター機能は既存の電子メール ルールを尊重するため、メールを整理するルールを作成している場合には継続して適用され、該当するメッセージをクラッターが処理することはありません。クラッター機能は、既定で受信トレイには無効です。詳細については、「[Office 365 での受信トレイを整理する]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/)」を参照してください。
+クラッター機能は、受信トレイにある最も重要なメッセージに集中できるように設計されています。機会学習を使用すると、優先度の低いメッセージを新しいクラッター フォルダーに移すことにより受信トレイを整理します。クラッター機能は既存の電子メール ルールを尊重するため、メールを整理するルールを作成している場合には継続して適用され、該当するメッセージをクラッターが処理することはありません。クラッター機能は、既定で受信トレイには無効です。詳細については、「[Office 365 での受信トレイを整理する](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)」を参照してください。
   
 ### <a name="connected-accounts"></a>接続されているアカウント
 

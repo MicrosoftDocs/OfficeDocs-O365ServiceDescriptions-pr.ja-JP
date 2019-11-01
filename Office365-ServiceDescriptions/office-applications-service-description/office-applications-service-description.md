@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765628"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911820"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -124,5 +124,5 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > <sup>1</sup> Office 2016 for mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。<br/>
-<sup>2</sup> App Store から別途ダウンロードして入手できます。 詳細については、「 [OneNote for Mac の紹介](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」をご覧ください。<br/> 
+<sup>2</sup> App Store から別途ダウンロードして入手できます。 詳細については、「 [OneNote for Mac の紹介](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」をご覧ください。<br/> 
 <sup>3</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。

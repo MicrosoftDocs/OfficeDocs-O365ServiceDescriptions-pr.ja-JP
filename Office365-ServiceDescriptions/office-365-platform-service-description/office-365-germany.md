@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734265"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911810"
 ---
 # <a name="office-365-germany"></a>Office 365 ドイツ
 
@@ -143,7 +143,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |使用されるブラウザー|はい|はい|はい|はい|はい|はい|はい|はい|
 |使用されるオペレーティング システム|はい|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[サービス更新](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[サービスの更新](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|はい|はい|はい|はい|
 |アクションが必要な場合にメッセージ センターに通知を送信|はい|はい|はい|はい|はい|はい|はい|はい|
 |一部のサービス更新の Roadmap.office.com|はい|--|はい|はい|はい|はい|はい|はい|
@@ -381,7 +381,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
 |検疫 - エンドユーザーによる自己管理|はい|はい|はい|はい|はい|はい|はい|はい|
 |Advanced Threat Protection|いいえ|--|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|**[メール フロー](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[メールフロー](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |送信メールのカスタムルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|
 |Conditional mail routing|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -765,7 +765,7 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |個人用サイト|はい|はい|はい|はい|
 |写真とプレゼンス|はい|はい|はい|はい|
 |プロファイル|はい|はい|はい|はい|
-|評価|はい|はい|はい|はい|
+|Ratings|はい|はい|はい|はい|
 |Shared with Me|はい|はい|はい|はい|
 |[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|いいえ|いいえ|はい|はい|
 |OneDrive for Business|はい|はい|はい|はい|
@@ -786,7 +786,7 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 
 ## <a name="project-online-features"></a>Project Online の機能
 
-次の表は、Office 365 Germany プラン全体で利用可能な Project Online 機能のリストです。Project Online の詳細については、「[Project Online の使用を開始する](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)」を参照してください。
+次の表は、Office 365 Germany プラン全体で利用可能な Project Online 機能のリストです。Project Online の詳細については、「[Project Online の使用を開始する](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)」を参照してください。
 
 ||||
 |:-----|:-----|:-----|
@@ -1025,7 +1025,7 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |個人用サイト|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |写真とプレゼンス|はい|はい|はい|はい|はい|はい|はい|はい|
 |プロファイル|はい|はい|はい|はい|はい|はい|はい|はい|
-|評価|はい|はい|はい|はい|はい|はい|はい|はい|
+|Ratings|はい|はい|はい|はい|はい|はい|はい|はい|
 |Shared with Me|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|はい<sup>2</sup>|
