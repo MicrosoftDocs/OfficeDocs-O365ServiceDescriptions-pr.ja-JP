@@ -108,7 +108,9 @@
 ### [Yammer のサポート機能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 サービスの説明
 ### [Microsoft 365 企業向け音声サービスの説明](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+
+### [中小規模ビジネスに Microsoft 365 のライセンスを付与する](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
 ### [Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
 
