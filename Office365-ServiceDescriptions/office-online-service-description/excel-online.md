@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637254"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020264"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -150,7 +150,7 @@ OneDrive.com に Excel ブックを保存すると、ブログや Web サイト�
   
 ## <a name="find"></a>検索
 
-作業中のワークシートでセルの内容を検索します。使いやすいダイアログ ボックスを使用して、ワークシートの現在の選択範囲を上方向または下方向に検索できます。
+作業中のワークシートでセルの内容を検索します。 使いやすいダイアログボックスを使用すると、ワークシートの現在の選択範囲を上方向または下方向に検索することができます。 検索用語の**すべて**のインスタンスを強調表示することができます。
   
 ## <a name="font-and-cell-formatting"></a>フォントおよびセルの書式設定
 
