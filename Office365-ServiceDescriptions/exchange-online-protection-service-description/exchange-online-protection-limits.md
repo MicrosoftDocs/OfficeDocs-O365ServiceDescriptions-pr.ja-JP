@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581470"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289777"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
@@ -54,7 +54,7 @@ ms.locfileid: "37581470"
 |差出人セーフ リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
 |ポリシーあたりの受信拒否リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
 |IP 許可一覧または IP 禁止一覧の制限  <br/> |1,273 エントリ  <br/> |1,273 エントリ  <br/> |1,273 エントリ  <br/> |
-|保留状態のメッセージの制限  <br/> |2 日間、15 分ごとに再試行  <br/> |2 日間、15 分ごとに再試行  <br/> |2 日間、15 分ごとに再試行  <br/> |
+|保留状態のメッセージの制限  <br/> |1日、15分ごとに再試行  <br/> |1日、15分ごとに再試行  <br/> |1日、15分ごとに再試行  <br/> |
 |スパム検疫の保存期間  <br/> |既定では30日間ですが、下げることができます  <br/> |既定では30日間ですが、下げることができます  <br/> |既定では30日間ですが、下げることができます  <br/> |
 |エンドユーザー スパム検疫通知  <br/> |既定では 3 日、1 ～ 15 日に構成可能です  <br/> |既定では 3 日、1 ～ 15 日に構成可能です  <br/> |既定では 3 日、1 ～ 15 日に構成可能です  <br/> |
    
