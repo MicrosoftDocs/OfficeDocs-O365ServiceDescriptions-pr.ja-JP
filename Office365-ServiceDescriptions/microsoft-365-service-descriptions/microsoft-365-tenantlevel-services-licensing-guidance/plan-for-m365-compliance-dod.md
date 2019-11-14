@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進している IT 担当者、または政府の規制と要件に従うデータを処理するその他のエンティティに対して、Microsoft 365 Government – DoD を使用することが適切である IT 担当者を対象としています。これらの要件を満たしていること。
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890508"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319485"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンス-DoD 展開の計画
 
@@ -59,15 +58,15 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 
 **判断ポイント**:*既定の Microsoft 365 Government セキュリティ設定を変更するかどうかを決定し、最初に変更が加えられた場合の影響を理解するようにします。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>手順 4.  Microsoft 365 Government – DoD で現在利用できない機能、または既定で無効になっている機能について理解する
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>手順 4.  Microsoft 365 Government – DoD<sup>1</sup>で現在利用できない機能、または既定で無効になっている機能について理解する
 
 政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズのプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。
 
 
 |         |機能  |DoD 状態  |
 |---------|---------|---------|
-|**情報保護 & ガバナンス** | アーカイブ                                      |  Available             |
-|                                        |手動によるラベルとポリシー                      |  Available             |
+|**情報保護 & ガバナンス** |アーカイブ                                       |  Available             |
+|                                        |手動によるラベルとポリシー<sup>2</sup>          |  Available             |
 |                                        |ラベルの自動適用                      | エンジニアリングバックログの場合 |
 |                                        |機密データ型に基づくラベル            | エンジニアリングバックログの場合 |
 |                                        |クエリに基づくラベルと関連付けられたポリシー | エンジニアリングバックログの場合 |
@@ -80,7 +79,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                        |ファイルと電子メールのデータ損失防止 (DLP)  | Available              |
 |                                        |Teams チャットおよびチャネル会話の DLP    | エンジニアリングバックログの場合 |
 |**Insider リスク管理**             |高度なメッセージ暗号化                     | Available              |
-|                                        |通信のコンプライアンス                        | エンジニアリングバックログの場合 |
+|                                        |通信コンプライアンス                        | エンジニアリングバックログの場合 |
 |                                        |顧客ロックボックス                                | Available              |
 |                                        |カスタマー キー                                    | Available              |
 |                                        |特権アクセスの管理                    | エンジニアリングバックログの場合 |
@@ -99,12 +98,16 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                        |タグ                                         | エンジニアリングバックログの場合 |
 |                                        |表示者                                         | エンジニアリングバックログの場合 |
 |                                        |Redactions                                      | エンジニアリングバックログの場合 |
-|                                        |フィルター                                       | エンジニアリングバックログの場合 |
+|                                        |フィルター処理                                       | エンジニアリングバックログの場合 |
 |                                        |保管担当者からワークロードへのマッピング                   | エンジニアリングバックログの場合 |
 |                                        |保管担当者通信                        | エンジニアリングバックログの場合 |
 |                                        |チェックセット                                     | エンジニアリングバックログの場合 |
 |                                        |レビューと注釈                             | エンジニアリングバックログの場合 |
 |                                        |Office 以外の365の取り込み                        | エンジニアリングバックログの場合 |
 |                                        |検索用語レポート                              | エンジニアリングバックログの場合 |
+
+<sup>1</sup>特定された状態は、プロジェクト計画と優先度を再評価する際に変更される可能性があります。<br/>
+<sup>2</sup>ラベルを手動でアプリケーションに適用するには、 [Azure INFORMATION Protection (AIP) クライアントバージョン 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)が必要です。
+
 
 **判断ポイント**:*コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
