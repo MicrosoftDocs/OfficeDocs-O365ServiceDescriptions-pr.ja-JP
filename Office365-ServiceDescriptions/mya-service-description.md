@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics の機能、配布、プライバシー、および前提条件
-ms.openlocfilehash: e557c1043579bf38fa3504686551e76609d211b9
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: ceb62bdbfe71ba9a9871194d6135ad8021723a2f
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998479"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724705"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics サービスの説明
 
@@ -45,7 +45,7 @@ MyAnalytics は次の要素で構成されています。
 * MyAnalytics と Delve は、依存関係がない別のアプリケーションです。
 * MyAnalytics は、各人に自分のデータがプライベートなものであり保護されていることを通知します。
 
-詳細については、「[MyAnalytics プライバシー ガイド](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)」を参照してください。
+詳細については、「 [Myanalytics のプライバシーガイド](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)」を参照してください。
 
 [MyAnalytics がより効率的に作業するために役立つ方法について説明](https://products.office.com/business/myanalytics-personal-analytics)します。
 

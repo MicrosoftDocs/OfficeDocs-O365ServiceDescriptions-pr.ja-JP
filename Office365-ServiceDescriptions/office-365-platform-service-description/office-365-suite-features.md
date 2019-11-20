@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911710"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724735"
 ---
 # <a name="office-365-suite-features"></a>Office 365 スイート機能
 
@@ -28,7 +28,17 @@ ms.locfileid: "37911710"
 Microsoft Bookings は、予約ベースで顧客にサービスを提供する小規模企業向けのオンラインのモバイル アプリです。たとえば、美容室、歯科医院、保養所、法律事務所、金融商品取引業者、コンサルタント、自動車販売店などの企業が含まれます。Microsoft Bookings は、Office 365 Business Premium サブスクリプションを持つ米国とカナダのユーザーが利用できます。 
   
 Microsoft Bookings の詳細については、「[Microsoft Bookings の概要](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
-  
+
+## <a name="microsoft-briefing-email"></a>Microsoft ブリーフィング電子メール
+
+ブリーフィングメールは、ユーザーが次のことを支援することによって、各日を最大限に活用するのに役立ちます。
+
+* 関連するタスクまたは関連するドキュメントを表示することにより、会議を準備します。
+* 保留中の可能性がある電子メールから特定されたタスクを管理します。
+* 予定表に時間を記帳し、通知をミュートすることによって、フォーカス時間を最大限にします。
+
+ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「[ブリーフィングメールの概要](https://docs.microsoft.com/Briefing/be-overview)」を参照してください。
+
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
 Microsoft Flow を使用すれば、アプリケーション間でのワークフローを自動化できます。Flow を使用して、電子メールと IM のアラートを接続したり、アプリケーション間でファイルを同期したり、1 つのサービスから別のサービスにファイルをコピーしたり、1 つのアプリから収集したデータを別のアプリに格納したりできます。開始するためのテンプレートを利用できます。Flow の機能とその使用方法に関する詳細は、Microsoft の[Flow の Web サイト](https://flow.microsoft.com/en-us/)を参照してください。
@@ -87,7 +97,7 @@ Class Notebook は OneNote の一部となっていて、Office 365 Education �
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリであり、Microsoft 365 に固有の機能を提供し、契約社員、ベンダーなど、組織のディレクトリの内部と外部の両方のユーザーに接続して参加することができます。パートナー、納入業者、顧客、および市民: 大規模で[柔軟なグループの種類](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)を使用します。 Kaizala のオープンディレクトリモデルを使用すると、簡単にオンボードするための電話番号ベースの id と、メッセージングおよび作業管理のための簡単なユーザー操作を行うことができます。 Kaizala モバイルアプリを使用すると、ユーザーはインスタントメッセージと添付ファイル (画像、ドキュメント、ビデオ、audios など) を送信したり、アンケート、投票、ジョブ割り当て、アナウンス、トレーニングなどのアクションカードを使用したりすることができます。 [Kaizala は Office 365 で利用でき](https://products.office.com/en/business/microsoft-kaizala)、IPhone と Android でも動作します。 詳細については、 [Kaizala web サイト](https://products.office.com/en/business/microsoft-kaizala)を参照してください。 
+Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリであり、Microsoft 365 に固有の機能を提供します。これには、契約者、ベンダー、パートナー、サプライヤー、顧客、および市民を含む、組織のディレクトリの内部と外部の両方のユーザーに接続して関与すること[ができます](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala のオープンディレクトリモデルを使用すると、簡単にオンボードするための電話番号ベースの id と、メッセージングおよび作業管理のための簡単なユーザー操作を行うことができます。 Kaizala モバイルアプリを使用すると、ユーザーはインスタントメッセージと添付ファイル (画像、ドキュメント、ビデオ、audios など) を送信したり、アンケート、投票、ジョブ割り当て、アナウンス、トレーニングなどのアクションカードを使用したりすることができます。 [Kaizala は Office 365 で利用でき](https://products.office.com/en/business/microsoft-kaizala)、IPhone と Android でも動作します。 詳細については、 [Kaizala web サイト](https://products.office.com/en/business/microsoft-kaizala)を参照してください。 
   
 ## <a name="feature-availability"></a>機能の可用性
 

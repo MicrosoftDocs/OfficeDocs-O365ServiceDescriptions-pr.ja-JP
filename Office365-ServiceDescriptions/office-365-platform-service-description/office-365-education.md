@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、microsoft の次世代コミュニケーションおよびコラボレーションサービス&mdash;(Microsoft Exchange Online、Microsoft SharePoint Online、office を含む) のクラウドベースの microsoft office デスクトップスイートを統合しています。web および Microsoft Skype for Business Online&mdash;を使用すると、ユーザーはインターネットを介して実質的に生産性を向上させることができます。
-ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
+ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890443"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724645"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、microsoft の次世代コミュニケーションおよびコラボレーションサービス&mdash;(Microsoft Exchange Online、Microsoft SharePoint Online、office を含む) のクラウドベースの microsoft office デスクトップスイートを統合しています。web および Microsoft Skype for Business Online&mdash;を使用すると、ユーザーはインターネットを介して実質的に生産性を向上させることができます。
+Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
   
 この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 Business および Enterprise プランでの機能を比較するには、「[最新の高度な機能を Office 365 で](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)」、機能の詳細なリストについては、「[Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連サービスの説明を参照してください。
   
@@ -71,6 +71,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Office 365 スイートの機能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft ブリーフィングメール<sup>10</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Flow  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -140,7 +141,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービスの更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -188,6 +189,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 <sup>7</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br>
 <sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。<br>
 <sup>9</sup>詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。<br>
+<sup>10</sup>ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「[ブリーフィングメールを構成する](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 Security &amp; Compliance Center features
 
@@ -284,7 +286,7 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/mic
 > [!NOTE]
 > <sup>1</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 <br/> 
 <sup>2</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「[デスクトップクライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。 <br/> 
-<sup>3</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格情報に対応しており、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールすることができます。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 <br/> 
+<sup>3</sup>一部の教育機関は、Office 365 ProPlus を含み、学生、教職員、スタッフが、最大5台の PC または Mac コンピューターと、Windows タブレットや iPad を含む他のモバイルデバイスに最新バージョンの Office をインストールできるようにします。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 <br/> 
 web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳細については、「 [Office for the web features](office-365-education.md#office-for-the-web-features) 」を参照してください。
   
 ## <a name="office-for-the-web-features"></a>Web 用 Office の機能
@@ -299,7 +301,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |

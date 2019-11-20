@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890453"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38726085"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
 
@@ -56,6 +56,8 @@ Microsoft では、対象となるプランに含まれるサービスのため�
     
 - [Skype for Business Online サービスの説明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
+- [ブリーフィング電子メールサービスの説明](briefing-service-description.md)
+
 - [Workplace Analytics サービスの説明](workplace-analytics-service-description.md)
 
 - [MyAnalytics サービスの説明](mya-service-description.md)

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37971723"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724635"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -158,7 +158,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Power BI Pro  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Project Online  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |
 |Web 用 Visio  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
-|Yammer エンタープライズ  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
+|Yammer Enterprise  <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
    
 > <sup>1</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、G3、および G5 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup>含まれていませんが、個別のアドオンとして購入できます。 Project Online には、サブスクリプションの一部として Project Online デスクトップクライアントが含まれています。
@@ -180,6 +180,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |なし<sup></sup> <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> )  <br/> |なし<sup></sup> <br/> |
 |**[Office 365 スイートの機能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Microsoft ブリーフィング電子メール  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Microsoft Flow  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |Microsoft Forms  <br/> |はい <br/> |はい <br/> |はい<br/> |はい</sup> <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

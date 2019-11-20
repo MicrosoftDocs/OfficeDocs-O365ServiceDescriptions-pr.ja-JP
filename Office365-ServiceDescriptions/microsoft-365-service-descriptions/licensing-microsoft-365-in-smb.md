@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business は、中小企業のお客様を対象とした Microsoft のクラス最高のサービスです。 Microsoft 365 Business は、Office 365 の生産性、高度なセキュリティ、およびデバイス管理を統合する統合ソリューションです。
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289787"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724665"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小規模ビジネスに Microsoft 365 のライセンスを付与する
 
@@ -148,6 +148,7 @@ Microsoft 365 Business は、中小企業 (SMB) をご利用のお客様向け�
 |**コンプライアンス** | 無制限のメールアーカイブ<sup>2</sup> | いいえ | はい | はい | はい |
 |   | Advanced eDiscovery、カスタマー ロックボックス、アドバンスト データ ガバナンス | いいえ | いいえ | いいえ | はい |
 |**分析** | Power BI Pro、MyAnalytics | いいえ | いいえ | いいえ | はい |
+|**Assistance** | ブリーフィング電子メール | はい | はい | はい | はい |
 |**音声** | PSTN 会議、クラウド PBX | いいえ | いいえ | いいえ | はい |
 
 **メモ**
