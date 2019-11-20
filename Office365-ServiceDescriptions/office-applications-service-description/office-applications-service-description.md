@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
+ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911820"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748981"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -97,7 +97,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 <sup>3</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。<br/>
 <sup>4</sup> Office Professional Plus 2013 またはスタンドアロン版の excel 2013 を使用している場合は、サポートされていないアドインとして[Excel 2013 の電源マッププレビュー](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)をダウンロードして使用することができます。<br/> 
 <sup>5</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. 機能の比較については、「[デスクトップクライアントの比較表 (Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables))」を参照してください。<br/> 
-<sup>6</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格を持ち、学生、教職員、スタッフが、最大5台の PC または Mac コンピューター、およびその他のモバイルデバイス (Windows タブレットやその他のモバイルデバイス) に最新バージョンの office をインストールできるようにします。iPad. 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 <br/>
+<sup>6</sup>一部の教育機関は、Office 365 ProPlus を含む教育機関向けの資格情報に対応しており、学生、教職員、スタッフは、最大5台の PC または Mac コンピューター、および Windows タブレットや iPad を含むその他のモバイルデバイスに最新バージョンの Office をインストールすることができます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別のダウンロードとして入手できます。 <br/>
 <sup>7</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。 <br/>
 <sup>8</sup> Office 365 ProPlus は、ユーザー専用の仮想デスクトップインフラストラクチャ (VDI) でサポートされています。 Office 365 ProPlus は、ボリュームライセンスプログラムで購入した場合にのみリモートデスクトップサービス (RDS) をサポートします。<br/>
 <sup>9</sup> Office 365 Enterprise E3 および Office 365 ProPlus のボリュームライセンス認証は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、Windows to Go がインストールされています。 どちらの場合も、これらのインストールにアクセスするユーザーは、Office 365 Enterprise E3 または Office 365 ProPlus のライセンスユーザーである必要があります。<br/> 
@@ -126,3 +126,88 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 > <sup>1</sup> Office 2016 for mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。<br/>
 <sup>2</sup> App Store から別途ダウンロードして入手できます。 詳細については、「 [OneNote for Mac の紹介](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」をご覧ください。<br/> 
 <sup>3</sup> Office for Mac 2011 はインストールできますが、アクティブ化できません。
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>政府機関向けプランにおける Office アプリケーションと機能の可用性
+
+次の Office アプリケーションは、官公庁クラウドで利用できます。ただし、この表に示されているように、一部のクラウドベースの機能は現在使用できない場合があります。
+
+|||||
+|-----|-----|-----|-----|
+|**Office アプリケーション** | **GCC** | **GCC 高** | **DOD** |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に使用できます。| はい | はい | はい |
+|3D の埋め込みアニメーションと3D モデル | いいえ | いいえ | いいえ |
+|データ型 | いいえ | いいえ | いいえ |
+|フラッシュフィル  | いいえ | いいえ | いいえ |
+|アイデア (洞察サービス) | いいえ | いいえ | いいえ |
+|PowerBI との統合の強化 (カスタムビジュアル、Excel からの直接 PBI グラフの作成) | いいえ | いいえ | いいえ |
+|インテリジェントなデジタルインク | いいえ | いいえ | いいえ |
+|Office 365 グループ | いいえ | いいえ | いいえ |
+|ピボットテーブルに接続されたピボットグラフデータ | いいえ | いいえ | いいえ |
+|PowerPivot | いいえ | いいえ | いいえ |
+|PowerBI への発行 | いいえ | いいえ | いいえ |
+|リアルタイムコラボレーション (プレゼンス、通常の共同編集、ドキュメント内チャット) | いいえ | いいえ | いいえ |
+|Shared with Me | いいえ | いいえ | いいえ |
+|スマート検索 | いいえ | いいえ | いいえ |
+|グラフ: サンバースト、ツリーマップ、ウォーターフォール、ヒストグラム、地図、タイムライン、じょうご | いいえ | いいえ | いいえ |
+|バージョン履歴| いいえ | いいえ | いいえ | 
+|**Microsoft Forms**は、現時点では利用できない次の機能を例外として、官公庁クラウドで完全に利用できます。 | はい | はい | いいえ |
+|電子メール通知 | なし<sup></sup> | なし<sup></sup> | いいえ |
+|画像を挿入する | なし<sup></sup> | なし<sup></sup> | いいえ |
+|ビデオを挿入する | なし<sup></sup> | なし<sup></sup> | いいえ |
+|数学 | なし<sup></sup> | なし<sup></sup> | いいえ |
+|Office 統合 | なし<sup></sup> | なし<sup></sup> | いいえ |
+|最新のグループフォーム | なし<sup></sup> | なし<sup></sup> | いいえ |
+|外部共有 |はい | いいえ | いいえ |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に利用できます。| はい | はい | はい |
+|リサーチ ツール | いいえ | いいえ | いいえ |
+|インテリジェントなデジタルインク | いいえ | いいえ | いいえ |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に利用できます。| はい | はい | はい |
+|Office サウンド (一部) | いいえ | いいえ | いいえ |
+|既定で DDE を無効にする  | いいえ | いいえ | いいえ |
+|ディクテーション | なし<sup></sup> | なし<sup></sup> | なし<sup></sup> |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** は、この時点では利用できない次の機能を除き、官公庁クラウドで完全に使用できます。| はい | はい | はい |
+|スマート検索 | いいえ | いいえ | いいえ |
+|Office サウンド (一部) | いいえ | いいえ | いいえ |
+|3D モデルと3D の埋め込みアニメーション | いいえ | いいえ | いいえ |
+グラフ: マップ | いいえ | いいえ | いいえ |
+|インテリジェントなデジタルインク | いいえ | いいえ | いいえ |
+|PowerPoint の字幕 & ライブキャプション | いいえ | いいえ | いいえ |
+|プレゼンターコーチ | いいえ | いいえ | いいえ |
+|Shared with Me| いいえ | いいえ | いいえ |
+|Skype for Business と共有の統合| いいえ | いいえ | いいえ |
+|バージョン履歴 | いいえ | いいえ | いいえ |
+|Office 365 グループ | いいえ | いいえ | いいえ |
+|リアルタイムコラボレーション (プレゼンス、通常の共同編集、ドキュメント内チャット) | いいえ | いいえ | いいえ |
+|ディクテーション | なし<sup></sup> | なし<sup></sup> | なし<sup></sup> |
+|米国政府機関の**Microsoft ホワイトボード**は、現在、デスクトップではなくハブクライアントでのみ使用できます。 | はい<sup>2</sup> | はい<sup>2</sup> | はい<sup>2</sup> |
+|付箋、テキスト、画像を挿入する |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
+|インクを図形に、インクからテーブルへ |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
+|インク beautification |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
+|画像をインクに変換する |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
+|アクセシビリティ チェック |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
+|動的テンプレート (かんばん、SWOT、その他) | いいえ | いいえ | いいえ |
+|リアルタイムコラボレーション | いいえ | いいえ | いいえ |
+|リアルタイムプレゼンス | いいえ | いいえ | いいえ |
+|コンテンツに対する反応 | いいえ | いいえ | いいえ |
+|お客様との共有を含む、ホワイトボードギャラリー | いいえ | いいえ | いいえ |
+|**[Microsoft Word](office-applications.md#microsoft-word)** は、この時点では利用できない次の機能を除き、官公庁クラウドで完全に使用できます。| はい | はい | はい |
+|スマート検索 | いいえ | いいえ | いいえ |
+|リサーチ ツール | いいえ | いいえ | いいえ |
+|Office サウンド | いいえ | いいえ | いいえ |
+|3D モデル | いいえ | いいえ | いいえ |
+|3D の埋め込みアニメーション | いいえ | いいえ | いいえ |
+|タップ | いいえ | いいえ | いいえ |
+|履歴書アシスタント | いいえ | いいえ | いいえ |
+|マップグラフ | いいえ | いいえ | いいえ |
+|インテリジェントなデジタルインク | いいえ | いいえ | いいえ |
+|Shared with Me | いいえ | いいえ | いいえ |
+|Translation | いいえ | いいえ | いいえ |
+|Skype for Business と共有の統合 | いいえ | いいえ | いいえ |
+|バージョン履歴 | いいえ | いいえ | いいえ |
+|Office 365 グループ | いいえ | いいえ | いいえ |
+|共同編集者とのコンテキストチャット: ドキュメント内の共同編集者とチャット | いいえ | いいえ | いいえ |
+|ディクテーション| なし<sup></sup> | なし<sup></sup> | なし<sup></sup> |
+
+> [!NOTE]
+> <sup>1</sup>は2019年12月にご利用いただけます。 <br/>
+> <sup>2</sup>ローカル Surface Hub (サインインしていない) で使用できます。
