@@ -79,6 +79,7 @@
 ## [Skype for Business Online サービスの説明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online の機能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online の制限](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [ブリーフィング メール サービスの説明](briefing-service-description.md)
 ## [Workplace Analytics サービスの説明](workplace-analytics-service-description.md)
 ## [MyAnalytics サービスの説明](mya-service-description.md)
 ## [Power BI サービスの説明](power-bi-service-description.md)
