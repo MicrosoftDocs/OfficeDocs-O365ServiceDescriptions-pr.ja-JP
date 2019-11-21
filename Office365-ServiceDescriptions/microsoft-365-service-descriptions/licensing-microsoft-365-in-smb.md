@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business は、中小企業のお客様を対象とした Microsoft のクラス最高のサービスです。 Microsoft 365 Business は、Office 365 の生産性、高度なセキュリティ、およびデバイス管理を統合する統合ソリューションです。
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724665"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755475"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小規模ビジネスに Microsoft 365 のライセンスを付与する
 
@@ -148,6 +148,7 @@ Microsoft 365 Business は、中小企業 (SMB) をご利用のお客様向け�
 |**コンプライアンス** | 無制限のメールアーカイブ<sup>2</sup> | いいえ | はい | はい | はい |
 |   | Advanced eDiscovery、カスタマー ロックボックス、アドバンスト データ ガバナンス | いいえ | いいえ | いいえ | はい |
 |**分析** | Power BI Pro、MyAnalytics | いいえ | いいえ | いいえ | はい |
+| | MyAnalytics による洞察 | はい | はい | はい | はい |
 |**Assistance** | ブリーフィング電子メール | はい | はい | はい | はい |
 |**音声** | PSTN 会議、クラウド PBX | いいえ | いいえ | いいえ | はい |
 
@@ -190,9 +191,9 @@ Microsoft 365 Business は、中小企業 (SMB) をご利用のお客様向け�
 | **ライセンス**                                   | **Office 365 Business** | **Office 365 ProPlus** |
 | ライセンスモデル                                 | ユーザーごと                | ユーザーごと               |
 | ライセンスの種類                                    | サブスクリプション            | サブスクリプション           |
-| PC/Mac のインストール<sup>6</sup>                     | 5                       | 5                      |
-| iOS/Android スマートフォンインストール<sup>6</sup>     | 5                       | 5                      |
-| タブレットインストール<sup>6</sup>                     | 5                       | 5                      |
+| PC/Mac のインストール<sup>6</sup>                     | 5                        | 5                      |
+| iOS/Android スマートフォンインストール<sup>6</sup>     | 5                        | 5                      |
+| タブレットインストール<sup>6</sup>                     | 5                        | 5                      |
 | Office RT の商用権限                     | はい                     | はい                    |
 | Office Online/web アプリ                          | はい                     | はい                    |
 | 商用使用権                           | はい                     | はい                    |
