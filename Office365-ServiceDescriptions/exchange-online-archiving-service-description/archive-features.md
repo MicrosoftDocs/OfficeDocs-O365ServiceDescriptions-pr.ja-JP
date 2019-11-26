@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: 8e27ce238fa0aa7e2b670f6d991178c5f595908a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 9cf2084f947e20f02c40c1bd5e7485d10bcb6416
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581403"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260502"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのアーカイブ機能
 

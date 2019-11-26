@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
-ms.openlocfilehash: 3dbeb76225c641cb57d5cbc849df2d56fcecf3cb
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734155"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262890"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -149,4 +149,4 @@ Office 365 のコミュニティとオンラインヘルプに加えて、Office
    
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 Platform Service Description](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。

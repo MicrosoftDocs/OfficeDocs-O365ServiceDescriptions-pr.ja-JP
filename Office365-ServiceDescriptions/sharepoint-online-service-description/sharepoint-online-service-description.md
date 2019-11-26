@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890413"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263311"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
 
@@ -40,19 +40,19 @@ SharePoint Online の新機能の詳細については、「[Microsoft SharePoin
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>SharePoint Online の境界と制限
 
-サイトコレクションのクォータ、ファイルのアップロード制限、格納域の制限など、Microsoft が管理する SharePoint Online サービスにはいくつかの制限があります。 詳細については、「[SharePoint Online の制限](sharepoint-online-limits.md)」を参照してください。
+サイトコレクションのクォータ、ファイルのアップロード制限、格納域の制限など、Microsoft が管理する SharePoint Online サービスにはいくつかの制限があります。 詳細については、「 [SharePoint Online の制限](sharepoint-online-limits.md)」を参照してください。
   
 モバイル サポートの詳細については、「[モバイル デバイスを使用して SharePoint Online サイトを操作する](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6)」を参照してください。
   
 ## <a name="subscription-options"></a>サブスクリプションのオプション
 
-Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。スタンドアロン プラン オプションや、別のプランへの変更などの詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
+Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
 SharePoint Online にアクセスする各ユーザーは、Office 365 プランまたは sharepoint online plan 1 または SharePoint Online Plan 2 スタンドアロンサービスに割り当てられている必要があります。 ただし、Firstline プランは、SharePoint Online の最初の行のような Firstline サブスクリプションの一部としてのみ、スタンドアロンのオファーとして販売されるわけではありません。 Firstline ワーカーは管理者になることができないため、Firstline ワーカーを使用するテナントには、少なくとも1つのエンタープライズ管理者が SharePoint を管理する必要があります。 Firstline ワーカーは SharePoint ナビゲーションメニューを表示しないので、Firstline のワーカーは URL で SharePoint サイトに直接移動する必要があります。
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
-OneDrive for Business (従来の SkyDrive Pro) は社員向けの個人用オンライン ストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive for Business は SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 OneDrive for business に含まれる web 用 Office の機能を確認するには、「 [onedrive For Business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
+OneDrive for Business (従来の SkyDrive Pro) は社員向けの個人用オンライン ストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive for Business は SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 OneDrive for business に含まれる web 用 Office の機能を確認するには、「 [onedrive For business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online Enterprise 外部ユーザー
 
@@ -105,16 +105,16 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 |[ホストヘッダーサイトコレクション](it-professional.md#host-header-site-collections) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
 |[Office 365 のモバイル デバイス管理](it-professional.md#mobile-device-management-for-office-365) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい  <br/> |はい  <br/> |
-|[パッチ管理](it-professional.md#patch-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
+|[パッチ管理](it-professional.md#patch-management) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
 |[クォータテンプレート](it-professional.md#quota-templates) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|[読み取り専用データベースのサポート](it-professional.md#read-only-database-support) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
-|[リモート BLOB ストレージ](it-professional.md#remote-blob-storage) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
-|[要求管理](it-professional.md#request-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
-|[リソースの調整](it-professional.md#resource-throttling) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
+|[読み取り専用データベースのサポート](it-professional.md#read-only-database-support) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
+|[リモート BLOB ストレージ](it-professional.md#remote-blob-storage) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
+|[要求管理](it-professional.md#request-management) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
+|[リソースの調整](it-professional.md#resource-throttling) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
 |[サービスアプリケーションプラットフォーム](it-professional.md#service-application-platform) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[SharePoint Health Analyzer](it-professional.md#sharepoint-health-analyzer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint 管理センター (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>4</sup>なし <br/> |N/A  <br/> |該当なし  <br/> |
-|SharePoint サーバーの全体管理センター  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
+|[SharePoint 管理センター (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>4</sup>なし <br/> |該当なし  <br/> |該当なし  <br/> |
+|SharePoint サーバーの全体管理センター  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |はい  <br/> |はい  <br/> |
 |[サイト コレクションのコンプライアンス ポリシー](it-professional.md#site-collection-compliance-policies) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[利用状況のレポートとログ](it-professional.md#usage-reporting-and-logging) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Windows PowerShell のサポート](it-professional.md#windows-powershell-support) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -252,7 +252,7 @@ SharePoint 機能が Office 365 プランで利用可能かどうかを確認す
 <sup>14</sup> Access 2010 はサポートされていません。 <br/> 
 <sup>15</sup> for office web では、F1 ユーザーはコンテンツを作成するために、web (ライブタイル) に対して office へのアクセス権を持っている必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
 <sup>16</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 <br/>
-<sup>17</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
+<sup>17</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
 <sup>18</sup> f1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 <br/>
 <sup>19</sup>ユーザーキーは Office 365 Enterprise E5 で利用できます。 顧客キーを使用すると、組織の暗号化キーを制御し、Office 365 を構成して、Microsoft のデータセンターで保存されているデータを暗号化することができます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
 <sup>20</sup>は近日中に予定されています。 

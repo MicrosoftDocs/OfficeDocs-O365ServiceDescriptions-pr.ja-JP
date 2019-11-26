@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics の機能、配布、プライバシー、および前提条件
-ms.openlocfilehash: ceb62bdbfe71ba9a9871194d6135ad8021723a2f
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724705"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262860"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics サービスの説明
 

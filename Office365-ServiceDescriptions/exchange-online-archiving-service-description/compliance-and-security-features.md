@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Archiving のコンプライアンス機能とセキュリティ機能
+title: Exchange Online アーカイブのコンプライアンス機能とセキュリティ機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581883"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260732"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのコンプライアンス機能とセキュリティ機能
 
@@ -133,6 +133,6 @@ Exchange 管理センターで、管理者の役割の変更、訴訟ホール�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 のプラン、スタンドアロンのオプション、オンプレミス ソリューション全体の機能の可用性を表示するには、「[Exchange Online Archiving サービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
   
 

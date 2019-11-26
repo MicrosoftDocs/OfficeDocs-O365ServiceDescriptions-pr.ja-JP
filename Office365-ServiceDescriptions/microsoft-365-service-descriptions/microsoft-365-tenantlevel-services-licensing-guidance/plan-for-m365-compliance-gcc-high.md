@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 コンプライアンスを計画する-GCC 高
+title: Microsoft 365 コンプライアンスの計画 - GCC High
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティで Office 365 の展開を推進する IT 担当者、または Microsoft 365 Government – GCC 高を使用することが適切な政府の規制と要件に従うデータを処理する IT 担当者を対象としています。これらの要件を満たすため。
-ms.openlocfilehash: 72819a1a2b62df681f8b08dd3049ab6d704b256e
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319505"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262830"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 コンプライアンスの計画-GCC 高
 
@@ -75,7 +75,12 @@ Microsoft 365 Government の詳細については、「特典の要件を含む[
 |                                         | 情報障壁                            | Available              |
 |                                         | ファイルと電子メールのデータ損失防止 (DLP)  | Available              |
 |                                         | Teams チャットおよびチャネル会話の DLP    | エンジニアリングバックログの場合 |
+|                                         | DLP の正確なデータ一致                            | エンジニアリングバックログの場合 |
+|                                         | ラベル アクティビティ エクスプローラー                         | エンジニアリングバックログの場合 |
+|                                         | Trainable 分類子                           | エンジニアリングバックログの場合 |
+|                                         | 統合されたラベルと機密ラベル         | エンジニアリングバックログの場合 |
 | **Insider リスク管理**             | 高度なメッセージ暗号化                     | Available              |
+|                                         | Insider リスク管理                         | エンジニアリングバックログの場合 |
 |                                         | 通信コンプライアンス                        | エンジニアリングバックログの場合 |
 |                                         | 顧客ロックボックス                                | Available              |
 |                                         | カスタマー キー                                    | Available              |

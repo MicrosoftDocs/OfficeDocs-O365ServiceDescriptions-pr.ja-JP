@@ -1,5 +1,5 @@
 ---
-title: ユーザー アカウント管理
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911796"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262118"
 ---
-# <a name="user-account-management"></a>ユーザー アカウント管理
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365 は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。 
   
 > [!NOTE]
-> このトピックには、Office 365 の個別のリソース (たとえば、Microsoft Exchange Online における役割ベースのアクセス制御や、Microsoft SharePoint Online でのセキュリティ構成など) へのアクセスを許可または禁止するセキュリティ機能に関する情報は含まれていません。これらの機能の詳細については、「[Exchange Online サービスの説明](../exchange-online-service-description/exchange-online-service-description.md)」および「[SharePoint Online サービスの説明](../sharepoint-online-service-description/sharepoint-online-service-description.md)」を参照してください。 
+> このトピックには、Office 365 の個別のリソース (たとえば、Microsoft Exchange Online における役割ベースのアクセス制御や、Microsoft SharePoint Online でのセキュリティ構成など) へのアクセスを許可または禁止するセキュリティ機能に関する情報は含まれていません。 これらの機能の詳細については、「 [Exchange online サービスの説明](../exchange-online-service-description/exchange-online-service-description.md)」および「 [SharePoint online サービスの説明](../sharepoint-online-service-description/sharepoint-online-service-description.md)」を参照してください。 
   
 管理タスクの実行に役立つツールの情報については、「[Office 365 アカウントを管理するためのツール](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)」を参照してください。日常的な管理タスクを実行する方法については、「[Office 365 の一般的な管理タスク](https://docs.microsoft.com/office365/admin/manage/manage)」を参照してください。
   
@@ -127,7 +127,7 @@ Office 365 にユーザーを追加する方法は複数あります。 詳細�
     
 - ディレクトリ同期を使用している場合は、Office 365 ではなく、ローカルの Active Directory からユーザーを削除する必要があります。
     
-アカウントは、削除されると非アクティブになります。 削除後約 30 日間は、アカウントを復元することができます。 アカウントの削除と復元の詳細については、「 [Delete users In office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) 」および「 [Restore users](https://docs.microsoft.com/office365/admin/add-users/restore-user) in office 365」を参照してください。または、中国で21Vianet が運営する office 365 を使用している場合は、「 [Create Or edit user accounts in Office 365 運用者」を参照してください。21Vianet-管理者向けヘルプ](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+アカウントは、削除されると非アクティブになります。 削除後約 30 日間は、アカウントを復元することができます。 アカウントの削除と復元の詳細については、「office 2013 で[365 ユーザーを削除](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)する」と「office 2013 でユーザーを[365 復元](https://docs.microsoft.com/office365/admin/add-users/restore-user)する」を参照してください。中国で21vianet が運用している office 365 を使用している場合は、「 [Create Or edit user accounts in Office 365 in 21vianet-Admin Help](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
   
 ## <a name="password-management"></a>パスワードの管理
 
@@ -188,5 +188,5 @@ Azure Active Directory (AD) は、Office 365 に対して包括的な ID およ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 Platform Service Description](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   

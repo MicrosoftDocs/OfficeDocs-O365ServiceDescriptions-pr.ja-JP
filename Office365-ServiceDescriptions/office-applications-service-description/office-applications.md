@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
-ms.openlocfilehash: 262f6d17c1fc537244091de8746c7e307463a6d0
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734014"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263551"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 
@@ -85,5 +85,5 @@ Windows 10 Mobile アプリ用の Office は、Windows 10 の携帯電話とタ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office アプリケーションサービスの説明](office-applications-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office アプリケーションサービスの説明](office-applications-service-description.md)」を参照してください。
   

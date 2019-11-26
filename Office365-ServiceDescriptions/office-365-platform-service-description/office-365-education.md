@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724645"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263038"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
   
-この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 Business および Enterprise プランでの機能を比較するには、「[最新の高度な機能を Office 365 で](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)」、機能の詳細なリストについては、「[Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連サービスの説明を参照してください。
+この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 複数のビジネスプランおよびエンタープライズプランの機能を比較するには、「 [office 365 For business プランを比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)する」または「 [office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の「関連するサービスの説明」を参照してください。
   
-サポート記事および情報を検索するには、「[Office のヘルプとトレーニングにようこそ](https://support.office.com/)」を参照してください。
+サポート記事および情報を検索するには、「 [Office のヘルプ&amp;トレーニング](https://support.office.com/)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
@@ -141,7 +141,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -301,7 +301,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|ユーザー要求を処理するサービス アプリケーション、サービス、コンポーネントは、フロントエンド Web サーバーに属します。これらのサーバーは、待ち時間が短くなるように最適化されています。 <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -472,7 +472,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
 >  - Microsoft Office 365 組織に適用される制限は、その組織がサービスに登録されている期間に応じて異なる可能性があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
 >  - これらの制限の大部分は変更できませんが、注意を払う必要があります。 
 > - これらの制限は内部受信者と外部受信者の両方に適用されます。 
-> - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online で EOP 機能に適用される制限については、「[Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 
+> - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 
 >  - Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「[Office 365 グループについて](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)」の「グループを管理する方法」を参照してください。 
   
 #### <a name="address-book-limits"></a>アドレス帳の制限
@@ -599,7 +599,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 - **添付ファイルのサイズ制限** 1 つの添付ファイルの最大ファイル サイズです。 
     
     > [!NOTE] 
-    > これは、1 つの添付ファイルの最大ファイル サイズです。 Web 上の Outlook を含む個々のクライアントプログラムによって、添付ファイルのサイズがこの最大値以下に制限されることがあります。 Exchange ActiveSync は、添付ファイルのサイズ制限を個別の添付ファイルごとには実装しません。 Exchange ActiveSync メッセージに添付されるすべてのファイルの合計サイズは、メッセージのサイズ制限よりも小さい必要があります。 
+    > これは、1 つの添付ファイルの最大ファイル サイズです。 Outlook on the web を含む個々のクライアント プログラムでは、添付ファイルのサイズ制限がこの最大値より小さい場合があります。 Exchange ActiveSync は、添付ファイルのサイズ制限を個別の添付ファイルごとには実装しません。 Exchange ActiveSync メッセージに添付されるすべてのファイルの合計サイズは、メッセージのサイズ制限よりも小さい必要があります。 
   
 - **マルチパート メッセージの制限** MIME マルチパート メッセージで許可されるメッセージ本文のパーツの最大数。この制限は、メッセージ内で許可される添付ファイルの最大数も制御します。 
     
@@ -671,7 +671,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
    
 #### <a name="reporting-and-message-trace-limits"></a>レポート作成とメッセージ追跡の制限
 
-レポート作成とメッセージ追跡の制限については、「[Exchange Online Protection でのレポート作成とメッセージ追跡](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
+レポート作成とメッセージ追跡の制限については、「Reporting and message trace [In Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
   
 #### <a name="retention-limits"></a>保持の制限
 
@@ -709,7 +709,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |個  <br/> |個  <br/> |個  <br/> |
+|配布グループの所有者の最大数  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -728,7 +728,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **すべてのトランスポート ルールで使用されているすべての正規表現の最大文字数** 組織のすべてのトランスポート ルールの条件および例外に含まれるすべての正規表現の文字数の合計です。長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。 
     
-- **添付ファイルのコンテンツのスキャンの制限**トランスポートルールの条件では、メッセージの添付ファイルの内容を調べることはできますが、添付ファイルから抽出されたテキストの最初の 1 MB のみが検査されます。 この 1 MB という制限は、添付ファイルのファイル サイズではなく、添付ファイルから抽出されたテキストに適用されます。 たとえば、2 MB のファイルに 1 MB 未満のテキストが含まれる場合は、すべてのテキストが検査されます。 
+- **添付ファイルのコンテンツに対するスキャンの制限** トランスポート ルールの条件を使用してメッセージの添付ファイルのコンテンツを確認できますが、添付ファイルから抽出されたテキストの最初の 1 MB だけが検査されます。 この 1 MB の制限は、添付ファイルから抽出するテキストのことを指すもので、添付ファイルのサイズではありません。 たとえば、2 MB のファイルに 1 MB 未満のテキストが含まれる場合は、すべてのテキストが検査されます。 
     
 - **すべてのトランスポート ルールによってメッセージに追加される受信者の最大数** 1 つのメッセージに複数のトランスポート ルールが適用される場合、メッセージに追加できる受信者の数が制限されます。この制限に達すると、残りの受信者はメッセージに追加されません。また、トランスポート ルールで配布グループをメッセージに追加することはできません。 
     
@@ -739,7 +739,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ジャーナル ルールの最大数  <br/> |50ルール  <br/> |50ルール  <br/> |50ルール  <br/> |
+|ジャーナル ルールの最大数  <br/> |50 個のルール  <br/> |50 個のルール  <br/> |50 個のルール  <br/> |
 |トランスポート ルールの最大数  <br/> |300 個のルール  <br/> |300 個のルール  <br/> |300 個のルール  <br/> |
 |各トランスポート ルールの最大サイズ  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |すべてのトランスポート ルールで使用されるすべての正規表現の文字に関する制限  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
@@ -772,7 +772,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
    
 #### <a name="exchange-activesync-limits"></a>Exchange ActiveSync の制限
 
-次の制限が、モバイル デバイスと Exchange との間でメールボックス データを同期するクライアント プロトコルである Microsoft Exchange ActiveSync に適用されます。 
+モバイル デバイスと Exchange との間でメールボックス データを同期するクライアント プロトコルである Microsoft Exchange ActiveSync には、次の制限が適用されます。 
   
 - **Exchange ActiveSync デバイスの制限** 1 メールボックスあたりの Exchange ActiveSync デバイスの最大数。 
     
@@ -817,7 +817,7 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
   
 ### <a name="subscription-plans"></a>サブスクリプション プラン
 
-OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使用できます。 プランで使用可能な機能を確認するには、「[OneDrive for Business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
+OneDrive for Business プラン2は、Office 365 A1、A3、および A5 で使用できます。 プランで使用できる機能を確認するには、「 [OneDrive For business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online の機能
 
@@ -1260,7 +1260,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |
+|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |無制限  <br/> |
    
 #### <a name="meeting-limits"></a>会議の制限

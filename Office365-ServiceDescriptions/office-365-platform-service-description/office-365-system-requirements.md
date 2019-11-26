@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-system-requirements
 keywords:
-- system requirements, user requirements,Office 365 System Requirements
+- システム要件、ユーザー要件、Office 365 のシステム要件
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 089b3880-9094-4f18-8a56-d91915a2d2d9
 description: Office 365 のシステム要件については、ビジネス、教育、および政府機関向けの月単位のサブスクリプションベースのサービスについては、office.com products サイトの「Office のシステム要件」を参照してください。
-ms.openlocfilehash: 28f300fa3874b356105d33d00163b39c83c86cd1
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b1ba322fef8ea5c4dc72cdf5c4e111bd8161f2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734105"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262560"
 ---
 # <a name="office-365-system-requirements"></a>Office 365 のシステム要件
 

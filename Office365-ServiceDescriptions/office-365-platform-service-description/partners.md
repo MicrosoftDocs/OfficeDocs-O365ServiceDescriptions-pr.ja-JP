@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
-ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 807494ef23a089008ee3f9ff9b9e5191511afd99
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734084"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262518"
 ---
 # <a name="partners"></a>パートナー
 
@@ -53,5 +53,5 @@ Office 365 Marketplace は、カスタマーがパートナー サービスや�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   

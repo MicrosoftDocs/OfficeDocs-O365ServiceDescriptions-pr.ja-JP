@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890403"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263028"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。 
   
-Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。Business および Enterprise プランでの Office 365 の機能を比較するには、「[最新の高度な機能を Office 365 で](https://go.microsoft.com/fwlink/?linkid=799177)」、機能の詳細なリストについては、「[Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連サービスの説明を参照してください。サポート記事および情報を検索するには、「[Office のヘルプとトレーニングにようこそ](https://support.office.com/)」を参照してください。
+Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。 次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。 複数のビジネスプランおよびエンタープライズプランで Office 365 の機能を比較するには、「office[の 365 For business プランを比較](https://go.microsoft.com/fwlink/?linkid=799177)する」または「 [365 office](../office-365-service-descriptions-technet-library.md)のサービスの説明」の「関連するサービスの説明」の説明を参照してください。 サポート記事および情報を検索するには、「 [Office のヘルプ&amp;トレーニング](https://support.office.com/)」を参照してください。
   
 ## <a name="services-and-features"></a>サービスと機能
 

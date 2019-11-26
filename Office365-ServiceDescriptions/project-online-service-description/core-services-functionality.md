@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 次のコアサービス機能は、Project Online で利用できます。
-ms.openlocfilehash: 14081671a3539e9fa73f049eae0ced9f80568c21
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633869"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263451"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 
@@ -53,7 +53,7 @@ Microsoft は、Office 365 お客様のための業界トップの財務保証�
   
 ## <a name="service-updates"></a>サービス更新
 
-Office 365 サービスの機能は新しい機能で定期的に更新されます。 「[サービス更新](../office-365-platform-service-description/service-updates.md)」を参照してください。
+Office 365 サービスの機能は新しい機能で定期的に更新されます。 「[サービスの更新](../office-365-platform-service-description/service-updates.md)」を参照してください。
   
 ## <a name="team-member-collaboration"></a>チーム メンバーのコラボレーション
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911830"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263138"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -28,7 +28,7 @@ Yammer を組み込んだ Office 365 プランのリストについては、「[
 各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
   
 > [!TIP]
-> Office 365 サービスの説明のページは、エクスポート、保存、印刷が可能です。[複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
+> Office 365 サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -44,7 +44,7 @@ Yammer は以下のプランで提供されています。
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |高度なセキュリティ、管理、統合を備えたエンタープライズ ソーシャル ネットワーキング。  <br/> |
    
 > [!NOTE]
-> [Office 365 プラットフォーム サービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md) に記載されている機能とポリシーは、Yammer サービスには適用されません。 
+> [Office 365 プラットフォームサービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)に記載されている機能とポリシーは、Yammer サービスには適用されません。 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise service communications policy
 <a name="YammerCommsPolicy"> </a>

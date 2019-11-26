@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含む Office 365 サブスクリプションの機能の比較をお探しですか。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701365"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262770"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -37,10 +37,10 @@ Microsoft Exchange Online は、Microsoft Exchange Server の機能をクラウ�
   
 Exchange Online をサブスクライブする組織は、ユーザーに提供するメッセージング サービスを管理できますが、社内サーバー ソフトウェアを運用するときのような負荷はありません。 このドキュメントで説明する Exchange Online のホスト型のプランでは、電子メールは、複数のカスタマーを同時にサポートするサーバー上でホストされます。 これらのサーバーは、Microsoft データセンターに格納されており、企業ネットワーク内から、またはインターネット経由でさまざまなデバイスのユーザーがアクセスできます。
   
-各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。Office 365 Germany のプランを比較するには、[Office 365 Germany のサブスクリプション プラン](https://go.microsoft.com/fwlink/?linkid=839016)をご覧ください。
+各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。 Office 365 Germany のプランを比較するには、[Office 365 Germany のサブスクリプション プラン](https://go.microsoft.com/fwlink/?linkid=839016)をご覧ください。
   
 > [!TIP]
-> Office 365 サービスの説明のページは、エクスポート、保存、印刷が可能です。[複数のページをエクスポート](https://docs.microsoft.com/office365/securitycompliance/export-search-results)する方法について説明します。 
+> Office 365 サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://docs.microsoft.com/office365/securitycompliance/export-search-results)する方法について説明します。 
   
 ## <a name="whats-new-in-exchange-online"></a>Exchange Online の新機能
 
@@ -48,7 +48,7 @@ Exchange Online の新機能の詳細については、「[Exchange Online](http
   
 ## <a name="office-365-plans-for-exchange-online"></a>Exchange Online 用の Office 365 プラン
 
-Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。スタンドアロン プラン オプションや、別のプランへの変更などの詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
+Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
 Exchange Online サービスにアクセスする各ユーザーは、サブスクリプション プランに割り当てられる必要があります。ユーザーのサブスクリプションごとにメールボックスがあります。これらのメールボックスのフォルダーおよびメッセージは、Microsoft データ センターの Exchange Server が実行されているコンピューター上に格納されます。
   
@@ -60,7 +60,7 @@ Exchange Online サービスにアクセスする各ユーザーは、サブス�
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online のストレージと受信者の制限
 
-Exchange Online サブスクリプション プランで使用できるストレージおよび受信者数の制限の詳細については、「[Exchange Online の制限](exchange-online-limits.md)」を参照してください。
+Exchange Online サブスクリプションプランで使用可能なストレージと受信者の制限については、「 [Exchange online の制限](exchange-online-limits.md)」を参照してください。
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 の各プランで利用できる機能
 
@@ -131,7 +131,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |**[レポート機能とトラブルシューティングツール](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Microsoft 365 管理センターのレポート|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
 |Excel レポート作成ブック|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
-|Web サービスレポート|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
+|Web サービスレポート|いいえ|いいえ|あり|はい|はい|はい|はい|はい|
 |Message trace|いいえ|あり|はい|はい|はい|はい|はい|はい|
 |監査レポート|はい|はい|はい|はい|はい|はい|はい|はい <sup>3</sup>|
 |ユニファイド メッセージングのレポート|はい|はい|不要|いいえ|いいえ|あり|はい|いいえ|
@@ -212,7 +212,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |役割に基づくアクセス許可|はい|はい|はい|はい|いいえ|
 |役割グループ|はい|はい|はい|はい|いいえ|
 |役割の割り当てポリシー|はい|はい|はい|はい|いいえ|
-|**[メッセージ ポリシーと準拠](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**[メッセージポリシーとコンプライアンス](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Exchange Online ベースのメールボックスのアーカイブ|はい|いいえ|あり|はい|いいえ|
 |社内メールボックスのクラウドベースのアーカイブ|はい <sup>5</sup>|はい <sup>5</sup>|いいえ|はい|いいえ|
 |Messaging Records Management(MRM) |はい|はい|はい|はい|はい|
@@ -237,12 +237,12 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |送信メールのカスタムルーティング|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|
-|Conditional mail routing|いいえ|いいえ|あり|はい|はい|
-|着信セーフリストへのパートナーの追加|いいえ|いいえ|あり|はい|はい|
+|Conditional mail routing|いいえ|いいえ|はい|はい|はい|
+|着信セーフリストへのパートナーの追加|いいえ|いいえ|はい|はい|はい|
 |ハイブリッド電子メールルーティング|はい|はい|はい|はい|はい|
 |**[受信者](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |容量のアラート|はい|はい|はい|はい|はい|
-|クラッター機能|いいえ|いいえ|あり|はい|はい|
+|クラッター機能|いいえ|いいえ|はい|はい|はい|
 |メール ヒント|はい|はい|はい|はい|はい|
 |代理人アクセス|はい|はい|Yes\|(はい)|いいえ|
 |受信トレイのルール|はい|はい|はい|はい|はい|
@@ -272,7 +272,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |フェデレーションの共有|はい|はい|はい|はい|はい|
 |サイト メールボックス|はい <sup>3</sup>|はい <sup>3</sup>|はい <sup>4</sup>|はい <sup>4</sup>|はい <sup>4</sup>|
 |パブリック フォルダー|はい|はい|はい|はい|いいえ|
-|**[クライアントとモバイル デバイス](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**[クライアントとモバイルデバイス](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|はい|はい|はい|はい|いいえ|
 |Outlook on the web|はい|はい|はい|はい|はい|
 |Exchange ActiveSync|はい|はい|はい|はい|はい|
@@ -280,7 +280,7 @@ Exchange Online サブスクリプション プランで使用できるストレ
 |SMTP|はい|はい|はい|はい|はい|
 |EWS アプリケーションのサポート|はい|はい|はい|はい|いいえ|
 |Outlook for Mac|はい|はい|はい|はい|いいえ|
-|**[ボイス メッセージ サービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**[音声メッセージサービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |ボイス メール|はい|はい|いいえ|はい|いいえ|
 |サードパーティボイスメールの相互運用性|はい|はい|はい|はい|はい|
 |Skype for Business の統合|はい|はい|はい|はい|はい|

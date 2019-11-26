@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続はインターネット経由で行われるため、仮想プライベートネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
-ms.openlocfilehash: 9bdf09711e571d6d75636bcebfd3572ecadfe670
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581443"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260712"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのクライアント機能
 
@@ -38,7 +38,7 @@ Outlook 2010 以降および web 上の Outlook では、アーカイブのす�
 Outlook 2007 はアーカイブの基本的なサポートを提供しますが、一部のアーカイブ機能とコンプライアンス機能が Outlook 2007 では使用できません。たとえば、Outlook 2007 では、ユーザーは、保持ポリシーやアーカイブ ポリシーをメールボックス内のアイテムに適用できません。代わりに、管理者によってプロビジョニングされるポリシーを使用する必要があります。Outlook 2007 ユーザーがアーカイブにアクセスするためには、2011 年 2 月の Office 2007 累積更新プログラムが必要です。
   
 > [!NOTE]
-> Outlook は Exchange Online Archiving に付属していません。Microsoft Office 365 ProPlus (Microsoft Outlook を含む) は、一部の Office 365 プランに含まれているほか、個別のサブスクリプションとして購入することもできます。詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。Office 365 ProPlus の詳細については、「[Office アプリケーション サービスの説明](../office-applications-service-description/office-applications-service-description.md)」を参照してください。 
+> Outlook は Exchange Online Archiving に付属していません。 Microsoft Office 365 ProPlus (Microsoft Outlook を含む) は、一部の Office 365 プランに含まれているほか、個別のサブスクリプションとして購入することもできます。 詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。 Office 365 ProPlus の詳細については、「 [office アプリケーションサービスの説明](../office-applications-service-description/office-applications-service-description.md)」を参照してください。 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online Archiving でサポートされているクライアント
 
@@ -48,17 +48,17 @@ Outlook 2007 はアーカイブの基本的なサポートを提供しますが�
 |:-----|:-----|
 |Outlook 2010 以降  <br/> |Exchange Online Archiving の最新機能をサポートします。<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Exchange Online Archiving と一緒に使用するためにサポートされています。<sup>1、2</sup> <br/> |
-|Outlook 2003  <br/> |非サポート  <br/> |
-|Outlook for Mac 2011  <br/> |非サポート  <br/> |
+|Outlook 2003  <br/> |サポート対象外  <br/> |
+|Outlook for Mac 2011  <br/> |サポート対象外  <br/> |
 |Outlook for Mac  <br/> |サポート対象外 Exchange Online Archiving<sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |非サポート  <br/> |
-|IMAP と POP  <br/> |非サポート  <br/> |
-|Exchange ActiveSync (モバイル デバイス)  <br/> |サポート対象外  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |サポート対象外  <br/> |
+|IMAP と POP  <br/> |サポート対象外  <br/> |
+|Exchange ActiveSync (モバイルデバイス)  <br/> |サポート対象外  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Microsoft Office Standard に含まれている Outlook はサポートされていません。 詳細については、「[個人用アーカイブおよびアイテム保持ポリシーのライセンス要件](https://support.office.com/article/Outlook-license-requirements-for-Exchange-features-46B6B7C5-C3CA-43E5-8424-1E2807917C99)」を参照してください。 <br/> 
 <sup>2</sup>アーカイブサポートを有効にするには更新が必要です。 Outlook 2007 ユーザーは、アーカイブメールボックス内のアイテムの保持ポリシーまたはアーカイブポリシーを表示したり、適用したりすることはできません。管理者によってプロビジョニングされたポリシーに頼る必要があります。 また、Outlook 2007 ユーザーはオンプレミスのメールボックスとアーカイブを同時に検索することはできません。 <br/> 
-<sup>3</sup> outlook 2016 for mac または Outlook for mac を使用して、フォルダー、予定表アイテム、連絡先、タスク、またはメモをアーカイブに移動またはコピーすることはできません。または、アーカイブメールボックスでアイテムが以前に移動されていた場合は、他のバージョンの outlook (Outlook 2016 for Windows)。 詳細については、「 [Outlook 2016 For Mac でオンラインアーカイブを使用する](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)」を参照してください。 
+<sup>3</sup> outlook 2016 for mac または Outlook for mac を使用して、フォルダー、予定表アイテム、連絡先、タスク、またはメモをアーカイブに移動またはコピーすることはできません。または、以前に他のバージョンの Outlook (outlook 2016 for Windows) を使用してアイテムが移動されていた場合は、アーカイブメールボックスに表示すること 詳細については、「 [Outlook 2016 For Mac でオンラインアーカイブを使用する](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)」を参照してください。 
 
 ## <a name="outlook-on-the-web"></a>Web 上の Outlook
 

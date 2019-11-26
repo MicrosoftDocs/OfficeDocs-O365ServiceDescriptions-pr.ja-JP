@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection の機能と要件に関する情報を取得します。 Exchange Online Protection を提供するプランの一覧と、それらのプラン全体での機能の比較について説明します。
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700229"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260922"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection サービスの説明
 
@@ -29,7 +29,7 @@ Exchange Online Protection の機能と要件に関する情報を取得しま�
 
 - **スタンドアロンのシナリオで**は、EOP は、オンプレミスの電子メール環境 (Exchange サーバーやその他のオンプレミスの SMTP 電子メールソリューション) に対してクラウドベースの電子メール保護を提供します。
 
-- **Microsoft Exchange online の一部として**: 既定では、EOP は Exchange Online クラウドホスト型メールボックスを保護します。 Exchange Online の詳細については、「[Exchange Online サービスの説明](../exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
+- **Microsoft Exchange online の一部として**: 既定では、EOP は Exchange Online クラウドホスト型メールボックスを保護します。 Exchange Online の詳細については、「 [Exchange online サービスの説明](../exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
 
 - **ハイブリッド展開で**は、社内メールボックスとクラウドメールボックスが混在している場合にメッセージング環境を保護し、メールルーティングを制御するように EOP を構成できます。
 
@@ -75,7 +75,7 @@ EOP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ## <a name="limits"></a>制限
 
-EOP の制限については、「[Exchange Online Protection の制限](exchange-online-protection-limits.md)」を参照してください。
+EOP の制限については、「 [Exchange Online Protection の制限](exchange-online-protection-limits.md)」を参照してください。
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Exchange Online Protection (EOP) の各プランで利用できる機能
 

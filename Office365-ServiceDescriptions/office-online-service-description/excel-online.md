@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020264"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261918"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -102,7 +102,7 @@ Excel のテーブルを作成した後は、テーブルの機能を使用せ�
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-テキスト、数値、数式、図形、グラフ、および画像の切り取り、コピー、貼り付けを行うことができます。 行に配置するために回転する必要があるデータが列にある場合は、[**貼り付け**] メニューの [**置換**] 機能を使用します。
+テキスト、ハイパーリンク、数字、数式、図形、グラフ、および画像の切り取り、コピー、貼り付けを行うことができます。 行に配置するために回転する必要があるデータが列にある場合は、[**貼り付け**] メニューの [**置換**] 機能を使用します。 [Excel での web 上のコピーと貼り付けの詳細については、「」](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)を参照してください。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -172,7 +172,7 @@ Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式
 
 編集表示でブラウザーのブックに表示できるものはすべて、閲覧表示でも表示できます。
   
-## <a name="functions"></a>関数
+## <a name="functions"></a>= (式) フィールドで使用できる関数
 
 Excel の web 用の数式では、Excel の最大400のワークシート関数を使用できます。
   
@@ -244,7 +244,7 @@ Excel for the web を使用すると、Power Pivot テーブルおよびグラ�
 
 ブック内の Power View シートを表示して操作することはできますが、web に Excel を使用して Power View を作成することはできません。 Power View を作成するには、デスクトップ アプリケーションを使用する必要があります。 Power View では、対話型で、プレゼンテーションに対応したビューでデータの作成、共有、探索ができます。 1 つのワークシートの相互にリンクされた対話型のマップ、グラフ、テーブルで情報を表示します。 詳細については、「 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674)」を参照してください。
   
-## <a name="print"></a>Print
+## <a name="print"></a>印刷
 
 Web 用 Excel の [印刷] コマンドを使用して、ワークシート全体または現在の選択範囲をプリンターに送信します。 詳細について[は、「Excel で web 用に印刷する」を](https://go.microsoft.com/fwlink/p/?LinkId=271676)参照してください。
   
@@ -342,4 +342,4 @@ Web 用 Excel では使用できません。 必要に応じて、Excel での "
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the Web Service Description](office-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the web service description](office-online-service-description.md)」を参照してください。

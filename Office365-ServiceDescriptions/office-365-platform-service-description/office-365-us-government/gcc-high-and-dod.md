@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568120"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262548"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -25,7 +25,7 @@ ms.locfileid: "36568120"
   
 ## <a name="how-to-use-this-service-description-section"></a>このサービスの説明セクションの使用方法
 
-Office 365 US Government のサービスの説明は、全般的な Office 365 のサービスの説明へのオーバーレイとして機能するよう設計されています。Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
+Office 365 US Government サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
   
 ## <a name="compliance"></a>コンプライアンス
 
@@ -43,7 +43,7 @@ Office 365 のスタッフには、GCC High および DoD 製品への永続的�
   
 |||
 |:-----|:-----|
-|**Microsoft の人事審査とバックグラウンドチェック**<sup>1</sup> <br/> |**説明** <br/> |
+|**Microsoft の人事審査と背景のチェック**<sup>1</sup> <br/> |**説明** <br/> |
 |アメリカ国籍  <br/> |アメリカ国籍の確認  <br/> |
 |職歴チェック  <br/> |過去 7 年間の職歴の確認  <br/> |
 |学歴の確認  <br/> |最終学歴の検証  <br/> |
@@ -110,6 +110,6 @@ Yammer Enterprise は、GCC High および DoD 環境では使用できません
   
 ## <a name="customer-support"></a>顧客サポート
 
-Microsoft は、Office 365 GCC 高/DOD を使用している場合、サポートインシデントの一部として、お客様のサポート担当者とお客様のサポート担当者との間で、管理された機密情報や機密情報を共有しないことをお客様に促します。そのようなデータにアクセスする。
+Office 365 GCC 高/DOD を使用している場合は、サポートインシデントの一部として、制御された機密情報や機密情報をサポートインシデントの一部として共有しないようにしてください。少なくとも、そのようなデータを表示またはアクセスするためのサポートエージェントの承認を確認するまで。
 
 Microsoft は、お客様の[プライバシー](https://privacy.microsoft.com/privacystatement)の保護に努めています。 ただし、Office 365 GCC High/DoD サポートは、サービスの認定境界には含まれておらず、FedRAMP、DOD SRG、ITAR、IRS 1075、または CJIS データ処理コンプライアンスの保証は提供されません。

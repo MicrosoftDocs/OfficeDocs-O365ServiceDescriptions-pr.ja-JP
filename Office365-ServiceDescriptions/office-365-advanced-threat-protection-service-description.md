@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734175"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262800"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -27,7 +27,7 @@ Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベー�
 
 - Office 365 ATP のフィルター処理のみのシナリオでは、オンプレミスの Exchange Server 環境またはその他の社内 SMTP 電子メールソリューションに対して、クラウドベースの電子メール保護を ATP が提供します。
 
-- Office 365 ATP は Exchange Online クラウド ホスト型メールボックスを保護するために有効にすることができます。Exchange Online の詳細については、「[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
+- Office 365 ATP は Exchange Online クラウド ホスト型メールボックスを保護するために有効にすることができます。 Exchange Online の詳細については、「 [Exchange online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
 
 - ハイブリッド展開でオンプレミスのメールボックスとクラウドのメールボックスが混在している場合は、受信電子メール フィルタリングに Exchange Online Protection を併用するように ATP を構成し、メッセージング環境の保護やメール ルーティングの制御が行えます。
 
@@ -119,7 +119,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 > [!NOTE]
 > ユーザーが ATP<sup>\*</sup>のライセンスを持っている必要があり、Atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
 
-<sup>\*</sup>組織全体にわたる ATP のライセンス (ATP_ENTERPRISE_FACULTY など) の場合、ATP のライセンスを個々のユーザーに割り当てる必要はありません。
+<sup>\*</sup>組織全体にわたる ATP のライセンス (ATP_ENTERPRISE_FACULTY など) については、個々のユーザーに ATP ライセンスを割り当てる必要はありません。
 
 ### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
 
@@ -131,7 +131,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ### <a name="real-time-reports"></a>リアルタイムレポート
 
-Office 365 セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムのレポートと洞察](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)が含まれており、セキュリティおよびコンプライアンスの管理者が、セキュリティ攻撃などの優先度の高い問題に焦点を当てることができます。疑わしいアクティビティ。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
+Office 365 セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムのレポートと洞察](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)が含まれており、セキュリティおよびコンプライアンスの管理者は、セキュリティ攻撃や不審な活動の増加など、優先度の高い問題に焦点を当てることができます。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
 
 ### <a name="threat-trackers"></a>脅威トラッカー
 

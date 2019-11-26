@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Yammer では次の検出機能が利用可能です。
-ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726380"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263098"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer の検出機能
 

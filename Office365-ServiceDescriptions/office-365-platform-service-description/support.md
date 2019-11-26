@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Office 365 Enterprise、Business、エデュケーション、および政府のすべてのサブスクリプションで、Microsoft サポートは、グローバルな技術、セールス前、請求書、サブスクリプションサポートを提供します。 サポートは、Office 365 ポータルと、有料サブスクリプションおよび試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Office 365 サポートオプション」を参照してください。
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582193"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262218"
 ---
 # <a name="support"></a>サポート
 
@@ -31,7 +31,7 @@ O365 テクニカル サポート チームは、Office 365 に関連する問�
   
 ## <a name="community-and-self-service-support-options"></a>コミュニティおよびセルフサービス サポート
 
-セルフサービス サポートは Office 365 のすべてのプランで利用できます。[Office 365 コミュニティ](https://go.microsoft.com/fwlink/p/?LinkID=279811)では、トラブルシューティング用のツールやビデオ、ヘルプ用の記事やビデオ、およびフォーラムや Wiki などが利用できます。セルフサービス サポートのリソースの詳細については、[ヘルプとトレーニング](help-and-training.md) サービスの説明を参照してください。
+セルフサービス サポートは Office 365 のすべてのプランで利用できます。[Office 365 コミュニティ](https://go.microsoft.com/fwlink/p/?LinkID=279811)では、トラブルシューティング用のツールやビデオ、ヘルプ用の記事やビデオ、およびフォーラムや Wiki などが利用できます。 セルフサービスサポートリソースの詳細については、[ヘルプとトレーニング](help-and-training.md)サービスの説明を参照してください。
   
 ## <a name="pre-sales-support"></a>販売前サポート
 
@@ -201,4 +201,4 @@ Microsoft パートナーを選択して、サービス要求チケットの作�
 
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。

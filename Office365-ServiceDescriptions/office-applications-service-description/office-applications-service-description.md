@@ -1,5 +1,5 @@
 ---
-title: Office アプリケーション サービスの説明
+title: Office アプリケーションサービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
-ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
+ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748981"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261958"
 ---
-# <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
+# <a name="office-applications-service-description"></a>Office アプリケーションサービスの説明
 
 Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
   

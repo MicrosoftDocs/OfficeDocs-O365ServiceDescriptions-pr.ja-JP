@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。
-ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 08e3295930933b9f233dcff36e2ad94972d7c2ee
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289777"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260752"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。 
   
 > [!TIP]
-> Exchange Online の制限について詳しくは、「[Exchange Online の制限](../exchange-online-service-description/exchange-online-limits.md)」を参照してください。トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
+> Exchange Online の制限の詳細については、「 [Exchange online の制限](../exchange-online-service-description/exchange-online-limits.md)」を参照してください。 トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。 Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
   
 - **ドメイン制限** テナントあたり最大 900 のドメインを追加できます。この 900 の制限には、サブドメイン、または必要に応じて、キャッチオール オプションの一部として一致サブドメインを含めることができます。詳しくは、「 [EOP で承認済みドメインを管理する](https://go.microsoft.com/fwlink/p/?LinkId=282239)」を参照してください。
     
@@ -42,7 +42,7 @@ ms.locfileid: "38289777"
     
 - **エンドユーザー スパム検疫通知** 既定では、有効にされている場合、エンドユーザーのスパム検疫通知が 3 日ごとに送信されます。それらは 1 ～ 15 日ごとに送信されるように構成できます。 
     
-- **レポート作成とメッセージ追跡の制限** レポート作成とメッセージ追跡の制限については、「 [Exchange Online Protection でのレポート作成とメッセージ追跡](https://go.microsoft.com/fwlink/?LinkId=394248)」の「レポート機能とメッセージ トレース データの使用可能性と遅延」セクションを参照してください。
+- **レポート作成とメッセージ追跡の制限**レポート作成とメッセージ追跡の制限については、「Reporting and message trace [In Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
     
 ### <a name="limits-across-eop-options"></a>各 EOP オプションでの制限
 

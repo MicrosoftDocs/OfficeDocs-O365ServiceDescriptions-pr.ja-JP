@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582013"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262720"
 ---
 # <a name="sharing-and-collaboration"></a>共有とコラボレーション
 
 ## <a name="federated-sharing"></a>フェデレーションの共有
 
-フェデレーションとは、フェデレーション共有をサポートする基盤となる信頼インフラストラクチャを指します。 Microsoft Exchange Online ユーザーは、他の外部のフェデレーション組織の受信者と連絡先情報を共有するための方法と、インターネットにアクセスできるユーザー。 これらには、Exchange Online でホストされている組織や、外部の Microsoft Exchange Server 2010 または Exchange Server 2013 組織があります。 Exchange Online 管理者は、組織の関係と共有ポリシーを使用して、Microsoft Outlook on the web または Microsoft Outlook 2010 以降から予定表共有への招待状を送信することができます。
+フェデレーションとは、フェデレーション共有をサポートする基盤となる信頼インフラストラクチャを意味します。 Microsoft Exchange Online ユーザーは、他の外部フェデレーション組織の受信者やインターネットにアクセスできるユーザーと連絡先情報を共有するための方法があります。 これらには、Exchange Online でホストされている組織や、外部の Microsoft Exchange Server 2010 または Exchange Server 2013 組織があります。 Exchange Online 管理者は、組織の関係と共有ポリシーを使用して、Microsoft Outlook on the web または Microsoft Outlook 2010 以降から予定表共有への招待状を送信することができます。
   
 > [!IMPORTANT]
 >  外部 Exchange 2010 と Exchange 2013 の組織は、フェデレーション共有の構成の一環として、Microsoft Federation Gateway とのフェデレーション信頼を構成する必要があります。 Exchange Online 組織では、フェデレーション信頼を構成する必要はありません。 Microsoft Federation Gateway とのフェデレーション信頼は、Office 365 テナントの作成時に自動的に作成されます。 
@@ -46,7 +46,7 @@ Office 365 のプランは SharePoint を含む必要があります。サイト
   
 ## <a name="public-folders"></a>パブリック フォルダー
 
-Exchange Online のパブリック フォルダーは、既存の高可用性とメールボックス データベースのストレージ テクノロジを活用するように近代化されています。 パブリック フォルダー アーキテクチャでは、特別に設計されたメールボックスを使用して、階層とパブリック フォルダーのコンテンツを保存します。 これは、独立したパブリック フォルダー データベースが存在しなくなったことを意味します。 パブリック フォルダーのレプリケーションは、連続レプリケーション モデルを使用するようになりました。 階層とコンテンツ メールボックスの高可用性は、データ センターのデータベース可用性グループ (DAG) によって提供されます。 Exchange Online では、パブリックフォルダーメールボックスは1000に制限されています。 各パブリック フォルダー メールボックスには、最大ストレージ サイズも設定されています。 詳細については、「[Exchange Online の制限](exchange-online-limits.md)」の「メールボックス フォルダーの制限」を参照してください。 パブリック フォルダー メールボックスのメッセージ、受信者、容量アラートに関する制限は、標準メールボックスと同じです。 詳細については、「[受信者](recipients.md)」を参照してください。 
+Exchange Online のパブリック フォルダーは、既存の高可用性とメールボックス データベースのストレージ テクノロジを活用するように近代化されています。 パブリック フォルダー アーキテクチャでは、特別に設計されたメールボックスを使用して、階層とパブリック フォルダーのコンテンツを保存します。 これは、独立したパブリック フォルダー データベースが存在しなくなったことを意味します。 パブリック フォルダーのレプリケーションは、連続レプリケーション モデルを使用するようになりました。 階層とコンテンツ メールボックスの高可用性は、データ センターのデータベース可用性グループ (DAG) によって提供されます。 Exchange Online では、パブリックフォルダーメールボックスは1000に制限されています。 各パブリック フォルダー メールボックスには、最大ストレージ サイズも設定されています。 詳細については、「 [Exchange Online の制限](exchange-online-limits.md)」の「メールボックスフォルダーの制限」セクションを参照してください。 パブリック フォルダー メールボックスのメッセージ、受信者、容量アラートに関する制限は、標準メールボックスと同じです。 詳細については、「[受信者](recipients.md)」を参照してください。 
   
 詳細については、「[Exchange Online の制限](https://go.microsoft.com/fwlink/p/?LinkId=271790)」の「メールボックス フォルダーの制限」を参照してください。
   

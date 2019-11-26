@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724695"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263058"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -32,7 +32,7 @@ Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 3
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**サービス**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Office 365 プラットフォーム <sup>1</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
+|Office 365 プラットフォーム<sup>1</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |Exchange Online|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |SharePoint Online|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|いいえ|
@@ -42,14 +42,14 @@ Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 3
 |Project Online <sup>3</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Power BI <sup>3</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Web 用 Visio <sup>4</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|Yammer エンタープライズ|該当なし|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+|Yammer エンタープライズ|該当なし|該当なし|該当なし|該当なし|該当なし|該当なし|該当なし|該当なし|
 |Azure Information Protection|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 
 > [!NOTE]
 > <sup>1</sup>ユーザーとドメインをセットアップできる Microsoft 365 管理センターを含む、関連機能を備えたクラウドベースのサブスクリプションサービス。 <br/>
 <sup>2</sup>Office 365 ProPlus プランを別途購入できます。 Office 365 ProPlus は Office 365 Germany Enterprise E3 と Office 365 Germany Enterprise E4 に含まれています。 先進認証 (「[Office クライアントで Office 365 先進認証を使用する](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)」) が Office 365 Germany で使用可能になっている必要があります。 <br/>
 <sup>3</sup> Project Online と Power BI は含まれていませんが、個別のアドオン サービスとして購入するか、または Office 365 Germany Education A1 プランに無料で追加することが可能です。 <br/>
-<sup>4</sup> web 消費 (表示機能) の Visio は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+<sup>4</sup> web 消費 (表示機能) の Visio は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
 
 ## <a name="system-requirements"></a>システム要件
 
@@ -75,7 +75,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する|はい|はい|はい|はい|はい|はい|はい|はい|
 |Azure Information Protection を使用してコンテンツを保護する|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|いいえ|いいえ|<sup>2</sup>なし|
-|**[Office 365 スイート機能](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Office 365 スイートの機能](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft の予約|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft ブリーフィング電子メール|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Flow|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -116,7 +116,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |電子メールと IM に異なるプロバイダーを使用する|はい|はい|はい|はい|はい|はい|はい|はい|
 |カスタム ドメインに必要なドメイン所有権の検証|はい|はい|はい|はい|はい|はい|はい|はい|
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|**[サービスの正常性および継続性](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[サービスの正常性と継続性](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|はい|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態|はい|はい|はい|はい|はい|はい|はい|はい|
 |[ **サービスの正常性**] RSS フィード|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -144,7 +144,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |使用されるブラウザー|はい|はい|はい|はい|はい|はい|はい|はい|
 |使用されるオペレーティング システム|はい|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[サービスの更新](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[サービス更新](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|はい|はい|はい|はい|
 |アクションが必要な場合にメッセージ センターに通知を送信|はい|はい|はい|はい|はい|はい|はい|はい|
 |一部のサービス更新の Roadmap.office.com|はい|--|はい|はい|はい|はい|はい|はい|
@@ -783,7 +783,7 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 > <sup>1</sup> Azure Information Protection は含まれていませんが、サポートされている IRM 機能を有効にするために個別のアドインとして購入できます。<br/>
 <sup>2</sup>Office および SharePoint のアプリ ストアは、Microsoft Corporation または Microsoft の世界中のいずれかの施設の関連会社が運用しているオプションのサービスです。 ストアで入手可能なアプリは、アプリのさまざまな発行元によって提供され、アプリ発行元の使用条件とプライバシーに関する声明が適用されます。 これらのいずれかのアプリを使用した場合、データは、アプリの発行元、その関連会社またはサービス プロバイダーが施設を保有する国に転送されたり、それらの国で保存または処理されます。 特定のアプリおよび支払い方法が使えるかどうかは、地域やサービスによって異なります。 そのようなアプリをダウンロードして使用する前に、アプリ発行元の使用条件とプライバシーに関する声明をよく確認してください。<br/>
 <sup>3</sup> 現時点では Windows スマートフォンでは利用できません。<br/>
-<sup>4</sup> web 消費 (表示機能) の Visio は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+<sup>4</sup> web 消費 (表示機能) の Visio は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
 
 ## <a name="project-online-features"></a>Project Online の機能
 
@@ -1056,7 +1056,7 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 <sup>14</sup>組織コミュニティの web サイトは利用可能ですが、パブリックコミュニティ提供のヘルプは利用できません。<br/>
 <sup>15</sup> Access 2010 はサポートされていません。<br/> <sup>16</sup>キオスクユーザーは、ライブタイルを使用して Office ドキュメントを作成できません。 ドキュメントを作成するには、[**新規****作成**] メニューからファイルタイプ-Word ドキュメント、excel ブック、PowerPoint プレゼンテーション、OneNote ノートブック、または excel アンケートを選択して、SharePoint Online サイトからドキュメントを作成する必要があります。 <br/>
 <sup>17</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。<br/>
-<sup>18</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。<br/>
+<sup>18</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。<br/>
 <sup>19</sup> K1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 K1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
@@ -1202,4 +1202,4 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 
 ## <a name="visio-for-the-web-features"></a>Web 機能用の Visio
 
-Web 用の Visio は、Office 365 ドイツで利用できます。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+Web 用の Visio は、Office 365 ドイツで利用できます。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。

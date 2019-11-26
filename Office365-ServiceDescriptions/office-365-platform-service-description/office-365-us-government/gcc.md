@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 US Government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
-ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890423"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262538"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -25,7 +25,7 @@ ms.locfileid: "37890423"
   
 ## <a name="how-to-use-this-service-description-section"></a>このサービスの説明セクションの使用方法
 
-Office 365 US Government のサービスの説明は、全般的な Office 365 のサービスの説明へのオーバーレイとして機能するよう設計されています。Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
+Office 365 US Government サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
   
 ## <a name="us-government-community-compliance"></a>US Government Community のコンプライアンス
 
@@ -59,7 +59,7 @@ Office 365 のスタッフには、Office 365 US Government Community でホス�
 
 Yammer Enterprise は Office 365 US Government のコンポーネントではありませんが、Office 365 US Government プラン E1 と E3 のライセンスを受けた各ユーザー向けに、スタンドアロン プランとして無料で取得できます。現在、このプランは、Enterprise Agreement および Enterprise Subscription Agreement に基づいて Office 365 US Government を購入するユーザーに限定されています。 
   
-現在、Yammer は、アプリケーション層で顧客データを論理的に分離しています。しかし、Yammer は Office 365 US Government と同じデータ配置やデータ アクセスの機能を提供していませんし、FedRAMP 認証評価をサポートしていません。そのため、Office 365 のサービスとは異なる契約条件に従っています。組織で Yammer を使用することが適切であるかどうか査定する際には、[Yammer サービスの説明](../../yammer-service-description/yammer-service-description.md) とプライバシーに関する条件を検討することをお勧めします。Yammer が含まれる Office 365 Government プランを調べるには、「 [Office 365 US Government](office-365-us-government.md)」をご覧ください。
+現在、Yammer では、アプリケーション層で顧客データを論理的に分離しています。 ただし、Yammer は、Office 365 US Government と同じデータの場所とデータアクセス機能を提供しません。また、FedRAMP 認定をサポートしておらず、Office 365 サービスからのさまざまな契約条項の対象となります。 組織にとって適切な Yammer の使用を評価する際に、 [yammer サービスの説明](../../yammer-service-description/yammer-service-description.md)とプライバシーに関する用語を確認することをお勧めします。 Yammer を含む Office 365 Government プランについては、「 [office 365 US Government](office-365-us-government.md)」を参照してください。
   
 Office 365 US Government サブスクリプションの一部として Yammer を使用することが組織にとって適切であると判断し、エンタープライズ加入契約下で Yammer を含む上記のプランのいずれかを購入した場合、Yammer Enterprise サブスクリプションを有効にする修正を要求できます。
   

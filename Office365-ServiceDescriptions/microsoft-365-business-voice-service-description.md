@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business Voice Service の説明
+title: Microsoft 365 Business Voice service の説明
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話に使用することを可能にするアドインサービスです。 これにより、電話システム、国内通話プラン、SMS、電話会議が統合されます。
-ms.openlocfilehash: a2d8c50e83a19b6c8b5602b55fa7feb10039364c
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37972509"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262780"
 ---
-# <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice Service の説明
+# <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice service の説明
 
 Microsoft 365 Business Voice は、電話システムの機能 (コールパーク、着信転送、自動応答、通話キュー、電話会議、通話プランなど) を提供するクラウドベースのテレフォニーソリューションです。 ビジネス音声は、Microsoft Teams (最大300ライセンス) を含む Office 365 および Microsoft 365 サブスクリプションに追加できます。 ビジネス音声サービスの詳細については、「 [Microsoft 365 Business voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice)」を参照してください。
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: ドメインを追加する時にステップ バイ ステップのウィザードを使用すれば、ユーザーを追加したり、Office 365 のメール アドレスやその他のサービスを会社名に変換したりする作業を簡単に行えます。 ウィザードを完了すると、ビジネス用の電子メールは、現在のメール プロバイダーではなく Office 365 に届くようになります。 詳細については、「Office 365 にユーザーとドメインを追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: cc88aeb19573b089d06749df5ab6db5de4bbecfa
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595225"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262790"
 ---
 # <a name="domains"></a>ドメイン
 
@@ -57,6 +57,6 @@ Office 365 は、Office 365 上のドメインのいくつかの電子メール 
     
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 Platform Service Description](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 コンプライアンス-DoD 展開の計画
+title: Microsoft 365 コンプライアンスの計画 - DoD 展開
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進している IT 担当者、または政府の規制と要件に従うデータを処理するその他のエンティティに対して、Microsoft 365 Government – DoD を使用することが適切である IT 担当者を対象としています。これらの要件を満たしていること。
-ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319485"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262840"
 ---
-# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンス-DoD 展開の計画
+# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンスの計画 - DoD 展開
 
 このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進している IT 担当者、または政府の規制と要件に従うデータを処理するその他のエンティティに対して、Microsoft 365 Government – DoD を使用することが適切である IT 担当者を対象としています。これらの要件を満たしていること。
 
@@ -78,7 +78,12 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                        |情報障壁                            | Available              |
 |                                        |ファイルと電子メールのデータ損失防止 (DLP)  | Available              |
 |                                        |Teams チャットおよびチャネル会話の DLP    | エンジニアリングバックログの場合 |
+|                                        |DLP の正確なデータ一致                            | エンジニアリングバックログの場合 |
+|                                        |ラベル アクティビティ エクスプローラー                         | エンジニアリングバックログの場合 |
+|                                        |Trainable 分類子                           | エンジニアリングバックログの場合 |
+|                                        |統合されたラベルと機密ラベル         | エンジニアリングバックログの場合 |
 |**Insider リスク管理**             |高度なメッセージ暗号化                     | Available              |
+|                                        |Insider リスク管理                         | エンジニアリングバックログの場合 |
 |                                        |通信コンプライアンス                        | エンジニアリングバックログの場合 |
 |                                        |顧客ロックボックス                                | Available              |
 |                                        |カスタマー キー                                    | Available              |

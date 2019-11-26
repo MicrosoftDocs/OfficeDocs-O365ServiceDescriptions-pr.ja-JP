@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business サービスの説明
+title: Microsoft 365 Business service の説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: 05f1aada1626d55c76aac73c9c49d3585e385dea
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765618"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262850"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business service の説明
 
 Microsoft 365 Business は、高度な脅威からビジネスを保護するための高度なセキュリティとデバイスの管理により、Office 365 のクラス最高の生産性を促進する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「 [office 365 のサービスの説明](../office-365-service-descriptions-technet-library.md)」を参照してください。
   
@@ -114,6 +114,6 @@ Microsoft 365 Business には、Office 365 Business Premium で利用可能な�
 <sup>5</sup> Microsoft 365 管理センターに組み込まれている Windows 10 デバイス管理の簡略化。 IOS、Android、macOS、およびデバイス管理管理センターに組み込まれているその他のクロスプラットフォームデバイス管理の Intune 管理機能。また、Microsoft 365 Business での使用がライセンスされています。 サードパーティ製のアプリと Wi-fi プロファイルや VPN 証明書などの構成は、デバイス管理管理センターでも管理することができます。 <br/>
 <sup>6</sup>このプランには、ビデオポータル、テキストの音声変換、高度な検索、顔検出などの Microsoft Stream plan 2 が付属しています。<br/>
 <sup>7</sup> Microsoft 365 には、Office 365 Advanced Threat Protection プラン1が付属しています。 詳細については、「 [Microsoft 365 Business security and コンプライアンス機能](https://docs.microsoft.com/microsoft-365/business/security-features)」を参照してください。<br/>
-<sup>8</sup> Microsoft 365 Business には、ad 書き戻し、Azure 多要素認証 (MFA)、および条件付きアクセスを使用したセルフサービスのパスワードのリセットなど、Azure AD Premium P1 機能を選択します。 Azure AD Premium P1 の全体は含まれていません。</br>
+<sup>8</sup> Microsoft 365 Business には、次の Azure AD Premium P1 機能が含まれています。 ad 書き戻し、Azure 多要素認証 (MFA)、および条件付きアクセスを使用した、セルフサービスのパスワードのリセット。 Azure AD Premium P1 の全体は含まれていません。</br>
 <sup>9</sup> Microsoft 365 Business サブスクライバーは、IOS、Android、MacOS、その他のクロスプラットフォームデバイス管理のための完全な Intune 機能を使用するライセンスを持っています。 Microsoft 365 Business の管理センターでは使用できない機能。サードパーティのアプリ管理と Wi-fi プロファイル、VPN 証明書の構成などは、完全な Intune コンソールで管理できます。</br>
-<sup>10</sup> windows 7 および 8.1 Professional にライセンスされているデバイスがある場合、Microsoft 365 Business では Windows 10 Pro へのアップグレードが提供されます。 Microsoft 365 Business を使用すると、 [Windows Pro で有効になっている Microsoft Defender のセキュリティ機能](https://go.microsoft.com/fwlink/p/?linkid=2089903)を取得できるだけでなく、web ベースの脅威に対するネットワーク保護や、軽減するためのホスト侵入防止ルールについても、プレミアム機能にアクセスできるようになります。サム. Microsoft 365 Business テナントを設定するときは、[アプリの保護] と [デバイス構成の設定] を選択します。 これらの設定は、Azure Active Directory に参加するときにデバイスに自動的に適用されるポリシーを決定します。
+<sup>10</sup> windows 7 および 8.1 Professional にライセンスされているデバイスがある場合、Microsoft 365 Business では Windows 10 Pro へのアップグレードが提供されます。 Microsoft 365 Business を使用すると、 [Windows Pro で有効になっている Microsoft Defender のセキュリティ機能](https://go.microsoft.com/fwlink/p/?linkid=2089903)を取得できるだけでなく、web ベースの脅威に対するネットワーク保護や、ランサムウェア対策のためのホスト侵入防止ルールにもアクセスできるようになります。 Microsoft 365 Business テナントを設定するときは、[アプリの保護] と [デバイス構成の設定] を選択します。 これらの設定は、Azure Active Directory に参加するときにデバイスに自動的に適用されるポリシーを決定します。

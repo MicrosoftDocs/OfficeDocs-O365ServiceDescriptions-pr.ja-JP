@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Archiving サービスの説明
+title: Exchange Online アーカイブサービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online のアーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、microsoft を展開している組織のための Microsoft Office 365 クラウドベースのエンタープライズクラスのアーカイブソリューションです。Exchange Server 2010 (SP2 以降)。または、特定の Exchange Online または Office 365 プランにサブスクライブします。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319475"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260522"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
+# <a name="exchange-online-archiving-service-description"></a>Exchange Online アーカイブサービスの説明
 
 Microsoft Exchange Online のアーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、microsoft を展開している組織のための Microsoft Office 365 クラウドベースのエンタープライズクラスのアーカイブソリューションです。Exchange Server 2010 (SP2 以降)。または、特定の Exchange Online または Office 365 プランにサブスクライブします。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
   
-Microsoft Office 365 のオンライン サービスとして、Exchange Online Archiving は、堅牢なセキュリティ、信頼性、ユーザー生産性のニーズを満たすように設計されています。すべての Office 365 オンライン サービスに共通する機能を含む、Office 365 の詳細については、「[Office 365 プラットフォーム サービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)」をご覧ください。
+Microsoft Office 365 のオンライン サービスとして、Exchange Online Archiving は、堅牢なセキュリティ、信頼性、ユーザー生産性のニーズを満たすように設計されています。 すべての Office 365 online サービスに共通の機能を含む、Office 365 の詳細については、「 [office 365 プラットフォームサービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)」を参照してください。
   
 Exchange Online Archiving を購入するには、「[Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)」を参照してください。
   
 各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。
   
 > [!TIP]
-> Office 365 サービスの説明のページは、エクスポート、保存、印刷が可能です。[複数のページをエクスポート](https://docs.microsoft.com/office365/securitycompliance/export-search-results)する方法について説明します。 
+> Office 365 サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://docs.microsoft.com/office365/securitycompliance/export-search-results)する方法について説明します。 
   
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online Archiving プラン
 
@@ -49,9 +49,9 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 <br/>
 <sup>2</sup> Exchange Online プラン 1 プランと Office 365 Business プランには、 [メールボックスとアーカイブのサイズ制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)があります。 Exchange Online 用の Exchange Online Archiving アドオンにより、無制限のクラウド ベースのアーカイブと[インプレース保持と訴訟ホールド](compliance-and-security-features.md#in-place-hold-and-litigation-hold)が追加されます。
   
-すべての Office 365 プランに関する情報の検索。Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。スタンドアロン プラン オプションや、別のプランへの変更などの詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
+すべての Office 365 プランに関する情報の検索。 Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-## <a name="requirements"></a>要件
+## <a name="requirements"></a>Requirements
 
 Exchange Server 用の Exchange Online アーカイブを使用するには、ユーザーメールボックスが Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange Server 2010 (SP2 以降) に存在している必要があります。
   

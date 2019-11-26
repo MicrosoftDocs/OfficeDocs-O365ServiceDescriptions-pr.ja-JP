@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の機能は、SharePoint の機能を拡張するアプリやソリューションを構築する開発者をサポートしています。
-ms.openlocfilehash: 52b1b15dd098b6dd40a531cb5b462a7fff8b69f7
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 56ea1e5a083c4dd35eab8da537b77e802551ce32
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726254"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263118"
 ---
-# <a name="developer"></a>開発者
+# <a name="developer"></a>Developer
 
 SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の機能は、SharePoint の機能を拡張するアプリやソリューションを構築する開発者をサポートしています。
   

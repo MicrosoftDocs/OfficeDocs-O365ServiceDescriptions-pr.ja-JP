@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365 は、次のネットワーク機能をサポートしています。
-ms.openlocfilehash: 915736e704f3d3995993100a82515ee71113be5b
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523425"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262900"
 ---
 # <a name="networking"></a>ネットワーク
 
@@ -64,6 +64,6 @@ Office 365 のネットワーク インフラストラクチャは、世界規�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

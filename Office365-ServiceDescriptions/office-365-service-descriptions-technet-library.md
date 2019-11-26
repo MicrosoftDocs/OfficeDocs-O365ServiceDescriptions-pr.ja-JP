@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38726085"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262038"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
 
@@ -30,17 +30,17 @@ Microsoft Office 365 は、堅牢なセキュリティ、信頼性、および�
 サポート記事および情報を検索するには、「[Office のサポート](https://support.office.com/)」を参照してください。
   
 > [!NOTE]
-> サービスの説明を比較するスプレッドシートをお探しの場合、このスプレッドシートは廃止されました。各サービスの説明ページに記載されている、製品機能の提供状況を示す表が、ニーズに合った Office 365 のバージョンを選択するために役立つように更新されています。 
+> サービスの説明の比較スプレッドシートを探している場合は、廃止されました。 各サービスの説明ページにある製品機能の可用性表が更新され、ニーズに合った Office 365 のバージョンを選択するのに役立ちます。 
   
 Microsoft では、対象となるプランに含まれるサービスのために Office 365 用の FastTrack センターの特典を提供しています。 特典を利用すると、Microsoft の専門家とリモートで作業して、Office 365 環境を使用できる状態にすることができます。 詳細については、「[Office 365 用 FastTrack Center 特典](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
   
 まず、次のサービスの説明を参照してください。
   
-- [Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Office 365 プラットフォームサービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
     
-- [Office アプリケーション サービスの説明](office-applications-service-description/office-applications-service-description.md)
+- [Office アプリケーションサービスの説明](office-applications-service-description/office-applications-service-description.md)
     
-- [Office for the web サービスの説明](office-online-service-description/office-online-service-description.md)
+- [Web サービスの説明のための Office](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -48,7 +48,7 @@ Microsoft では、対象となるプランに含まれるサービスのため�
     
 - [Office 365 Advanced Threat Protection サービスの説明](office-365-advanced-threat-protection-service-description.md)
     
-- [Exchange Online Archiving サービスの説明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
 - [OneDrive for Business サービスの説明](onedrive-for-business-service-description.md)
     
@@ -66,13 +66,13 @@ Microsoft では、対象となるプランに含まれるサービスのため�
     
 - [Project Online サービスの説明](project-online-service-description/project-online-service-description.md)
     
-- [Web 用 Viso サービスの説明](visio-online-service-description/visio-online-service-description.md)
+- [Web サービスの説明のための Visio](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer サービスの説明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business service の説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 テナントレベルサービスライセンスガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
     

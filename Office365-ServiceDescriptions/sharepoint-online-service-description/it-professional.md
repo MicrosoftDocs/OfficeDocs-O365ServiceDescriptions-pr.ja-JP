@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の SharePoint 機能を使用すると、IT プロフェッショナルは組織の SharePoint 環境のセキュリティを確保し、管理することができます。
-ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c8a6f6075ed6b184be7d7deefde74d2bde13d750
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726220"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263331"
 ---
 # <a name="it-professional"></a>IT プロフェッショナル
 

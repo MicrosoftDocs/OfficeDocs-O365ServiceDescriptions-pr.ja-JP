@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724765"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263068"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -56,7 +56,7 @@ Microsoft は、サービス自体を運用していません。 21Vianet は、
 
 <sup>1</sup> Office 365 管理、Office 365 スイート アプリ、ユーザー アカウント管理、ドメイン、サービス正常性と継続性、レポート作成、サービスの更新、ヘルプとトレーニング、ネットワーキングなどの機能が含まれます。 詳しくは、 [プラットフォーム機能](office-365-operated-by-21vianet.md#platform-features)表をご覧ください。
 <br/><sup>2</sup> Project Online は含まれていませんが、個別のアドオン サービスとして購入するか、Office 365 A1 プランに無料で追加することができます。
-<br/><sup>3</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+<br/><sup>3</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
 
 ## <a name="system-requirements"></a>システム要件
 
@@ -124,7 +124,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |カスタム ドメイン名を使用した複数の SharePoint Online パブリック Web サイトをホストする<sup>5</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |カスタム ドメインに必要なドメイン所有権の検証|はい|はい|はい|はい|はい|はい|はい|
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|**[サービスの正常性および継続性](service-health-and-continuity.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
+|**[サービスの正常性と継続性](service-health-and-continuity.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態|はい|はい|はい|はい|はい|はい|はい|
 |[ **サービスの正常性**] RSS フィード|はい|はい|はい|はい|はい|はい|はい|
@@ -153,7 +153,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |使用されるブラウザー|はい|はい|はい|はい|はい|はい|はい|
 |使用されるオペレーティング システム|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成|はい|はい|はい|はい|はい|はい|はい|
-|**[サービスの更新](service-updates.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
+|**[サービス更新](service-updates.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|はい|はい|はい|
 |メッセージセンターへの通知の送信アクションが必要な場合、問題が解決された場合、機能が展開された場合、またはサービスが変更された場合|はい|はい|はい|はい|はい|はい|はい|
 |一部のサービス更新の[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)|はい|--|はい|はい|はい|はい|はい|
@@ -191,7 +191,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |指定されたプランを使用しているカスタマーに対する試用版への招待および発注書の作成|はい|はい|はい|はい|はい|はい|はい|
 |代理管理の提供|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[サービス レベル契約](service-level-agreement.md)**<sup>9</sup>|はい|はい|はい|はい|はい|はい|はい|
-|**[製品使用権](product-use-rights.md)**<sup>10</sup>|はい|はい|はい|はい|はい|はい|はい|
+|**[製品使用権限](product-use-rights.md)**<sup>10</sup>|はい|はい|はい|はい|はい|はい|はい|
 
 <sup>1</sup> 21vianet が運用している office 365 と office 365 は、製造元によってサポートされていないオペレーティングシステムのサポートを提供していません。<br/>
 <sup>2</sup> 21vianet が運用している Office 365 Enterprise F1 では、office 365 ビデオは表示のみに制限されています (公開または共有はできません)。 <br/>
@@ -280,7 +280,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>7</sup> Office 365 ProPlus は、ユーザー専用の仮想デスクトップインフラストラクチャ (VDI) でサポートされています。 Office 365 ProPlus は、ボリュームライセンスプログラムで購入した場合にのみリモートデスクトップサービス (RDS) をサポートします。
 <br/><sup>8</sup> Volume Activation for Office 365 Enterprise E3 and Office 365 ProPlus は、windows Server 2008 R2 以降のインストールに制限されており、RDS の役割が有効になっているか、Windows to Go をインストールできます。 どちらの場合も、これらのインストールにアクセスするユーザーは、Office 365 Enterprise E3 または Office 365 ProPlus のライセンスユーザーである必要があります。
 <br/><sup>9</sup>現在のチャネルを使用している場合、または段階的提供されているチャネルに対して対象指定リリースを行っている場合は、現在アクセスできます。 段階的提供チャネルを使用している場合は、2017年6月にアクセスできるようになります。 詳細については、「 [Office 365 business および Business Premium の一部として含まれる Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
-<br/><sup>10</sup> web 版 Visio は現在、21vianet が運用している Office 365 のプレビュー段階です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+<br/><sup>10</sup> web 版 Visio は現在、21vianet が運用している Office 365 のプレビュー段階です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
 <br/><sup>11</sup> 21vianet が運用している Office 365 について、近日中にリリースします。
 <br/><sup>15 個</sup>の Google サービス (再生ストアを含む) は、中国内ではアクセスできません。 主要な電話の製造元、またはユーザーがモバイルアプリをインストールできる検索エンジン会社によって管理されるアプリストアがいくつかあります。
 
@@ -298,7 +298,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**21Vianet が運用している web 用 Office**|**詳細な機能比較へのリンク**|
+|ユーザー要求を処理するサービス アプリケーション、サービス、コンポーネントは、フロントエンド Web サーバーに属します。これらのサーバーは、待ち時間が短くなるように最適化されています。|**21Vianet が運用している web 用 Office**|**詳細な機能比較へのリンク**|
 |Word|21Vianet が運用している web 用の Word|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|21Vianet が運用している web 用の Excel|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|21Vianet が運用している web 用の OneNote|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -460,7 +460,7 @@ Exchange Online の制限の詳細については、次のトピックを参照�
 > - Microsoft Office 365 組織に適用される制限は、その組織がサービスに登録されている期間に応じて異なる可能性があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。
 > - これらの制限の大部分は変更できませんが、注意を払う必要があります。
 > - これらの制限は内部受信者と外部受信者の両方に適用されます。
-> - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online で EOP 機能に適用される制限については、「[Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。
+> - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection の機能
 
@@ -555,7 +555,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 
 <sup>1</sup> ユーザー メールボックスが Exchange 2010 SP2 以降に存在する必要があります。 <br/>
 <sup>2</sup> インプレース アーカイブは、ライセンスが適用された単一のユーザーまたはエンティティのメールをアーカイブする場合にのみ使用できます。 複数のユーザーまたはエンティティからのメールを格納する方法として、インプレース アーカイブを使用することは禁止されています。 たとえば、IT 管理者は共有メールボックスを作成して、ユーザーが (Cc または Bcc フィールドを通じて、またはメールフロールールを介して) 共有メールボックスをアーカイブの明示的な目的でコピーすることはできません。 <br/>
-<sup>3</sup> サポートされている Microsoft Outlook のバージョンのリストについては、「 [Exchange Online Archiving のクライアント機能](../exchange-online-archiving-service-description/client-features.md)」を参照してください。 <br/>
+<sup>3</sup>サポートされている Microsoft Outlook のバージョンの一覧については、「 [Exchange Online アーカイブのクライアント機能](../exchange-online-archiving-service-description/client-features.md)」を参照してください。 <br/>
 <sup>4</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 <br/>
 <sup>5</sup> メールボックスのインプレース ホールドまたは訴訟ホールドを有効にすると、プライマリ メールボックスとアーカイブ メールボックスの両方にホールドが適用されます。
 
@@ -819,7 +819,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 <br/><sup>11</sup>キオスクアカウントには、OneDrive for business の機能が制限されています。 キオスクのユーザーは、OneDrive for Business フォルダー同期クライアントアプリケーションを使用して、チームサイトのドキュメントライブラリを共有のコンピューターと同期し、ドキュメントにオフラインでアクセスできます。 しかし、キオスクアカウントには OneDrive for Business の個人用サイトが含まれていないため、1 TB または 5 TB のオンラインストレージを使用している OneDrive for Business の個人用ライブラリからメリットを得ることはできません。
 <br/><sup>12</sup>任意のモバイルブラウザーでドキュメントを表示できます。 ドキュメントの編集には、Office Mobile アプリをインストールする必要があります。 現在 Office Mobile は、Windows Phone とタブレット、Android Phone とタブレット、iPhone、iPad で使用できます。
 <br/><sup>13</sup>ヘルプは、簡体字中国語および英語でのみ利用可能です。
-<br/><sup>14</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [Web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+<br/><sup>14</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
 <br/><sup>15</sup> K1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 K1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
@@ -1136,10 +1136,10 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |[管理、展開、拡張性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|<sup>2</sup>なし|はい|はい|いいえ|はい|
 |[作業の開始](../project-online-service-description/core-services-functionality.md#getting-started)|はい|はい|はい|いいえ|はい|
 |[問題とリスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|はい|はい|はい|いいえ|はい|
-|[Office 365 セキュリティ センター](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|いいえ|いいえ|いいえ|N/A|N/A|
+|[Office 365 セキュリティ センター](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|いいえ|いいえ|いいえ|該当なし|該当なし|
 |[PPM パートナーのエコシステム](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|はい|はい|はい|いいえ|はい|
-|[サービスの信頼性](../project-online-service-description/core-services-functionality.md#service-reliability)|はい|はい|はい|N/A|N/A|
-|[サービス更新](../project-online-service-description/core-services-functionality.md#service-updates)|はい|はい|はい|N/A|該当なし|
+|[サービスの信頼性](../project-online-service-description/core-services-functionality.md#service-reliability)|はい|はい|はい|該当なし|該当なし|
+|[サービス更新](../project-online-service-description/core-services-functionality.md#service-updates)|はい|はい|はい|該当なし|該当なし|
 |[チーム メンバーのコラボレーション](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|はい|はい|はい|いいえ|はい|
 |[時間とタスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|はい|はい|はい|いいえ|はい|
 |**プロジェクト管理**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|

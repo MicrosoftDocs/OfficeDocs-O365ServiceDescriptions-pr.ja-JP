@@ -1,5 +1,5 @@
 ---
-title: サービスの正常性および継続性
+title: サービスの正常性と継続性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
-ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
-ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
+ms.openlocfilehash: 4707d3eb79072e28e82aa565f50f6d0cf5d3c05c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38752716"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262478"
 ---
-# <a name="service-health-and-continuity"></a>サービスの正常性および継続性
+# <a name="service-health-and-continuity"></a>サービスの正常性と継続性
 
 Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
   
@@ -153,5 +153,5 @@ Office 365 の開発および運用チームは、お客様にビジネス継続
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 プラットフォームサービスの説明](office-365-platform-service-description.md)」を参照してください。
   

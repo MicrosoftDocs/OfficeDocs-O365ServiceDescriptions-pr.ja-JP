@@ -1,5 +1,5 @@
 ---
-title: Web 用 Viso サービスの説明
+title: Web サービスの説明のための Visio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700239"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263230"
 ---
-# <a name="visio-for-the-web-service-description"></a>Web 用 Viso サービスの説明
+# <a name="visio-for-the-web-service-description"></a>Web サービスの説明のための Visio
 
 Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用される図の種類と豊富な図形のセットを使用して、最初のクラスの図を簡単に作成できます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
   

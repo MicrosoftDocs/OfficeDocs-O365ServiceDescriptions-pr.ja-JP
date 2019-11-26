@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 特定の Skype for Business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。 詳細については、「Skype for Business ライセンスの概要」を参照してください。
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733748"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263271"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
 
@@ -40,13 +40,13 @@ Skype for Business は複数の顧客を同時にサポートするマルチテ�
 Skype for Business Online の新機能については、「[Skype for Business を使ってみる](https://go.microsoft.com/fwlink/?linkid=529224)」および「[Skype for Business の新機能](https://go.microsoft.com/fwlink/?linkid=846973)」を参照してください。
   
 > [!TIP]
-> Office 365 サービスの説明のページは、エクスポート、保存、印刷が可能です。[複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
+> Office 365 サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>Office 365 プランでの Skype for Business Online 機能の比較
 
 Skype for Business Online のバージョンを選択する場合は、簡易比較ページを使用することをお勧めします。[Skype 会議のプランの比較](https://go.microsoft.com/fwlink/?linkid=798291)に関する記事を参照してください。さらに詳細に比較する場合は、以下の機能の表をご覧ください。さらに支援が必要な場合は[サポート](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)にお問い合わせください。ドロップダウン リストからロケールを選択すると、現地の番号が見つかります。
   
-すべての Office 365 プランを確認するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。詳細な比較については、「[Office 365 プランのオプション](https://go.microsoft.com/fwlink/?linkid=846972)」を参照してください。
+すべての Office 365 プランを確認するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。 詳細な比較については、「 [Office 365 プランのオプション](https://go.microsoft.com/fwlink/?linkid=846972)」を参照してください。
   
  Skype for Business のデスクトップと Web クライアントの個々の機能を比較する場合は、[Skype for Business Online のクライアントの比較表](https://go.microsoft.com/fwlink/?linkid=829754)をご覧ください。Skype for Business のモバイル クライアントの詳細な比較については、[モバイル クライアントの比較表](https://go.microsoft.com/fwlink/?linkid=846932)をご覧ください。
   
@@ -157,11 +157,11 @@ Skype for Business Online のバージョンを選択する場合は、簡易比
 |Skype for Business の音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |**[セキュリティとアーカイブ](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |IM とメディアの暗号化  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|IM とファイルのフィルタリング  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|IM とファイルのフィルタリング  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |クライアントバージョンコントロール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |IM コンテンツのアーカイブ  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |会議コンテンツのアーカイブ  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
-|アプリケーション共有とデスクトップ共有のアーカイブ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アプリケーション共有とデスクトップ共有のアーカイブ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ユーザーレベルのアーカイブ構成  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |ログイントレースファイル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 のカスタマー キー<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |

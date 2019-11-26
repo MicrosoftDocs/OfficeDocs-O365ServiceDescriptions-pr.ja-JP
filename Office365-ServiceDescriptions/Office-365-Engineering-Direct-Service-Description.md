@@ -1,5 +1,5 @@
 ---
-title: Office 365 Engineering Direct Service の説明
+title: Office 365 Engineering Direct service の説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 Office 365 Engineering Direct Service の説明には、提供される機能と実装の要件に関する追加情報が含まれています。
-ms.openlocfilehash: 57274511660f36e7948bc42e9fd6214cf2c0ec52
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+description: Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 Office 365 Engineering Direct service の説明には、提供される機能と実装の要件に関する追加情報が含まれています。
+ms.openlocfilehash: d03e642126e3c617c5d44701391a892d259a79a4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733888"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260702"
 ---
-# <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct Service の説明
+# <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct service の説明
 
-Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 [Office 365 Engineering Direct Service の説明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)には、提供される機能と実装の要件に関する追加情報が含まれています。
+Office 365 Engineering Direct は、Microsoft プレミアサポート契約のエンタープライズレベルのサポートサービスを追加したものです。 [Office 365 Engineering Direct service の説明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)には、提供される機能と実装の要件に関する追加情報が含まれています。
 
 Office 365 Engineering Direct オファーリングを新しいお客様として取得するには、組織が Microsoft プレミアサポート提供物に加入し、Office 365 サービスのための大規模なエンタープライズ分類レベルを満たし、サポート契約の補遺を実施する必要があります。 追加されたサービススイートの追加料金が適用されます。 サポート契約の状態を確認し、サポートサービスをセキュリティ保護するための契約上の変更を開始するには、Microsoft アカウントチームの担当者にお問い合わせください。 
 

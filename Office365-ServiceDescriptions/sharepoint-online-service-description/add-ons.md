@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 Microsoft SharePoint Server 2013 上に構築されたこのホステッド サービスは、プロジェクトでの作業、データおよびドキュメントの一元的な保管、および情報共有に最適です。 Office 365 のお客様は、SharePoint Online に関連する追加のアドオンも購入できます。
-ms.openlocfilehash: ce39786029373163e407bc204d7d33192a0a7785
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: a74849d9d493a94456124d6340a7c92c72830fbc
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726316"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263361"
 ---
 # <a name="add-ons"></a>アドオン
 

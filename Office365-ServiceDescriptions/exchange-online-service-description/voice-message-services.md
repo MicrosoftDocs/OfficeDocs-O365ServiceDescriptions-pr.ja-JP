@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581433"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262690"
 ---
 # <a name="voice-message-services"></a>音声メッセージサービス
 
@@ -76,7 +76,7 @@ Exchange Online で使用可能な音声メッセージング サービス機能
   
 ## <a name="skype-for-business-integration"></a>Skype for Business 統合
 
-スタンドアロン サービスとして、または Microsoft Office 365 の一部として、Skype for Business Online を購入することができます。オンプレミスの Skype for Business 2015 もサポートされます。Skype for Business Online の詳細については、「[Skype for Business Online サービスの説明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)」を参照してください。
+スタンドアロン サービスとして、または Microsoft Office 365 の一部として、Skype for Business Online を購入することができます。 オンプレミスの Skype for Business 2015 もサポートされます。 Skype for business Online の詳細については、「 [skype For Business online サービスの説明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

@@ -1,5 +1,5 @@
 ---
-title: Office for the web サービスの説明
+title: Web サービスの説明のための Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633883"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263521"
 ---
-# <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
+# <a name="office-for-the-web-service-description"></a>Web サービスの説明のための Office
 
 Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。 
   
@@ -137,7 +137,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[セルのドラッグ アンド ドロップ](excel-online.md#drag-and-drop-cells) <br/> |はい  <br/> |はい  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |はい  <br/> |はい  <br/>|
 |[ワークシートの複製 (コピー)](excel-online.md#duplicate-copy-worksheets) <br/> |はい  <br/> |はい  <br/>|
-|[Web ページまたはブログページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |はい  <br/> |なし  <br/> |
+|[Web ページまたはブログページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |はい  <br/> |いいえ  <br/> |
 |[外部参照](excel-online.md#external-references-links) <br/> |<sup>4</sup>なし <br/> |はい  <br/> |
 |[フィルハンドル](excel-online.md#fill-handle) <br/> |はい  <br/> |はい  <br/> |
 |[検索](excel-online.md#find) <br/> |はい  <br/> |はい  <br/> |
@@ -170,7 +170,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[既存のデータ接続の更新](excel-online.md#refresh-existing-data-connections) <br/> |はい  <br/> |はい  <br/> |
 |[重複する値を削除する](excel-online.md#remove-duplicate-values) <br/> |はい  <br/> |はい  <br/> |
 |[シート名の変更とシートの追加](excel-online.md#rename-and-add-sheets) <br/> |はい  <br/> |はい  <br/> |
-|[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |はい  <br/> |なし  <br/> |
+|[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |はい  <br/> |いいえ  <br/> |
 |[置換](excel-online.md#replace) <br/> |はい  <br/> |はい  <br/> |
 |[Rights management: IRM とパスワードのセキュリティ](excel-online.md#rights-management-irm-and-password-security) <br/> |いいえ  <br/> |はい  <br/> |
 |[コピーを保存またはダウンロードする](excel-online.md#save-or-download-a-copy) <br/> |はい  <br/> |はい  <br/> |
@@ -180,7 +180,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[データの並べ替えとフィルター処理](excel-online.md#sort-and-filter-data) <br/> |はい  <br/> |はい  <br/> |
 |[スプレッドシートの監査とコンプライアンス](excel-online.md#spreadsheet-audit-and-compliance) <br/> |いいえ  <br/> |はい  <br/> |
 |[ステータス バーの集計](excel-online.md#status-bar-aggregates) <br/> |はい  <br/> |はい  <br/> |
-|[アンケート調査](excel-online.md#surveys) <br/> |はい  <br/> |なし  <br/> |
+|[アンケート調査](excel-online.md#surveys) <br/> |はい  <br/> |いいえ  <br/> |
 |[教えて](excel-online.md#tell-me) <br/> |はい  <br/> |はい  <br/>|
 |[テキストの書式設定](excel-online.md#text-formatting) <br/> |はい  <br/> |はい  <br/>|
 |[合計データ](excel-online.md#total-data) <br/> |はい  <br/> |はい  <br/>|
@@ -260,7 +260,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[スライドの作成と管理](powerpoint-online.md#create-and-manage-slides) <br/> |はい  <br/> |はい  <br/> |
 |[カスタム アニメーションの作成](powerpoint-online.md#create-custom-animation) <br/> |なし<sup></sup> <br/> |はい  <br/> |
 |[デザインツール、詳細](powerpoint-online.md#design-tools-advanced) <br/> |いいえ  <br/> |はい  <br/> |
-|[Web ページやブログ ページへのプレゼンテーションの埋め込み](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |はい  <br/> |なし  <br/> |
+|[Web ページやブログ ページへのプレゼンテーションの埋め込み](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |はい  <br/> |いいえ  <br/> |
 |[フォントの書式設定](powerpoint-online.md#font-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[忠実な閲覧表示](powerpoint-online.md#full-fidelity-reading-view) <br/> |はい  <br/> |はい  <br/> |
 |[インクの完全サポート](powerpoint-online.md#full-ink-support) <br/> |いいえ  <br/> |はい<sup>2</sup> <br/> |
@@ -309,13 +309,13 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |Open XML (.docx)  <br/> |はい  <br/> |はい  <br/> |
 |バイナリ (.doc)  <br/> |はい  <br/> |.docx に変換  <br/> |
 |マクロ (.docm)  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
-|その他 (.dotm, .dotx)  <br/> |はい  <br/> |なし  <br/> |
+|その他 (.dotm, .dotx)  <br/> |はい  <br/> |いいえ  <br/> |
 |OpenDocument (.odt)  <br/> |はい  <br/> |はい  <br/> |
-|Portable Document Format (.pdf)  <br/> |いいえ  <br/> |なし  <br/> |
+|Portable Document Format (.pdf)  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**Excel 97 以降で作成された Excel ワークブック** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.xlsx, .xlsb)  <br/> |はい  <br/> |はい  <br/> |
 |バイナリ (.xls)  <br/> |はい  <br/> |.xlsx に変換  <br/> |
-|テンプレート (.xlt, .xltx)  <br/> |いいえ  <br/> |なし  <br/> |
+|テンプレート (.xlt, .xltx)  <br/> |いいえ  <br/> |いいえ  <br/> |
 |マクロ (.xlsm)  <br/> |はい<sup>1</sup> <br/> |はい<sup>2</sup> <br/> |
 |OpenDocument (.ods)  <br/> |はい  <br/> |はい  <br/> |
 |**OneNote 2010 以降で作成された OneNote メモ** <br/> |**表示モード** <br/> |**編集モード** <br/> |
@@ -323,9 +323,9 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |**PowerPoint 97 以降で作成された PowerPoint プレゼンテーション** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.pptx, .ppsx)  <br/> |はい  <br/> |はい  <br/> |
 |バイナリ (.ppt, .pps)  <br/> |はい  <br/> |.pptx または .ppsx に変換  <br/> |
-|テンプレート (.pot, .potx)  <br/> |はい  <br/> |なし  <br/> |
+|テンプレート (.pot, .potx)  <br/> |はい  <br/> |いいえ  <br/> |
 |マクロ (.pptm, .potm, .ppam, .potx, .ppsm)  <br/> |はい<sup>1</sup> <br/> |いいえ  <br/> |
-|アドイン (.ppa, .ppam)  <br/> |いいえ  <br/> |なし  <br/> |
+|アドイン (.ppa, .ppam)  <br/> |いいえ  <br/> |いいえ  <br/> |
 |OpenDocument (.odp)  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]

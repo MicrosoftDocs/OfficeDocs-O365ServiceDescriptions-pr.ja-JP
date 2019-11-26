@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次の検索機能は、ユーザーが業務の遂行に必要な情報を検索するために役立ちます。 検索は、関連性、絞り込み条件、ユーザーの組み合わせです。
-ms.openlocfilehash: 39fdeaac67d1c7261e93dd45c4181613910d5ed0
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5e91de48b374109f570168a2c85ae3c1a606ea5f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726203"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263321"
 ---
 # <a name="search"></a>検索
 

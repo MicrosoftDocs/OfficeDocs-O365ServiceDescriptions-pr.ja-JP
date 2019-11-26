@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: この記事では、Exchange Online の設定をカスタマイズし、組織の Exchange Online 環境を常に最新の状態にし、最新の状態に保つために使用できる管理制御とサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581983"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262610"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
@@ -74,7 +74,7 @@ Exchange Online では、モバイル デバイス用に Exchange Server 2013 �
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online でのメッセージ追跡
 
-Message tracking via the Delivery Reports feature is described in the following topic: [Reporting Features and Troubleshooting Tools](reporting-features-and-troubleshooting-tools.md).
+配信レポート機能によるメッセージ追跡については、「[レポート機能とトラブルシューティングツール](reporting-features-and-troubleshooting-tools.md)」を参照してください。
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online の利用状況レポート
 
@@ -92,7 +92,7 @@ Exchange Online で使用する Windows PowerShell コマンドレットの詳�
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online での監査
 
-The audit logging feature is described in the following topic: [Reporting Features and Troubleshooting Tools](reporting-features-and-troubleshooting-tools.md).
+監査ログ機能については、以下のトピック「[レポート機能とトラブルシューティングツール](reporting-features-and-troubleshooting-tools.md)」を参照してください。
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online でのサービスおよび製品のアップグレード
 

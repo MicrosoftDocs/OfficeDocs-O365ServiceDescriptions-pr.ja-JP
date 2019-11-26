@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: ブリーフィングメールは、ユーザーが毎日の時間を最大限に活用できるようにします。 さまざまな要素にまたがる機会を特定し、タイムリーな事前通知を提供します。
-ms.openlocfilehash: 1027ffd93891139e90d369950be5e364e14b074a
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724775"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260662"
 ---
 # <a name="briefing-email-service-description"></a>ブリーフィング電子メールサービスの説明
 

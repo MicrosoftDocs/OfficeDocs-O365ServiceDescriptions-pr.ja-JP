@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online は、組織がデジタル情報を格納、共有、および管理するのに役立つ web ベースのツールとテクノロジの集合です。 このホスト型サービスは Microsoft SharePoint Server 2013 上に構築されており、プロジェクトの作業、データとドキュメントの一元的な保存、および他のユーザーとの情報の共有を行うのに適しています。 次のコンテンツ機能により、エンタープライズ コンテンツ管理 (ECM) がだれにとっても簡単なものになります。 これは、従来のコンテンツ管理、ソーシャル機能、および強力な検索を組み合わせたものです。
-ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 22a23195b82ac696ae5afedf9a35a17971eeeb81
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733958"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263351"
 ---
 # <a name="content"></a>コンテンツ
 
@@ -120,7 +120,7 @@ SharePoint Online IRM では、Office 365 の情報保護技術である Azure I
   
 ## <a name="office-for-the-web-createedit"></a>Web 用 Office (作成/編集)
 
-Office 365 をご利用のお客様の場合は、インターネットブラウザーから office を使用して office ファイルを自動的に作成および編集できます。 Web 用に Office で使用できる機能については、「 [office for the Web Service Description](../office-online-service-description/office-online-service-description.md)」を参照してください。
+Office 365 をご利用のお客様の場合は、インターネットブラウザーから office を使用して office ファイルを自動的に作成および編集できます。 Web 用に Office で使用できる機能については、「 [office for the web service description](../office-online-service-description/office-online-service-description.md)」を参照してください。
   
 ## <a name="office-for-the-web-view"></a>Web 用 Office (ビュー)
 

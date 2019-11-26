@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633502"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263048"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -54,13 +54,13 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>5</sup> ) <br/> |
-|Skype for Business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |なし  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
+|Skype for Business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい (<sup>13</sup> ) <br/> |はい<sup>14</sup> <br/> |
 |Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |なし  <br/> |
+|Office アプリケーション  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online  <br/> |なし<sup></sup> <br/> |いいえ  <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |なし<sup></sup> <br/> |
-|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |なし  <br/> |はい  <br/> |なし  <br/> |
+|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Yammer エンタープライズ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |なし  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
+|Azure Information Protection<sup>3</sup> <br/> |<sup>2</sup>なし <br/> |いいえ  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |はい <br/> |いいえ  <br/> |あり <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |
    
 <sup>1</sup> Project Online は含まれていませんが、個別のアドオンサービスとして購入するか、Office 365 エデュケーションプランに無料で追加することができます。<br/>
@@ -126,4 +126,4 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
    
 ## <a name="feature-availability"></a>機能の可用性
 
-さまざまな Office 365 のプランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。

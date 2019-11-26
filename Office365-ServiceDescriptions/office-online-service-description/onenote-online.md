@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Onenote を web (旧称 OneNote Web App) で使用して、どこからでも追加でき、他のユーザーと簡単に共有できる OneNote ノートブックでオンラインでノートを取ることができます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 6dac216c117175f3f2842476a0aaebf2e99461c7
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631626"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263511"
 ---
 # <a name="onenote-for-the-web"></a>Web 用 OneNote
 
@@ -122,7 +122,7 @@ Web に OneNote を使用すると、段落の配置の変更、左余白から�
 
 Web に OneNote を使用すると、ファイルまたは Bing 画像から画像を挿入できます。 また、画像のサイズ変更や代替テキストの追加を行うこともできます。 より高度な画像機能 (画面のクリッピング、スキャンしたイメージ、またはオンライン画像など) が必要な場合は、OneNote デスクトップ アプリを使用する必要があります。 詳細については、「[ブラウザーと OneNote でのノートブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=272946)」を参照してください。
   
-## <a name="print"></a>Print
+## <a name="print"></a>印刷
 
 OneNote では、web でメモを印刷できます。
   
@@ -176,6 +176,6 @@ Web 用の OneNote を使用すると、ページの以前のページバージ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the Web Service Description](office-online-service-description.md)」を参照してください。
+Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the web service description](office-online-service-description.md)」を参照してください。
   
 

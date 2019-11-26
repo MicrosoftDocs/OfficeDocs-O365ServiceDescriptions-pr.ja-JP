@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 コンプライアンスを計画する-GCC
+title: Microsoft 365 コンプライアンスの計画 - GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティに Office 365 の展開を推進する IT 担当者、または政府の規制と要件に従うデータを処理するその他のエンティティ (Microsoft を使用している場合) を対象としています。365 Government-GCC は、これらの要件を満たすのに適しています。
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319495"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262820"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
@@ -69,18 +69,23 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **情報保護 & ガバナンス** | アーカイブ                                       | Available              |
 |                                         | 手動によるラベルとポリシー<sup>2</sup>          | Available              |
-|                                         | ラベルの自動適用                      | エンジニアリングバックログの場合 |
+|                                         | ラベルの自動適用                      | Available              |
 |                                         | 機密データ型に基づくラベル            | エンジニアリングバックログの場合 |
-|                                         | クエリに基づくラベルと関連付けられたポリシー | エンジニアリングバックログの場合 |
-|                                         | ファイル計画                                       | エンジニアリングバックログの場合 |
+|                                         | クエリに基づくラベルと関連付けられたポリシー | Available              |
+|                                         | ファイル計画                                       | Available              |
 |                                         | 推奨されるポリシー                            | エンジニアリングバックログの場合 |
 |                                         | スマートインポートフィルター                            | エンジニアリングバックログの場合 |
-|                                         | イベント ベースの保持                           | エンジニアリングバックログの場合 |
-|                                         | 廃棄のレビュー                              | エンジニアリングバックログの場合 |
+|                                         | イベント ベースの保持                           | Available              |
+|                                         | 廃棄のレビュー                              | Available              |
 |                                         | 情報障壁                            | Available              |
 |                                         | ファイルと電子メールのデータ損失防止 (DLP)  | Available              |
 |                                         | Teams チャットおよびチャネル会話の DLP    | エンジニアリングバックログの場合 |
+|                                         | DLP の正確なデータ一致                            | エンジニアリングバックログの場合 |
+|                                         | ラベル アクティビティ エクスプローラー                         | エンジニアリングバックログの場合 |
+|                                         | Trainable 分類子                           | エンジニアリングバックログの場合 |
+|                                         | 統合されたラベルと機密ラベル         | エンジニアリングバックログの場合 |
 | **Insider リスク管理**             | 高度なメッセージ暗号化                     | Available              |
+|                                         | Insider リスク管理                         | エンジニアリングバックログの場合 |
 |                                         | 通信コンプライアンス                        | エンジニアリングバックログの場合 |
 |                                         | 顧客ロックボックス                                | Available              |
 |                                         | カスタマー キー                                    | Available              |
