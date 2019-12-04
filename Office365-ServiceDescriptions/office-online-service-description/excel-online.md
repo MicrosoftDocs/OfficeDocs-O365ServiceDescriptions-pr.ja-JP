@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261918"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810826"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
 Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
   
 > [!NOTE]
-> 30 mb を超えるブックは、Microsoft SharePoint Online 内から web 用の Excel では表示できません。 これよりサイズの大きいファイルを表示するには、ご使用のコンピューターに Excel デスクトップ アプリをインストールする必要があります。 
+> 50メガバイト (MB) を超えるブックは、Microsoft SharePoint Online 内から web 用の Excel では表示できません。 これよりサイズの大きいファイルを表示するには、ご使用のコンピューターに Excel デスクトップ アプリをインストールする必要があります。 
 
 > [!NOTE]
 > 比較に役立つように、この記事に記載している高度な機能には、Office スイート (Office Professional Plus、Office Standard、または Office 365 ProPlus など) のみで提供される Excel デスクトップ アプリの機能も含まれています。 Web 用の Word、web 用の PowerPoint など、web 機能を使用するすべての Office のリストについては、「 [web 上の office の機能の利用状況](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)」を参照してください。

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business service の説明
+title: Microsoft 365 Business サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262850"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810806"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business service の説明
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
 Microsoft 365 Business は、高度な脅威からビジネスを保護するための高度なセキュリティとデバイスの管理により、Office 365 のクラス最高の生産性を促進する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。 Office 365 の詳細については、「 [office 365 のサービスの説明](../office-365-service-descriptions-technet-library.md)」を参照してください。
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Office 365 Business Premium および Microsoft 365 Business のプランで利用できる機能
 
-Microsoft 365 Business には、Office 365 Business Premium で利用可能なすべての機能と、追加の Office 365 セキュリティ機能が含まれています。
+Microsoft 365 Business には、Office 365 Business Premium で利用可能なすべての機能に加えて、追加の Office 365 セキュリティ機能が含まれています。
+
+Microsoft 365 Business には、AD 書き戻し、Azure 多要素認証 (MFA)、および条件付きアクセスを使用したセルフサービスのパスワードリセットと、次の Azure AD Premium P1 機能が含まれています。 Azure AD Premium P1 の全体は含まれていません。
 
 ||||
 |:-----|:-----|:-----|
@@ -46,7 +48,7 @@ Microsoft 365 Business には、Office 365 Business Premium で利用可能な�
 |[Office 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Azure AD Connect 同期ツール<br/> |はい  <br/> |はい  <br/> |
 |共有コンピューターのライセンス認証 <br/> |いいえ <br/> |はい  <br/> |
-|[メッセージポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[メッセージ ポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Exchange Online ベースのメールボックスの長期アーカイブ  <br/> |いいえ  <br/> |はい<sup>3</sup> <br/> |
 |Azure Information Protection プラン 1 |いいえ <br/>|はい<sup>2</sup> </br>|
 |Office 365 Message Encryption  <br/> |いいえ  <br/> |はい<sup>2</sup> <br/> |
@@ -54,7 +56,7 @@ Microsoft 365 Business には、Office 365 Business Premium で利用可能な�
 |インプレース電子情報開示 (eDiscovery)  <br/> |はい  <br/> |はい  <br/> |
 |Transport rules  <br/> |はい  <br/> |はい  <br/> |
 |データ損失防止  <br/> |いいえ  <br/> |はい <br/> |
-|[プライバシー、セキュリティ、および透過性](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[プライバシー、セキュリティ、および透明性](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |組み込みのスパム対策保護  <br/> |はい  <br/> |はい  <br/> |
 |組み込みのマルウェア対策保護  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 Advanced Threat Protection プラン1 <br/> |いいえ  <br/> |Yes<sup>7</sup> <br/> |
@@ -76,9 +78,9 @@ Microsoft 365 Business には、Office 365 Business Premium で利用可能な�
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[デバイスとアプリケーションの管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business には、iOS、Android、Mac OS、その他のクロスプラットフォームデバイス管理のための完全な Intune 機能が含まれています。<sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Intune モバイルデバイス管理 (MDM) (Pc、Mac、モバイルデバイス用)<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Intune モバイルデバイス管理 (MDM) (Pc、Mac、モバイルデバイス用)<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Intune モバイルアプリケーション管理 (MAM) (Office アプリおよび LOB アプリ)<sup>17</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Intune モバイルアプリケーション管理 (MAM) Office アプリと LOB アプリ<sup>9</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Windows update management、Defender、ファイアウォールポリシー<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |データ保護 - 選択的ワイプ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ポリシーを対象としたセキュリティグループ (SG)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -87,7 +89,7 @@ Microsoft 365 Business には、Office 365 Business Premium で利用可能な�
 |デバイスプロファイルおよびセキュリティ構成の展開<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows 仮想デスクトップ <br/> |いいえ <br/> |はい <br/> |はい <br/> |
+|Windows Virtual Desktop に移動します。 <br/> |いいえ <br/> |はい <br/> |はい <br/> |
 
 |||
 |:-----|:-----|

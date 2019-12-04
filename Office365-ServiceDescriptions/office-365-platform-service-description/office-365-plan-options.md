@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263048"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810816"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -67,7 +67,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 <sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> Office 365 プランに含まれている Azure information protection 機能の詳細については、「 [azure information protection](https://azure.microsoft.com/services/information-protection/)」を参照してください。<br/>
 <sup>4</sup> Office 365 Enterprise E5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話または国際通話) が必要です。<br/>
-<sup>5</sup>は 2 GB のストレージを備えています。 デスクトップの同期機能は含まれていません。 <br/>
+<sup>5</sup>は 2 GB のストレージを備えています。 <br/>
 <sup>6</sup> Exchange Online プラン1が含まれます。 <br/>
 <sup>7</sup> Exchange Online プラン2が含まれます。 <br/>
 <sup>8</sup> Exchange Online プラン1および補足機能が含まれます。 <br/>
