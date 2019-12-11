@@ -1,5 +1,5 @@
 ---
-title: Office アプリケーションサービスの説明
+title: Office アプリケーション サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261958"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969954"
 ---
-# <a name="office-applications-service-description"></a>Office アプリケーションサービスの説明
+# <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
 Microsoft Office 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
   
@@ -41,52 +41,52 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/> |
 |**Office アプリケーション** <br/> |||||||||||
-|[Microsoft Word](office-applications.md#microsoft-word) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |はい  <br/> |はい  <br/> |うん<sup>+<sup> <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |はい  <br/> |はい  <br/> |はい <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[Microsoft Access](office-applications.md#microsoft-access) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい<sup>11</sup>  <br/> |
-|[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい  <br/> |はい  <br/> |はい<sup>5、10</sup> <br/> |はい (<sup>5</sup> )  <br/> |
+|[Microsoft Word](office-applications.md#microsoft-word) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |あり  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |あり  <br/> |はい  <br/> |うん<sup>+<sup> <br/>|あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |あり  <br/> |はい  <br/> |はい <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[Microsoft Access](office-applications.md#microsoft-access) <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |はい<sup>11</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい<sup>11</sup>  <br/> |
+|[Skype for Business](office-applications.md#skype-for-business) <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |あり  <br/> |はい  <br/> |はい<sup>5、10</sup> <br/> |はい (<sup>5</sup> )  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|[Windows 10 アプリ](office-applications.md#windows-10-apps) <br/> |はい  <br/> |はい  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/>|はい (<sup>13</sup> )  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |
-|[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> )  <br/>|はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |
-|[Windows Phone 用 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい ( <sup>13</sup> ) <br/>|はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |
-|Outlook for Android  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
+|[Windows 10 アプリ](office-applications.md#windows-10-apps) <br/> |あり  <br/> |はい  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|[Office for Mac for Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|[IPad/iPhone 用 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/>|はい (<sup>13</sup> )  <br/> |あり  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |あり  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |あり  <br/> |
+|[Android 用 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> )  <br/>|あり  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |あり  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |あり  <br/> |
+|[Windows Phone 用 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい (<sup>13</sup> ) <br/> |はい ( <sup>13</sup> ) <br/>|あり  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |あり  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |あり  <br/> |
+|Outlook for Android  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
 |**エンタープライズ価値** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |いいえ  <br/>| いいえ  <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> | Yes<sup>7</sup> <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |該当なし  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|多言語ユーザー インターフェイス  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|クライアント プッシュ展開  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|社内 Exchange のクライアント サポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|社内 SharePoint のクライアント サポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|ソフトウェア更新の制御  <br/> |はい  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|データベース比較  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br> |
-|デスクトップの仮想化  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Excel スプレッドシート比較  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|Excel スプレッドシート検査  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/>
-|Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |はい<sup>1</sup> <br/> |はい  <br/> |はい  <br/>|はい<sup>1</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|グループ ポリシーのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|多言語ユーザー インターフェイス  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|クライアント プッシュ展開  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|社内 Exchange のクライアント サポート  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|社内 SharePoint のクライアント サポート  <br/> |あり  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|ソフトウェア更新の制御  <br/> |あり  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|データベース比較  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br> |
+|デスクトップの仮想化  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|Excel スプレッドシート比較  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Excel スプレッドシート検査  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/>
+|Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |はい<sup>1</sup> <br/> |あり  <br/> |はい  <br/>|はい<sup>1</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
+|グループ ポリシーのサポート  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
 |Office cloud policy のサポート  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|Azure Information Protection を使用した Information Rights Management  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |
-|Windows Server AD RMS を使用した Information Rights Management  <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい <br/>| はい<sup>3</sup> <br/>|はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |
-|Office アドイン、ActiveX、および BHO のサポート  <br/> |はい  <br/> |はい  <br/> |はい<sup>+++<sup> <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |はい  <br/> |はい  <br/> |うん<sup>++</sup> <br/> |はい <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/>|はい  <br/> |いいえ  <br/> |はい <br/> |
-|Office テレメトリ  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|クライアント アプリケーションのオフライン サポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Power Map for Excel  <br/> |<sup>4</sup>なし <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|Power Pivot for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Power Query for Excel  <br/> |<sup>15</sup>なし  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|Power View for Excel  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|ローミング設定  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|クラウドベース ファイル ストレージのブロックのサポート  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
+|Azure Information Protection を使用した Information Rights Management  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |あり  <br/> |はい  <br/> |<sup>2</sup>なし <br/> |はい <br/> |
+|Windows Server AD RMS を使用した Information Rights Management  <br/> |はい<sup>3</sup> <br/> |あり  <br/> |はい <br/>| はい<sup>3</sup> <br/>|はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |
+|Office アドイン、ActiveX、および BHO のサポート  <br/> |あり  <br/> |はい  <br/> |はい<sup>+++<sup> <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |あり  <br/> |はい  <br/> |うん<sup>++</sup> <br/> |あり <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/>|はい  <br/> |いいえ  <br/> |あり <br/> |
+|Office テレメトリ  <br/> |あり  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|クライアント アプリケーションのオフライン サポート  <br/> |あり  <br/> |はい  <br/>|はい  <br/>  |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|Power Map for Excel  <br/> |<sup>4</sup>なし <br/> |あり  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Power Pivot for Excel  <br/> |あり  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|Power Query for Excel  <br/> |<sup>15</sup>なし  <br/> |あり  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|Power View for Excel  <br/> |あり  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|ローミング設定  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
+|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|クラウドベース ファイル ストレージのブロックのサポート  <br/> |あり  <br/> |はい  <br/>|はい  <br/> |はい  <br/>|はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
 |タップしてコンテンツを検索し、再利用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ <br/> |
-|バージョン アップグレード  <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい <br/> |
-|Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|<sup>9</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br> |
+|バージョン アップグレード  <br/> |いいえ  <br/> |いいえ  <br/>|いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり <br/> |
+|Volume activation (KMS/MAK)  <br/> |あり  <br/> |はい  <br/> |はい  <br/>|<sup>9</sup>なし <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br> |
    
 > [!NOTE]
 ><sup>+</sup>Office 365 または Office 2019 をインストールすると、既定で Windows 10 の OneNote が取得されます。 詳細については、「 [Office 2019 の OneNote に関してよく寄せられる質問](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
@@ -113,14 +113,14 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 ||||
 |:-----|:-----|:-----|
 |**Office アプリケーション** <br/> |**Office 2016 for Mac (Office 365)<sup>1</sup>** <br/> |**Office for Mac 2011 (Office 365)<sup>3</sup>** <br/> |
-|[Microsoft Word](office-applications.md#microsoft-word) <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |はい  <br/> |はい  <br/> |
-|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |はい  <br/> |はい  <br/> |
+|[Microsoft Word](office-applications.md#microsoft-word) <br/> |あり  <br/> |はい  <br/> |
+|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |あり  <br/> |はい  <br/> |
+|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |あり  <br/> |はい  <br/> |
 |[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |はい  <br/> |はい<sup>2</sup> <br/> |
-|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |はい  <br/> |はい  <br/> |
+|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |あり  <br/> |はい  <br/> |
 |[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |
+|[Skype for Business](office-applications.md#skype-for-business) <br/> |あり  <br/> |はい  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > <sup>1</sup> Office 2016 for mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。<br/>
@@ -134,7 +134,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |||||
 |-----|-----|-----|-----|
 |**Office アプリケーション** | **GCC** | **GCC 高** | **DOD** |
-|**[Microsoft Excel](office-applications.md#microsoft-excel)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に使用できます。| はい | はい | はい |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に使用できます。| あり | はい | はい |
 |3D の埋め込みアニメーションと3D モデル | いいえ | いいえ | いいえ |
 |データ型 | いいえ | いいえ | いいえ |
 |フラッシュフィル  | いいえ | いいえ | いいえ |
@@ -150,7 +150,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |スマート検索 | いいえ | いいえ | いいえ |
 |グラフ: サンバースト、ツリーマップ、ウォーターフォール、ヒストグラム、地図、タイムライン、じょうご | いいえ | いいえ | いいえ |
 |バージョン履歴| いいえ | いいえ | いいえ | 
-|**Microsoft Forms**は、現時点では利用できない次の機能を例外として、官公庁クラウドで完全に利用できます。 | はい | はい | いいえ |
+|**Microsoft Forms**は、現時点では利用できない次の機能を例外として、官公庁クラウドで完全に利用できます。 | あり | はい | いいえ |
 |電子メール通知 | なし<sup></sup> | なし<sup></sup> | いいえ |
 |画像を挿入する | なし<sup></sup> | なし<sup></sup> | いいえ |
 |ビデオを挿入する | なし<sup></sup> | なし<sup></sup> | いいえ |
@@ -158,18 +158,18 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Office 統合 | なし<sup></sup> | なし<sup></sup> | いいえ |
 |最新のグループフォーム | なし<sup></sup> | なし<sup></sup> | いいえ |
 |外部共有 |はい | いいえ | いいえ |
-|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に利用できます。| はい | はい | はい |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に利用できます。| あり | はい | はい |
 |リサーチ ツール | いいえ | いいえ | いいえ |
 |インテリジェントなデジタルインク | いいえ | いいえ | いいえ |
-|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に利用できます。| はい | はい | はい |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** は、この時点では利用できない次の機能を除き、政府機関のクラウドで完全に利用できます。| あり | はい | はい |
 |Office サウンド (一部) | いいえ | いいえ | いいえ |
 |既定で DDE を無効にする  | いいえ | いいえ | いいえ |
 |ディクテーション | なし<sup></sup> | なし<sup></sup> | なし<sup></sup> |
-|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** は、この時点では利用できない次の機能を除き、官公庁クラウドで完全に使用できます。| はい | はい | はい |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** は、この時点では利用できない次の機能を除き、官公庁クラウドで完全に使用できます。| あり | はい | はい |
 |スマート検索 | いいえ | いいえ | いいえ |
 |Office サウンド (一部) | いいえ | いいえ | いいえ |
 |3D モデルと3D の埋め込みアニメーション | いいえ | いいえ | いいえ |
-グラフ: マップ | いいえ | いいえ | いいえ |
+|グラフ: マップ | いいえ | いいえ | いいえ |
 |インテリジェントなデジタルインク | いいえ | いいえ | いいえ |
 |PowerPoint の字幕 & ライブキャプション | いいえ | いいえ | いいえ |
 |プレゼンターコーチ | いいえ | いいえ | いいえ |
@@ -179,6 +179,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Office 365 グループ | いいえ | いいえ | いいえ |
 |リアルタイムコラボレーション (プレゼンス、通常の共同編集、ドキュメント内チャット) | いいえ | いいえ | いいえ |
 |ディクテーション | なし<sup></sup> | なし<sup></sup> | なし<sup></sup> |
+|スライドの再利用 | いいえ | いいえ | いいえ |
 |米国政府機関の**Microsoft ホワイトボード**は、現在、デスクトップではなくハブクライアントでのみ使用できます。 | はい<sup>2</sup> | はい<sup>2</sup> | はい<sup>2</sup> |
 |付箋、テキスト、画像を挿入する |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
 |インクを図形に、インクからテーブルへ |はい<sup>2</sup> |はい<sup>2</sup> |はい<sup>2</sup> |
@@ -190,7 +191,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |リアルタイムプレゼンス | いいえ | いいえ | いいえ |
 |コンテンツに対する反応 | いいえ | いいえ | いいえ |
 |お客様との共有を含む、ホワイトボードギャラリー | いいえ | いいえ | いいえ |
-|**[Microsoft Word](office-applications.md#microsoft-word)** は、この時点では利用できない次の機能を除き、官公庁クラウドで完全に使用できます。| はい | はい | はい |
+|**[Microsoft Word](office-applications.md#microsoft-word)** は、この時点では利用できない次の機能を除き、官公庁クラウドで完全に使用できます。| あり | はい | はい |
 |スマート検索 | いいえ | いいえ | いいえ |
 |リサーチ ツール | いいえ | いいえ | いいえ |
 |Office サウンド | いいえ | いいえ | いいえ |
