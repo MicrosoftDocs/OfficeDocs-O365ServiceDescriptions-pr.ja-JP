@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 30b57b2bc0150be299861626aa17aa32fa5d3f6f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
+ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969973"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "40824991"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -82,7 +82,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |**機能**|**ATP プラン1**<br>(旧称 ATP スタンドアロン)|**ATP プラン2**<br>(以前の脅威インテリジェンス <br>スタンドアロン| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|
 |*構成、保護、および検出*|
-|[添付ファイル保護](#safe-attachments)|あり|はい|はい|
+|[安全な添付ファイル](#safe-attachments)|あり|はい|はい|
 |Teams での安全な添付ファイル|あり|はい|はい|
 |[安全なリンク](#safe-links)|あり|はい|はい|
 |Teams での安全なリンク|いいえ|いいえ|いいえ|
@@ -93,7 +93,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |[脅威トラッカー](#threat-trackers)|いいえ|あり|はい|
 |[エクスプローラー](#explorer) (高度な脅威調査)|いいえ|あり|はい|
 |[インシデント対応の自動化](#automated-incident-response)|いいえ|あり|はい|
-|[アタックシミュレータ](#attack-simulator)|いいえ|あり|はい|
+|[攻撃シミュレータ](#attack-simulator)|いいえ|あり|はい|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Advanced Threat Protection (ATP) の機能
 
@@ -118,8 +118,10 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 > [!NOTE]
 > ユーザーが ATP<sup>\*</sup>のライセンスを持っている必要があり、Atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
-
-<sup>\*</sup>組織全体にわたる ATP のライセンス (ATP_ENTERPRISE_FACULTY など) については、個々のユーザーに ATP ライセンスを割り当てる必要はありません。
+>
+> <sup>\*</sup>組織全体にわたる ATP のライセンス (ATP_ENTERPRISE_FACULTY など) については、個々のユーザーに ATP ライセンスを割り当てる必要はありません。
+>
+> ATP の安全なリンク保護の詳細については、「 [Office ドキュメントの url で atp の安全なリンクが機能する方法](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents)」を参照してください。
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams 用の ATP
 
@@ -147,6 +149,6 @@ Office 365 セキュリティ & コンプライアンスセンターで利用可
 
 Office 365 ATP Plan 2 で利用できる[自動インシデント対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air)(エア) 機能により、現在存在している既知の脅威への対応として、自動化された調査プロセスを実行することができます。 自動化された特定の調査タスクによって、セキュリティ運用チームはより効率的かつ効果的に操作できるようになります。 ウイルス対策アクション (悪意のある電子メールメッセージの削除など) は、セキュリティ運用チームによる承認に基づいて行われます。 詳細については、「 [Office 365 での空気の仕組み](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)」を参照してください。
 
-### <a name="attack-simulator"></a>アタックシミュレータ
+### <a name="attack-simulator"></a>攻撃シミュレータ
 
 [アタックシミュレータ](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)を使用すると、承認されたユーザーが組織内で現実的な攻撃シナリオを実行できます。 表示名のスピアーフィッシング攻撃、パスワードスプレー攻撃、ブルートフォースパスワード攻撃など、さまざまな種類の攻撃が利用可能です。
