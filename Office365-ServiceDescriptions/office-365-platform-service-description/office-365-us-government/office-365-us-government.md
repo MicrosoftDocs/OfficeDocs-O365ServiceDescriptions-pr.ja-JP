@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: 9328f2c56fedc9531559e7d8720f97e83dd6072b
-ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
+ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
+ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2019
-ms.locfileid: "40840256"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40884332"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -166,6 +166,7 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>4</sup> Yammer エンタープライズは OFFICE 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンの提案として無償で購入することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD では利用可能ではありません。
 <br/><sup>5</sup>通話プランはアドオンです。 
 <br/><sup>6</sup>含まれていませんが、個別のアドオンとして購入できます。 Visio for the web には、サブスクリプションの一部として Visio デスクトップアプリが含まれています。
+
 ## <a name="platform-features"></a>プラットフォーム機能 
 
 以下の表は、Office 365 US Government プラン全体で利用可能なプラットフォームの機能やサービスの一覧です。
@@ -308,7 +309,7 @@ Office 365 US Government プランのシステム要件については、[office
   
 [このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
-## <a name="office-application-features"></a>Office アプリケーション機能  
+## <a name="office-application-availability-and-enterprise-value"></a>Office アプリケーションの可用性とエンタープライズ価値
 
 次の表には、Office 365 US Government プラン全体にわたって利用可能な Office アプリケーション機能が示されています。
   
@@ -316,11 +317,13 @@ Office 365 US Government プランのシステム要件については、[office
 |:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
 |**Office アプリケーション** <br/> |||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft Forms<sup>7</sup>| はい <br/> | はい <br/>| はい <br/> | いいえ <br/> |
+|Microsoft ホワイトボード<sup>7</sup>| いいえ <br/> | あり <br/> | はい <br/> | いいえ <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup> <br/> |
@@ -367,5 +370,93 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>3</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含む Office 365 プランのプレゼンス、インスタントメッセージング、および会議機能を提供します。 Office 365 ProPlus、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれる、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup>現時点では GCC High または DoD 環境では使用できませんが、近日中に提供されます。
 <br/><sup>5</sup>詳細について[は、「Government Community Cloud で Outlook For iOS と Outlook For Android を使用する](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)」を参照してください。
-  <br/><sup>6</sup> Office 365 DoD 環境ではまだ使用できませんが、近日中に提供されます。
+<br/><sup>6</sup> Office 365 DoD 環境ではまだ使用できませんが、近日中に提供されます。
+<br/><sup>7</sup>アプリケーションは、現時点では利用できない特定の機能を除き、政府機関のクラウドで完全に使用できます。 詳細については、「 [Office アプリケーション機能の可用性](#office-application-and-feature-availability-in-government-plans)」を参照してください。
 <br/><br/>[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>政府機関向けプランにおける Office アプリケーションと機能の可用性
+
+次の Office アプリケーションは、官公庁クラウドで利用できます。ただし、この表に示されているように、一部のクラウドベースの機能は現在使用できない場合があります。
+
+|||||
+|-----|-----|-----|-----|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|3D の埋め込みアニメーションと3D モデル | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|データ型 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|フラッシュフィル | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|アイデア (洞察サービス) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|PowerBI との統合の強化 (カスタムビジュアル、Excel からの直接 PBI グラフの作成) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|インテリジェントなデジタルインク | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Office 365 グループ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|ピボットテーブルに接続されたピボットグラフデータ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|PowerPivot | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|PowerBI への発行 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|リアルタイムコラボレーション (プレゼンス、通常の共同編集、ドキュメント内チャット) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Shared with Me | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|スマート検索 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|グラフ: サンバーストツリー、ウォーターフォール、ヒストグラム、地図、タイムライン、じょうご | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|バージョン履歴 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC 高** <br/> | **DOD**<sup>3</sup> <br/> |
+|電子メール通知 | なし<sup></sup> <br/> | なし<sup></sup> <br/> | いいえ <br/> | 
+|画像を挿入する | なし<sup></sup> <br/> | なし<sup></sup> <br/> | いいえ <br/> |
+|ビデオを挿入する | なし<sup></sup> <br/> | なし<sup></sup> <br/> | いいえ <br/> |
+|数学 | なし<sup></sup> <br/> | なし<sup></sup> <br/> | いいえ <br/> |
+|Office 統合 | なし<sup></sup> <br/> | なし<sup></sup> <br/> | いいえ <br/> |
+|最新のグループフォーム | はい <br/> | はい <br/> | いいえ <br/> |
+|外部共有<sup>4</sup> | はい <br/> | いいえ <br/> | いいえ <br/> |
+|フォーム Pro | いいえ | いいえ | いいえ |
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、この時点では利用できません。 | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|リサーチ ツール | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|インテリジェントなデジタルインク | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|Office サウンド (一部) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|動的データ交換 (DDE) が既定で無効になっている | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|ディクテーション | なし<sup></sup> <br/> | なし<sup></sup> <br/> | なし<sup></sup> <br/> |
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|スマート検索 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Office サウンド (一部) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|3D モデルと3D の埋め込みアニメーション | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|グラフ: マップ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|インテリジェントなデジタルインク | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|PowerPoint のライブキャプションと字幕 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|プレゼンターコーチ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Shared with Me | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Skype for Business と共有の統合 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|バージョン履歴 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Office 365 グループ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|リアルタイムコラボレーション (プレゼンス、通常の共同編集、ドキュメント内チャット) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|ディクテーション | なし<sup></sup> <br/> | なし<sup></sup> <br/> | なし<sup></sup> <br/> |
+|スライドの再利用 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|米国政府機関の**Microsoft ホワイトボード**は、現在、デスクトップではなくハブクライアントでのみ使用できます。 | **GCC**<sup>2</sup> <br/> | **GCC High**<sup>2</sup> <br/> | **DOD**<sup>2</sup> <br/> |
+|付箋、テキスト、画像を挿入する | はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>|
+|インクを図形に、インクからテーブルへ | はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>|
+|インク beautification | はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>|
+|画像をインクに変換する | はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>|
+|アクセシビリティ チェック | はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>| はい<sup>2</sup> <br/>|
+|動的テンプレート (かんばん、SWOT など) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|リアルタイムコラボレーション | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|リアルタイムプレゼンス | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|コンテンツに対する反応 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|お客様との共有を含む、ホワイトボードギャラリー | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|スマート検索 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|リサーチ ツール | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Office サウンド  | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|3D モデル | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|3D の埋め込みアニメーション  | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|タップ  | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|履歴書アシスタント | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|マップグラフ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|インテリジェントなデジタルインク | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Shared with Me | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Translation | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Skype for Business と共有の統合 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|バージョン履歴 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Office 365 グループ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|共同編集者とのコンテキストチャット: ドキュメント内の共同編集者とチャット | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|ディクテーション | なし<sup></sup> <br/> | なし<sup></sup> <br/> | なし<sup></sup> <br/> |
+
+<sup>1 つ</sup>の利用可能時間。<br/>
+<sup>2</sup>ローカル Surface Hub での可用性 (サインインしていない場合)。<br/>
+<sup>3</sup>アプリケーションは、現在 DOD クラウドでは利用できません。<br/>
+GCC 環境では、 <sup>4 つ</sup>の外部共有を使用できます。 組織で[Microsoft Forms をオンまたは](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)オフにする方法について説明します。 GCC High および DOD 環境では、外部共有は無効になっています。組織内のユーザーは、フォームを完成させ、応答を送信したり、フォーム[をテンプレートとして複製および共有](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)したり、[フォームで共同編集または共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)を行ったり、[フォームの結果にアクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)したりすることがあります。<br/>
