@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 テナントレベルサービスライセンスガイダンス
+title: Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 テナントレベルサービスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの中断の可能性を回避するために役立ちます。
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890509"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000867"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベルサービスライセンスガイダンス
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス
 
 この記事では、テナント内のすべてのユーザーに対して、テナント内&mdash;のすべてのユーザー (スタンドアロンまたは Office 365 または Microsoft 365 プランの一部として&mdash;) を購入したときに、テナントレベルのサービスがオンラインサービスになっています。 一部のライセンスのないユーザーは技術的にサービスにアクセスできる可能性がありますが、サービスの利用を目的としているユーザーにはライセンスが必要です。
 
@@ -39,7 +39,7 @@ SecOps アナリストおよびセキュリティ担当者は、コンピュー�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで有効になっています。 Aウン p の構成の詳細については、「 [Azure Active Directory Id 保護を有効にする](https://docs.microsoft.com/azure/active-directory/identity-protection/enable)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、テナントレベルで有効になっています。 Aウン p の詳細については、「 [Azure Active Directory Id 保護とは](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -141,7 +141,7 @@ OCAS 検出シャドウ IT は、Office 365 に対して脅威を保護し、Off
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) は、組織がクラウドアプリやサービスを使用できるようにするクラウドアクセスセキュリティブローカー (CASB) ソリューションで、サイバーの脅威を識別して対処するための高度な分析を提供し、データの管理を可能にします。クラウド&mdash;アプリ間を移動します。
+Microsoft Cloud App Security (MCAS) は、クラウドアプリとサービスを組織に表示し、サイバーの脅威を特定して対処する洗練された分析を提供し、クラウドアプリ間でデータを転送&mdash;する方法を制御できる、クラウドアクセスセキュリティブローカー (casb) ソリューションです。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -149,7 +149,7 @@ MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Micros
 
 Azure AD P1 にライセンスを付与されたユーザーは、MCAS の検出機能からメリットを得ることができます。
 
-MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を活用するには、Azure Active Directory P1 のライセンスも必要です。これは enterprise Mobility + security E3/A3/G3、Enterprise Mobility + security E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/G5 Security。
+MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を活用するには、Azure Active Directory P1 に対するライセンスも必要です。これは、enterprise Mobility + security E3/A3/G3、enterprise Mobility + security E5/A5/G5、Microsoft 365 E3/A3/G5、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/セキュリティに含まれます。
 
 [自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスを持っている必要があります。
 
@@ -323,7 +323,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
 
 | シナリオ                                                                                                                                                                                                              | ライセンスを必要とするのはだれですか? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -344,7 +344,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 Office 365 Message Encryption (OME) は、Azure Rights Management (Azure RMS) で構築され、宛先のメール アドレス (Gmail、Yahoo! Mail、Outlook.com など) に関係なく、暗号化された電子メールを組織内外の宛先に送信できるようにするサービスです。
 
-受信者は、ワンタイム パスコードを取得するか、Microsoft アカウントまたは Office 365 と関連付けられている職場または学校のアカウントを使用してサインインして、暗号化されたメッセージを表示できます。 受信者は、暗号化された返信を送信することもできます。 暗号化されたメッセージを表示したり、暗号化された返信を送信したりするために Office 365 サブスクリプションは必要ありません。
+暗号化メッセージを表示するために、受信者は 1 回限りのパスコードを取得するか、Microsoft アカウントでサインインするか、Office 365 に関連付けられている職場または学校のアカウントでサインインできます。 受信者は暗号化された返事を送信することもできます。 暗号化されたメッセージを表示したり、暗号化された返信を送信するのに、受信者は Office 365 サブスクリプションを必要としません。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -361,7 +361,6 @@ Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3、および Azure Information Prote
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 管理者は、ライセンスを持つユーザーにのみ Office 365 メッセージ暗号化のメールフロールールを適用する必要があります。 メールフロールールの定義の詳細については、「 [Office のメールメッセージを暗号化するためのメールフロールールを定義する 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)」を参照してください。
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 Advanced Message Encryption
 
@@ -402,3 +401,23 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 管理者は、監督ポリシーに含める特定のユーザーまたはグループを選択します。 グループを選択するときに、監督ポリシーから除外するグループ内の特定のユーザーを選択することもできます。 監督ポリシーの詳細については、「 [Office 365 の監督ポリシー](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)」を参照してください。
+
+## <a name="conditional-access-policies"></a>条件付きアクセスポリシー
+
+条件付きアクセスとは、シグナルを取り込んで、意思決定を行い、組織のポリシーを適用するために Azure Active Directory によって使用されるツールです。 条件付きアクセスは、identity 被制御面の中心になります。 最も単純な条件付きアクセスポリシーは、if-then ステートメントです。 ユーザーがリソースにアクセスする場合は、アクションを実行する必要があります。 例: 給与管理者は、給与アプリケーションにアクセスする必要があり、それにアクセスするために多要素認証を実行する必要があります。
+
+### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
+
+Enterprise Mobility + Security E3、Security E3/A3/G3、Microsoft 365 F1/E3/A3/G3、および Azure Active Directory Premium プラン1のライセンスを持つユーザーは、条件付きアクセスポリシーからメリットを得られます。 Enterprise Mobility + Security E5/A5/G5 のライセンスユーザー、Microsoft 365 E5/A5/G5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) からメリットを得ることができます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+セキュリティ運用アナリストおよびセキュリティ担当者は、組織のポリシーをユーザーに適用して、企業のコンテンツへのアクセスを許可する前に、特定の条件を満たす必要があることによってメリットを得ることができます。 エンドユーザーは、組織の資産を保護する一方で、いつでもどこでも自分の作業にアクセスできるという利点があります。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+既定では、テナント内のすべてのユーザーについて、テナントレベルで条件付きアクセス機能が有効になっています。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+具体的には、Id 保護と条件付きアクセスの場合、ユーザーはグループに含めるか、条件付きアクセスポリシーに追加する必要があります。 条件付きアクセスポリシーでは、ユーザーとグループの条件は必須です。 ポリシーでは、[**すべてのユーザー** ] または [特定のユーザーとグループ] のどちらかを選択できます。 適切にライセンスされたユーザーとグループのみを選択する必要があります。 詳細については、「 [Azure Active Directory の条件付きアクセスの条件](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)について」を参照してください。
