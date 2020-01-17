@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Government を購入する方法
+title: Microsoft 365 政府機関向けの購入方法
 ms.author: danarl
 author: danarl
 manager: mnirkhe
@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 063565b3aa2e6cd7a315ebd252bb5de327493c33
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263541"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216546"
 ---
 ---
 
@@ -52,9 +52,9 @@ Microsoft 365 Government は、以下の4つの主要な分野において米国
 |||
 |:----------|:----------------------------------|:---------|
 |**製品** <br/> |**対する** <br/> |
-|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |はい  <br/> |
-|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |はい  <br/> |
-|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |はい  <br/> |
+|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |あり  <br/> |
+|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |あり  <br/> |
+|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |あり  <br/> |
 
 Microsoft セキュリティおよびコンプライアンス認定の詳細については、 [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx)にアクセスしてください。  
 
@@ -100,7 +100,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 - [米国国防総省の展開のための Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [Government Community Cloud での iOS および Android 用の Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow US Government](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft の電力による米国政府機関の自動化](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -167,7 +167,7 @@ Microsoft 365 Government の詳細については、以下のリソースを参�
 - [米国国防総省の展開のための Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [Government Community Cloud での iOS および Android 用の Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow US Government](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft の電力による米国政府機関の自動化](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft Government の業界ページ](https://www.microsoft.com/enterprise/government)

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614826"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216666"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -27,17 +27,17 @@ ms.locfileid: "40614826"
 
 Microsoft Project は、次のアプリケーションを使用して、プロジェクトおよび作業管理に関する組織のニーズを満たすことができます。
 
-- Web のプロジェクト
+- Web 用 Project
 - Project Online 
 - Project Online デスクトップクライアント
 
 この記事では、各 Project サブスクリプションで提供されるアプリケーションと、各アプリケーションが提供する機能について説明します。
 
-### <a name="project-for-the-web"></a>Web のプロジェクト
+### <a name="project-for-the-web"></a>Web 用 Project
 
 Web 用 Project は、クラウドベースの作業およびプロジェクト管理のための Microsoft の最新のサービスです。 Web 用 Project は、ほとんどのニーズと役割を満たす、シンプルで強力な作業管理機能を備えています。 プロジェクト管理者とチームメンバーは、web に Project を使用して、任意のサイズの作業を計画し、管理することができます。
 
-Web の Project は、Microsoft 電源プラットフォーム上に構築されています。 電源プラットフォームは、PowerApps、Microsoft Flow、Power BI、および Common Data Service (CD) で構成されます。 Web データの Project は CD に保存されています。 
+Web の Project は、Microsoft 電源プラットフォーム上に構築されています。 電源プラットフォームは、PowerApps、Power オートメーション、Power BI、および共通データサービス (CD) で構成されます。 Web データの Project は CD に保存されています。 
 
 Web 用のプロジェクトは3つのサブスクリプション (プロジェクトプラン1、プロジェクトプラン3、およびプロジェクト計画 5) から入手できます。 [ [Web 機能] セクションのプロジェクト](#project-for-the-web-features)にリストされている機能は、web データストアのプロジェクト内のデータのみを操作します。
 
@@ -80,7 +80,7 @@ Microsoft Project は、組織のニーズを満たすために、3つの異な�
 
 |製品 | プラン 1 | プラン3 | プラン5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Web のプロジェクト |**x**  | **x x** | **x x** |
+|Web 用 Project |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Project Online デスクトップクライアント | |**x**|**x**|
 
@@ -119,7 +119,7 @@ Microsoft Project は、組織のニーズを満たすために、3つの異な�
 |モバイルアプリケーション | PowerApps を使用してカスタムモバイルアプリケーションを構築します。<sup>4</sup> |
 |**カスタマイズと統合**||
 |PowerApps | PowerApps を使用して web およびモバイル用のソリューションを構築して使用します。<sup>4</sup> |
-|ワークフロー | Microsoft Flow を使用してビジネスプロセスを自動化および統合します。<sup>5</sup> |
+|ワークフロー | Power 自動化を使用してビジネスプロセスを自動化および統合します。<sup>5</sup> |
 |Microsoft Office 365 の統合 | 使い慣れた Office 365 ツールとアプリケーションを使用して、共同作業、ドキュメント管理などを行います。<sup>1</sup> |
 |**セキュリティとユーザーの管理**||
 |Office モダングループ | 共同作業を行うためのプロジェクトチームを構築し、チームメンバーが共有するためのリソースのコレクションを簡単にセットアップできるようにします。|
@@ -180,7 +180,7 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 |Custom fields | プロジェクト、タスク、およびリソースレベルでユーザー設定フィールドを追加して、組織やプロジェクトにとって重要なデータを追跡します。 | あり | はい |
 |式 | タスクやプロジェクト間で数式を使用して、重要なデータを計算して取得します。 | あり | はい |
 |PowerApps | PowerApps を使用して web とモバイル (OData を介して) のソリューションを構築して使用します。<sup>4</sup> | あり | はい |
-|ワークフロー | Microsoft Flow を使用して、(OData を介して) ビジネスプロセスを自動化および統合します。<sup>5</sup> | あり | はい |
+|ワークフロー | Power 自動化を使用して (OData を介して) ビジネスプロセスを自動化および統合します。<sup>5</sup> | あり | はい |
 |Microsoft Office 365 の統合 | 使い慣れた Office 365 ツールとアプリケーションを使用して、共同作業、ドキュメント管理などを行います。<sup>1</sup> | あり | はい |
 |Microsoft Planner の統合 | プロジェクトタスクを Planner プランに接続し、プランナーで詳細な作業を追跡します。<sup>1</sup> | あり | はい |
 |**セキュリティ、ユーザー、およびサービスの管理**||||
@@ -194,7 +194,7 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 <sup>2</sup>個別に購入した Azure ボード。</br>
 <sup>3</sup> Web 用プロジェクトおよび project Online のレポートは、Power BI を使用して行うことができます。 レポートを表示、編集、および作成するには、Power BI Pro サブスクリプションが必要です。 Microsoft は、あらかじめ組み込まれている Power BI レポートのセットを提供しています。 ユーザーは、Power BI を使用してこれらのレポートをカスタマイズしたり、追加のレポートを作成したりできます。</br> 
 <sup>4</sup> web データのプロジェクトにアクセスするカスタムの PowerApps モバイルアプリケーションを作成するには、PowerApps サブスクリプションとプロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
-<sup>5</sup> web データの Project で microsoft flow を使用してビジネスプロセスを自動化および統合するには、microsoft flow サブスクリプションとプロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
+<sup>5</sup> power オートメーションでのビジネスプロセスの自動化と統合 web データの project では、power オートメーションサブスクリプションとプロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
 <sup>6</sup>外部ユーザー用の Project Online ライセンスは、内部ユーザーの場合と同じポリシーに従います。 Project Online サイトで操作する場合は、プロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
 <sup>7</sup>プロジェクト計画3またはプロジェクト計画5のサブスクリプションを持つユーザーは、リソース契約要求を送信できます。 リソース契約要求をレビュー、履行、または承認することはできません。</br>
 <sup>8</sup>プロジェクト計画5のサブスクリプションを使用するユーザーは、リソース契約要求の確認、履行、承認を行うことができます。</br>
@@ -263,9 +263,9 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 
 Project Online では、Project Online の一部として準備されている SharePoint Online を使用する必要があります。 Project プラン3または project プラン5のサブスクリプションで提供される SharePoint Online の機能に対する権限は、Project Online をサポートするためのデータの格納とアクセスに制限されます。
 
-### <a name="project-roadmap-and-microsoft-flow"></a>プロジェクトロードマップと Microsoft Flow
+### <a name="project-roadmap-and-power-automate"></a>プロジェクトロードマップとパワー自動化
 
-プロジェクトのロードマップでは、Project サブスクリプションの一部として準備される Microsoft Flow を使用する必要があります。 Microsoft Flow 機能に対する権限は、プロジェクトのロードマップに必要な Microsoft フロー機能に制限されます。 プロジェクトのロードマップに必要な microsoft Flow の機能は、Microsoft 365 管理センターの [**アプリ**] セクションにある [**プロジェクトのフロー** ] サービスプランのデータ統合として表示されます。
+プロジェクトのロードマップでは、Project サブスクリプションの一部としてプロビジョニングされる電源自動化を使用する必要があります。 電源自動化機能に対する権限は、プロジェクトのロードマップに必要なパワー自動化機能に制限されます。 電源自動化プロジェクトのロードマップに必要な機能は、Microsoft 365 管理センターの [**アプリ**] セクションにある [プロジェクトをフローサービスプランの**データ統合**] として表示されます。
 
 ### <a name="project-for-the-web-and-common-data-service"></a>Web および Common Data Service のプロジェクト
 
@@ -288,7 +288,7 @@ Web 用のプロジェクトにはいくつかの制限があります。次の�
 |上限. サマリータスクの期間 | 3650日 (10 年) |
 |上限. タスクに割り当てることができるリソース | 20リソース |
 |タスクのサポートされている日付範囲 | 1/1/1984 &ndash; 12/31/2149 |
-|**プロジェクト** ||
+|**Project** ||
 |上限. プロジェクトのタスクの合計 | 500 |
 |上限. プロジェクトの合計時間 | 3650日 (10 年) |
 |上限. プロジェクトの総リソース | 150 |

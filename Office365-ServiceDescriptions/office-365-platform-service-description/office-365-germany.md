@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a62211889e0b7830f4aa00fec16a0da207e1a654
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263058"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216656"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -32,16 +32,16 @@ Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 3
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**サービス**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Office 365 プラットフォーム<sup>1</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
+|Office 365 プラットフォーム<sup>1</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
 |Exchange Online|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |SharePoint Online|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|OneDrive for Business|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |Skype for Business Online|はい|いいえ|あり|はい|はい|はい|はい|いいえ|
-|Web 用 Office|はい|はい|はい|はい|はい|はい|はい|はい|
+|Web 用 Office|あり|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 ProPlus <sup>2</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |Project Online <sup>3</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Power BI <sup>3</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Web 用 Visio <sup>4</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
+|Web 用 Visio <sup>4</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
 |Yammer エンタープライズ|該当なし|該当なし|該当なし|該当なし|該当なし|該当なし|該当なし|該当なし|
 |Azure Information Protection|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 
@@ -73,12 +73,12 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
-|Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する|あり|はい|はい|はい|はい|はい|はい|はい|
 |Azure Information Protection を使用してコンテンツを保護する|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|いいえ|いいえ|<sup>2</sup>なし|
-|**[Office 365 スイートの機能](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Office 365 スイート機能](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft の予約|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft ブリーフィング電子メール|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Microsoft Flow|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|Microsoft Power の自動化|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Forms|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft MyAnalytics|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Planner|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -89,96 +89,96 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |Office Delve<sup></sup>|はい|いいえ|あり|はい|はい|はい|はい|いいえ|
 |Office 365 グループ|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |Office 365 ビデオ|いいえ|いいえ|いいえ|あり|はい|はい|はい|いいえ|
-|**[ユーザーアカウントの管理](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|クラウド id、フェデレーション id、または多要素認証|はい|はい|はい|はい|はい|はい|はい|はい|
+|**[ユーザー アカウント管理](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|クラウド id、フェデレーション id、または多要素認証|あり|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 デスクトップ セットアップ|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|CSV ファイルを使用する一括アップロード|はい|はい|はい|はい|はい|はい|はい|はい|
-|ディレクトリ同期ツール|はい|はい|はい|はい|はい|はい|はい|はい|
-|Exchange のシンプルな (一括) 移行|はい|はい|はい|はい|はい|はい|はい|はい|
-|Office 365 からまたは Windows PowerShell を使用してアカウントの削除とユーザー パスワードのリセットを行う<sup>3</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|ユーザーが自分のパスワードを変更できる<sup>4</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|ライセンスの管理<sup>5</sup>|はい|はい|はい|はい <sup>6</sup>|はい <sup>6</sup>|はい <sup>6</sup>|はい<sup>5、6</sup>|はい <sup>6</sup>|
-|Office 365 からのセキュリティ グループの管理|はい|はい|はい|はい|はい|はい|はい|はい|
-|複数の管理者役割を使用できる|はい|はい|はい|はい|はい|はい|はい|はい|
-|パートナーに Office 365 の管理を許可する|はい|はい|はい|はい|はい|はい|はい|はい|
-|Azure Active Directory サービス|はい|はい|はい|はい|はい|はい|はい|はい|
+|CSV ファイルを使用する一括アップロード|あり|はい|はい|はい|はい|はい|はい|はい|
+|ディレクトリ同期ツール|あり|はい|はい|はい|はい|はい|はい|はい|
+|Exchange のシンプルな (一括) 移行|あり|はい|はい|はい|はい|はい|はい|はい|
+|Office 365 からまたは Windows PowerShell を使用してアカウントの削除とユーザー パスワードのリセットを行う<sup>3</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
+|ユーザーが自分のパスワードを変更できる<sup>4</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
+|ライセンスの管理<sup>5</sup>|あり|はい|はい|はい <sup>6</sup>|はい <sup>6</sup>|はい <sup>6</sup>|はい<sup>5、6</sup>|はい <sup>6</sup>|
+|Office 365 からのセキュリティ グループの管理|あり|はい|はい|はい|はい|はい|はい|はい|
+|複数の管理者役割を使用できる|あり|はい|はい|はい|はい|はい|はい|はい|
+|パートナーに Office 365 の管理を許可する|あり|はい|はい|はい|はい|はい|はい|はい|
+|Azure Active Directory サービス|あり|はい|はい|はい|はい|はい|はい|はい|
 |アプリのパスワードを作成する<br/> |いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[ドメイン](domains.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|fourthcoffee.de などのカスタム第 2 レベル ドメインの追加|はい|はい|はい|はい|はい|はい|はい|はい|
-|marketing.fourthcoffee.de などのカスタム第 3 レベル ドメインの追加|はい|はい|はい|はい|はい|はい|はい|はい|
-|最大 900 のカスタム ドメインの追加|はい|はい|はい|はい|はい|はい|はい|はい|
-|Office 365 によって管理された DNS レコード (完全な再委託)|はい|はい|はい|はい|いいえ|あり|はい|はい|
-|DNS ホスティング プロバイダーで管理される DNS レコード (部分的な再委託)|はい|はい|はい|はい|はい|はい|はい|はい|
-|電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.de** ドメインまたはカスタム ドメイン名を使用する <sup>8</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|チーム サイト用に **name.sharepoint.de** を使用する|はい|はい|はい|はい|はい|はい|はい|はい|
+|fourthcoffee.de などのカスタム第 2 レベル ドメインの追加|あり|はい|はい|はい|はい|はい|はい|はい|
+|marketing.fourthcoffee.de などのカスタム第 3 レベル ドメインの追加|あり|はい|はい|はい|はい|はい|はい|はい|
+|最大 900 のカスタム ドメインの追加|あり|はい|はい|はい|はい|はい|はい|はい|
+|Office 365 によって管理された DNS レコード (完全な再委託)|あり|はい|はい|はい|いいえ|あり|はい|はい|
+|DNS ホスティング プロバイダーで管理される DNS レコード (部分的な再委託)|あり|はい|はい|はい|はい|はい|はい|はい|
+|電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.de** ドメインまたはカスタム ドメイン名を使用する <sup>8</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
+|チーム サイト用に **name.sharepoint.de** を使用する|あり|はい|はい|はい|はい|はい|はい|はい|
 |チーム サイトのカスタム ドメイン名の使用<sup>7</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|別のプロバイダーを使用してパブリック Web サイトをホストする|はい|はい|はい|はい|はい|はい|はい|はい|
-|電子メールと IM に異なるプロバイダーを使用する|はい|はい|はい|はい|はい|はい|はい|はい|
-|カスタム ドメインに必要なドメイン所有権の検証|はい|はい|はい|はい|はい|はい|はい|はい|
+|別のプロバイダーを使用してパブリック Web サイトをホストする|あり|はい|はい|はい|はい|はい|はい|はい|
+|電子メールと IM に異なるプロバイダーを使用する|あり|はい|はい|はい|はい|はい|はい|はい|
+|カスタム ドメインに必要なドメイン所有権の検証|あり|はい|はい|はい|はい|はい|はい|はい|
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|**[サービスの正常性と継続性](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|はい|はい|はい|はい|はい|はい|はい|はい|
-|Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態|はい|はい|はい|はい|はい|はい|はい|はい|
-|[ **サービスの正常性**] RSS フィード|はい|はい|はい|はい|はい|はい|はい|はい|
+|**[サービスの正常性および継続性](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|あり|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態|あり|はい|はい|はい|はい|はい|はい|はい|
+|[ **サービスの正常性**] RSS フィード|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[レポート](reports.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|アクティブおよび非アクティブ メールボックス|はい|はい|はい|はい|はい|はい|はい|はい|
-|新規メールボックスおよび削除済みメールボックス|はい|はい|はい|はい|はい|はい|はい|はい|
-|新規および削除済みグループ|はい|はい|はい|はい|はい|はい|はい|はい|
-|メールボックスの使用状況|はい|はい|はい|はい|はい|はい|はい|はい|
-|メールボックスの接続の種類|はい|はい|はい|はい|はい|はい|はい|はい|
-|送信メールと受信メール|はい|はい|はい|はい|はい|はい|はい|はい|
-|上位送信者および受信者|はい|--|はい|はい|はい|はい|はい|はい|
-|スパムとマルウェアの検出|はい|はい|はい|はい|はい|はい|はい|はい|
-|メールの上位マルウェア|はい|はい|はい|はい|はい|はい|はい|はい|
-|メールのルール一致|はい|はい|はい|はい|はい|はい|はい|はい|
-|メールの上位ルール一致|はい|はい|はい|はい|はい|はい|はい|はい|
-|メールの上位 DLP ポリシー一致|いいえ|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|
-|メールの重大度別 DLP ポリシー一致|いいえ|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|
-|メールの DLP ポリシーの一致、上書き、および誤検知の数|いいえ|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|
-|メールの上位 DLP ルール一致|いいえ|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|
-|IM とオーディオ セッション|はい|はい|はい|はい|はい|はい|はい|はい|
-|アプリケーション共有、Web、およびダイヤルイン会議|はい|はい|はい|はい|はい|はい|はい|はい|
-|ビデオ、アプリケーション共有、およびファイル転送セッション|はい|はい|はい|はい|はい|はい|はい|はい|
-|IM と電話/ビデオ会議|はい|はい|はい|はい|はい|はい|はい|はい|
-|ダウンロード可能なメールの保護レポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|使用されるブラウザー|はい|はい|はい|はい|はい|はい|はい|はい|
-|使用されるオペレーティング システム|はい|はい|はい|はい|はい|はい|はい|はい|
-|Office 365 レポート Web サービスを使用した、独自のレポートの作成|はい|はい|はい|はい|はい|はい|はい|はい|
+|アクティブおよび非アクティブ メールボックス|あり|はい|はい|はい|はい|はい|はい|はい|
+|新規メールボックスおよび削除済みメールボックス|あり|はい|はい|はい|はい|はい|はい|はい|
+|新規および削除済みグループ|あり|はい|はい|はい|はい|はい|はい|はい|
+|メールボックスの使用状況|あり|はい|はい|はい|はい|はい|はい|はい|
+|メールボックスの接続の種類|あり|はい|はい|はい|はい|はい|はい|はい|
+|送信メールと受信メール|あり|はい|はい|はい|はい|はい|はい|はい|
+|上位送信者および受信者|あり|--|はい|はい|はい|はい|はい|はい|
+|スパムとマルウェアの検出|あり|はい|はい|はい|はい|はい|はい|はい|
+|メールの上位マルウェア|あり|はい|はい|はい|はい|はい|はい|はい|
+|メールのルール一致|あり|はい|はい|はい|はい|はい|はい|はい|
+|メールの上位ルール一致|あり|はい|はい|はい|はい|はい|はい|はい|
+|メールの上位 DLP ポリシー一致|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|はい|
+|メールの重大度別 DLP ポリシー一致|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|はい|
+|メールの DLP ポリシーの一致、上書き、および誤検知の数|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|はい|
+|メールの上位 DLP ルール一致|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|はい|
+|IM とオーディオ セッション|あり|はい|はい|はい|はい|はい|はい|はい|
+|アプリケーション共有、Web、およびダイヤルイン会議|あり|はい|はい|はい|はい|はい|はい|はい|
+|ビデオ、アプリケーション共有、およびファイル転送セッション|あり|はい|はい|はい|はい|はい|はい|はい|
+|IM と電話/ビデオ会議|あり|はい|はい|はい|はい|はい|はい|はい|
+|ダウンロード可能なメールの保護レポート|あり|はい|はい|はい|はい|はい|はい|はい|
+|使用されるブラウザー|あり|はい|はい|はい|はい|はい|はい|はい|
+|使用されるオペレーティング システム|あり|はい|はい|はい|はい|はい|はい|はい|
+|Office 365 レポート Web サービスを使用した、独自のレポートの作成|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[サービス更新](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|はい|はい|はい|はい|
-|アクションが必要な場合にメッセージ センターに通知を送信|はい|はい|はい|はい|はい|はい|はい|はい|
-|一部のサービス更新の Roadmap.office.com|はい|--|はい|はい|はい|はい|はい|はい|
-|対象のリリースを有効にするオプション|はい|--|はい|はい|はい|はい|はい|はい|
+|すべてのカスタマーに提供される定期的な更新プログラム|あり|はい|はい|はい|はい|はい|はい|はい|
+|アクションが必要な場合にメッセージ センターに通知を送信|あり|はい|はい|はい|はい|はい|はい|はい|
+|一部のサービス更新の Roadmap.office.com|あり|--|はい|はい|はい|はい|はい|はい|
+|対象のリリースを有効にするオプション|あり|--|はい|はい|はい|はい|はい|はい|
 |**[ヘルプとトレーニング](help-and-training.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|オンライン ヘルプ|はい|はい|はい|はい|はい|はい|はい|はい|
-|コミュニティ|はい|はい|はい|はい|はい|はい|はい|はい|
-|その他のセルフヘルプ リソース|はい|はい|はい|はい|はい|はい|はい|はい|
-|自己学習トレーニング|はい|はい|はい|はい|はい|はい|はい|はい|
+|オンライン ヘルプ|あり|はい|はい|はい|はい|はい|はい|はい|
+|コミュニティ|あり|はい|はい|はい|はい|はい|はい|はい|
+|その他のセルフヘルプ リソース|あり|はい|はい|はい|はい|はい|はい|はい|
+|自己学習トレーニング|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[ネットワーク](networking.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|IPv4 および IPv6 プロトコル|はい|はい|はい|はい|はい|はい|はい|はい|
+|IPv4 および IPv6 プロトコル|あり|はい|はい|はい|はい|はい|はい|はい|
 |**信頼**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|**[プライバシー、セキュリティ、および透過性](privacy-security-and-transparency.md)**|はい|はい|はい|はい|はい|はい|はい|はい|
+|**[プライバシー、セキュリティ、および透明性](privacy-security-and-transparency.md)**|あり|はい|はい|はい|はい|はい|はい|はい|
 |Advanced Threat Protection|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |顧客ロックボックス|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Office 365 Advanced eDiscovery|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |セキュリティ スコア|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[コンプライアンス](compliance-servicedesc.md)**<sup>9</sup>|||||||||
-|SAS 70/SSAE16 の評価|はい|はい|はい|はい|はい|はい|はい|はい|
-|ISO 27001 認定|はい|はい|はい|はい|はい|はい|はい|はい|
-|EU モデル条項|はい|はい|はい|はい|はい|はい|はい|はい|
-|EU セーフ ハーバー|はい|はい|はい|はい|はい|はい|はい|はい|
-|HIPAA ビジネス アソシエイト契約|はい|はい|はい|はい|はい|はい|はい|はい|
-|FISMA 運用認可|はい|はい|はい|はい|はい|はい|はい|はい|
-|Microsoft データ処理契約|はい|はい|はい|はい|はい|はい|はい|はい|
+|SAS 70/SSAE16 の評価|あり|はい|はい|はい|はい|はい|はい|はい|
+|ISO 27001 認定|あり|はい|はい|はい|はい|はい|はい|はい|
+|EU モデル条項|あり|はい|はい|はい|はい|はい|はい|はい|
+|EU セーフ ハーバー|あり|はい|はい|はい|はい|はい|はい|はい|
+|HIPAA ビジネス アソシエイト契約|あり|はい|はい|はい|はい|はい|はい|はい|
+|FISMA 運用認可|あり|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft データ処理契約|あり|はい|はい|はい|はい|はい|はい|はい|
 |PCI 準拠 PAN データ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[サービスの継続性](service-health-and-continuity.md)**|||||||||
 |**[BlackBerry](blackberry.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|BlackBerry Internet Service (BIS) の使用|はい|はい|はい|はい|はい|はい|はい|はい|
+|BlackBerry Internet Service (BIS) の使用|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[パートナー](partners.md)**|||||||||
-|指定されたプランを使用しているカスタマーに対する試用版への招待および発注書の作成|はい|はい|はい|はい|はい|はい|はい|はい|
-|代理管理の提供|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[サービス レベル契約](service-level-agreement.md)**|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[製品使用権](product-use-rights.md)**|はい|はい|はい|はい|はい|はい|はい|はい|
+|指定されたプランを使用しているカスタマーに対する試用版への招待および発注書の作成|あり|はい|はい|はい|はい|はい|はい|はい|
+|代理管理の提供|あり|はい|はい|はい|はい|はい|はい|はい|
+|**[サービス レベル契約](service-level-agreement.md)**|あり|はい|はい|はい|はい|はい|はい|はい|
+|**[製品使用権](product-use-rights.md)**|あり|はい|はい|はい|はい|はい|はい|はい|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 ドイツでは、製造元によってサポートされていないオペレーティングシステムのサポートは提供されません。<br/>
@@ -202,27 +202,27 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 ドイツ Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**Office アプリケーション**<sup>1、2</sup>|||||||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|はい (<sup>10</sup> )|いいえ|はい (<sup>10</sup> )|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい|はい|はい<sup>6</sup>|
+|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|あり|はい|はい<sup>6</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|いいえ|いいえ|いいえ|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps)|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Android 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|はい|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps)|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Android 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|はい|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
 |Outlook for Android<sup>11</sup>|いいえ|いいえ|いいえ|<sup>7</sup>なし|いいえ|いいえ|いいえ|いいえ|
 |**エンタープライズ価値**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|PC または Mac 上のユーザーごとに 5 個のインストール|はい<sup>8</sup>|いいえ|はい|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
-|自動化されたユーザー アカウント プロビジョニング|はい|はい|はい|はい|はい|はい|はい|はい|
+|PC または Mac 上のユーザーごとに 5 個のインストール|はい<sup>8</sup>|いいえ|あり|<sup>7</sup>なし|いいえ|あり|はい|いいえ|
+|自動化されたユーザー アカウント プロビジョニング|あり|はい|はい|はい|はい|はい|はい|はい|
 |多言語ユーザー インターフェイス|いいえ|いいえ|はい|不要|いいえ|あり|はい|いいえ|
-|クライアント プッシュ展開|はい|はい|はい|不要|いいえ|あり|はい|いいえ|
+|クライアント プッシュ展開|あり|はい|はい|不要|いいえ|あり|はい|いいえ|
 |社内 Exchange のクライアント サポート|はい|いいえ|はい|不要|いいえ|あり|はい|いいえ|
 |社内 SharePoint のクライアント サポート|はい|いいえ|はい|不要|いいえ|あり|はい|いいえ|
 |ソフトウェア更新の制御|はい|いいえ|はい|不要|いいえ|あり|はい|いいえ|
@@ -238,8 +238,8 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス|はい|いいえ|はい|不要|いいえ|あり|はい|いいえ|
 |Office Lens|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Office テレメトリ|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|クライアント アプリケーションのオフライン サポート|はい|はい|はい|不要|いいえ|あり|はい|いいえ|
-|最適化されたサイド バイ サイド クライアント インストール|はい|はい|はい|不要|いいえ|あり|はい|いいえ|
+|クライアント アプリケーションのオフライン サポート|あり|はい|はい|不要|いいえ|あり|はい|いいえ|
+|最適化されたサイド バイ サイド クライアント インストール|あり|はい|はい|不要|いいえ|あり|はい|いいえ|
 |Power Map for Excel|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |Power Pivot for Excel|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |Power Query for Excel|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
@@ -267,16 +267,16 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |:-----|:-----|:-----|:-----|
 |**機能**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus<sup>10</sup>**|
 |**Office アプリケーション<sup>1、2</sup>**||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|はい|はい|はい|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|はい|はい|はい|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|はい|はい|はい|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|はい|はい|はい|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|はい|はい|はい|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|はい|はい|はい|
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|はい|はい|はい|
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|あり|はい|はい|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|あり|はい|はい|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|あり|はい|はい|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|あり|はい|はい|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|あり|はい|はい|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|あり|はい|はい|
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|あり|はい|はい|
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|はい|はい|いいえ|
-|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps)|はい|はい|はい|
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|あり|はい|いいえ|
+|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps)|あり|はい|はい|
 |[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|いいえ|あり|はい|
 |[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|いいえ|あり|はい|
 |[Android 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|いいえ|あり|はい|
@@ -284,36 +284,36 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |[Windows Phone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|いいえ|あり|はい|
 |Outlook for Android<sup>11</sup>|いいえ|いいえ|いいえ|
 |**エンタープライズ価値**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus**|
-|PC または Mac 上のユーザーごとに 5 個のインストール|いいえ|はい|はい<sup>8</sup>|
-|自動化されたユーザー アカウント プロビジョニング|該当なし|はい|はい|
-|多言語ユーザー インターフェイス|はい|はい|はい|
-|クライアント プッシュ展開|はい|はい|はい|
-|社内 Exchange のクライアント サポート|はい|はい|はい|
-|社内 SharePoint のクライアント サポート|はい|はい|はい|
-|ソフトウェア更新の制御|はい|はい|はい|
-|データベース比較|はい|はい|はい|
-|デスクトップの仮想化|はい|はい|はい (<sup>9</sup> )|
-|Excel スプレッドシート比較|はい|はい|はい|
-|Excel スプレッドシート検査|はい|はい|はい|
+|PC または Mac 上のユーザーごとに 5 個のインストール|いいえ|あり|はい<sup>8</sup>|
+|自動化されたユーザー アカウント プロビジョニング|該当なし|あり|はい|
+|多言語ユーザー インターフェイス|あり|はい|はい|
+|クライアント プッシュ展開|あり|はい|はい|
+|社内 Exchange のクライアント サポート|あり|はい|はい|
+|社内 SharePoint のクライアント サポート|あり|はい|はい|
+|ソフトウェア更新の制御|あり|はい|はい|
+|データベース比較|あり|はい|はい|
+|デスクトップの仮想化|あり|はい|はい (<sup>9</sup> )|
+|Excel スプレッドシート比較|あり|はい|はい|
+|Excel スプレッドシート検査|あり|はい|はい|
 |Exchange Online と SharePoint Online のアーカイブとコンプライアンス|はい<sup>3</sup>|はい|はい<sup>3</sup>|
-|グループ ポリシーのサポート|はい|はい|はい|
+|グループ ポリシーのサポート|あり|はい|はい|
 |Azure Information Protection を使用した Information Rights Management<sup>4</sup>|いいえ|いいえ|いいえ|
 |Windows Server AD RMS を使用した Information Rights Management<sup>5</sup>|いいえ|いいえ|いいえ|
-|Office アドイン、ActiveX、および BHO のサポート|はい|はい|はい|
-|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス|いいえ|はい|はい|
+|Office アドイン、ActiveX、および BHO のサポート|あり|はい|はい|
+|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス|いいえ|あり|はい|
 |Office Lens|いいえ|いいえ|いいえ|
-|Office テレメトリ|はい|はい|はい|
-|クライアント アプリケーションのオフライン サポート|はい|はい|はい|
-|最適化されたサイド バイ サイド クライアント インストール|いいえ|はい|はい|
-|Power Map for Excel|<sup>6</sup>なし|はい|はい|
-|Power Pivot for Excel|はい|はい|はい|
-|Power Query for Excel|はい|はい|はい|
-|Power View for Excel|はい|はい|はい|
-|ローミング設定|はい|はい|はい|
-|共有コンピューターのライセンス認証|いいえ|いいえ|はい|
-|クラウドベース ファイル ストレージのブロックのサポート|はい|はい|はい|
-|バージョン アップグレード|いいえ|はい|はい|
-|Volume activation (KMS/MAK)|はい|はい|<sup>10</sup>なし|
+|Office テレメトリ|あり|はい|はい|
+|クライアント アプリケーションのオフライン サポート|あり|はい|はい|
+|最適化されたサイド バイ サイド クライアント インストール|いいえ|あり|はい|
+|Power Map for Excel|<sup>6</sup>なし|あり|はい|
+|Power Pivot for Excel|あり|はい|はい|
+|Power Query for Excel|あり|はい|はい|
+|Power View for Excel|あり|はい|はい|
+|ローミング設定|あり|はい|はい|
+|共有コンピューターのライセンス認証|いいえ|いいえ|あり|
+|クラウドベース ファイル ストレージのブロックのサポート|あり|はい|はい|
+|バージョン アップグレード|いいえ|あり|はい|
+|Volume activation (KMS/MAK)|あり|はい|<sup>10</sup>なし|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 ドイツプランには、Office 365 ProPlus、office 2013、office 2016 などのエンドユーザーのデバイス (「クライアントソフトウェアアプリケーション」) にインストールされ、実行されるクライアントソフトウェアアプリケーションが含まれています。 クライアントソフトウェアアプリケーションは、ドイツのデータセンターでは機能しません。また、エンドユーザーは、ドイツ語のオンラインサービスではないオンラインサービスにアクセスできます。 Microsoft との契約においては、クライアント ソフトウェア アプリケーションはドイツの Online Services ではありません。 ドイツのデータ トラスティによるドイツのデータ常駐コミットメントとアクセス制御は、ドイツの Online Services にのみ適用されます。<br/>
@@ -352,104 +352,104 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[計画と展開](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
-|サポートされているハイブリッド展開<sup>1</sup>|はい<sup>2</sup>|はい|はい<sup>2</sup>|はい|はい|はい|はい|はい|
-|サポートされている IMAP 移行|はい|はい|はい|はい|はい|はい|はい|はい|
-|カット オーバー移行のサポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|サポートされている段階的な移行|はい|はい|はい|はい|はい|はい|はい|はい|
+|サポートされているハイブリッド展開<sup>1</sup>|はい<sup>2</sup>|はい|はい<sup>2</sup>|あり|はい|はい|はい|はい|
+|サポートされている IMAP 移行|あり|はい|はい|はい|はい|はい|はい|はい|
+|カット オーバー移行のサポート|あり|はい|はい|はい|はい|はい|はい|はい|
+|サポートされている段階的な移行|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[アクセス許可](../exchange-online-service-description/permissions.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|役割に基づくアクセス許可|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|役割グループ|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|役割の割り当てポリシー|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|**[メッセージポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Exchange Online ベースのメールボックスのアーカイブ|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|役割に基づくアクセス許可|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|役割グループ|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|役割の割り当てポリシー|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|**[メッセージ ポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|Exchange Online ベースのメールボックスのアーカイブ|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |社内メールボックスのクラウドベースのアーカイブ|いいえ|いいえ|いいえ|あり|はい|はい|はい|いいえ|
-|保持タグおよびアイテム保持ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
-|保存中のデータの暗号化 (BitLocker)|はい|はい|はい|はい|はい|はい|はい|はい|
+|保持タグおよびアイテム保持ポリシー|あり|はい|はい|はい|はい|はい|はい|はい|
+|保存中のデータの暗号化 (BitLocker)|あり|はい|はい|はい|はい|はい|はい|はい|
 |Azure Information Protection を使用した IRM<sup>3</sup>|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|いいえ|いいえ|<sup>4</sup>なし|
 |Windows Server AD RMS を使用した IRM<sup>3</sup>|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|
-|Office 365 メッセージの暗号化|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|はい|はい|<sup>4</sup>なし|
-|S/MIME|はい|はい|はい|はい|はい|はい|はい|はい||
+|Office 365 メッセージの暗号化|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|<sup>4</sup>なし|あり|はい|<sup>4</sup>なし|
+|S/MIME|あり|はい|はい|はい|はい|はい|はい|はい||
 |インプレース保持と訴訟ホールド|いいえ|--|いいえ|はい|いいえ|あり|はい|いいえ|
 |インプレース電子情報開示 (eDiscovery)|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい|
 |メール フロー ルール|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|Yes<sup>7</sup>|
 |データ損失防止|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|ジャーナル|はい|はい|はい|はい|はい|はい|はい|はい|
+|ジャーナル|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[スパム対策とマルウェア対策の保護](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|組み込みのスパム対策保護|はい|はい|はい|はい|はい|はい|はい|はい|
-|Customize anti-spam policies|はい|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
+|組み込みのスパム対策保護|あり|はい|はい|はい|はい|はい|はい|はい|
+|Customize anti-spam policies|あり|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
 |組み込みのマルウェア対策保護|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|
-|Customize anti-malware policies|はい|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
-|検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
-|検疫 - エンドユーザーによる自己管理|はい|はい|はい|はい|はい|はい|はい|はい|
+|Customize anti-malware policies|あり|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
+|検疫 - 管理者による管理|あり|はい|はい|はい|はい|はい|はい|はい <sup>8</sup>|
+|検疫 - エンドユーザーによる自己管理|あり|はい|はい|はい|はい|はい|はい|はい|
 |Advanced Threat Protection|いいえ|--|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |**[メール フロー](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|送信メールのカスタムルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
-|Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|
-|Conditional mail routing|はい|はい|はい|はい|はい|はい|はい|はい|
-|着信セーフリストへのパートナーの追加|はい|はい|はい|はい|はい|はい|はい|はい|
-|ハイブリッド電子メールルーティング|はい<sup>2</sup>|--|はい<sup>2</sup>|はい|はい|はい|はい|はい|
+|送信メールのカスタムルーティング|あり|はい|はい|はい|はい|はい|はい|はい|
+|Secure messaging with a trusted partner|あり|はい|はい|はい|はい|はい|はい|はい|
+|Conditional mail routing|あり|はい|はい|はい|はい|はい|はい|はい|
+|着信セーフリストへのパートナーの追加|あり|はい|はい|はい|はい|はい|はい|はい|
+|ハイブリッド電子メールルーティング|はい<sup>2</sup>|--|はい<sup>2</sup>|あり|はい|はい|はい|はい|
 |**[受信者](../exchange-online-service-description/recipients.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|容量のアラート|はい|はい|はい|はい|はい|はい|はい|はい|
+|容量のアラート|あり|はい|はい|はい|はい|はい|はい|はい|
 |低優先メール<sup>3</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|メール ヒント|はい|はい|はい|はい|はい|はい|はい|はい|
-|代理人アクセス|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|受信トレイのルール|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|接続されているアカウント|はい|はい|はい|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい (<sup>10</sup> )|
-|非アクティブなメールボックス|<sup>11</sup>なし|--|<sup>11</sup>なし|はい|<sup>11</sup>なし|はい|はい|<sup>11</sup>なし|
-|オフライン アドレス帳|はい|はい|はい|はい|はい|はい|はい|はい|
-|アドレス帳ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
-|階層型アドレス帳|はい|--|はい|はい|はい|はい|はい|いいえ|
-|アドレス一覧とグローバルアドレス一覧|はい|はい|はい|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|
+|メール ヒント|あり|はい|はい|はい|はい|はい|はい|はい|
+|代理人アクセス|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|受信トレイのルール|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|接続されているアカウント|あり|はい|はい|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい (<sup>10</sup> )|はい (<sup>10</sup> )|
+|非アクティブなメールボックス|<sup>11</sup>なし|--|<sup>11</sup>なし|はい|<sup>11</sup>なし|あり|はい|<sup>11</sup>なし|
+|オフライン アドレス帳|あり|はい|はい|はい|はい|はい|はい|はい|
+|アドレス帳ポリシー|あり|はい|はい|はい|はい|はい|はい|はい|
+|階層型アドレス帳|あり|--|はい|はい|はい|はい|はい|いいえ|
+|アドレス一覧とグローバルアドレス一覧|あり|はい|はい|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|
 |Office 365 グループ|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|配布グループ|はい|はい|はい|はい|はい|はい|はい|はい|
-|外部連絡先 （グローバル）|はい|はい|はい|はい|はい|はい|はい|はい|
-|ユニバーサル連絡先カード|はい|はい|はい|はい|はい|はい|はい|はい|
-|ソーシャルネットワークを使用した連絡先リンク|はい|はい|はい|はい|はい|はい|はい|はい|
-|リソース メールボックス|はい|はい|はい|はい|はい|はい|はい|はい|
-|会議室の管理|はい|はい|はい|はい|はい|はい|はい|はい|
-|不在時の返信|はい|はい|はい|はい|はい|はい|はい|はい|
-|予定表の共有|はい|はい|はい|はい|はい|はい|はい|はい|
-|**[レポート機能とトラブルシューティングツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Microsoft 365 管理センターのレポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|Web サービスレポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|Message trace|はい|はい|はい|はい|はい|はい|はい|はい|
-|監査レポート|はい|はい|はい|はい|はい|はい|はい|はい <sup>5</sup>|
+|配布グループ|あり|はい|はい|はい|はい|はい|はい|はい|
+|外部連絡先 （グローバル）|あり|はい|はい|はい|はい|はい|はい|はい|
+|ユニバーサル連絡先カード|あり|はい|はい|はい|はい|はい|はい|はい|
+|ソーシャルネットワークを使用した連絡先リンク|あり|はい|はい|はい|はい|はい|はい|はい|
+|リソース メールボックス|あり|はい|はい|はい|はい|はい|はい|はい|
+|会議室の管理|あり|はい|はい|はい|はい|はい|はい|はい|
+|不在時の返信|あり|はい|はい|はい|はい|はい|はい|はい|
+|予定表の共有|あり|はい|はい|はい|はい|はい|はい|はい|
+|**[レポート機能とトラブルシューティング ツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|Microsoft 365 管理センターのレポート|あり|はい|はい|はい|はい|はい|はい|はい|
+|Web サービスレポート|あり|はい|はい|はい|はい|はい|はい|はい|
+|Message trace|あり|はい|はい|はい|はい|はい|はい|はい|
+|監査レポート|あり|はい|はい|はい|はい|はい|はい|はい <sup>5</sup>|
 |ユニファイド メッセージングのレポート|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |**[共有とコラボレーション](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|フェデレーションの共有 (予定表の公開を含む)<sup>13</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|パブリック フォルダー|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|**[クライアントとモバイルデバイス](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Outlook for Windows<sup>14</sup>|はい|はい|はい|はい|はい|はい|はい| No<sup>11</sup>|
-|Outlook on the web<sup>14</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
-|Outlook for Mac<sup>14</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
+|フェデレーションの共有 (予定表の公開を含む)<sup>13</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
+|パブリック フォルダー|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|**[クライアントとモバイル デバイス](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|Outlook for Windows<sup>14</sup>|あり|はい|はい|はい|はい|はい|はい| No<sup>11</sup>|
+|Outlook on the web<sup>14</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
+|Outlook for Mac<sup>14</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
 |iOS および Android 用の Outlook<sup>14</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Exchange ActiveSync|はい|はい|はい|はい|はい|はい|はい|はい|
-|POP と IMAP|はい|はい|はい|はい|はい|はい|はい|はい<sup>15</sup>|
-|SMTP|はい|はい|はい|はい|はい|はい|はい|はい|
-|EWS アプリケーションのサポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|Outlook for Mac|はい|はい|はい|はい|はい|はい|はい| いいえ|
-|**[音声メッセージサービス](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|Exchange ActiveSync|あり|はい|はい|はい|はい|はい|はい|はい|
+|POP と IMAP|あり|はい|はい|はい|はい|はい|はい|はい<sup>15</sup>|
+|SMTP|あり|はい|はい|はい|はい|はい|はい|はい|
+|EWS アプリケーションのサポート|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|Outlook for Mac|あり|はい|はい|はい|はい|はい|はい| いいえ|
+|**[音声メッセージ サービス](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |ボイス メール|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |ボイスメールとサードパーティ製 FAX 間の統合|いいえ|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|サードパーティ ボイス メールの相互運用性|はい|はい|はい|はい|はい|はい|はい|はい|
-|Skype for Business の統合|はい|はい|はい|はい|はい|はい|はい|はい|
+|サードパーティ ボイス メールの相互運用性|あり|はい|はい|はい|はい|はい|はい|はい|
+|Skype for Business の統合|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[高可用性とビジネス継続性](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|データ センターでのメールボックス レプリケーション|はい|はい|はい|はい|はい|はい|はい|はい|
-|削除済みメールボックスの回復|はい|はい|はい|はい|はい|はい|はい|はい|
-|削除済みアイテムの回復|はい|はい|はい|はい|はい|はい|はい|はい|
-|単一アイテムの回復|はい|はい|はい|はい|はい|はい|はい|いいえ||
+|データ センターでのメールボックス レプリケーション|あり|はい|はい|はい|はい|はい|はい|はい|
+|削除済みメールボックスの回復|あり|はい|はい|はい|はい|はい|はい|はい|
+|削除済みアイテムの回復|あり|はい|はい|はい|はい|はい|はい|はい|
+|単一アイテムの回復|あり|はい|はい|はい|はい|はい|はい|いいえ||
 |**[相互運用性、接続、および互換性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |OWA<sup>3</sup>および Outlook の Skype for business のプレゼンス|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|SharePoint の相互運用性|はい|はい|はい|はい|はい|はい|はい|はい|
-|EWS 接続のサポート|はい|はい|はい|はい|はい|はい|はい|はい|
-|SMTP リレーのサポート|はい|はい|はい|はい|はい|はい|はい|はい|
+|SharePoint の相互運用性|あり|はい|はい|はい|はい|はい|はい|はい|
+|EWS 接続のサポート|あり|はい|はい|はい|はい|はい|はい|はい|
+|SMTP リレーのサポート|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[Exchange Online のセットアップと管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Microsoft Office 365 ポータルへのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
-|Microsoft 365 管理センターへのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
-|Exchange 管理センターへのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
-|リモート Windows PowerShell へのアクセス|はい|はい|はい|はい|はい|はい|はい|はい|
-|モバイルデバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
-|利用状況レポート|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft Office 365 ポータルへのアクセス|あり|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft 365 管理センターへのアクセス|あり|はい|はい|はい|はい|はい|はい|はい|
+|Exchange 管理センターへのアクセス|あり|はい|はい|はい|はい|はい|はい|はい|
+|リモート Windows PowerShell へのアクセス|あり|はい|はい|はい|はい|はい|はい|はい|
+|モバイルデバイスの ActiveSync ポリシー|あり|はい|はい|はい|はい|はい|はい|はい|
+|利用状況レポート|あり|はい|はい|はい|はい|はい|はい|はい|
 |**[サービスのカスタマイズ、アドイン、およびリソースの拡張](../exchange-online-service-description/exchange-online-service-description.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Outlook アドインと Outlook MAPI|Yes<sup>16</sup>|Yes<sup>16</sup>|Yes<sup>16</sup>|Yes<sup>16</sup>|Yes<sup>16</sup>|Yes<sup>16</sup>|Yes<sup>16</sup>|いいえ|
 
@@ -476,37 +476,37 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能**|**EOP スタンドアロン**|**Exchange Online の EOP 機能**|**Exchange Enterprise CAL (サービス付き)**|
-|[メールの受信者](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|はい<sup>1</sup>|はい<sup>1</sup>|はい|
-|[管理役割グループのアクセス許可](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|はい|はい|
+|[メールの受信者](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|はい<sup>1</sup>|はい<sup>1</sup>|あり|
+|[管理役割グループのアクセス許可](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|あり|はい|
 |[ドメインの管理](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|はい<sup>3</sup>|はい|はい<sup>3</sup>|
-|[一致サブドメイン](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|はい|はい|いいえ|
-|[ディレクトリ ベースのエッジ ブロック (DBEB)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|はい|はい|はい|
+|[一致サブドメイン](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|あり|はい|いいえ|
+|[ディレクトリ ベースのエッジ ブロック (DBEB)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|あり|はい|はい|
 |[メール フロー ルール](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|はい<sup>3、4、14</sup>|はい<sup>3、4、14</sup>|はい|
-|[監査ログ](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい (<sup>5</sup> )|はい|はい|
+|[監査ログ](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい (<sup>5</sup> )|あり|はい|
 |[監査ログ検索](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
 <sup>16</sup>|いいえ|あり|はい|
-|[データ損失防止 (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|はい|はい<sup>6</sup>|
-|[Office 365 Message Encryption](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|[はい]<sup>12</sup>|はい|[はい]<sup>12</sup>|
-|[スパム対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|はい|はい|はい|
-|[スパム対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)|Yes<sup>7</sup>|はい|はい|
-|[マルウェア対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい (<sup>13</sup> )|はい|はい|
-|[マルウェア対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)|はい|はい|はい|
-|[検疫](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|はい|はい|はい|
-|[検疫](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|はい|はい|はい|
-|[高度なデータ ガバナンス](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|いいえ|はい|はい|
-|[Office 365 脅威インテリジェンス](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|いいえ|はい|はい|
+|[データ損失防止 (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|あり|はい<sup>6</sup>|
+|[Office 365 Message Encryption](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|[はい]<sup>12</sup>|あり|[はい]<sup>12</sup>|
+|[スパム対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|あり|はい|はい|
+|[スパム対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)|Yes<sup>7</sup>|あり|はい|
+|[マルウェア対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい (<sup>13</sup> )|あり|はい|
+|[マルウェア対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)|あり|はい|はい|
+|[検疫](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|あり|はい|はい|
+|[検疫](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|あり|はい|はい|
+|[高度なデータ ガバナンス](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|いいえ|あり|はい|
+|[Office 365 脅威インテリジェンス](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|いいえ|あり|はい|
 |[Outlook on the web での迷惑メール報告](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|はい<sup>8</sup>|<sup>8</sup>なし|<sup>8</sup>なし|
-|[Office 365 とご使用の電子メール サーバー間で電子メールをルーティングする](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|はい|はい|はい|
-|[信頼できるパートナーとのセキュリティで保護されたメッセージング](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|はい|はい|はい|
-|[パートナーの IP アドレスのセーフ リスト](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|はい|はい|はい|
-|[条件付きメール ルーティング](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|はい|はい|はい|
-|[ハイブリッド メール ルーティング](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|はい|はい|はい|
+|[Office 365 とご使用の電子メール サーバー間で電子メールをルーティングする](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|あり|はい|はい|
+|[信頼できるパートナーとのセキュリティで保護されたメッセージング](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|あり|はい|はい|
+|[パートナーの IP アドレスのセーフ リスト](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|あり|はい|はい|
+|[条件付きメール ルーティング](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|あり|はい|はい|
+|[ハイブリッド メール ルーティング](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|あり|はい|はい|
 |[Microsoft 365 管理センターのレポート](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |はい (<sup>9</sup> )|はい (<sup>10</sup> )|はい <sup>9、10</sup>|
-|[Web サービスを使用したレポート作成](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|いいえ|はい|はい|
-|[メッセージの追跡](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい|
-|[Microsoft 365 管理センターへのアクセス](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |はい|はい|はい|
-|[Exchange 管理センターへのアクセス](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)|はい|はい|はい|
-|[リモート Windows PowerShell へのアクセス](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access)|はい<sup>2</sup>|はい|はい|
+|[Web サービスを使用したレポート作成](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|いいえ|あり|はい|
+|[メッセージの追跡](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|はい (<sup>15</sup> )|はい (<sup>15</sup> )|あり|
+|[Microsoft 365 管理センターへのアクセス](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |あり|はい|はい|
+|[Exchange 管理センターへのアクセス](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)|あり|はい|はい|
+|[リモート Windows PowerShell へのアクセス](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access)|はい<sup>2</sup>|あり|はい|
 
 > [!NOTE]
 > <sup>1</sup>メールユーザーは "メールボックス" として定義され、外部メール連絡先と一緒に Exchange 管理センター (EAC) で直接追加、削除、その他の管理を行うことができます。<br/>
@@ -534,8 +534,8 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 
 |**機能**|**ATP スタンドアロン**|**Exchange Online の ATP 機能**|
 |:-----|:-----|:-----|
-|リンク保護|はい|はい|
-|添付ファイル保護|はい|はい|
+|リンク保護|あり|はい|
+|添付ファイル保護|あり|はい|
 
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business の機能
 
@@ -548,58 +548,58 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 
 |****開発者向けの機能****|****OneDrive for Business プラン 1****|****OneDrive for Business プラン 2****|****SharePoint Online プラン 1****|****SharePoint Online プラン 2****|
 |:-----|:-----|:-----|:-----|:-----|
-|[アプリカタログ (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|はい|はい|はい|はい|
-|[アプリの展開: クラウドでホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|はい|はい|はい|はい|
-|[アプリの展開: SharePoint でホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|はい|はい|はい|はい|
-|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|はい|はい|はい|はい|
-|BCS: 外部リストのアラート|いいえ|いいえ|いいえ|はい|
-|[BCS: アプリを対象範囲とする外部コンテンツタイプ (Ect)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|いいえ|いいえ|いいえ|はい|
-|[BCS: ビジネスデータ Web パーツ](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|いいえ|いいえ|いいえ|はい|
-|[BCS: 外部リスト](../sharepoint-online-service-description/developer.md#bcs-external-list)|いいえ|いいえ|いいえ|はい|
-|[BCS:OData コネクタ](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|いいえ|いいえ|いいえ|はい|
+|[アプリカタログ (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|あり|はい|はい|はい|
+|[アプリの展開: クラウドでホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|あり|はい|はい|はい|
+|[アプリの展開: SharePoint でホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|あり|はい|はい|はい|
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|あり|はい|はい|はい|
+|BCS: 外部リストのアラート|いいえ|いいえ|いいえ|あり|
+|[BCS: アプリを対象範囲とする外部コンテンツタイプ (Ect)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|いいえ|いいえ|いいえ|あり|
+|[BCS: ビジネスデータ Web パーツ](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|いいえ|いいえ|いいえ|あり|
+|[BCS: 外部リスト](../sharepoint-online-service-description/developer.md#bcs-external-list)|いいえ|いいえ|いいえ|あり|
+|[BCS:OData コネクタ](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|いいえ|いいえ|いいえ|あり|
 |BCS: プロファイルページ|いいえ|いいえ|いいえ|いいえ|
 |[BCS: リッチクライアントの統合](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|いいえ|いいえ|いいえ|いいえ|
-|BCS: Secure Store Service|いいえ|いいえ|いいえ|はい|
-|BCS: Tenant-level external data log|いいえ|いいえ|いいえ|はい|
-|Browser-based customizations|はい|はい|はい|はい|
-|[クライアント オブジェクト モデル (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|はい|はい|はい|はい|
-|Client-side rendering (CSR)|はい|はい|はい|はい|
+|BCS: Secure Store Service|いいえ|いいえ|いいえ|あり|
+|BCS: Tenant-level external data log|いいえ|いいえ|いいえ|あり|
+|Browser-based customizations|あり|はい|はい|はい|
+|[クライアント オブジェクト モデル (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|あり|はい|はい|はい|
+|Client-side rendering (CSR)|あり|はい|はい|はい|
 |カスタム サイト定義|いいえ|いいえ|いいえ|いいえ|
 |[カスタムサイトプロビジョニングページ](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|いいえ|いいえ|いいえ|いいえ|
-|[開発者向けサイト](../sharepoint-online-service-description/developer.md#developer-site)|いいえ|いいえ|はい|はい|
-|[フォームベースのアプリケーション](../sharepoint-online-service-description/developer.md#forms-based-applications)|いいえ|いいえ|はい|はい|
+|[開発者向けサイト](../sharepoint-online-service-description/developer.md#developer-site)|いいえ|いいえ|あり|はい|
+|[フォームベースのアプリケーション](../sharepoint-online-service-description/developer.md#forms-based-applications)|いいえ|いいえ|あり|はい|
 |[完全信頼ソリューション](../sharepoint-online-service-description/developer.md#full-trust-solutions)|いいえ|いいえ|いいえ|いいえ|
-|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|いいえ|いいえ|いいえ|はい|
-|[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model)|はい|はい|はい|はい|
-|リストおよびライブラリ Api|はい|はい|はい|はい|
-|[リモートイベントレシーバー](../sharepoint-online-service-description/developer.md#remote-event-receiver)|いいえ|いいえ|はい|はい|
-|[REST API](../sharepoint-online-service-description/developer.md#rest-apis)|はい|はい|はい|はい|
-|[SharePoint デザイン マネージャー](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|いいえ|いいえ|はい|はい|
-|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|いいえ|いいえ|はい|はい|
-|SharePoint ストア 2<sup>2</sup>|はい|はい|はい|はい|
-|SharePoint 2010 ワークフロー (.NET 3.5)|いいえ|いいえ|はい|はい|
-|[SharePoint 2010 ワークフロー (標準)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box)|いいえ|いいえ|はい|はい|
-|[SharePoint 2013 および SharePoint 2016 のワークフロー](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows)|いいえ|いいえ|はい|はい|
-|Workload API: ECM APIs|いいえ|いいえ|はい|はい|
-|Workload API: Search APIs|いいえ|いいえ|はい|はい|
-|Workload API: Social APIs|いいえ|いいえ|はい|はい|
+|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|いいえ|いいえ|いいえ|あり|
+|[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model)|あり|はい|はい|はい|
+|リストおよびライブラリ Api|あり|はい|はい|はい|
+|[リモートイベントレシーバー](../sharepoint-online-service-description/developer.md#remote-event-receiver)|いいえ|いいえ|あり|はい|
+|[REST API](../sharepoint-online-service-description/developer.md#rest-apis)|あり|はい|はい|はい|
+|[SharePoint デザイン マネージャー](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|いいえ|いいえ|あり|はい|
+|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|いいえ|いいえ|あり|はい|
+|SharePoint ストア 2<sup>2</sup>|あり|はい|はい|はい|
+|SharePoint 2010 ワークフロー (.NET 3.5)|いいえ|いいえ|あり|はい|
+|[SharePoint 2010 ワークフロー (標準)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box)|いいえ|いいえ|あり|はい|
+|[SharePoint 2013 および SharePoint 2016 のワークフロー](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows)|いいえ|いいえ|あり|はい|
+|Workload API: ECM APIs|いいえ|いいえ|あり|はい|
+|Workload API: Search APIs|いいえ|いいえ|あり|はい|
+|Workload API: Social APIs|いいえ|いいえ|あり|はい|
 |**IT プロフェッショナル向けの機能**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
-|[Active Directory の同期](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|はい|はい|はい|はい|
+|[Active Directory の同期](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|あり|はい|はい|はい|
 |[代替アクセスマッピング (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|いいえ|いいえ|いいえ|いいえ|
 |分析プラットフォーム|いいえ|いいえ|あり|はい|
-|[マルウェア対策保護](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|はい|はい|はい|はい|
+|[マルウェア対策保護](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|あり|はい|はい|はい|
 |[クレームベース認証のサポート](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|いいえ|いいえ|いいえ|いいえ|
 |構成ウィザード|いいえ|いいえ|いいえ|いいえ|
-|[データ損失防止](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|いいえ|はい|いいえ|はい|
-|サイト コレクションの遅延アップグレード|はい|はい|はい|はい|
+|[データ損失防止](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|いいえ|はい|いいえ|あり|
+|サイト コレクションの遅延アップグレード|あり|はい|はい|はい|
 |分散キャッシュ|いいえ|いいえ|いいえ|いいえ|
-|[暗号化](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|はい|はい|はい|はい|
+|[暗号化](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|あり|はい|はい|はい|
 |[ホストヘッダーサイトコレクション](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|いいえ|いいえ|いいえ|いいえ|
-|アクセス許可の管理の向上|はい|はい|はい|はい|
+|アクセス許可の管理の向上|あり|はい|はい|はい|
 |セルフサービスサイト作成の向上|いいえ|いいえ|いいえ|いいえ|
 |管理アカウント|いいえ|いいえ|いいえ|いいえ|
-|Minimal Download Strategy (MDS)|はい|はい|はい|はい|
-|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|はい|はい|はい|はい|
+|Minimal Download Strategy (MDS)|あり|はい|はい|はい|
+|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|あり|はい|はい|はい|
 |[パッチ管理](../sharepoint-online-service-description/it-professional.md#patch-management)|いいえ|いいえ|いいえ|いいえ|
 |[クォータテンプレート](../sharepoint-online-service-description/it-professional.md#quota-templates)|いいえ|いいえ|いいえ|いいえ|
 |[読み取り専用データベースのサポート](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|いいえ|いいえ|いいえ|いいえ|
@@ -607,177 +607,177 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |[要求管理](../sharepoint-online-service-description/it-professional.md#request-management)|いいえ|いいえ|いいえ|いいえ|
 |Request throttling|いいえ|いいえ|いいえ|いいえ|
 |[リソースの調整](../sharepoint-online-service-description/it-professional.md#resource-throttling)|いいえ|いいえ|いいえ|いいえ|
-|[サービスアプリケーションプラットフォーム](../sharepoint-online-service-description/it-professional.md#service-application-platform)|いいえ|いいえ|はい|はい|
+|[サービスアプリケーションプラットフォーム](../sharepoint-online-service-description/it-professional.md#service-application-platform)|いいえ|いいえ|あり|はい|
 |[SharePoint Health Analyzer](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|いいえ|いいえ|いいえ|いいえ|
-|[SharePoint 管理センター (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|はい|はい|はい|はい|
-|Shredded Storage|はい|はい|はい|はい|
-|[サイトコレクションのコンプライアンスポリシー](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|はい|はい|はい|はい|
-|サイト コレクションの正常性チェックサイト コレクションの正常性チェック|はい|はい|はい|はい|
+|[SharePoint 管理センター (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|あり|はい|はい|はい|
+|Shredded Storage|あり|はい|はい|はい|
+|[サイトコレクションのコンプライアンスポリシー](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|あり|はい|はい|はい|
+|サイト コレクションの正常性チェックサイト コレクションの正常性チェック|あり|はい|はい|はい|
 |State Service|いいえ|いいえ|いいえ|いいえ|
 |簡素化されたサーバーの全体管理|いいえ|いいえ|いいえ|いいえ|
 |システム状態通知|いいえ|いいえ|いいえ|いいえ|
 |未接続のコンテンツデータベースの回復|いいえ|いいえ|いいえ|いいえ|
-|Upgrade evaluation site collections|いいえ|いいえ|はい|はい|
+|Upgrade evaluation site collections|いいえ|いいえ|あり|はい|
 |[利用状況のレポートとログ](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|いいえ|いいえ|いいえ|いいえ|
-|[Windows PowerShell のサポート](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|はい|はい|はい|はい|
+|[Windows PowerShell のサポート](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|あり|はい|はい|はい|
 |**コンテンツ機能**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
-|[アクセシビリティ標準のサポート](../sharepoint-online-service-description/content.md#accessibility-standards-support)|はい|はい|はい|はい|
-|[アセットライブラリの機能強化/ビデオサポート](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|はい|はい|はい|はい|
-|[監査](../sharepoint-online-service-description/content.md#auditing)|はい|はい|はい|はい|
-|[監査&amp;レポート (ドキュメントの編集、ポリシーの編集、削除など)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|はい|はい|はい|はい|
-|[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer)|いいえ|いいえ|はい|はい|
+|[アクセシビリティ標準のサポート](../sharepoint-online-service-description/content.md#accessibility-standards-support)|あり|はい|はい|はい|
+|[アセットライブラリの機能強化/ビデオサポート](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|あり|はい|はい|はい|
+|[監査](../sharepoint-online-service-description/content.md#auditing)|あり|はい|はい|はい|
+|[監査&amp;レポート (ドキュメントの編集、ポリシーの編集、削除など)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|あり|はい|はい|はい|
+|[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer)|いいえ|いいえ|あり|はい|
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager)|いいえ|いいえ|あり|はい|
-|[ドキュメントセット](../sharepoint-online-service-description/content.md#document-sets)|はい|はい|はい|はい|
-|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|はい|はい|はい|はい|
-|[電子情報開示検索](../sharepoint-online-service-description/content.md#ediscovery-search)|はい|はい|はい|はい|
-|[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold)|いいえ|はい|いいえ|はい|
-|[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export)|いいえ|はい|いいえ|はい|
+|[ドキュメントセット](../sharepoint-online-service-description/content.md#document-sets)|あり|はい|はい|はい|
+|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|あり|はい|はい|はい|
+|[電子情報開示検索](../sharepoint-online-service-description/content.md#ediscovery-search)|あり|はい|はい|はい|
+|[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold)|いいえ|はい|いいえ|あり|
+|[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export)|いいえ|はい|いいえ|あり|
 |メールが有効なリストとライブラリ|いいえ|いいえ|いいえ|いいえ|
 |[外部共有: 外部アクセス](../sharepoint-online-service-description/content.md#external-sharing-external-access)|いいえ|いいえ|いいえ|いいえ|
 |[外部共有: ゲストリンク](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|いいえ|いいえ|いいえ|いいえ|
-|[フォルダーの同期](../sharepoint-online-service-description/content.md#folder-sync)|はい|はい|はい|はい|
+|[フォルダーの同期](../sharepoint-online-service-description/content.md#folder-sync)|あり|はい|はい|はい|
 |ハイブリッドの監査|いいえ|いいえ|いいえ|いいえ|
-|ハイブリッド分類とコンテンツタイプ|はい|はい|はい|はい|
+|ハイブリッド分類とコンテンツタイプ|あり|はい|はい|はい|
 |[Information Rights Management (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)<sup>1</sup>|いいえ|いいえ|いいえ|いいえ|
 |[Information Rights Management (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|いいえ|いいえ|いいえ|いいえ|
 |[Managed Metadata Service](../sharepoint-online-service-description/content.md#managed-metadata-service)|いいえ|いいえ|あり|はい|
 |[メタデータ駆動型ナビゲーション](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|いいえ|いいえ|あり|はい|
-|[複数段階の廃棄](../sharepoint-online-service-description/content.md#multi-stage-disposition)|はい|はい|はい|はい|
-|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|はい|はい|不要|いいえ|
-|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|はい|はい|はい|はい|
+|[複数段階の廃棄](../sharepoint-online-service-description/content.md#multi-stage-disposition)|あり|はい|はい|はい|
+|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|あり|はい|不要|いいえ|
+|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|あり|はい|はい|はい|
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration)|いいえ|いいえ|いいえ|いいえ|
 |PowerPoint Automation Services|いいえ|いいえ|いいえ|いいえ|
-|[アイテム保管ライブラリ](../sharepoint-online-service-description/content.md#preservation-hold-library)|いいえ|はい|いいえ|はい|
-|[クイック編集](../sharepoint-online-service-description/content.md#quick-edit)|はい|はい|はい|はい|
+|[アイテム保管ライブラリ](../sharepoint-online-service-description/content.md#preservation-hold-library)|いいえ|はい|いいえ|あり|
+|[クイック編集](../sharepoint-online-service-description/content.md#quick-edit)|あり|はい|はい|はい|
 |[レコードの管理](../sharepoint-online-service-description/content.md#records-management)|いいえ|いいえ|あり|はい|
-|[ごみ箱 (SharePoint 管理センター)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|はい|はい|はい|はい|
-|[ごみ箱 (サイト コレクション)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|はい|はい|はい|はい|
+|[ごみ箱 (SharePoint 管理センター)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|あり|はい|はい|はい|
+|[ごみ箱 (サイト コレクション)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|あり|はい|はい|はい|
 |関連アイテム|いいえ|いいえ|あり|はい|
 |リッチメディア管理|いいえ|いいえ|あり|はい|
-|[共有コンテンツタイプ](../sharepoint-online-service-description/content.md#shared-content-types)|はい|はい|はい|はい|
+|[共有コンテンツタイプ](../sharepoint-online-service-description/content.md#shared-content-types)|あり|はい|はい|はい|
 |[SharePoint translation services](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|いいえ|いいえ|あり|はい|
-|アンケート調査|はい|はい|はい|はい|
-|[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids)|はい|はい|はい|はい|
-|[ビデオ検索](../sharepoint-online-service-description/content.md#video-search)|いいえ|いいえ|いいえ|はい|
+|アンケート調査|あり|はい|はい|はい|
+|[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids)|あり|はい|はい|はい|
+|[ビデオ検索](../sharepoint-online-service-description/content.md#video-search)|いいえ|いいえ|いいえ|あり|
 |[発行分析](../sharepoint-online-service-description/content.md#publishing-analytics)|いいえ|いいえ|あり|はい|
-|[Catalog](../sharepoint-online-service-description/content.md#catalog)|いいえ|いいえ|いいえ|はい|
-|[カテゴリページとカタログアイテムページ](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|いいえ|いいえ|いいえ|はい|
-|[検索 web パーツ](../sharepoint-online-service-description/content.md#search-web-parts)|いいえ|いいえ|いいえ|はい|
-|[クロスサイト発行](../sharepoint-online-service-description/content.md#cross-site-publishing)|いいえ|いいえ|いいえ|はい|
+|[Catalog](../sharepoint-online-service-description/content.md#catalog)|いいえ|いいえ|いいえ|あり|
+|[カテゴリページとカタログアイテムページ](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|いいえ|いいえ|いいえ|あり|
+|[検索 web パーツ](../sharepoint-online-service-description/content.md#search-web-parts)|いいえ|いいえ|いいえ|あり|
+|[クロスサイト発行](../sharepoint-online-service-description/content.md#cross-site-publishing)|いいえ|いいえ|いいえ|あり|
 |WCM: デザイナーツール|いいえ|いいえ|あり|はい|
 |[ファセットナビゲーション](../sharepoint-online-service-description/content.md#faceted-navigation)|いいえ|いいえ|いいえ|いいえ|
-|[イメージ レンディション](../sharepoint-online-service-description/content.md#image-renditions)|いいえ|いいえ|はい|はい|
-|WCM: Managed navigation|いいえ|いいえ|はい|はい|
-|WCM: モバイルとデバイスのレンダリング|いいえ|いいえ|はい|はい|
+|[イメージ レンディション](../sharepoint-online-service-description/content.md#image-renditions)|いいえ|いいえ|あり|はい|
+|WCM: Managed navigation|いいえ|いいえ|あり|はい|
+|WCM: モバイルとデバイスのレンダリング|いいえ|いいえ|あり|はい|
 |WCM: 複数のドメイン|いいえ|いいえ|いいえ|いいえ|
-|WCM: Recommendations|いいえ|いいえ|はい|はい|
-|[WCM: 検索エンジンの最適化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|いいえ|いいえ|はい|はい|
+|WCM: Recommendations|いいえ|いいえ|あり|はい|
+|[WCM: 検索エンジンの最適化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|いいえ|いいえ|あり|はい|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|いいえ|いいえ|いいえ|いいえ|
 |**Insights 機能**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
-|[ビジネス インテリジェンス センター](../sharepoint-online-service-description/insights.md#business-intelligence-center)|いいえ|いいえ|いいえ|はい|
-|[計算されるメジャーとメンバー](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|いいえ|いいえ|いいえ|はい|
-|[データ接続ライブラリ](../sharepoint-online-service-description/insights.md#data-connection-library)|いいえ|いいえ|いいえ|はい|
-|[分離ピボットテーブルおよびピボットグラフ](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|いいえ|いいえ|いいえ|はい|
-|[Excel Services](../sharepoint-online-service-description/insights.md#excel-services)|いいえ|いいえ|いいえ|はい|
-|[フィールドリストとフィールドのサポート](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|いいえ|いいえ|いいえ|はい|
-|[フィルターの機能拡張](../sharepoint-online-service-description/insights.md#filter-enhancements)|いいえ|いいえ|いいえ|はい|
-|[フィルター検索](../sharepoint-online-service-description/insights.md#filter-search)|いいえ|いいえ|いいえ|はい|
+|[ビジネス インテリジェンス センター](../sharepoint-online-service-description/insights.md#business-intelligence-center)|いいえ|いいえ|いいえ|あり|
+|[計算されるメジャーとメンバー](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|いいえ|いいえ|いいえ|あり|
+|[データ接続ライブラリ](../sharepoint-online-service-description/insights.md#data-connection-library)|いいえ|いいえ|いいえ|あり|
+|[分離ピボットテーブルおよびピボットグラフ](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|いいえ|いいえ|いいえ|あり|
+|[Excel Services](../sharepoint-online-service-description/insights.md#excel-services)|いいえ|いいえ|いいえ|あり|
+|[フィールドリストとフィールドのサポート](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|いいえ|いいえ|いいえ|あり|
+|[フィルターの機能拡張](../sharepoint-online-service-description/insights.md#filter-enhancements)|いいえ|いいえ|いいえ|あり|
+|[フィルター検索](../sharepoint-online-service-description/insights.md#filter-search)|いいえ|いいえ|いいえ|あり|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|いいえ|いいえ|いいえ|いいえ|
 |PerformancePoint Services (PPS) Dashboard Migration|いいえ|いいえ|いいえ|いいえ|
-|[SharePoint の Power View for Excel](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|いいえ|いいえ|いいえ|はい|
-|[SharePoint の Power Pivot for Excel](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|いいえ|いいえ|いいえ|はい|
-|[クイック調査](../sharepoint-online-service-description/insights.md#quick-explore)|いいえ|いいえ|いいえ|はい|
+|[SharePoint の Power View for Excel](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|いいえ|いいえ|いいえ|あり|
+|[SharePoint の Power Pivot for Excel](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|いいえ|いいえ|いいえ|あり|
+|[クイック調査](../sharepoint-online-service-description/insights.md#quick-explore)|いいえ|いいえ|いいえ|あり|
 |Scorecards & Dashboards|いいえ|いいえ|いいえ|いいえ|
 |[SQL Server Reporting Services (SSRS) 統合モード](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode)|いいえ|いいえ|いいえ|いいえ|
-|[タイムラインスライサー](../sharepoint-online-service-description/insights.md#timeline-slicer)|いいえ|いいえ|いいえ|はい|
-|[Web 用 Visio](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup>|はい|はい|はい|はい|
+|[タイムラインスライサー](../sharepoint-online-service-description/insights.md#timeline-slicer)|いいえ|いいえ|いいえ|あり|
+|[Web 用 Visio](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup>|あり|はい|はい|はい|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>4</sup>|いいえ|いいえ|いいえ|いいえ|
 |**検索機能**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
 |高度なコンテンツの処理|いいえ|いいえ|いいえ|いいえ|
-|[継続的クロール](../sharepoint-online-service-description/search.md#continuous-crawls)|はい|はい|はい|はい|
+|[継続的クロール](../sharepoint-online-service-description/search.md#continuous-crawls)|あり|はい|はい|はい|
 |Custom entity extraction|いいえ|いいえ|いいえ|いいえ|
-|[ディープ リンク](../sharepoint-online-service-description/search.md#deep-links)|はい|はい|はい|はい|
-|[イベント ベースの関連性](../sharepoint-online-service-description/search.md#event-based-relevancy)|はい|はい|はい|はい|
-|[専門知識の検索](../sharepoint-online-service-description/search.md#expertise-search)|はい|はい|はい|はい|
+|[ディープ リンク](../sharepoint-online-service-description/search.md#deep-links)|あり|はい|はい|はい|
+|[イベント ベースの関連性](../sharepoint-online-service-description/search.md#event-based-relevancy)|あり|はい|はい|はい|
+|[専門知識の検索](../sharepoint-online-service-description/search.md#expertise-search)|あり|はい|はい|はい|
 |Extensible content processing|いいえ|いいえ|いいえ|いいえ|
-|[グラフィカルな絞り込み条件](../sharepoint-online-service-description/search.md#graphical-refiners)|はい|はい|はい|はい|
-|[ハイブリッド検索](../sharepoint-online-service-description/search.md#hybrid-search)|はい|はい|はい|はい|
-|[検索スキーマの管理](../sharepoint-online-service-description/search.md#manage-search-schema)|いいえ|いいえ|はい|はい|
+|[グラフィカルな絞り込み条件](../sharepoint-online-service-description/search.md#graphical-refiners)|あり|はい|はい|はい|
+|[ハイブリッド検索](../sharepoint-online-service-description/search.md#hybrid-search)|あり|はい|はい|はい|
+|[検索スキーマの管理](../sharepoint-online-service-description/search.md#manage-search-schema)|いいえ|いいえ|あり|はい|
 |On-premises search index|いいえ|いいえ|いいえ|いいえ|
-|[フリガナ マッチング](../sharepoint-online-service-description/search.md#phonetic-name-matching)|はい|はい|はい|はい|
-|[クエリ ルール  昇格対象結果の追加](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results)|いいえ|いいえ|はい|はい|
+|[フリガナ マッチング](../sharepoint-online-service-description/search.md#phonetic-name-matching)|あり|はい|はい|はい|
+|[クエリ ルール  昇格対象結果の追加](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results)|いいえ|いいえ|あり|はい|
 |[クエリ ルール  高度なアクション](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions)|いいえ|いいえ|いいえ|いいえ|
-|[クエリのスペルの修正](../sharepoint-online-service-description/search.md#query-spelling-correction)|いいえ|いいえ|はい|はい|
-|[クエリ候補](../sharepoint-online-service-description/search.md#query-suggestions)|いいえ|いいえ|はい|はい|
-|Query throttling|いいえ|いいえ|はい|はい|
-|[ホバープレビュー](../sharepoint-online-service-description/search.md#on-hover-preview)|はい|はい|はい|はい|
-|[ランク付けモデル](../sharepoint-online-service-description/search.md#ranking-models)|いいえ|はい|はい<sup>2</sup>|はい<sup>2</sup>|
-|[絞り込み条件](../sharepoint-online-service-description/search.md#refiners)|はい|はい|はい|はい|
-|[REST 対応のクエリ API/クエリ OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|はい|はい|はい|はい|
-|Result sources|はい|はい|はい|はい|
+|[クエリのスペルの修正](../sharepoint-online-service-description/search.md#query-spelling-correction)|いいえ|いいえ|あり|はい|
+|[クエリ候補](../sharepoint-online-service-description/search.md#query-suggestions)|いいえ|いいえ|あり|はい|
+|Query throttling|いいえ|いいえ|あり|はい|
+|[ホバープレビュー](../sharepoint-online-service-description/search.md#on-hover-preview)|あり|はい|はい|はい|
+|[ランク付けモデル](../sharepoint-online-service-description/search.md#ranking-models)|いいえ|あり|はい<sup>2</sup>|はい<sup>2</sup>|
+|[絞り込み条件](../sharepoint-online-service-description/search.md#refiners)|あり|はい|はい|はい|
+|[REST 対応のクエリ API/クエリ OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|あり|はい|はい|はい|
+|Result sources|あり|はい|はい|はい|
 |Search connector framework|いいえ|いいえ|いいえ|いいえ|
-|[検索結果の並べ替え](../sharepoint-online-service-description/search.md#search-results-sorting)|はい|はい|はい|はい|
-|Search vertical: “Conversations”|はい|はい|はい|はい|
-|Search vertical: “People”|はい|はい|はい|はい|
-|Search vertical: “Video”|いいえ|いいえ|いいえ|はい|
-|["このリスト" 検索](../sharepoint-online-service-description/search.md#this-list-searches)|はい|はい|はい|はい|
+|[検索結果の並べ替え](../sharepoint-online-service-description/search.md#search-results-sorting)|あり|はい|はい|はい|
+|Search vertical: “Conversations”|あり|はい|はい|はい|
+|Search vertical: “People”|あり|はい|はい|はい|
+|Search vertical: “Video”|いいえ|いいえ|いいえ|あり|
+|["このリスト" 検索](../sharepoint-online-service-description/search.md#this-list-searches)|あり|はい|はい|はい|
 |**サイト機能**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
-|Change the look|いいえ|いいえ|はい|はい|
-|Connections to Microsoft Office Clients|はい|はい|はい|はい|
-|[クロスブラウザーのサポート](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|はい|はい|はい|はい|
+|Change the look|いいえ|いいえ|あり|はい|
+|Connections to Microsoft Office Clients|あり|はい|はい|はい|
+|[クロスブラウザーのサポート](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|あり|はい|はい|はい|
 |[カスタム管理パス](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|いいえ|いいえ|いいえ|いいえ|
-|[ガバナンス](../sharepoint-online-service-description/sites-servicedesc.md#governance)|はい|はい|はい|はい|
-|ハイブリッドアプリ起動ツール|はい|はい|はい|はい|
-|ハイブリッド OneDrive for Business とサイト|はい|はい|はい|はい|
-|[大規模なリストのスケーラビリティと管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|はい|はい|はい|はい|
-|[モバイル接続](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|はい<sup>3</sup>|はい<sup>3</sup>|はい|はい|
-|[多言語ユーザーインターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|はい|はい|はい|はい|
-|My Tasks|いいえ|いいえ|はい|はい|
-|[OOTB web パーツ](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|いいえ|いいえ|はい|はい|
-|[アクセス許可の管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|はい|はい|はい|はい|
-|Project functionality for team sites|いいえ|いいえ|はい|はい|
-|[プロジェクト サイト テンプレート](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|いいえ|いいえ|はい|はい|
-|Project Summary web part|いいえ|いいえ|はい|はい|
-|Project workspace|いいえ|いいえ|はい|はい|
-|[SharePoint リスト](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|いいえ|いいえ|はい|はい|
-|SharePoint リボン|いいえ|いいえ|はい|はい|
-|[ドキュメント ライブラリ](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|いいえ|いいえ|はい|はい|
-|[タスク リスト](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|いいえ|いいえ|はい|はい|
-|Team Site: Drag & Drop|いいえ|いいえ|はい|はい|
-|[チームノートブック](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|いいえ|いいえ|はい|はい|
-|チームサイト: 簡略化されたアクセス|いいえ|いいえ|はい|はい|
-|[サイトデザイン](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|いいえ|いいえ|はい|はい|
-|[サイトテーマ (外観を変更)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|いいえ|いいえ|はい|はい|
-|[サイト閲覧状況ページ](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|いいえ|いいえ|はい|はい|
-|[バリエーション](../sharepoint-online-service-description/sites-servicedesc.md#variations)|いいえ|いいえ|はい|はい|
-|Work Management Service|いいえ|いいえ|はい|はい|
+|[ガバナンス](../sharepoint-online-service-description/sites-servicedesc.md#governance)|あり|はい|はい|はい|
+|ハイブリッドアプリ起動ツール|あり|はい|はい|はい|
+|ハイブリッド OneDrive for Business とサイト|あり|はい|はい|はい|
+|[大規模なリストのスケーラビリティと管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|あり|はい|はい|はい|
+|[モバイル接続](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|はい<sup>3</sup>|はい<sup>3</sup>|あり|はい|
+|[多言語ユーザーインターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|あり|はい|はい|はい|
+|My Tasks|いいえ|いいえ|あり|はい|
+|[OOTB web パーツ](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|いいえ|いいえ|あり|はい|
+|[アクセス許可の管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|あり|はい|はい|はい|
+|Project functionality for team sites|いいえ|いいえ|あり|はい|
+|[プロジェクト サイト テンプレート](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|いいえ|いいえ|あり|はい|
+|Project Summary web part|いいえ|いいえ|あり|はい|
+|Project workspace|いいえ|いいえ|あり|はい|
+|[SharePoint リスト](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|いいえ|いいえ|あり|はい|
+|SharePoint リボン|いいえ|いいえ|あり|はい|
+|[ドキュメント ライブラリ](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|いいえ|いいえ|あり|はい|
+|[タスク リスト](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|いいえ|いいえ|あり|はい|
+|Team Site: Drag & Drop|いいえ|いいえ|あり|はい|
+|[チームノートブック](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|いいえ|いいえ|あり|はい|
+|チームサイト: 簡略化されたアクセス|いいえ|いいえ|あり|はい|
+|[サイトデザイン](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|いいえ|いいえ|あり|はい|
+|[サイトテーマ (外観を変更)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|いいえ|いいえ|あり|はい|
+|[サイト閲覧状況ページ](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|いいえ|いいえ|あり|はい|
+|[バリエーション](../sharepoint-online-service-description/sites-servicedesc.md#variations)|いいえ|いいえ|あり|はい|
+|Work Management Service|いいえ|いいえ|あり|はい|
 |**ソーシャル機能**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
-|Ask Me About|はい|はい|はい|はい|
-|[個人用ブログ](../sharepoint-online-service-description/social.md#personal-blogs)|いいえ|いいえ|はい|はい|
-|コミュニティの評価、バッジ、モデレート|いいえ|いいえ|はい|はい|
-|[コミュニティ](../sharepoint-online-service-description/social.md#community)|いいえ|いいえ|はい|はい|
-|[会社フィード](../sharepoint-online-service-description/social.md#company-feed)|いいえ|いいえ|はい|はい|
+|Ask Me About|あり|はい|はい|はい|
+|[個人用ブログ](../sharepoint-online-service-description/social.md#personal-blogs)|いいえ|いいえ|あり|はい|
+|コミュニティの評価、バッジ、モデレート|いいえ|いいえ|あり|はい|
+|[コミュニティ](../sharepoint-online-service-description/social.md#community)|いいえ|いいえ|あり|はい|
+|[会社フィード](../sharepoint-online-service-description/social.md#company-feed)|いいえ|いいえ|あり|はい|
 |Yammer を使用したドキュメント会話|いいえ|いいえ|いいえ|いいえ|
-|Follow|はい|はい|はい|はい|
-|マイクロブログ|いいえ|いいえ|はい|はい|
-|ニュースフィード|いいえ|いいえ|はい|はい|
-|ワンクリック共有|はい|はい|はい|はい|
-|ユーザー、サイト、ドキュメントの推奨事項|いいえ|いいえ|はい|はい|
-|個人用サイト|はい|はい|はい|はい|
-|写真とプレゼンス|はい|はい|はい|はい|
-|プロファイル|はい|はい|はい|はい|
-|Ratings|はい|はい|はい|はい|
-|Shared with Me|はい|はい|はい|はい|
-|[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|いいえ|いいえ|はい|はい|
-|OneDrive for Business|はい|はい|はい|はい|
-|Tag profiles|いいえ|いいえ|はい|はい|
-|Tasks integrated with Outlook|はい|はい|はい|はい|
-|タグの傾向|いいえ|いいえ|はい|はい|
-|[Wikis](../sharepoint-online-service-description/social.md#wikis)|いいえ|いいえ|はい|はい|
+|Follow|あり|はい|はい|はい|
+|マイクロブログ|いいえ|いいえ|あり|はい|
+|ニュースフィード|いいえ|いいえ|あり|はい|
+|ワンクリック共有|あり|はい|はい|はい|
+|ユーザー、サイト、ドキュメントの推奨事項|いいえ|いいえ|あり|はい|
+|個人用サイト|あり|はい|はい|はい|
+|写真とプレゼンス|あり|はい|はい|はい|
+|プロファイル|あり|はい|はい|はい|
+|Ratings|あり|はい|はい|はい|
+|Shared with Me|あり|はい|はい|はい|
+|[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|いいえ|いいえ|あり|はい|
+|OneDrive for Business|あり|はい|はい|はい|
+|Tag profiles|いいえ|いいえ|あり|はい|
+|Tasks integrated with Outlook|あり|はい|はい|はい|
+|タグの傾向|いいえ|いいえ|あり|はい|
+|[Wikis](../sharepoint-online-service-description/social.md#wikis)|いいえ|いいえ|あり|はい|
 |**アドオン**|**OneDrive for Business プラン 1**|**OneDrive for Business プラン 2**|**SharePoint Online プラン 1**|**SharePoint Online プラン 2**|
 |[追加記憶域](../sharepoint-online-service-description/add-ons.md#additional-storage)|いいえ|いいえ|いいえ|いいえ|
-|[Azure プロビジョニングアプリ: Access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|はい|はい|はい|はい|
-|[Azure プロビジョニングアプリ: Azure ライトウェイト Web ロールのカスタムコード (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|はい|はい|はい|はい|
+|[Azure プロビジョニングアプリ: Access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|あり|はい|はい|はい|
+|[Azure プロビジョニングアプリ: Azure ライトウェイト Web ロールのカスタムコード (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|あり|はい|はい|はい|
 
 > [!NOTE]
 > <sup>1</sup> Azure Information Protection は含まれていませんが、サポートされている IRM 機能を有効にするために個別のアドインとして購入できます。<br/>
@@ -805,10 +805,10 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**開発者向けの機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|[アプリカタログ (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[アプリの展開: クラウドでホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[アプリの展開: SharePoint でホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[アプリカタログ (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[アプリの展開: クラウドでホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[アプリの展開: SharePoint でホストされるアプリ](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|あり|はい|はい|はい|はい|はい|はい|はい|
 |BCS: 外部リストのアラート|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
 |[BCS: アプリを対象範囲とする外部コンテンツタイプ (Ect)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
 |[BCS: ビジネスデータ Web パーツ](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
@@ -818,44 +818,44 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |[BCS: リッチクライアントの統合](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |BCS: Secure Store Service|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
 |BCS: Tenant-level external data log|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
-|Browser-based customizations|はい|はい|はい|はい|はい|はい|はい|はい|
-|[クライアント オブジェクト モデル (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|はい|はい|はい|はい|はい|はい|はい|はい|
-|Client-side rendering (CSR)|はい|はい|はい|はい|はい|はい|はい|はい|
+|Browser-based customizations|あり|はい|はい|はい|はい|はい|はい|はい|
+|[クライアント オブジェクト モデル (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|あり|はい|はい|はい|はい|はい|はい|はい|
+|Client-side rendering (CSR)|あり|はい|はい|はい|はい|はい|はい|はい|
 |カスタム サイト定義|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[カスタムサイトプロビジョニングページ](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[開発者向けサイト](../sharepoint-online-service-description/developer.md#developer-site)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[フォームベースのアプリケーション](../sharepoint-online-service-description/developer.md#forms-based-applications)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[完全信頼ソリューション](../sharepoint-online-service-description/developer.md#full-trust-solutions)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|いいえ|いいえ|いいえ|Yes<sup>17</sup>|X|Yes<sup>17</sup>|Yes<sup>17</sup>|いいえ|
-|[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model)|はい|はい|はい|はい|はい|はい|はい|はい|
-|リストおよびライブラリ Api|はい|はい|はい|はい|はい|はい|はい|はい|
+|[JavaScript オブジェクト モデル](../sharepoint-online-service-description/developer.md#javascript-object-model)|あり|はい|はい|はい|はい|はい|はい|はい|
+|リストおよびライブラリ Api|あり|はい|はい|はい|はい|はい|はい|はい|
 |[リモートイベントレシーバー](../sharepoint-online-service-description/developer.md#remote-event-receiver)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[REST API](../sharepoint-online-service-description/developer.md#rest-apis)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[REST API](../sharepoint-online-service-description/developer.md#rest-apis)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[SharePoint デザイン マネージャー](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|SharePoint ストア2|はい|はい|はい|はい|はい|はい|はい|はい|
+|SharePoint ストア2|あり|はい|はい|はい|はい|はい|はい|はい|
 |SharePoint 2010 ワークフロー (.NET 3.5)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[SharePoint 2010 ワークフロー (標準)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[SharePoint 2013 および SharePoint 2016 のワークフロー](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows)|はい|いいえ|はい|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい|
+|[SharePoint 2013 および SharePoint 2016 のワークフロー](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows)|はい|いいえ|あり|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい|
 |Workload API: ECM APIs|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |Workload API: Search APIs|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |Workload API: Social APIs|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |**IT プロフェッショナル向けの機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|[Active Directory の同期](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[Active Directory の同期](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[代替アクセスマッピング (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Analytics Platform|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[マルウェア対策保護](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[マルウェア対策保護](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[クレームベース認証のサポート](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |構成ウィザード|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Data loss prevention|はい|はい|はい|はい|はい|はい|はい|はい|
+|Data loss prevention|あり|はい|はい|はい|はい|はい|はい|はい|
 |サイト コレクションの遅延アップグレード|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[Data loss prevention](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
-|[暗号化](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[暗号化](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[ホストヘッダーサイトコレクション](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|アクセス許可の管理の向上|はい|はい|はい|はい|はい|はい|はい|はい|
+|アクセス許可の管理の向上|あり|はい|はい|はい|はい|はい|はい|はい|
 |セルフサービスサイト作成の向上|いいえ|いいえ|はい|不要|いいえ|いいえ|いいえ|いいえ|
 |管理アカウント|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Minimal Download Strategy (MDS)|はい|はい|はい|はい|はい|はい|はい|はい|
+|Minimal Download Strategy (MDS)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|はい<sup>8</sup>|
 |[パッチ管理](../sharepoint-online-service-description/it-professional.md#patch-management)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[クォータテンプレート](../sharepoint-online-service-description/it-professional.md#quota-templates)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -866,56 +866,56 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |[リソースの調整](../sharepoint-online-service-description/it-professional.md#resource-throttling)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[サービスアプリケーションプラットフォーム](../sharepoint-online-service-description/it-professional.md#service-application-platform)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[SharePoint Health Analyzer](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[SharePoint 管理センター (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|はい|はい|はい|はい|はい|はい|はい|<sup>4</sup>なし|
-|Shredded Storage|はい|はい|はい|はい|はい|はい|はい|はい|
-|[サイトコレクションのコンプライアンスポリシー](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|はい|はい|はい|はい|はい|はい|はい|はい|
-|サイト コレクションの正常性チェックサイト コレクションの正常性チェック|はい|はい|はい|はい|はい|はい|はい|はい|
+|[SharePoint 管理センター (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|あり|はい|はい|はい|はい|はい|はい|<sup>4</sup>なし|
+|Shredded Storage|あり|はい|はい|はい|はい|はい|はい|はい|
+|[サイトコレクションのコンプライアンスポリシー](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|あり|はい|はい|はい|はい|はい|はい|はい|
+|サイト コレクションの正常性チェックサイト コレクションの正常性チェック|あり|はい|はい|はい|はい|はい|はい|はい|
 |State Service|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Streamlined Central Administration|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |システム状態通知|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |未接続のコンテンツデータベースの回復|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Upgrade evaluation site collections|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[利用状況のレポートとログ](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[Windows PowerShell のサポート](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[Windows PowerShell のサポート](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|あり|はい|はい|はい|はい|はい|はい|はい|
 |**コンテンツ機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|[アクセシビリティ標準のサポート](../sharepoint-online-service-description/content.md#accessibility-standards-support)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[アセットライブラリの機能強化/ビデオサポート](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[監査](../sharepoint-online-service-description/content.md#auditing)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[監査&amp;レポート (ドキュメントの編集、ポリシーの編集、削除など)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[アクセシビリティ標準のサポート](../sharepoint-online-service-description/content.md#accessibility-standards-support)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[アセットライブラリの機能強化/ビデオサポート](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[監査](../sharepoint-online-service-description/content.md#auditing)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[監査&amp;レポート (ドキュメントの編集、ポリシーの編集、削除など)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[コンテンツ オーガナイザー](../sharepoint-online-service-description/content.md#content-organizer)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[デザイン マネージャー](../sharepoint-online-service-description/content.md#design-manager)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[ドキュメントセット](../sharepoint-online-service-description/content.md#document-sets)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[電子情報開示検索](../sharepoint-online-service-description/content.md#ediscovery-search)|はい<sup>6</sup>|はい|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|
+|[ドキュメントセット](../sharepoint-online-service-description/content.md#document-sets)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[Word で web 用のドキュメントを翻訳する](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[電子情報開示検索](../sharepoint-online-service-description/content.md#ediscovery-search)|はい<sup>6</sup>|あり|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|
 |[電子情報開示の保留](../sharepoint-online-service-description/content.md#ediscovery-hold)|<sup>6</sup>なし|いいえ|<sup>6</sup>なし|はい<sup>6</sup>|<sup>6</sup>なし|はい<sup>6</sup>|はい<sup>6</sup>|<sup>6</sup>なし|
 |[電子情報開示のエクスポート](../sharepoint-online-service-description/content.md#ediscovery-export)|<sup>6</sup>なし|いいえ|<sup>6</sup>なし|はい<sup>6</sup>|<sup>6</sup>なし|はい<sup>6</sup>|はい<sup>6</sup>|<sup>6</sup>なし|
 |メールが有効なリストとライブラリ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[外部共有: 外部アクセス](../sharepoint-online-service-description/content.md#external-sharing-external-access)|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|
 |[外部共有: ゲストリンク](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|<sup>9</sup>なし|
-|[フォルダーの同期](../sharepoint-online-service-description/content.md#folder-sync)|はい<sup>1、10</sup>|はい|はい<sup>1、9</sup>|はい<sup>1、9</sup>|はい<sup>1</sup>|はい|はい|はい<sup>2、10</sup>|
+|[フォルダーの同期](../sharepoint-online-service-description/content.md#folder-sync)|はい<sup>1、10</sup>|はい|はい<sup>1、9</sup>|はい<sup>1、9</sup>|はい<sup>1</sup>|あり|はい|はい<sup>2、10</sup>|
 |ハイブリッドの監査|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|ハイブリッド分類とコンテンツタイプ|はい|はい|はい|はい|はい|はい|はい|はい (<sup>20</sup> )|
-|[Information Rights Management (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|<sup>3</sup>なし|いいえ|<sup>3</sup>なし|はい|<sup>3</sup>なし|はい|はい|いいえ<sup>3、4</sup>|
+|ハイブリッド分類とコンテンツタイプ|あり|はい|はい|はい|はい|はい|はい|はい (<sup>20</sup> )|
+|[Information Rights Management (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|<sup>3</sup>なし|いいえ|<sup>3</sup>なし|はい|<sup>3</sup>なし|あり|はい|いいえ<sup>3、4</sup>|
 |[Information Rights Management (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[Managed Metadata Service](../sharepoint-online-service-description/content.md#managed-metadata-service)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[メタデータ駆動型ナビゲーション](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[複数段階の廃棄](../sharepoint-online-service-description/content.md#multi-stage-disposition)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|はい|はい|はい|はい|はい|はい|はい|Yes<sup>16</sup>|
-|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[複数段階の廃棄](../sharepoint-online-service-description/content.md#multi-stage-disposition)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[Web 用 Office (作成/編集)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|あり|はい|はい|はい|はい|はい|はい|Yes<sup>16</sup>|
+|[Web 用 Office (ビュー)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|あり|はい|はい|はい|はい|はい|はい|はい|
 |Office ProPlus (Osub)|いいえ|はい|不要|いいえ|いいえ|あり|はい|いいえ|
 |[Office Web Apps サーバーの統合](../sharepoint-online-service-description/content.md#office-web-apps-server-integration)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |PowerPoint Automation Services|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[アイテム保管ライブラリ](../sharepoint-online-service-description/content.md#preservation-hold-library)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
-|[クイック編集](../sharepoint-online-service-description/content.md#quick-edit)|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|[クイック編集](../sharepoint-online-service-description/content.md#quick-edit)|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |[レコードの管理](../sharepoint-online-service-description/content.md#records-management)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[ごみ箱 (SharePoint 管理センター)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|[ごみ箱 (サイト コレクション)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|[ごみ箱 (SharePoint 管理センター)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|[ごみ箱 (サイト コレクション)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |関連アイテム|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |リッチメディア管理|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[共有コンテンツタイプ](../sharepoint-online-service-description/content.md#shared-content-types)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[共有コンテンツタイプ](../sharepoint-online-service-description/content.md#shared-content-types)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[SharePoint translation services](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|アンケート調査|はい|はい|はい|はい|はい|はい|はい|はい|
-|[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids)|はい|はい|はい|はい|はい|はい|はい|はい|
+|アンケート調査|あり|はい|はい|はい|はい|はい|はい|はい|
+|[一意のドキュメント ID](../sharepoint-online-service-description/content.md#unique-document-ids)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[ビデオ検索](../sharepoint-online-service-description/content.md#video-search)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
 |[発行分析](../sharepoint-online-service-description/content.md#publishing-analytics)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[Catalog](../sharepoint-online-service-description/content.md#catalog)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
@@ -949,52 +949,52 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |スコアカード & ダッシュボード|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[SQL Server Reporting Services (SSRS) 統合モード](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-web-part)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[タイムラインスライサー](../sharepoint-online-service-description/insights.md#timeline-slicer)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
-|[データ モデルを含む Excel ブックの使用と対話](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[Web 用の Visio](../visio-online-service-description/visio-online-service-description.md)<sup>18</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
+|[データ モデルを含む Excel ブックの使用と対話](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[Web 用の Visio](../visio-online-service-description/visio-online-service-description.md)<sup>18</sup>|あり|はい|はい|はい|はい|はい|はい|はい|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>18</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**検索機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Advanced Content Processing|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[継続的クロール](../sharepoint-online-service-description/search.md#continuous-crawls)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[継続的クロール](../sharepoint-online-service-description/search.md#continuous-crawls)|あり|はい|はい|はい|はい|はい|はい|はい|
 |Custom entity extraction|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[ディープ リンク](../sharepoint-online-service-description/search.md#deep-links)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[イベント ベースの関連性](../sharepoint-online-service-description/search.md#event-based-relevancy)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[専門知識の検索](../sharepoint-online-service-description/search.md#expertise-search)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[ディープ リンク](../sharepoint-online-service-description/search.md#deep-links)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[イベント ベースの関連性](../sharepoint-online-service-description/search.md#event-based-relevancy)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[専門知識の検索](../sharepoint-online-service-description/search.md#expertise-search)|あり|はい|はい|はい|はい|はい|はい|はい|
 |Extensible content processing|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[グラフィカルな絞り込み条件](../sharepoint-online-service-description/search.md#graphical-refiners)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[ハイブリッド検索](../sharepoint-online-service-description/search.md#hybrid-search)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[グラフィカルな絞り込み条件](../sharepoint-online-service-description/search.md#graphical-refiners)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[ハイブリッド検索](../sharepoint-online-service-description/search.md#hybrid-search)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[検索スキーマの管理](../sharepoint-online-service-description/search.md#manage-search-schema)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |On-premises search index|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[フリガナ マッチング](../sharepoint-online-service-description/search.md#phonetic-name-matching)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[フリガナ マッチング](../sharepoint-online-service-description/search.md#phonetic-name-matching)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[クエリ ルール  昇格対象結果の追加](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[クエリ ルール  高度なアクション](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions)|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
 |[クエリのスペルの修正](../sharepoint-online-service-description/search.md#query-spelling-correction)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[クエリ候補](../sharepoint-online-service-description/search.md#query-suggestions)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |Query throttling|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[ホバープレビュー](../sharepoint-online-service-description/search.md#on-hover-preview)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[ホバープレビュー](../sharepoint-online-service-description/search.md#on-hover-preview)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[ランク付けモデル](../sharepoint-online-service-description/search.md#ranking-models)|はい (<sup>5</sup> )|いいえ|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|
-|[絞り込み条件](../sharepoint-online-service-description/search.md#refiners)|はい|はい|はい|はい|はい|はい|はい|はい|
-|[REST 対応のクエリ API/クエリ OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|はい|はい|はい|はい|はい|はい|はい|はい|
-|Result sources|はい|はい|はい|はい|はい|はい|はい|はい|
+|[絞り込み条件](../sharepoint-online-service-description/search.md#refiners)|あり|はい|はい|はい|はい|はい|はい|はい|
+|[REST 対応のクエリ API/クエリ OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|あり|はい|はい|はい|はい|はい|はい|はい|
+|Result sources|あり|はい|はい|はい|はい|はい|はい|はい|
 |Search connector framework|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[検索結果の並べ替え](../sharepoint-online-service-description/search.md#search-results-sorting)|はい|はい|はい|はい|はい|はい|はい|はい|
-|Search vertical: “Conversations”|はい|はい|はい|はい|はい|はい|はい|はい|
-|Search vertical: “People”|はい|はい|はい|はい|はい|はい|はい|はい|
+|[検索結果の並べ替え](../sharepoint-online-service-description/search.md#search-results-sorting)|あり|はい|はい|はい|はい|はい|はい|はい|
+|Search vertical: “Conversations”|あり|はい|はい|はい|はい|はい|はい|はい|
+|Search vertical: “People”|あり|はい|はい|はい|はい|はい|はい|はい|
 |Search vertical: “Video”|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
-|["このリスト" 検索](../sharepoint-online-service-description/search.md#this-list-searches)|はい|はい|はい|はい|はい|はい|はい|はい|
+|["このリスト" 検索](../sharepoint-online-service-description/search.md#this-list-searches)|あり|はい|はい|はい|はい|はい|はい|はい|
 |**サイト機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Change the look|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|Connections to Microsoft Office Clients|はい|はい|はい|はい|はい|はい|はい|はい|
-|[クロスブラウザーのサポート](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|はい|はい|はい|はい|はい|はい|はい|はい|
+|Connections to Microsoft Office Clients|あり|はい|はい|はい|はい|はい|はい|はい|
+|[クロスブラウザーのサポート](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[カスタム管理パス](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[ガバナンス](../sharepoint-online-service-description/sites-servicedesc.md#governance)|はい|はい|はい|はい|はい|はい|はい|はい|
-|ハイブリッドアプリ起動ツール|はい|はい|はい|はい|はい|はい|はい|Yes (<sup>19</sup> )|
-|ハイブリッド OneDrive for Business とサイト|はい|はい|はい|はい|はい|はい|はい|Yes (<sup>19</sup> )|
-|[大規模なリストのスケーラビリティと管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[ガバナンス](../sharepoint-online-service-description/sites-servicedesc.md#governance)|あり|はい|はい|はい|はい|はい|はい|はい|
+|ハイブリッドアプリ起動ツール|あり|はい|はい|はい|はい|はい|はい|Yes (<sup>19</sup> )|
+|ハイブリッド OneDrive for Business とサイト|あり|はい|はい|はい|はい|はい|はい|Yes (<sup>19</sup> )|
+|[大規模なリストのスケーラビリティと管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|あり|はい|はい|はい|はい|はい|はい|はい|
 |[モバイル接続](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|いいえ|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|はい<sup>11</sup>|
 |[多言語ユーザーインターフェイス](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|[はい]<sup>12</sup>|
 |My Tasks|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[OOTB web パーツ](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|[アクセス許可の管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[アクセス許可の管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|あり|はい|はい|はい|はい|はい|はい|はい|
 |Project functionality for team sites|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[プロジェクト サイト テンプレート](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |Project Summary web part|はい|いいえ|あり|はい|はい|はい|はい|はい|
@@ -1012,33 +1012,33 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |[バリエーション](../sharepoint-online-service-description/sites-servicedesc.md#variations)|はい|いいえ|あり|はい|はい|はい|はい|いいえ|
 |Work Management Service|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |**ソーシャル機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Ask Me About|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|Ask Me About|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |個人用ブログ|はい (<sup>13</sup> )|はい|はい (<sup>13</sup> )|はい (<sup>13</sup> )|はい (<sup>13</sup> )|はい (<sup>13</sup> )|はい (<sup>13</sup> )|はい (<sup>13</sup> )|
 |コミュニティの評価、バッジ、モデレート|はい<sup>14</sup>|いいえ|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|<sup>14</sup>|
 |[コミュニティ](../sharepoint-online-service-description/social.md#community)|はい<sup>14</sup>|いいえ|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|いいえ|
 |[会社フィード](../sharepoint-online-service-description/social.md#company-feed)|はい|いいえ|あり|はい|はい|はい|はい|いいえ|
 |Yammer を使用したドキュメント会話|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Follow|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|Follow|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |マイクロブログ|はい|いいえ|あり|はい|はい|はい|はい|いいえ|
 |ニュースフィード|はい|いいえ|あり|はい|はい|はい|はい|いいえ|
-|ワンクリック共有|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|ワンクリック共有|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |ユーザー、サイト、ドキュメントの推奨事項|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|個人用サイト|はい|はい|はい|はい|はい|はい|はい|いいえ|
-|写真とプレゼンス|はい|はい|はい|はい|はい|はい|はい|はい|
-|プロファイル|はい|はい|はい|はい|はい|はい|はい|はい|
-|Ratings|はい|はい|はい|はい|はい|はい|はい|はい|
-|Shared with Me|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|個人用サイト|あり|はい|はい|はい|はい|はい|はい|いいえ|
+|写真とプレゼンス|あり|はい|はい|はい|はい|はい|はい|はい|
+|プロファイル|あり|はい|はい|はい|はい|はい|はい|はい|
+|Ratings|あり|はい|はい|はい|はい|はい|はい|はい|
+|Shared with Me|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |[サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|はい<sup>2</sup>|
+|OneDrive for Business|あり|はい|はい|はい|はい|はい|はい|はい<sup>2</sup>|
 |Tag profiles|はい|いいえ|あり|はい|はい|はい|はい|はい|
-|Tasks integrated with Outlook|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|Tasks integrated with Outlook|あり|はい|はい|はい|はい|はい|はい|いいえ|
 |タグの傾向|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[Wikis](../sharepoint-online-service-description/social.md#wikis)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |Yammer|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**アドオン**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |[追加記憶域](../sharepoint-online-service-description/add-ons.md#additional-storage)|はい|いいえ|あり|はい|はい|はい|はい|はい|
 |[Azure プロビジョニングアプリ: Access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
-|[Azure プロビジョニングアプリ: Azure ライトウェイト Web ロールのカスタムコード (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|はい|はい|はい|はい|はい|はい|はい|はい|
+|[Azure プロビジョニングアプリ: Azure ライトウェイト Web ロールのカスタムコード (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|あり|はい|はい|はい|はい|はい|はい|はい|
 |Duet Online|いいえ|いいえ|いいえ|はい|いいえ|あり|はい|いいえ|
 
 > [!NOTE]
@@ -1070,29 +1070,29 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
-|Skype for Business|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい|はい|いいえ|
-|Lync 2013 Basic|はい|はい|はい|はい|はい|はい|いいえ|
-|Skype for Business Windows ストア アプリ|はい|はい|はい|はい|はい|はい|いいえ|
-|Lync for Mac 2011|はい|はい|はい|はい|はい|はい|いいえ|
-|Skype for Business モバイル クライアント|はい|はい|はい|はい|はい|はい|いいえ|
-|Skype for Business Web App|はい|はい|はい|はい|はい|はい|いいえ|
+|Skype for Business|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|あり|はい|いいえ|
+|Lync 2013 Basic|あり|はい|はい|はい|はい|はい|いいえ|
+|Skype for Business Windows ストア アプリ|あり|はい|はい|はい|はい|はい|いいえ|
+|Lync for Mac 2011|あり|はい|はい|はい|はい|はい|いいえ|
+|Skype for Business モバイル クライアント|あり|はい|はい|はい|はい|はい|いいえ|
+|Skype for Business Web App|あり|はい|はい|はい|はい|はい|いいえ|
 |**[インスタント メッセージング、プレゼンス、および連絡先](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|PC 間 IM およびプレゼンス|はい|はい|はい|はい|はい|はい|いいえ|
-|マルチパーティ IM およびプレゼンス|はい|はい|はい|はい|はい|はい|いいえ|
-|連絡先カードの構成|はい|はい|はい|はい|はい|はい|いいえ|
-|個人用画像の構成|はい|はい|はい|はい|はい|はい|いいえ|
+|PC 間 IM およびプレゼンス|あり|はい|はい|はい|はい|はい|いいえ|
+|マルチパーティ IM およびプレゼンス|あり|はい|はい|はい|はい|はい|いいえ|
+|連絡先カードの構成|あり|はい|はい|はい|はい|はい|いいえ|
+|個人用画像の構成|あり|はい|はい|はい|はい|はい|いいえ|
 |自分の写真: URL 写真の表示|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|連絡先リストの構成|はい|はい|はい|はい|はい|はい|いいえ|
+|連絡先リストの構成|あり|はい|はい|はい|はい|はい|いいえ|
 |統合連絡先ストア|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|いいえ|
-|アドレス帳の検索|はい|はい|はい|はい|はい|はい|いいえ|
-|配布リストの展開|はい|はい|はい|はい|はい|はい|いいえ|
+|アドレス帳の検索|あり|はい|はい|はい|はい|はい|いいえ|
+|配布リストの展開|あり|はい|はい|はい|はい|はい|いいえ|
 |常設チャット|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|送信者/受信者の写真|はい|はい|はい|はい|はい|はい|いいえ|
+|送信者/受信者の写真|あり|はい|はい|はい|はい|はい|いいえ|
 |**[Skype 間の音声、ビデオ、メディア](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|\  <br/> **Office 365 Germany Enterprise E3**|\  <br/> **Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|ビデオ ベースの画面共有 (VbSS) 経由でのデスクトップ共有|はい|はい|はい|はい|はい|はい|いいえ|
-|リモート デスクトップ プロトコル (RDP) 経由でのデスクトップとアプリケーションの共有|はい|はい|はい|はい|はい|はい|いいえ|
-|ファイル転送|はい|はい|はい|はい|はい|はい|いいえ|
-|ビデオ|はい|はい|はい|はい|はい|はい|いいえ|
+|ビデオ ベースの画面共有 (VbSS) 経由でのデスクトップ共有|あり|はい|はい|はい|はい|はい|いいえ|
+|リモート デスクトップ プロトコル (RDP) 経由でのデスクトップとアプリケーションの共有|あり|はい|はい|はい|はい|はい|いいえ|
+|ファイル転送|あり|はい|はい|はい|はい|はい|いいえ|
+|ビデオ|あり|はい|はい|はい|はい|はい|いいえ|
 |ネットワークのサービス品質 (QoS) - DSCP (Differentiated Services Code Point)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[フェデレーションとパブリック IM 接続](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)|はい|いいえ|あり|はい|はい|はい|いいえ|
@@ -1100,98 +1100,98 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 |Skype フェデレーション|<sup>6</sup>なし|いいえ|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|いいえ|
 |AOL および Yahoo! フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|臨時およびスケジュールの電話会議|はい|はい|はい|はい|はい|はい|いいえ|
-|臨時およびスケジュールのビデオ会議|はい|はい|はい|はい|はい|はい|いいえ|
-|アクティブなスピーカーのビデオ|はい|はい|はい|はい|はい|はい|いいえ|
-|.H のエンコードとデコード|はい|はい|はい|はい|はい|はい|いいえ|
-|マルチパーティビデオ|はい|はい|はい|はい|はい|はい|いいえ|
-|すべての出席者の高精細ビデオまたは画像|はい|はい|はい|はい|はい|はい|いいえ|
-|発表者のコントロール|はい|はい|はい|はい|はい|はい|いいえ|
-|参加者が選択したビュー|はい|はい|はい|はい|はい|はい|いいえ|
-|OneNote 共有|はい|はい|はい|はい|はい|はい|いいえ|
-|臨時およびスケジュールの web 会議|はい|はい|はい|はい|はい|はい|いいえ|
+|臨時およびスケジュールの電話会議|あり|はい|はい|はい|はい|はい|いいえ|
+|臨時およびスケジュールのビデオ会議|あり|はい|はい|はい|はい|はい|いいえ|
+|アクティブなスピーカーのビデオ|あり|はい|はい|はい|はい|はい|いいえ|
+|.H のエンコードとデコード|あり|はい|はい|はい|はい|はい|いいえ|
+|マルチパーティビデオ|あり|はい|はい|はい|はい|はい|いいえ|
+|すべての出席者の高精細ビデオまたは画像|あり|はい|はい|はい|はい|はい|いいえ|
+|発表者のコントロール|あり|はい|はい|はい|はい|はい|いいえ|
+|参加者が選択したビュー|あり|はい|はい|はい|はい|はい|いいえ|
+|OneNote 共有|あり|はい|はい|はい|はい|はい|いいえ|
+|臨時およびスケジュールの web 会議|あり|はい|はい|はい|はい|はい|いいえ|
 |電話会議経由の Skype for Business 会議ダイヤルイン (ファーストパーティ)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |認定される電話会議プロバイダー (ACP) 経由の Skype for Business 会議ダイヤルイン|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|いいえ|
-|PowerPoint 共有|はい|はい|はい|はい|はい|はい|いいえ|
-|ファイル送信|はい|はい|はい|はい|はい|はい|いいえ|
-|ホワイトボードと注釈|はい|はい|はい|はい|はい|はい|いいえ|
-|PowerPoint アップロード|はい|はい|はい|はい|はい|はい|いいえ|
-|投票|はい|はい|はい|はい|はい|はい|いいえ|
-|クライアント側の記録と再生|はい|はい|はい|はい|はい|はい|いいえ|
+|PowerPoint 共有|あり|はい|はい|はい|はい|はい|いいえ|
+|ファイル送信|あり|はい|はい|はい|はい|はい|いいえ|
+|ホワイトボードと注釈|あり|はい|はい|はい|はい|はい|いいえ|
+|PowerPoint アップロード|あり|はい|はい|はい|はい|はい|いいえ|
+|投票|あり|はい|はい|はい|はい|はい|いいえ|
+|クライアント側の記録と再生|あり|はい|はい|はい|はい|はい|いいえ|
 |サーバー側の記録と再生|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|会議ロビー|はい|はい|はい|はい|はい|はい|いいえ|
+|会議ロビー|あり|はい|はい|はい|はい|はい|いいえ|
 |Skype 会議メディア<sup>6</sup>|いいえ|いいえ|<sup>6</sup>なし|いいえ|<sup>6</sup>なし|<sup>6</sup>なし|いいえ|
-|Skype for business Web App による Skype 会議へのゲストアクセス|はい|はい|はい|はい|はい|はい|いいえ|
-|Outlook で Skype for Business 会議のスケジュールを設定する|はい|はい|はい|はい|はい|はい|いいえ|
-|他のユーザーの代わりに Outlook で Skype for Business 会議をスケジュールする (委任)|はい|はい|はい|はい|はい|はい|いいえ|
+|Skype for business Web App による Skype 会議へのゲストアクセス|あり|はい|はい|はい|はい|はい|いいえ|
+|Outlook で Skype for Business 会議のスケジュールを設定する|あり|はい|はい|はい|はい|はい|いいえ|
+|他のユーザーの代わりに Outlook で Skype for Business 会議をスケジュールする (委任)|あり|はい|はい|はい|はい|はい|いいえ|
 |Web スケジューラを使用して Skype for Business 会議をスケジュールする|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|いいえ|
-|Outlook on the web でオンライン会議をスケジュールする|はい|はい|はい|はい|はい|はい|いいえ|
-|会議のスケジュール設定のための Outlook 委任|はい|はい|はい|はい|はい|はい|いいえ|
+|Outlook on the web でオンライン会議をスケジュールする|あり|はい|はい|はい|はい|はい|いいえ|
+|会議のスケジュール設定のための Outlook 委任|あり|はい|はい|はい|はい|はい|いいえ|
 |Outlook から静的な会議 ID で公開会議を作成|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**音声通話**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |空き時間情報オプション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |ブランチ オフィスの存続可能性|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |通話受付管理|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|通話の応答/開始|はい|はい|はい|はい|はい|はい|はい|
+|通話の応答/開始|あり|はい|はい|はい|はい|はい|はい|
 |通話の委任|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|着信の転送と同時呼び出し|はい|はい|はい|はい|いいえ|いいえ|いいえ|
-|通話履歴|はい|はい|はい|はい|はい|はい|いいえ|
-|通話の保留/取得|はい|はい|はい|はい|はい|はい|いいえ|
+|着信の転送と同時呼び出し|あり|はい|はい|はい|いいえ|いいえ|いいえ|
+|通話履歴|あり|はい|はい|はい|はい|はい|いいえ|
+|通話の保留/取得|あり|はい|はい|はい|はい|はい|いいえ|
 |コール パーク|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|通話の転送 (ブラインド、コンサルタント、モバイル)|はい|はい|はい|はい|はい|はい|いいえ|
-|発信者番号|はい|はい|はい|はい|はい|はい|いいえ|
-|割り込み通話|はい|はい|はい|はい|はい|はい|いいえ|
-|キャンプ オン|はい|はい|はい|はい|はい|はい|いいえ|
-|PC、Mac、モバイル用のクライアント|はい|はい|はい|はい|はい|はい|いいえ|
-|デバイスの切り替え|はい|はい|はい|はい|はい|はい|いいえ|
+|通話の転送 (ブラインド、コンサルタント、モバイル)|あり|はい|はい|はい|はい|はい|いいえ|
+|発信者番号|あり|はい|はい|はい|はい|はい|いいえ|
+|割り込み通話|あり|はい|はい|はい|はい|はい|いいえ|
+|キャンプ オン|あり|はい|はい|はい|はい|はい|いいえ|
+|PC、Mac、モバイル用のクライアント|あり|はい|はい|はい|はい|はい|いいえ|
+|デバイスの切り替え|あり|はい|はい|はい|はい|はい|いいえ|
 |ディスティンクティブ リング|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|応答不可ルーティング|はい|はい|はい|はい|はい|はい|いいえ|
+|応答不可ルーティング|あり|はい|はい|はい|はい|はい|いいえ|
 |緊急通話 - 静的な場所|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |緊急通話 - 動的な場所|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|エンタープライズ カレンダーの通話ルーティング|はい|はい|はい|はい|はい|はい|いいえ|
+|エンタープライズ カレンダーの通話ルーティング|あり|はい|はい|はい|はい|はい|いいえ|
 |内線ダイヤル|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |グループ通話のピックアップ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |ハント グループ/通話キューと処理|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |統合ダイヤル パッド|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |場所ベースのルーティング|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|保留中の音楽|はい|はい|はい|はい|はい|はい|いいえ|
+|保留中の音楽|あり|はい|はい|はい|はい|はい|いいえ|
 |送信 DID の操作|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |プライベート番号|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |正規の IP デスク フォン|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
 |回線共有機能|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Skype とフェデレーション通話|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|はい (<sup>5</sup> )|いいえ|
 |チーム通話|いいえ|いいえ|いいえ|いいえ|あり|はい|いいえ|
-|ビデオ通話モニター|はい|はい|はい|はい|はい|はい|いいえ|
+|ビデオ通話モニター|あり|はい|はい|はい|はい|はい|いいえ|
 |ボイスメール|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国内通話プラン)|いいえ|いいえ|いいえ|いいえ|<sup>4</sup>なし|<sup>4</sup>なし|いいえ|
 |[Office 365 での通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (アドオンの購入が必要な国際通話プラン)|いいえ|いいえ|いいえ|いいえ|<sup>4</sup>なし|<sup>4</sup>なし|いいえ|
 |[コミュニケーション クレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Skype for Business 音声|はい|はい|はい|はい|はい|はい|いいえ|
+|Skype for Business 音声|あり|はい|はい|はい|はい|はい|いいえ|
 |**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|IM とメディアの暗号化|はい|はい|はい|はい|はい|はい|いいえ|
+|IM とメディアの暗号化|あり|はい|はい|はい|はい|はい|いいえ|
 |IM とファイルのフィルタリング|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|クライアントバージョンコントロール|はい|はい|はい|はい|はい|はい|いいえ|
-|IM コンテンツのアーカイブ|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|はい|はい|いいえ|
-|会議コンテンツのアーカイブ|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|はい|はい|いいえ|
+|クライアントバージョンコントロール|あり|はい|はい|はい|はい|はい|いいえ|
+|IM コンテンツのアーカイブ|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|あり|はい|いいえ|
+|会議コンテンツのアーカイブ|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|あり|はい|いいえ|
 |アプリケーション共有とデスクトップ共有のアーカイブ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|ユーザーレベルのアーカイブ構成|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|はい|はい|いいえ|
-|ログイントレースファイル|はい|はい|はい|はい|はい|はい|いいえ|
+|ユーザーレベルのアーカイブ構成|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|<sup>2</sup>なし|あり|はい|いいえ|
+|ログイントレースファイル|あり|はい|はい|はい|はい|はい|いいえ|
 |**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Exchange Server とのプレゼンスの相互運用性|はい|はい|はい|はい|はい|はい|いいえ|
-|Exchange Online とのプレゼンスの相互運用性|はい|はい|はい|はい|はい|はい|いいえ|
+|Exchange Server とのプレゼンスの相互運用性|あり|はい|はい|はい|はい|はい|いいえ|
+|Exchange Online とのプレゼンスの相互運用性|あり|はい|はい|はい|はい|はい|いいえ|
 |ユニファイド メッセージングの Exchange Server との相互運用性|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |ユニファイド メッセージングの Exchange Online との相互運用性|いいえ|いいえ|いいえ|いいえ|いいえ| いいえ|いいえ|
-|Outlook on the web の相互運用性|はい|はい|はい|はい|はい|はい|いいえ|
+|Outlook on the web の相互運用性|あり|はい|はい|はい|はい|はい|いいえ|
 |アーカイブの Exchange Server との相互運用性|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|アーカイブの Exchange Online との相互運用性|はい|はい|はい|はい|はい|はい|いいえ|
+|アーカイブの Exchange Online との相互運用性|あり|はい|はい|はい|はい|はい|いいえ|
 |SharePoint Server を使用したスキル検索|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |SharePoint Online を使用したスキル検索|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[Skype for Business Online の管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Microsoft Office 365 ポータル|はい|はい|はい|はい|はい|はい|いいえ|
-|Microsoft 365 管理センター|はい|はい|はい|はい|はい|はい|いいえ|
-|Skype for Business Online 管理センター|はい|はい<sup>3</sup>|はい|はい|はい|はい|いいえ|
-|Windows PowerShell|はい|はい|はい|はい|はい|はい|いいえ|
-|Microsoft 365 管理センターの Skype for Business Online レポート|はい|はい|はい|はい|はい|はい|いいえ|
+|Microsoft Office 365 ポータル|あり|はい|はい|はい|はい|はい|いいえ|
+|Microsoft 365 管理センター|あり|はい|はい|はい|はい|はい|いいえ|
+|Skype for Business Online 管理センター|はい|はい<sup>3</sup>|あり|はい|はい|はい|いいえ|
+|Windows PowerShell|あり|はい|はい|はい|はい|はい|いいえ|
+|Microsoft 365 管理センターの Skype for Business Online レポート|あり|はい|はい|はい|はい|はい|いいえ|
 
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus および Office 365 Enterprise E3 には、完全な Skype for Business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれます。 A Skype for Business Online license must be assigned for each user. Lync Basic 機能の詳細については、「[デスクトップクライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。<br/>
