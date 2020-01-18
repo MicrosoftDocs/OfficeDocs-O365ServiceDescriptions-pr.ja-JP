@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「Office 365 のサービスの説明」を参照することをお勧めします。
-ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 この記事では、Office 365 Government US 環境に固有の機能の概要について説明します。
+ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
+ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216742"
+ms.lasthandoff: 01/18/2020
+ms.locfileid: "41233360"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「 [Office 365 のサービスの説明](../../office-365-service-descriptions-technet-library.md)」を参照することをお勧めします。
   
-## <a name="how-to-use-this-service-description-section"></a>このサービスの説明セクションの使用方法
+## <a name="how-to-use-this-service-description"></a>このサービスの説明の使用方法
 
-Office 365 US Government のサービスの説明は、全般的な Office 365 のサービスの説明へのオーバーレイとして機能するよう設計されています。Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
+Office 365 US Government サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
   
 ## <a name="about-office-365-us-government-environments"></a>Office 365 US Government 環境について
 
@@ -42,8 +42,6 @@ Office 365 US Government には、Office 365 の特長と機能に加え、次�
 - 組織の顧客コンテンツへのアクセスは、審査された Microsoft の担当者にのみ制限されます。
     
 - Office 365 US Government は、米国公的機関のお客様に必要な資格および認定に準拠しています。
-    
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-eligibility"></a>お客様の適格性
 
@@ -54,8 +52,6 @@ Office 365 US Government を使用できるのは、(1) 米国連邦、州、地
 Office 365 US Government の適格性に関してご質問がある機関は、アカウント チームにお問い合わせください。
   
 お客様の Office 365 US Government の契約の更新時には、適格性の再検証が必要になります。
-  
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-content-located-within-the-united-states"></a>米国内の顧客コンテンツ
 
@@ -74,13 +70,9 @@ Office 365 US Government サービスは、米国内に物理的に配置され�
   
 ユーザーが web 用 Office (旧称 Office Web Apps) を使用しているとき、または Active Directory フェデレーションサービス (AD FS) 2.0 の使用を採用している場合に、ユーザーが米国内内に配置されている場合、またはユーザーが単一の si を通じてサービスに接続できるようにするためのポリシーを設定する場合gn は、web 用に Office に一時的にキャッシュされるお客様のコンテンツが米国内に配置されます。
   
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 US Government およびサード パーティ サービス
 
 Office 365 は、サード パーティ アプリケーションを SharePoint Online サイト、Skype for Business、Office 365 ProPlus に含まれる Office アプリケーション (Word、Excel、PowerPoint、Outlook など)、Outlook Web App に統合する機能を提供します。さらに、Office 365 はサード パーティ サービス プロバイダーとの統合をサポートしています。これらのサード パーティ アプリケーションおよびサービスには、組織の顧客データを Office 365 インフラストラクチャ外部のサード パーティ システムで保管、送信、処理する場合があるため、Office 365 のコンプライアンスおよびデータ保護に関するコミットメントは適用されません。組織でサード パーティのサービスを使用することが適切であるかどうか査定する際には、そのサード パーティのプライバシーおよびコンプライアンスに関する声明を検討することをお勧めします。
-  
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="restricted-data-access-by-administrators"></a>管理者に制限されたデータ アクセス
 
@@ -96,45 +88,38 @@ Office 365<sup>1</sup>の Fasttrack センターの特典を使用すると、Fa
 - コアオンボード-これらは、必要に応じて、テナントの構成と Azure Active Directory (Azure AD) との統合に必要なタスクです。 コア オンボーディングは、他の対象のサービスのオンボーディングのベースラインも提供します。
     
 - サービスオンボードおよび移行サービスのオンボードタスクは、テナント内のシナリオを有効にします。 データ移行 (電子メールやファイルを含む) については、「[データ移行](https://aka.ms/whatcanmigrate)」で説明します。<sup>2</sup>
-    
-ユーザー採用サービスは、ユーザーが使用できるサービスを認識し、そのサービスを使用してビジネス価値を高めることができるようにするガイダンスを提供するタスクで構成されています。この支援は、オンボーディング アクティビティと並行して行われます。
+
+ユーザー導入サービスは、ユーザーが対象となるサービスを認識し、それらを使用してビジネス価値を促進できるようにするためのガイダンスを提供するタスクで構成されています。 この支援は、オンボーディング アクティビティと並行して行われます。
   
 FastTrack センタープロセスの詳細については、[こちら](https://aka.ms/whatistheprocess)を参照してください。 契約の役割と責任の内訳については、 [Fasttrack の責任](https://aka.ms/whatdoesftcdo)だけでなく、[責任](https://aka.ms/whatdowedo)についても確認してください。
   
-<sup>1</sup> fasttrack サービスを受けるには、対象となる[プラン](https://aka.ms/whocanbenefit)のリストから少なくとも50のライセンスを購入する必要があります。 
-  
-<sup>2</sup>データ移行サービスは、500またはそれ以上のライセンスを持つ Office 365 テナントで使用できます。 
+> <sup>1</sup> fasttrack サービスを受けるには、対象となる[プラン](https://aka.ms/whocanbenefit)のリストから少なくとも50のライセンスを購入する必要があります。
+<br/><sup>2</sup>データ移行サービスは、500またはそれ以上のライセンスを持つ Office 365 テナントで使用できます。
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack によって実行されたデータ移行
 
-[Fasttrack](https://fasttrack.microsoft.com/)移行特典を選択する場合は、データ移行を管理するチームへのアクセス権を付与する必要があります。 これらの人員は米国市民で、Office 365 US Government サービスのお客様に移行を実行する前に、次のバックグラウンドチェックが行われています。 
+[Fasttrack](https://fasttrack.microsoft.com/)移行特典を選択する場合は、データ移行を管理するチームへのアクセス権を付与する必要があります。 これらの人員は米国市民で、Office 365 US Government サービスのお客様に移行を実行する前に、次のバックグラウンドチェックが行われています。
   
 ||||
 |:-----|:-----|:-----|
-|**背景調査** <br/> |**GCC** <br/> |**GCC High および DoD** <br/> |
-|アメリカ国籍の確認  <br/> |あり  <br/> |はい  <br/> |
-|職歴チェック  <br/> |あり  <br/> |はい  <br/> |
-|学歴の確認  <br/> |あり  <br/> |はい  <br/> |
+|**背景の審査** <br/> |**GCC** <br/> |**GCC High および DoD** <br/> |
+|米市民権の確認  <br/> |あり  <br/> |はい  <br/> |
+|雇用履歴チェック  <br/> |あり  <br/> |はい  <br/> |
+|教育機関の確認  <br/> |あり  <br/> |はい  <br/> |
 |社会保障番号 (SSN) の検索  <br/> |あり  <br/> |はい  <br/> |
-|犯罪歴のチェック (7 年)  <br/> |あり  <br/> |はい  <br/> |
-   
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
-  
+|犯罪履歴チェック (7 年)  <br/> |あり  <br/> |はい  <br/> |
+     
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 US Government および Azure Government ExpressRoute
 
 Office 365 米国政府機関のお客様は、Azure Government ExpressRoute サービスを使用して、パブリックインターネット経由で接続するのではなく、サポートされている Office 365 サービスにプライベートに接続できます。
   
-サポートされているプロバイダーや価格モデルなどの詳細については、「[ExpressRoute のドキュメント](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)」をご確認ください。
+サポートされているプロバイダーや価格モデルなどの詳細については、「 [Azure ExpressRoute の情報](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)」を参照してください。
   
-Azure ExpressRoute の Office 365 サポートの詳細については、「[Azure ExpressRoute for Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)」をご覧ください。
-  
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
+Azure ExpressRoute の Office 365 サポートの詳細については、「 [Azure expressroute For office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409) 」を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
 Office 365 US Government プランのシステム要件については、[office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 製品サイトの「 [Office のシステム要件](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)」を参照してください。 
-  
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -154,7 +139,7 @@ Office 365 US Government プランのシステム要件については、[office
 |SharePoint Online  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business (Instant Messaging &amp; Presence)  <br/> |はい<sup>1</sup> <br/> |あり  <br/> |はい  <br/> |はい<sup>1</sup> <br/> |
-| 音声ビデオシステム、電話会議  <br/> |いいえ <sup>2、3</sup> <br/> |いいえ <sup>2、3</sup> <br/> |はい <sup>3、5</sup> <br/> |いいえ  <br/> |
+| 音声ビデオシステム、電話会議  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい <sup>5</sup> <br/> |いいえ  <br/> |
 |Power BI Pro  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |<sup>2</sup>なし <br/> |
 |Project Online  <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |
 |Web 用 Visio  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
@@ -307,8 +292,6 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>18</sup>マルウェア対策は、ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスについては、GCC High および DoD ではまだ利用できません。
 <br/><sup>19</sup>現時点では GCC 環境では使用できませんが、近日中に提供されます。
   
-[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-application-availability-and-enterprise-value"></a>Office アプリケーションの可用性とエンタープライズ価値
 
 次の表には、Office 365 US Government プラン全体にわたって利用可能な Office アプリケーション機能が示されています。
@@ -333,7 +316,7 @@ Office 365 US Government プランのシステム要件については、[office
 |[Windows Phone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい  <br/> |
 |Office Mobile for Windows 10 tablets <br/> |あり  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |あり  <br/> |
 |IOS および Android 用の Outlook<sup>5、4</sup>  <br/> |あり <br/> |はい <br/> |はい <br/> |はい <br/> |
-|**企業価値** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
+|**エンタープライズ価値** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F1** <br/> |
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |多言語ユーザー インターフェイス  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |
@@ -372,7 +355,6 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>5</sup>詳細について[は、「Government Community Cloud で Outlook For iOS と Outlook For Android を使用する](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)」を参照してください。
 <br/><sup>6</sup> Office 365 DoD 環境ではまだ使用できませんが、近日中に提供されます。
 <br/><sup>7</sup>アプリケーションは、現時点では利用できない特定の機能を除き、政府機関のクラウドで完全に使用できます。 詳細については、「 [Office アプリケーション機能の可用性](#office-application-and-feature-availability-in-government-plans)」を参照してください。
-<br/><br/>[このサービスの説明セクションの使用方法](office-365-us-government.md#how-to-use-this-service-description-section)
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>政府機関向けプランにおける Office アプリケーションと機能の可用性
 
@@ -456,7 +438,7 @@ Office 365 US Government プランのシステム要件については、[office
 |共同編集者とのコンテキストチャット: ドキュメント内の共同編集者とチャット | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |ディクテーション | なし<sup></sup> <br/> | なし<sup></sup> <br/> | なし<sup></sup> <br/> |
 
-<sup>1 つ</sup>の利用可能時間。<br/>
+> <sup>1 つ</sup>の利用可能時間。<br/>
 <sup>2</sup>ローカル Surface Hub での可用性 (サインインしていない場合)。<br/>
 <sup>3</sup>アプリケーションは、現在 DOD クラウドでは利用できません。<br/>
-GCC 環境では、 <sup>4 つ</sup>の外部共有を使用できます。 組織で[Microsoft Forms をオンまたは](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)オフにする方法について説明します。 GCC High および DOD 環境では、外部共有は無効になっています。組織内のユーザーは、フォームを完成させ、応答を送信したり、フォーム[をテンプレートとして複製および共有](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)したり、[フォームで共同編集または共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)を行ったり、[フォームの結果にアクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)したりすることがあります。<br/>
+GCC 環境では、 <sup>4 つ</sup>の外部共有を使用できます。 組織で[Microsoft Forms をオンまたは](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)オフにする方法について説明します。 GCC High および DOD 環境では、外部共有は無効になっています。組織内のユーザーは、フォームを完成させ、応答を送信したり、フォーム[をテンプレートとして複製および共有](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)したり、[フォームで共同編集または共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)を行ったり、[フォームの結果にアクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)したりすることがあります。
