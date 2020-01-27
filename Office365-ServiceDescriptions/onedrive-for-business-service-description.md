@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 各サブスクリプション プランに提供される OneDrive のストレージ スペースについて詳しく知る。
-ms.openlocfilehash: 63ab72221fa009384baad0fd7367c676d84798b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ff6cc32437b15075868f9d6a5f82bfc655a399f5
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263481"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519188"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business サービスの説明
 
@@ -42,7 +42,7 @@ OneDrive 同期クライアントとモバイル アプリの要件について�
   
 ## <a name="storage-space-per-user"></a>ユーザー 1 人あたりのストレージ スペース
 
-**2 GB**
+**5 GB**
 
 - Office 365 Enterprise F1
 
