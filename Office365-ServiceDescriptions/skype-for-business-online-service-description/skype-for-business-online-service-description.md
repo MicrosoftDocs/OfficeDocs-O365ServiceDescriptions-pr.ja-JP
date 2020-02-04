@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 特定の Skype for Business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。 詳細については、「Skype for Business ライセンスの概要」を参照してください。
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263271"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711917"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
 
 > [!NOTE]
-> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 新しい Office 365 500 のお客様は、Microsoft Teams に利用し、Skype for Business Online にアクセスすることはできません。 既に Skype for Business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行することができます。
+> Microsoft Teams は、Office 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1日以降、500座席またはそれ以下の新しい Office 365 お客様は、Microsoft Teams に利用され、Skype for Business Online にアクセスすることはできません。 2019年9月1日の間、これはすべての新しいお客様に適用されます。 既に Skype for Business Online を使用しているテナントでは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) そのまま続行できます。
 
 > [!NOTE]
 > Skype for Business Online プラン2は2019年7月1日に売上を廃止しました。 これは、インスタントメッセージング、プレゼンス、会議、およびピアツーピア音声およびビデオに対して Skype for Business Online プラン2を取得できなくなることを意味します。 これらの機能は、Office 365 スイートを含む Teams を含むすべての Office 365 製品で引き続きサポートされます。 現在の用語の最後にプランの期限が切れると、これらの機能に継続してアクセスするためには、別のプランに切り替える必要があります。 現在 Skype for Business Online プラン2を割り当てられているユーザーに対して、Office 365 Business Essentials、Business Premium、またはその他の Office スイートを評価することをお勧めします。 

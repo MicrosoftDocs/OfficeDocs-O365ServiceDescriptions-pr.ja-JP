@@ -1,5 +1,5 @@
 ---
-title: Web サービスの説明のための Office
+title: Office for the web サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263521"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711907"
 ---
-# <a name="office-for-the-web-service-description"></a>Web サービスの説明のための Office
+# <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
 Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。 
   
@@ -192,7 +192,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 > [!NOTE] 
 > <sup>1</sup>ピボットグラフ、表示のみを作成することはできません。
  <br/><sup>2</sup>環境の構成方法によっては、Web 用 Excel に表示されるブックで、一部の種類のデータ接続がサポートされます。 詳細については、「ブラウザーウィンドウでブックのデータを更新する」を参照してください。 
- <br/><sup>3</sup> vba を使用して web にマクロを作成することはできませんが、ファイルに含まれる vba を削除 (または破損) しなくても vba 対応のスプレッドシートを開いて編集することができます。
+ <br/><sup>3</sup> Excel で web 用に vba を使用してマクロを作成または実行することはできませんが、ファイルに含まれる vba を削除 (または破損) することなく、vba 対応のスプレッドシートを開いて編集することができます。
  <br/><sup>4</sup> web 用の Excel では、最後の既知の参照値がブラウザーウィンドウに表示されます。ただし、Excel デスクトップアプリを使用して更新する必要があります。 
  <br/><sup>5</sup>一部の Office アドインを利用できます。 
   
