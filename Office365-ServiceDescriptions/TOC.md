@@ -1,6 +1,4 @@
 
-  
-
 # [Office 365 サービスの説明](office-365-service-descriptions-technet-library.md)
 ## [Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md)
@@ -111,10 +109,10 @@
 ### [Microsoft 365 Business 音声サービスの説明](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-### [中小規模ビジネスに Microsoft 365 のライセンスを付与する](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
-### [Microsoft 365 テナントレベル サービスのライセンスに関するガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+### [中小規模ビジネスに Microsoft 365 のライセンスを付与する](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+### [セキュリティとコンプライアンスのための Microsoft 365 ライセンス ガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Microsoft 365 コンプライアンスの計画 - DoD 展開](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Microsoft 365 コンプライアンスの計画 - GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Microsoft 365 コンプライアンスの計画 - GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
-
+ 
