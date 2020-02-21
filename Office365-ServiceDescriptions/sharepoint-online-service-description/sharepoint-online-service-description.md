@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online サービスの説明
+title: SharePoint サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,244 +13,196 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。
-ms.openlocfilehash: c6719ec7efc2caea5a7190d55ae9da0c535f72a5
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+description: どの SharePoint 機能がどのプランで利用できるかを確認します。
+ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969963"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172854"
 ---
-# <a name="sharepoint-online-service-description"></a>SharePoint Online サービスの説明
+# <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
-Office 365 の Microsoft SharePoint Online では、共同作業を行ったり、他のユーザーへの通知と協力を行ったり、ビジネスプロセスを変換したり、総合的な知識を活用したりすることができます。 さらに、SharePoint には、組織がデータを保護および管理し、カスタムソリューションを構築する機能が用意されています。 簡単な概要については、「 [SharePoint とは](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)」を参照してください。
+Microsoft 365 の SharePoint は、組織がコンテンツ、知識、およびアプリケーションを共有し、管理するのに役立ちます。
+
+- チームワークを支援する
+- 情報をすばやく検索する
+- 組織全体でシームレスに共同作業を行う
+
+簡単な概要については、「 [SharePoint とは](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)」を参照してください。
   
-各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。
+どの Office 365 プランに SharePoint が含まれているかを確認するには、[ビジネスプランの office 365 を比較](https://products.office.com/business/compare-more-office-365-for-business-plans)します。 Office 365 のシステム要件については、「 [office のシステム要件](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)」を参照してください。 
+
+米国政府機関のお客様の SharePoint 機能の相違点については、「 [sharepoint の us government 環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)」を参照してください。
   
 ## <a name="whats-new"></a>新機能
 
-SharePoint Online の新機能の詳細については、「[Microsoft SharePoint Online の新機能](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)」を参照してください。
-  
-## <a name="system-requirements"></a>システム要件
-
-企業組織、教育組織、および行政機関で使用可能な月単位のサブスクリプションベースのサービスである、Office 365 のシステム要件については、「[Office 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
-  
-> [!NOTE]
-> 組織はハイブリッドの SharePoint 環境を展開し、その中にオンプレミスで展開されることが多い SharePoint Server 2013 または 2016、および SharePoint Online を含めることができます。詳細については、「[SharePoint Server 2013 のハイブリッド](https://docs.microsoft.com/SharePoint/hybrid/hybrid)」または「[SharePoint Server 2016 のハイブリッド](https://docs.microsoft.com/SharePoint/hybrid/hybrid)」を参照してください。 
-  
-## <a name="sharepoint-online-boundaries-and-limits"></a>SharePoint Online の境界と制限
-
-サイトコレクションのクォータ、ファイルのアップロード制限、格納域の制限など、Microsoft が管理する SharePoint Online サービスにはいくつかの制限があります。 詳細については、「 [SharePoint Online の制限](sharepoint-online-limits.md)」を参照してください。
-  
-モバイル サポートの詳細については、「[モバイル デバイスを使用して SharePoint Online サイトを操作する](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6)」を参照してください。
+リリースされる最新の機能の詳細については、「 [SharePoint の新](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)機能」を参照してください。
   
 ## <a name="subscription-options"></a>サブスクリプションのオプション
 
-Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
+Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。スタンドアロン プラン オプションや、別のプランへの変更などの詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-SharePoint Online にアクセスする各ユーザーは、Office 365 プランまたは sharepoint online plan 1 または SharePoint Online Plan 2 スタンドアロンサービスに割り当てられている必要があります。 ただし、Firstline プランは、SharePoint Online の最初の行のような Firstline サブスクリプションの一部としてのみ、スタンドアロンのオファーとして販売されるわけではありません。 Firstline ワーカーは管理者になることができないため、Firstline ワーカーを使用するテナントには、少なくとも1つのエンタープライズ管理者が SharePoint を管理する必要があります。 Firstline ワーカーは SharePoint ナビゲーションメニューを表示しないので、Firstline のワーカーは URL で SharePoint サイトに直接移動する必要があります。
+SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、Firstline サブスクリプションの一部としてのみ、スタンドアロンのオファーとしては購入されません。 第一線ワーカーは sharepoint ナビゲーションメニューを表示しないので、第一線のワーカーは URL で sharepoint サイトに直接移動する必要があります。
   
-## <a name="onedrive-for-business"></a>OneDrive for Business
+## <a name="rights-of-guests"></a>ゲストの権限
 
-OneDrive for Business (従来の SkyDrive Pro) は社員向けの個人用オンライン ストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive for Business は SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロンオプションには、web 用の Office が含まれています。 OneDrive for business に含まれる web 用 Office の機能を確認するには、「 [onedrive For business サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
+プランを購入して、エンタープライズ機能を使用するサイトを作成した場合、招待したゲストには、招待したサイト内のエンタープライズ機能を使用または表示する権限が付与されます。 サイト上のすべてのアクションを実行するようにゲストを招待することはできますが、組織内のライセンスを持つユーザーと同じ機能を持つことはありません。 たとえば、プランに Office アプリケーションのデスクトップバージョンが含まれている場合、ライセンスを割り当てない限り、ゲストは自分のコンピューターにインストールすることはできません。
+
+## <a name="onedrive"></a>OneDrive
+
+Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラインストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive は SharePoint に含まれており、スタンドアロンプランとして購入することもできます。 各プランに付属している OneDrive ストレージの数については、「 [Onedrive サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
+
+## <a name="apps"></a>アプリ
+
+コンピューター上の SharePoint ファイルを同期するために、ユーザーは Windows または Mac 用の[OneDrive 同期アプリ](https://onedrive.live.com/about/download/)を使用できます。 同期アプリの機能の可用性の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。 
+
+モバイルデバイスで SharePoint サイトを操作するには、 [iOS、Android、または Windows 用の sharepoint モバイルアプリをインストール](https://products.office.com/sharepoint/mobile-app)します。 
   
-## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online Enterprise 外部ユーザー
-
-外部ユーザーは、共同作業を行うために自分を招待した SharePoint Online 顧客の使用権限を継承します。つまり、組織が E3 Enterprise プランを購入し、エンタープライズ機能を使用するサイトを構築する場合、外部ユーザーには、自分が招待されているサイト コレクション内でエンタープライズ機能を使用または表示する権限が付与されます。外部ユーザーは、サイトの操作全般を実行する拡張プロジェクト メンバーとして招待できますが、組織内の有料の全面的なライセンスを持つユーザーとまったく同じ能力を持つわけではありません。[外部ユーザーができることとできないこと](https://docs.microsoft.com/sharepoint/external-sharing-overview)の詳細を参照してください。
   
-## <a name="feature-availability-across-office-365-plans"></a>Office 365 の各プランで利用できる機能
+## <a name="developer-features"></a>開発者向けの機能
 
-SharePoint 機能が Office 365 プランで利用可能かどうかを確認するには、次の表を使用してください。 
+特に明記されていない限り、以下の機能は、SharePoint を含むすべてのプランとすべての SharePoint スタンドアロンプランで利用できます。
 
-> [!TIP]
-> このテーブル内の一部の列が非表示になっている可能性があります。 表の下部にあるスクロールバーを使用して、右にスクロールし、追加の列を表示します。
-  
-****
+- [アドインホスティング: パートナーホスト型および SharePoint ホスト型](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
+- [アプリの配布: アプリカタログ](/sharepoint/use-app-catalog)
+- [アプリ配布: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
+- [Business Connectivity Services (BCS)](/sharepoint/manage-business-connectivity-service-applications)。 SharePoint プラン2、Office 365 Enterprise E3、または Office 365 Enterprise E5 が必要です
+- [マネージ コード用のクライアント オブジェクト モデル](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
+- [開発者向けサイト](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
+- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home)。 SharePoint プラン2、Office 365 Enterprise E3、または Office 365 Enterprise E5 が必要です
+- [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization)。 プロバイダーによっては、お住まいの国や地域でブロックされる場合があります。
+- [REST サービスおよび OData クエリ](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
+- [SharePoint Designer 2013 (従来のサイト用)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1)。 第一線ワーカーは使用できません。
+- [SharePoint Framework (SPFx)](/sharepoint/dev/spfx/sharepoint-framework-overview)
+- [サイトデザインとサイトスクリプト](/sharepoint/dev/declarative-customization/site-design-overview)
+- [サイトのテーマ](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-|||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**開発者向けの機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[アプリカタログ (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[アプリの展開: クラウドでホストされるアプリ](developer.md#app-deployment-cloud-hosted-apps) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[アプリの展開: SharePoint でホストされるアプリ](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[App Management Service](developer.md#app-management-service) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[BCS: アプリを対象範囲とする外部コンテンツタイプ (Ect)](developer.md#bcs-app-scoped-external-content-types-ects) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[BCS: ビジネスデータ Web パーツ](developer.md#bcs-business-data-web-parts) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[BCS: 外部リスト](developer.md#bcs-external-list) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[BCS:OData コネクタ](developer.md#bcs-odata-connector) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[BCS: リッチクライアントの統合](developer.md#bcs-rich-client-integration) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[クライアントオブジェクトモデル (OM)](developer.md#client-object-model-om) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[カスタムサイトプロビジョニングページ](developer.md#custom-site-provisioning-page) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |
-|[開発者向けサイト](developer.md#developer-site) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[フォームベースのアプリケーション](developer.md#infopath-forms-services) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[完全信頼ソリューション](developer.md#full-trust-solutions) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい (<sup>15</sup> ) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |
-|[JavaScript オブジェクト モデル](developer.md#javascript-object-model) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[リモートイベントレシーバー](developer.md#remote-event-receiver) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[REST API](developer.md#rest-apis) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint デザイン マネージャー](developer.md#sharepoint-design-manager) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[SharePoint Framework](developer.md#sharepoint-framework) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint 2010 ワークフロー (標準)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint 2013 および SharePoint 2016 のワークフロー](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |あり  <br/> |はい  <br/> |はい  <br/> |
-|**IT プロフェッショナル向けの機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Active Directory の同期](it-professional.md#active-directory-synchronization) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[代替アクセス マッピング (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[マルウェア対策保護](it-professional.md#anti-malware-protection) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[クレームベース認証のサポート](it-professional.md#claims-based-authentication-support) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[Office 365 のカスタマー キー](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |<sup>18</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[データ損失防止](it-professional.md#data-loss-prevention) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[暗号化](it-professional.md#encryption-at-rest) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|送信中の暗号化  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[ホストヘッダーサイトコレクション](it-professional.md#host-header-site-collections) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[Office 365 のモバイル デバイス管理](it-professional.md#mobile-device-management-for-office-365) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[OAuth](it-professional.md#oauth) <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |Yes<sup>7</sup> <br/> |あり  <br/> |はい  <br/> |
-|[パッチ管理](it-professional.md#patch-management) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |あり  <br/> |はい  <br/> |
-|[クォータテンプレート](it-professional.md#quota-templates) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[読み取り専用データベースのサポート](it-professional.md#read-only-database-support) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |あり  <br/> |はい  <br/> |
-|[リモート BLOB ストレージ](it-professional.md#remote-blob-storage) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |あり  <br/> |はい  <br/> |
-|[要求管理](it-professional.md#request-management) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |あり  <br/> |はい  <br/> |
-|[リソースの調整](it-professional.md#resource-throttling) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |あり  <br/> |はい  <br/> |
-|[サービスアプリケーションプラットフォーム](it-professional.md#service-application-platform) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint Health Analyzer](it-professional.md#sharepoint-health-analyzer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[SharePoint 管理センター (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>3</sup>なし <br/> |該当なし  <br/> |該当なし  <br/> |
-|SharePoint サーバーの全体管理センター  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |あり  <br/> |はい  <br/> |
-|[サイト コレクションのコンプライアンス ポリシー](it-professional.md#site-collection-compliance-policies) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[利用状況のレポートとログ](it-professional.md#usage-reporting-and-logging) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Windows PowerShell のサポート](it-professional.md#windows-powershell-support) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**コンテンツ機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[アクセシビリティ標準のサポート](content.md#accessibility-standards-support) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[アセットライブラリの機能強化/ビデオサポート](content.md#asset-library-enhancementsvideo-support) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[監査](content.md#auditing) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[監査&amp;レポート (ドキュメントの編集、ポリシーの編集、削除など)](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Catalog](content.md#catalog) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[カテゴリページとカタログアイテムページ](content.md#category-page-and-catalog-item-page) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[コンテンツ オーガナイザー](content.md#content-organizer) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[クロスサイト発行](content.md#cross-site-publishing) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[デザイン マネージャー](content.md#design-manager) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ドキュメントセット](content.md#document-sets) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word で web 用のドキュメントを翻訳する](content.md#document-translation-in-word-for-the-web) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[電子情報開示検索](content.md#ediscovery-search) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |はい (<sup>5</sup> ) <br/> |あり  <br/> |はい  <br/> |
-|[電子情報開示の保留](content.md#ediscovery-hold) <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい (<sup>5</sup> ) <br/> |<sup>5</sup>なし <br/> |はい (<sup>5</sup> ) <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |あり  <br/> |
-|[電子情報開示のエクスポート](content.md#ediscovery-export) <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |はい (<sup>5</sup> ) <br/> |<sup>5</sup>なし <br/> |はい (<sup>5</sup> ) <br/> |<sup>5</sup>なし <br/> |いいえ  <br/> |あり  <br/> |
-|[外部共有: 外部アクセス](content.md#external-sharing-external-access) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |エクストラネットに対して構成可能  <br/> |エクストラネットに対して構成可能  <br/> |
-|[外部共有: ゲストリンク](content.md#external-sharing-guest-link) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
-|[ファセットナビゲーション](content.md#faceted-navigation) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>5</sup> ) <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |
-|[フォルダーの同期](content.md#folder-sync) <br/> |あり <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |はい  <br/> |はい<sup>1</sup> <br/> |あり  <br/> |はい  <br/> |
-|ハイブリッド分類とコンテンツタイプ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |あり  <br/> |はい  <br/> |
-|[イメージ レンディション](content.md#image-renditions) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Information Rights Management (IRM)](content.md#information-rights-management-irm) <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |<sup>2</sup>なし <br/> |はい  <br/> |いいえ<sup>3、4</sup> <br/> |あり  <br/> |はい  <br/> |
-|[Managed Metadata Service](content.md#managed-metadata-service) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[メタデータ駆動型ナビゲーション](content.md#metadata-driven-navigation) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[複数段階の廃棄](content.md#multi-stage-disposition) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Web 用 Office (作成/編集)](content.md#office-for-the-web-createedit) <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい<sup>14</sup> <br/> |あり  <br/> |はい  <br/> |
-|[Web 用 Office (ビュー)](content.md#office-for-the-web-view) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office ProPlus  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Office Web Apps サーバーの統合](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |あり  <br/> |はい  <br/> |
-|[アイテム保管ライブラリ](content.md#preservation-hold-library) <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
-|[発行分析](content.md#publishing-analytics) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[クイック編集](content.md#quick-edit) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[レコードの管理](content.md#records-management) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ごみ箱 (SharePoint 管理センター)](content.md#recycle-bin-sharepoint-admin-center) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[ごみ箱 (サイト コレクション)](content.md#recycle-bin-site-collection) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[検索 web パーツ](content.md#search-web-parts) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[共有コンテンツタイプ](content.md#shared-content-types) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint translation services](content.md#sharepoint-translation-services) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[一意のドキュメント ID](content.md#unique-document-ids) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ビデオ検索](content.md#video-search) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[WCM: 検索エンジンの最適化 (SEO)](content.md#wcm-search-engine-optimization-seo) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Word Automation Services](content.md#word-automation-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**Insights 機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[ビジネス インテリジェンス センター](insights.md#business-intelligence-center) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[計算されるメジャーとメンバー](insights.md#calculated-measures-and-members) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[データ接続ライブラリ](insights.md#data-connection-library) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[分離ピボットテーブルおよびピボットグラフ](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[フィールドリストとフィールドのサポート](insights.md#field-list-and-field-support) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[フィルターの機能拡張](insights.md#filter-enhancements) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[フィルター検索](insights.md#filter-search) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[PerformancePoint Services](insights.md#performancepoint-services) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |
-|[Power BI Web パーツ](insights.md#power-bi-web-part) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|[SharePoint の Power View for Excel](insights.md#power-pivot-for-excel-in-sharepoint) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[SharePoint の Power Pivot for Excel](insights.md#power-view-for-excel-in-sharepoint) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[クイック調査](insights.md#quick-explore) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[SQL Server Reporting Services (SSRS) 統合モード](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[タイムラインスライサー](insights.md#timeline-slicer) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[Web 用 Visio](../visio-online-service-description/visio-online-service-description.md)<sup>16</sup> <br/> |あり  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
-|[Visio Services](insights.md#visio-services)<sup>16</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|**検索機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[継続的クロール](search.md#continuous-crawls) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ディープ リンク](search.md#deep-links) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[イベント ベースの関連性](search.md#event-based-relevancy) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[専門知識の検索](search.md#expertise-search) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[グラフィカルな絞り込み条件](search.md#graphical-refiners) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|強調表示されたコンテンツ (web パーツ)  <br/> |あり  <br/> |はい  <br/> |||はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[ハイブリッド検索](search.md#hybrid-search) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|インテリジェント検索 (Microsoft Graph)  <br/> |あり  <br/> |はい  <br/> |||はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[検索スキーマの管理](search.md#manage-search-schema) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|People カード  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[フリガナ マッチング](search.md#phonetic-name-matching) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[クエリ ルール  昇格対象結果の追加](search.md#query-rulesadd-promoted-results) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[クエリ ルール  高度なアクション](search.md#query-rulesadvanced-actions) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|[クエリのスペルの修正](search.md#query-spelling-correction) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[クエリ候補](search.md#query-suggestions) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ホバープレビュー](search.md#on-hover-preview) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ランク付けモデル](search.md#ranking-models) <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |あり  <br/> |はい  <br/> |
-|[絞り込み条件](search.md#refiners) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[REST 対応のクエリ API/クエリ OM](search.md#restful-query-apiquery-om) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[検索結果の並べ替え](search.md#search-results-sorting) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|検索 Web パーツ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |
-|["このリスト" 検索](search.md#this-list-searches) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**サイト機能** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|コミュニケーション サイト  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
-|[コミュニティ](social.md#community) <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |あり  <br/> |はい  <br/> |[はい]<sup>12</sup> <br/> |[はい]<sup>12</sup> <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[会社フィード](social.md#company-feed) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|[クロスブラウザのサポート](sites-servicedesc.md#cross-browser-support) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[カスタム管理パス](sites-servicedesc.md#custom-managed-paths) <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|ドキュメント ライブラリ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ガバナンス](sites-servicedesc.md#governance) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ハブ サイト  <br/> |<sup>19</sup> <br/> |<sup>19</sup> <br/> |<sup>19</sup> <br/> |<sup>19</sup> <br/> |<sup>19</sup> <br/> |<sup>19</sup> <br/> |<sup>19</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
-|ハイブリッドのアプリ起動ツール  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |あり  <br/> |はい  <br/> |
-|ハイブリッド OneDrive for Business とサイト  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |あり  <br/> |はい  <br/> |
-|[大規模なリストのスケーラビリティと管理](sites-servicedesc.md#large-list-scalability-and-management) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[モバイル接続](sites-servicedesc.md#mobile-connectivity) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |あり  <br/> |はい  <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |あり  <br/> |はい  <br/> |
-|[多言語ユーザーインターフェイス](sites-servicedesc.md#multilingual-user-interface) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |あり  <br/> |はい  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |あり  <br/> |はい  <br/> |
-|[OOTB web パーツ](sites-servicedesc.md#ootb-web-parts) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[アクセス許可の管理](sites-servicedesc.md#permissions-management) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[個人用ブログ](social.md#personal-blogs) <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |あり  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |はい<sup>11</sup> <br/> |あり  <br/> |はい  <br/> |
-|[プロジェクト サイト テンプレート](sites-servicedesc.md#project-site-template) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[SharePoint リスト](sites-servicedesc.md#sharepoint-lists) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|SharePoint リボン <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイトデザイン](sites-servicedesc.md#site-designs) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイトテーマ (外観を変更)](sites-servicedesc.md#site-themes-change-the-look) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[サイト閲覧状況ページ](sites-servicedesc.md#site-usage-page) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |
-|[タスク リスト](sites-servicedesc.md#task-list) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[チームノートブック](sites-servicedesc.md#team-notebook) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チーム サイト <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[バリエーション](sites-servicedesc.md#variations) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト (SharePoint ソーシャルを使用する従来のチームサイト)  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Wikis](social.md#wikis) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Yammer の統合  <br/> |あり  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |||
-|**アドオン** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online プラン 1** <br/> |**SharePoint Online プラン 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[追加記憶域](add-ons.md#additional-storage) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[Azure プロビジョニングアプリ: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |はい (<sup>13</sup> ) <br/> |いいえ  <br/> |いいえ  <br/> |
-|[Azure プロビジョニングアプリ: Azure ライトウェイト Web ロールのカスタムコード (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |
+カスタマイズオプションの概要については、「 [SharePoint のカスタマイズ](/sharepoint/extend-and-develop)」を参照してください。
 
-<sup>1 つ</sup>の firstline ワーカーには、OneDrive for business の機能が制限されています。 Firstline ワーカーは 2 GB のストレージを受け取ります。<br/> 
-<sup>2</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
-<sup>3</sup>最初の回線ワーカーが管理者になることができないため、firstline ワーカーを使用するテナントには、管理センターにアクセスするためのエンタープライズユーザーが少なくとも1人必要です。 <br/>
-<sup>4</sup> SharePoint Online のお客様は、ランク付けモデルを作成およびカスタマイズするために、無料のランク付けモデルチューニングアプリをダウンロードしてインストールする必要があります。 <br/> 
-<sup>5</sup>電子情報開示機能を使用する場合、その機能を許可するプランのライセンス要件は、電子情報開示の操作 (検索、保留、エクスポート) の一部であるすべてのエンドユーザーに適用されます。 <br/>
-<sup>6</sup> Authenticated SharePoint Online users can access private site collections with faceted navigation. <br/>
-<sup>7</sup> Some providers may be blocked in your country/region. <br/> 
-<sup>8</sup> Sharing a document, library, or site by email with someone outside of your organization. Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. 組織外のユーザーと共有しようとするユーザーは、同じ警告メッセージを受け取ります。 <br/>
-<sup>9</sup> You can view documents in any Mobile browser. ドキュメントの編集には、Office Mobile アプリをインストールする必要があります。 現在 Office Mobile は、Windows Phone とタブレット、Android Phone とタブレット、iPhone、iPad で使用できます。 <br/>
-<sup>10</sup> Help is available only in Simplified Chinese and English. <br/> 
-<sup>11</sup> Comments on blogs cannot be added. <br/> 
-<sup>12</sup> Organization community website is available, but public community-provided help is not available. <br/>
-<sup>13</sup> Access 2010 is not supported. <br/> 
-<sup>14</sup> Web 用 office の場合、F1 ユーザーは、コンテンツを作成するために Web 用 office (ライブタイル) にアクセスできる必要があります。 ただし、これらのユーザーには、コア商用モバイルアプリに関連する制限があります。 次のものが含まれています。 Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint、およびグループが含まれています。 Outlook、Word、Excel、PowerPoint、および OneNote には、次のものは含まれて**いません**。<br/> 
-<sup>15</sup>ユーザーコード (サンドボックス) を含む infopath フォームは Infopath リッチクライアントでのみ使用できます。 <br/>
-<sup>16</sup> Visio for the web 消費 (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。  <br/>
-<sup>17</sup> F1 ユーザーはハイブリッドセットアップで SharePoint Server にアクセスできますが、Office 365 F1 にはサーバーにアクセスするための CAL 権限は含まれていません。これらの権限は別途購入する必要があります。 <br/>
-<sup>18</sup>顧客キーは Office 365 Enterprise E5 で利用できます。 顧客キーを使用すると、組織の暗号化キーを制御し、Office 365 を構成して、Microsoft のデータセンターで保存されているデータを暗号化することができます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 カスタマー キーを使用すれば、Office 365 がデータの暗号化解除に使用する暗号化キーを制御できるので、法令遵守の義務を満たすことができます。 詳細については、「[顧客キーを使用して Office 365 でデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
-<sup>19</sup>間もなく公開されます。
+Microsoft Power Apps と Power オートメーションの可用性の詳細については、「[パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
+
+Microsoft Graph の可用性の詳細については、「 [Office 365 プラットフォームサービスの説明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)」を参照してください。
+
+## <a name="it-admin-features"></a>IT 管理者向けの機能
+
+特に明記されていない限り、以下の機能は、SharePoint を含むすべてのプランとすべての SharePoint スタンドアロンプランで利用できます。
+
+- [アプリの使用状況とエラーの監視](/sharepoint/monitor-apps)
+- [SharePoint](/office365/admin/activity-reports/sharepoint-activity)および[OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)のアクティビティと使用状況レポート
+- [サイトの URL を変更する](/sharepoint/change-site-address)
+- [OneDrive の既定の保存と保存の設定](/en-us/onedrive/set-default-storage-space)
+- [SharePoint Server のハイブリッド](/sharepoint/hybrid/hybrid)。 Firstline ワーカーは、SharePoint Server にアクセスするためにクライアントアクセスライセンス (CAL) を必要とします。
+- [サイト作成設定の管理](/sharepoint/manage-site-creation)
+- [サイト記憶域の制限の管理](/sharepoint/manage-site-collection-storage-limits)
+- [移行: SharePoint 移行ツール](/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [移行: 移行マネージャー](/sharepointmigration/mm-get-started)
+- [移行: SharePoint 移行評価ツール](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+- [移行: Mover.io](https://mover.io/)。 現在、北アメリカのお客様のみが利用できます。
+- [複数地域 (データ常駐)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 アドオンに、少なくと500の Office 365 ライセンスが必要です。 詳細については、Microsoft の担当者にお問い合わせください。
+- [プログラムによるサイトのプロビジョニング](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
+- [ルートサイトの置き換え](/sharepoint/modern-root-site)
+- [削除されたサイトを復元する](/sharepoint/restore-deleted-site-collection)
+- [SharePoint 管理センター](/sharepoint/get-started-new-admin-center)。 Firstline ワーカーを使用する組織には、管理センターにアクセスするためのエンタープライズユーザーが1人以上必要です。
+- [SharePoint モダン化スキャナー](/sharepoint/dev/transform/modernize-scanner)
+- [SharePoint Online 管理シェル](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)。 Firstline ワーカーを使用する組織には、管理センターにアクセスするためのエンタープライズユーザーが1人以上必要です。
+- [サイトガバナンス](/sharepoint/governance-overview) 
+- [用語ストアで管理されたメタデータ](/sharepoint/managed-metadata)
+
+FastTrack 移行サービスの可用性の詳細については、「 [Microsoft 365 の Fasttrack センターの特典](/fasttrack/m365-eligible-services-and-plans)」を参照してください。 
+
+共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。
+
+SharePoint の管理者向けヘルプについては、「 [Sharepoint Online admin](/sharepoint/sharepoint-online)」を参照してください。
+
+## <a name="security-and-compliance-features"></a>セキュリティとコンプライアンスの機能
+
+特に明記されていない限り、以下の機能は、SharePoint を含むすべてのプランとすべての SharePoint スタンドアロンプランで利用できます。
+
+- [アクセス制御: ネットワークの場所](/sharepoint/control-access-based-on-network-location)
+- [アクセス制御: 非管理対象デバイス](/sharepoint/control-access-from-unmanaged-devices)。 Azure AD Premium P1 が必要です。
+- [送信中および保存中の暗号化](/office365/securitycompliance/data-encryption-in-odb-and-spo)
+- [アイドルセッションサインアウト](/sharepoint/sign-out-inactive-users)
+- [情報管理ポリシー](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
+- [Information Rights Management (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 Azure Information Protection スタンドアロンまたはスイートの一部として必要です。 Azure Information Protection の一部の機能には、Office 365 ProPlus へのサブスクリプションが必要です。
+- [以前の時点の状態にドキュメントライブラリを復元する](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [ウイルススキャン](/office365/securitycompliance/virus-detection-in-spo)
+
+共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。
+
+SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプライアンス機能と統合されています。 次の機能を利用できるかどうかに関する情報は、「 [Security & コンプライアンスサービスの説明](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)」を参照してください。
+
+- [カスタマー ロックボックス](/microsoft-365/compliance/customer-lockbox-requests)
+- [データ損失防止 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
+- [電子情報開示](/microsoft-365/compliance/ediscovery-cases)(コンテンツ検索、保留、エクスポート)
+- [情報障壁](/microsoft-365/compliance/information-barriers)
+- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [保持ラベルおよびポリシー](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
+- [機密ラベル](/microsoft-365/compliance/sensitivity-labels)
+- [統合](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)された監査 (SharePoint ユーザーおよび管理者のアクティビティの監査)
+
+[Azure Information protection](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)の詳細については、「 [azure Information protection の要件](/azure/information-protection/requirements)」を参照してください。
+
+顧客キーを利用できるかどうかについては、「[顧客キーライセンス](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)の詳細」を参照してください。 
+
+
+
+## <a name="sites-and-content-features"></a>サイトとコンテンツの機能
+
+特に明記されていない限り、以下の機能は、SharePoint を含むすべてのプランとすべての SharePoint スタンドアロンプランで利用できます。
+
+- [アクセシビリティ](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [Microsoft Teams をサイトに追加](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーに Teams のライセンスを付与する必要があります。
+- [対象ユーザーの設定](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
+- [従来のチームサイトを新しい Office 365 グループに接続](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)します。 Office 365 を含むサブスクリプションが必要です。
+- [プランを作成します (Planner 統合)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 Office 365 を含むサブスクリプションが必要であり、ユーザーに Planner のライセンスを付与する必要があります。
+- [ドキュメント ライブラリ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
+- [ドキュメントセット](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
+- ファイルカード (アクティビティ、会話、ビューアー)
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [メガメニュー](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
+- [Microsoft Forms 統合](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 Office 365 を含むサブスクリプションが必要であり、ユーザーにフォームのライセンスを付与する必要があります。
+- [ニュース](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
+- Office デスクトップアプリの統合。 Office デスクトップアプリを含むサブスクリプションが必要です。
+- Web 統合のための Office。 Office 365 を含むサブスクリプションが必要です。
+- [組織のアセットライブラリ](/sharepoint/organization-assets-library)
+- [組織のニュース](/sharepoint/organization-news-site)
+- [ページの承認](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- レコード管理
+- [ごみ箱](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [SharePoint モバイルアプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
+- [SharePoint の開始ページ](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [サイトデザイン](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
+- [サイトの利用状況レポート](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
+- [サイト: クラシックサイト](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
+- [サイト: コミュニケーションサイト](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
+- [サイト: ホームサイト](/sharepoint/home-site)
+- [サイト: ハブサイト](/sharepoint/planning-hub-sites)
+- サイト: モダンチームサイト (Office 365 グループなし)
+- [サイト: Office 365 グループに接続されたチームサイト](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 Office 365 を含むサブスクリプションが必要です。
+- [サイト: ルートサイト](/sharepoint/modern-root-site)
+- [チーム OneNote ノートブック](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
+- [テーマ (外観を変更)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
+- [Web パーツ](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
+- [Microsoft Teams で SharePoint コンテンツを操作](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーに Teams のライセンスを付与する必要があります。
+
+Microsoft Power Apps と Power オートメーションの可用性の詳細については、「[パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
+
+共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。
+
+## <a name="search-features"></a>検索機能
+
+特に明記されていない限り、以下の機能は、SharePoint を含むすべてのプランとすべての SharePoint スタンドアロンプランで利用できます。
+
+- [ハイブリッド検索](/sharepoint/hybrid/hybrid-search-in-sharepoint)
+- [検索先を管理する (クラシックおよびモダン検索)](/sharepoint/manage-result-sources)
+- [Microsoft 検索の統合](/microsoftsearch/overview-microsoft-search)
+- [昇格した結果 (従来の検索)](/sharepoint/manage-query-rules)
+- [検索結果を削除する (クラシックおよびモダン検索)](/sharepoint/remove-search-results)
+- [検索センター (従来の検索)](/sharepoint/manage-search-center)
+- [検索スキーマ (クラシックおよびモダン検索)](/sharepoint/manage-search-schema)
+
+Delve の詳細については、「 [Office 365 プラットフォームサービスの説明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)」を参照してください。 
+
+

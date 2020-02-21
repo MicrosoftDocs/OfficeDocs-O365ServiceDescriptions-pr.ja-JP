@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216546"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172259"
 ---
 ---
 
@@ -52,9 +52,9 @@ Microsoft 365 Government は、以下の4つの主要な分野において米国
 |||
 |:----------|:----------------------------------|:---------|
 |**製品** <br/> |**対する** <br/> |
-|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |あり  <br/> |
-|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |あり  <br/> |
-|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |あり  <br/> |
+|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |はい  <br/> |
+|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |はい  <br/> |
+|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |はい  <br/> |
 
 Microsoft セキュリティおよびコンプライアンス認定の詳細については、 [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx)にアクセスしてください。  
 
@@ -110,7 +110,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-| <br/> |**GCC** <br/> | <br/> |**GCC 高** <br/> |**DoD** <br/> |
+| <br/> |**GCC** <br/> | <br/> |**GCC High** <br/> |**DoD** <br/> |
 |**番** <br/> |Gov 用の政府機関向け、GOVCON (商用)||GCC-High|DOD| 
 |**チャネル**   <br/> |EA (LSP)、AOS-G、MPSA、Web Direct、CSP <br/> |  |EA (LSP)、AOS-G     <br/> |EA <br/> |
 
@@ -128,6 +128,7 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 - 工場
 - ヒューレットパッカード
 - 理解
+- Minburn テクノロジグループ
 - PCM (または、En Pointe テクノロジも所有している)
 - SHI
 - ソフトウェア1
