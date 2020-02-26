@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: The Office 365 Security &amp; Compliance Center is designed to help you manage compliance features across Office 365 for your organization. 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931923"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279810"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
@@ -64,7 +64,7 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 <sup>9</sup> DLP アドオンは、Exchange または SharePoint/OneDrive のいずれかがある SKU に追加できます。<br/>
 <sup>10 個</sup>の機密ラベルも Azure Information Protection P1 と P2 に含まれています。<br/>
 <sup>11</sup> Exchange Online プラン2ライセンスは、アイテム保持ポリシーを使用してユーザーメールボックスのコンテンツを保持するために必要です。<br/>
-<sup>12</sup> Advanced audit では、Azure Active Directory、Exchange、および SharePoint のアクティビティの監査ログの1年間の保持が提供され、他の Office 365 サービスの監査ログの保持を管理するためのカスタム監査ログ保持ポリシーを作成する機能が提供されます。 また、高価値イベントの監査と、Office 365 Management Activity API への高帯域幅アクセスも提供します。
+<sup>12</sup> Advanced audit では、Azure Active Directory、Exchange、および SharePoint のアクティビティの監査ログの1年間の保持が提供され、他の Office 365 サービスの監査ログの保持を管理するためのカスタム監査ログ保持ポリシーを作成する機能が提供されます。 また、調査のための重要なイベントへのアクセス、および Office 365 Management Activity API への高帯域幅アクセスを提供します。
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -84,8 +84,8 @@ The [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[高度な情報ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/>| はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |はい  <br/> |
 |[電子情報開示のケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |いいえ  <br/> |
-|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ <br/> |はい (<sup>10</sup> ) <br/>|<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
-|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ <br/> |はい (<sup>10</sup> ) <br/>|<sup>4</sup>なし <br/> |<sup>4</sup>なし <br/> |
+|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ <br/> |はい (<sup>10</sup> ) <br/>|いいえ<sup>4</sup> <br/> |いいえ<sup>4</sup> <br/> |
+|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |はい  <br/> |いいえ <br/> |はい (<sup>10</sup> ) <br/>|いいえ<sup>4</sup> <br/> |いいえ<sup>4</sup> <br/> |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |[Exchange Online の制限](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい (<sup>10</sup> ) <br/>|はい (<sup>10</sup> ) <br/> |いいえ  <br/> |いいえ  <br/> |
 |[ユニファイド監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい (<sup>10</sup> ) <br/>|はい (<sup>10</sup> ) <br/> |いいえ  <br/> |いいえ  <br/> |
