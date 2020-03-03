@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279860"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374164"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -189,9 +189,9 @@ ADG を使用すると、ユーザーは特定のデータにラベルを適用�
 
 ADG アイテム保持ポリシーは、自動分類を使用して、特定の場所 (チームサイト、グループサイトなど) のライセンスを持つユーザーに適用できます。 ADG アイテム保持ポリシーの適用手順については、「[組織全体または特定の場所にアイテム保持ポリシーを適用する](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)」を参照してください。
 
-## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
+## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-Office 365 Advanced eDiscovery は、企業内の IT および法務部門向けの調査および電子情報開示ソリューションを提供して、調査または訴訟に関連するコンテンツを特定、収集、保存、削減、およびレビューしてからエクスポートする前にOffice 365 システム
+Advanced eDiscovery は、企業内の IT および法務部門向けの調査および電子情報開示ソリューションを提供して、Office 365 からエクスポートする前に調査または訴訟に関連するコンテンツを特定、収集、保存、削減、レビューします。bios.
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -323,7 +323,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
 
 | シナリオ                                                                                                                                                                                                              | ライセンスを必要とするのはだれですか? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -440,4 +440,4 @@ Microsoft 365 サービスのユーザーアクティビティに関連する監
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-監査ログの1年間の保持、および高価値イベントの監査は、適切なライセンスを持つユーザーにのみ適用されます。 さらに、管理者は監査ログ保持ポリシーを使用して、特定のユーザーの監査ログの保存期間を短くすることができます。
+監査ログの1年間の保持、および重要なイベントの監査は、適切なライセンスを持つユーザーにのみ適用されます。 さらに、管理者は監査ログ保持ポリシーを使用して、特定のユーザーの監査ログの保存期間を短くすることができます。

@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279840"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374194"
 ---
-# <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
+# <a name="office-365-operated-by-21vianet"></a>21 Vianet が運用している Office 365
 
 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
 
@@ -42,21 +42,22 @@ Microsoft は、サービス自体を運用していません。 21Vianet は、
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**サービス**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |Office 365 プラットフォーム<sup>1</sup>|はい|はい|はい|はい|はい|はい|はい|
-|Exchange Online|はい|いいえ|あり|はい|はい|はい|はい|
-|SharePoint Online|はい|いいえ|あり|はい|はい|はい|はい|
+|Exchange Online|必要|いいえ|○|はい|はい|はい|はい|
+|SharePoint Online|必要|いいえ|○|はい|はい|はい|はい|
 |OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|
-|Skype for Business Online|はい|いいえ|あり|はい|はい|はい|はい|
+|Skype for Business Online|必要|いいえ|○|はい|はい|はい|はい|
 |Web 用 Office|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 ProPlus|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Project Online<sup>2</sup>|はい|はい|はい|はい|はい|はい|はい|
 |Power BI|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Web 用 Visio<sup>3</sup>|はい|はい|はい|はい|はい|はい|はい|
 |Yammer エンタープライズ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Azure Information Protection|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|Azure Information Protection|いいえ|いいえ|いいえ|いいえ|いいえ|はい<sup>4</sup>|いいえ|
 
 <sup>1</sup> Office 365 管理、Office 365 スイート アプリ、ユーザー アカウント管理、ドメイン、サービス正常性と継続性、レポート作成、サービスの更新、ヘルプとトレーニング、ネットワーキングなどの機能が含まれます。 詳しくは、 [プラットフォーム機能](office-365-operated-by-21vianet.md#platform-features)表をご覧ください。
 <br/><sup>2</sup> Project Online は含まれていませんが、個別のアドオン サービスとして購入するか、Office 365 A1 プランに無料で追加することができます。
 <br/><sup>3</sup> web 用の Visio (表示機能) は無料で利用できます。 Web の作成および編集機能を使用するには、ライセンスが必要です。 Web 用の Visio の詳細については、「 [web サービスの説明](../visio-online-service-description/visio-online-service-description.md)」を参照してください。
+<br/><sup>4</sup> 21vianet が運用している Office 365 では、Azure Information PROTECTION (AIP) が部分的にサポートされています。 詳細については、「 [21vianet が運用する Office 365 の Azure Information Protection の間のパリティ](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet)」を参照してください。
 
 ## <a name="system-requirements"></a>システム要件
 
@@ -93,8 +94,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft Sway<sup>8</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Teams|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Office Delve|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Office 365 グループ|はい|いいえ|あり|はい|はい|はい|はい|
-|Office 365 ビデオ|いいえ|いいえ|いいえ|あり|はい|はい|はい<sup>2</sup>|
+|Office 365 グループ|必要|いいえ|○|はい|はい|はい|はい|
+|Office 365 ビデオ|いいえ|いいえ|いいえ|○|はい|はい|はい<sup>2</sup>|
 |OneNote Class Notebook|いいえ|いいえ|いいえ|はい<sup>(15)<sup>|いいえ|いいえ|いいえ|
 |**[ユーザーアカウント mManagement](user-account-management.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |クラウド id、フェデレーション id、または多要素認証<sup>14</sup>|はい|はい|はい|はい|はい|はい|はい|
@@ -113,7 +114,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |fourthcoffee.com などのカスタム第 2 レベル ドメインの追加|はい|はい|はい|はい|はい|はい|はい|
 |marketing.fourthcoffee.com などのカスタム第 3 レベル ドメインの追加|はい|はい|はい|はい|はい|はい|はい|
 |最大 900 のカスタム ドメインの追加|はい|はい|はい|はい|はい|はい|はい|
-|Office 365 によって管理された DNS レコード (完全な再委託)|はい|はい|はい|はい|いいえ|あり|はい|
+|Office 365 によって管理された DNS レコード (完全な再委託)|はい|はい|はい|はい|いいえ|○|はい|
 |DNS ホスティング プロバイダーで管理される DNS レコード (部分的な再委託)|はい|はい|はい|はい|はい|はい|はい|
 |メール アドレスと Skype for Business Online 用に **name.partner.onmschina.cn** ドメインまたはカスタム ドメイン名を使用する|はい|はい|はい|はい|はい|はい|はい|
 |SharePoint Online パブリック Web サイト用に **name-public.sharepoint.cn** またはカスタム ドメイン名を使用する <sup>5、11</sup>|はい|はい|はい|はい|はい|はい|はい|
@@ -128,7 +129,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態|はい|はい|はい|はい|はい|はい|はい|
 |[ **サービスの正常性**] RSS フィード|はい|はい|はい|はい|はい|はい|はい|
-|**[レポート](reports.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
+|**[レポート](reports.md)**|**Office 365 Business Essentials 21Vianet が運用している**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |アクティブおよび非アクティブ メールボックス|はい|はい|はい|はい|はい|はい|はい|
 |新規メールボックスおよび削除済みメールボックス|はい|はい|はい|はい|はい|はい|はい|
 |新規および削除済みグループ|はい|はい|はい|はい|はい|はい|はい|
@@ -163,7 +164,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |コミュニティ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |その他のセルフヘルプ リソース<sup>12</sup>|はい|はい|はい|はい|はい|はい|はい|
 |自己学習トレーニング|はい|はい|はい|はい|はい|はい|はい|
-|**[ネットワーク](networking.md)**|**Office 365 Business Essentials 21Vianet が運用している**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
+|**[ネットワーク](networking.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |IPv4 プロトコル|はい|はい|はい|はい|はい|はい|はい|
 |IPv6 プロトコル|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**信頼**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
@@ -221,54 +222,54 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**21Vianet が運用している Office Professional Plus 2013**|**21Vianet が運用している Office Professional Plus 2016**|**Office 365 ProPlus 21Vianet が運用している**|**Office 365 Business 21Vianet が運用している**|**Office 365 Business Essentials 21Vianet が運用している**|**Office 365 Business Premium 21Vianet が運用している**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |**Office アプリケーション**|||||||||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|はい|はい|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|はい|はい|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|はい|はい|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|はい|はい|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|はい|はい|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|はい|はい|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|はい|はい|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|はい|はい|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|はい|はい|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|はい|はい|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|はい|はい|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|はい|はい|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|はい|はい|はい|はい (<sup>9</sup> )|いいえ|はい (<sup>9</sup> )|<sup>5</sup>なし|いいえ|はい|いいえ|
 |Microsoft Visio Pro<sup>10</sup>|はい|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|はい|はい|はい|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい|はい<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|<sup>5</sup>なし|いいえ|いいえ|いいえ|
-|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps)|はい|はい|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|[Windows 10 アプリ](../office-applications-service-description/office-applications.md#windows-10-apps)|はい|はい|はい|はい|はい|はい|はい|はい|必要|いいえ|
 |[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|いいえ|はい|不要|いいえ|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
 |[IPad/iPhone 用 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|はい|はい|はい|はい|はい|はい|はい<sup>5</sup>|はい|はい|はい|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|はい|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |[Android 用 Office Mobile]<sup>15</sup>(../office-applications-service-description/office-applications.md # office-mobile-for android)|はい|はい|はい|はい|はい|はい|はい<sup>5</sup>|はい|はい|はい|
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|いいえ|はい|不要|いいえ|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|いいえ|はい|不要|いいえ|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
-|Outlook for Android|いいえ|あり|はい|はい|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
+|Outlook for Android|いいえ|○|はい|必要|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
 |**企業にとっての利点**|**21Vianet が運用している Office Professional Plus 2013**|**21Vianet が運用している Office Professional Plus 2016**|**Office 365 ProPlus 21Vianet が運用している**|**Office 365 Business 21Vianet が運用している**|**Office 365 Business Essentials 21Vianet が運用している**|**Office 365 Business Premium 21Vianet が運用している**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |PC または Mac 上のユーザーごとに 5 個のインストール|いいえ|はい|はい<sup>6</sup>|はい<sup>6</sup>|いいえ|はい|<sup>5</sup>なし|いいえ|はい|いいえ|
 |自動化されたユーザー アカウント プロビジョニング|該当なし|はい|はい|はい|はい|はい|はい|はい|はい|はい|
-|多言語ユーザー インターフェイス|はい|はい|はい|不要|いいえ|はい|不要|いいえ|はい|いいえ|
-|クライアント プッシュ展開|はい|はい|はい|はい|はい|はい|不要|いいえ|はい|いいえ|
-|社内 Exchange のクライアント サポート|はい|はい|はい|はい|いいえ|はい|不要|いいえ|はい|いいえ|
-|社内 SharePoint のクライアント サポート|はい|はい|はい|はい|いいえ|はい|不要|いいえ|はい|いいえ|
-|ソフトウェア更新の制御|はい|はい|はい|はい|いいえ|はい|不要|いいえ|はい|いいえ|
-|データベース比較|はい|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|多言語ユーザー インターフェイス|はい|はい|必要|不要|いいえ|はい|不要|いいえ|はい|いいえ|
+|クライアント プッシュ展開|はい|はい|はい|はい|はい|必要|不要|いいえ|はい|いいえ|
+|社内 Exchange のクライアント サポート|はい|はい|はい|必要|いいえ|はい|不要|いいえ|はい|いいえ|
+|社内 SharePoint のクライアント サポート|はい|はい|はい|必要|いいえ|はい|不要|いいえ|はい|いいえ|
+|ソフトウェア更新の制御|はい|はい|はい|必要|いいえ|はい|不要|いいえ|はい|いいえ|
+|データベース比較|はい|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |デスクトップの仮想化|はい|はい|はい<sup>7</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|Excel スプレッドシート比較|はい|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|Excel スプレッドシート検査|はい|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|Excel スプレッドシート比較|はい|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|Excel スプレッドシート検査|はい|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Exchange Online と SharePoint Online のアーカイブとコンプライアンス|はい<sup>1</sup>|はい|はい<sup>1</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|グループ ポリシーのサポート|はい|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|グループ ポリシーのサポート|はい|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Azure Information Protection <sup>11</sup> を使用した Information Rights Management (IRM)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Windows Server AD RMS を使用した Information Rights Management (IRM)<sup>2</sup>|はい|はい|はい|はい|はい|はい|はい|はい|はい|はい|
-|Office アドイン、ActiveX、および BHO のサポート|はい|はい|はい|不要|いいえ|はい|不要|いいえ|はい|いいえ|
+|Office アドイン、ActiveX、および BHO のサポート|はい|はい|必要|不要|いいえ|はい|不要|いいえ|はい|いいえ|
 |OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス|いいえ|はい|不要|いいえ|いいえ|はい|不要|いいえ|はい|いいえ|
 |Office Lens|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Office テレメトリ|はい|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|クライアント アプリケーションのオフライン サポート|はい|はい|はい|はい|はい|はい|不要|いいえ|はい|いいえ|
-|最適化されたサイド バイ サイド クライアント インストール|いいえ|あり|はい|はい|はい|はい|不要|いいえ|はい|いいえ|
+|Office テレメトリ|はい|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|クライアント アプリケーションのオフライン サポート|はい|はい|はい|はい|はい|必要|不要|いいえ|はい|いいえ|
+|最適化されたサイド バイ サイド クライアント インストール|いいえ|○|はい|はい|はい|必要|不要|いいえ|はい|いいえ|
 |Power Map for Excel|<sup>3</sup>なし|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Power Pivot for Excel|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Power Query for Excel|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Power View for Excel|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|ローミング設定|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|ローミング設定|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |共有コンピューターのライセンス認証|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|クラウドベース ファイル ストレージのブロックのサポート|はい|はい|はい|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|バージョン アップグレード|いいえ|あり|はい|はい|いいえ|はい|不要|いいえ|はい|いいえ|
+|クラウドベース ファイル ストレージのブロックのサポート|はい|はい|必要|不要|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|バージョン アップグレード|いいえ|○|はい|必要|いいえ|はい|不要|いいえ|はい|いいえ|
 |Volume activation (KMS/MAK)|はい|はい|<sup>8</sup>なし|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ  <br/>
 
 <sup>1</sup> アーカイブ機能とコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online プランと SharePoint Online プランは含まれていないため、これらのプランを個別に購入するか、またはサポートされているオンプレミスのサーバーの同等の機能と共に使用する必要があります。
@@ -298,7 +299,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション**|**21Vianet が運用している web 用 Office**|**詳細な機能比較へのリンク**|
+|ユーザー要求を処理するサービス アプリケーション、サービス、コンポーネントは、フロントエンド Web サーバーに属します。これらのサーバーは、待ち時間が短くなるように最適化されています。|**21Vianet が運用している web 用 Office**|**詳細な機能比較へのリンク**|
 |Word|21Vianet が運用している web 用の Word|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|21Vianet が運用している web 用の Excel|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|21Vianet が運用している web 用の OneNote|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -333,7 +334,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office 365 Message Encryption|いいえ|いいえ|いいえ|はい (<sup>15</sup> )|いいえ|はい (<sup>15</sup> )|いいえ|
 |S/MIME|はい|はい|はい|はい|はい|はい|はい||
 |インプレース保持と訴訟ホールド|いいえ|--|いいえ|はい|いいえ|はい|いいえ|
-|インプレース電子情報開示 (eDiscovery)|はい<sup>7</sup>|はい<sup>7</sup>|はい<sup>7</sup>|はい|はい<sup>7</sup>|はい<sup>7</sup>|はい|
+|インプレース電子情報開示 (eDiscovery)|はい<sup>7</sup>|はい<sup>7</sup>|はい<sup>7</sup>|必要|はい<sup>7</sup>|はい<sup>7</sup>|必要|
 |メール フロー ルール (トランスポート ルール)|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|
 |データ損失防止|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |ジャーナル|はい|はい|はい|はい|はい|はい|はい|
@@ -356,14 +357,14 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |クラッター機能|はい|はい|はい|はい|はい|はい|はい|
 |メール ヒント|はい|はい|はい|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|
 |代理人アクセス|はい|はい|はい|はい|はい|はい|いいえ|
-|受信トレイのルール|はい|はい|はい|はい|はい|はい|いいえ|
+|受信トレイのルール|はい|はい|はい|はい|はい|必要|いいえ|
 |接続されているアカウント|はい|はい|はい|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|
 |非アクティブなメールボックス|<sup>6</sup>なし|--|<sup>6</sup>なし|はい|<sup>6</sup>なし|はい|いいえ <sup>6</sup>|
 |オフライン アドレス帳|はい|はい|はい|はい|はい|はい|はい|
 |アドレス帳ポリシー|はい|はい|はい|はい|はい|はい|はい|
-|階層型アドレス帳|はい|--|はい|はい|はい|はい|いいえ|
+|階層型アドレス帳|はい|--|はい|はい|はい|必要|いいえ|
 |アドレス一覧とグローバルアドレス一覧|はい|はい|はい|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|はい<sup>14</sup>|
-|Office 365 グループ|はい|いいえ|あり|はい|はい|はい|はい|
+|Office 365 グループ|必要|いいえ|○|はい|はい|はい|はい|
 |配布グループ|はい|はい|はい|はい|はい|はい|はい|
 |外部連絡先 （グローバル）|はい|はい|はい|はい|はい|はい|はい|
 |ユニバーサル連絡先カード|はい|はい|はい|はい|はい|はい|はい|
@@ -374,7 +375,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |予定表の共有|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|
 |**[レポート機能とトラブルシューティング ツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |Microsoft 365 管理センターのレポート|はい|はい|はい|はい|はい|はい|はい|
-|Excel レポート作成ブック|いいえ|はい|不要|いいえ|あり|はい|はい|
+|Excel レポート作成ブック|いいえ|はい|不要|いいえ|○|はい|はい|
 |Web サービスレポート|はい|はい|はい|はい|はい|はい|はい|
 |Message trace|はい|はい|はい|はい|はい|はい|はい|
 |監査レポート|はい|はい|はい|はい|はい|はい|はい <sup>2</sup>|
@@ -591,23 +592,23 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Client-side rendering (CSR)|はい|はい|はい|はい|はい|はい|はい|
 |カスタム サイト定義|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |カスタムサイトプロビジョニングページ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|開発者向けサイト|はい|いいえ|あり|はい|はい|はい|はい|
-|フォームベースのアプリケーション|はい|いいえ|あり|はい|はい|はい|はい|
+|開発者向けサイト|必要|いいえ|○|はい|はい|はい|はい|
+|フォームベースのアプリケーション|必要|いいえ|○|はい|はい|はい|はい|
 |完全信頼ソリューション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |InfoPath Forms Services|いいえ|いいえ|いいえ|いいえ|いいえ|<sup>14</sup>|いいえ|
 |JavaScript Object Model|はい|はい|はい|はい|はい|はい|はい|
 |List and Library APIs|はい|はい|はい|はい|はい|はい|はい|
-|リモート イベント レシーバー|はい|いいえ|あり|はい|はい|はい|はい|
+|リモート イベント レシーバー|必要|いいえ|○|はい|はい|はい|はい|
 |REST API|はい|はい|はい|はい|はい|はい|はい|
-|SharePoint Design Manager|はい|いいえ|あり|はい|はい|はい|はい|
-|SharePoint Designer 2013|はい|いいえ|あり|はい|はい|はい|はい|
+|SharePoint Design Manager|必要|いいえ|○|はい|はい|はい|はい|
+|SharePoint Designer 2013|必要|いいえ|○|はい|はい|はい|はい|
 |SharePoint Store|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |SharePoint 2010 ワークフロー (.NET 3.5)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |SharePoint 2010 ワークフロー (標準)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|SharePoint 2013 および SharePoint 2016 のワークフロー|はい|いいえ|はい|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい|
-|Workload API: ECM APIs|はい|いいえ|あり|はい|はい|はい|はい|
-|Workload API: Search APIs|はい|いいえ|あり|はい|はい|はい|はい|
-|Workload API: Social APIs|はい|いいえ|あり|はい|はい|はい|はい|
+|SharePoint 2013 および SharePoint 2016 のワークフロー|必要|いいえ|はい|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい|
+|Workload API: ECM APIs|必要|いいえ|○|はい|はい|はい|はい|
+|Workload API: Search APIs|必要|いいえ|○|はい|はい|はい|はい|
+|Workload API: Social APIs|必要|いいえ|○|はい|はい|はい|はい|
 |**IT プロフェッショナル向けの機能**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |Active Directory の同期|はい|はい|はい|はい|はい|はい|はい|
 |代替アクセスマッピング (AAM)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -632,7 +633,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |要求管理|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Request throttling|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Resource throttling|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|サービスアプリケーションプラットフォーム|はい|いいえ|あり|はい|はい|はい|はい|
+|サービスアプリケーションプラットフォーム|必要|いいえ|○|はい|はい|はい|はい|
 |SharePoint Health Analyzer|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |SharePoint 管理センター (Office 365)|はい|はい|はい|はい|はい|はい|いいえ<sup>4</sup>|
 |Shredded Storage|はい|はい|はい|はい|はい|はい|はい|
@@ -650,8 +651,8 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |アセットライブラリの機能強化/ビデオサポート|はい|はい|はい|はい|はい|はい|はい|
 |監査|はい|はい|はい|はい|はい|はい|はい|
 |監査&amp;レポート (ドキュメントの編集、ポリシーの編集、削除など)|はい|はい|はい|はい|はい|はい|はい|
-|Content Organizer|はい|いいえ|あり|はい|はい|はい|はい|
-|Design Manager|はい|いいえ|あり|はい|はい|はい|はい|
+|Content Organizer|必要|いいえ|○|はい|はい|はい|はい|
+|Design Manager|必要|いいえ|○|はい|はい|はい|はい|
 |ドキュメントセット|はい|はい|はい|はい|はい|はい|はい|
 |Word で web 用のドキュメントを翻訳する|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |電子情報開示検索|はい<sup>6</sup>|はい|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|
@@ -665,8 +666,8 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |ハイブリッド分類とコンテンツタイプ|はい|はい|はい|はい|はい|はい|はい (<sup>15</sup> )|
 |Information Rights Management (IRM)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ<sup>4</sup>|
 |Information Rights Management (IRM)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|管理されたメタデータ サービス|はい|いいえ|あり|はい|はい|はい|はい|
-|メタデータ駆動型ナビゲーション|はい|いいえ|あり|はい|はい|はい|はい|
+|管理されたメタデータ サービス|必要|いいえ|○|はい|はい|はい|はい|
+|メタデータ駆動型ナビゲーション|必要|いいえ|○|はい|はい|はい|はい|
 |複数段階の廃棄|はい|はい|はい|はい|はい|はい|はい|
 |Web 用 Office (作成/編集)|はい|はい|はい|はい|はい|はい|はい<sup>8</sup>|
 |Web 用 Office (ビュー)|はい|はい|はい|はい|はい|はい|はい|
@@ -675,29 +676,29 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |PowerPoint Automation Services|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Preservation hold library|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |Quick Edit|はい|はい|はい|はい|はい|はい|いいえ|
-|Records management|はい|いいえ|あり|はい|はい|はい|はい|
+|Records management|必要|いいえ|○|はい|はい|はい|はい|
 |Recycle Bin (SharePoint admin center)|はい|はい|はい|はい|はい|はい|いいえ|
 |Recycle Bin (site collection)|はい|はい|はい|はい|はい|はい|いいえ|
-|関連アイテム|はい|いいえ|あり|はい|はい|はい|はい|
-|リッチメディア管理|はい|いいえ|あり|はい|はい|はい|はい|
+|関連アイテム|必要|いいえ|○|はい|はい|はい|はい|
+|リッチメディア管理|必要|いいえ|○|はい|はい|はい|はい|
 |共有コンテンツタイプ|はい|はい|はい|はい|はい|はい|はい|
 |SharePoint translation services|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |アンケート調査|はい|はい|はい|はい|はい|はい|はい|
 |一意のドキュメント Id|はい|はい|はい|はい|はい|はい|はい|
 |ビデオ検索|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|発行分析|はい|いいえ|あり|はい|いいえ|はい|いいえ|
+|発行分析|必要|いいえ|○|はい|いいえ|はい|いいえ|
 |Catalog|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |カテゴリページとカタログアイテムページ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |検索 web パーツ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |クロスサイト発行|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|WCM: デザイナーツール|はい|いいえ|あり|はい|はい|はい|はい|
+|WCM: デザイナーツール|必要|いいえ|○|はい|はい|はい|はい|
 |ファセットナビゲーション|いいえ|いいえ|いいえ|いいえ|いいえ|<sup>7</sup>なし|いいえ|
-|画像表示|はい|いいえ|あり|はい|不要|いいえ|いいえ|
-|WCM: Managed navigation|はい|いいえ|あり|はい|はい|はい|はい|
-|WCM: モバイルとデバイスのレンダリング|はい|いいえ|あり|はい|はい|はい|はい|
+|画像表示|必要|いいえ|○|はい|不要|いいえ|いいえ|
+|WCM: Managed navigation|必要|いいえ|○|はい|はい|はい|はい|
+|WCM: モバイルとデバイスのレンダリング|必要|いいえ|○|はい|はい|はい|はい|
 |WCM: 複数のドメイン|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|WCM: Recommendations|はい|いいえ|あり|はい|はい|はい|はい|
-|WCM: 検索エンジンの最適化 (SEO)|はい|いいえ|あり|はい|はい|はい|はい|
+|WCM: Recommendations|必要|いいえ|○|はい|はい|はい|はい|
+|WCM: 検索エンジンの最適化 (SEO)|必要|いいえ|○|はい|はい|はい|はい|
 |Word Automation Services|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**Insights 機能**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |Business Intelligence Center|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -721,7 +722,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Visio for web<sup>14、15</sup>|はい|はい|はい|はい|はい|はい|はい|
 |Visio Services<sup>14</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**検索機能**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
-|高度なコンテンツの処理|はい|いいえ|あり|はい|はい|はい|はい|
+|高度なコンテンツの処理|必要|いいえ|○|はい|はい|はい|はい|
 |Continuous crawls|はい|はい|はい|はい|はい|はい|はい|
 |Custom entity extraction|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Deep links|はい|はい|はい|はい|はい|はい|はい|
@@ -730,14 +731,14 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Extensible content processing|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Graphical refiners|はい|はい|はい|はい|はい|はい|はい|
 |Hybrid search|はい|はい|はい|はい|はい|はい|はい|
-|Manage search schema|はい|いいえ|あり|はい|はい|はい|はい|
+|Manage search schema|必要|いいえ|○|はい|はい|はい|はい|
 |On-premises search index|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Phonetic name matching|はい|はい|はい|はい|はい|はい|はい|
-|クエリ ルール — 昇格対象結果の追加|はい|いいえ|あり|はい|はい|はい|はい|
+|クエリ ルール — 昇格対象結果の追加|必要|いいえ|○|はい|はい|はい|はい|
 |Query rules—advanced actions|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
-|Query spelling correction|はい|いいえ|あり|はい|はい|はい|はい|
-|Query suggestions|はい|いいえ|あり|はい|はい|はい|はい|
-|Query throttling|はい|いいえ|あり|はい|はい|はい|はい|
+|Query spelling correction|必要|いいえ|○|はい|はい|はい|はい|
+|Query suggestions|必要|いいえ|○|はい|はい|はい|はい|
+|Query throttling|必要|いいえ|○|はい|はい|はい|はい|
 |ホバープレビュー|はい|はい|はい|はい|はい|はい|はい|
 |Ranking models|<sup>5</sup>なし|いいえ|いいえ|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|
 |Refiners|はい|はい|はい|はい|はい|はい|はい|
@@ -750,7 +751,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Search vertical: “Video”|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |"このリスト" 検索|はい|はい|はい|はい|はい|はい|はい|
 |**サイト機能**|**Office 365 Business Essentials 21Vianet が運用している**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
-|Change the look|はい|いいえ|あり|はい|はい|はい|はい|
+|Change the look|必要|いいえ|○|はい|はい|はい|はい|
 |Microsoft Office クライアントへの接続|はい|はい|はい|はい|はい|はい|はい|
 |クロスブラウザのサポート|はい|はい|はい|はい|はい|はい|はい|
 |カスタム管理パス|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -760,25 +761,25 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |大規模なリストのスケーラビリティと管理|はい|はい|はい|はい|はい|はい|はい|
 |モバイル接続|いいえ|Yes<sup>13</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|はい<sup>12</sup>|
 |多言語ユーザー インターフェイス|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|はい<sup>13</sup>|
-|My Tasks|はい|いいえ|あり|はい|はい|はい|はい|
-|OOTB web パーツ|はい|いいえ|あり|はい|はい|はい|はい|
+|My Tasks|必要|いいえ|○|はい|はい|はい|はい|
+|OOTB web パーツ|必要|いいえ|○|はい|はい|はい|はい|
 |アクセス許可の管理|はい|はい|はい|はい|はい|はい|はい|
-|Project functionality for team sites|はい|いいえ|あり|はい|はい|はい|はい|
-|Project site template|はい|いいえ|あり|はい|はい|はい|はい|
-|Project Summary web part|はい|いいえ|あり|はい|はい|はい|はい|
-|Project workspace|はい|いいえ|あり|はい|はい|はい|はい|
-|SharePoint リスト|はい|いいえ|あり|はい|はい|はい|はい|
-|SharePoint リボン|はい|いいえ|あり|はい|はい|はい|はい|
-|ドキュメント ライブラリ|はい|いいえ|あり|はい|はい|はい|はい|
-|Task list|はい|いいえ|あり|はい|はい|はい|はい|
-|チームサイト: ドラッグ & ドロップ|はい|いいえ|あり|はい|はい|はい|はい|
-|チームノートブック|はい|いいえ|あり|はい|はい|はい|はい|
-|チームサイト: 簡略化されたアクセス|はい|いいえ|あり|はい|はい|はい|はい|
-|サイトデザイン|はい|いいえ|あり|はい|はい|はい|はい|
-|サイトテーマ (外観を変更)|はい|いいえ|あり|はい|はい|はい|はい|
+|Project functionality for team sites|必要|いいえ|○|はい|はい|はい|はい|
+|Project site template|必要|いいえ|○|はい|はい|はい|はい|
+|Project Summary web part|必要|いいえ|○|はい|はい|はい|はい|
+|Project workspace|必要|いいえ|○|はい|はい|はい|はい|
+|SharePoint リスト|必要|いいえ|○|はい|はい|はい|はい|
+|SharePoint リボン|必要|いいえ|○|はい|はい|はい|はい|
+|ドキュメント ライブラリ|必要|いいえ|○|はい|はい|はい|はい|
+|Task list|必要|いいえ|○|はい|はい|はい|はい|
+|チームサイト: ドラッグ & ドロップ|必要|いいえ|○|はい|はい|はい|はい|
+|チームノートブック|必要|いいえ|○|はい|はい|はい|はい|
+|チームサイト: 簡略化されたアクセス|必要|いいえ|○|はい|はい|はい|はい|
+|サイトデザイン|必要|いいえ|○|はい|はい|はい|はい|
+|サイトテーマ (外観を変更)|必要|いいえ|○|はい|はい|はい|はい|
 |サイト閲覧状況ページ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|バリエーション|はい|いいえ|あり|はい|はい|はい|いいえ|
-|Work Management Service|はい|いいえ|あり|はい|はい|はい|はい|
+|バリエーション|必要|いいえ|○|はい|はい|はい|いいえ|
+|Work Management Service|必要|いいえ|○|はい|はい|はい|はい|
 |**ソーシャル機能**|**Office 365 Business Essentials 21Vianet が運用している**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |Ask Me About|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |個人用ブログ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -788,7 +789,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Yammer を使用したドキュメント会話|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Follow|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |マイクロブログ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|ニュースフィード|はい|いいえ|あり|はい|はい|はい|いいえ|
+|ニュースフィード|必要|いいえ|○|はい|はい|はい|いいえ|
 |ワンクリック共有|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |ユーザー、サイト、ドキュメントの推奨事項|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |個人用サイト|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -799,12 +800,12 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |サイトフィード (SharePoint ソーシャルを使用するクラシックチームサイト)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |OneDrive for Business|はい|はい|はい|はい|はい|はい|はい<sup>2</sup>|
 |Tag profiles|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Tasks integrated with Outlook|はい|はい|はい|はい|はい|はい|いいえ|
+|Tasks integrated with Outlook|はい|はい|はい|はい|はい|必要|いいえ|
 |タグの傾向|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Wikis|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Yammer|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**アドオン**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
-|追加記憶域|はい|いいえ|あり|はい|はい|はい|はい|
+|追加記憶域|必要|いいえ|○|はい|はい|はい|はい|
 |Azure プロビジョニングアプリ: Access services<sup>3</sup>|はい|はい|はい|はい|はい|はい|はい|
 |Azure プロビジョニングアプリ: Azure ライトウェイト Web ロールのカスタムコード (LWR)|はい|はい|はい|はい|はい|はい|はい|
 
@@ -836,7 +837,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
-|Skype for Business|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1、4</sup>|はい<sup>1、4</sup>|はい|いいえ|
+|Skype for Business|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1、4</sup>|はい<sup>1、4</sup>|必要|いいえ|
 |Lync 2013 Basic|はい|はい|はい|はい|はい|はい|いいえ|
 |Skype for Business Windows ストア アプリ|はい|はい|はい|はい|はい|はい|いいえ|
 |Lync for Mac 2011|はい|はい|はい|はい|はい|はい|いいえ|
@@ -861,7 +862,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |ビデオ|はい|はい|はい|はい|はい|はい|いいえ|
 |ネットワークのサービス品質 (QoS) - DSCP (Differentiated Services Code Point)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[フェデレーションとパブリック IM 接続](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**21Vianet が運用している Office 365 Enterprise F1**|
-|Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)|はい|いいえ|あり|はい|はい|はい|いいえ|
+|Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)|必要|いいえ|○|はい|はい|はい|いいえ|
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 | Skype フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |AOL および Yahoo! フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -1078,89 +1079,89 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
 |**コア機能 (デスクトップ クライアント)**||||||
-|[列の追加](../project-online-service-description/core-functionality.md#add-columns)|いいえ|あり|はい|はい|いいえ|
-|[Backstage](../project-online-service-description/core-functionality.md#backstage)|いいえ|あり|はい|はい|いいえ|
-|[クイック実行](../project-online-service-description/core-functionality.md#click-to-run)|いいえ|あり|はい|はい|いいえ|
-|[コンテキスト メニュー (右クリック メニュー)](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|いいえ|あり|はい|はい|いいえ|
-|[カスタム フィールド](../project-online-service-description/core-functionality.md#custom-fields)|いいえ|あり|はい|はい|いいえ|
-|[Microsoft Office アプリケーション間でのコピー アンド ペースト機能の強化](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|いいえ|あり|はい|はい|いいえ|
-|[ガント チャート、カレンダー、タスク シート ビュー](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|いいえ|あり|はい|はい|いいえ|
-|[Microsoft Fluent ユーザー インターフェイス、リボン](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|いいえ|あり|はい|はい|いいえ|
-|[複数レベルの取り消し](../project-online-service-description/core-functionality.md#multiple-level-undo)|いいえ|あり|はい|はい|いいえ|
-|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|いいえ|あり|はい|はい|いいえ|
+|[列の追加](../project-online-service-description/core-functionality.md#add-columns)|いいえ|○|はい|必要|いいえ|
+|[Backstage](../project-online-service-description/core-functionality.md#backstage)|いいえ|○|はい|必要|いいえ|
+|[クイック実行](../project-online-service-description/core-functionality.md#click-to-run)|いいえ|○|はい|必要|いいえ|
+|[コンテキスト メニュー (右クリック メニュー)](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|いいえ|○|はい|はい|いいえ|
+|[カスタム フィールド](../project-online-service-description/core-functionality.md#custom-fields)|いいえ|○|はい|はい|いいえ|
+|[Microsoft Office アプリケーション間でのコピー アンド ペースト機能の強化](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|いいえ|○|はい|はい|いいえ|
+|[ガント チャート、カレンダー、タスク シート ビュー](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|いいえ|○|はい|はい|いいえ|
+|[Microsoft Fluent ユーザー インターフェイス、リボン](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|いいえ|○|はい|はい|いいえ|
+|[複数レベルの取り消し](../project-online-service-description/core-functionality.md#multiple-level-undo)|いいえ|○|はい|はい|いいえ|
+|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|いいえ|○|はい|はい|いいえ|
 |[Office ストア](../project-online-service-description/core-functionality.md#office-store)|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[オンライン ヘルプ](../project-online-service-description/core-functionality.md#online-help)|いいえ|あり|はい|はい|いいえ|
-|[PDF および XPS 出力](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|いいえ|あり|はい|はい|いいえ|
-|[Project フィールドのプレースホルダー テキスト](../project-online-service-description/core-functionality.md#placeholder-text-in-project-fields)|いいえ|あり|はい|はい|いいえ|
-|[プロジェクト テンプレート](../project-online-service-description/core-functionality.md#project-templates)|いいえ|あり|はい|はい|いいえ|
-|[スタート エクスペリエンス](../project-online-service-description/core-functionality.md#start-experience)|いいえ|あり|はい|はい|いいえ|
-|[文字列の折り返し](../project-online-service-description/core-functionality.md#text-wrap)|いいえ|あり|はい|はい|いいえ|
+|[オンライン ヘルプ](../project-online-service-description/core-functionality.md#online-help)|いいえ|○|はい|はい|いいえ|
+|[PDF および XPS 出力](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|いいえ|○|はい|はい|いいえ|
+|[Project フィールドのプレースホルダー テキスト](../project-online-service-description/core-functionality.md#placeholder-text-in-project-fields)|いいえ|○|はい|はい|いいえ|
+|[プロジェクト テンプレート](../project-online-service-description/core-functionality.md#project-templates)|いいえ|○|はい|はい|いいえ|
+|[スタート エクスペリエンス](../project-online-service-description/core-functionality.md#start-experience)|いいえ|○|はい|はい|いいえ|
+|[文字列の折り返し](../project-online-service-description/core-functionality.md#text-wrap)|いいえ|○|はい|はい|いいえ|
 |[タイムライン ビュー](../project-online-service-description/core-functionality.md#timeline-view)||はい|はい|はい|いいえ|
-|[ズーム コントロール](../project-online-service-description/core-functionality.md#zoom-controls)|いいえ|あり|はい|はい|いいえ|
+|[ズーム コントロール](../project-online-service-description/core-functionality.md#zoom-controls)|いいえ|○|はい|はい|いいえ|
 |**プロジェクトの計画 (デスクトップ クライアント)**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[基準計画の重ね合わせ](../project-online-service-description/project-planning.md#baseline-rollup)|いいえ|あり|はい|はい|いいえ|
-|[予算計画](../project-online-service-description/project-planning.md#budget-planning)|いいえ|あり|はい|はい|いいえ|
-|[プロジェクト バージョンの比較](../project-online-service-description/project-planning.md#compare-project-versions)|いいえ|あり|はい|はい|いいえ|
-|[期限](../project-online-service-description/project-planning.md#deadlines)|いいえ|あり|はい|はい|いいえ|
-|[フィルター](../project-online-service-description/project-planning.md#filtering)|いいえ|あり|はい|はい|いいえ|
-|[式とグラフィカル インジケーター](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators)|いいえ|あり|はい|はい|いいえ|
-|[Project データのグループ化と並べ替え](../project-online-service-description/project-planning.md#group-and-sort-project-data)|いいえ|あり|はい|はい|いいえ|
-|[レポート](../project-online-service-description/project-planning.md#reports)|いいえ|あり|はい|はい|いいえ|
-|[チーム プランナー](../project-online-service-description/project-planning.md#team-planner)|いいえ|あり|はい|はい|いいえ|
+|[基準計画の重ね合わせ](../project-online-service-description/project-planning.md#baseline-rollup)|いいえ|○|はい|はい|いいえ|
+|[予算計画](../project-online-service-description/project-planning.md#budget-planning)|いいえ|○|はい|はい|いいえ|
+|[プロジェクト バージョンの比較](../project-online-service-description/project-planning.md#compare-project-versions)|いいえ|○|はい|はい|いいえ|
+|[期限](../project-online-service-description/project-planning.md#deadlines)|いいえ|○|はい|はい|いいえ|
+|[フィルター](../project-online-service-description/project-planning.md#filtering)|いいえ|○|はい|はい|いいえ|
+|[式とグラフィカル インジケーター](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators)|いいえ|○|はい|はい|いいえ|
+|[Project データのグループ化と並べ替え](../project-online-service-description/project-planning.md#group-and-sort-project-data)|いいえ|○|はい|はい|いいえ|
+|[レポート](../project-online-service-description/project-planning.md#reports)|いいえ|○|はい|はい|いいえ|
+|[チーム プランナー](../project-online-service-description/project-planning.md#team-planner)|いいえ|○|はい|はい|いいえ|
 |**タスク管理 (デスクトップ クライアント)**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[アクティブおよび非アクティブ タスク](../project-online-service-description/task-management.md#active-and-inactive-tasks)|いいえ|あり|はい|はい|いいえ|
-|[オートコンプリート](../project-online-service-description/task-management.md#auto-complete)|いいえ|あり|はい|はい|いいえ|
-|[自動スケジュール](../project-online-service-description/task-management.md#automatic-scheduling)|いいえ|あり|はい|はい|いいえ|
-|[2149 年まで延長されたカレンダー](../project-online-service-description/task-management.md#calendar-date-extended-to-2149)|いいえ|あり|はい|はい|いいえ|
-|[プロジェクト間のクリティカル パス](../project-online-service-description/task-management.md#cross-project-critical-path)|いいえ|あり|はい|はい|いいえ|
-|[タスクの詳細情報](../project-online-service-description/task-management.md#task-inspector)|いいえ|あり|はい|はい|いいえ|
-|[タスクパス分析](../project-online-service-description/task-management.md#task-path-analysis)|いいえ|あり|はい|はい|いいえ|
-|[トップダウン サマリー タスク](../project-online-service-description/task-management.md#top-down-summary-tasks)|いいえ|あり|はい|はい|いいえ|
-|[進行状況の更新](../project-online-service-description/task-management.md#update-progress)|いいえ|あり|はい|はい|いいえ|
-|[ユーザーが制御する手動スケジュール](../project-online-service-description/task-management.md#user-controlled-and-manual-scheduling)|いいえ|あり|はい|はい|いいえ|
+|[アクティブおよび非アクティブ タスク](../project-online-service-description/task-management.md#active-and-inactive-tasks)|いいえ|○|はい|はい|いいえ|
+|[オートコンプリート](../project-online-service-description/task-management.md#auto-complete)|いいえ|○|はい|はい|いいえ|
+|[自動スケジュール](../project-online-service-description/task-management.md#automatic-scheduling)|いいえ|○|はい|はい|いいえ|
+|[2149 年まで延長されたカレンダー](../project-online-service-description/task-management.md#calendar-date-extended-to-2149)|いいえ|○|はい|はい|いいえ|
+|[プロジェクト間のクリティカル パス](../project-online-service-description/task-management.md#cross-project-critical-path)|いいえ|○|はい|はい|いいえ|
+|[タスクの詳細情報](../project-online-service-description/task-management.md#task-inspector)|いいえ|○|はい|はい|いいえ|
+|[タスクパス分析](../project-online-service-description/task-management.md#task-path-analysis)|いいえ|○|はい|はい|いいえ|
+|[トップダウン サマリー タスク](../project-online-service-description/task-management.md#top-down-summary-tasks)|いいえ|○|はい|はい|いいえ|
+|[進行状況の更新](../project-online-service-description/task-management.md#update-progress)|いいえ|○|はい|はい|いいえ|
+|[ユーザーが制御する手動スケジュール](../project-online-service-description/task-management.md#user-controlled-and-manual-scheduling)|いいえ|○|はい|はい|いいえ|
 |**プロジェクト リソース管理 (デスクトップ クライアント)**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[コスト型リソース](../project-online-service-description/project-resource-management.md#cost-resources)|いいえ|あり|はい|はい|いいえ|
-|[非稼働時間の管理](../project-online-service-description/project-resource-management.md#manage-nonworking-time)|いいえ|あり|はい|はい|いいえ|
-|[リソースの平準化](../project-online-service-description/project-resource-management.md#resource-leveling)|いいえ|あり|はい|はい|いいえ|
-|[リソース シートおよび配分状況ビュー](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views)|いいえ|あり|はい|はい|いいえ|
-|[リソースの切り替え](../project-online-service-description/project-resource-management.md#resource-substitution)|いいえ|あり|はい|はい|いいえ|
-|[チーム リソース](../project-online-service-description/project-resource-management.md#team-resources)|いいえ|あり|はい|はい|いいえ|
-|[時間単価型リソース、標準リソース、数量単価型リソース](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|いいえ|あり|はい|はい|いいえ|
+|[コスト型リソース](../project-online-service-description/project-resource-management.md#cost-resources)|いいえ|○|はい|はい|いいえ|
+|[非稼働時間の管理](../project-online-service-description/project-resource-management.md#manage-nonworking-time)|いいえ|○|はい|はい|いいえ|
+|[リソースの平準化](../project-online-service-description/project-resource-management.md#resource-leveling)|いいえ|○|はい|はい|いいえ|
+|[リソース シートおよび配分状況ビュー](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views)|いいえ|○|はい|はい|いいえ|
+|[リソースの切り替え](../project-online-service-description/project-resource-management.md#resource-substitution)|いいえ|○|はい|はい|いいえ|
+|[チーム リソース](../project-online-service-description/project-resource-management.md#team-resources)|いいえ|○|はい|はい|いいえ|
+|[時間単価型リソース、標準リソース、数量単価型リソース](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|いいえ|○|はい|はい|いいえ|
 |**プロジェクトの発行 (デスクトップ クライアント)**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[プロジェクト サイトの作成](../project-online-service-description/project-publishing.md#create-a-project-site)|いいえ|あり|はい|はい|いいえ|
-|[SharePoint のマスター プロジェクト](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|いいえ|あり|はい|はい|いいえ|
-|[Skype for Business でのプレゼンス](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|いいえ|あり|はい|はい|いいえ|
-|[Project Server または Project Online でプロジェクトを発行する](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|いいえ|あり|はい|はい|いいえ|
-|[SharePoint にプロジェクト MPP ファイルを保存する](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|いいえ|あり|はい|はい|いいえ|
-|[SharePoint へのタスクリストの同期](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|いいえ|あり|はい|はい|いいえ|
+|[プロジェクト サイトの作成](../project-online-service-description/project-publishing.md#create-a-project-site)|いいえ|○|はい|はい|いいえ|
+|[SharePoint のマスター プロジェクト](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|いいえ|○|はい|はい|いいえ|
+|[Skype for Business でのプレゼンス](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|いいえ|○|はい|はい|いいえ|
+|[Project Server または Project Online でプロジェクトを発行する](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|いいえ|○|はい|はい|いいえ|
+|[SharePoint にプロジェクト MPP ファイルを保存する](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|いいえ|○|はい|必要|いいえ|
+|[SharePoint へのタスクリストの同期](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|いいえ|○|はい|必要|いいえ|
 |**コア サービスの機能**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[Active Directory の統合](../project-online-service-description/core-services-functionality.md#active-directory-integration)|はい<sup>1</sup>|はい|はい|いいえ|はい|
-|[管理、展開、拡張性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|いいえ<sup>2</sup>|はい|はい|いいえ|はい|
-|[はじめに](../project-online-service-description/core-services-functionality.md#getting-started)|はい|はい|はい|いいえ|はい|
-|[問題とリスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|はい|はい|はい|いいえ|はい|
+|[Active Directory の統合](../project-online-service-description/core-services-functionality.md#active-directory-integration)|はい<sup>1</sup>|はい|必要|いいえ|はい|
+|[管理、展開、拡張性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|いいえ<sup>2</sup>|はい|必要|いいえ|はい|
+|[はじめに](../project-online-service-description/core-services-functionality.md#getting-started)|はい|はい|必要|いいえ|はい|
+|[問題とリスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|はい|はい|必要|いいえ|はい|
 |[Office 365 セキュリティ センター](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|いいえ|いいえ|いいえ|該当なし|該当なし|
-|[PPM パートナーのエコシステム](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|はい|はい|はい|いいえ|はい|
+|[PPM パートナーのエコシステム](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|はい|はい|必要|いいえ|はい|
 |[サービスの信頼性](../project-online-service-description/core-services-functionality.md#service-reliability)|はい|はい|はい|該当なし|該当なし|
 |[サービス更新](../project-online-service-description/core-services-functionality.md#service-updates)|はい|はい|はい|該当なし|該当なし|
-|[チーム メンバーのコラボレーション](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|はい|はい|はい|いいえ|はい|
-|[時間とタスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|はい|はい|はい|いいえ|はい|
+|[チーム メンバーのコラボレーション](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|はい|はい|必要|いいえ|はい|
+|[時間とタスクの管理 (チーム メンバー向け)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|はい|はい|必要|いいえ|はい|
 |**プロジェクト管理**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[問題とリスク管理](../project-online-service-description/project-management.md#issues-and-risk-management)|いいえ|あり|はい|いいえ|はい|
-|[プロジェクト リソース管理](../project-online-service-description/project-management.md#manage-project-resources)|いいえ|あり|はい|いいえ|はい|
-|[スケジュール管理](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|いいえ|あり|はい|はい|はい|
-|[時間とタスクの管理](../project-online-service-description/project-management.md#time-and-task-management)|いいえ|あり|はい|いいえ|はい|
+|[問題とリスク管理](../project-online-service-description/project-management.md#issues-and-risk-management)|いいえ|○|必要|いいえ|はい|
+|[プロジェクト リソース管理](../project-online-service-description/project-management.md#manage-project-resources)|いいえ|○|必要|いいえ|はい|
+|[スケジュール管理](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|いいえ|○|はい|はい|はい|
+|[時間とタスクの管理](../project-online-service-description/project-management.md#time-and-task-management)|いいえ|○|はい|いいえ|はい|
 |**ポートフォリオ管理**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
 |[プロジェクトの分析とポートフォリオの最適化](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|いいえ|いいえ|はい|いいえ|はい|
-|[プロジェクトの作成と編集](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|いいえ|あり|はい|いいえ|はい|
+|[プロジェクトの作成と編集](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|いいえ|○|はい|いいえ|はい|
 |[財務管理](../project-online-service-description/portfolio-management.md#financial-management)|いいえ|いいえ|はい|いいえ|はい|
-|[ワークフローへの参加](../project-online-service-description/portfolio-management.md#participate-in-workflow)|いいえ|あり|はい|いいえ|はい|
+|[ワークフローへの参加](../project-online-service-description/portfolio-management.md#participate-in-workflow)|いいえ|○|はい|いいえ|はい|
 |[ポートフォリオ分析と選択](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|いいえ|いいえ|はい|いいえ|はい|
 |[プログラム管理](../project-online-service-description/portfolio-management.md#program-management)|いいえ|いいえ|はい|いいえ|はい|
 |**レポートとビジネス インテリジェンス**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
-|[OData フィード](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|いいえ|あり|はい|いいえ|はい|
+|[OData フィード](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|いいえ|○|はい|いいえ|はい|
 |[すぐに使用可能なポートフォリオ ダッシュボード](../project-online-service-description/reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards)|いいえ|いいえ|はい|不要|いいえ|
 |Power BI コンテンツパック|いいえ|いいえ|はい|不要|いいえ|
-|[Project デスクトップ レポート](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|いいえ|あり|はい|はい|いいえ|
+|[Project デスクトップ レポート](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|いいえ|○|はい|はい|いいえ|
 |**リソース管理**|**Project Online 21Vianet が運用している Essentials for Office 365**|**Project Online 21Vianet が運用している Professional for Office 365**|**Project Online 21Vianet が運用している Premium for Office 365**|**21Vianet が運用している Project Professional 2016 for Office 365**|**21Vianet が運用している Project Server 2016 for Office 365**|
 |[受信リソース契約要求の承認/却下/変更](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|いいえ|いいえ|はい|いいえ|はい|
 |[リソース共有元の管理](../project-online-service-description/resource-management.md#manage-resource-pool)|いいえ|いいえ|はい|いいえ|はい|
