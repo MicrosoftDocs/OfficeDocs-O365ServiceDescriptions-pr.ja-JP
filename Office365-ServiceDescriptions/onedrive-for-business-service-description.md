@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172089"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374174"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -88,7 +88,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
   
 - ユーザーが OneDrive の 5 TB ストレージを 90% 以上使用すると、Microsoft は OneDrive の既定のストレージ スペースをユーザー 1 人あたり 25 TB まで増やします (管理者は、ユーザー 1 人あたりの制限を必要に応じてこれより低く設定できます)。 
     
-- ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。 この追加のストレージは、クレジットとして組織に提供されます。
+- ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。
     
 ストレージ スペースと個人ユーザーの使用率を見るには、OneDrive 同期アプリの [ストレージの管理](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) をご覧ください。 組織全体でのユーザーのストレージ使用率を見るには、Microsoft 365 管理センターの [OneDrive 使用状況レポート](/office365/admin/activity-reports/onedrive-for-business-usage) をご覧ください。 
    
