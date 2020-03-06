@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
 ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262650"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545840"
 ---
 # <a name="messaging-policy-and-compliance"></a>メッセージング ポリシーとコンプライアンス
 
@@ -60,7 +60,7 @@ EAC で DLP ポリシーを構成することにより、次のことが可能�
 
 DLP の詳細については、「 [Exchange Online でのデータ損失防止](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)」を参照してください。
 
-## <a name="office-365-message-encryption"></a>はい
+## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
 
 Office 365 Message Encryption は、Azure Information Protection の一部で、電子メールのユーザーが暗号化された電子メール メッセージを任意のユーザーに送信できるようにするオンライン サービスです。 社内展開の Exchange カスタマーが Office 365 Message Encryption を利用する場合は、Azure Information Protection を購入し、Exchange Online Protection を使って Exchange Online を介したメール フローをセットアップする必要があります。 Office 365 メッセージの暗号化の詳細については、「Exchange Online サービスの説明」の「 [office 365 Message encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) 」を参照してください。
 

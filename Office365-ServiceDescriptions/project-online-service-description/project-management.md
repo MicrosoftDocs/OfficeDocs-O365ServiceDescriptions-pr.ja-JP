@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online では次のプロジェクト管理機能が利用可能です。
 ms.openlocfilehash: 48fe2dd921cdda7d85dbbe138577a4a880e72488
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263431"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546040"
 ---
 # <a name="project-management"></a>プロジェクト管理
 

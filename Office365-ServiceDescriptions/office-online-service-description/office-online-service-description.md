@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711907"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545790"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
@@ -51,11 +51,11 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[クリップボード](word-online.md#clipboard) <br/> |はい  <br/> |はい  <br/> |
 |[コラボレーション、高度](word-online.md#collaboration-advanced) <br/> |いいえ  <br/> |はい  <br/> |
 |[コンテンツ コントロール](word-online.md#content-controls) <br/> |はい  <br/> |はい  <br/> |
-|[送付状](word-online.md#cover-pages) <br/> |なし<sup></sup> <br/> |はい  <br/> |
+|[送付状](word-online.md#cover-pages) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
 |[高度な文書要素の作成](word-online.md#creation-of-advanced-document-elements) <br/> |いいえ  <br/> |はい  <br/> |
 |[文書パーツとテーマ](word-online.md#document-parts-and-themes) <br/> |いいえ  <br/> |はい  <br/> |
 |[Dropbox](word-online.md#dropbox) <br/> |はい  <br/> |はい  <br/> |
-|[数式](word-online.md#equations) <br/> |なし<sup></sup> <br/> |はい  <br/> |
+|[数式](word-online.md#equations) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
 |[検索と置換](word-online.md#find-and-replace) <br/> |はい  <br/> |はい  <br/> |
 |[フォントの書式設定](word-online.md#font-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[脚注と文末脚注](word-online.md#footnotes-and-endnotes) <br/> |はい  <br/> |はい  <br/> |
@@ -63,7 +63,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[グラフィック効果のプリセット](word-online.md#graphic-effect-presets) <br/> |はい  <br/> |はい  <br/> |
 |[ヘッダーとフッター](word-online.md#headers-and-footers) <br/> |はい  <br/> |はい  <br/> |
 |[ハイパーリンク](word-online.md#hyperlinks) <br/> |はい  <br/> |はい  <br/> |
-|[索引](word-online.md#index) <br/> |なし<sup></sup> <br/> |はい  <br/> |
+|[索引](word-online.md#index) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
 |[インク エディター](word-online.md#ink-editor) <br/> |いいえ  <br/> |はい  <br/> |
 |[オンライン画像の挿入](word-online.md#insert-online-pictures) <br/> |はい  <br/> |はい  <br/> |
 |[IRM とパスワード保護](word-online.md#irm-and-password-protection) <br/> |いいえ  <br/> |はい  <br/> |
@@ -94,16 +94,16 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[PDF として保存](word-online.md#save-as-pdf) <br/> |はい  <br/> |はい  <br/> |
 |[共有](word-online.md#share) <br/> |はい  <br/> |はい  <br/> |
 |[単純なテーブルの作成](word-online.md#simple-table-creation) <br/> |はい  <br/> |はい  <br/> |
-|[SmartArt](powerpoint-online.md#smartart) <br/> |なし<sup></sup> <br/> |はい  <br/> |
-|[引用文献一覧](word-online.md#table-of-authority) <br/> |なし<sup></sup> <br/> |はい  <br/> |
-|[目次](word-online.md#table-of-contents) <br/> |なし<sup></sup> <br/> |はい  <br/> |
-|[搭載](word-online.md#tap) <br/> |いいえ  <br/> |はい  <br/> |
+|[SmartArt](powerpoint-online.md#smartart) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
+|[引用文献一覧](word-online.md#table-of-authority) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
+|[目次](word-online.md#table-of-contents) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
+|[タップ](word-online.md#tap) <br/> |いいえ  <br/> |はい  <br/> |
 |[教えて](word-online.md#tell-me) <br/> |はい  <br/> |はい  <br/> |
 |[変換サービス](word-online.md#translation-service) <br/> |はい  <br/> |はい  <br/> |
 |[元に戻す/やり直し](word-online.md#undo-and-redo) <br/> |はい  <br/> |はい  <br/> |
 |[VBA およびフォーム スクリプト](word-online.md#vba-and-forms-scripts) <br/> |いいえ  <br/> |はい  <br/> |
 |[コメントの表示と追加](word-online.md#view-and-add-comments) <br/> |はい  <br/> |はい  <br/> |
-|[透かし](word-online.md#watermarks) <br/> |なし<sup></sup> <br/> |はい  <br/> |
+|[透かし](word-online.md#watermarks) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
 |[文字カウント](word-online.md#word-count) <br/> |はい  <br/> |はい  <br/> |
 |[拡大/縮小](word-online.md#zoom) <br/> |はい  <br/> |はい  <br/> |
    
@@ -138,7 +138,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[Dropbox](excel-online.md#dropbox) <br/> |はい  <br/> |はい  <br/>|
 |[ワークシートの複製 (コピー)](excel-online.md#duplicate-copy-worksheets) <br/> |はい  <br/> |はい  <br/>|
 |[Web ページまたはブログページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |はい  <br/> |いいえ  <br/> |
-|[外部参照](excel-online.md#external-references-links) <br/> |<sup>4</sup>なし <br/> |はい  <br/> |
+|[外部参照](excel-online.md#external-references-links) <br/> |いいえ<sup>4</sup> <br/> |はい  <br/> |
 |[フィルハンドル](excel-online.md#fill-handle) <br/> |はい  <br/> |はい  <br/> |
 |[検索](excel-online.md#find) <br/> |はい  <br/> |はい  <br/> |
 |[フォントおよびセルの書式設定](excel-online.md#font-and-cell-formatting) <br/> |はい  <br/> |はい  <br/> |
@@ -157,7 +157,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[セルの結合](excel-online.md#merge-cells) <br/> |はい  <br/> |はい  <br/> |
 |[名前付き範囲](excel-online.md#named-ranges) <br/> |はい  <br/> |はい  <br/> |
 |[数値の書式](excel-online.md#number-formatting) <br/> |はい  <br/> |はい  <br/> |
-|[Office アドイン](excel-online.md#office-add-ins) <br/> |はい (<sup>5</sup> )  <br/> |はい  <br/> |
+|[Office アドイン](excel-online.md#office-add-ins) <br/> |はい<sup>5</sup>  <br/> |はい  <br/> |
 |[オフラインでの表示と編集](excel-online.md#offline-viewing-and-authoring) <br/> |いいえ  <br/> |はい  <br/> |
 |[ピボットグラフ](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
 |[PivotTables](excel-online.md#pivottables) <br/> |はい  <br/> |はい  <br/> |
@@ -258,13 +258,13 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[スライド ショーのブロードキャスト](powerpoint-online.md#broadcast-slide-show) <br/> |いいえ  <br/> |はい  <br/> |
 |[クリップボード](powerpoint-online.md#clipboard) <br/> |はい  <br/> |はい  <br/> |
 |[スライドの作成と管理](powerpoint-online.md#create-and-manage-slides) <br/> |はい  <br/> |はい  <br/> |
-|[カスタム アニメーションの作成](powerpoint-online.md#create-custom-animation) <br/> |なし<sup></sup> <br/> |はい  <br/> |
+|[カスタム アニメーションの作成](powerpoint-online.md#create-custom-animation) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
 |[デザインツール、詳細](powerpoint-online.md#design-tools-advanced) <br/> |いいえ  <br/> |はい  <br/> |
 |[Web ページやブログ ページへのプレゼンテーションの埋め込み](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |はい  <br/> |いいえ  <br/> |
 |[フォントの書式設定](powerpoint-online.md#font-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[忠実な閲覧表示](powerpoint-online.md#full-fidelity-reading-view) <br/> |はい  <br/> |はい  <br/> |
 |[インクの完全サポート](powerpoint-online.md#full-ink-support) <br/> |いいえ  <br/> |はい<sup>2</sup> <br/> |
-|[アニメーションおよび画面切り替えの全体選択](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |なし<sup></sup> <br/> |はい  <br/> |
+|[アニメーションおよび画面切り替えの全体選択](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
 |[ヘッダーとフッター](powerpoint-online.md#headers-and-footers) <br/> |いいえ  <br/> |はい  <br/> |
 |[ハイパーリンク](powerpoint-online.md#hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[オンライン ビデオの挿入](powerpoint-online.md#insert-online-video) <br/> |はい  <br/> |はい  <br/> |
