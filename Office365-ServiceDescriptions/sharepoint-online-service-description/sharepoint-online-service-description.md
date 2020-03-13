@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172854"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609868"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -43,7 +43,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、知識、および
 
 Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。スタンドアロン プラン オプションや、別のプランへの変更などの詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、Firstline サブスクリプションの一部としてのみ、スタンドアロンのオファーとしては購入されません。 第一線ワーカーは sharepoint ナビゲーションメニューを表示しないので、第一線のワーカーは URL で sharepoint サイトに直接移動する必要があります。
+SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、 [firstline サブスクリプション](https://www.microsoft.com/microsoft-365/business/office-365-f1)の一部としてのみ、スタンドアロンのオファーとしては購入されません。 
   
 ## <a name="rights-of-guests"></a>ゲストの権限
 
@@ -152,7 +152,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 特に明記されていない限り、以下の機能は、SharePoint を含むすべてのプランとすべての SharePoint スタンドアロンプランで利用できます。
 
 - [アクセシビリティ](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Microsoft Teams をサイトに追加](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーに Teams のライセンスを付与する必要があります。
+- [Microsoft Teams をサイトに追加](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
 - [対象ユーザーの設定](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [従来のチームサイトを新しい Office 365 グループに接続](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)します。 Office 365 を含むサブスクリプションが必要です。
 - [プランを作成します (Planner 統合)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 Office 365 を含むサブスクリプションが必要であり、ユーザーに Planner のライセンスを付与する必要があります。
@@ -163,12 +163,12 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [メガメニュー](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms 統合](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 Office 365 を含むサブスクリプションが必要であり、ユーザーにフォームのライセンスを付与する必要があります。
 - [ニュース](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Office デスクトップアプリの統合。 Office デスクトップアプリを含むサブスクリプションが必要です。
+- Office デスクトップアプリの統合。 Office デスクトップ アプリを含むサブスクリプションが必要です。
 - Web 統合のための Office。 Office 365 を含むサブスクリプションが必要です。
 - [組織のアセットライブラリ](/sharepoint/organization-assets-library)
 - [組織のニュース](/sharepoint/organization-news-site)
 - [ページの承認](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [ページ](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - レコード管理
 - [ごみ箱](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint モバイルアプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -185,11 +185,11 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [チーム OneNote ノートブック](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [テーマ (外観を変更)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Web パーツ](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Microsoft Teams で SharePoint コンテンツを操作](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーに Teams のライセンスを付与する必要があります。
+- [Microsoft Teams で SharePoint コンテンツを操作](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
 
 Microsoft Power Apps と Power オートメーションの可用性の詳細については、「[パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
 
-共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。
+共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)」を参照してください。
 
 ## <a name="search-features"></a>検索機能
 

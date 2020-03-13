@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 は、Word、Excel、PowerPoint などの使い慣れた Office デスクトップ アプリケーションの最新バージョンを提供するサブスクリプション サービスです。
-ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
-ms.translationtype: HT
+ms.openlocfilehash: d87b95a87e133f5862e6ef93109414bb7ebd5063
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969954"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609908"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -39,7 +39,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/> |
+|**機能** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |**Microsoft 365 Business** <br/> |
 |**Office アプリケーション** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
@@ -56,7 +56,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |いいえ  <br/> |はい<sup>13</sup> <br/> |はい<sup>13</sup>  <br/>|はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |
 |[Office Mobile for Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |いいえ  <br/> |はい<sup>13</sup> <br/> |はい <sup>13</sup> <br/>|はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |はい  <br/> |はい<sup>14</sup>  <br/> |はい  <br/> |
 |Outlook for Android  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/>|はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|**企業にとっての利点** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
+|**企業にとっての利点** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |**Microsoft 365 Business** <br/>
 |PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |いいえ  <br/>| いいえ  <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> | はい<sup>7</sup> <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |該当なし  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |多言語ユーザー インターフェイス  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|はい  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ <br/> |
@@ -89,11 +89,11 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|いいえ<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br> |
    
 > [!NOTE]
-><sup>+</sup> Office 365 または Office 2019 をインストールすると、既定により OneNote for Windows 10 を利用できるようになります。 詳細については、「[Office 2019 の OneNote についてよく寄せられる質問](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
+><sup>+</sup>Office 365 または Office 2019 をインストールすると、既定で Windows 10 の OneNote が取得されます。 詳細については、「[Office 2019 の OneNote についてよく寄せられる質問](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)」を参照してください。<br/>
 ><sup>++</sup> OneNote アプリから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス。 <br/>
 ><sup>+++</sup> BHO のサポートは、Internet Explorer 用の拡張機能技術です。 <br/>
 ><sup>1</sup> アーカイブ機能とコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online プランと SharePoint Online プランは含まれていないため、これらのプランを個別に購入するか、またはサポートされているオンプレミスのサーバーの同等の機能と共に使用する必要があります。<br/>
-<sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
+<sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、Office 365 Business Essentials、Office 365 Business Premium、Office 365 Enterprise E1、Office 365 教育、または Office 365 Enterprise F3 には含まれていません。<br/>
 <sup>3</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするためには別途購入して管理する必要があるオンプレミスのサーバーです。<br/>
 <sup>4</sup> Office Professional Plus 2013 または単体版の Excel 2013 を所有している場合は、[Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) をサポート対象外のアドインとしてダウンロードして使用できます。<br/> 
 <sup>5</sup> Skype for Business Basic はすべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Office 365 ProPlus と Office 365 Enterprise E3 には完全な Skype アプリケーションが含まれています。これには、高度なテレフォニー サポート、アーカイブ、コンプライアンスの機能などの追加機能が含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 機能の比較の詳細については、「[Lync Server 2013 用デスクトップ クライアント比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。<br/> 
@@ -101,7 +101,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 <sup>7</sup> Office for Mac 2011 は、インストールはできますがライセンス認証はできません。 <br/>
 <sup>8</sup> Office 365 ProPlus はユーザー専用の仮想デスクトップ インフラストラクチャ (VDI) でサポートされます。 Office 365 ProPlus でリモート デスクトップ サービス (RDS) がサポートされるのは、ボリューム ライセンス プログラムを通して購入した場合のみです。<br/>
 <sup>9</sup> Office 365 Enterprise E3 と Office 365 ProPlus のボリューム ライセンス認証は、RDS ロールが有効になっている Microsoft Windows Server 2008 R2 以降でのインストールまたは Windows To Go インストールに制限されています。 いずれの場合も、これらのインストールにアクセスするユーザーは、Office 365 Enterprise E3 または Office 365 ProPlus のライセンスが付与されているユーザーである必要があります。<br/> 
-<sup>10</sup> Office 365 Enterprise F1 の Skype for Business 機能には、Skype for Business Plan 1 (デスクトップ共有なし、アプリ共有なし、マルチパーティの音声、ビデオ、Web 会議の開始不可、会議のスケジュール不可) が含まれています。<br/> 
+<sup>10</sup> Office 365 Enterprise F3 の Skype for business の機能には、skype For business Plan 1 (デスクトップ共有なし、アプリ共有なし、マルチパーティのオーディオ、ビデオ、web 会議の開始不可、会議のスケジュール不可) が含まれます。<br/> 
 <sup>11</sup> Access は現在、Current Channel のユーザー、または Deferred Channel のターゲット リリースのユーザーのみが利用できます。 Deferred Channel のユーザーは、2017 年 6 月以降に Access を利用できるようになります。 詳細については、「[Access が Office 365 の Business と Business Premium でご利用いただけるようになりました](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)」を参照してください。<br/> 
 <sup>12</sup> Infopath 2013 は引き続きサポートされており、Office Professional Plus 2016 のインストールに付属しますが、Office 2016 用の新しいバージョンはありません。<br/> 
 <sup>13</sup> 基本的な編集機能のみがサポートされています。<br/> 
@@ -123,8 +123,8 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> Office 2016 for Mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/ja-JP/office-system-requirements)」を参照してください。<br/>
-<sup>2</sup> App Store から別途ダウンロードできます。 詳細については、「[OneNote for Mac](https://www.microsoft.com/ja-JP/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」を参照してください。<br/> 
+> <sup>1</sup> Office 2016 for Mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については、「[Office のシステム要件](https://products.office.com/en-US/office-system-requirements)」を参照してください。<br/>
+<sup>2</sup> App Store から別途ダウンロードできます。 詳細については、「[OneNote for Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)」を参照してください。<br/> 
 <sup>3</sup> Office for Mac 2011 は、インストールはできますがライセンス認証はできません。
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>政府機関向けプランで利用できる Office アプリケーションと機能
@@ -210,5 +210,5 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |ディクテーション| いいえ<sup>1</sup> | いいえ<sup>1</sup> | いいえ<sup>1</sup> |
 
 > [!NOTE]
-> <sup>1</sup> 2019 年 12 月 に利用可能になります。 <br/>
+> <sup>1</sup> 2019 年 12 月 に利用可能になります。<br/>
 > <sup>2</sup> (サインインしていない) ローカルの Surface Hub で利用できます。

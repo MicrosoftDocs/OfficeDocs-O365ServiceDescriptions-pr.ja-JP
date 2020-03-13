@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
-ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
+ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "40824991"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609838"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -53,7 +53,7 @@ ATP は、次の Exchange と Office 365 サブスクリプション プラン�
 
 - Office 365 Enterprise E3
 
-- Office 365 Enterprise F1
+- Office 365 Enterprise F3
 
 - Office 365 A1
 
@@ -82,18 +82,18 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |**機能**|**ATP プラン1**<br>(旧称 ATP スタンドアロン)|**ATP プラン2**<br>(以前の脅威インテリジェンス <br>スタンドアロン| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|
 |*構成、保護、および検出*|
-|[安全な添付ファイル](#safe-attachments)|あり|はい|はい|
-|Teams での安全な添付ファイル|あり|はい|はい|
-|[安全なリンク](#safe-links)|あり|はい|はい|
+|[安全な添付ファイル](#safe-attachments)|はい|はい|はい|
+|Teams での安全な添付ファイル|はい|はい|はい|
+|[安全なリンク](#safe-links)|はい|はい|はい|
 |Teams での安全なリンク|いいえ|いいえ|いいえ|
-|[SharePoint、OneDrive、Microsoft Teams 用の ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|あり|はい|はい|
-|[フィッシング対策ポリシー](#anti-phishing-policies)|あり|はい|はい|
-|[リアルタイムレポート](#real-time-reports)|あり|はい|はい|
+|[SharePoint、OneDrive、Microsoft Teams 用の ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|はい|はい|はい|
+|[フィッシング対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
+|[リアルタイムレポート](#real-time-reports)|はい|はい|はい|
 |*自動化、調査、修復、教育*|
-|[脅威トラッカー](#threat-trackers)|いいえ|あり|はい|
-|[エクスプローラー](#explorer) (高度な脅威調査)|いいえ|あり|はい|
-|[インシデント対応の自動化](#automated-incident-response)|いいえ|あり|はい|
-|[攻撃シミュレータ](#attack-simulator)|いいえ|あり|はい|
+|[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
+|[エクスプローラー](#explorer) (高度な脅威調査)|いいえ|はい|はい|
+|[インシデント対応の自動化](#automated-incident-response)|いいえ|はい|はい|
+|[攻撃シミュレータ](#attack-simulator)|いいえ|はい|はい|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Advanced Threat Protection (ATP) の機能
 

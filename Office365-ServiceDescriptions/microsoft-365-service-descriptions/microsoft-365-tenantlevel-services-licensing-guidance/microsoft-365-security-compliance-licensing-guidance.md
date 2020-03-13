@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374164"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609918"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -71,7 +71,7 @@ Azure Information Protection (AIP) は、組織が機密ドキュメントや電
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Microsoft 365 F1、microsoft 365 Business、Microsoft 365 E3/A3/G3、AIP Plan 1 のライセンスを持つユーザーは、AIP プラン1の恩恵を受けることができます。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、AIP Plan 2 のライセンスを持つユーザーは、AIP Plan 2 から恩恵を受けることができます。
+Microsoft 365 F3、microsoft 365 Business、Microsoft 365 E3/A3/G3、AIP Plan 1 のライセンスを持つユーザーは、AIP プラン1の恩恵を受けることができます。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、AIP Plan 2 のライセンスを持つユーザーは、AIP Plan 2 から恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -323,7 +323,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
 
 | シナリオ                                                                                                                                                                                                              | ライセンスを必要とするのはだれですか? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -408,7 +408,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Enterprise Mobility + Security E3、Security E3/A3/G3、Microsoft 365 F1/E3/A3/G3、および Azure Active Directory Premium プラン1のライセンスを持つユーザーは、条件付きアクセスポリシーからメリットを得られます。 Enterprise Mobility + Security E5/A5/G5 のライセンスユーザー、Microsoft 365 E5/A5/G5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) からメリットを得ることができます。
+Enterprise Mobility + Security E3/Security E3/Security E3、Microsoft 365 F3/E3/A3/G3、および Azure Active Directory Premium プラン1は、条件付きアクセスポリシーからメリットを得られます。 Enterprise Mobility + Security E5/A5/G5 のライセンスユーザー、Microsoft 365 E5/A5/G5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) からメリットを得ることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 

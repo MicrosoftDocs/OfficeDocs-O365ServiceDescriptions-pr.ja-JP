@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: aef2ede957404e73ab723766239ffbbd186e1d3c
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172239"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609968"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -141,7 +141,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新情報](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -301,7 +301,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -809,7 +809,7 @@ OneDrive for Business プラン 1 は、ユーザーごとに 1 TB の記憶領�
     
 - Office 365 A5
     
-特定の OneDrive ユーザーに、それ以上の記憶域を割り当てることはできません。ただし、ユーザーに表示される記憶域の容量を減らすことができます。Office 365 Enterprise F1 ユーザーがより多くの記憶域を必要とする場合、Office 365 Enterprise E1 をアップグレードする必要があります。
+特定の OneDrive ユーザーに、それ以上の記憶域を割り当てることはできません。 ただし、ユーザーに表示される記憶域の容量を減らすことができます。 Office 365 Enterprise F3 ユーザーがより多くの記憶域を必要とする場合は、Office 365 Enterprise E1 へのアップグレードが必要になります。
   
 OneDrive for Business に追加できないファイルの種類については、「[リストまたはライブラリに追加できないファイルの種類](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)」を参照してください。
   
