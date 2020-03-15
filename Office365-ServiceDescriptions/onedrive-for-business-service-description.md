@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374174"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609878"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -40,7 +40,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 
 **2 GB**
 
-- Office 365 Enterprise F1
+- Office 365 Enterprise F3
 
 **1 TB**
 
@@ -88,7 +88,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
   
 - ユーザーが OneDrive の 5 TB ストレージを 90% 以上使用すると、Microsoft は OneDrive の既定のストレージ スペースをユーザー 1 人あたり 25 TB まで増やします (管理者は、ユーザー 1 人あたりの制限を必要に応じてこれより低く設定できます)。 
     
-- ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。
+- ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。 情報と支援については、Microsoft テクニカル サポートにお問い合わせください。
     
 ストレージ スペースと個人ユーザーの使用率を見るには、OneDrive 同期アプリの [ストレージの管理](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) をご覧ください。 組織全体でのユーザーのストレージ使用率を見るには、Microsoft 365 管理センターの [OneDrive 使用状況レポート](/office365/admin/activity-reports/onedrive-for-business-usage) をご覧ください。 
    
@@ -132,7 +132,7 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
 特に明記されていない限り、次の機能は OneDrive を含むすべてのプラン、およびすべての OneDrive スタンドアロン プランで利用できます。
 
 - [アクセス権の要求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [“すべてのユーザー” リンク](/Office365/Enterprise/best-practices-anonymous-sharing) (有効期限を要求するように設定できます) 
+- [「すべてのユーザー」リンク](/Office365/Enterprise/best-practices-anonymous-sharing) (有効期限を要求するように設定できます) 
 - [コメントでの @メンション](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 Office 365 for the web または Office 365 デスクトップ アプリを含むプランが必要です。
 - [ファイル要求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 既定の共有リンクを管理する ([組織レベル](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) および [サイトごと](/sharepoint/change-default-sharing-link))
@@ -184,5 +184,5 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 管理者、セキュリティ、およびコンプライアンスの機能
 
-これらの機能の詳細については、「[SharePoint サービスの説明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features)」を参照してください。
-  
+これらの機能の詳細については、「[SharePoint サービスの説明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)」を参照してください。
+
