@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 243e43803c7b9932491da75e64173433fb831309
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
+ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609928"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707068"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -479,7 +479,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|ジャーナル ルールの最大数|50 個のルール|50 個のルール|50 個のルール|50 個のルール|50 個のルール|50 個のルール|
+|ジャーナル ルールの最大数|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|
 |トランスポート ルールの最大数|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|
 |各トランスポート ルールの最大サイズ|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |すべてのトランスポート ルールで使用されるすべての正規表現の文字に関する制限|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
