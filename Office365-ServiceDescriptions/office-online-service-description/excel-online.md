@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545800"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688026"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -172,7 +172,7 @@ Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式
 
 編集表示でブラウザーのブックに表示できるものはすべて、閲覧表示でも表示できます。
   
-## <a name="functions"></a>= (式) フィールドで使用できる関数
+## <a name="functions"></a>関数
 
 Excel の web 用の数式では、Excel の最大400のワークシート関数を使用できます。
   

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
 ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545730"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688079"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 

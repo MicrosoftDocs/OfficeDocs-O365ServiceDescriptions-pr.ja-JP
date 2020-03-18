@@ -12,11 +12,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545870"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688087"
 ---
 # <a name="message-policy-and-compliance"></a>メッセージ ポリシーとコンプライアンス
 

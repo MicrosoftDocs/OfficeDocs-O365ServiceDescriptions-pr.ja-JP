@@ -14,11 +14,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio for the web は、Microsoft Visio の機能をブラウザーに拡張し、クラウドに保存されているダイアグラムを作成および編集できるようにします。 Microsoft Office 365 のお客様は、図を表示、印刷、および共有したり、移動にコメントを挿入したりすることができます。
 ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700219"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688025"
 ---
 # <a name="visio-for-the-web"></a>Web 用 Visio
 

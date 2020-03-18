@@ -1,5 +1,5 @@
 ---
-title: Yammer のメッセージと会話の機能
+title: Yammer のメッセージ機能と会話機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer では次のメッセージおよび会話機能を使用できます。
 ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263088"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688007"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージと会話の機能
+# <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージ機能と会話機能
 
 Yammer では次のメッセージおよび会話機能を使用できます。
   

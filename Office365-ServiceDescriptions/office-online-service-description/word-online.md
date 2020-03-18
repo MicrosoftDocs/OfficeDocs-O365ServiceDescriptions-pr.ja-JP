@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
 ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545740"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688151"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 

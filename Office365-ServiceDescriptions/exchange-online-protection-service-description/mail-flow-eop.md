@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。
 ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545820"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688068"
 ---
 # <a name="mail-floweop"></a>メールフロー [EOP]
 

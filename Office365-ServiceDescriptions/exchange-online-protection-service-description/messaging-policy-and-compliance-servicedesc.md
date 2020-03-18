@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
 ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545840"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688019"
 ---
 # <a name="messaging-policy-and-compliance"></a>メッセージング ポリシーとコンプライアンス
 
