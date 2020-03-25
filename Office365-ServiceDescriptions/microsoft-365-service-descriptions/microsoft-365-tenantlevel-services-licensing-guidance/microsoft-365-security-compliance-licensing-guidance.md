@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609918"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926340"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -168,6 +168,29 @@ MCAS は、シャドウ IT を検出して評価し、第1およびサードパ�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 管理者は、サービスで利用できるスコープ付き展開機能を使用して、ライセンスを持つユーザーに MCAS 展開の範囲を設定できます。 詳細については、「[スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+Microsoft Defender ATP は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft DEFENDER ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。 
+
+
+### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
+
+Windows 10 Enterprise E5 のライセンスユーザー、windows 10 エデュケーション A5、Microsoft 365 E5 (M365 E5) (Windows 10 Enterprise E5 を含む)、microsoft 365 E5 セキュリティ、Microsoft 365 A5 (M365 A5) は Microsoft Defender ATP から恩恵を受けます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+SecOps アナリストおよびセキュリティ担当者は、Microsoft Defender ATP のエンドポイントのセキュリティ機能を利用して、予防的保護、ブリーチ後の検出、自動調査、高度な脅威への対応を行うことができます。 Microsoft Defender ATP では、悪意のあるイベントを監視することにより、エンドユーザーにメリットをもたらすことができます。
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+既定では、Microsoft Defender ATP 機能はテナント内のすべてのユーザーに対してテナントレベルで有効になっています。 展開の詳細については、「 [deployment guide](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)」を参照してください。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
+
 
 ## <a name="office-365-advanced-data-governance"></a>Office 365 アドバンスト データ ガバナンス
 
