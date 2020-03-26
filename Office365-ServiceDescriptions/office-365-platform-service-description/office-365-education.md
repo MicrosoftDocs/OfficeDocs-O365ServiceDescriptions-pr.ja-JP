@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609968"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959295"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -39,13 +39,13 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |Skype for Business Online  <br/> |はい<sup>7</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Project Online  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |
+|Project  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Yammer アカデミック版  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online は含まれていませんが、Office 365 教育機関向けプランに無料で追加することができます。 <br/> 
+> <sup>1</sup> Microsoft Project は Office 365 には含まれていませんが、個別に取得することができます。 Project Online Essentials は無料です。 学生または教育機関の場合は、プロジェクト計画3を購入することができます。また、プラン5は、教育価格でご利用いただける場合があります。   <br/> 
 <sup>2</sup> Office 365 プランに含まれる Azure_Information_Protection 機能の詳細については、「 [Azure Information Protection](https://azure.microsoft.com/services/information-protection/)」を参照してください。<br/> 
 <sup>3</sup> Office 365 A5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/> <sup>4</sup> Exchange Online プラン 2 が含まれます。 <br/> 
 <sup>5</sup> Exchange Online プラン 1 と補足機能が含まれます。<br/> 
@@ -141,7 +141,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービスの更新情報](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -301,7 +301,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|**アプリケーション** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -688,7 +688,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |削除済みアイテム フォルダーの保存期限  <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限  <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |
-|迷惑メール フォルダーの保存期限  <br/> |30 日間  <br/> |30 日間  <br/> |30 日間  <br/> |
+|迷惑メール フォルダーの保存期限  <br/> |30 日  <br/> |30 日間  <br/> |30 日間  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。  
@@ -1053,7 +1053,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日   <br/> |15 日   <br/> |15 日   <br/> |
 |会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日   <br/> |15 日  <br/> |
-|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間   <br/> |8 時間   <br/> |8 時間   <br/> |
+|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間   <br/> |8 時間   <br/> |8 時間  <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
 |会議の有効期限:定期的な会議  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
 |会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |8 時間   <br/> |8 時間  <br/> |

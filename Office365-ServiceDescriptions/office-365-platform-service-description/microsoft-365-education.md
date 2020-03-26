@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
-ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
+ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41839770"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959315"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -37,7 +37,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Teams  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Project Online  <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |
+|Project  <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |<sup>5</sup>なし <br/> |
 |Yammer アカデミック版  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**教室ツール** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Microsoft Teams での教室のエクスペリエンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -47,12 +47,12 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |学習ツール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクセシビリティ チェック  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office Lens  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|コード ビルダーを備えた Minecraft Education Edition  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|テスト アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|学校用 PC のセットアップ アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|コード ビルダーを備えた Minecraft Education Edition  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|テスト アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|学校用 PC のセットアップ アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
 |**音声、ビデオ、会議** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5**<sup>6</sup> <br/> |
-|Skype 会議メディア  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft の予約  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype 会議メディア  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft の予約  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 電話会議  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |Office 365 電話システム  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |**分析** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
@@ -72,27 +72,27 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |電子情報開示のエクスポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |詳細な電子情報開示  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |Data loss prevention  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 Message Encryption  <br/> |[はい]<sup>12</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Office 365 Message Encryption  <br/> |はい<sup>12</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |高度なデータ ガバナンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |**管理とセキュリティ** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |School Data Sync  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Advanced Security Management  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Intune for Education<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Windows Defender ウイルス対策  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Device Guard  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Advanced Security Management  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Intune for Education<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|Windows Defender ウイルス対策  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|Device Guard  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
 |**高度なセキュリティ** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Security  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|Microsoft Defender Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>13</sup> )  <br/> |
+|Microsoft Defender Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>13</sup>  <br/> |
 |**サーバーと CAL の利点** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Exchange<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |
 |SharePoint<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |
 |Skype for Business<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |
-|Windows Server CAL  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
-|Microsoft Endpoint Configuration Manager  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |あり  <br/> |はい  <br/> |
+|Windows Server CAL  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|Microsoft Endpoint Configuration Manager  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
 |System Center Endpoint Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
@@ -100,7 +100,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 > <sup>2</sup> Exchange Online プラン2が含まれます。 <br/>
 > <sup>3</sup> SharePoint Online プラン1および補足機能が含まれます。 <br/>
 > <sup>4</sup> SharePoint Online プラン2が含まれます。 <br/>
-> <sup>5</sup> Project Online Essentials は含まれていませんが、Office 365 教育機関向けプランに無料で追加することができます。 <br/>
+> <sup>5</sup> Microsoft Project は Office 365 には含まれていませんが、個別に取得することができます。 Project Online Essentials は無料です。 学生または教育機関の場合は、プロジェクト計画3を購入することができます。また、プラン5は、教育価格でご利用いただける場合があります。   <br/>
 > <sup>6</sup> Microsoft 365 エデュケーション A5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/>
 > <sup>7</sup> Office 365 プランに含まれている Azure information protection 機能の詳細については、「 [azure information protection](https://go.microsoft.com/fwlink/?linkid=838357)」を参照してください。 <br/>
 > <sup>8</sup> Intune が含まれます。 <br/>

@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 この記事では、Office 365 Government US 環境に固有の機能の概要について説明します。
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609898"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954814"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
+
+> [!IMPORTANT]
+> Microsoft Teams では、coronavirus (COVID-19) pandemic のために、オンライン通話と音声ビデオ会議で大きなスパイクが発生しています。<br/>
+> 
+>より優れた通話に対応し、継続性と可用性を確保するために、Microsoft では Microsoft Teams GCC audio/video サーバーに対して、商用データセンターの処理能力と政府データセンターの処理能力を活用することを許可しています。<br/>
+> 
+>これらのオーディオ/ビデオサーバーは、米国の Microsoft Azure FedRAMP 高レベルの認定境界サーバー内に存在し、お客様のコンテンツを保存しません。 しかし、これらのサーバーは通話と会議の音声とビデオを処理しており、この中間的な期間中にはコマーシャルスタッフの下で動作しています。<br/>
+> 
+>資格のあるスクリーン化された担当者は、これらのサーバーに対して対話的なログを確認することにより、顧客データにアクセスするためにこれらのサーバーを監視しています。 資格のある担当者は、お客様のコンテンツにアクセスするための GCC 要件を満たしています。 スクリーンの要件の詳細については、「 [GCC サービスの説明](gcc.md)」を参照してください。<br/>
+> 
+>このような特別な時間にサービスが利用可能かつ信頼できることを確認するための手順を実行していただき、サポートを受けていただきありがとうございます。<br/> 
 
 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、「 [Office 365 のサービスの説明](../../office-365-service-descriptions-technet-library.md)」を参照することをお勧めします。
   
@@ -231,7 +242,7 @@ Office 365 US Government プランのシステム要件については、[office
 |使用されるブラウザー  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |使用されるオペレーティング システム  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |Office 365 レポート Web サービスを使用した、独自のレポートの作成  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
-|**[サービス更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F3** <br/> |
+|**[サービスの更新情報](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F3** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |はい (<sup>15</sup> ) <br/> |
 |一部のサービス更新のための Roadmap.office.com  <br/> |いいえ<sup>10、13</sup> <br/> |いいえ<sup>10、13</sup> <br/> |いいえ<sup>10、13</sup> <br/> |いいえ<sup>10、13</sup> <br/> |

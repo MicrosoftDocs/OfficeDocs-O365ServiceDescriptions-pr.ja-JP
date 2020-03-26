@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft Office 365 Office を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688082"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959325"
 ---
 # <a name="powerpoint-for-the-web"></a>Web 用 PowerPoint
 
@@ -117,7 +117,7 @@ Web 用の PowerPoint では使用できません。 Web 用の PowerPoint で�
   
 ## <a name="navigation---slide-sorter"></a>ナビゲーション-スライド一覧
 
-Web 用の PowerPoint では使用できません。 スライド一覧表示では、スライドをサムネイル形式で表示することができます。これにより、スライドの並べ替えや整理を簡単に行うことができます。これは、PowerPoint for the web では利用できません。 PowerPoint デスクトップアプリを使用すると、スライド一覧表示を使用して、スライドの整理、セクションの追加、およびスライドの並べ替えをさまざまなカテゴリに行うことができます。
+スライド一覧表示では、スライドをサムネイル形式で表示できます。これにより、スライドの並べ替えや整理が容易になります。 スライド一覧表示を使用して、スライドの整理、セクションの追加、およびスライドの並べ替えをさまざまなカテゴリに行うことができます。
   
 ## <a name="offline-viewing-and-authoring"></a>オフラインでの表示と編集
 
