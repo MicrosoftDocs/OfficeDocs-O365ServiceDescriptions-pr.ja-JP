@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
-ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
+ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
+ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926340"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43101116"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -25,17 +25,19 @@ ms.locfileid: "42926340"
 > [!NOTE]
 > 一部のテナントサービスは、現在、特定のユーザーに対する利点を制限することはできません。 ライセンスを付与されたユーザーにサービスのメリットを制限するための取り組みを実施する必要があります。 これにより、ターゲット機能が使用可能になった場合に、サービスが組織に及ぼす影響を回避できます。
 
+ユーザーにライセンスを付与するためのオプションを表示するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、[詳細な microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)をダウンロードしてください。
+
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure active Directory Id 保護 (AYOUR p) は、組織の id に影響を及ぼす可能性のある脆弱性を検出し、検出された疑わしいに対する自動応答を構成することができる Azure Active Directory Premium P2 プランの機能です。組織の id に関連するアクションを確認し、疑わしいインシデントを調査して、それらを解決するための適切な処置を講じます。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Azure Active Directory Premium プラン2は、お役に立てます。
+Azure Active Directory Id 保護 (AADIP) は、Azure Active Directory Premium P2 プランの機能です。これにより、組織の id に影響を及ぼす可能性のある脆弱性を検出したり、組織の id に関連する、検出された疑わしいアクションに対する自動応答を構成したり、疑わしいインシデントを調査し、それらを解決するための適切な処置を
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 SecOps アナリストおよびセキュリティ担当者は、コンピューターの学習アルゴリズムに基づいてフラグが設定されたユーザーとリスクイベントを統合して表示するのに役立ちます。 エンドユーザーは、リスクベースの条件付きアクセスと、脆弱性に対処することによって提供されるセキュリティ強化によって提供される自動保護からメリットを得られます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Azure Active Directory Premium プラン2は、Azure Active Directory Id 保護からメリットを得るための権限をユーザーに提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -49,13 +51,13 @@ SecOps アナリストおよびセキュリティ担当者は、コンピュー�
 
 Azure Advanced Threat Protection (ATP) は、複数の種類の高度なターゲット化されたサイバー攻撃および insider の脅威からエンタープライズハイブリッド環境を保護するために役立つクラウドサービスです。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 セキュリティ、および Azure Advanced Threat Protection を使用すると、Azure ATP からメリットを得ることができます。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 SecOp アナリストおよびセキュリティ担当者は、Azure ATP の機能を利用して、高度な脅威、侵害された id、および悪意のある insider 操作を検出し、調査することができます。 Azure ATP がデータを監視することにより、エンドユーザーはメリットを得ることができます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Azure Advanced Threat Protection を使用することにより、Azure ATP からメリットを得ることができます。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -65,39 +67,17 @@ SecOp アナリストおよびセキュリティ担当者は、Azure ATP の機�
 
 Microsoft では、ライセンスを持つユーザーの脅威検出機能を提供しています。
 
-## <a name="azure-information-protection"></a>Azure Information Protection
-
-Azure Information Protection (AIP) は、組織が機密ドキュメントや電子メールを検出、分類、ラベル付け、保護するのに役立ちます。 管理者は、ラベルを自動的に適用するルールと条件を定義できます。ユーザーはラベルを手動で適用する&mdash;ことも、ラベルの適用についてユーザーに推奨事項を与える場合は、2つの組み合わせを使用することもできます。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Microsoft 365 F3、microsoft 365 Business、Microsoft 365 E3/A3/G3、AIP Plan 1 のライセンスを持つユーザーは、AIP プラン1の恩恵を受けることができます。 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、AIP Plan 2 のライセンスを持つユーザーは、AIP Plan 2 から恩恵を受けることができます。
-
-### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
-
-AIP スキャナー機能は、オンプレミスのファイルリポジトリに存在するファイルを自動的に分類、ラベル付け、保護します。
-
-### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
-
-既定では、テナント内のすべてのユーザーについて、テナントレベルで AIP 機能が有効になっています。 ライセンスを持つユーザーの AIP ポリシーの構成の詳細については、「 [Azure Rights Management をアクティブ化](https://docs.microsoft.com/azure/information-protection/activate-service)する」を参照してください。
-
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
-
-AIP の機能のポリシー (スキャナー機能を除く) は、特定のグループまたはユーザーに限定できます。レジストリを編集して、ライセンスのないユーザーが AIP 分類またはラベル機能を実行できないようにすることができます。 AIP の展開のスコープを設定する方法については、「 [Azure Information Protection ポリシーの構成](https://docs.microsoft.com/azure/information-protection/configure-policy)」を参照してください。
-
-AIP スキャナー機能の場合、Microsoft はライセンスされていないユーザーにファイル分類、ラベル付け、または保護機能を提供することをコミットしません。 時間の経過と共に、ライセンスチェックまたは対象となるツールが AIP に追加され、スキャナー機能がライセンスユーザーに確実に割り当てられるようになります。
-
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 Advanced Threat Protection (ATP) は、フィッシングやゼロデイマルウェアなどの高度な攻撃から組織を保護します。 また、潜在的な脅威に対処する方法を特定し、優先度を設定し、推奨事項を提示することにより、さまざまなデータの信号を関連付けて、実用的な洞察を提供します。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office のライセンスユーザー 365 E5/A5/G5、Microsoft 365 E5/A5/G5、microsoft 365 E5/a5/G5 セキュリティ、microsoft 365 Business、および Office 365 ATP プラン1と2は、ATP からメリットを得られます。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 ATP は、フィッシングやゼロデイマルウェアなどの高度な攻撃からユーザーを保護します。 プラン1およびプラン2で提供されるサービスの完全な一覧については、「 [Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection)」を参照してください。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
+
+Office 365 Advanced Threat Protection、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 Business、および Office 365 ATP プラン1および2は、Office 365 Advanced Threat Protection からメリットを得るためのユーザーの権利を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -107,9 +87,9 @@ ATP は、フィッシングやゼロデイマルウェアなどの高度な攻�
 
 ATP の範囲を適用するには、安全なリンクと安全な添付ファイルの展開ポリシーに従います。
 
-- ライセンスを持つユーザーに対して安全なリンクを構成する方法については、「 [Office 365 ATP セーフリンクポリシー](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)をセットアップする」を参照してください。
+- ライセンスを持つユーザーに対して安全なリンクを構成する方法については、「 [Office 365 ATP セーフリンクポリシー](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)をセットアップする」を参照してください。
 
-- ライセンスユーザーに対して安全な添付ファイルを構成する方法については、「 [Office 365 ATP の安全な添付ファイルのポリシー](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies)をセットアップする」を参照してください。
+- ライセンスユーザーに対して安全な添付ファイルを構成する方法については、「 [Office 365 ATP の安全な添付ファイルのポリシー](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)をセットアップする」を参照してください。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -119,15 +99,14 @@ OCAS は、組織の生産性を向上させるクラウドアプリやサービ
 
 機能を比較するには、「 [Microsoft Cloud App security And Office 365 Cloud App security の相違](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)」を参照してください。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5 のライセンスユーザーは、OCAS から恩恵を受けることができます。
-
-詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 OCAS 検出シャドウ IT は、Office 365 に対して脅威を保護し、Office 365 データにアクセスするためのアクセス許可を持つアプリを制御することができます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Office 365 E5/A5/G5 は、ユーザーが OCAS の恩恵を受けるための権限を提供します。
+詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -143,21 +122,21 @@ OCAS 検出シャドウ IT は、Office 365 に対して脅威を保護し、Off
 
 Microsoft Cloud App Security (MCAS) は、クラウドアプリとサービスを組織に表示し、サイバーの脅威を特定して対処する洗練された分析を提供し、クラウドアプリ間でデータを転送&mdash;する方法を制御できる、クラウドアクセスセキュリティブローカー (casb) ソリューションです。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 の各セキュリティは、MCAS からメリットを得られます。
-
-Azure AD P1 にライセンスを付与されたユーザーは、MCAS の検出機能からメリットを得ることができます。
-
-MCAS の[条件付きアクセスアプリコントロール](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)機能を活用するには、Azure Active Directory P1 に対するライセンスも必要です。これは、enterprise Mobility + security E3/A3/G3、enterprise Mobility + security E5/A5/G5、Microsoft 365 E3/A3/G5、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/セキュリティに含まれます。
-
-[自動ラベル付け](https://docs.microsoft.com/cloud-app-security/data-protection-policies)のメリットを得るために、ユーザーは、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 e5/A5/G5 コンプライアンスに含まれている Azure Information Protection P2 のライセンスを持っている必要があります。
-
-詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 MCAS は、シャドウ IT を検出して評価し、第1およびサードパーティのクラウドアプリでの脅威保護を提供し、最初のおよびサードパーティのクラウドアプリ間で情報を保護します。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Microsoft 365 E5/A5 Information Protection and ガバナンスは、ユーザーが MCAS から恩恵を受けるための権限を提供します。
+
+Azure AD P1 は、ユーザーが MCAS の検出機能を利用できるようにするための権限を提供します。
+
+MCAS の条件付きアクセスアプリコントロール機能を活用するには、Azure Active Directory P1 に対するライセンスも必要です。これは、Enterprise Mobility + Security E3/A3/G3、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E3/A3/G5、Microsoft 365 E5/A5/G5、および Microsoft 365 E5/A5/セキュリティに含まれます。
+
+自動ラベル付けのメリットを得るには、Azure Information Protection P2 のライセンスが必要です。これは Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、および Microsoft 365 E5/a5 情報保護とガバナンスに含まれています。
+
+詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -169,10 +148,9 @@ MCAS は、シャドウ IT を検出して評価し、第1およびサードパ�
 
 管理者は、サービスで利用できるスコープ付き展開機能を使用して、ライセンスを持つユーザーに MCAS 展開の範囲を設定できます。 詳細については、「[スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
 
-
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
-Microsoft Defender ATP は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft DEFENDER ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。 
 
+Microsoft Defender ATP は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -182,7 +160,6 @@ Windows 10 Enterprise E5 のライセンスユーザー、windows 10 エデュ�
 
 SecOps アナリストおよびセキュリティ担当者は、Microsoft Defender ATP のエンドポイントのセキュリティ機能を利用して、予防的保護、ブリーチ後の検出、自動調査、高度な脅威への対応を行うことができます。 Microsoft Defender ATP では、悪意のあるイベントを監視することにより、エンドユーザーにメリットをもたらすことができます。
 
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
 既定では、Microsoft Defender ATP 機能はテナント内のすべてのユーザーに対してテナントレベルで有効になっています。 展開の詳細については、「 [deployment guide](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)」を参照してください。
@@ -191,38 +168,98 @@ SecOps アナリストおよびセキュリティ担当者は、Microsoft Defend
 
 Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
 
+## <a name="information-protection"></a>Information Protection
 
-## <a name="office-365-advanced-data-governance"></a>Office 365 アドバンスト データ ガバナンス
-
-Advanced Data ガバナンス (ADG) は、組織が情報ガバナンスの要件をポリシーに適合させることにより、保存と削除を可能にします。 ADG を使用すると、組織は機密情報の種類に基づいてコンテンツを自動的にラベル付けし、そのコンテンツにガバナンスポリシーを適用することができます。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、ADG の恩恵を受けられます。
+情報保護は、機密ドキュメントや電子メールの検索、分類、ラベル付け、保護を組織にサポートします。 管理者は、ラベルを自動的に適用するためのルールと条件を定義でき、ユーザーはラベルを手動で適用することも、ラベルの適用に関する推奨事項を使用することもできます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ADG を使用すると、ユーザーは特定のデータにラベルを適用して、特定のポリシーを適用したり、コンテンツをレコードとして自動的にラベル付けしたり、完全なレコードプロセスを宣言から廃棄に管理したりできます。
+ユーザーは、機密ラベルを自分のコンテンツに手動で適用したり、コンテンツを自動的に分類することができます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5/E3/A3//F1/F3/Business、Enterprise Mobility + Security F3/E3/E5、Office 365 E5/A5/E3/A3/F3、AIP Plan 1、および AIP Plan 2 は、ユーザーが手動の機密情報による恩恵を受けるための権限を提供します。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5 情報保護とガバナンス、Office 365 E5、Office 365 Advanced コンプライアンス、Enterprise Mobility + Security E5、および AIP プラン2は、ユーザーが自動秘密情報による恩恵を受けるための権限を提供します。
+
+ライセンスによる特定の権限については、[詳細な Microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)を参照してください。
+
+には、Machine Learning (trainable 分類子) に基づく自動分類に対する権限は含まれていません。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで ADG 機能が有効になっています。 ライセンスユーザーの自動ラベル付けとポリシーを適用するように ADG を構成する方法については、「[保持ラベルの概要](https://docs.microsoft.com/office365/securitycompliance/labels)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、テナントレベルで情報保護機能が有効になっています。 ライセンスユーザーのポリシーを構成する方法については、「Azure Rights Management をアクティブ化する」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-ADG アイテム保持ポリシーは、自動分類を使用して、特定の場所 (チームサイト、グループサイトなど) のライセンスを持つユーザーに適用できます。 ADG アイテム保持ポリシーの適用手順については、「[組織全体または特定の場所にアイテム保持ポリシーを適用する](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)」を参照してください。
+AIP スキャナー機能を使用している場合を除き、ポリシーは特定のグループまたはユーザーに限定され、レジストリを編集して、ライセンスのないユーザーが分類またはラベル機能を実行するのを防ぐことができます。 AIP の展開のスコープを設定する方法については、「 [Azure Information Protection ポリシーの構成](https://docs.microsoft.com/azure/information-protection/configure-policy)」を参照してください。
 
-## <a name="advanced-ediscovery"></a>Advanced eDiscovery
+AIP スキャナー機能の場合、Microsoft はライセンスされていないユーザーにファイル分類、ラベル付け、または保護機能を提供することをコミットしません。
 
-Advanced eDiscovery は、企業内の IT および法務部門向けの調査および電子情報開示ソリューションを提供して、Office 365 からエクスポートする前に調査または訴訟に関連するコンテンツを特定、収集、保存、削減、レビューします。bios.
+## <a name="information-governance"></a>情報ガバナンス
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
+情報ガバナンスは、組織がデータを検出、分類、ラベル付け、管理することによってリスクを管理するのに役立ちます。 情報ガバナンスにより、組織は、Microsoft 365 およびサードパーティのデータに対して保存と削除の機能を提供することにより、ビジネスおよび規制の要件を満たし、攻撃の面を縮小することができます。
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、高度な電子情報開示の恩恵を受けられます。
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+特定のポリシーや規制を遵守するために、保存のためにデータを分類できるため、ユーザーはメリットを得られます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Office 365 E5/A5/E3/A3/F3/E1 は、1つの組織全体または場所全体にわたるアイテム保持ポリシーまたは手動でのアイテム保持のラベル付けによるメリットを得るための権限をユーザーに提供します。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5 情報の保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが自動的に保持ラベルまたはポリシーを適用し、カスタムイベントに基づいて保持ラベルの保存期間を開始し、ラベルの保持期間の最後に、サードパーティのデータをインポートし、ラベル付けされたコンテンツを検出し、ラベル付けされたアクティビティを監視します。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5 Information Protection and ガバナンスは、ユーザーが trainable 分類子に基づいて保持ラベルを自動的に適用することによるメリットを得られるようにするための権限をユーザーに提供します。
+
+ライセンスによる特定の権限については、[詳細な Microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)を参照してください。
+
+には、Machine Learning (trainable 分類子) に基づく自動保持の権限は含まれていません。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+既定では、テナント内のすべてのユーザーについて、テナントレベルで情報ガバナンス機能が有効になっています。 ライセンスユーザーに自動ラベル付けとポリシーを適用するための情報ガバナンスを構成する方法については、「 [Manage Information ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)」を参照してください。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+情報ガバナンス機能は、特定の場所 (チームサイト、グループサイトなど) のライセンスユーザーに適用できます。 ライセンスユーザーに自動ラベル付けとポリシーを適用するための情報ガバナンスを構成する方法については、「 [Manage Information ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)」を参照してください。
+
+## <a name="records-management"></a>レコード管理
+
+レコード管理によって、組織は Microsoft 365 およびサードパーティのデータにわたって、検出、分類、ラベル付け、保存、およびディフェンシブの削除機能を使用して、ビジネスおよび規制の記録保持義務を満たすことができます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5/コンプライアンス、Microsoft E5/A5 情報の保護とガバナンス、Office 365 E5/A5、Office 365 Advanced コンプライアンスは、レコードとしてのアイテムの宣言、保持またはレコードのラベルの自動適用、廃棄レビュープロセスの実行 (たとえば、trainable 分類子に
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/A5 Information Protection and ガバナンスは、ユーザーが trainable 分類子に基づいて保持またはレコードのラベルを自動的に適用することによるメリットを得られるようにするための権限を提供します。
+
+ライセンスによる特定の権限については、[詳細な Microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)を参照してください。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+ユーザーは、コンテンツをレコードとして宣言し、ディフェンシブ廃棄を使用して、ポリシー定義と宣言から完全なレコードプロセスを管理できるので便利です。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+既定では、テナント内のすべてのユーザーについて、テナントレベルでレコード管理機能が有効になっています。 ライセンスを付与されたユーザーに適用するレコード管理の構成の詳細については、「 [Microsoft 365 のレコード管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)」を参照してください。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+レコード管理機能は、特定の場所 (チームサイト、グループサイトなど) にあるライセンスユーザーに適用できます。 ライセンスを付与されたユーザーに適用するレコード管理の構成の詳細については、「 [Microsoft 365 のレコード管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)」を参照してください。
+
+## <a name="office-365-ediscovery"></a>Office 365 の電子情報開示
+
+Office 365 eDiscovery は、企業内の IT および法務部門向けの調査および電子情報開示ソリューションを提供して、Office 365 システムからエクスポートする前に調査や訴訟に関連するコンテンツを特定、収集、保存、削減、レビューします。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 ユーザーがケースのデータ保管担当者 (ドキュメントまたは電子ファイルの管理者の制御を持つユーザー) として選択されている場合、高度な電子情報開示によるユーザーの利点があります。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5/E3/A3/G3、Office 365 E5/A5/G5/E3/A3/、および Office 365 Advanced コンプライアンスは、コア電子情報開示からメリットを得るための権限をユーザーに提供します。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/a5/、Office 365 E5/a5/G5、および Office 365 Advanced コンプライアンスは、高度な電子情報開示からメリットを得るためのユーザーの権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -230,47 +267,47 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-電子情報開示管理者は、「 [Add 保管担当者 to The Advanced ediscovery case](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)」の説明に従って、高度な電子情報開示の組み込みの保管担当者管理ツールを使用して、特定のユーザーをデータ保管担当者として選択できます。
+電子情報開示管理者は、「 [Add 保管担当者 to The Advanced ediscovery case](https://docs.microsoft.com/microsoft-365/compliance/add-custodians-to-case)」の説明に従って、高度な電子情報開示の組み込みの保管担当者管理ツールを使用して、特定のユーザーをデータ保管担当者として選択できます。
 
 ## <a name="office-365-customer-key"></a>Office 365 の顧客キー
 
 顧客キーを使用して、組織の暗号化キーを制御し、Office 365 を使用して Microsoft のデータセンターで保存されているデータを暗号化するように構成します。 つまり、顧客キーを使用すると、独自のキーを使用して、自分に属する暗号化のレイヤーを追加することができます。 保存データには、Exchange Online と Skype for Business のデータが含まれています。これは、メールボックスや SharePoint Online および OneDrive for business 内のファイルに格納されます。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、お客様キーを利用することができます。 顧客キーのすべての利点を得るには、Azure Key Vault のサブスクリプションも必要です。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 ユーザーは、お客様の組織で提供、管理、管理されている暗号化キーを使用して、アプリケーション層で暗号化されたデータを保存することにより、顧客キーからメリットを得ることができます。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5 情報保護とガバナンス、Office 365 E5/A5/G5、および Office 365 Advanced コンプライアンスは、顧客キーからメリットを得るためのユーザーの権限を提供します。 顧客キーのすべての利点を得るには、Azure Key Vault のサブスクリプションも必要です。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-Office 365 顧客キー暗号化キーは、Exchange Online と Skype for business のメールボックス、および SharePoint Online、OneDrive for Business、および Teams の各ファイルに格納されているすべてのデータに対して有効にすることができます。 保存されているデータを暗号化するために Office 365 の顧客キーを構成する方法については、「[顧客キーを使用して office 365 でデータを管理](https://docs.microsoft.com/microsoft-365/compliance/controlling-your-data-using-customer-key)する」を参照してください。
+Office 365 顧客キー暗号化キーは、Exchange Online と Skype for business のメールボックス、および SharePoint Online、OneDrive for Business、および Teams の各ファイルに格納されているすべてのデータに対して有効にすることができます。 Office 365 の顧客キーの詳細については、「Office の使用を開始する方法」を参照してください。「 [office のキーを使用したサービスの暗号化365」](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 ライセンスを持つユーザーの Office 365 または Microsoft 365 テナント内のデータに暗号化キーを割り当てるには、顧客キーの暗号化キーの展開手順に従います。
 
-- SharePoint Online、OneDrive for Business、Teams の各ファイルでは、次のように、顧客キーを使用して1つ以上のサイト上のファイルを暗号化できます。 [SharePoint Online と OneDrive for business の顧客キーを設定](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)します。
+- SharePoint Online、OneDrive for Business、Teams の各ファイルでは、顧客キーを使用して1つ以上のサイト上のファイルを暗号化できます。
 
-- Exchange Online と Skype for Business では、以下の説明に従って、顧客キーを使用してメールボックスを暗号化できます。 [Exchange online と skype for business の顧客キーの設定](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
+- Exchange Online と Skype for Business では、顧客キーを使用してメールボックスを暗号化できます。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 カスタマー ロックボックス
 
 カスタマーロックボックスは、サービス操作の明示的なアクセス承認を提供する機能をお客様に提供することにより、追加の管理層を提供します。 明示的なデータアクセス承認のために手順が実行されていることを実証することにより、お客様のロックボックスは、組織が HIPAA や FEDRAMP などの特定のコンプライアンス義務を満たすのに役立つ場合があります。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、お客様のロックボックスを利用できます。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 カスタマーロックボックスを使用すると、お客様の明示的な承認なしにサービス操作を実行するために、Microsoft のユーザーが自分のコンテンツにアクセスできないようにすることができます。 顧客ロックボックスコンテンツへのアクセスの要求について、顧客を承認ワークフローに取り込みます。 お客様から報告された問題をトラブルシューティングおよび修正するために、Microsoft のエンジニアがサポートプロセスの間に関与している場合があります。 ほとんどの場合、問題は、Microsoft がサービスに対して設定している広範なテレメトリおよびデバッグツールによって解決されます。 しかし、Microsoft のエンジニアにお客様のコンテンツへのアクセスを要求して、根本原因を特定し、問題を解決する必要がある場合があります。 お客様のロックボックスには、エンジニアが承認ワークフローの最後の手順として顧客からのアクセスを要求する必要があります。 これにより、組織では、これらの要求を承認または拒否するオプションが提供されます。これにより、Microsoft のエンジニアが組織のエンドユーザーデータにアクセスできるかどうかを直接制御することができます。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、microsoft 365 E5/a5 情報保護とガバナンス、および Office 365 Advanced コンプライアンスは、ユーザーが顧客ロックボックスを利用できるようにするための権限を提供します。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-管理者は、Microsoft 365 管理センターでカスタマーロックボックスコントロールをオンにすることができます。 詳細については、「 [Office 365 のカスタマーロックボックス](https://docs.microsoft.com/Office365/Admin/manage/customer-lockbox-requests)」を参照してください。 カスタマーロックボックスがオンになっている場合は、そのコンテンツにアクセスする前に、Microsoft が組織の承認を取得する必要があります。
+管理者は、Microsoft 365 管理センターでカスタマーロックボックスコントロールをオンにすることができます。 詳細については、「 [Office 365 のカスタマーロックボックス](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests)」を参照してください。 カスタマーロックボックスがオンになっている場合は、そのコンテンツにアクセスする前に、Microsoft が組織の承認を取得する必要があります。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -278,39 +315,39 @@ Microsoft では、Office 365 組織のユーザーに対するカスタマー�
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 での特権アクセス管理
 
-特権アクセス管理 (PAM) は、Office 365 の特権のある管理タスクに対するきめ細かいアクセス制御を提供します。 PAM を有効にした後は、管理者特権のタスクを完了するために、ユーザーは、高いスコープと時間がバインドされた承認ワークフローを使用してジャストインタイムアクセスを要求する必要があります。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、PAM の恩恵を受けられます。
+[特権アクセス管理 (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)は、Office 365 の特権のある管理タスクに対するきめ細かいアクセス制御を提供します。 PAM を有効にした後は、管理者特権のタスクを完了するために、ユーザーは、高いスコープと時間がバインドされた承認ワークフローを使用してジャストインタイムアクセスを要求する必要があります。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 PAM を有効にすることで、組織はゼロに立った権限で運用できるようになります。 ユーザーは、データへの unfettered アクセスを提供する、独立した管理アクセスから生じる脆弱性に対して、追加された防御層からメリットを得ることができます。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/a5 情報の保護とガバナンス、Office 365 E5/A5/G5、および Office 365 Advanced コンプライアンスは、ユーザーが PAM から恩恵を受けるための権限を提供します。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで PAM 機能が有効になっています。 PAM ポリシーの構成の詳細については、「 [Office 365 での特権アクセス管理の構成](https://docs.microsoft.com/office365/securitycompliance/privileged-access-management-configuration)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、テナントレベルで PAM 機能が有効になっています。 PAM ポリシーの構成の詳細については、「[特権アクセス管理の概要](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 お客様は、承認者グループとアクセスポリシーを使用して、ユーザー単位で PAM を管理することができます。これは、ライセンスを持つユーザーに適用できます。 詳細については、「 [Office 365 での特権アクセス管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)」を参照してください。
 
-## <a name="data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online、SharePoint Online、OneDrive for business のデータ損失防止
+## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online、SharePoint Online、OneDrive for business の Office 365 データ損失防止
 
-Exchange Online、SharePoint Online、OneDrive for Business のデータ損失防止 (DLP) を使用すると、組織は、電子メールとファイル (Microsoft Teams ファイルに格納されているファイルを含む) で機密情報を識別、監視、および自動保護できます。リポジトリ)。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E3/A3/G3、Microsoft 365 Business、Microsoft 365 A1/E3/A3/G3、および Office 365 データ損失防止のライセンスを持つユーザーは、Exchange Online、SharePoint Online、OneDrive for business の DLP からメリットを得られます。
+Exchange Online、SharePoint Online、OneDrive for Business の Office 365 データ損失防止 (DLP) を使用すると、組織は、電子メールとファイル (Microsoft Teams ファイルリポジトリに格納されているファイルを含む) 全体で機密情報を識別、監視、および自動保護することができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 組織の DLP ポリシーに構成されているように、機密情報のメールやファイルが検査されている場合は、Exchange Online、SharePoint Online、および OneDrive for Business の DLP からメリットを得ることができます。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 A1/E3/A3/G3/Business、Office 365 E3/A3/G3、および Office 365 データ損失防止を使用すると、ユーザーは、Exchange Online、SharePoint Online、および OneDrive for business の Office 365 DLP からメリットを得ることができます。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、Exchange Online の電子メール、SharePoint サイト、および OneDrive アカウントは、これらの DLP 機能の*有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「[データ損失防止の概要](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、Exchange Online の電子メール、SharePoint サイト、および OneDrive アカウントは、これらの DLP 機能の*有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「[データ損失防止の概要](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -318,7 +355,7 @@ Office 365 E3/A3/G3、Microsoft 365 Business、Microsoft 365 A1/E3/A3/G3、お�
 
 ## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Teams チャットおよびチャネルメッセージのデータ損失防止
 
-Teams チャットおよびチャネルメッセージのデータ損失防止 (DLP) を使用すると、組織は、金融情報、個人を特定できる情報、健康関連の情報などの機密情報を含むチャットおよびチャネルメッセージをブロックできます。その他の機密情報。
+Teams チャットおよびチャネルメッセージのデータ損失防止 (DLP) を使用すると、組織は、金融情報、個人を特定できる情報、健康関連の情報、その他の機密情報などの機密情報を含むチャットおよびチャネルメッセージをブロックできます。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
@@ -340,20 +377,20 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプ�
 
 情報障壁は、個人またはグループが相互に通信することを防止するために管理者が構成できるポリシーです。 これは、ある部署が他の部署と共有しないという情報を処理している場合や、グループが外部の連絡先と通信できないようにする必要がある場合に便利です。 情報バリアポリシーでは、検索と検出も禁止されます。 これは、通信しない相手と通信しようとしても、ユーザー選択ウィンドウにそのユーザーが見つからないことを意味します。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスのライセンスを持つユーザーは、情報の障壁から恩恵を受けることができます。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
 
-| シナリオ                                                                                                                                                                                                              | ライセンスを必要とするのはだれですか? |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| 2つのグループ (グループ1とグループ 2) は相互に通信できません (つまり、グループ1のユーザーはグループ2ユーザーとの通信を制限され、グループ2ユーザーはグループ1ユーザーとの通信を制限されます。 | グループ1とグループ2の両方のユーザー                    |
-| グループ1のユーザーは、会社の他のユーザーとの通信を制限されます。                                                                                                                                       | グループ1のユーザーのみ                                |
-| 会社の残りの部分は、グループ1との通信から制限されています。                                                                                                                                                 | グループ1以外のすべてのユーザー                    |
-| グループ1ユーザーはグループ2ユーザーとの通信を制限されていますが、グループ2ユーザーはグループ1ユーザーと通信できます。                                                                                              | グループ1のユーザーのみ                                |
+| シナリオ | ライセンスを必要とするのはだれですか? |
+|:-------|:------|
+| 2つのグループ (グループ1とグループ 2) は相互に通信できません (つまり、グループ1のユーザーはグループ2ユーザーとの通信を制限され、グループ2ユーザーはグループ1ユーザーとの通信を制限されます。 | グループ1とグループ2の両方のユーザー |
+| グループ1のユーザーは、会社の他のユーザーとの通信を制限されます。 | グループ1のユーザーのみ |
+| 会社の残りの部分は、グループ1との通信から制限されています。 | グループ1以外のすべてのユーザー |
+| グループ1ユーザーはグループ2ユーザーとの通信を制限されていますが、グループ2ユーザーはグループ1ユーザーと通信できます。 | グループ1のユーザーのみ ||
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5 情報保護とガバナンス、Office 365 E5/A5/G5、および Office 365 Advanced コンプライアンスは、ユーザーが情報の障壁から恩恵を受けるための権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -369,13 +406,13 @@ Office 365 Message Encryption (OME) は、Azure Rights Management (Azure RMS) �
 
 暗号化メッセージを表示するために、受信者は 1 回限りのパスコードを取得するか、Microsoft アカウントでサインインするか、Office 365 に関連付けられている職場または学校のアカウントでサインインできます。 受信者は暗号化された返事を送信することもできます。 暗号化されたメッセージを表示したり、暗号化された返信を送信するのに、受信者は Office 365 サブスクリプションを必要としません。
 
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3、および Azure Information Protection Plan 1 のライセンスユーザーは、Office 365 Message Encryption を利用することができます。
-
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 メッセージの送信者は、Office 365 メッセージの暗号化によって提供される機密メールを追加することによって役立ちます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E3/A3/G3、Office 365 E3/A3/G3、および Azure Information Protection Plan 1 は、ユーザーが Office 365 Message Encryption から恩恵を受けるための権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -387,15 +424,15 @@ Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3、および Azure Information Prote
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 Advanced Message Encryption
 
-高度なメッセージ暗号化は、外部の受信者に対してより柔軟な制御と暗号化された電子メールへのアクセスを必要とするコンプライアンス義務を満たすためにお客様を支援します 高度なメッセージ暗号化を使用すると、管理者は機密情報の種類 (個人を識別する情報、財務または正常性 Id など) を検出できる自動ポリシーを使用して、組織外で共有される機密メールを制御することができます。これらのユーザーはキーワードを使用して、セキュリティで保護された web ポータル経由で暗号化された電子メールへのアクセスを有効期限切れにすることで、保護を強化できます。 さらに、管理者は、いつでもアクセスを取り消して、セキュリティで保護された web ポータルを介して外部からアクセスされる暗号化メールを制御できます。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、高度なメッセージ暗号化による恩恵を受けることができます。
+Office 365 Advanced Message Encryption を使用すると、お客様は、外部の受信者により柔軟な制御と暗号化されたメールへのアクセスを必要とするコンプライアンス義務を満たすことができます。 高度なメッセージ暗号化を使用すると、管理者は機密情報の種類 (個人の識別情報、金融または健康 Id など) を検出できる自動ポリシーを使用して、組織の外部で共有される機密メールを制御することができます。また、キーワードを使用して、カスタムの電子メールテンプレートを適用し、セキュリティ保護された web ポータル さらに、管理者は、いつでもアクセスを取り消して、セキュリティで保護された web ポータルを介して外部からアクセスされる暗号化メールを制御できます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 メッセージの送信者は、高度なメッセージ暗号化によって提供される機密メールを追加することによって役立ちます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 法令遵守、Microsoft 365 E5/a5 情報保護とガバナンス、および Office 365 Advanced コンプライアンスは、高度なメッセージ暗号化によるメリットを得るための権限をユーザーに提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -405,25 +442,46 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプ�
 
 管理者は、高度なメッセージ暗号化のメールフロールールをライセンスユーザーにのみ適用する必要があります。 メールフロールールの定義の詳細については、「 [Office のメールメッセージを暗号化するためのメールフロールールを定義する 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)」を参照してください。
 
-## <a name="supervision-policies"></a>監督ポリシー
+## <a name="communication-compliance"></a>通信のコンプライアンス
 
-Office 365 の監督ポリシーでは、指定されたレビュー担当者による調査のために従業員の通信を取得できます。 組織内の内部および外部の電子メール、Microsoft Teams、またはサードパーティの通信をキャプチャする特定のポリシーを定義できます。 その後、レビュー担当者がメッセージを調べて、組織のメッセージ標準に準拠していることを確認し、分類型を使用してそれらを解決できます。
-
-### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
-
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、監督ポリシーからメリットを得ることができます。
+Office 365 の通信コンプライアンスでは、監督ポリシーを作成して、指定した校閲者による調査のために従業員の通信をキャプチャできます。 組織内の内部および外部の電子メール、Microsoft Teams、またはサードパーティの通信をキャプチャする特定のポリシーを定義できます。 その後、レビュー担当者がメッセージを調べて、組織のメッセージ標準に準拠していることを確認し、分類型を使用してそれらを解決できます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
 ユーザーは、監督ポリシーによって通信を監視することによって、サービスからメリットを得ることができます。
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、microsoft 365 E5/a5 情報保護とガバナンス、および Office 365 Advanced コンプライアンスは、コミュニケーションのコンプライアンスからメリットを得るための権限をユーザーに提供します。
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
 管理者セキュリティ & コンプライアンスセンターで監督ポリシーを作成します。 これらのポリシーでは、組織内で検討する必要のある通信およびユーザーを定義し、通信で満たす必要のあるカスタム条件を定義し、レビューを実行するユーザーを指定します。
- 
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、監督ポリシーに含める特定のユーザーまたはグループを選択します。 グループを選択するときに、監督ポリシーから除外するグループ内の特定のユーザーを選択することもできます。 監督ポリシーの詳細については、「 [Office 365 の監督ポリシー](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)」を参照してください。
+管理者は、監督ポリシーに含める特定のユーザーまたはグループを選択します。 グループを選択するときに、監督ポリシーから除外するグループ内の特定のユーザーを選択することもできます。 監督ポリシーの詳細については、「 [Office 365 の監督ポリシー](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)」を参照してください。
+
+## <a name="insider-risk-management"></a>Insider リスク管理
+
+Insider リスク管理は、組織内のリスクのあるアクティビティを検出、調査、処理を実行できるようにすることによって、内部的なリスクを最小限に抑えるために役立つ Microsoft 365 のソリューションです。
+カスタムポリシーを使用すると、必要に応じて Microsoft Advanced eDiscovery にエスカレーションした場合を含めて、組織内の悪意のある、誤ったリスクのあるアクティビティを検出し、アクションを実行できます。 組織内のリスクアナリストは、ユーザーが組織のコンプライアンス標準に準拠していることを確認するために、適切なアクションを迅速に実行できます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+ユーザーのアクティビティを監視してリスクを監視することでメリットが得られます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Microsoft 365 E5/A5 Insider リスク管理は、ユーザーが Insider リスク管理から恩恵を受けるための権限を提供します。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+Insider リスク管理ポリシーは、Microsoft 365 コンプライアンスセンターで作成し、ユーザーに割り当てる必要があります。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+Microsoft 365 コンプライアンスセンターでポリシーを作成する場合は、[**ユーザーとグループの選択**] ページで、[**ユーザーまたはグループ**の選択] を選択してライセンスユーザーのみを選択するか、すべてのユーザーがライセンスを持っている場合は [**すべてのユーザー] および [メールが有効なグループ**] チェックボックスをオンにします。 詳細については、「 [insider リスク管理の概要](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)」を参照してください。
 
 ## <a name="conditional-access-policies"></a>条件付きアクセスポリシー
 
@@ -459,7 +517,7 @@ Microsoft 365 サービスのユーザーアクティビティに関連する監
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Office 365 または Microsoft 365 E5 サブスクリプションを持つすべての組織のために、テナントレベルで Advanced Audit が有効になっており、アクティビティ (適切なライセンスを持つユーザーによって実行される) の監査ログの1年間の保持が自動的に提供されます。Azure Active Directory、Exchange、および SharePoint。 さらに、組織は監査ログの保持ポリシーを使用して、他の Microsoft 365 サービスのアクティビティによって生成された監査レコードの保持期間を管理できます。 詳細については、「[監査ログ保持ポリシーを管理する](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)」を参照してください。
+既定では、Office 365 または Microsoft 365 E5 サブスクリプションを持つすべての組織のテナントレベルで Advanced Audit が有効になっており、Azure Active Directory、Exchange、および SharePoint のアクティビティ (適切なライセンスを持つユーザーによって実行される) の監査ログの1年の保持期間が自動的に付与されます。 さらに、組織は監査ログの保持ポリシーを使用して、他の Microsoft 365 サービスのアクティビティによって生成された監査レコードの保持期間を管理できます。 詳細については、「[監査ログ保持ポリシーを管理する](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 

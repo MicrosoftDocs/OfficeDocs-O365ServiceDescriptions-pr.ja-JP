@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260732"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093564"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのコンプライアンス機能とセキュリティ機能
 
@@ -37,9 +37,6 @@ Exchange Online Archiving で提供されるアイテム保持ポリシー機能
 ### <a name="in-place-hold-and-litigation-hold"></a>インプレース保持と訴訟ホールド
 
 訴訟となる可能性がある程度見込まれる場合、組織では、訴訟に関連する電子メールを含めた電子的に格納された情報 (ESI) を保持する必要があります。訴訟の詳細が明らかになる前に訴訟の可能性を予測する場合もあるため、保持の対象が広範囲にわたることもあります。組織では、特定の問題に関するすべての電子メールを保存したり、特定の個人に関するすべての電子メールを保存したりします。
-  
-> [!NOTE]
-> 現時点で、インプレース ホールドと訴訟ホールドは、POP または IMAP クライアントを使って送信されるメール、または SMTP プロトコルを使用するカスタム アプリケーションによって送信されるメールには適用されません。 
   
 Exchange Online では、次の目標を達成するためにインプレース保持または訴訟ホールドを使用できます。
   
