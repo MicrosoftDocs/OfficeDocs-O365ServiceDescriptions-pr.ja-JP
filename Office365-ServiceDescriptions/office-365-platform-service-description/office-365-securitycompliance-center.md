@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: The Office 365 Security &amp; Compliance Center is designed to help you manage compliance features across Office 365 for your organization. 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101126"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109437"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 セキュリティ/コンプライアンス センター
 
@@ -37,17 +37,17 @@ The [Office 365 Security &amp; Compliance Center](https://protection.office.com/
 |[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(フィッシングキャンペーン用の脅威エクスプローラーなど)<sup>6</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |はい   |はい   |はい   |はい   |はい   |はい   |
-|[Exchange online、SharePoint online、OneDrive For business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7、9</sup>のデータ損失防止 |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
+|[Exchange online、SharePoint online、OneDrive For business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7、9</sup>のデータ損失防止 |いいえ   |いいえ   |いいえ   |あり   |はい   |いいえ   |
 |[Microsoft Teams の通信データ損失防止](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ  |
-|[手動感度ラベル](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | いいえ | いいえ  | ○ | はい | はい | いいえ  |
+|[手動感度ラベル](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | いいえ | いいえ  | あり | はい | はい | いいえ  |
 |自動感度ラベル| いいえ | いいえ  | いいえ | いいえ | はい<sup>13</sup> | はい  |
 |[情報障壁](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ  |
 |[情報ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |はい   |はい   |はい   |はい   |はい   |はい   |
 |[高度な情報ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |はい   |はい   |はい   |はい   |はい   |はい   |
 |[電子情報開示のケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |はい   |はい   |はい   |はい   |はい   |はい   |
-|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
-|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
+|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |いいえ   |いいえ   |いいえ   |あり   |はい   |いいえ   |
+|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |いいえ   |いいえ   |いいえ   |あり   |はい   |いいえ   |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[アーカイブ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |はい<sup>3</sup>  |はい<sup>3</sup>  |はい<sup>3</sup>  |はい<sup>4</sup>  |はい<sup>4</sup>  |いいえ   |
 |[ユニファイド監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |はい   |はい   |はい   |はい   |はい   |はい   |
@@ -75,11 +75,11 @@ The [Office 365 Security &amp; Compliance Center](https://protection.office.com/
 
 <sup>8</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。
 
-<sup>9</sup> DLP アドオンは、Exchange または SharePoint/OneDrive のいずれかがある SKU に追加できます。
+<sup>9</sup> Office 365 データ損失防止アドオンが必要です。
 
 <sup>10 個</sup>の機密ラベルも Azure Information Protection P1 と P2 に含まれています。
 
-<sup>11</sup> Exchange Online プラン2ライセンスは、アイテム保持ポリシーを使用してユーザーメールボックスのコンテンツを保持するために必要です。
+<sup>11</sup> Exchange online プラン2または Exchange online アーカイブライセンスは、アイテム保持ポリシーを使用してユーザーメールボックスのコンテンツを保持するために必要です。
 
 <sup>12</sup> Advanced audit では、Azure Active Directory、Exchange、および SharePoint のアクティビティの監査ログの1年間の保持が提供され、他の Office 365 サービスの監査ログの保持を管理するためのカスタム監査ログ保持ポリシーを作成する機能が提供されます。 また、調査のための重要なイベントへのアクセス、および Office 365 Management Activity API への高帯域幅アクセスを提供します。
 
@@ -106,7 +106,7 @@ The [Office 365 Security &amp; Compliance Center](https://protection.office.com/
 |[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |いいえ   |はい   |不要   |いいえ   |はい   |いいえ  |はい (<sup>10</sup> ) |いいえ<sup>4</sup>  |いいえ<sup>4</sup>  |
 |[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |いいえ   |はい   |不要   |いいえ   |はい   |いいえ  |はい (<sup>10</sup> ) |いいえ<sup>4</sup>  |いいえ<sup>4</sup>  |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |
-|[Exchange Online の制限](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |いいえ   |はい   |いいえ   |○   |はい   |はい (<sup>10</sup> ) |はい (<sup>10</sup> )  |いいえ   |いいえ   |
+|[Exchange Online の制限](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |いいえ   |はい   |いいえ   |あり   |はい   |はい (<sup>10</sup> ) |はい (<sup>10</sup> )  |いいえ   |いいえ   |
 |[ユニファイド監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|はい|はい|はい|はい|はい|はい (<sup>10</sup> )|はい (<sup>10</sup> )|いいえ|いいえ|
 |詳細な監査|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[通信のコンプライアンス (監督ポリシー)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |
@@ -131,7 +131,7 @@ The [Office 365 Security &amp; Compliance Center](https://protection.office.com/
 
 <sup>8</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。
 
-<sup>9</sup> DLP アドオンは、Exchange または SharePoint/OneDrive のいずれかがある SKU に追加できます。
+<sup>9</sup> Office 365 データ損失防止アドオンが必要です。
 
 <sup>10</sup> OneDrive for business に格納されているファイルに限定します。
 
