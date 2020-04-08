@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101116"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171143"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -168,7 +168,7 @@ SecOps アナリストおよびセキュリティ担当者は、Microsoft Defend
 
 Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
 
-## <a name="information-protection"></a>Information Protection
+## <a name="information-protection"></a>情報保護
 
 情報保護は、機密ドキュメントや電子メールの検索、分類、ラベル付け、保護を組織にサポートします。 管理者は、ラベルを自動的に適用するためのルールと条件を定義でき、ユーザーはラベルを手動で適用することも、ラベルの適用に関する推奨事項を使用することもできます。
 
@@ -323,7 +323,7 @@ PAM を有効にすることで、組織はゼロに立った権限で運用で�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/a5 情報の保護とガバナンス、Office 365 E5/A5/G5、および Office 365 Advanced コンプライアンスは、ユーザーが PAM から恩恵を受けるための権限を提供します。
+Office 365 E5/A5、Microsoft 365 E5/a5、Microsoft 365 E5/A5 コンプライアンス、および Microsoft 365 E5/A5 Insider リスク管理 PAM による恩恵を受けるためのユーザーの権限が提供されます。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -444,23 +444,23 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 法令遵�
 
 ## <a name="communication-compliance"></a>通信のコンプライアンス
 
-Office 365 の通信コンプライアンスでは、監督ポリシーを作成して、指定した校閲者による調査のために従業員の通信をキャプチャできます。 組織内の内部および外部の電子メール、Microsoft Teams、またはサードパーティの通信をキャプチャする特定のポリシーを定義できます。 その後、レビュー担当者がメッセージを調べて、組織のメッセージ標準に準拠していることを確認し、分類型を使用してそれらを解決できます。
+Microsoft 365 の通信コンプライアンスは、組織内の不適切なメッセージに対する修復措置を検出、取得、および解決するのに役立つため、コミュニケーションリスクを最小限に抑えることができます。 組織内の内部および外部の電子メール、Microsoft Teams、またはサードパーティの通信をキャプチャする特定のポリシーを定義できます。 レビュー担当者は、組織のメッセージ標準に準拠しているかどうかを確認するために、適切な修復処置を行うことができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーは、監督ポリシーによって通信を監視することによって、サービスからメリットを得ることができます。
+コンプライアンスの専門家は、コミュニケーションコンプライアンスポリシーによって組織の通信を監視することにより、サービスからメリットを得られます。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、microsoft 365 E5/a5 情報保護とガバナンス、および Office 365 Advanced コンプライアンスは、コミュニケーションのコンプライアンスからメリットを得るための権限をユーザーに提供します。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、および Microsoft 365 E5/A5 Insider リスク管理は、コミュニケーションへの対応のためのユーザーの権利を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-管理者セキュリティ & コンプライアンスセンターで監督ポリシーを作成します。 これらのポリシーでは、組織内で検討する必要のある通信およびユーザーを定義し、通信で満たす必要のあるカスタム条件を定義し、レビューを実行するユーザーを指定します。
+管理者およびコンプライアンスの専門家は、Microsoft 365 コンプライアンスセンターで通信コンプライアンスポリシーを作成します。 これらのポリシーは、組織内で検討する必要のある通信およびユーザーを定義し、通信が満たす必要があるカスタム条件を定義し、レビューを実行するユーザーを指定します。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、監督ポリシーに含める特定のユーザーまたはグループを選択します。 グループを選択するときに、監督ポリシーから除外するグループ内の特定のユーザーを選択することもできます。 監督ポリシーの詳細については、「 [Office 365 の監督ポリシー](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)」を参照してください。
+管理者は、特定のユーザーまたはグループを選択して、通信コンプライアンスポリシーに含めることができます。 グループを選択するときに、通信コンプライアンスポリシーから除外するグループ内の特定のユーザーを選択することもできます。 通信コンプライアンスポリシーの詳細については、「 [Microsoft 365 の通信コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)」を参照してください。
 
 ## <a name="insider-risk-management"></a>Insider リスク管理
 
@@ -483,7 +483,7 @@ Insider リスク管理ポリシーは、Microsoft 365 コンプライアンス�
 
 Microsoft 365 コンプライアンスセンターでポリシーを作成する場合は、[**ユーザーとグループの選択**] ページで、[**ユーザーまたはグループ**の選択] を選択してライセンスユーザーのみを選択するか、すべてのユーザーがライセンスを持っている場合は [**すべてのユーザー] および [メールが有効なグループ**] チェックボックスをオンにします。 詳細については、「 [insider リスク管理の概要](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)」を参照してください。
 
-## <a name="conditional-access-policies"></a>条件付きアクセスポリシー
+## <a name="conditional-access-policies"></a>条件付きアクセス ポリシー
 
 条件付きアクセスとは、シグナルを取り込んで、意思決定を行い、組織のポリシーを適用するために Azure Active Directory によって使用されるツールです。 条件付きアクセスは、identity 被制御面の中心になります。 最も単純な条件付きアクセスポリシーは、if-then ステートメントです。 ユーザーがリソースにアクセスする場合は、アクションを実行する必要があります。 例: 給与管理者は、給与アプリケーションにアクセスする必要があり、それにアクセスするために多要素認証を実行する必要があります。
 
