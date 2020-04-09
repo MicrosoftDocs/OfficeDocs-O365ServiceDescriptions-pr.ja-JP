@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609838"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197963"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -85,13 +85,13 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |[安全な添付ファイル](#safe-attachments)|はい|はい|はい|
 |Teams での安全な添付ファイル|はい|はい|はい|
 |[安全なリンク](#safe-links)|はい|はい|はい|
-|Teams での安全なリンク|いいえ|いいえ|いいえ|
+|Teams での安全なリンク|はい|はい|はい|
 |[SharePoint、OneDrive、Microsoft Teams 用の ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|はい|はい|はい|
 |[フィッシング対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
 |[リアルタイムレポート](#real-time-reports)|はい|はい|はい|
 |*自動化、調査、修復、教育*|
 |[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
-|[エクスプローラー](#explorer) (高度な脅威調査)|いいえ|はい|はい|
+|脅威調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[インシデント対応の自動化](#automated-incident-response)|いいえ|はい|はい|
 |[攻撃シミュレータ](#attack-simulator)|いいえ|はい|はい|
 
@@ -116,6 +116,8 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 - Windows 上の Word、Excel、PowerPoint、および Visio と、iOS および Android デバイス上の Office アプリ
 
+- Microsoft Teams チャンネルおよびチャット
+
 > [!NOTE]
 > ユーザーが ATP<sup>\*</sup>のライセンスを持っている必要があり、Atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
 >
@@ -125,7 +127,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams 用の ATP
 
-[SharePoint、OneDrive、Microsoft Teams 用の ATP は、](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)チームサイトやドキュメントライブラリで悪意のあるものとして識別されたファイルを検出してブロックするのに便利です。
+[SharePoint、OneDrive、Microsoft Teams 用の ATP は、](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)チームサイトやドキュメントライブラリで悪意のあるものとして識別されたファイルを検出してブロックするのに便利です。 さらに、Microsoft Teams のチャネルとチャットでは、ATP の安全なリンク保護が利用可能になりました。
 
 ### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
 
@@ -135,15 +137,25 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 Office 365 セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムのレポートと洞察](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)が含まれており、セキュリティおよびコンプライアンスの管理者は、セキュリティ攻撃や不審な活動の増加など、優先度の高い問題に焦点を当てることができます。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
 
-### <a name="threat-trackers"></a>脅威トラッカー
-
-[脅威のトラッカー](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers)は、組織に影響を与える可能性がある cybersecurity の問題に関するインテリジェンスを承認されたユーザーに提供する情報ウィジェットとビューです。
-
 ### <a name="explorer"></a>Explorer
 
 エクスプローラー (脅威エクスプローラーとも呼ばれます) はリアルタイムレポートで、承認されたユーザーが最近の脅威を識別して分析できるようにします。 既定では、このレポートには過去7日間のデータが表示されます。ただし、過去30日間のデータを表示するようにビューを変更することはできます。
 
+エクスプローラーには、マルウェア (電子メールとコンテンツなど)、送信、フィッシング、すべての電子メールなどのビューが含まれています。
+
 エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「[脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
+
+### <a name="real-time-detections"></a>リアルタイムの検出
+
+リアルタイム検出は、承認されたユーザーが最近の脅威を識別して分析できるリアルタイムのレポートです。 エクスプローラーと同様に、このレポートには、既定で過去7日間のデータが表示されます。
+
+リアルタイム検出には、マルウェア (電子メールとコンテンツなど)、送信、およびフィッシングなどのビューが含まれます。
+
+エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「[脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
+
+### <a name="threat-trackers"></a>脅威トラッカー
+
+[脅威のトラッカー](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers)は、組織に影響を与える可能性がある cybersecurity の問題に関するインテリジェンスを承認されたユーザーに提供する情報ウィジェットとビューです。
 
 ### <a name="automated-incident-response"></a>インシデント対応の自動化
 
