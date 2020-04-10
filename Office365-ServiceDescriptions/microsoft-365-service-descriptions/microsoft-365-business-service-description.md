@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能を備えた Office 365 のクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109447"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206624"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business サービスの説明
 
@@ -25,7 +25,6 @@ Microsoft 365 Business は、高度な脅威からビジネスを保護するた
 
 Microsoft 365 Business には、Office 365 Business Premium で利用可能なすべての機能に加えて、追加の Office 365 セキュリティ機能が含まれています。
 
-Microsoft 365 Business には、AD 書き戻し、Azure 多要素認証 (MFA)、および条件付きアクセスを使用したセルフサービスのパスワードリセットと、次の Azure AD Premium P1 機能が含まれています。 Azure AD Premium P1 の全体は含まれていません。
 
 ||||
 |:-----|:-----|:-----|
@@ -88,7 +87,7 @@ Microsoft 365 Business には、AD 書き戻し、Azure 多要素認証 (MFA)、
 |デバイスプロファイルおよびセキュリティ構成の展開<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows Virtual Desktop に移動します。 <br/> |いいえ <br/> |はい <br/> |はい <br/> |
+|Windows Virtual Desktop <br/> |いいえ <br/> |はい <br/> |はい <br/> |
 
 |||
 |:-----|:-----|

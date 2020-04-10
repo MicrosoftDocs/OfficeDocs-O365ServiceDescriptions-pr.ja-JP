@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171143"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215116"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -353,13 +353,13 @@ Microsoft 365 A1/E3/A3/G3/Business、Office 365 E3/A3/G3、および Office 365 
 
 管理者は、[**データ損失防止** > の**場所**] の下にある Office 365 セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Teams チャットおよびチャネルメッセージのデータ損失防止
+## <a name="communication-data-loss-prevention-for-teams"></a>Teams の通信データ損失防止
 
-Teams チャットおよびチャネルメッセージのデータ損失防止 (DLP) を使用すると、組織は、金融情報、個人を特定できる情報、健康関連の情報、その他の機密情報などの機密情報を含むチャットおよびチャネルメッセージをブロックできます。
+Teams の通信 DLP を使用すると、組織は、金融情報、個人を特定できる情報、健康関連の情報、その他の機密情報などの機密情報を含むチャットおよびチャネルメッセージをブロックできます。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、および Office 365 Advanced コンプライアンスは、Teams のチャットおよびチャネルメッセージに DLP を使用してメリットを得られます。
+Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 情報の保護とガバナンス、および Office 365 Advanced コンプライアンスは、Teams のコミュニケーション DLP の恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -379,7 +379,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
