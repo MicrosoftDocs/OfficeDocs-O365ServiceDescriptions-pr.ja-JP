@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
+description: Microsoft Office 365 の管理者はサービスのステータスを表示して、メンテナンスのスケジュールがいつに設定されているかを調べることができます。 サービスの正常性の情報は、Office 365 にサインインしていつでも確認できます。
 ms.openlocfilehash: 612233533b6feb8cfb812661e2566cf6e0526200
 ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/11/2020
 ms.locfileid: "41931933"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
-Microsoft Office 365 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
+Microsoft Office 365 の管理者はサービスのステータスを表示して、メンテナンスのスケジュールがいつに設定されているかを調べることができます。 サービス正常性情報は、Office 365 にサインインしていつでも確認できます。
   
 > [!NOTE]
 > 21Vianet が運用している Office 365 を使用している場合、以下の情報は適用できない場合があります。 代わりに、「[21Vianet のサービス レベル契約](https://www.21vbluecloud.com/office365/O365-SLA/)」を参照してください。 
   
-## <a name="view-status-of-services"></a>サービスの状態の表示
+## <a name="view-status-of-services"></a>サービスの状態を表示
 
 Office 365 のサービス正常性セクションには、サービスの現在の状態とサービスの中断と停止の詳細が表示されます。計画メンテナンスの情報は、メッセージセンターで確認できます。詳細については、「[Office 365 サービスの正常性をチェックする方法](https://docs.microsoft.com/office365/enterprise/view-service-health)」を参照してください。 
   
@@ -40,29 +40,29 @@ Office 365 のサービス正常性セクションには、サービスの現在
     
 - **未計画のダウンタイム:** 未計画のサービス インシデントは、Office 365 スイートのいずれかのサービスが使用できないか応答しない場合に発生します。 
 
-### <a name="recent-worldwide-uptimes"></a>最近使用した世界稼働時間
+### <a name="recent-worldwide-uptimes"></a>全世界での最近の稼働時間
 
-クラウドサービスに移行する場合は、何が起こっているのかを知ることができなくなるわけではありません。 Office 365 では、そうではありません。 サービスの状態を監視し、問題を追跡し、可用性の履歴を確認できるように、運用において透過的にします。 次の表は、世界中の最新データを示しています。
+クラウドサービスに移行したからといって、状況が把握できなくなるわけではありません。 Office 365 なら、そんなことにはなりません。 Microsoft が目標としているのは運用における透明性なので、お客様はサービスの状態の監視や問題の追跡を行うことができます。また、サービスの利用状況を過去にさかのぼって確認することもできます。 下の表は、全世界の稼働時間データを示しています。
 
 <br/>
 
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
-| **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
 | 99.97% <br/> | 99.97% <br/> | 99.98% <br/> | 99.98% <br/> |
 
 <br/>
 
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
-| **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
 | 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
 
 <br/>
 
 |**2017** <br/> ||||
 |:-----|:-----|:-----|:-----|
-| **おける** <br/> | **四半期** <br/> |**四半期** <br/> |**Q4** <br/> |
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
 | 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
 
 <br/>
@@ -79,11 +79,11 @@ Office 365 テナント管理者向けの管理アプリには、外出先で組
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2 用 Office 365 管理パック
 
-Microsoft System Center は、データセンター、クライアントデバイス、ハイブリッドクラウド IT 環境の管理に役立つ統合された管理プラットフォームです。 Office 365 System Center を使用している管理者は、Office 365 管理パックをインポートすることができます。これにより、System Center の Operations Manager 内のすべてのサービス通信が表示されます。 このツールを使用すると、加入しているサービス、アクティブおよび解決済みのサービスインシデント、およびメッセージセンター通信の状態にアクセスできます。 詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+Microsoft System Center は、データ センター、クライアント デバイス、およびハイブリッド型のクラウド IT 環境の管理に役立つ統合された管理プラットフォームです。 System Center を使用する Office 365 管理者は、Office 365 管理パックをインポートできるようになりました。それにより、System Center で Operations Manager 内のすべてのサービス通信の表示が可能になります。 このツールを使用すると、サブスクライブ済みサービス、アクティブおよび解決済みサービス インシデント、およびメッセージ センターとの通信の状態にアクセスできます。 詳細については、「[新しい Office 365 管理ツール](https://www.microsoft.com/ja-JP/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 」のブログ投稿を参照してください。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 サービス通信 API
 
-Office 365 サービス通信 API を使用すると、必要な方法で Office 365 サービス通信にアクセスできます。 この新しい管理ツールを使用すると、Office 365 サービス通信に対してツールを作成または接続できるようになり、環境の監視が容易になる可能性があります。 サービス通信 API を使用すると、環境内の次のものを監視できます。
+Office 365 サービス通信 API の使用で、思いどおりに Office 365 サービス通信にアクセスできます。 この新しい管理ツールを使用すると、Office 365 サービス通信を作成し、ツールを接続できるようになります。これにより、環境の監視を簡略化する可能性が高まります。 サービス通信 API を使用することにより、環境内で以下を監視できます。
   
 - リアルタイムのサービスの正常性
     
@@ -91,7 +91,7 @@ Office 365 サービス通信 API を使用すると、必要な方法で Office
     
 - 計画済みメンテナンスの通知
     
-詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
+詳細については、ブログ投稿「[新しい Office 365 管理ツール](https://www.microsoft.com/ja-JP/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)」にアクセスしてください。 
   
 ## <a name="post-incident-reviews"></a>インシデントの事後レビュー
 
@@ -153,5 +153,5 @@ Office 365 の開発および運用チームは、お客様にビジネス継続
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 プラットフォームサービスの説明](office-365-platform-service-description.md)」を参照してください。
+Office 365 プランで利用できる機能を確認するには、「[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   
