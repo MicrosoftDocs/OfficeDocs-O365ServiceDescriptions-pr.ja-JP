@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215116"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230797"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -37,7 +38,7 @@ SecOps アナリストおよびセキュリティ担当者は、コンピュー�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Azure Active Directory Premium プラン2は、Azure Active Directory Id 保護からメリットを得るための権限をユーザーに提供します。
+Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、および Azure Active Directory Premium プラン2は、Azure Active Directory Id 保護からメリットを得るための権限をユーザーに提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -57,7 +58,7 @@ SecOp アナリストおよびセキュリティ担当者は、Azure ATP の機�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Azure Advanced Threat Protection を使用することにより、Azure ATP からメリットを得ることができます。
+Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、および Azure Advanced Threat Protection を使用することで、Azure ATP からメリットを得ることができます。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -77,7 +78,7 @@ ATP は、フィッシングやゼロデイマルウェアなどの高度な攻�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
 
-Office 365 Advanced Threat Protection、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 Business、および Office 365 ATP プラン1および2は、Office 365 Advanced Threat Protection からメリットを得るためのユーザーの権利を提供します。
+Office 365 Advanced Threat Protection、Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、Microsoft 365 Business、および Office 365 ATP プラン1および2は、Office の高度な脅威保護からメリットを得るためのユーザーの権利を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
