@@ -5,19 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
-ms.date: 4/10/2020
+ms.date: 4/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: この記事では、Microsoft 365 security & コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
+ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
+ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230797"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529210"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -26,7 +26,7 @@ ms.locfileid: "43230797"
 > [!NOTE]
 > 一部のテナントサービスは、現在、特定のユーザーに対する利点を制限することはできません。 ライセンスを付与されたユーザーにサービスのメリットを制限するための取り組みを実施する必要があります。 これにより、ターゲット機能が使用可能になった場合に、サービスが組織に及ぼす影響を回避できます。
 
-ユーザーにライセンスを付与するためのオプションを表示するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、[詳細な microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)をダウンロードしてください。
+ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -207,11 +207,11 @@ AIP スキャナー機能の場合、Microsoft はライセンスされていな
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Office 365 E5/A5/E3/A3/F3/E1 は、1つの組織全体または場所全体にわたるアイテム保持ポリシーまたは手動でのアイテム保持のラベル付けによるメリットを得るための権限をユーザーに提供します。
+Microsoft 365 E5/A5/E3/A3/F1/F3/Business Premium、Office 365 E5/A5/ビジネスプレミアム、Office E5/A5/E3/A3/F3/E1 は、1つの組織全体または場所全体にわたるアイテム保持ポリシーまたは手動での保持ラベル付けによるメリットを得るための権限をユーザーに提供します。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5 情報の保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが自動的に保持ラベルまたはポリシーを適用し、カスタムイベントに基づいて保持ラベルの保存期間を開始し、ラベルの保持期間の最後に、サードパーティのデータをインポートし、ラベル付けされたコンテンツを検出し、ラベル付けされたアクティビティを監視します。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 E5/A5 情報の保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが自動的に保持ラベルまたはポリシーを適用し、カスタムイベントに基づいて保持ラベルの保存期間を開始し、ラベルの保持期間の最後に、サードパーティのデータをインポートし、ラベル付けされたコンテンツを検出し、ラベル付けされたアクティビティを監視します。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5 Information Protection and ガバナンスは、ユーザーが trainable 分類子に基づいて保持ラベルを自動的に適用することによるメリットを得られるようにするための権限をユーザーに提供します。
+Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 365 E5/A5 情報保護とガバナンス trainable 分類子に基づいて保持ラベルを自動的に適用することによるメリットを得るためのユーザーの権限を提供します。
 
 ライセンスによる特定の権限については、[詳細な Microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)を参照してください。
 
@@ -231,9 +231,9 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Micro
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5/コンプライアンス、Microsoft E5/A5 情報の保護とガバナンス、Office 365 E5/A5、Office 365 Advanced コンプライアンスは、レコードとしてのアイテムの宣言、保持またはレコードのラベルの自動適用、廃棄レビュープロセスの実行 (たとえば、trainable 分類子に
+Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 365 E5/a5 情報の保護とガバナンス、Office 365 E5/A5、Office 365 Advanced コンプライアンスは、レコードとしてのアイテムの宣言、保持またはレコードのラベルの自動的な適用、廃棄レビュープロセスの実行 (trainable 分類子に基づいて保持ラベルを自動的に適用する場合を除く)
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/A5 Information Protection and ガバナンスは、ユーザーが trainable 分類子に基づいて保持またはレコードのラベルを自動的に適用することによるメリットを得られるようにするための権限を提供します。
+Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 365 E5/A5 情報保護とガバナンス trainable 分類子に基づいて、保持またはレコードのラベルを自動的に適用することによるメリットを得るためのユーザーの権限を提供します。
 
 ライセンスによる特定の権限については、[詳細な Microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)を参照してください。
 
@@ -280,7 +280,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Micro
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5 情報保護とガバナンス、Office 365 E5/A5/G5、および Office 365 Advanced コンプライアンスは、顧客キーからメリットを得るためのユーザーの権限を提供します。 顧客キーのすべての利点を得るには、Azure Key Vault のサブスクリプションも必要です。
+Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 365 E5/A5 情報保護とガバナンス、Office の 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが顧客キーから恩恵を受けるための権限を提供します。 顧客キーのすべての利点を得るには、Azure Key Vault のサブスクリプションも必要です。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -344,7 +344,7 @@ Exchange Online、SharePoint Online、OneDrive for Business の Office 365 デ�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 A1/E3/A3/G3/Business、Office 365 E3/A3/G3、および Office 365 データ損失防止を使用すると、ユーザーは、Exchange Online、SharePoint Online、および OneDrive for business の Office 365 DLP からメリットを得ることができます。
+Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3、および Office 365 データ損失防止を使用すると、ユーザーは、Exchange Online、SharePoint Online、OneDrive for business の Office 365 DLP からメリットを得ることができます。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -380,7 +380,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 情報の保護と�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 以下に例を示します。
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
@@ -391,7 +391,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 情報の保護と�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、Microsoft 365 E5/a5 情報保護とガバナンス、Office 365 E5/A5/G5、および Office 365 Advanced コンプライアンスは、ユーザーが情報の障壁から恩恵を受けるための権限を提供します。
+Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 365 E5/A5 情報保護とガバナンス、Office の 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが情報バリアから恩恵を受けるための権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -413,7 +413,7 @@ Office 365 Message Encryption (OME) は、Azure Rights Management (Azure RMS) �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E3/A3/G3、Office 365 E3/A3/G3、および Azure Information Protection Plan 1 は、ユーザーが Office 365 Message Encryption から恩恵を受けるための権限を提供します。
+Microsoft 365 E3/A3、Office 365 E3/A3、および Azure Information Protection Plan 1 は、Office 365 Message Encryption からメリットを得るための権限をユーザーに提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -433,7 +433,7 @@ Office 365 Advanced Message Encryption を使用すると、お客様は、外�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 法令遵守、Microsoft 365 E5/a5 情報保護とガバナンス、および Office 365 Advanced コンプライアンスは、高度なメッセージ暗号化によるメリットを得るための権限をユーザーに提供します。
+Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 E5/A5 情報保護とガバナンス、および Office 365 Advanced コンプライアンスは、高度なメッセージ暗号化からメリットを得るための権限をユーザーに提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -443,7 +443,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 法令遵�
 
 管理者は、高度なメッセージ暗号化のメールフロールールをライセンスユーザーにのみ適用する必要があります。 メールフロールールの定義の詳細については、「 [Office のメールメッセージを暗号化するためのメールフロールールを定義する 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)」を参照してください。
 
-## <a name="communication-compliance"></a>通信のコンプライアンス
+## <a name="communication-compliance"></a>通信コンプライアンス
 
 Microsoft 365 の通信コンプライアンスは、組織内の不適切なメッセージに対する修復措置を検出、取得、および解決するのに役立つため、コミュニケーションリスクを最小限に抑えることができます。 組織内の内部および外部の電子メール、Microsoft Teams、またはサードパーティの通信をキャプチャする特定のポリシーを定義できます。 レビュー担当者は、組織のメッセージ標準に準拠しているかどうかを確認するために、適切な修復処置を行うことができます。
 
@@ -453,7 +453,7 @@ Microsoft 365 の通信コンプライアンスは、組織内の不適切なメ
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプライアンス、および Microsoft 365 E5/A5 Insider リスク管理は、コミュニケーションへの対応のためのユーザーの権利を提供します。
+Office 365 E5/A5、Microsoft 365 E5/a5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 E5/A5 Insider リスク管理は、コミュニケーションへの対応のためのユーザーの権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -463,7 +463,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプ�
 
 管理者は、特定のユーザーまたはグループを選択して、通信コンプライアンスポリシーに含めることができます。 グループを選択するときに、通信コンプライアンスポリシーから除外するグループ内の特定のユーザーを選択することもできます。 通信コンプライアンスポリシーの詳細については、「 [Microsoft 365 の通信コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)」を参照してください。
 
-## <a name="insider-risk-management"></a>Insider リスク管理
+## <a name="insider-risk-management"></a>インサイダー リスクの管理
 
 Insider リスク管理は、組織内のリスクのあるアクティビティを検出、調査、処理を実行できるようにすることによって、内部的なリスクを最小限に抑えるために役立つ Microsoft 365 のソリューションです。
 カスタムポリシーを使用すると、必要に応じて Microsoft Advanced eDiscovery にエスカレーションした場合を含めて、組織内の悪意のある、誤ったリスクのあるアクティビティを検出し、アクションを実行できます。 組織内のリスクアナリストは、ユーザーが組織のコンプライアンス標準に準拠していることを確認するために、適切なアクションを迅速に実行できます。
@@ -474,7 +474,7 @@ Insider リスク管理は、組織内のリスクのあるアクティビティ
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、および Microsoft 365 E5/A5 Insider リスク管理は、ユーザーが Insider リスク管理から恩恵を受けるための権限を提供します。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、および Microsoft 365 E5/A5 Insider リスク管理は、ユーザーが Insider リスク管理から恩恵を受けるための権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -490,7 +490,7 @@ Microsoft 365 コンプライアンスセンターでポリシーを作成する
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Enterprise Mobility + Security E3/Security E3/Security E3、Microsoft 365 F3/E3/A3/G3、および Azure Active Directory Premium プラン1は、条件付きアクセスポリシーからメリットを得られます。 Enterprise Mobility + Security E5/A5/G5 のライセンスユーザー、Microsoft 365 E5/A5/G5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) からメリットを得ることができます。
+Enterprise Mobility + Security E3/Security E3、Microsoft 365 F3/E3/A3、および Azure Active Directory Premium プラン1のライセンスを持つユーザーは、条件付きアクセスポリシーからメリットを得られます。 Enterprise Mobility + Security E5/G5 のライセンスユーザー、Microsoft 365 E5/A5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) によってメリットを得られます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
