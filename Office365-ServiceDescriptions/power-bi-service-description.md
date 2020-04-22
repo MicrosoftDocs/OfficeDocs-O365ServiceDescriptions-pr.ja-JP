@@ -12,20 +12,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI は、クラウドベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータに接続して、データをより速く、効率よく、そして理解できるようにします。 使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
-ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263471"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638975"
 ---
 # <a name="power-bi-service-description"></a>Power BI サービスの説明
 
 Power BI は、クラウドベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータに接続して、データをより速く、効率よく、そして理解できるようにします。 使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
   
-現在、Power BI は Office 365 Enterprise E5 バージョンの一部として入手できます。詳細については、[Power BI](https://powerbi.microsoft.com/) にアクセスしてください。
+現在、Power BI は Office 365 Enterprise E5 バージョンの一部として入手できます。 詳細については、[Power BI](https://powerbi.microsoft.com/) にアクセスしてください。
   
-各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
+プラン全体の機能を比較するには、「 [Microsoft 365 for business プランの比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
   
 ## <a name="power-bi-plans"></a>Power BI のプラン
 

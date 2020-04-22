@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609868"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639845"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -31,7 +31,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、知識、および
 
 簡単な概要については、「 [SharePoint とは](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)」を参照してください。
   
-どの Office 365 プランに SharePoint が含まれているかを確認するには、[ビジネスプランの office 365 を比較](https://products.office.com/business/compare-more-office-365-for-business-plans)します。 Office 365 のシステム要件については、「 [office のシステム要件](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)」を参照してください。 
+どのプランに SharePoint が含まれているかを確認するには、 [Microsoft 365 for business プランを比較](https://products.office.com/business/compare-more-office-365-for-business-plans)します。 Microsoft 365 のシステム要件については、「 [Office のシステム要件](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)」を参照してください。 
 
 米国政府機関のお客様の SharePoint 機能の相違点については、「 [sharepoint の us government 環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)」を参照してください。
   
@@ -41,7 +41,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、知識、および
   
 ## <a name="subscription-options"></a>サブスクリプションのオプション
 
-Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。スタンドアロン プラン オプションや、別のプランへの変更などの詳細については、「[Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
+Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
 SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、 [firstline サブスクリプション](https://www.microsoft.com/microsoft-365/business/office-365-f1)の一部としてのみ、スタンドアロンのオファーとしては購入されません。 
   
@@ -99,7 +99,7 @@ Microsoft Graph の可用性の詳細については、「 [Office 365 プラッ
 - [移行: 移行マネージャー](/sharepointmigration/mm-get-started)
 - [移行: SharePoint 移行評価ツール](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [移行: Mover.io](https://mover.io/)。 現在、北アメリカのお客様のみが利用できます。
-- [複数地域 (データ常駐)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 アドオンに、少なくと500の Office 365 ライセンスが必要です。 詳細については、Microsoft の担当者にお問い合わせください。
+- [複数地域 (データ常駐)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 少なくと500の Microsoft ライセンスが必要なアドオン。 詳細については、Microsoft の担当者にお問い合わせください。
 - [プログラムによるサイトのプロビジョニング](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [ルートサイトの置き換え](/sharepoint/modern-root-site)
 - [削除されたサイトを復元する](/sharepoint/restore-deleted-site-collection)
@@ -124,7 +124,7 @@ SharePoint の管理者向けヘルプについては、「 [Sharepoint Online a
 - [送信中および保存中の暗号化](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [アイドルセッションサインアウト](/sharepoint/sign-out-inactive-users)
 - [情報管理ポリシー](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [Information Rights Management (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 Azure Information Protection スタンドアロンまたはスイートの一部として必要です。 Azure Information Protection の一部の機能には、Office 365 ProPlus へのサブスクリプションが必要です。
+- [Information Rights Management (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 Azure Information Protection スタンドアロンまたはスイートの一部として必要です。 Azure Information Protection の一部の機能では、エンタープライズ向けの Microsoft 365 アプリへのサブスクリプションが必要です。
 - [以前の時点の状態にドキュメントライブラリを復元する](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [ウイルススキャン](/office365/securitycompliance/virus-detection-in-spo)
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer では次のプロファイル機能が利用可能です。
-ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 88203bd0a62a8094596a3719e5dc3eff09cd6e31
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688002"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640018"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer のプロフィール機能
 
@@ -49,6 +49,6 @@ Yammer では次のプロファイル機能が利用可能です。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
   
 

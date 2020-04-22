@@ -11,23 +11,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
-description: Microsoft Office 365 は、次のネットワーク機能をサポートしています。
-ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Microsoft は、次のネットワーク機能をサポートしています。
+ms.openlocfilehash: 62a474c9fe0161f7b4d876d8ca462e6bfe5e962d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262900"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639765"
 ---
 # <a name="networking"></a>ネットワーク
 
-Microsoft Office 365 は、次のネットワーク機能をサポートしています。
+Microsoft は、次のネットワーク機能をサポートしています。
   
 ## <a name="ports-protocols-and-ip-addresses"></a>ポート、プロトコル、および IP アドレス
 
-Office 365 は IPv4 アドレスおよび IPv6 アドレスを使用します。IPv6 の使用は任意で、Office 365 との接続には必要ありません。Office 365 のすべての機能が IPv6 の使用で完全に有効になるわけではありません。Office 365 での IPv6 サポートの詳細については、「[Office 365 サービスでの IPv6 サポート](https://docs.microsoft.com/office365/enterprise/ipv6-support)」を参照してください。
+Microsoft では、IPv4 アドレスと IPv6 アドレスを使用しています。 IPv6 の使用は任意で、Office 365 との接続には必要ありません。 IPv6 を使用してすべての Microsoft 365 機能が完全に有効になっているわけではありません。 Ipv6 のサポートの詳細については、「 [Microsoft サービスでの ipv6 サポート](https://docs.microsoft.com/office365/enterprise/ipv6-support)」を参照してください。
   
-Office 365 では、許可されている IP アドレスのリストが Office 365 ヘルプに維持されます。詳細については、「[Office 365 URL および IP アドレス範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。21Vianet が運用している Office 365 については、「[21Vianet が運用している Office 365 の URL と IP アドレス](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints)」を参照してください。Office 365 Germany については、「[Office 365 Germany エンドポイント](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)」を参照してください。
+Microsoft は、Microsoft ヘルプで許可されている IP アドレスの一覧を保持しています。 詳細については、「 [url と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。 21Vianet が運用している Office 365 については、「[21Vianet が運用している Office 365 の URL と IP アドレス](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints)」を参照してください。 Office 365 Germany については、「[Office 365 Germany エンドポイント](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)」を参照してください。
   
 > [!IMPORTANT]
 > 特定の IP アドレス サブネットへのルーティングではなく、上に記載されたルート ドメイン名 (\*.Outlook.com、\*.MicrosoftOnline.com、\*.SharePoint.com など) へのルーティングを有効にすることを強くお勧めします。IP アドレス サブネットを使用すると、変更が行われたときにユーザーに対するサービスが停止する危険があります。 
@@ -36,9 +36,9 @@ Office 365 では、許可されている IP アドレスのリストが Office 
 
 帯域幅の要件については、「[Office 365 のネットワーク計画とパフォーマンスのチューニング](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance)」を参照してください。
   
-## <a name="connecting-to-office-365"></a>Office 365 への接続
+## <a name="connecting-to-microsoft"></a>Microsoft に接続する
 
-Office 365 へのすべての接続は、パブリックインターネットまたはプライベートの Azure ExpressRoute 接続を介して行われ、必要に応じて SSL でセキュリティ保護されます。 Azure ExpressRoute を使用すると、インターネットを迂回して、グローバルな Microsoft ネットワークに直接接続できます。 Microsoft ネットワーク パートナーは、Microsoft のグローバル ネットワークへの接続を提供します。
+Microsoft へのすべての接続は、パブリックインターネットまたはプライベートの Azure ExpressRoute 接続を介して行われ、必要に応じて SSL で保護されています。 Azure ExpressRoute を使用すると、インターネットを迂回して、グローバルな Microsoft ネットワークに直接接続できます。 Microsoft ネットワーク パートナーは、Microsoft のグローバル ネットワークへの接続を提供します。
   
 Azure ExpressRoute について詳しくは、「[Office 365 向け Azure ExpressRoute](https://aka.ms/expressrouteoffice365)」をご覧ください。
   
@@ -48,9 +48,9 @@ Microsoft は、Office 365 で顧客が所有する WAN 高速化デバイスや
   
 ## <a name="the-global-microsoft-network"></a>Microsoft のグローバル ネットワーク
 
-Office 365 のネットワーク インフラストラクチャは、世界規模でサービスを提供するためのデータセンター、サーバー、コンテンツ配信ネットワーク、エッジ コンピューティング ノード、および光ファイバー ネットワークを大規模に組み合わせて構成されています。 各コンポーネントには高度なサービスの計測機能と監視機能が組み込まれているため、データセンター、ネットワーク バックボーン、およびインターネット エクスチェンジなどを詳細に把握して、発生した不具合の原因の特定、診断、管理を行うことができます。 ネットワークは、大規模なネットワーク障害が発生した場合でも、パフォーマンスを低下させることなく、十分な処理能力を維持できるように構成されています。 詳細については、「 [Microsoft グローバルネットワーク](https://docs.microsoft.com/azure/networking/microsoft-global-network)」を参照してください。 
+Microsoft ネットワークインフラストラクチャは、サービスのグローバルな分散を実現するために、データセンター、サーバー、コンテンツ配布ネットワーク、エッジコンピューティングノード、および光ファイバーネットワークの大規模なグローバルポートフォリオで構成されています。 各コンポーネントには高度なサービスの計測機能と監視機能が組み込まれているため、データセンター、ネットワーク バックボーン、およびインターネット エクスチェンジなどを詳細に把握して、発生した不具合の原因の特定、診断、管理を行うことができます。 ネットワークは、大規模なネットワーク障害が発生した場合でも、パフォーマンスを低下させることなく、十分な処理能力を維持できるように構成されています。 詳細については、「 [Microsoft グローバルネットワーク](https://docs.microsoft.com/azure/networking/microsoft-global-network)」を参照してください。 
   
-顧客データの機密性と完全性を維持するため、Microsoft では、コンシューマー サービス用ネットワークと Office 365 用ネットワークを分離しています。情報フローの制御には、以下のような複数の方法を使用しています。
+顧客データの機密性と整合性を維持するために、Microsoft は、コンシューマーサービスネットワークを Microsoft ネットワークとは分離して保持します。 情報フローの制御には、以下のような複数の方法を使用しています。
   
 - 物理的な分離。特定の通信パターンを防止するように構成されたルーターで、ネットワーク セグメントを物理的に分離します。
     
@@ -64,6 +64,6 @@ Office 365 のネットワーク インフラストラクチャは、世界規�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

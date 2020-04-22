@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: 次の SharePoint と Skype for Business の相互運用性の機能は、Project Online で利用できます。
-ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688420"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638938"
 ---
 # <a name="project-publishing"></a>プロジェクトの発行
 
@@ -51,6 +51,6 @@ Project Web App を使用してプロジェクトを発行します。 プロジ
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
 

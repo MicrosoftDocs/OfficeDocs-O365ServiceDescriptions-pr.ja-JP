@@ -11,29 +11,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。
-ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Microsoft 365 のお客様は、Word、Excel、OneNote、または PowerPoint を使用して、移動中のファイルを表示、作成、および編集できます。
+ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545790"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640135"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
-Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Word、Excel、OneNote、PowerPoint を使用している Microsoft Office 365 のお客様は、外出先でファイルを表示、作成、編集することができます。 
+Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Microsoft 365 のお客様は、Word、Excel、OneNote、または PowerPoint を使用して、移動中のファイルを表示、作成、および編集できます。 
   
-各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。
+プラン全体の機能を比較するには、「 [Microsoft 365 for business プランの比較](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Web プランの Office で利用できる機能
 
 組織に最適な Office ソリューションを特定するには、どうすればよいですか? 次の表では、web 機能の Office を機能豊富な Microsoft Office デスクトップアプリと比較しています。 表を使用して、Office の web で利用できる機能を確認し、機能の名前を選択して、その機能がどのように機能するかについての簡単な説明を確認します。 組織内の一部のユーザーが Excel デスクトップアプリの高度なグラフ機能を必要としていて、他のユーザーは、Office を使用して web 用の Word ドキュメントと PowerPoint プレゼンテーションを表示したり、軽く編集したりする必要があることがわかっている場合があります。 
   
 > [!NOTE]
->  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Office 365 ProPlus は、最新 Office デスクトップ スイートの月単位のサブスクリプションです。<br/>  Microsoft Office Online Server のオンプレミスのお客様が Office デスクトップスイートライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入している場合は、web 編集ライセンスを取得します。 
+>  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Microsoft 365 enterprise 用アプリは、最新の Office デスクトップスイートの月単位のサブスクリプションサービスです。 <br/>  Microsoft Office Online Server のオンプレミスのお客様は、office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Microsoft 365 Apps for enterprise license) を購入した場合、web 編集ライセンスの Office を入手できます。 
   
 > [!NOTE]
-> Outlook 電子メールの添付ファイルまたは SharePoint ドキュメントライブラリのいずれかとして Office ドキュメントを開くと、そのドキュメントは web 用の Office で起動し、読み取り専用になります。 Office で web 用のドキュメントを編集する (編集モード) には、「Office 365 Enterprise E1」の Office 365 suite ライセンスが必要です。 デスクトップ アプリケーションでドキュメントを編集するには、Office 365 ProPlus のサブスクリプションや、インストール バージョンの Office Professional Plus 2010 などの Office デスクトップ スイートのライセンスを必要としています。 
+> Outlook 電子メールの添付ファイルまたは SharePoint ドキュメントライブラリのいずれかとして Office ドキュメントを開くと、そのドキュメントは web 用の Office で起動し、読み取り専用になります。 Web 用に Office のドキュメントを編集する (編集モード) には、Office 365 Enterprise E1 などの suite ライセンスが必要です。 デスクトップアプリでドキュメントを編集するには、Office デスクトップスイートライセンスが必要です (エンタープライズサブスクリプション用の Microsoft 365 アプリ、またはインストールされている Office Professional Plus 2010 のバージョンなど)。 
   
 ### <a name="word"></a>Word
 
@@ -137,7 +137,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[セルのドラッグ アンド ドロップ](excel-online.md#drag-and-drop-cells) <br/> |はい  <br/> |はい  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |はい  <br/> |はい  <br/>|
 |[ワークシートの複製 (コピー)](excel-online.md#duplicate-copy-worksheets) <br/> |はい  <br/> |はい  <br/>|
-|[Web ページまたはブログページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |はい  <br/> |いいえ  <br/> |
+|[Web ページまたはブログページへのブックの埋め込み (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |必要  <br/> |いいえ  <br/> |
 |[外部参照](excel-online.md#external-references-links) <br/> |いいえ<sup>4</sup> <br/> |はい  <br/> |
 |[フィルハンドル](excel-online.md#fill-handle) <br/> |はい  <br/> |はい  <br/> |
 |[検索](excel-online.md#find) <br/> |はい  <br/> |はい  <br/> |
@@ -170,7 +170,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[既存のデータ接続の更新](excel-online.md#refresh-existing-data-connections) <br/> |はい  <br/> |はい  <br/> |
 |[重複する値を削除する](excel-online.md#remove-duplicate-values) <br/> |はい  <br/> |はい  <br/> |
 |[シート名の変更とシートの追加](excel-online.md#rename-and-add-sheets) <br/> |はい  <br/> |はい  <br/> |
-|[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |はい  <br/> |いいえ  <br/> |
+|[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |必要  <br/> |いいえ  <br/> |
 |[置換](excel-online.md#replace) <br/> |はい  <br/> |はい  <br/> |
 |[Rights management: IRM とパスワードのセキュリティ](excel-online.md#rights-management-irm-and-password-security) <br/> |いいえ  <br/> |はい  <br/> |
 |[コピーを保存またはダウンロードする](excel-online.md#save-or-download-a-copy) <br/> |はい  <br/> |はい  <br/> |
@@ -180,7 +180,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[データの並べ替えとフィルター処理](excel-online.md#sort-and-filter-data) <br/> |はい  <br/> |はい  <br/> |
 |[スプレッドシートの監査とコンプライアンス](excel-online.md#spreadsheet-audit-and-compliance) <br/> |いいえ  <br/> |はい  <br/> |
 |[ステータス バーの集計](excel-online.md#status-bar-aggregates) <br/> |はい  <br/> |はい  <br/> |
-|[アンケート調査](excel-online.md#surveys) <br/> |はい  <br/> |いいえ  <br/> |
+|[アンケート調査](excel-online.md#surveys) <br/> |必要  <br/> |いいえ  <br/> |
 |[教えて](excel-online.md#tell-me) <br/> |はい  <br/> |はい  <br/>|
 |[テキストの書式設定](excel-online.md#text-formatting) <br/> |はい  <br/> |はい  <br/>|
 |[合計データ](excel-online.md#total-data) <br/> |はい  <br/> |はい  <br/>|
@@ -221,7 +221,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[インク表示](onenote-online.md#ink-viewing) <br/> |はい  <br/> |はい  <br/> |
 |[ナビゲーション](onenote-online.md#navigation) <br/> |はい  <br/> |はい  <br/> |
 |[ノートブック管理:セクション/ノートブックを横断するページのファイリング、セクションの並べ替え、セクション グループの作成/削除](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |はい<sup>1</sup> <br/> |はい  <br/> |
-|[Office アドイン](onenote-online.md#office-add-ins) <br/> |はい<sup>2</sup> <br/> |はい  <br/> |
+|[Office アドイン](onenote-online.md#office-add-ins) <br/> |はい<sup>2</sup> <br/> |必要  <br/> |
 |[Outlook との統合 (タスク)](onenote-online.md#outlook-integration-tasks) <br/> |いいえ  <br/> |はい  <br/> |
 |[段落の書式設定](onenote-online.md#paragraph-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[画像](onenote-online.md#pictures) <br/> |はい  <br/> |はい  <br/> |
@@ -251,20 +251,20 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |:-----|:-----|:-----|
 |**アプリケーション機能** <br/> |**PowerPoint for the web** <br/> |**PowerPoint デスクトップ アプリ** <br/> |
 |[位置揃え、箇条書き、番号](powerpoint-online.md#alignment-bullets-numbers) <br/> |はい  <br/> |はい  <br/> |
-|[基本的な画面切り替えとアニメーションの適用](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |はい<sup>1</sup> <br/> |はい  <br/> |
+|[基本的な画面切り替えとアニメーションの適用](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |はい<sup>1</sup> <br/> |必要  <br/> |
 |[テキスト、図形、および画像へのリッチ書式の適用](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |いいえ  <br/> |はい  <br/> |
 |[テーマおよびテーマのバリエーションの適用](powerpoint-online.md#apply-themes-and-theme-variants) <br/> |はい  <br/> |はい  <br/> |
 |[オブジェクトの配置](powerpoint-online.md#arrange-objects) <br/> |はい  <br/> |はい  <br/> |
 |[スライド ショーのブロードキャスト](powerpoint-online.md#broadcast-slide-show) <br/> |いいえ  <br/> |はい  <br/> |
 |[クリップボード](powerpoint-online.md#clipboard) <br/> |はい  <br/> |はい  <br/> |
 |[スライドの作成と管理](powerpoint-online.md#create-and-manage-slides) <br/> |はい  <br/> |はい  <br/> |
-|[カスタム アニメーションの作成](powerpoint-online.md#create-custom-animation) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
+|[カスタム アニメーションの作成](powerpoint-online.md#create-custom-animation) <br/> |いいえ<sup>1</sup> <br/> |必要  <br/> |
 |[デザインツール、詳細](powerpoint-online.md#design-tools-advanced) <br/> |いいえ  <br/> |はい  <br/> |
-|[Web ページやブログ ページへのプレゼンテーションの埋め込み](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |はい  <br/> |いいえ  <br/> |
+|[Web ページやブログ ページへのプレゼンテーションの埋め込み](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |必要  <br/> |いいえ  <br/> |
 |[フォントの書式設定](powerpoint-online.md#font-formatting) <br/> |はい  <br/> |はい  <br/> |
 |[忠実な閲覧表示](powerpoint-online.md#full-fidelity-reading-view) <br/> |はい  <br/> |はい  <br/> |
 |[インクの完全サポート](powerpoint-online.md#full-ink-support) <br/> |いいえ  <br/> |はい<sup>2</sup> <br/> |
-|[アニメーションおよび画面切り替えの全体選択](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
+|[アニメーションおよび画面切り替えの全体選択](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |いいえ<sup>1</sup> <br/> |必要  <br/> |
 |[ヘッダーとフッター](powerpoint-online.md#headers-and-footers) <br/> |いいえ  <br/> |はい  <br/> |
 |[ハイパーリンク](powerpoint-online.md#hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[オンライン ビデオの挿入](powerpoint-online.md#insert-online-video) <br/> |はい  <br/> |はい  <br/> |
@@ -307,9 +307,9 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |:-----|:-----|:-----|
 |**Word 2.0 以降で作成された Word 文書** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.docx)  <br/> |はい  <br/> |はい  <br/> |
-|バイナリ (.doc)  <br/> |はい  <br/> |.docx に変換  <br/> |
+|バイナリ (.doc)  <br/> |必要  <br/> |.docx に変換  <br/> |
 |マクロ (.docm)  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
-|その他 (.dotm, .dotx)  <br/> |はい  <br/> |いいえ  <br/> |
+|その他 (.dotm, .dotx)  <br/> |必要  <br/> |いいえ  <br/> |
 |OpenDocument (.odt)  <br/> |はい  <br/> |はい  <br/> |
 |Portable Document Format (.pdf)  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**Excel 97 以降で作成された Excel ワークブック** <br/> |**表示モード** <br/> |**編集モード** <br/> |
@@ -323,7 +323,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |**PowerPoint 97 以降で作成された PowerPoint プレゼンテーション** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.pptx, .ppsx)  <br/> |はい  <br/> |はい  <br/> |
 |バイナリ (.ppt, .pps)  <br/> |はい  <br/> |.pptx または .ppsx に変換  <br/> |
-|テンプレート (.pot, .potx)  <br/> |はい  <br/> |いいえ  <br/> |
+|テンプレート (.pot, .potx)  <br/> |必要  <br/> |いいえ  <br/> |
 |マクロ (.pptm, .potm, .ppam, .potx, .ppsm)  <br/> |はい<sup>1</sup> <br/> |いいえ  <br/> |
 |アドイン (.ppa, .ppam)  <br/> |いいえ  <br/> |いいえ  <br/> |
 |OpenDocument (.odp)  <br/> |はい  <br/> |はい  <br/> |

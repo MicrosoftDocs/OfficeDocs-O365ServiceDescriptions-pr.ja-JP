@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online は、組織の電子メールインフラストラクチャに対して広範な保存と回復のサポートを提供します。 これには、データ センターでのメールボックス レプリケーションと、削除済みメールボックスと削除済みアイテムを復元する機能が含まれます。
-ms.openlocfilehash: b52345ce9287f0f28187df8efdb89c2eb6a7d9c8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262600"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639795"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性とビジネス継続性
 
@@ -31,7 +31,7 @@ Microsoft がデータを保護する方法の詳細については、「[Office
   
 ## <a name="deleted-mailbox-recovery"></a>削除済みメールボックスの回復
 
-管理者は、Microsoft 365 管理センターを使用して、対応するユーザーアカウントを削除したり、Exchange Online ライセンスを削除したり、リモート Windows PowerShell で**メールボックスの削除**コマンドレットを使用して、exchange online メールボックスを削除したりできます。 メールボックスが削除されると、Exchange Online がメールボックスとその内容を既定で 30 日間保持します。 30 日後、メールボックスは回復不可能になります。 回復したメールボックスには、削除された時点でメールボックスに格納されていたすべてのデータが含まれます。 管理者は、Microsoft 365 管理センターを使用して、保存期間内に削除されたメールボックスを回復できます。 削除されたメールボックスを回復するには、管理者が対応する Office 365 ユーザー アカウントを復元するか、Exchange Online ライセンスをユーザー アカウントに割り当て直す必要があります。 詳細については、「 [Exchange Online でユーザー メールボックスを削除または復元する](https://go.microsoft.com/fwlink/p/?LinkId=286992)」を参照してください。
+管理者は、Microsoft 365 管理センターを使用して、対応するユーザーアカウントを削除したり、Exchange Online ライセンスを削除したり、リモート Windows PowerShell で**メールボックスの削除**コマンドレットを使用して、exchange online メールボックスを削除したりできます。 メールボックスが削除されると、Exchange Online がメールボックスとその内容を既定で 30 日間保持します。 30 日後、メールボックスは回復不可能になります。 回復したメールボックスには、削除された時点でメールボックスに格納されていたすべてのデータが含まれます。 管理者は、Microsoft 365 管理センターを使用して、保存期間内に削除されたメールボックスを回復できます。 削除されたメールボックスを回復するには、管理者は対応するユーザーアカウントを復元するか、Exchange Online ライセンスをユーザーアカウントに再割り当てする必要があります。 詳細については、「 [Exchange Online でユーザー メールボックスを削除または復元する](https://go.microsoft.com/fwlink/p/?LinkId=286992)」を参照してください。
   
 ## <a name="deleted-item-recovery"></a>削除済みアイテムの回復
 
@@ -45,5 +45,5 @@ Exchange Online では、ユーザーは削除済みアイテムフォルダー�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   

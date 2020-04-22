@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 次のコアサービス機能は、Project Online で利用できます。
-ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546010"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638965"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 
@@ -49,11 +49,11 @@ Microsoft PPM ソリューションは、PPM コンピテンシーを獲得し�
   
 ## <a name="service-reliability"></a>サービスの信頼性
 
-Microsoft は、Office 365 お客様のための業界トップの財務保証により、99.9% のアップタイムを約束しました。 「[サービス継続性](https://go.microsoft.com/fwlink/?LinkId=402653)」を参照してください。
+当社は、お客様にとって業界をリードする財務保証を使用して、99.9% のアップタイムを約束しました。 「[サービス継続性](https://go.microsoft.com/fwlink/?LinkId=402653)」を参照してください。
   
 ## <a name="service-updates"></a>サービス更新
 
-Office 365 サービスの機能は新しい機能で定期的に更新されます。 「[サービスの更新](../office-365-platform-service-description/service-updates.md)」を参照してください。
+Microsoft サービスは、新しい機能で定期的に更新されています。 「[サービスの更新](../office-365-platform-service-description/service-updates.md)」を参照してください。
   
 ## <a name="team-member-collaboration"></a>チーム メンバーのコラボレーション
 

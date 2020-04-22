@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216732"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639935"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -25,9 +25,9 @@ ms.locfileid: "41216732"
   
 ## <a name="microsoft-bookings"></a>Microsoft の予約
 
-Microsoft Bookings は、予約ベースで顧客にサービスを提供する小規模企業向けのオンラインのモバイル アプリです。たとえば、美容室、歯科医院、保養所、法律事務所、金融商品取引業者、コンサルタント、自動車販売店などの企業が含まれます。Microsoft Bookings は、Office 365 Business Premium サブスクリプションを持つ米国とカナダのユーザーが利用できます。 
+Microsoft Bookings は、予約ベースで顧客にサービスを提供する小規模企業向けのオンラインのモバイル アプリです。 たとえば、美容室、歯科医院、保養所、法律事務所、金融商品取引業者、コンサルタント、自動車販売店などの企業が含まれます。 Microsoft の予約は、Microsoft 365 Business Standard サブスクリプションを所有する米国およびカナダのお客様が利用できます。 
   
-Microsoft Bookings の詳細については、「[Microsoft Bookings の概要](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
+Microsoft 予約の詳細については、「 [Microsoft 予約でビジネス予定表をオンラインで公開](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)する」を参照してください。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft ブリーフィング電子メール
 
@@ -39,7 +39,7 @@ Microsoft Bookings の詳細については、「[Microsoft Bookings の概要](
 
 ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「[ブリーフィングメールの概要](https://docs.microsoft.com/Briefing/be-overview)」を参照してください。
 
-## <a name="microsoft-power-automate"></a>Microsoft Power の自動化
+## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
 Microsoft Power オートメーションを使用すると、アプリケーション間でワークフローを自動化することができます。 Flow を使用して、電子メールと IM のアラートを接続したり、アプリケーション間でファイルを同期したり、1 つのサービスから別のサービスにファイルをコピーしたり、1 つのアプリから収集したデータを別のアプリに格納したりできます。 開始するためのテンプレートを利用できます。 Flow の機能とその使用方法に関する詳細は、Microsoft の[Flow の Web サイト](https://flow.microsoft.com/en-us/)を参照してください。
   

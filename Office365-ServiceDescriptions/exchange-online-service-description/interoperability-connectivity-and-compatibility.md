@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262660"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639995"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>相互運用性、接続、および互換性
 
@@ -36,7 +36,7 @@ Exchange Online を使用するように Skype for Business Server 2015 を設�
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Microsoft SharePoint Server または SharePoint Online を Office 365 加入プランの一部として展開されているお客様は、SharePoint を Exchange Online に接続して統合サービスを実現できます。
+サブスクリプションプランの一部として Microsoft SharePoint Server または SharePoint Online を展開しているお客様は、SharePoint から統合サービスの Exchange Online に接続できます。
   
 SharePoint を Exchange Online に接続する方法の詳細については、「[他の Office 365 サービスを設定している場合に、カスタム ドメイン名を使用して Office 365 の一般向け Web サイトの名前を変更する](https://go.microsoft.com/fwlink/?LinkId=271805)」を参照してください。
   
@@ -58,6 +58,6 @@ Exchange Online は、ファックス ゲートウェイ、ネットワーク �
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093564"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638695"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのコンプライアンス機能とセキュリティ機能
 
@@ -24,7 +24,7 @@ ms.locfileid: "43093564"
 
 以下のセクションでは、Microsoft Exchange Online Archiving のコンプライアンス機能について説明します。
   
-### <a name="retention-policies"></a>保持ポリシー
+### <a name="retention-policies"></a>アイテム保持ポリシー
 
 Exchange Online アーカイブは、組織が電子メールやその他の通信に関連する負債を低減するのに役立つアイテム保持ポリシーを提供します。 これらのポリシーを使用すると、管理者はユーザーの受信トレイ内の特定のフォルダーに保持設定を適用できます。 管理者は、ユーザーにアイテム保持ポリシーのメニューを提供して、Outlook 2010 以降または web 上の Outlook を使用して、特定のアイテム、会話、またはフォルダーにポリシーを適用することもできます。 Exchange Online のアーカイブでは、管理者がオンプレミスのインフラストラクチャからアイテム保持ポリシーを管理します。
   
@@ -88,7 +88,7 @@ Exchange 管理センターとリモート Windows PowerShell を使用すると
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>社内サーバーと Exchange Online Archiving 間の暗号化
 
-TLS は、電子メール サーバー間の接続を暗号化して、スプーフィングの回避を支援したり、伝送中のメッセージの機密性を確保したりするために使用されます。また TLS は、Exchange Online Archiving 用の Office 365 データ センターへの社内メール サーバー トラフィックをセキュリティで保護するためにも使用されます。
+TLS は、電子メール サーバー間の接続を暗号化して、スプーフィングの回避を支援したり、伝送中のメッセージの機密性を確保したりするために使用されます。 TLS は、Exchange Online アーカイブ用に Microsoft データセンターへの社内メールサーバートラフィックをセキュリティで保護するためにも使用されます。
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>クライアントと Exchange Online Archiving 間の暗号化
 
@@ -130,6 +130,6 @@ Exchange 管理センターで、管理者の役割の変更、訴訟ホール�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
   
 

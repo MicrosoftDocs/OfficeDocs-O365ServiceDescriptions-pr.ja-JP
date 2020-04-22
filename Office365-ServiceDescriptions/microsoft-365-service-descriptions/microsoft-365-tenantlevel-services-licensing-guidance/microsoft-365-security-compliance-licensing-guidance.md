@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529210"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639805"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -78,7 +78,7 @@ ATP は、フィッシングやゼロデイマルウェアなどの高度な攻�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
 
-Office 365 Advanced Threat Protection、Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、Microsoft 365 Business、および Office 365 ATP プラン1および2は、Office の高度な脅威保護からメリットを得るためのユーザーの権利を提供します。
+Office 365 Advanced Threat Protection、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 Business Premium、および Office 365 ATP プラン1および2は、高度な脅威保護からメリットを得るためのユーザーの権利を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -102,7 +102,7 @@ OCAS は、組織の生産性を向上させるクラウドアプリやサービ
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-OCAS 検出シャドウ IT は、Office 365 に対して脅威を保護し、Office 365 データにアクセスするためのアクセス許可を持つアプリを制御することができます。
+OCAS 検出シャドウ IT は、Office 365 全体での脅威保護を提供し、データにアクセスするアクセス許可を持つアプリを制御することができます。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
@@ -288,7 +288,7 @@ Office 365 顧客キー暗号化キーは、Exchange Online と Skype for busine
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-ライセンスを持つユーザーの Office 365 または Microsoft 365 テナント内のデータに暗号化キーを割り当てるには、顧客キーの暗号化キーの展開手順に従います。
+ライセンスを付与されたユーザーのために Office 365 または Microsoft 365 組織内のデータに暗号化キーを割り当てるには、「顧客キー暗号化キーの展開手順」に従ってください。
 
 - SharePoint Online、OneDrive for Business、Teams の各ファイルでは、顧客キーを使用して1つ以上のサイト上のファイルを暗号化できます。
 
@@ -312,7 +312,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプ�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft では、Office 365 組織のユーザーに対するカスタマーロックボックスのアクセス制御の承認要求を提供しています。
+Microsoft では、組織内のユーザーに対するカスタマーロックボックスのアクセス制御承認要求を提供しています。
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 での特権アクセス管理
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3、および Office 365 デー
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、[**データ損失防止** > の**場所**] の下にある Office 365 セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
+管理者は、**データ損失防止** > の**場所**の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Teams の通信データ損失防止
 
@@ -372,9 +372,9 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 情報の保護と�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、[**データ損失防止** > の**場所**] の下にある Office 365 セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
+管理者は、**データ損失防止** > の**場所**の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
 
-## <a name="information-barriers"></a>情報障壁
+## <a name="information-barriers"></a>情報バリア
 
 情報障壁は、個人またはグループが相互に通信することを防止するために管理者が構成できるポリシーです。 これは、ある部署が他の部署と共有しないという情報を処理している場合や、グループが外部の連絡先と通信できないようにする必要がある場合に便利です。 情報バリアポリシーでは、検索と検出も禁止されます。 これは、通信しない相手と通信しようとしても、ユーザー選択ウィンドウにそのユーザーが見つからないことを意味します。
 
@@ -399,13 +399,13 @@ Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 3
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、Office 365 セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。 たとえば、すべてのユーザーに Office 365 E3 のライセンスが付与されており、Office 365 Advanced コンプライアンス/E5 のライセンスを持っていない場合は、組織の情報バリアポリシーを作成する必要はありません。 詳細については、「 [Microsoft Teams の情報障壁](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)」を参照してください。
+管理者は、セキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。 たとえば、すべてのユーザーに Office 365 E3 のライセンスが付与されており、Office 365 Advanced コンプライアンス/E5 のライセンスを持っていない場合は、組織の情報バリアポリシーを作成する必要はありません。 詳細については、「 [Microsoft Teams の情報障壁](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)」を参照してください。
 
 ## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
 
 Office 365 Message Encryption (OME) は、Azure Rights Management (Azure RMS) で構築され、宛先のメール アドレス (Gmail、Yahoo! Mail、Outlook.com など) に関係なく、暗号化された電子メールを組織内外の宛先に送信できるようにするサービスです。
 
-暗号化メッセージを表示するために、受信者は 1 回限りのパスコードを取得するか、Microsoft アカウントでサインインするか、Office 365 に関連付けられている職場または学校のアカウントでサインインできます。 受信者は暗号化された返事を送信することもできます。 暗号化されたメッセージを表示したり、暗号化された返信を送信するのに、受信者は Office 365 サブスクリプションを必要としません。
+暗号化メッセージを表示するために、受信者は 1 回限りのパスコードを取得するか、Microsoft アカウントでサインインするか、Office 365 に関連付けられている職場または学校のアカウントでサインインできます。 受信者は暗号化された返事を送信することもできます。 暗号化されたメッセージを表示したり、暗号化された応答を送信したりするためにサブスクリプションを必要としません。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -504,7 +504,7 @@ Enterprise Mobility + Security E3/Security E3、Microsoft 365 F3/E3/A3、およ�
 
 具体的には、Id 保護と条件付きアクセスの場合、ユーザーはグループに含めるか、条件付きアクセスポリシーに追加する必要があります。 条件付きアクセスポリシーでは、ユーザーとグループの条件は必須です。 ポリシーでは、[**すべてのユーザー** ] または [特定のユーザーとグループ] のどちらかを選択できます。 適切にライセンスされたユーザーとグループのみを選択する必要があります。 詳細については、「 [Azure Active Directory の条件付きアクセスの条件](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)について」を参照してください。
 
-## <a name="advanced-audit"></a>詳細な監査
+## <a name="advanced-audit"></a>高度な監査
 
 Microsoft 365 の高度な監査では、ユーザーと管理者のアクティビティについて1年間の監査ログの保持が提供され、他の Microsoft 365 サービスの監査ログの保持を管理するためのカスタム監査ログ保持ポリシーを作成する機能が提供されます。 また、調査のための重要なイベントへのアクセス、および Office 365 Management Activity API への高帯域幅アクセスを提供します。 詳細については、「 [Microsoft 365 の詳細な監査](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」を参照してください。
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262720"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638895"
 ---
 # <a name="sharing-and-collaboration"></a>共有とコラボレーション
 
@@ -25,11 +25,11 @@ ms.locfileid: "39262720"
 フェデレーションとは、フェデレーション共有をサポートする基盤となる信頼インフラストラクチャを意味します。 Microsoft Exchange Online ユーザーは、他の外部フェデレーション組織の受信者やインターネットにアクセスできるユーザーと連絡先情報を共有するための方法があります。 これらには、Exchange Online でホストされている組織や、外部の Microsoft Exchange Server 2010 または Exchange Server 2013 組織があります。 Exchange Online 管理者は、組織の関係と共有ポリシーを使用して、Microsoft Outlook on the web または Microsoft Outlook 2010 以降から予定表共有への招待状を送信することができます。
   
 > [!IMPORTANT]
->  外部 Exchange 2010 と Exchange 2013 の組織は、フェデレーション共有の構成の一環として、Microsoft Federation Gateway とのフェデレーション信頼を構成する必要があります。 Exchange Online 組織では、フェデレーション信頼を構成する必要はありません。 Microsoft Federation Gateway とのフェデレーション信頼は、Office 365 テナントの作成時に自動的に作成されます。 
+>  外部 Exchange 2010 と Exchange 2013 の組織は、フェデレーション共有の構成の一環として、Microsoft Federation Gateway とのフェデレーション信頼を構成する必要があります。 Exchange Online 組織では、フェデレーション信頼を構成する必要はありません。 microsoft フェデレーションゲートウェイとのフェデレーション信頼は、Microsoft 365 組織の作成時に自動的に作成されます。 
 >
 >  Exchange Online 組織は、フェデレーション共有を有効にするため、組織の関係、または共有ポリシーのいずれかを構成する必要があります。 
 >
->  グローバルアクセスリスト (Gal) の共有、または異なる Office 365 テナント内の Exchange Online 組織間でのユーザーメールボックスの移動は、フェデレーション共有ではサポートされていません。 
+>  グローバルアクセスリスト (Gal) の共有、または異なる Microsoft プラン内の Exchange Online 組織間でのユーザーメールボックスの移動は、フェデレーション共有ではサポートされていません。 
   
 Office 365 テナントの作成時に、Microsoft Federation Gateway でフェデレーションの信頼が作成されるためです。
   
@@ -40,7 +40,7 @@ Office 365 テナントの作成時に、Microsoft Federation Gateway でフェ�
 課題は、電子メールとドキュメントが異なるクライアントでアクセスされることです。 そのため、通常は、ユーザーの生産性が低下し、ユーザー エクスペリエンスの質が低下します。 サイト メールボックスは、この問題を解消しようとする Exchange 2013 の新しいコンセプトです。サイト メールボックスでは、同じクライアント インターフェイスを使用して Microsoft SharePoint 2013 ドキュメントと Exchange 電子メールの両方にアクセスできるようにすることで、コラボレーションとユーザーの生産性を向上します。サイト メールボックスの機能は、SharePoint 2013 サイト メンバーシップ (所有者とメンバー)、共有ストレージ (電子メール メッセージのための Exchange 2013 メールボックスとドキュメントのための SharePoint 2013 サイト)、およびプロビジョニングとライフサイクル ニーズに対応する管理インターフェイスから構成されます。
   
 > [!IMPORTANT]
-> サイト メールボックスでは、同じクライアント インターフェイスを使用して Microsoft SharePoint 2013 ドキュメントと Exchange 電子メールの両方にアクセスできるようにすることで、コラボレーションとユーザーの生産性を向上します。 サイト メールボックスの機能は、SharePoint 2013 サイト メンバーシップ (所有者とメンバー)、共有ストレージ (電子メール メッセージのための Exchange 2013 メールボックスとドキュメントのための SharePoint 2013 サイト)、およびプロビジョニングとライフサイクル ニーズに対応する管理インターフェイスから構成されます。 
+> プランには、SharePoint を含める必要があります。 サイト メールボックスの機能は、SharePoint 2013 サイト メンバーシップ (所有者とメンバー)、共有ストレージ (電子メール メッセージのための Exchange 2013 メールボックスとドキュメントのための SharePoint 2013 サイト)、およびプロビジョニングとライフサイクル ニーズに対応する管理インターフェイスから構成されます。 
   
 Office 365 のプランは SharePoint を含む必要があります。サイト メールボックスでは、ユーザーは SharePoint と Exchange の両方のライセンスを必要とします。
   
@@ -60,6 +60,6 @@ Exchange Online のパブリック フォルダーは、既存の高可用性と
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

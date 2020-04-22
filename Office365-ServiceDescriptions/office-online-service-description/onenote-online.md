@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Onenote を web (旧称 OneNote Web App) で使用して、どこからでも追加でき、他のユーザーと簡単に共有できる OneNote ノートブックでオンラインでノートを取ることができます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Onenote を web (旧称 OneNote Web App) で使用して、どこからでも追加でき、他のユーザーと簡単に共有できる OneNote ノートブックでオンラインでノートを取ることができます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688436"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640225"
 ---
 # <a name="onenote-for-the-web"></a>Web 用 OneNote
 
-Onenote を web (旧称 OneNote Web App) で使用して、どこからでも追加でき、他のユーザーと簡単に共有できる OneNote ノートブックでオンラインでノートを取ることができます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。 
+Onenote を web (旧称 OneNote Web App) で使用して、どこからでも追加でき、他のユーザーと簡単に共有できる OneNote ノートブックでオンラインでノートを取ることができます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 
@@ -176,6 +176,6 @@ Web 用の OneNote を使用すると、ページの以前のページバージ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the web service description](office-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office for the web service description](office-online-service-description.md)」を参照してください。
   
 

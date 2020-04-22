@@ -1,5 +1,5 @@
 ---
-title: レポート機能とトラブルシューティングツール
+title: レポート機能とトラブルシューティング ツール
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online は、Exchange 管理センター (EAC) の内外で、さまざまなレポート機能を提供します。
-ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262710"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639955"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>レポート機能とトラブルシューティングツール
+# <a name="reporting-features-and-troubleshooting-tools"></a>レポート機能とトラブルシューティング ツール
 
 Microsoft Exchange Online は、Exchange 管理センター (EAC) の内外で、さまざまなレポート機能を提供します。
   
@@ -31,9 +31,9 @@ Exchange Online のお客様は、Microsoft 365 管理センターで、Excel �
 
 Microsoft 365 管理センターの [レポート] ページには、メールボックスとグループに関する概要情報を提供するレポートがあります。 たとえば、あるレポートでは、日、週、月、または年単位に作成および削除されたグループの数の一覧があります。 また、新しいメールボックスと削除済みのメールボックス、アクティブおよび非アクティブなメールボックスに関する概要レポートもあります。 
   
-さらに、Microsoft 365 管理センターの [レポート] ページには、メッセージトラフィック、スパムおよびマルウェアの検出、および Exchange トランスポートルールまたはデータ損失防止 (DLP) の影響を受けるメッセージに関する情報を提供するメッセージングデータレポートが含まれています。規定. 保護、ルール、および DLP の拡張されたレポートは、Exchange Online 管理者向けの対話型レポートを提供します。 これらのレポートでは、概要データと、個別のメッセージに関する詳細へのドリルダウン機能が提供されます。
+さらに、Microsoft 365 管理センターの [レポート] ページには、メッセージトラフィック、スパムおよびマルウェアの検出、および Exchange トランスポートルールまたはデータ損失防止 (DLP) ポリシーによって影響を受けるメッセージに関する情報を提供するメッセージングデータレポートが含まれています。 保護、ルール、および DLP の拡張されたレポートは、Exchange Online 管理者向けの対話型レポートを提供します。 これらのレポートでは、概要データと、個別のメッセージに関する詳細へのドリルダウン機能が提供されます。
   
-各 Office 365 サブスクリプションで利用可能なレポートの詳細については、[レポート](../office-365-platform-service-description/reports.md)を参照してください。 Microsoft 365 管理センターの [レポート] ページの詳細については、「 [office 365 のサービスの利用状況に関するレポートの表示とダウンロード](https://go.microsoft.com/fwlink/p/?LinkId=401187)」および「 [office 365 でメール保護レポートを使用する」を参照し、マルウェア、スパム、ルールの検出に関するデータを表示](https://go.microsoft.com/fwlink/p/?LinkID=401102)してください。
+各サブスクリプションで使用可能なレポートの詳細については、「 [reports](../office-365-platform-service-description/reports.md)」を参照してください。 Microsoft 365 管理センターの [レポート] ページの詳細については、「 [Office 365 のサービスの利用状況に関するレポートの表示とダウンロード](https://go.microsoft.com/fwlink/p/?LinkId=401187)」および「[メール保護レポートを使用してマルウェア、スパム、ルールの検出に関するデータを表示する](https://go.microsoft.com/fwlink/p/?LinkID=401102)」を参照してください。
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Excel レポート作成ワークブックを使用したレポート作成
 
@@ -72,6 +72,6 @@ Exchange 管理センターでは、次のレポート作成機能とトラブ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

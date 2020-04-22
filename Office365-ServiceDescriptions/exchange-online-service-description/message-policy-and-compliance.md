@@ -1,5 +1,5 @@
 ---
-title: メッセージ ポリシーとコンプライアンス
+title: メッセージポリシーとコンプライアンス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 4d81cef3f2b3edefe21e40b0cde6a6edcc0fc1af
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688087"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638944"
 ---
-# <a name="message-policy-and-compliance"></a>メッセージ ポリシーとコンプライアンス
+# <a name="message-policy-and-compliance"></a>メッセージポリシーとコンプライアンス
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Exchange Online ベースのメールボックスのアーカイブ
 
@@ -73,11 +73,11 @@ Exchange Online で利用できるアイテム保持ポリシーの機能は、E
   
 ## <a name="encryption-of-data-at-rest"></a>保管中データの暗号化
 
-Office 365 の顧客保存データの暗号化は、Exchange Online、Skype for Business、OneDrive for Business、SharePoint Online での複数のサービス側テクノロジ (BitLocker、DKM、Azure Storage Service Encryption、およびサービス暗号化を含む) によって提供されます。Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。この顧客管理キー オプションは [Office 365 顧客キー](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)と呼ばれ、Exchange Online、SharePoint Online、OneDrive for Business で使用できます。 
+保存されている顧客データの暗号化は、BitLocker、DKM、Azure Storage Service の暗号化、Exchange Online、Skype for business、OneDrive for Business、および SharePoint Online のサービス暗号化など、複数のサービス側テクノロジによって提供されます。 Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。 この顧客管理キーオプション ( [Customer キー](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)と呼ばれる) は、Exchange Online、SharePoint Online、OneDrive for business で使用できます。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Office 365 サーバーは BitLocker を使用して、顧客保存データが含まれるディスク ドライブをボリューム レベルで暗号化します。BitLocker 暗号化は、Windows に組み込まれているデータ保護機能です。BitLocker は、顧客データが含まれるディスクに何者かが物理的にアクセスできるようになりかねない過失がプロセスや制御 (アクセス制御またはハードウェアのリサイクルなど) で生じた場合に、脅威から安全に保護するために使用されるテクノロジの 1 つです。その場合、BitLocker は、コンピューターやディスクの紛失、盗難、または不適切な廃棄によるデータの盗難や漏洩などの脅威の可能性を低減します。  
+Microsoft サーバーは、BitLocker を使用して、お客様のデータが保存されているディスクドライブをボリュームレベルで暗号化します。 BitLocker 暗号化は、Windows に組み込まれているデータ保護機能です。 BitLocker は、顧客データが含まれるディスクに何者かが物理的にアクセスできるようになりかねない過失がプロセスや制御 (アクセス制御またはハードウェアのリサイクルなど) で生じた場合に、脅威から安全に保護するために使用されるテクノロジの 1 つです。 その場合、BitLocker は、コンピューターやディスクの紛失、盗難、または不適切な廃棄によるデータの盗難や漏洩などの脅威の可能性を低減します。 
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
@@ -85,13 +85,13 @@ BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロ�
   
 ## <a name="customer-key"></a>顧客キー
 
-顧客キーによって、組織の暗号化キーを制御し、Microsoft のデータ センターにある保存データの暗号化にそれを使用するよう Office 365 を構成できます。保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。詳しくは、「[顧客キーを使用して Office 365 のデータを制御する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」および「[Office 365 の顧客キーによるサービスの暗号化に関してよく寄せられる質問](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)」を参照してください。
+顧客キーを使用して、組織の暗号化キーを制御し、Microsoft のデータセンターで保存されているデータを暗号化するように構成します。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 詳細については、「顧客キーを[使用してデータを管理する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」および「[顧客キーの FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)」を参照してください。
   
 ## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
 
 Office 365 Message Encryption によって、電子メール ユーザーは暗号化された電子メールを任意の宛先に送信できます。Azure Information Encryption の保護機能を活用する Office Message Encryption の新機能を発表しました。これらの新機能ではエンド ユーザー エクスペリエンスが拡張されており、それによって組織内外のだれとでも保護されたメッセージを簡単に共有し、共同作業をすることが可能になります。新しい Office Message Encryption 機能のセットアップにはいくつかの要件があります。Azure Information Protection をベースにビルドされている新しい Office 365 Message Encryption 機能のセットアップ情報を参照してください。従来の Office 365 Message Encryption を使用しているお客様は、上記のガイダンスに基づいてセットアップを行わない限り、新機能をご利用になれません。Office 365 Message Encryption の新旧それぞれの機能の詳細については、[FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) を参照してください。 
 
-Office 365 Advanced Message Encryption では、メッセージの有効期限と失効を許可することによって、追加の保護を提供します。  組織から送信される暗号化メール用に複数のテンプレートを作成することもできます。  高度なメッセージの暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフの価格)、Office 365 Enterprise E5 (非営利スタッフの価格)、または Office 365 教育 A5 に含まれています。 Office 365 の高度なメッセージ暗号化が含まれていない Office 365 サブスクリプションが組織にある場合は、Microsoft 365 E5 コンプライアンスまたは Office 365 Advanced コンプライアンス SKU をアドオンとして購入できます。
+Office 365 Advanced Message Encryption では、メッセージの有効期限と失効を許可することによって、追加の保護を提供します。  組織から送信される暗号化メール用に複数のテンプレートを作成することもできます。  高度なメッセージの暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフの価格)、Office 365 Enterprise E5 (非営利スタッフの価格)、または Office 365 教育 A5 に含まれています。 Office 365 Advanced Message Encryption を含まないサブスクリプションが組織にある場合は、Microsoft 365 E5 コンプライアンスまたは Office 365 Advanced コンプライアンス SKU をアドオンとして購入できます。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
@@ -219,6 +219,6 @@ Exchange Online は、SMTP を介してメッセージを受信できる任意�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

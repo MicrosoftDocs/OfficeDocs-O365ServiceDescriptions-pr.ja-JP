@@ -11,27 +11,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。
-ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 これは最も簡単な構成で、Microsoft はすべてのメールボックスとフィルター処理を管理します。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。
+ms.openlocfilehash: d85ae7b22be1405679ceac8d853b345d251166b6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688068"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638926"
 ---
 # <a name="mail-floweop"></a>メールフロー [EOP]
 
-Office 365 を使用するほとんどの組織では、Microsoft がメールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。 詳細について、および EOP を購入するには、[Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) にアクセスしてください。
+Microsoft を使用するほとんどの組織では、メールボックスをホストし、メールフローを処理します。 これは最も簡単な構成で、Microsoft はすべてのメールボックスとフィルター処理を管理します。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、これを行うことができます。また、クラウドでウイルス対策およびスパム対策のメール処理を提供します。 詳細について、および EOP を購入するには、[Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) にアクセスしてください。
   
 ドメイン管理またはディレクトリベースのエッジブロック (DBEB) に関する情報をお探しですか? 「[受信者、ドメイン、および会社の管理](recipient-domain-and-company-management.md)」を参照してください。 すべての EOP 機能の詳細については、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
   
-## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Office 365 とご使用の電子メール サーバー間で電子メールをルーティングする
+## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Microsoft と独自の電子メールサーバーとの間で電子メールをルーティングする
 
-Office 365 (Exchange Online または EOP を含む) と SMTP ベースの電子メール サーバー (Exchange など) の間でメール フローを有効にするようにコネクタを構成できます。詳細については、「[Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)?」および「[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)」をご覧ください。
+Microsoft (Exchange Online または EOP を含む) と、Exchange などの SMTP ベースの電子メールサーバーとの間でメールフローを有効にするようにコネクタを構成することができます。 詳細については、「[コネクタが必要](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)ですか?」を参照してください。 を使用して、 [Microsoft と独自の電子メールサーバー間でメールをルーティングするようにコネクタを設定](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)します。
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>信頼できるパートナーとのセキュリティで保護されたメッセージング
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-EOP のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。 Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。 [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections)は、インターネット上での通信のセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
+EOP のお客様は、Microsoft コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメールフローを設定することができます。 Microsoft は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートしており、TLS 経由の暗号化を強制するコネクタを作成することができます。 [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections)は、インターネット上での通信のセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
   
 詳細については、「[パートナー組織とのセキュリティで保護されたメール フロー用のコネクタを設定する](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)」をご覧ください。
   
@@ -53,4 +53,4 @@ EOP のお客様は、Office 365 コネクタを使用して、信頼できる�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。

@@ -13,50 +13,50 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: ドメインを追加する時にステップ バイ ステップのウィザードを使用すれば、ユーザーを追加したり、Office 365 のメール アドレスやその他のサービスを会社名に変換したりする作業を簡単に行えます。 ウィザードを完了すると、ビジネス用の電子メールは、現在のメール プロバイダーではなく Office 365 に届くようになります。 詳細については、「Office 365 にユーザーとドメインを追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: ドメインを追加すると、ユーザーを追加したり、電子メールアドレスやその他のサービスをビジネス名に変換したりするためのステップバイステップウィザードを使用できます。 ウィザードを完了すると、現在のメールプロバイダーに移動するのではなく、会社のメールが Microsoft に届くようになります。 詳細については、「ユーザーとドメインを Microsoft に追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
+ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262790"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638865"
 ---
 # <a name="domains"></a>ドメイン
 
-ドメインを追加する時にステップ バイ ステップのウィザードを使用すれば、ユーザーを追加したり、Office 365 のメール アドレスやその他のサービスを会社名に変換したりする作業を簡単に行えます。 ウィザードを完了すると、ビジネス用の電子メールは、現在のメール プロバイダーではなく Office 365 に届くようになります。 詳細については、「[Office 365 にユーザーとドメインを追加する](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「[ドメインを確認する](https://docs.microsoft.com/office365/admin/setup/add-domain)」を参照してください。
+ドメインを追加すると、ユーザーを追加したり、電子メールアドレスやその他のサービスをビジネス名に変換したりするためのステップバイステップウィザードを使用できます。 ウィザードを完了すると、現在のメールプロバイダーに移動するのではなく、会社のメールが Microsoft に届くようになります。 詳細については、「[ユーザーとドメインを Microsoft に追加する](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「[ドメインを確認する](https://docs.microsoft.com/office365/admin/setup/add-domain)」を参照してください。
   
 ## <a name="custom-domains"></a>カスタム ドメイン
 
-最大 900 のドメインを Office 365 サブスクリプションに追加できます。ただし、別の Microsoft クラウド サービスで既に使用している Office 365 にドメインを追加することはできません。つまり、複数の Office 365 サブスクリプションに同一ドメインを追加することはできません。詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
+サブスクリプションには最大900のドメインを追加できます。 ただし、別の Microsoft クラウド サービスで既に使用している Office 365 にドメインを追加することはできません。 これは、同一のドメインを複数のサブスクリプションに追加できないことを意味します。 詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
   
 ### <a name="second-and-third-level-domains"></a>第 2 および第 3 レベル ドメイン
 
-Office 365 Enterprise と Office 365 Business を使用すれば、marketing.contoso.com などの第 3 レベル ドメインを含む任意のレベル ドメインを追加できます。詳細は、「[カスタム サブドメインまたは複数のドメインを Office 365 に追加する](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。21Vianet が運用している Office 365 をご使用の方は、「[21Vianet が運用している Office 365 にカスタム サブドメインまたは複数のドメインを追加する](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。
+Office 365 Enterprise および Microsoft 365 Apps for business では、marketing.contoso.com などの第3レベルドメインを含む任意のレベルドメインを追加できます。 「[カスタムサブドメインまたは複数のドメインを Microsoft に追加する」を](https://docs.microsoft.com/office365/admin/setup/domains-faq)参照してください。 21Vianet が運用している Office 365 をご使用の方は、「[21Vianet が運用している Office 365 にカスタム サブドメインまたは複数のドメインを追加する](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。
   
 ## <a name="domain-verification-and-managing-dns-records"></a>ドメインの検証および DNS レコードの管理
 
-Office 365 では、DNS ホスティング プロバイダーですべての DNS レコードを管理することも、Office 365 がドメインの DNS レコードを設定して管理するよう選択することもできます。レコードを引き続き自分で管理する場合は、必要に応じて特定のレコードが Office 365 サービスを指すよう変更します。各レコードに使用する特定の値など、レコードの追加に関する詳しい手順を提供しているドメイン登録業者の一覧については、「[任意の DNS ホスティング プロバイダーで Office 365 用の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「21Vianet が運用している Office 365 用に任意のプロバイダーで DNS レコードを作成する」を参照してください。 
+Microsoft 365 では、dns ホスティングプロバイダーですべての DNS レコードを管理するか、Microsoft にドメインの DNS レコードを設定して管理することを選択できます。 レコードを引き続き管理する場合は、必要に応じて、特定のレコードを Microsoft サービスをポイントするように変更します。 レコードを追加するための手順を順を追って説明しているドメインレジストラーの一覧については、「 [dns レコードを作成](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)する」を参照してください。または、21vianet が運用している office 365 を使用している場合は、「21vianet が運用する office 365 の dns レコードを作成する」を参照してください。 
   
-Office 365 がドメインの DNS レコードを管理する場合は、最初にドメインのネームサーバー レコードが Office 365 を指すよう切り替えてから、Office 365 が Office 365 のサービスを設定し、その後ドメインの DNS レコードが Office 365 で管理されるようにする必要があります。
+Microsoft がドメインの DNS レコードを管理している場合は、まず、ドメインのネームサーバーレコードを Microsoft をポイントするように切り替えてから、microsoft がサービスをセットアップした後、ドメインの DNS レコードを Microsoft で管理する必要があります。
   
-ドメインが GoDaddy に登録されている場合は、 Office 365 が GoDaddy で必要なレコードを作成することができます。 
+ドメインが GoDaddy に登録されている場合、Microsoft は GoDaddy で必要なレコードを作成することができます。 
   
-DNS レコードがどこでホストされているかに関係なく、Office 365 上でホストされたパブリック Web サイトまたは別のホスティング プロバイダーを使用したパブリック Web サイトの URL のドメインを使用するように DNS レコードを設定できます。 
+DNS レコードがどこにホストされているかに関係なく、Microsoft または別のホスティングプロバイダーでホストされているパブリック web サイトの URL に対してドメインを使用するように DNS レコードを設定できます。 
   
-Office 365 は、DNS レコードを積極的にチェックし、DNS の問題を検索して解決します。 DNS レコードが予期したとおりに一致しない場合は、Microsoft 365 管理センターで通知を受け取り、特定された可能性のある問題を解決する方法についての情報を提供します。
+Microsoft は、dns レコードを事前にチェックして、DNS の問題を見つけて修正します。 DNS レコードが予期したとおりに一致しない場合は、Microsoft 365 管理センターで通知を受け取り、特定された可能性のある問題を解決する方法についての情報を提供します。
   
-詳細については、「[ドメインに関する FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq)」を参照してください。21Vianet が運用している Office 365 については、「[DNS レコードの管理時に Office 365 の DNS レコードを作成する](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)」を参照してください。
+詳細については、「 [Microsoft が dns](https://docs.microsoft.com/office365/admin/setup/domains-faq)レコードを管理する方法」または「21vianet が運用している office 365」を参照してください。 dns レコードを管理するときには、「 [Create Dns records for office 365](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)」を参照してください。
   
 ## <a name="sharing-a-domain"></a>ドメインの共有
 
-Office 365 は、Office 365 上のドメインのいくつかの電子メール アドレスと以前の電子メール プロバイダー上のいくつかの電子メール アドレスを使用して試運転することができます。この方法は、追加の設定ステップを必要とし、Office 365 サービスの一部が制限されるため、Office 365 の試運転期間にだけ使用することをお勧めします。詳細については、次のトピックをご覧ください。
+一部の電子メールアドレスは、Microsoft のドメインに対して、または前のメールプロバイダーで試験的に使用することができます。 これは、追加のセットアップ手順が必要であり、Microsoft サービスにいくつかの制限があるため、パイロットでのみ使用することをお勧めします。 詳細については、以下を参照してください。
   
-- [小規模企業向けに Office 365 を試験運用する](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [小規模企業向けの Microsoft 365 のパイロット](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [大企業向けに Office 365 を試験運用する (FastTrack を使用)](https://fasttrack.office.com/onboard)
+- [大規模企業向けの Microsoft 365 のパイロット (FastTrack を使用)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+Microsoft 365 のビジネスプラン、スタンドアロンのオプション、オンプレミスソリューションで利用できる機能を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online では、次のタスク管理機能が利用可能です。
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546100"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640275"
 ---
 # <a name="task-management"></a>タスク管理
 
@@ -67,5 +67,5 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   

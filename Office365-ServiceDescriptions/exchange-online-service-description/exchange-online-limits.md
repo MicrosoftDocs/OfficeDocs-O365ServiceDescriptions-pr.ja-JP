@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: cc3abf1d5b2efa529a40851b1b8e536dcc3bc944
-ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
+ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43285533"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640005"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
 アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
 
 > [!NOTE]
-> タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。  <br/> *  [電子メール](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed)(電子メールの作成と送信に役立つ)  <br/> *  [一般法人向け Office 365 の電子メール-管理者向けヘルプ](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Microsoft Support and Recovery Assistant for Office 365 を使用して Outlook および Office 365 の問題を修正する](https://diagnostics.office.com/) <br/>  *  [Office 365 の配信不能レポート (メール)](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online のヘルプ](https://go.microsoft.com/fwlink/?linkid=825607)
+> タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。  <br/> *  [電子メール](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed)(電子メールの作成と送信に役立つ)  <br/> *  [Microsoft 365 でのビジネス向けメール-管理者向けヘルプ](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Microsoft サポート/回復アシスタントを使用して Outlook および Microsoft 365 の問題を修正する](https://diagnostics.office.com/) <br/>  *  [メール配信不能レポート](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online のヘルプ](https://go.microsoft.com/fwlink/?linkid=825607)
 
 Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあてはまります。
 
@@ -55,7 +55,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 - [Exchange ActiveSync の制限](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  Microsoft Office 365 組織に適用される制限は、その組織がサービスに登録されている期間に応じて異なる可能性があります。 <br/> * Microsoft データセンターで制限が変更された場合は、既存のすべてのお客様に変更を適用するのに時間がかかることがあります。 <br/> * これらの制限のほとんどを変更することはできませんが、ユーザーとユーザーはそれらを認識する必要があります。 <br/> * これらの制限は、内部および外部の両方の受信者に適用されます。 <br/> * 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 <br/> * Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「[Office 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」の「グループを管理する方法」を参照してください。
+> *  Microsoft 365 組織に適用される制限は、その組織がサービスに登録されている期間によって異なる場合があります。 <br/> * Microsoft データセンターで制限が変更された場合は、既存のすべてのお客様に変更を適用するのに時間がかかることがあります。 <br/> * これらの制限のほとんどを変更することはできませんが、ユーザーとユーザーはそれらを認識する必要があります。 <br/> * これらの制限は、内部および外部の両方の受信者に適用されます。 <br/> * 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 <br/> * Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」を参照してください。
 
 ## <a name="address-book-limits"></a>アドレス帳の制限
 
@@ -70,11 +70,11 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 
 - **グローバル アドレス一覧**: Exchange Online または Exchange Server 2013 組織内で作成できるグローバル アドレス一覧 (GAL) の最大数。
 
-### <a name="address-book-limits-across-office-365-options"></a>Office 365 オプション全体のアドレス帳の制限
+### <a name="address-book-limits"></a>アドレス帳の制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |アドレス一覧の制限|1000|1000|1000|1000|1000|1000|
 |オフライン アドレス帳 (OAB) の制限|250|250|250|250|250|250|
 |アドレス帳ポリシー (ABP) の制限|250|250|250|250|250|250|
@@ -97,11 +97,11 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 > [!NOTE]
 > ジャーナリング、トランスポート ルール、または自動転送ルールを使用してアーカイブの目的のため、Exchange Online メールボックスにメッセージをコピーすることは許可されていません。 ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブメールボックスを使用して他のユーザーのアーカイブデータを保存したり、不適切な使用をしたりする場合に、無制限のアーカイブを拒否する権利を留保します。
 
-### <a name="storage-limits-across-office-365-options"></a>Office 365 オプションの格納域の制限
+### <a name="storage-limits"></a>記憶域の制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |ユーザー メールボックス|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |アーカイブ メールボックス<sup>7、8</sup>|50 GB|50 GB|50 GB|無制限<sup>1</sup>|無制限<sup>1</sup>|使用不可<sup>4</sup>|
 |共有メールボックス<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2、9</sup>|50 GB<sup>2、9</sup>|50 GB<sup>2</sup>|
@@ -126,7 +126,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 |グループ メールボックス|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> これは Exchange Server 2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 オンプレミスのメールボックスの最大格納域に制限はありません。 <br/> <sup>2</sup> 各ユーザーは最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブに関する可用性の詳細については、「[Office 365 のロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。 <br/> <sup>3</sup>共有メールボックスにアクセスするには、ユーザーが Exchange Online ライセンスを持っている必要がありますが、共有メールボックスは別のライセンスを必要としません。 ライセンスがない場合は、共有メールボックスは 50 GB に制限されます。 サイズ制限を 100 GB に増やすには、Exchange Online プラン 2 のライセンス、または Exchange Online Archiving アドオンのライセンス付きの Exchange Online プラン 1 のライセンスを共有メールボックスに割り当てる必要があります。 これにより、無制限のアーカイブ記憶域を得るための自動拡張アーカイブを有効にできるようにもなります。 同様に、共有メールボックスを訴訟ホールドの対象にする場合、その共有メールボックスには exchange online Plan 2 のライセンス、または exchange online のアーカイブアドオンライセンスを持つ Exchange online プラン1のライセンスが必要です。 Office 365 Advanced Threat Protection、Advanced eDiscovery、または自動アイテム保持ポリシーなどの高度な機能を適用する必要がある場合は、それらの機能について共有メールボックスのライセンスを持っている必要があります。 <br/> <sup>4</sup> リソース メールボックスにライセンスは必要ありません。 ただし、ライセンスがない場合は、リソース メールボックスは 50 GB に制限されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>5</sup> Exchange Online Kiosk にアーカイブ メールボックスが含まれません。 ただし、Exchange Online Archiving を通じてアドオンとして購入できます。 詳細については、「 [Exchange Online アーカイブサービスの説明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)」を参照してください。 <br/> <sup>6</sup> これは Microsoft ExchangeServer2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 Exchange Server 2013 では、パブリック フォルダーのメールボックス数は最大 100 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 <br/> <sup>7</sup> Exchange Online では、パブリック フォルダーのメールボックス数は最大 1000 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 <br/> <sup>8</sup> アーカイブ メールボックスは、ライセンスが適用された単一のユーザーまたはエンティティのメールをアーカイブする場合にのみ使用できます。 アーカイブ メールボックスを、複数のユーザーまたはエンティティからのメールを格納する方法として使用することは禁止されています。 たとえば、IT 管理者が共有メールボックスを作成して、アーカイブという明確な目的のために、ユーザーに (CC フィールドまたは BCC フィールドを通して、あるいは、トランスポート ルールを介して) 共有メールボックスをコピーさせることはできません。 <br/> <sup>9</sup>Exchange Online でアイテム保持ポリシーを作成した場合は、ユーザーのプライマリ メールボックスが 10 MB を超える場合にのみ、メッセージが自動的にユーザーのアーカイブ メールボックスに移動されます。 10 MB より小さいメールボックスの場合、アイテム保持ポリシーが自動的に実行されることはありません。 <br/> <sup>10</sup> 共有メールボックスとリソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの場合、これらのメールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>11</sup> 既定では、共有メールボックスには、システムで生成された (不明の) パスワードを伴うアクティブなユーザー アカウントが関連付けられています。 関連付けられている共有メールボックス アカウントによるサインインをブロックするには、「[共有メールボックス アカウントによるサインインをブロックする](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)」を参照してください。
+> <sup>1</sup> これは Exchange Server 2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 オンプレミスのメールボックスの最大格納域に制限はありません。 <br/> <sup>2</sup> 各ユーザーは最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブの可用性の詳細については、 [Microsoft 365 ロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)を参照してください。 <br/> <sup>3</sup>共有メールボックスにアクセスするには、ユーザーが Exchange Online ライセンスを持っている必要がありますが、共有メールボックスは別のライセンスを必要としません。 ライセンスがない場合は、共有メールボックスは 50 GB に制限されます。 サイズ制限を 100 GB に増やすには、Exchange Online プラン 2 のライセンス、または Exchange Online Archiving アドオンのライセンス付きの Exchange Online プラン 1 のライセンスを共有メールボックスに割り当てる必要があります。 これにより、無制限のアーカイブ記憶域を得るための自動拡張アーカイブを有効にできるようにもなります。 同様に、共有メールボックスを訴訟ホールドの対象にする場合、その共有メールボックスには exchange online Plan 2 のライセンス、または exchange online のアーカイブアドオンライセンスを持つ Exchange online プラン1のライセンスが必要です。 Office 365 Advanced Threat Protection、Advanced eDiscovery、または自動アイテム保持ポリシーなどの高度な機能を適用する必要がある場合は、それらの機能について共有メールボックスのライセンスを持っている必要があります。 <br/> <sup>4</sup> リソース メールボックスにライセンスは必要ありません。 ただし、ライセンスがない場合は、リソース メールボックスは 50 GB に制限されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>5</sup> Exchange Online Kiosk にアーカイブ メールボックスが含まれません。 ただし、Exchange Online Archiving を通じてアドオンとして購入できます。 詳細については、「 [Exchange Online アーカイブサービスの説明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)」を参照してください。 <br/> <sup>6</sup> これは Microsoft ExchangeServer2013 組織の既定のメールボックス サイズです。 管理者は、組織に適用されるこの値を変更できます。 Exchange Server 2013 では、パブリック フォルダーのメールボックス数は最大 100 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 <br/> <sup>7</sup> Exchange Online では、パブリック フォルダーのメールボックス数は最大 1000 個で、パブリック フォルダーのすべてのメールボックスの容量の合計は最大 50 TB です。 <br/> <sup>8</sup> アーカイブ メールボックスは、ライセンスが適用された単一のユーザーまたはエンティティのメールをアーカイブする場合にのみ使用できます。 アーカイブ メールボックスを、複数のユーザーまたはエンティティからのメールを格納する方法として使用することは禁止されています。 たとえば、IT 管理者が共有メールボックスを作成して、アーカイブという明確な目的のために、ユーザーに (CC フィールドまたは BCC フィールドを通して、あるいは、トランスポート ルールを介して) 共有メールボックスをコピーさせることはできません。 <br/> <sup>9</sup>Exchange Online でアイテム保持ポリシーを作成した場合は、ユーザーのプライマリ メールボックスが 10 MB を超える場合にのみ、メッセージが自動的にユーザーのアーカイブ メールボックスに移動されます。 10 MB より小さいメールボックスの場合、アイテム保持ポリシーが自動的に実行されることはありません。 <br/> <sup>10</sup> 共有メールボックスとリソース メールボックスにライセンスは必要ありません。 ただし、ライセンスなしの場合、これらのメールボックスは 50 GB に限定されます。 メールボックスのサイズを増やすには、Exchange Online プラン 2 ライセンスを割り当てる必要があります。 これにより、メールボックスが 100 GB に増えます。 <br/> <sup>11</sup> 既定では、共有メールボックスには、システムで生成された (不明の) パスワードを伴うアクティブなユーザー アカウントが関連付けられています。 関連付けられている共有メールボックス アカウントによるサインインをブロックするには、「[共有メールボックス アカウントによるサインインをブロックする](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)」を参照してください。
 
 ## <a name="capacity-alerts"></a>容量のアラート
 
@@ -138,11 +138,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **送受信禁止**: メールボックスのサイズが制限値に達すると、Exchange Online ではメールの受信を拒否し、送信者に配信不能レポート (NDR) を送信します。 送信者には後でメールを再送信するオプションがあります。 ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。
 
-### <a name="capacity-alerts-across-office-365-options"></a>Office 365 オプションの容量のアラート
+### <a name="capacity-alerts"></a>容量のアラート
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |警告|49 GB|49 GB|49 GB|98 GB|98 GB|1.96 GB|
 |送信禁止|49.5 GB|49.5 GB|49.5 GB|99 GB|99 GB|1.98 GB|
 |送受信禁止|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
@@ -185,11 +185,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **パブリック フォルダーごとの警告を出すサブフォルダー数**: 1 つのパブリック フォルダーに作成するサブフォルダー数がここで指定した数を超えると、Exchange Online がフォルダー所有者に警告メッセージを送信します。 所有者が存在していない場合、警告メッセージは所有者アクセス許可を持つユーザーに送信されます。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。
 
-### <a name="mailbox-folder-limits-across-office-365-options"></a>Office 365 オプションのメールボックス フォルダーの制限
+### <a name="mailbox-folder-limits"></a>メールボックス フォルダーの制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |メールボックス フォルダーごとの最大メッセージ数|100 万個|100 万|100 万|100 万|100 万|100 万|
 |メールボックス フォルダーごとの警告を出すメッセージ数|900,000|900,000|900,000|900,000|900,000|900,000|
 |復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数|300 万|300 万|300 万|300 万|300 万|300 万|
@@ -207,7 +207,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |パブリック フォルダーごとの警告を出すサブフォルダー数|9000|9000|9000|9000|9000|利用不可|
 
 > [!NOTE]
-> <sup>1</sup> これは、回復可能なアイテム フォルダーの記憶域のクォータであり、アーカイブ全体のメールボックスのクォータではありません。 Exchange Online プラン 2 のライセンスを持つユーザーや Exchange Online プラン 1 と Exchange Online Archiving の両方のライセンスを持つユーザーは、アーカイブ メールボックスの記憶域のクォータが無制限です。 回復可能なアイテム クォータを増やす方法の詳細については、「[保留中のメールボックスの [回復可能なアイテム] のクォータを増やす](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)」を参照してください。 <br/> <sup>2</sup> アーカイブ メールボックスの回復可能なアイテム フォルダーの最初の記憶域のクォータは 100 GB です。 自動拡張アーカイブをオンにした場合、回復可能なアイテム フォルダーの記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブの可用性の詳細については、「[Office 365 のロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。
+> <sup>1</sup> これは、回復可能なアイテム フォルダーの記憶域のクォータであり、アーカイブ全体のメールボックスのクォータではありません。 Exchange Online プラン 2 のライセンスを持つユーザーや Exchange Online プラン 1 と Exchange Online Archiving の両方のライセンスを持つユーザーは、アーカイブ メールボックスの記憶域のクォータが無制限です。 回復可能なアイテム クォータを増やす方法の詳細については、「[保留中のメールボックスの [回復可能なアイテム] のクォータを増やす](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)」を参照してください。 <br/> <sup>2</sup> アーカイブ メールボックスの回復可能なアイテム フォルダーの最初の記憶域のクォータは 100 GB です。 自動拡張アーカイブをオンにした場合、回復可能なアイテム フォルダーの記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブの可用性の詳細については、 [Microsoft 365 ロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)を参照してください。
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>スタンドアロン プランのメールボックス フォルダーの制限
 
@@ -216,7 +216,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |メールボックス フォルダーごとの最大メッセージ数|制限なし<sup>1</sup>|100 万|100 万個|100 万|
 |メールボックス フォルダーごとの警告を出すメッセージ数|無制限|900,000|900,000|900,000|
-|復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数|無制限|300 万|300 万|300 万|
+|復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数|制限なし|300 万|300 万|300 万|
 |プライマリ メールボックスの回復可能なアイテム フォルダーの記憶域のクォータ (保留ではないもの)|30 GB|30 GB|30 GB|30 GB|
 |プライマリ メールボックスの回復可能なアイテム フォルダーの記憶域のクォータ (保留である)|100 GB|100 GB|100 GB|100 GB|
 |アーカイブ メールボックスの回復可能なアイテム フォルダーの記憶域のクォータ (保留ではないもの)|30 GB|30 GB|30 GB|30 GB|
@@ -231,13 +231,13 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |パブリック フォルダーごとの警告を出すサブフォルダー数|該当なし|900|900|利用不可|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft では、メールボックス フォルダーごとに 1,000,000 個以内のメッセージをお勧めします。 > <br/> <sup>2</sup> これは、回復可能なアイテム フォルダーの記憶域のクォータであり、アーカイブ全体のメールボックスのクォータではありません。 Exchange Online プラン 2 のライセンスを持つユーザーや Exchange Online プラン 1 と Exchange Online Archiving の両方のライセンスを持つユーザーは、アーカイブ メールボックスの記憶域のクォータが無制限です。 回復可能なアイテム クォータを増やす方法の詳細については、「[保留中のメールボックスの [回復可能なアイテム] のクォータを増やす](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)」を参照してください。 <br/> <sup>3</sup> アーカイブ メールボックスの回復可能なアイテム フォルダーの最初の記憶域のクォータは 100 GB です。 自動拡張アーカイブをオンにした場合、回復可能なアイテム フォルダーの記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブの可用性の詳細については、「[Office 365 のロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。
+> <sup>1</sup> Microsoft では、メールボックス フォルダーごとに 1,000,000 個以内のメッセージをお勧めします。 > <br/> <sup>2</sup> これは、回復可能なアイテム フォルダーの記憶域のクォータであり、アーカイブ全体のメールボックスのクォータではありません。 Exchange Online プラン 2 のライセンスを持つユーザーや Exchange Online プラン 1 と Exchange Online Archiving の両方のライセンスを持つユーザーは、アーカイブ メールボックスの記憶域のクォータが無制限です。 回復可能なアイテム クォータを増やす方法の詳細については、「[保留中のメールボックスの [回復可能なアイテム] のクォータを増やす](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)」を参照してください。 <br/> <sup>3</sup> アーカイブ メールボックスの回復可能なアイテム フォルダーの最初の記憶域のクォータは 100 GB です。 自動拡張アーカイブをオンにした場合、回復可能なアイテム フォルダーの記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳しくは、「[Office 365 での無制限アーカイブの概要](https://go.microsoft.com/fwlink/?linkid=844060)」をご覧ください。 自動拡張アーカイブの可用性の詳細については、 [Microsoft 365 ロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)を参照してください。
 
 ## <a name="message-limits"></a>メッセージの制限
 
 次の制限は、すべてのメール メッセージに適用されます。
 
-- **メッセージのサイズ制限**: サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。
+- **メッセージのサイズ制限**: サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。
 
     > [!NOTE]
     > 電子メール クライアントによっては、メッセージ サイズの制限が低くなるか、個々の添付ファイルのサイズが Exchange Online のメッセージ サイズ制限より小さい値に制限される場合があります。
@@ -257,11 +257,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **埋め込みメッセージの深さの制限**: 1 つのメール メッセージで許可される転送メール メッセージの最大数。
 
-### <a name="message-limits-across-office-365-options"></a>Office 365 オプションのメッセージの制限
+### <a name="message-limits"></a>メッセージの制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |メッセージ サイズの制限 - Outlook|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |メッセージ サイズの制限 - OWA|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|
 |メッセージ サイズの制限 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
@@ -279,8 +279,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |埋め込みメッセージの深さの制限|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 メールボックスの既定の最大メッセージ サイズは 25 MB です。 Office 365 の管理者は、1 MB から 150 MB の範囲でカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。 
-<br/> <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> 
+> <sup>1</sup> Microsoft メールボックスの既定の最大メッセージサイズは 25 MB です。 Microsoft 管理者は、1 MB と 150 MB の間でカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織で許可される最大メッセージサイズのカスタマイズの詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。 
+<br/> <sup>2</sup>ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 <br/> 
 <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 
 <br/> <sup>4</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 この制限は、サポート対象の Exchange メールボックス レプリケーション サービスを使用する、移動ベースの移行に適用されます。 その他の移行方法 (一括、段階的な IMAP、PST) およびその他のサード パーティ製ツールは、一般的なメッセージ サイズの制限を受けます。 <br/> 
 <sup>5</sup> 新しい機能を備えた OME については、「 [Azure Information Protection をベースにした新しい Office 365 Message Encryption 機能を構築する](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)」を参照してください。<br/> 
@@ -309,7 +309,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |埋め込みメッセージの深さの制限|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|30 の埋め込みメッセージ|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 の管理者は 1 から 150 MB のカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織において許可する最大メッセージ サイズのカスタマイズ方法について詳しくは、「 [Office 365 でサポートされるメール メッセージのサイズが大きくなりました](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)」をご覧ください。 <br/> <sup>2</sup> Office 365 のユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Office 365 データセンターの外部に出ない場合)。 Office 365 データセンターの外部にルーティングされるメッセージは、変換エンコードにより 33% 大きいサイズになるため、最大メッセージ サイズは 112 MB になります。 <br/> 
+> <sup>1</sup> Microsoft 管理者は、1 mb と 150 MB の間でカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織で許可される最大メッセージサイズのカスタマイズの詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。 <br/> <sup>2</sup>ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 <br/> 
 <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> 
 <sup>4</sup> これは Exchange Server 2013 組織の既定の制限です。 管理者は、組織に適用されるこの値を変更できます。 <br/> 
 <sup>5</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 <br/> 
@@ -325,7 +325,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium Office**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard Office**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |受信したメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3600 のメッセージ|1 時間あたり 3600 のメッセージ|
 
 ### <a name="sending-limits"></a>送信の制限
@@ -349,11 +349,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **メッセージ数の制限**: メッセージ数の制限では、指定された期間内に Exchange Online アカウントからユーザーが送信できるメッセージの数を指定します。 この制限により、1 人の送信者がシステム リソースを過剰に消費するのを防ぐことができます。 SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。
 
-#### <a name="sending-limits-across-office-365-options"></a>Office 365 の各オプションでの送信の制限
+#### <a name="sending-limits"></a>送信の制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |受信者数の制限<sup>1</sup>|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|
 |受信者の制限<sup>2</sup>|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|
 |受信者のプロキシ アドレスの制限|400|400|400|400|400|400|
@@ -391,17 +391,17 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **迷惑メール フォルダーの保持期間**: 自動的に削除されるまで迷惑メール フォルダーにアイテムを保持できる最大日数。
 
-### <a name="retention-limits-across-office-365-options"></a>Office 365 オプションの保存期限
+### <a name="retention-limits"></a>保持の制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|
-|迷惑メール フォルダーの保存期限|30 日間|30 日|30 日|30 日|30 日|30 日間|
+|迷惑メール フォルダーの保存期限|30 日|30 日|30 日|30 日|30 日|30 日|
 
 > [!NOTE]
-> <sup>1</sup> これはOffice 365 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
+> <sup>1</sup>これは、Microsoft 365 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
 
 ### <a name="retention-limits-across-standalone-options"></a>スタンドアロン オプションの保存期限
 
@@ -410,7 +410,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>2</sup>|14 日間<sup>2</sup>|14 日間<sup>2</sup>|
-|迷惑メール フォルダーの保存期限|2 年間<sup>1</sup>|30 日間|30 日|30 日|
+|迷惑メール フォルダーの保存期限|2 年間<sup>1</sup>|30 日間|30 日|30 日間|
 
 > [!NOTE]
 > <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。 <br/> <sup>2</sup> これは Exchange Online 組織の既定値です。 管理者は組織のメールボックスのこの値を最大 30 日に変更できます。
@@ -425,11 +425,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **大きな配布グループの最大メッセージ サイズ**: 5,000 人以上の受信者に送信されるメッセージのサイズの制限です。 サイズがこの制限を超える場合はメッセージが配信されず、送信者に配信不能レポート (NDR) が送信されます。
 
-### <a name="distribution-group-limits-across-office-365-options"></a>Office 365 オプションの配布グループの制限
+### <a name="distribution-group-limits"></a>配布グループの制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |配布グループ メンバーの最大数<sup>1</sup>|100,000 人|100,000 人|100,000 人|100,000 人|100,000 人|100,000 人|
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|
 |メンバー数 5,000 から 99,999 の配布グループの最大メッセージ サイズ|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
@@ -475,11 +475,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **トランスポート ルールによってメッセージがリダイレクトされる回数** トランスポート ルールに基づいてメッセージがリダイレクトされる回数です。 たとえば、Exchange 組織 Tailspin Toys には、ユーザー A に送信されたすべてのメッセージを、Exchange 組織 Contoso にいるユーザー B にリダイレクトするトランスポートルールがあります。 Exchange 組織 Contoso 内には、ユーザー B に送信されたすべてのメッセージを Exchange 組織 A. Datum Corporation にいるユーザー C にリダイレクトするトランスポート ルールがあります。 この場合、メッセージは破棄され、ステータスコードと拒否メッセージ (*550 5.7.128 TRANSPORT.RULES.RejectMessage; Transport rules loop count exceeded and message rejected*) が含まれる配信不能レポート (NDR) がユーザー A に送信されます。Microsoft では、X-MS-Exchange-Transport-Rules-Loop ヘッダーを使用して、トランスポート ルールによりメッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
 
-### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Office 365 のオプションのジャーナル、トランスポート、受信トレイのルールの制限
+### <a name="journal-transport-and-inbox-rule-limits"></a>ジャーナル、トランスポート、受信トレイのルール上の制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |ジャーナル ルールの最大数|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|
 |トランスポート ルールの最大数|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|
 |各トランスポート ルールの最大サイズ|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -501,8 +501,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |すべてのトランスポート ルールで使用されるすべての正規表現の文字に関する制限|無制限|20 KB|20 KB|20 KB|
 |すべてのトランスポート ルールによってメッセージに追加される最大受信者数|無制限|100 の受信者|100 の受信者|100 の受信者|
 |被転送者の制限|制限なし|10 の受信者|10 の受信者|10 の受信者|
-|メッセージのリダイレクト回数|3 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
-|トランスポート ルールによってメッセージがリダイレクトされる回数|制限なし|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
+|メッセージのリダイレクト回数|3 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
+|トランスポート ルールによってメッセージがリダイレクトされる回数|制限なし|1 回のリダイレクト|1 回のリダイレクト|1 回のリダイレクト|
 
 ## <a name="moderation-limits"></a>モデレートの制限
 
@@ -518,11 +518,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 負荷が高いときには、一部の送信者に期限切れモデレート メッセージに関する通知メッセージが送信されなくなる可能性がありますが、その場合も、配信レポートで通知を確認できます。
 
-### <a name="moderation-limits-across-office-365-options"></a>Office 365 オプションのモデレートの制限
+### <a name="moderation-limits"></a>モデレートの制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |調停メールボックスの最大サイズ|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |最大モデレーター数|10 人|10 人|10 人|10 人|10 人|10 人|
 |モデレートを待機しているメッセージの有効期限|2 日|2 日|2 日|2 日|2 日|2 日間|
@@ -549,11 +549,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **Exchange ActiveSync デバイス削除の制限**: Exchange 管理者が 1 か月間に削除できる Exchange ActiveSync デバイスの最大数。
 
-### <a name="exchange-activesync-limits-across-office-365-options"></a>各 Office 365 オプションの Exchange ActiveSync の制限
+### <a name="exchange-activesync-limits"></a>Exchange ActiveSync の制限
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|1280|1280|
 

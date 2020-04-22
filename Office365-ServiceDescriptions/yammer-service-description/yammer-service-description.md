@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263138"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640185"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
 Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
   
-Yammer を組み込んだ Office 365 プランのリストについては、「[Office 365 サービス ファミリーおよびプラン](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)」を参照してください。
+Yammer を含むプランの一覧については、「 [Microsoft サービスファミリとプラン](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)」を参照してください。
   
-各プランの機能を比較するには、「[プランを選ぶ](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」をご覧ください。
+プラン全体の機能を比較するには、「 [Microsoft 365 for business プランの比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
   
 > [!TIP]
-> Office 365 サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
+> Microsoft サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
   
 ## <a name="system-requirements"></a>システム要件
 
-企業組織、教育組織、および行政機関で使用可能な月単位のサブスクリプションベースのサービスである、Office 365 のシステム要件については、「[Office 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
+Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [Microsoft 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
 ## <a name="yammer-plans"></a>Yammer プラン
 
@@ -49,7 +49,7 @@ Yammer は以下のプランで提供されています。
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise service communications policy
 <a name="YammerCommsPolicy"> </a>
 
-Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシー](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)に準拠していますが、更新プログラムをロールアウトする目的で対象のリリースを使用することはありません。 
+Yammer は、 [Microsoft 365 変更管理ポリシー](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)に準拠していますが、更新プログラムをロールアウトするために対象となるリリースは使用しません。 
   
 すべての Yammer ユーザーは、A/B 機能テストを受けることになります。これにより、Microsoft では安定性、パフォーマンス、およびエクスペリエンスを向上するためにさまざまな環境やデバイスにおいて機能をテストすることができます。テストのために、同じネットワーク内のユーザーでも、エクスペリエンスが異なる場合があります。お客様が A/B テストを受けないことを選択することはできません。
   
@@ -59,8 +59,8 @@ Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシ
   
 |||
 |:-----|:-----|
-|**アクションを必要とする変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があり、組織の法令遵守に影響を与える可能性のある更新を行う必要があります。  <br/> |-Office 365 メッセージセンターの電子メールを Yammer 認証済み管理者に直接送信 <br/>-Office 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
-|**認識を必要とする変更 (情報を入手する)**<br/>管理者による操作を必要としない変更、ビジュアルデザインの変更  <br/> |-Office 365 メッセージセンター<br/>-Office 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
+|**アクションを必要とする変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があり、組織の法令遵守に影響を与える可能性のある更新を行う必要があります。  <br/> |-Office 365 メッセージセンターの電子メールを Yammer 認証済み管理者に直接送信 <br/>-Microsoft 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
+|**認識を必要とする変更 (情報を入手する)**<br/>管理者による操作を必要としない変更、ビジュアルデザインの変更  <br/> |-Office 365 メッセージセンター<br/>-Microsoft 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
 |**重要でない** <br/>重要でないが、一部のユーザーが見ることができる場合でも、アクションや認識を必要としない変更  <br/> |幅広く通知することはありません |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Yammer の各プランで利用できる機能
@@ -103,7 +103,7 @@ Yammer は Office 365 の一部であり、 [office 365 の変更管理ポリシ
 |[ブラウザー拡張](yammer-platform-features.md#browser-extension) <br/> |はい  <br/> |はい  <br/> |
 |[アクティビティストリーム API](yammer-platform-features.md#activity-stream-api) <br/> |はい  <br/> |はい  <br/> |
 |[カスタムネットワークブランド](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |いいえ  <br/> |はい  <br/> |
-|[ユーザー管理](administration-and-security-features-in-yammer.md#user-management) <br/> |いいえ  <br/> |はい  <br/> |
+|[ユーザーの管理](administration-and-security-features-in-yammer.md#user-management) <br/> |いいえ  <br/> |はい  <br/> |
 |[単一の id](administration-and-security-features-in-yammer.md#single-identity) <br/> |はい  <br/> |はい  <br/> |
 |[ディレクトリ同期](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |いいえ  <br/> |はい  <br/> |
 |[データエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |いいえ  <br/> |はい  <br/> |

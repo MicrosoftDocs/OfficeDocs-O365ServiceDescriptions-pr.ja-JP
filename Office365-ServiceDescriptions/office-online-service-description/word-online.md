@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688151"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640215"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 
@@ -47,7 +47,7 @@ Word では、変更を加えたときに文書が自動的に保存されます
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>プロがデザインしたテンプレートの参照と利用
 
-Web 用 Word では使用できません。 Office.com にあるプロがデザインした数多くのテンプレートを利用してドキュメントを作成するといった高度なデザイン機能は、Word デスクトップ アプリのみで利用できます。 ただし、Office 365 のお客様は、ユーザーが新しいドキュメントを作成するときにカスタム テンプレートを起動するようにドキュメント ライブラリを構成できます。 詳細については、「[リストまたはライブラリにコンテンツ タイプを追加する](https://go.microsoft.com/fwlink/p/?LinkId=391446)」を参照してください。
+Web 用 Word では使用できません。 Office.com にあるプロがデザインした数多くのテンプレートを利用してドキュメントを作成するといった高度なデザイン機能は、Word デスクトップ アプリのみで利用できます。 ただし、ユーザーが新しいドキュメントを作成するときに、カスタムテンプレートを起動するようにドキュメントライブラリを構成できます。 詳細については、「[リストまたはライブラリにコンテンツ タイプを追加する](https://go.microsoft.com/fwlink/p/?LinkId=391446)」を参照してください。
   
 ## <a name="bullets-and-numbering"></a>箇条書きと段落番号
 
@@ -297,5 +297,5 @@ Word では、文書内の単語数についての大まかな語句が提供さ
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the web service description](office-online-service-description.md)」を参照してください。 
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office for the web service description](office-online-service-description.md)」を参照してください。 
   

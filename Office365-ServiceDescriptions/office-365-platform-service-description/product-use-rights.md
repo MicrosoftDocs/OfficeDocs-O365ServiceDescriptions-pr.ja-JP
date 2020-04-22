@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: bb5ce750365056dc88beee31f627fa7c569849e1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4eee250ce5d4ae2855c7ec1f26775bab73089676
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262498"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639915"
 ---
 # <a name="product-use-rights"></a>製品使用権
 
@@ -34,6 +34,6 @@ Microsoft Online サブスクリプション契約に従うことに同意した
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

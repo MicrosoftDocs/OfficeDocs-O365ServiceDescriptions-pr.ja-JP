@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529220"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640145"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -33,9 +33,9 @@ Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベー�
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 Advanced Threat Protection (ATP) の可用性
 
-ATP は、Office 365 Enterprise E5、Office 365 エデュケーション A5、および Microsoft 365 Business に含まれています。
+ATP は、Office 365 Enterprise E5、Office 365 エデュケーション A5、および Microsoft 365 Business Premium に含まれています。
 
-ATP は、次の Exchange と Office 365 サブスクリプション プランに追加できます。
+ATP は、次の Exchange および Microsoft 365 のサブスクリプションプランに追加できます。
 
 - Exchange Online プラン 1
 
@@ -45,9 +45,9 @@ ATP は、次の Exchange と Office 365 サブスクリプション プラン�
 
 - Exchange Online Protection
 
-- Office 365 Business Essentials
+- Microsoft 365 Business Basic
 
-- Office 365 Business Premium
+- Microsoft 365 Business Standard
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ ATP は、次の Exchange と Office 365 サブスクリプション プラン�
 
 Office 365 Advanced Threat Protection を購入するには、「[Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)」を参照してください。
 
-プランの機能を比較するには、「 [Office 365 For Business プランの比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照して、[適切な Microsoft 365 Enterprise ソリューションを見つけ](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)てください。
+プランの機能を比較するには、「 [microsoft 365 アプリのビジネスプランを比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)する」および「 [microsoft 365 Enterprise ソリューション](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)をお探しください」を参照してください。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の新機能
 
@@ -87,7 +87,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |[安全なリンク](#safe-links)|はい|はい|はい|
 |Teams の安全なリンク|はい|はい|はい|
 |[SharePoint、OneDrive、Microsoft Teams 用の ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|はい|はい|はい|
-|[フィッシング対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
+|[フィッシング詐欺対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
 |[リアルタイムレポート](#real-time-reports)|はい|はい|はい|
 |*自動化、調査、修復、教育*|
 |[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
@@ -113,7 +113,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 安全なリンクは、次のアプリの Url に対して使用できます。
 
-- Office 365 ProPlus on Windows または Mac
+- Windows または Mac でのエンタープライズ向け Microsoft 365 アプリ
 
 - Web 用 Office (web 用の Word、web 用の Excel、web 用の PowerPoint、web 用の OneNote)
 
@@ -132,13 +132,13 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 [SharePoint、OneDrive、Microsoft Teams 用の ATP は、](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)チームサイトやドキュメントライブラリで悪意のあるものとして識別されたファイルを検出してブロックするのに便利です。 さらに、Microsoft Teams のチャネルとチャットでは、ATP の安全なリンク保護が利用可能になりました。
 
-### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
+### <a name="anti-phishing-policies"></a>フィッシング詐欺対策ポリシー
 
 [ATP のフィッシング対策](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)は、メッセージがフィッシングである可能性があることを示すインジケーターの受信メッセージをチェックします。 ユーザーが ATP ポリシー (「安全な添付ファイル」、「安全なリンク」、または「フィッシング対策」) でカバーされている場合、受信メッセージは、メッセージを分析し、構成されたポリシーに基づいて適切なアクションを実行する複数の machine learning モデルによって評価されます。
 
 ### <a name="real-time-reports"></a>リアルタイムレポート
 
-Office 365 セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムのレポートと洞察](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)が含まれており、セキュリティおよびコンプライアンスの管理者は、セキュリティ攻撃や不審な活動の増加など、優先度の高い問題に焦点を当てることができます。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
+セキュリティ & コンプライアンスセンターで利用可能な監視機能には[リアルタイムのレポートと洞察](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)が含まれており、セキュリティおよびコンプライアンスの管理者は、セキュリティ攻撃や不審な活動の増加など、優先度の高い問題に焦点を当てることができます。 スマートレポートと分析には、問題の領域を強調するだけでなく、データを表示して探索したり、簡単なアクションを実行したりするための推奨事項やリンクが含まれています。
 
 ### <a name="explorer"></a>Explorer
 

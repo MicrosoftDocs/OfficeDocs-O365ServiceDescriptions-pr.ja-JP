@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262740"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639965"
 ---
 # <a name="planning-and-deployment"></a>計画と展開
 
@@ -86,7 +86,7 @@ Exchange Online は、社内の Exchange Server 2003、Exchange Server 2007、�
     
 4. 最初の移行が完了した後、管理者が移行バッチを停止または削除するまで、すべての変更は 24 時間ごとにクラウドに同期されます。
     
-管理者は、Office 365 をポイントするようにユーザーの MX レコードを構成し、Outlook のユーザー プロファイルを再構成して、ユーザーをクラウド メールボックスに切り替えます。ユーザーがクラウド メールボックスに切り替わると、ローカルのオフライン フォルダー (OST ファイル) が再同期され、移行されたメールがクライアント ワークステーションにダウンロードされます。移行が完了すると、ユーザーはメールボックス内の古いメッセージに返信できます。
+ユーザーをクラウドメールボックスに切り替えるには、管理者が Microsoft をポイントするように MX レコードを構成し、Outlook でユーザーのプロファイルを再構成します。 ユーザーがクラウド メールボックスに切り替わると、ローカルのオフライン フォルダー (OST ファイル) が再同期され、移行されたメールがクライアント ワークステーションにダウンロードされます。 移行が完了すると、ユーザーはメールボックス内の古いメッセージに返信できます。
   
 Exchange の一括移行の詳細については、「[Office 365 への一括メール移行について知っておくべきこと](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da)」を参照してください。
   
@@ -136,6 +136,6 @@ Microsoft は、既存の電子メール環境を Exchange Online に移行す�
     
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics は、組織のコミュニケーションとコラボレーションの傾向に関する豊富で実用的な洞察を提供し、より効果的なビジネス上の意思決定を行うのに役立ちます。
-ms.openlocfilehash: 55d452bb8fadf9ec4dd4a1f086f0835838184657
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263247"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640105"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics サービスの説明
 
@@ -38,11 +38,11 @@ Microsoft Workplace Analytics は、組織のコミュニケーションとコ�
 
 ## <a name="drive-organizational-change-with-data"></a>データを使用して組織の変更を促進する
 
-Workplace Analytics は、より優れたビジネス上の意思決定を行うための、豊富な目的データのセットを提供します。 ガイド付きの探索ダッシュボードは問題が発生する可能性のある領域を強調表示しますが、柔軟なクエリは、雇用戦略、新しい組織構造、およびビジネスプログラムに関する対象となるビジネス上の疑問に対応します。 Office 365 データをビジネス成果情報で補強して、ベストプラクティス、予測モデル、ベンチマークを確立します。 行動データに基づいて変更イニシアチブを導入し、長期間にわたるプログラムの成功を測定します。 ビジネスの課題を定量化して変更を実装するために使用できる利用可能なコンサルティングサービスの詳細については、Microsoft カスタマーサービス担当者にお問い合わせください。
+Workplace Analytics は、より優れたビジネス上の意思決定を行うための、豊富な目的データのセットを提供します。 ガイド付きの探索ダッシュボードは問題が発生する可能性のある領域を強調表示しますが、柔軟なクエリは、雇用戦略、新しい組織構造、およびビジネスプログラムに関する対象となるビジネス上の疑問に対応します。 データをビジネス成果情報で強化して、ベストプラクティス、予測モデル、およびベンチマークを確立します。 行動データに基づいて変更イニシアチブを導入し、長期間にわたるプログラムの成功を測定します。 ビジネスの課題を定量化して変更を実装するために使用できる利用可能なコンサルティングサービスの詳細については、Microsoft カスタマーサービス担当者にお問い合わせください。
 
 ## <a name="privacy-and-compliance-designed-for-you"></a>お客様のために設計されたプライバシーとコンプライアンス
 
-Workplace Analytics は、データを保護するためにニーズとコンプライアンスを満たすためのプライバシー管理を提供します。 お客様は、データの集約と非識別の標準を分析して管理する母集団を決定します。 Workplace Analytics は Office 365 メタデータのみを分析します。 データビューの機能と集計レベルは、ロールとユーザーの設定に基づいています。
+Workplace Analytics は、データを保護するためにニーズとコンプライアンスを満たすためのプライバシー管理を提供します。 お客様は、データの集約と非識別の標準を分析して管理する母集団を決定します。 Workplace Analytics は、Microsoft メタデータのみを分析します。 データビューの機能と集計レベルは、ロールとユーザーの設定に基づいています。
 
 詳細については、「[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492)」を参照してください。 Workplace Analytics の使用方法の詳細については、「 [Workplace analytics のドキュメント](https://docs.microsoft.com/workplace-analytics/)」を参照してください。
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987579"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639836"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのアーカイブ機能
 
@@ -68,7 +68,7 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 ## <a name="deleted-mailbox-recovery"></a>削除済みメールボックスの回復
 
-管理者が社内の Exchange Server からユーザーを削除すると、そのユーザーのアーカイブも削除されます。削除されたアーカイブ メールボックスを回復する必要がある場合は、Office 365 サポート チームがこの回復を実行できます。回復されたアーカイブには、削除時点で保存されていたすべてのメールが含まれています。
+管理者が社内の Exchange Server からユーザーを削除すると、そのユーザーのアーカイブも削除されます。 削除されたアーカイブメールボックスを回復する必要がある場合は、Microsoft サポートチームがこの回復を実行できます。 回復されたアーカイブには、削除時点で保存されていたすべてのメールが含まれています。
   
 > [!IMPORTANT]
 > 管理者は、ユーザーのメールボックスが削除された時点から 30 日間、アーカイブ メールボックスの回復を要求できます。30 日後、アーカイブ メールボックスは回復できなくなります。 
@@ -79,5 +79,5 @@ Exchange Online アーカイブのアーカイブメールボックスは、地�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
   

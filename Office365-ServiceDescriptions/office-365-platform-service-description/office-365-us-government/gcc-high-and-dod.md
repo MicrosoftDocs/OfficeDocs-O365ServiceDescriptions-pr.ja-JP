@@ -9,13 +9,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。
-ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
-ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
+description: Office 365 コマーシャル環境と比較した Office 365 GCC High および DoD 環境の固有のコミットメントと相違点について説明します。
+ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40003962"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639055"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -58,44 +58,21 @@ Office 365 のスタッフには、GCC High および DoD 製品への永続的�
 <sup>1</sup>は、OFFICE 365 US GCC-高または DOD クラウドでホストされている顧客のコンテンツに一時的なアクセス権または永続的にアクセスできる人員にのみ適用されます。
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>対応しているクラウド アーキテクチャに基づく機能のわずかな違い
 
-GCC High および DoD 環境内の Office 365 サブスクリプションには、コアの Exchange Online、SharePoint Online、および Skype for Business 機能が含まれます。インフラストラクチャの認定資格は増加しており、市販の Office 365 オファリングと GCC High および DoD で提供されるものでも、機能に違いがあります。
+GCC High および DoD 環境のサブスクリプションには、Exchange Online、SharePoint、Skype for business のコア機能が含まれています。 インフラストラクチャの認定資格は増加しており、市販の Office 365 オファリングと GCC High および DoD で提供されるものでも、機能に違いがあります。
   
 ### <a name="exchange-online"></a>Exchange Online
 
  **オンプレミス IP-PBX のための Exchange Online ユニファイド メッセージング サポート**: Exchange Online ユニファイド メッセージングでのオンプレミスの IP-PBX システムの統合サポートは、GCC High および DoD ではサポートされていません。 
   
-### <a name="sharepoint-online"></a>SharePoint Online
+### <a name="file-sharing"></a>ファイル共有
 
- **ドキュメントの共有**: SharePoint Online と OneDrive for Business は、ユーザーとチームの間のシームレスな情報共有とコラボレーションを可能にします。ドキュメントの所有者は、Web インターフェイスや Outlook のモダンな添付ファイルを介して、他のユーザーにドキュメントへのアクセスを提供します。ドキュメントを共有するときには、アクセス許可を管理するための複数のオプションがあります。 
-  
-1. 自分のみ
-    
-2. 社内のユーザー全員
-    
-3. このリンクを持つユーザー全員
-    
-4. 特定のユーザー
-    
-GCC High または DoD 環境で SharePoint Online と OneDrive for Business を使用しているお客様は、ドキュメントを非公開 (最初のオプション)、組織内のすべてのユーザーと共有する (2 番目のオプション)、ドキュメントへのリンクを持つすべてのユーザーと共有することができます (3 番目のオプション)。特定のユーザーと共有します (4 番目のオプション)。 これらのオプションは、テナントレベルのアクセス制御に基づいて制限できます。
+ユーザーには、SharePoint と OneDrive でファイルやフォルダーを共有するための複数のオプションがあります。 すべてのオプションは、GCC High および DoD 環境で利用できます。 これらのオプションを管理する方法については、「[共有設定を管理](/sharepoint/turn-external-sharing-on-or-off)する」を参照してください。 ユーザーが [特定の人] オプションを使用して共有し、組織外のユーザーを選択すると、通常、SharePoint は電子メールで検証コードを送信します。 受信者は、共有アイテムにアクセスするためのコードを入力する必要があります。 これは、GCC 高の組織のユーザーが GCC 以外の組織のユーザーと共有している場合や、その逆の場合に当てはまります。 (外部共有機能の詳細については、「[ユーザーが共有する](/sharepoint/external-sharing-overview#what-happens-when-users-share)」を参照してください)。ただし、ある GCC レベルの組織のユーザーが別の GCC の組織のユーザーと共有している場合、Azure AD の受信者に対してゲストアカウントが作成され、ユーザー名とパスワードでサインインします。 
 
-特定のユーザーと共有している場合、SharePoint は、共有先の電子メールアドレスにワンタイムパスコードを送信して、ユーザーがリンクの目的の受信者であることを確認します。 ただし、GCC-High テナントが別の GCC-High テナントと共有している場合、Azure AD の受信者にはゲストアカウントが作成され、ユーザー名とパスワードでサインインします。
+[ファイル要求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)は、Office 365 Government では使用できません。
+
+また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。 たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC 高組織と同期されます。 ユーザー A がライブラリに移動し、変更について通知を作成します。 通知は Gmail アドレスに送信されません。
   
-その他の例:
-  
-- GCC High テナント A は GCC High テナント B と共有でき、B ユーザーは Azure AD ユーザー名とパスワードを使用してサインインできます。
-    
-- 非 GCC High テナント C は、GCC High テナント A または B と共有でき、A または B ユーザーはワンタイムパスコードを使用してサインインします。
-    
-- GCC High テナント A または B は、非 GCC High テナント C と共有でき、C ユーザーはワンタイムパスコードを使用してサインインします。
-    
-また、ユーザープロファイルに添付された非 GCC の電子メールアドレスはサポートされていないため、通知の電子メールを送信することはできません。 たとえば、オンプレミスユーザー A には Gmail 電子メールアドレスが割り当てられ、Azure GCC High テナントと同期されます。 ユーザー A がライブラリに移動し、変更について通知を作成します。 通知は Gmail アドレスに送信されません。
-  
- **外部アプリケーションへのアクセス**: アドインのデータ ソースなど、外部アプリケーションへの接続は、GCC High および DoD でサポートされているシステムのセキュリティ境界内にあるソースに限定されます。 
-  
- **Business Connectivity Services** -BCS 機能は、クラウドサービスのセキュリティ境界内でデータソースにアクセスできるという接続シナリオに対してサポートされています。 
-  
- **サンド ボックス ソリューション**: この機能は非推奨であり、利用できません。 セキュリティで保護されたソリューションはすべて、 [SharePoint アドインの拡張モデル]( https://msdn.microsoft.com/library/office/fp179930.aspx)に移行する必要があります。
-  
+
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
@@ -105,7 +82,7 @@ GCC High または DoD 環境で SharePoint Online と OneDrive for Business を
 **電話システムと電話会議 (直接ルーティング経由)**: スマートフォンシステムと電話会議 (GCC High および DoD 環境) は直接ルーティングによって配信されています。 詳細については、以下のサービスレベルのドキュメントを参照してください。
 
 - [直接ルーティング経由の電話システム](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
-- [GCC High および DoD の直接ルーティングを使用した電話会議](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+- [GCC High および DoD のダイレクト ルーティングを使用する電話会議](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
 ### <a name="identity"></a>ID
 

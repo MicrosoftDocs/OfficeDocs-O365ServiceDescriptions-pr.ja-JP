@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続はインターネット経由で行われるため、仮想プライベートネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
-ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260712"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639725"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのクライアント機能
 
@@ -38,7 +38,7 @@ Outlook 2010 以降および web 上の Outlook では、アーカイブのす�
 Outlook 2007 はアーカイブの基本的なサポートを提供しますが、一部のアーカイブ機能とコンプライアンス機能が Outlook 2007 では使用できません。たとえば、Outlook 2007 では、ユーザーは、保持ポリシーやアーカイブ ポリシーをメールボックス内のアイテムに適用できません。代わりに、管理者によってプロビジョニングされるポリシーを使用する必要があります。Outlook 2007 ユーザーがアーカイブにアクセスするためには、2011 年 2 月の Office 2007 累積更新プログラムが必要です。
   
 > [!NOTE]
-> Outlook は Exchange Online Archiving に付属していません。 Microsoft Office 365 ProPlus (Microsoft Outlook を含む) は、一部の Office 365 プランに含まれているほか、個別のサブスクリプションとして購入することもできます。 詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。 Office 365 ProPlus の詳細については、「 [office アプリケーションサービスの説明](../office-applications-service-description/office-applications-service-description.md)」を参照してください。 
+> Outlook は Exchange Online Archiving に付属していません。 Microsoft 365 for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。 Microsoft 365 enterprise 用アプリの詳細については、「 [Office アプリケーションサービスの説明](../office-applications-service-description/office-applications-service-description.md)」を参照してください。 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online Archiving でサポートされているクライアント
 
@@ -68,4 +68,4 @@ Outlook on the web は、Exchange Online と連携する Web ベースの Outloo
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online アーカイブサービスの説明](exchange-online-archiving-service-description.md)」を参照してください。

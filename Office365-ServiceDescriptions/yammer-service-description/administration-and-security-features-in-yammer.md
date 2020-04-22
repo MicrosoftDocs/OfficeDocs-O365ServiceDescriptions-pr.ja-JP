@@ -1,5 +1,5 @@
 ---
-title: Yammer の管理およびセキュリティ機能
+title: Yammer の管理とセキュリティ機能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Yammer では、次の管理およびセキュリティ機能を使用できます。
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263199"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640085"
 ---
-# <a name="administration-and-security-features-in-yammer"></a>Yammer の管理およびセキュリティ機能
+# <a name="administration-and-security-features-in-yammer"></a>Yammer の管理とセキュリティ機能
 
 Yammer では、次の管理およびセキュリティ機能を使用できます。
   
@@ -55,10 +55,10 @@ Yammer ネットワークの確認済みの管理者は、ネットワーク全�
 
 ## <a name="network-migration"></a>ネットワークの移行
 
-複数の Yammer ネットワークを 1 つに統合します。詳しくは、「[ネットワークの移行: 複数の Yammer ネットワークを統合する](https://go.microsoft.com/fwlink/?LinkID=617488)」を参照してください。
+複数の Yammer ネットワークを 1 つに統合します。 詳しくは、「[ネットワークの移行: 複数の Yammer ネットワークを統合する](https://go.microsoft.com/fwlink/?LinkID=617488)」を参照してください。
   
 > [!NOTE]
-> Office 365 テナント間での Yammer ネットワークの移行はサポートされていません。 
+> プラン間での Yammer ネットワークの移行はサポートされていません。 
 
 ## <a name="organization-resources"></a>組織のリソース
 
@@ -74,18 +74,18 @@ Yammer ネットワークの確認済みの管理者は、ネットワーク全�
 
 ## <a name="single-identity"></a>単一の id
 
-組織で Yammer を Office 365 の既定のソーシャル エクスペリエンスとして選択すると、従業員はそれぞれの既存の Yammer アカウントにマッピングされます。 これは、Office 365 で Yammer にナビゲートするときに、再びサインインする必要がないことを意味します。 従業員が Office&mdash;365 から yammer モバイルアプリを通じて、または Yammer.com&mdash;を参照して yammer にアクセスすると、既存の組織の資格情報に基づいて自動的にログインされます。
+組織の既定のソーシャル環境として Yammer を選択すると、従業員は既存の Yammer アカウントにマップされます。 これは、Office 365 で Yammer にナビゲートするときに、再びサインインする必要がないことを意味します。 従業員が Office&mdash;365 から yammer モバイルアプリを通じて、または Yammer.com&mdash;を参照して yammer にアクセスすると、既存の組織の資格情報に基づいて自動的にログインされます。
 
 ## <a name="usage-policy"></a>利用状況ポリシー
 
 組織のネットワークに対してカスタム使用ポリシーを設定し、ユーザーに承認を求めるように要求します。
 
-## <a name="user-management"></a>ユーザー管理
+## <a name="user-management"></a>ユーザーの管理
 
 組織のネットワークへのアクセスを簡単に管理できます。 Yammer を使用すると、すでに使用しているディレクトリとの同期、ユーザーの追加または削除、またはユーザーのネットワークへの招待と、他の管理者の指名を行うことができます。
 
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
   
 

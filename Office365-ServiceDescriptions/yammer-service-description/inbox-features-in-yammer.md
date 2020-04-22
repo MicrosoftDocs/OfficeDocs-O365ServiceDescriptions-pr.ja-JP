@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Yammer では次の受信トレイ機能が利用可能です。
-ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688013"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640045"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer の受信トレイ機能
 
@@ -33,6 +33,6 @@ Yammer では次の受信トレイ機能が利用可能です。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
   
 

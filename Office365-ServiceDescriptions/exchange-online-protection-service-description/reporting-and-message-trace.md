@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) には、組織の全体的な状態と正常性を判断するのに役立つさまざまなレポートが用意されています。 一部のレポートは、Microsoft 365 管理センターで利用できますが、Exchange 管理センター (EAC) で使用できます。
-ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688074"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638952"
 ---
 # <a name="reporting-and-message-trace"></a>レポート作成とメッセージ追跡
 
@@ -29,12 +29,12 @@ Microsoft Exchange Online Protection (EOP) には、組織の全体的な状態�
 
 Microsoft 365 管理センターの [レポート] ページには、メッセージトラフィック、スパムおよびマルウェアの検出、およびメールフロールール (トランスポートルールとも呼ばれます) またはデータ損失防止 (DLP) ポリシーによって影響を受けるメッセージに関する情報が記載されています。 保護、ルール、DLP に関する拡張レポートは、EOP 管理者が対話形式でレポートを作成できるようにするものです。 これらのレポートでは、概要データと、個別のメッセージに関する詳細へのドリルダウン機能が提供されます。
 
-これらのレポートの詳細については、「 [Office 365 のメール保護レポートを使用して、マルウェア、スパム、ルールの検出に関するデータを表示する](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)」を参照してください。
+これらのレポートの詳細については、「[メール保護レポートを使用してマルウェア、スパム、ルールの検出に関するデータを表示する](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)」を参照してください。
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> REST ベースのレポート機能および関連するコマンドレットの多くは、2018年1月に廃止されました。 Office 365 で利用可能な代替の Microsoft Graph レポートの詳細については、「 [Microsoft graph で office 365 使用状況レポートを](https://go.microsoft.com/fwlink/p/?LinkID=865135)使用する」のサブトピックを参照してください。
+> REST ベースのレポート機能および関連するコマンドレットの多くは、2018年1月に廃止されました。 Office 365 で利用可能な代替の Microsoft Graph レポートの詳細については、「 [Microsoft graph で利用状況レポートを](https://go.microsoft.com/fwlink/p/?LinkID=865135)使用する」のトピックを参照してください。
 
 EOP スタンドアロンのお客様は利用できません。 REST/OData テナントレポート web サービスを使用すると、プログラムによってメッセージングデータに関する概要と詳細レポートを収集できます。また、カスタム web 管理ポータルの web ページにデータを表示することもできます。
 
@@ -44,4 +44,4 @@ EAC のメッセージ追跡機能を使用すると、管理者は EOP を通�
 
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online Protection サービスの説明](exchange-online-protection-service-description.md)」を参照してください。

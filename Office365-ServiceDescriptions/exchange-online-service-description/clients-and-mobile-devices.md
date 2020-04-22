@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
-ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
+ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/21/2019
-ms.locfileid: "40840246"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639715"
 ---
 # <a name="clients-and-mobile-devices"></a>クライアントとモバイル デバイス
 
@@ -34,13 +34,13 @@ Microsoft Outlook は、予定表、連絡先、タスク、および以下の�
   
 Exchange 2016 と Exchange Online でサポートされている Outlook クライアントの詳細については、「 [Office のシステム要件](https://products.office.com/office-system-requirements)」を参照してください。 
 
-Office 365 は、Office の最新のブラウザーおよびバージョンで動作するように設計されています。 旧バージョンのブラウザーと、メインストリームサポートされていないバージョンの Office を使用している場合:
+Microsoft 365 は、Office の最新のブラウザーおよびバージョンと共に動作するように設計されています。 旧バージョンのブラウザーと、メインストリームサポートされていないバージョンの Office を使用している場合:
 
-- Microsoft は、サービスへの接続を意図的に妨げるものではありませんが、Office 365 の品質は時間の経過とともに低下する可能性があります。
+- Microsoft は、サービスへの接続を意図的に妨げるものではありませんが、ユーザーの利便性は徐々に低下する可能性があります。
 - マイクロソフトは、セキュリティに関連しない問題を解決するためのソフトウェア更新プログラムを提供していません。
 
 > [!IMPORTANT]
->  Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft Office Pro Plus (Microsoft Outlook を含みます) は、一部の Office 365 プランに含まれている他、個別のサブスクリプションとしても購入できます。 POP を使用して Exchange Online の電子メールアカウントに接続する場合は、次の制限があります。予定表情報がない > > 空き時間情報はありません > > >] POP を使用して接続すると、すべてのメッセージがクライアントにダウンロードされ、複数のコンピューターまたはデバイス (ノート pc と電話など) 間の同期はありません 
+>  Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft 365 for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 POP を使用して Exchange Online の電子メールアカウントに接続する場合は、次の制限があります。予定表情報がない > > 空き時間情報はありません > > >] POP を使用して接続すると、すべてのメッセージがクライアントにダウンロードされ、複数のコンピューターまたはデバイス (ノート pc と電話など) 間の同期はありません 
   
 ## <a name="outlook-on-the-web"></a>Web 上の Outlook
 
@@ -65,7 +65,7 @@ Exchange Online は、iOS、Android、および Windows Phone で使用可能な
 |||||
 |:-----|:-----|:-----|:-----|
 |デバイス  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook モバイル アプリ利用の可否  <br/> |はい  <br/> [Outlook for Android の入手](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可  <br/> [Outlook for iOS の入手](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |組み込み  <br/> |
+|Outlook モバイル アプリ利用の可否  <br/> |必要  <br/> [Outlook for Android の入手](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可  <br/> [Outlook for iOS の入手](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |組み込み  <br/> |
 |Exchange Online と互換性のある組み込みの電子メール アプリ  <br/> |Gmail アプリ/Samsung 電子メール アプリ  <br/> |iOS メール アプリ  <br/> |Outlook メール、予定表、連絡先  <br/> |
 |詳細情報  <br/> |[Android モバイルのセットアップ](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone または iPad のセットアップ](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone のセットアップ](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
@@ -73,7 +73,7 @@ Exchange Online は、iOS、Android、および Windows Phone で使用可能な
   
 ### <a name="feature-availability"></a>機能の可用性
 
-Outlook は、ユーザーが最新のモバイル アプリに期待する高速で直感的な電子メールと予定表のエクスペリエンスを提供し、Office 365 の最高の機能をサポートする唯一のアプリです。これは、特に完全な Office 365 エクスペリエンスをサポートするように設計された唯一の電子メール アプリであり、ユーザーにデスクトップからモバイルまでの一貫したエクスペリエンスを提供します。Outlook は Intune、エンタープライズ モビリティとセキュリティ、および Exchange コントロールと統合され、データとユーザーの安全を確保します。
+Outlook では、優れた機能のサポートを提供する唯一のアプリであるのに対して、ユーザーには、最新のモバイルアプリからの迅速で直感的な電子メールや予定表の操作性が提供されます。 これは、Microsoft のすべての環境をサポートするために特別に設計された唯一の電子メールアプリであり、ユーザーはデスクトップからモバイルへの一貫性のある環境を提供しています。 Outlook は Intune、エンタープライズ モビリティとセキュリティ、および Exchange コントロールと統合され、データとユーザーの安全を確保します。
   
 Outlook では、ユーザーは次のことができます。
   
@@ -151,9 +151,9 @@ POP3 および IMAP4 接続の詳細については、「[Exchange Server 2013 �
 > [!IMPORTANT]
 > SMTP リレーを行うには、承認済み送信元サーバーの IP アドレスが必要です。SMTP で電子メールを送信するには、トランスポート層セキュリティ (TLS) による暗号化と認証が必要です。 
   
-## <a name="blackberry-devices"></a>BlackBerry® デバイス
+## <a name="blackberryreg-devices"></a>BlackBerry&reg;デバイス
 
-Office 365 の電子メールは BlackBerry® デバイスで利用できます (Exchange ActiveSync 経由)。オプションの詳細については、次のトピックを参照してください。
+電子メールは、BlackBerry&reg;デバイスの Exchange ActiveSync から入手できます。 オプションの詳細については、次のトピックを参照してください。
   
 - [BlackBerry で電子メールをセットアップする](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -166,5 +166,5 @@ Office 365 の電子メールは BlackBerry® デバイスで利用できます 
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   

@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688026"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639885"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
-Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべての Office 365 のお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
+Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
   
 > [!NOTE]
 > 50メガバイト (MB) を超えるブックは、Microsoft SharePoint Online 内から web 用の Excel では表示できません。 これよりサイズの大きいファイルを表示するには、ご使用のコンピューターに Excel デスクトップ アプリをインストールする必要があります。 
 
 > [!NOTE]
-> 比較に役立つように、この記事に記載している高度な機能には、Office スイート (Office Professional Plus、Office Standard、または Office 365 ProPlus など) のみで提供される Excel デスクトップ アプリの機能も含まれています。 Web 用の Word、web 用の PowerPoint など、web 機能を使用するすべての Office のリストについては、「 [web 上の office の機能の利用状況](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)」を参照してください。
+> この記事に記載されている高度な機能には、Office スイートのみで利用できる Excel デスクトップアプリ機能 (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise など) があります。 Web 用の Word、web 用の PowerPoint など、web 機能を使用するすべての Office のリストについては、「 [web 上の office の機能の利用状況](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)」を参照してください。
 
 Excel でサポートされているファイルの種類を確認するには、「web 用に[Office でサポート](office-online-service-description.md#supported-file-types-for-office-for-the-web)されているファイルの種類」を参照してください。 Excel と excel デスクトップアプリの相違点の詳細については、「[ブラウザーと excel でのブックの使用の相違点](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)」を参照してください。
   
@@ -342,4 +342,4 @@ Web 用 Excel では使用できません。 必要に応じて、Excel での "
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the web service description](office-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office for the web service description](office-online-service-description.md)」を参照してください。

@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
-ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 大部分の組織では、メールボックスをホストし、メールフローを処理します。 これは最も簡単な構成で、Microsoft はすべてのメールボックスとフィルター処理を管理します。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
+ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262590"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640325"
 ---
 # <a name="mail-flow"></a>メール フロー
 
-Office 365 を使用しているほとんどの組織では、メールボックスをホストし、メールフローを処理します。 Office 365 によってすべてのメールボックスとフィルターを管理するのが最も簡単な構成方法です。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。 
+大部分の組織では、メールボックスをホストし、メールフローを処理します。 これは最も簡単な構成で、Microsoft はすべてのメールボックスとフィルター処理を管理します。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。 
   
 ## <a name="custom-routing-of-outbound-email"></a>送信電子メールのカスタム ルーティング
 
 Microsoft Exchange Online は、オンプレミスのサーバーまたはホストされたサービス ("スマートホスト" とも呼ばれる) を介して組織からのメールフローをルーティングできます。 これにより、組織はデータ損失防止 (DLP) アプライアンスを使用して、送信電子メールのカスタム事後処理を実行し、プライベートネットワークを介してビジネスパートナーに電子メールを配信することができます。 Exchange Online は、アドレス書き換えもサポートしています。これは、アドレスを変更するオンプレミスのゲートウェイを経由して送信電子メールをルーティングします。 この機能を使用すると、サブドメインを非表示にしたり、マルチドメイン組織からの電子メールを1つのドメインとして表示したり、パートナー中継された電子メールを組織内部から送信したように表示したりすることができます。 管理者は、Exchange 管理センター (EAC) 内でカスタムの電子メールルーティングを構成します。
   
-詳細については、「[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)」を参照してください。
+詳細については、「 [Microsoft と独自の電子メールサーバーの間でメールをルーティングするようにコネクタを設定する](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)」を参照してください。
   
 > [!IMPORTANT]
 > Exchange Online は、組織との間を流れるメールを配信できます。 受信者のドメインが、Exchange Online Protection をポイントする DNS MX レコードと共に Exchange Online でホストされている場合、テナントから受信者へのメールフローはインターネット経由で転送されません。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Exchange Online のお客様は、Office 365 コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメール フローを設定することができます。 Office 365 は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートします。 [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)は、インターネット上での通信のセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
+Exchange Online のお客様は、Microsoft コネクタを使用して、信頼できるパートナーとのセキュリティで保護されたメールフローを設定することができます。 Microsoft は、トランスポート層セキュリティ (TLS) 経由のセキュリティで保護された通信をサポートしており、TLS 経由の暗号化を強制するコネクタを作成することができます。 [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)は、インターネット上での通信のセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
   
 詳細については、「[Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)」を参照してください。
   
@@ -65,13 +65,13 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>社内ルーティング制御を使った共有アドレス スペース (MX が社内を指定)
 
-オンプレミスルーティングコントロール (オンプレミスへの MX ポイント) を使用した共有アドレススペースは、Exchange Online と部分的にオンプレミスの両方にホストされ、受信および送信インターネットメールフローが一部である、ハイブリッド展開のメールルーティングシナリオです。は、オンプレミスの Exchange 組織を経由してルーティングされます。 このシナリオは、メールトランスポートの集中管理とも呼ばれます。 このシナリオでは、Exchange Online は EOP を使用してプロビジョニングされ、受信インターネットメールは、EOP にルーティングされる前にオンプレミスのメールサーバーにルーティングされ、最終的に Exchange Online でホストされるメールボックスにルーティングされます。 さらに、Exchange Online メールボックスからの送信メールは、外部の受信者に送信されたメッセージの社内 Exchange 組織を経由してルーティングされます。 この構成では、オンプレミスの Exchange 組織と Exchange Online 組織の両方のすべてのメールボックスに対して、単一の SMTP ドメイン名前空間を使用できます。 
+オンプレミスルーティングコントロール (オンプレミスへの MX ポイント) を使用した共有アドレススペースは、Exchange Online と部分的に社内でホストされ、受信および送信インターネットメールフローが社内 Exchange 組織経由でルーティングされるハイブリッド展開のメールルーティングシナリオです。 このシナリオは、メールトランスポートの集中管理とも呼ばれます。 このシナリオでは、Exchange Online は EOP を使用してプロビジョニングされ、受信インターネットメールは、EOP にルーティングされる前にオンプレミスのメールサーバーにルーティングされ、最終的に Exchange Online でホストされるメールボックスにルーティングされます。 さらに、Exchange Online メールボックスからの送信メールは、外部の受信者に送信されたメッセージの社内 Exchange 組織を経由してルーティングされます。 この構成では、オンプレミスの Exchange 組織と Exchange Online 組織の両方のすべてのメールボックスに対して、単一の SMTP ドメイン名前空間を使用できます。 
   
 ハイブリッド展開でのトランスポート オプションの詳細については、「[Exchange ハイブリッド展開でのトランスポート オプション](https://go.microsoft.com/fwlink/p/?LinkID=271758)」を参照してください。
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>社内ルーティング制御を使わない共有アドレス スペース (MX が EOP を指定)
 
-社内ルーティング制御を使わない共有アドレス スペース (MX が EOP を指定) はハイブリッド展開メールルーティング シナリオで、メールボックスの一部が Exchange Online を使用したクラウド、残りが社内でホストされます。MX レコードは EOP をポイントします。Office 365 サービスを使用して組織の一部のメールボックスをホストし、EOP を使用して社内メールボックスとクラウド メールボックスの両方を保護する場合、このシナリオが適しています。このシナリオでは、組織内の受信者に送信されたメールは最初に EOP を経由してルーティングされます。EOP でスパムおよびポリシーのフィルタリングが行われ、その後、社内メールボックスおよびクラウド メールボックスに転送されます。 
+オンプレミスのルーティングコントロールを使用しない共有アドレススペース (MX ポイントから EOP へ) は、Exchange Online と部分的にオンプレミスの両方を使用してメールボックスをクラウドでホストし、MX レコードが EOP をポイントするハイブリッドメールルーティングシナリオです。 このシナリオは、Microsoft を使用して組織のメールボックスの一部をホストし、オンプレミスとクラウドの両方のメールボックスを保護する EOP を使用する場合に適しています。 このシナリオでは、組織内の受信者に送信されるメールは、社内のメールボックスとクラウドメールボックスに到達する前に、スパムとポリシーのフィルター処理が行われる EOP 経由で最初にルーティングされます。 
   
 ハイブリッド展開でのトランスポート オプションの詳細については、「[Exchange ハイブリッド展開でのトランスポート オプション](https://go.microsoft.com/fwlink/p/?LinkID=271758)」を参照してください。
   
@@ -96,5 +96,5 @@ Exchange Online のお客様は、Office 365 コネクタを使用して、信�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   

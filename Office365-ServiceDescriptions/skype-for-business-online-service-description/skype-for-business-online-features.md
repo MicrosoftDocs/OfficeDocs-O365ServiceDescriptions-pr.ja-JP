@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 管理者である場合は、「Skype for business Online のセットアップ」で Skype for Business Online の機能をセットアップするための詳細な手順を確認できます。
-ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 90d5e7ab138d3bb2098cd279dcf7431043107a57
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688067"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638805"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 
@@ -34,13 +34,13 @@ ms.locfileid: "42688067"
     
 モバイルデバイス、PC、Mac 用のクライアントをダウンロードするには、「[すべてのデバイスで Skype For business をダウンロード](https://go.microsoft.com/fwlink/?linkid=846929)する」にアクセスしてください。
   
-Skype for Business では、上記のサイトに記載されている各会議室デバイスをサポートします。追加情報については、アカウント チームに問い合わせるか、[一般法人向けサポートへのお問い合わせ - 管理者向けヘルプ](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)でお問い合わせください。電話番号を確認するには、ドロップダウン リストからロケールを選択します。
+Skype for Business では、上記のサイトに記載されている各会議室デバイスをサポートします。 詳細については、アカウントチームと連携するか、 [Microsoft サポート](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)にお問い合わせください。 電話番号を確認するには、ドロップダウン リストからロケールを選択します。
   
 ## <a name="instant-messaging-presence-and-contacts"></a>インスタント メッセージング、プレゼンス、および連絡先
 
 Skype for Business を使って、ユーザーは次のことができます。
   
-- 自分のプレゼンス状態&mdash;(利用可能、退席中、応答不可、オフライン&mdash;など) を表示して、他のユーザーが可用性を認識できるようにします。 Skype for Business のプレゼンス情報は、Office 365 スイート全体にわたって表示されます。
+- 自分のプレゼンス状態&mdash;(利用可能、退席中、応答不可、オフライン&mdash;など) を表示して、他のユーザーが可用性を認識できるようにします。 Skype for Business のプレゼンス情報は、このスイート全体で提供されます。
     
 - インターネットなどのインターネットプロトコル (IP) ネットワーク、または組織の企業ネットワークを介して、リアルタイムでテキストメッセージを送受信することができます。 インスタント メッセージングは、Skype 間通信とマルチパーティ通信の両方で利用可能です。 IM テキストはセキュリティ強化のために暗号化されます。
     
@@ -58,7 +58,7 @@ Skype for business でオーディオデバイスのオプションを設定す�
 
 Skype for business の外部接続 (フェデレーション) を使用すると、skype for business ユーザーは、社内で skype for business Server をホストしている他の組織のユーザーとも接続できます。 フェデレーションの連絡先では、プレゼンスを表示したり、IM を使用して通信したり、Skype 間の音声通話とビデオ通話を行ったりすることができます。 フェデレーションのすべての通信は、アクセス プロキシ サーバーを使用して IM システム間で暗号化されます。 Microsoft は、メッセージがフェデレーション パートナーのネットワークに渡された後は、暗号化を制御しません (パートナーがオンプレミスの Skype for Business Server またはサードパーティ ネットワークとフェデレーションを行っている場合)。
   
-Skype for Business 外部接続では、フェデレーション関係の両当事者が同意して、適切に構成する必要があります。 両方の管理者によってフェデレーションがセットアップされると、各組織のユーザーは、他の組織のユーザーにプレゼンスを表示して通信することができます。 Office 365 でのフェデレーションは、適切に構成されたアクセス プロキシ サーバーまたはアクセス エッジ サーバーを備えた他の各 Skype for Business 環境間でのみサポートされます。 エッジサーバーの構成の詳細については、「 [Lync server 2013 での外部ユーザーアクセスに必要なコンポーネント](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)」を参照してください。
+Skype for Business 外部接続では、フェデレーション関係の両当事者が同意して、適切に構成する必要があります。 両方の管理者によってフェデレーションがセットアップされると、各組織のユーザーは、他の組織のユーザーにプレゼンスを表示して通信することができます。 フェデレーションは、適切に構成されたアクセスプロキシまたはエッジサーバーを使用して、他の Skype for Business 環境間でのみサポートされています。 エッジサーバーの構成の詳細については、「 [Lync server 2013 での外部ユーザーアクセスに必要なコンポーネント](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)」を参照してください。
   
 ## <a name="skype-for-business-online-meetings"></a>Skype for Business Online 会議
 
@@ -75,7 +75,7 @@ Skype for Business online 会議の詳細については、「 [IM およびオ�
   
 ## <a name="security-and-archiving"></a>セキュリティとアーカイブ
 
-Microsoft Office 365 のトラフィック (シグナルおよびメディア トラフィックの両方) は、トランスポート層セキュリティ (TLS) プロトコルで暗号化されています。誰かが通信を傍受しても暗号化されたテキストしか見ることができません。たとえば、空港などの公衆 Wi-Fi ネットワークを使用中に Skype for Business Online の IM や通話、プレゼンテーションにアクセスした場合、ネットワーク スニファーによって通信が傍受されるおそれがあるため、ユーザーの通信は暗号化されます。
+Microsoft のトラフィック (信号およびメディアトラフィックの両方) は、トランスポート層セキュリティ (TLS) プロトコルを使用して暗号化されます。 誰かが通信を傍受しても暗号化されたテキストしか見ることができません。 たとえば、空港などの公衆 Wi-Fi ネットワークを使用中に Skype for Business Online の IM や通話、プレゼンテーションにアクセスした場合、ネットワーク スニファーによって通信が傍受されるおそれがあるため、ユーザーの通信は暗号化されます。
   
 Skype for Business は、ピアツーピアのインスタント メッセージ、マルチパーティのインスタント メッセージ、および会議中にアップロードされたコンテンツのアーカイブを提供します。アーカイブ機能には Exchange が必要で、ユーザーの Exchange メールボックスのインプレース ホールド属性によって制御されます。この属性は、電子メールと Skype for Business のコンテンツの両方をアーカイブします。
   
@@ -95,7 +95,7 @@ Skype for Business は、SharePoint サイトのプレゼンスおよびクリ�
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Skype for Business Online の管理
 
-Microsoft はすべての Skype for Business Online データ センターを直接制御し、システム パフォーマンス全体の責任を負います。しかし、Microsoft が管理できる要素は、Office 365 ユーザーの全体的なエクスペリエンスを提供するために組み合わされた要素の一部でしかありません。データ センター、お客様のワイド エリア ネットワーク (WAN)、およびお客様のローカル エリア ネットワーク (LAN) へのネットワーク接続は、組織自体が責任を負います。さらに、組織はユーザーのデバイスとそれらの構成を管理します。また、任意の必要な機能 (たとえば、ユーザーが対象の機能を利用する場合にはその機能を管理する機能など) に関するユーザーごとに必要なライセンスの維持管理にも責任があります。
+Microsoft では、すべての Skype for Business Online データセンターを直接制御し、システム全体のパフォーマンスを管理していますが、ユーザーのための総合的な機能を提供するために、組み合わされた要素の一部のみを制御することができます。 組織自体は、データセンター、お客様のワイドエリアネットワーク (WAN)、お客様のローカルエリアネットワーク (Lan) へのネットワーク接続を担当します。 さらに、ユーザーデバイスとその構成を管理します。また、ユーザーが機能にアクセスする必要がある限り、これらの機能を管理する機能に限定するのではなく、必要な機能に対して、ユーザーごとに必要なライセンスを維持する責任もあります。
   
 このため、Skype for Business Online ではメッセージングに関するタスクを管理するための次のツールをお客様の管理者向けに用意しています。
   
@@ -107,7 +107,7 @@ Microsoft はすべての Skype for Business Online データ センターを直
     
 - Windows PowerShell
     
-最新の Skype for Business Online 管理者ヘルプトピックと操作方法の記事については、「 [skype For Business online In Office 365-管理者向けヘルプ](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)」を参照してください。
+最新の Skype for Business Online 管理者ヘルプトピックと操作方法の記事については、「 [skype For Business online-管理者向けヘルプ](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)」を参照してください。
   
 ## <a name="audio-conferencing-in-office-365"></a>Office 365 における電話会議
 
@@ -115,25 +115,25 @@ Microsoft はすべての Skype for Business Online データ センターを直
   
 電話会議では、組織内のユーザーは、ダイヤルインの電話番号が含まれる会議をホストまたは作成できます。発信者は、これらの電話番号を使用して、自分の電話で会議にコールインすることができます (会議にダイヤルインしているユーザーは、音声しか聞けず、インスタント メッセージ、共有デスクトップ、または会議で共有されているファイルを取得することはできません)。ダイヤルイン会議をセットアップする必要があるのは、会議をスケジュールまたは進行するユーザーに対してのみです。開催者が会議をロックした場合を除き、ダイヤルイン電話番号と会議 ID を持つユーザーは、誰でも会議に参加できます。詳細については、「[電話会議とプランの呼び出しのサポートされている国/地域](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」および「[電話会議のダイヤルイン電話番号](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)」をご覧ください。
   
-Office 365 では、Office 365 をダイヤルイン会議プロバイダーとして使用するか、サードパーティのダイヤルイン会議プロバイダー (電話会議プロバイダー (ACP) とも呼ばれる) を使用して、ダイヤルイン会議を開催できます。
+ダイヤルイン会議を有効にするには、ダイヤルイン会議プロバイダーとして Microsoft を使用するか、またはサードパーティのダイヤルイン会議プロバイダー (電話会議プロバイダーまたは ACP とも呼ばれます) を使用することができます。
   
 一部の国または地域では電話会議は使用できません。電話会議機能を購入できる国と地域の一覧については、「[電話会議とプランの呼び出しのサポートされている国/地域](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」をご覧ください。
   
-## <a name="calling-plans-in-office-365"></a>Office 365 の通話プラン
+## <a name="calling-plans"></a>通話プラン
 
-Skype for Business には、公衆交換電話網 (PSTN) の通話機能が含まれます。通話プランは、[Skype for Business Online の機能](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365)へのアドオンであり、電話番号の検索、取得、組織内のユーザーへの割り当てを行うことができ、ユーザーは Office 365 から直接、組織内外のユーザーに電話で発信したり、着信を受けたりできるようになります。電話番号が割り当てられたユーザーは、VoIP 電話、PC、モバイル デバイスなどの、すべての Skype for Business デバイス間で音声通話を行えます。さらに、ミュート/ミュート解除、保留/再開、通話の転送、着信の転送機能を使用して通話を制御することもできます。また、必要に応じて、緊急通話を行うこともできます。 
+Skype for Business には、公衆交換電話網 (PSTN) 上で使用される通話機能が含まれています。 通話プランとは、電話番号を組織内のユーザーに対して検索、取得、および割り当てできるようにする[電話システム](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365)のアドオンのことです。これにより、組織の内部および外部のユーザーが Office 365 から直接電話をかけたり、呼び出しを受けたりすることができます。 電話番号が割り当てられているユーザーは、VoIP 電話、Pc、モバイルデバイスなど、すべての Skype for Business デバイスで音声通話を行うことができます。 また、ミュート/ミュート解除、ホールド/再開、通話転送、着信転送の各機能を使用して通話を制御し、必要に応じて、緊急電話をかけることができます。 
   
 使用できる通話プランの詳細については、「[Office 365 向けの通話プラン](https://products.office.com/skype-for-business/pstn-calling-plans)」を参照してください。 詳細および通話プランの設定については、「[どの通話プランが適しているか](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)」を参照してください。
   
-## <a name="phone-system-in-office-365"></a>Office 365 の電話システム 
+## <a name="phone-system"></a>電話システム
 
-Office 365 の電話システムを使用すると、Skype for Business と、組織の既存の電話回線、または着信と発信の電話システムのいずれかを使用できます。 Office 365 の電話システムでは、ユーザーは Skype for Business を使用して、インターネットにアクセスできるほぼすべての場所から、通話の配置、受信、転送、ミュート、ミュート解除などの基本的なタスクを実行できます。
+電話システムを使用すると、Skype for Business と、組織の既存の電話回線または電話システムのいずれかを使用して、着信と発信の通話を行うことができます。 Office 365 の電話システムでは、ユーザーは Skype for Business を使用して、インターネットにアクセスできるほぼすべての場所から、通話の配置、受信、転送、ミュート、ミュート解除などの基本的なタスクを実行できます。
   
-電話システムを使用すると、既存の PBX システムを、Office 365 から直接提供される機能セットに置き換えて、Microsoft のクラウドの生産性を向上させるエクスペリエンスと緊密に統合することができます。 完全なイン ザ クラウド エクスペリエンスを選択することも、一部の機能をオンプレミスで維持しながら電話システムの利点を活用するハイブリッド展開を選択することもできます。
+電話システムを使用すると、既存の PBX システムを Microsoft から直接配信され、Microsoft のクラウドの生産性向上に密接に統合された一連の機能に置き換えることができます。 完全なイン ザ クラウド エクスペリエンスを選択することも、一部の機能をオンプレミスで維持しながら電話システムの利点を活用するハイブリッド展開を選択することもできます。
   
 ## <a name="skype-meeting-broadcast"></a>Skype 会議メディア
 
-Skype 会議ブロードキャストを使用すると、Office 365 ユーザーは、インターネット上の会議を、ほぼすべてのデバイスでブラウザーから出席できる最大で1万の出席者に対して作成およびブロードキャストすることができます。 Skype 会議ブロードキャストを使用すると、内部の "町のホール" 形式の会議やパブリックウェビナーなどの大規模な仮想会議をホストできます。 会議を記録することができ、それらをカスタマイズして対象ユーザーの関与と満足度を測ることができます。 
+Skype 会議ブロードキャストを使用すると、ユーザーは、インターネット上の会議を作成して、最大1万人の出席者に配信し、ほぼすべてのデバイスでブラウザーから出席できるようになります。 Skype 会議ブロードキャストを使用すると、内部の "町のホール" 形式の会議やパブリックウェビナーなどの大規模な仮想会議をホストできます。 会議を記録することができ、それらをカスタマイズして対象ユーザーの関与と満足度を測ることができます。 
   
 > [!NOTE]
 > 現在、Skype 会議ブロードキャストは、教育機関や非営利組織ではご利用になれません。 

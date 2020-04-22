@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Yammer では次の外部ネットワーク機能が利用可能です。
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688484"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640065"
 ---
 # <a name="external-network-features-in-yammer"></a>Yammer の外部ネットワーク機能
 
@@ -33,4 +33,4 @@ Yammer では次の外部ネットワーク機能が利用可能です。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。

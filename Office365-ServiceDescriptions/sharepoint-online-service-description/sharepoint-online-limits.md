@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Office 365 および単体プランの SharePoint の制限について説明します。
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609978"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638939"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -24,7 +24,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 Business Essentials または Business Premium** <br/> |**Office 365 Enterprise E1、E3、または E5、または SharePoint Plan 1 または 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**機能** <br/> |**Microsoft 365 Business Basic または Business Premium** <br/> |**Office 365 Enterprise E1、E3、または E5、または SharePoint Plan 1 または 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |サイト (サイト コレクション) あたりの最大ストレージ <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
@@ -32,7 +32,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
    
 <sup>1</sup> [組織の合計と使用可能なストレージを検索する方法について説明します](/sharepoint/manage-site-collection-storage-limits)。 SharePoint のストレージを追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を変更する](/office365/admin/subscriptions-and-billing/add-storage-space)」を参照してください。 
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用されるストレージは、組織の合計ストレージの上限に含まれます。 
-<br/> <sup>3</sup> Office 365 サブスクリプション、および Office 365 Extra File Storage アドオンを持っている場合は、ストレージの量が追加されます。 
+<br/> <sup>3</sup> Microsoft 365 サブスクリプションと Office 365 追加のファイル記憶域アドオンがある場合は、ストレージ容量が追加されます。 
 <br/> <sup>4</sup> これは単一のサイトのストレージ (以前の「サイト コレクション」) の*制限*であり、各サイトに*提供*されるストレージの量ではありません。 この制限は、Office 365 グループ接続のチーム サイトと OneDrive を含むすべての種類のサイトに適用されます。 SharePoint 管理者は、[手動でストレージの下限を設定](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)することができます。 
 <br/> <sup>5</sup> 現場担当者は、SharePoint サイトを管理できません。 
 <br/> <sup>6</sup> ライセンス ユーザーごとの OneDrive は含まれません。 

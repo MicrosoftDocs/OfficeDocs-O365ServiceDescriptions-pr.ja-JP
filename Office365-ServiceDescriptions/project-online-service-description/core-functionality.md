@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online では次のコア機能が利用可能です。
-ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: ef7db261827e79f47403e897aaabd248a25e4d02
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688428"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640195"
 ---
 # <a name="core-functionality"></a>コア機能
 
@@ -103,6 +103,6 @@ Project 2013 では、空のプロジェクトを表示することなく、プ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
 

@@ -1,5 +1,5 @@
 ---
-title: 音声メッセージサービス
+title: 音声メッセージ サービス
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1bf261e002eb7c8a637266c3b243ad728c63be3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262690"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640315"
 ---
-# <a name="voice-message-services"></a>音声メッセージサービス
+# <a name="voice-message-services"></a>音声メッセージ サービス
 
 ## <a name="voice-mail"></a>ボイス メール
 
@@ -80,6 +80,6 @@ Exchange Online で使用可能な音声メッセージング サービス機能
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
   
 

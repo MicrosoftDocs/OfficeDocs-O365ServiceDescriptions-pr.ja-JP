@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787019"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638725"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明  
+# <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
 
 Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
@@ -70,7 +70,7 @@ Microsoft では、対象となるプランに含まれるサービスのため�
 
 - [Yammer サービスの説明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business Premium サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Microsoft 365 セキュリティ & コンプライアンスライセンスのガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
@@ -81,5 +81,5 @@ Microsoft では、対象となるプランに含まれるサービスのため�
   
 ## <a name="disclaimer"></a>免責事項
 
-© 2018 Microsoft Corporation. All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。
+&copy;2018 Microsoft Corporation All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。
  

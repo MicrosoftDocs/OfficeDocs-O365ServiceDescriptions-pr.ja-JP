@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft Office 365 Office を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft 365 のお客様は、web 用 Office を使用して、移動中のファイルを表示、作成、および編集できます。
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959325"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640285"
 ---
 # <a name="powerpoint-for-the-web"></a>Web 用 PowerPoint
 
-PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft Office 365 Office を使用しているお客様は、外出先でファイルを表示、作成、および編集できます。
+PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft 365 のお客様は、web 用 Office を使用して、移動中のファイルを表示、作成、および編集できます。
   
 PowerPoint エディターは、ブラウザーベースの編集画面を作成する web フロントエンドコンポーネントです。これにより、ユーザーは忠実になくドキュメントを操作できます。
   
 [Web] ツールバーの PowerPoint の [ **powerpoint で開く**] ボタンを選択すると、powerpoint デスクトップアプリでプレゼンテーションが開きます (Microsoft PowerPoint 2010 以降がコンピューターにインストールされている場合)。
   
-Office [365 for business を使用して PC に office をダウンロードしてインストール](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)する方法について説明します。
+[PC で Microsoft 365 for business を使用して Office をダウンロードしてインストール](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)する方法について説明します。
   
 ## <a name="alignment-bullets-numbers"></a>位置揃え、箇条書き、番号
 
@@ -211,4 +211,4 @@ Web 用の PowerPoint では、各スライドのノートを表示または非�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [office for the web service description](office-online-service-description.md)」を参照してください。 
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office for the web service description](office-online-service-description.md)」を参照してください。 

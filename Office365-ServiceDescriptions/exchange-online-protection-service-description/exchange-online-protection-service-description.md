@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection の機能と要件に関する情報を取得します。 Exchange Online Protection を提供するプランの一覧と、それらのプラン全体での機能の比較について説明します。
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260922"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640175"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection サービスの説明
 
@@ -33,7 +33,7 @@ Exchange Online Protection の機能と要件に関する情報を取得しま�
 
 - **ハイブリッド展開で**は、社内メールボックスとクラウドメールボックスが混在している場合にメッセージング環境を保護し、メールルーティングを制御するように EOP を構成できます。
 
-各プランの機能を比較するには、「[プランを選ぶ](https://products.office.com/business/compare-more-office-365-for-business-plans)」をご覧ください。
+プラン全体の機能を比較するには、「 [Microsoft 365 for business プランの比較](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。
 
 Exchange Online Protection を購入するには、「[Office 365 Advanced Threat Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)」をご覧ください。
 
@@ -42,7 +42,7 @@ Exchange Online Protection を購入するには、「[Office 365 Advanced Threa
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) の新機能
 
-「[ビジネス向けの Office 365 ロードマップ](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)」は新機能を調べるためのお勧めの情報源です。
+[Microsoft 365 for business のロードマップ](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)は、今後の新機能に関する情報を検索するのに適したリソースです。
 
 ## <a name="exchange-online-protection-eop-plans"></a>Exchange Online Protection (EOP) のプラン
 
@@ -87,21 +87,21 @@ EOP の制限については、「 [Exchange Online Protection の制限](exchan
 |[メールの受信者](recipient-domain-and-company-management.md#mail-recipients)|はい<sup>1</sup>|はい<sup>1</sup>|はい|
 |[管理役割グループのアクセス許可](recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|はい|はい|
 |[ドメインの管理](recipient-domain-and-company-management.md#domain-management)|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|
-|[一致サブドメイン](recipient-domain-and-company-management.md#match-subdomains)|はい|はい|いいえ|
+|[一致サブドメイン](recipient-domain-and-company-management.md#match-subdomains)|はい|必要|いいえ|
 |[ディレクトリ ベースのエッジ ブロック (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|はい|はい|はい|
 |[メール フロー ルール](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|はい<sup>4</sup>|はい<sup>4、6</sup>|はい|
-|[監査ログ](messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい (<sup>5</sup> )|はい|はい|
+|[監査ログ](messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい<sup>5</sup>|はい|はい|
 |[データ損失防止 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|はい|はい<sup>6</sup>|
-|[Office 365 Message Encryption](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|[はい]<sup>12</sup>|はい|[はい]<sup>12</sup>|
+|[Office 365 Message Encryption](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|はい<sup>12</sup>|はい|はい<sup>12</sup>|
 |[スパム対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|はい|はい|はい|
-|[スパム対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|Yes<sup>7</sup>|はい|はい|
-|[マルウェア対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい (<sup>13</sup> )|はい|はい|
+|[スパム対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|はい<sup>7</sup>|はい|はい|
+|[マルウェア対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい<sup>13</sup>|はい|はい|
 |[マルウェア対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|はい|はい|はい|
 |[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|はい|はい|はい|
 |[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|はい|はい|はい|
 |[Outlook 用のレポートメッセージアドイン](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|はい|はい|はい|
 |[Outlook on the web での迷惑メール報告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|はい|はい|はい|
-|[Office 365 とご使用の電子メール サーバー間で電子メールをルーティングする](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|はい|はい|はい|
+|[Microsoft と独自の電子メールサーバーとの間で電子メールをルーティングする](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|はい|はい|はい|
 |[信頼できるパートナーとのセキュリティで保護されたメッセージング](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|はい|はい|はい|
 |[パートナーの IP アドレスのセーフ リスト](mail-flow-eop.md#safe-listing-a-partners-ip-address)|はい|はい|はい|
 |[条件付きメール ルーティング](mail-flow-eop.md#conditional-mail-routing)|はい|はい|はい|

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Project Online では、次のリソース管理機能が利用可能です。
-ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546060"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639865"
 ---
 # <a name="project-resource-management"></a>プロジェクト リソース管理
 
@@ -55,6 +55,6 @@ Project Online では、次のリソース管理機能が利用可能です。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
   
 
