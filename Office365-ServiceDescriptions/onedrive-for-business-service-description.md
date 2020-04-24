@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609878"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639875"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -44,10 +44,10 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 
 **1 TB**
 
-- Office 365 Business Essentials
-- Office 365 Business
-- Office 365 Business Premium
-- Office 365 ProPlus
+- Microsoft 365 Business Basic
+- Microsoft 365 Apps for business
+- Microsoft 365 Business Standard
+- Microsoft 365 Apps for enterprise
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Office 365 Nonprofit Business Essentials
@@ -55,7 +55,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 - Office 365 Nonprofit E1
 - OneDrive for Business プラン 1
 - SharePoint Online プラン 1
-- Microsoft 365 Business
+- Microsoft 365 Business Premium
 
 **無制限の 1 TB を超える**
  
