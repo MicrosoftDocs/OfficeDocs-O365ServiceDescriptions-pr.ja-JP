@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ&amp;コンプライアンスセンターは、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
+ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639685"
+ms.lasthandoff: 04/25/2020
+ms.locfileid: "43813390"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -24,40 +24,40 @@ ms.locfileid: "43639685"
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-ユーザーにライセンスを付与するためのオプションを表示するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、[詳細な microsoft 365 コンプライアンスライセンス比較 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)をダウンロードしてください。
+ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Security &amp; Compliance Center availability for Business and Enterprise plans
 
-||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Office 365 Enterprise E1**、 **Office 365 US Government G1**  |**Office 365 Enterprise E3**、 **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise f3**  **Office 365 US Government f3**|
-|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |はい   |はい   |はい   |はい   |はい   |はい   |
+|||||||||
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|**機能**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**、 **Office 365 US Government G1**  |**Office 365 Enterprise E3**、 **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise f3**  **Office 365 US Government f3**|
+|[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |いいえ   |いいえ   |いいえ|いいえ   |はい   |いいえ   |
-|[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |はい   |はい   |はい   |はい   |はい   |はい   |
-|[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(フィッシングキャンペーン用の脅威エクスプローラーなど)<sup>6</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |はい   |はい   |はい   |はい   |はい   |はい   |
-|[Exchange online、SharePoint online、OneDrive For business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7、9</sup>のデータ損失防止 |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
+|[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
+|[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(フィッシングキャンペーン用の脅威エクスプローラーなど)<sup>6</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
+|[Exchange online、SharePoint online、OneDrive For business](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7、9</sup>のデータ損失防止 |いいえ   |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
 |[Microsoft Teams の通信データ損失防止](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ  |
-|[手動感度ラベル](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | いいえ | いいえ  | ○ | はい | はい | いいえ  |
-|自動感度ラベル| いいえ | いいえ  | いいえ | いいえ | はい<sup>13</sup> | はい  |
-|[情報障壁](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ  |
-|[情報ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |はい   |はい   |はい   |はい   |はい   |はい   |
-|[高度な情報ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |はい   |はい   |はい   |はい   |はい   |はい   |
-|[電子情報開示のケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |はい   |はい   |はい   |はい   |はい   |はい   |
-|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
-|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
-|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[アーカイブ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |はい<sup>3</sup>  |はい<sup>3</sup>  |はい<sup>3</sup>  |はい<sup>4</sup>  |はい<sup>4</sup>  |いいえ   |
-|[ユニファイド監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |はい   |はい   |はい   |はい   |はい   |はい   |
-|[高度な監査](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[通信のコンプライアンス (監督ポリシー)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[Office 365 Message Encryption (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[特権アクセス管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|[カスタマー キー](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-||||||||
+|[手動感度ラベル](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | いいえ | いいえ  |いいえ   | ○ | はい | はい | いいえ  |
+|自動感度ラベル| いいえ | いいえ  |いいえ  | いいえ | いいえ | はい<sup>13</sup> | はい  |
+|[情報障壁](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ  |
+|[情報ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
+|[高度な情報ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[コンテンツ検索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
+|[電子情報開示のケース](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
+|[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |いいえ   |いいえ   |いいえ  |いいえ   |○   |はい   |いいえ   |
+|[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |いいえ   |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
+|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[アーカイブ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |はい<sup>3</sup>  |はい<sup>3</sup>  |はい<sup>3</sup>   |はい<sup>3</sup>  |はい<sup>4</sup>  |はい<sup>4</sup>  |いいえ   |
+|[基本監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |はい   |はい   |はい|はい   |はい   |はい   |はい   |
+|[高度な監査](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[通信のコンプライアンス (監督ポリシー)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[Office 365 Message Encryption (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[特権アクセス管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|[顧客キー](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
+|||||||||
 
 <sup>1</sup>情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。
 
@@ -73,7 +73,7 @@ ms.locfileid: "43639685"
 
 <sup>7</sup> Microsoft Teams リポジトリに格納されているファイルが含まれます。
 
-<sup>8</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。
+基本的な監査を含むすべてのプランの<sup>8</sup>監査ログ (E5 を除く) は、90日間保持されます。 E5 には Advanced Audit が含まれているため、監査ログは最大1年間保持されます。 また、 [Office 365 Management ACTIVITY API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。
 
 <sup>9</sup> Office 365 データ損失防止アドオンが必要です。
 
@@ -107,7 +107,7 @@ ms.locfileid: "43639685"
 |[電子情報開示の保持 (クエリベースの電子情報開示の保持を含む)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |いいえ   |はい   |不要   |いいえ   |はい   |いいえ  |はい (<sup>10</sup> ) |いいえ<sup>4</sup>  |いいえ<sup>4</sup>  |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |
 |[Exchange Online の制限](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |いいえ   |はい   |いいえ   |○   |はい   |はい (<sup>10</sup> ) |はい (<sup>10</sup> )  |いいえ   |いいえ   |
-|[ユニファイド監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|はい|はい|はい|はい|はい|はい (<sup>10</sup> )|はい (<sup>10</sup> )|いいえ|いいえ|
+|[基本監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|はい|はい|はい|はい|はい|はい (<sup>10</sup> )|はい (<sup>10</sup> )|いいえ|いいえ|
 |高度な監査|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[通信のコンプライアンス (監督ポリシー)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |
 |[Office 365 Message Encryption (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |不要   |いいえ|いいえ|いいえ|
@@ -129,7 +129,7 @@ ms.locfileid: "43639685"
 
 <sup>7</sup> Microsoft Teams リポジトリに格納されているファイルが含まれます。
 
-<sup>8</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。
+<sup>8</sup>基本監査を含むすべてのプランの監査ログは、90日間保持されます。 また、 [Office 365 Management ACTIVITY API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。
 
 <sup>9</sup> Office 365 データ損失防止アドオンが必要です。
 
