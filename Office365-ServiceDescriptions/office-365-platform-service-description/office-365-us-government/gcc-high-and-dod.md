@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Office 365 コマーシャル環境と比較した Office 365 GCC High および DoD 環境の固有のコミットメントと相違点について説明します。
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639055"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914783"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -31,7 +31,7 @@ Office 365 US Government サービスの説明は、一般的な Office 365 サ�
 
 GCC High および DoD は以下の認定資格に関する法令遵守の要件を満たします。 
   
-- 米国国立標準技術研究所 (NIST) 臨時発行 800-53 に記載されるセキュリティ コントロールとコントロールの機能拡張を含む、Federal Risk and Authorization Management Program at a Moderate (FedRAMP Moderate) ベースライン。
+- FedRAMP の連邦リスクおよび承認管理プログラム。これらのセキュリティ制御や、米国標準技術局 (NIST) の特別な文書800-53 に記載されている機能拡張を含みます。
     
 - 影響レベル 5 (L5) までの情報に関する米国国防総省クラウド コンピューティング セキュリティ要件ガイド (SRG) に対するセキュリティ コントロールとコントロールの強化。
     

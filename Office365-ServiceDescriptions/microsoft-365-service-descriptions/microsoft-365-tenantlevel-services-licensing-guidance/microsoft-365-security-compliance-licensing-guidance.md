@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 870e30135f7537f898f5550c6e45f5c8eb92b743
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639805"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914773"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -175,7 +175,7 @@ Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBA
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーは、機密ラベルを自分のコンテンツに手動で適用したり、コンテンツを自動的に分類することができます。
+ユーザーは、機密ラベルをコンテンツに手動で適用したり、コンテンツを自動的に分類することでメリットを得ることができます。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
@@ -380,7 +380,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 情報の保護と�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 以下に例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
