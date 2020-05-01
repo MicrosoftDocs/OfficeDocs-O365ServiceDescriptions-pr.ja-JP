@@ -3,7 +3,7 @@
 ## [Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 のシステム要件](office-365-platform-service-description/office-365-system-requirements.md)
-### [Office 365 セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Office 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -11,6 +11,7 @@
 #### [Microsoft 365 政府機関向けの購入方法](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 #### [米国政府機関向け OneDrive](office-365-platform-service-description\office-365-us-government\onedrive.md)
 #### [米国政府機関向け SharePoint](office-365-platform-service-description\office-365-us-government\sharepoint.md)
+#### [米国政府機関向け Exchange Online](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
@@ -102,7 +103,7 @@
 ### [Yammer のサポート機能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 サービスの説明
 ### [Microsoft 365 Business 音声サービスの説明](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 Business サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 Business Premium サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [中小規模ビジネスに Microsoft 365 のライセンスを付与する](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [セキュリティとコンプライアンスのための Microsoft 365 ライセンス ガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
