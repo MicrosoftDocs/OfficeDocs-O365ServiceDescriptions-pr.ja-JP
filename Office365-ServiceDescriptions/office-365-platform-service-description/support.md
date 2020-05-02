@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Office 365 Enterprise、Business、エデュケーション、および政府のすべてのサブスクリプションで、Microsoft サポートは、グローバルな技術、セールス前、請求書、サブスクリプションサポートを提供します。 Microsoft365 管理センターと、有料サブスクリプションおよび試用版サブスクリプションの両方で、オンラインでサポートを利用できます。 詳細については、「Microsoft サポートオプション」を参照してください。
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639905"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002324"
 ---
 # <a name="support"></a>サポート
 
@@ -27,11 +27,11 @@ Microsoft Office 365 Enterprise、Business、エデュケーション、およ�
   
 認証された管理者は、Microsoft 365 管理センターを使用して、サービス要求をオンラインで送信し、アクセスサポートの電話番号を、開いているすべてのサービス要求を表示することができます。 管理センターで送信されるサービス要求は、要求がクローズされてから最大14日間、再度開くことができます。 手順については、「 [Microsoft 365 for business サポートへのお問い合わせ](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)」を参照してください。
   
-O365 テクニカル サポート チームは、Office 365 に関連する問題のみについてトラブルシューティングを行います。 お客様のネットワークで発生する問題は、サポートの範囲外にあります。この場合、お客様はネットワークチームまたは[Microsoft のネットワークチーム](https://support.microsoft.com/gp/contactus81?Audience=Commercial)に協力を要請する必要があります。
+Microsoft 365 テクニカルサポートチームは、Microsoft 365 および Office 365 に関連する問題のトラブルシューティングのみを行います。 お客様のネットワークで発生する問題は、サポートの範囲外にあります。この場合、お客様はネットワークチームまたは[Microsoft のネットワークチーム](https://support.microsoft.com/gp/contactus81?Audience=Commercial)に協力を要請する必要があります。
   
 ## <a name="community-and-self-service-support-options"></a>コミュニティおよびセルフサービス サポート
 
-セルフサービスサポートはすべてのプランで利用できます。また、トラブルシューティングツールやビデオ、ヘルプ記事、ビデオ、および[Office 365 コミュニティ](https://go.microsoft.com/fwlink/p/?LinkID=279811)のフォーラムや wiki についても説明しています。 セルフサービスサポートリソースの詳細については、[ヘルプとトレーニング](help-and-training.md)サービスの説明を参照してください。
+セルフサービスサポートはすべてのプランで利用できます。また、トラブルシューティングツールやビデオ、ヘルプ記事、ビデオ、および[Microsoft 365 コミュニティ](https://go.microsoft.com/fwlink/p/?LinkID=279811)のフォーラムや wiki が含まれています。 セルフサービスサポートリソースの詳細については、[ヘルプとトレーニング](help-and-training.md)サービスの説明を参照してください。
   
 ## <a name="pre-sales-support"></a>販売前サポート
 
@@ -201,4 +201,4 @@ Microsoft パートナーを選択して、サービス要求チケットの作�
 
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。

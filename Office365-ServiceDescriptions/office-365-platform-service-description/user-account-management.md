@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639825"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002314"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ Microsoft は、ユーザーを作成、管理、および認証するための�
 > [!NOTE]
 > このトピックには、個別の Microsoft リソースへのアクセスを許可または禁止するセキュリティ機能 (Microsoft Exchange Online のロールベースのアクセス制御、Microsoft SharePoint Online でのセキュリティの構成など) に関する情報は含まれていません。 これらの機能の詳細については、「 [Exchange online サービスの説明](../exchange-online-service-description/exchange-online-service-description.md)」および「 [SharePoint online サービスの説明](../sharepoint-online-service-description/sharepoint-online-service-description.md)」を参照してください。 
   
-管理タスクの実行に役立つツールについての情報が必要な場合は、「ツールを使用して[Microsoft アカウントを管理する](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)」を参照してください。 日常的な管理タスクを実行する方法については、「[Office 365 の一般的な管理タスク](https://docs.microsoft.com/office365/admin/manage/manage)」を参照してください。
+管理タスクの実行に役立つツールについての情報が必要な場合は、「ツールを使用して[Microsoft アカウントを管理する](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)」を参照してください。 日常の管理タスクを実行する方法については、「[一般的な管理タスク](https://docs.microsoft.com/office365/admin/manage/manage)」を参照してください。
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>サインイン、インストール、アンインストール、またはサブスクリプションのキャンセルについてヘルプが必要ですか?
 
-次のページを参照してください: [Office 365 にサインインする場所](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [Office 365 Solo を PC または Mac にダウンロードしてインストールする](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [一般法人向け Office 365 サブスクリプションをキャンセルする](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Office | を[インストールまたはアンインストールする](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)際[のサインインに](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | 関するヘルプを取得する ([office をキャンセル](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)する) 365
   
 その他の問題については、 [Microsoft サポートセンター](https://support.microsoft.com/contactus/)を参照してください。 中国の 21Vianet が運用している Office 365 に対するサポートを受けるには、[21Vianet サポート チーム](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)にお問い合わせください。 Office 365 Germany の場合、[Office 365 Germany サポート チーム](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)にお問い合わせください。 
   
@@ -48,7 +48,7 @@ ID の種類は、ユーザー エクスペリエンスおよびユーザー ア
   
 ### <a name="custom-domains-and-identity-options"></a>カスタム ドメインと ID オプション
 
-新しいユーザーを作成すると、ユーザーのサインイン名と電子メールアドレスが、Microsoft 365 管理センターで設定されている既定のドメインに割り当てられます。 詳細については、「[Office 365 でドメインの所有者の確認方法](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)」を参照してください。 
+新しいユーザーを作成すると、ユーザーのサインイン名と電子メールアドレスが、Microsoft 365 管理センターで設定されている既定のドメインに割り当てられます。 詳細については、「[ユーザーとドメインを追加](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)する」を参照してください。 
   
 既定では、サブスクリプションは、 \<アカウントを使用して作成された\> **onmicrosoft.com**ドメインを使用し_ます。_\* Onmicrosoft.com ドメインを保持するのではなく、1つ以上のカスタムドメインを Microsoft に追加し、検証済みのドメインのいずれかでサインインするようにユーザーを割り当てることができます。 Each user's assigned domain is the email address that will appear on sent and received email messages. 
   
@@ -74,9 +74,9 @@ SharePoint Online で作成された匿名アクセスのインターネット�
     
 Microsoft では、フォームベース認証を使用しており、ネットワーク経由の認証トラフィックは、ポート443を使用して常に TLS/SSL で暗号化されています。 認証トラフィックは、Microsoft サービスの帯域幅の無視率を無視します。 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Office 365 で Multi-Factor Authentication
+### <a name="multi-factor-authentication"></a>多要素認証
 
-Office 365 で多要素認証を使用する場合、ユーザーは、パスワードを正確に入力した後に、スマートフォンで電話、テキストメッセージ、またはアプリの通知に同意する必要があります。 Only after this second authentication can the user sign in. Microsoft 管理者は、Microsoft 365 管理センターで多要素認証のためにユーザーを登録することができます。 Learn more about [Multi-Factor Authentication for Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+多要素認証を使用する場合、ユーザーは、パスワードを正確に入力した後に、スマートフォンで電話、テキストメッセージ、またはアプリの通知に同意する必要があります。 Only after this second authentication can the user sign in. Microsoft 管理者は、Microsoft 365 管理センターで多要素認証のためにユーザーを登録することができます。 [多要素認証](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)の詳細について説明します。
   
 ### <a name="rich-client-authentication"></a>リッチ クライアント認証
 
@@ -117,7 +117,7 @@ Microsoft サービスを適切に検出して認証するために、管理者�
   
 ## <a name="creating-user-accounts"></a>ユーザー アカウントの作成
 
-Office 365 にユーザーを追加する方法は複数あります。 詳細については、「ユーザーを個別に追加する」、[または](https://docs.microsoft.com/office365/admin/add-users/add-users)「 [Microsoft 365 管理センタープレビューでユーザーを追加、削除、管理](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)する」を参照してください。 中国で運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でユーザー アカウントを作成または編集する - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
+ユーザーを追加する方法は複数あります。 詳細については、「ユーザーを個別に追加する」、[または](https://docs.microsoft.com/office365/admin/add-users/add-users)「 [Microsoft 365 管理センタープレビューでユーザーを追加、削除、管理](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)する」を参照してください。 中国で運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でユーザー アカウントを作成または編集する - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
   
 ## <a name="deleting-accounts"></a>アカウントの削除
 
@@ -127,7 +127,7 @@ Office 365 にユーザーを追加する方法は複数あります。 詳細�
     
 - ディレクトリ同期を使用している場合は、Office 365 ではなく、ローカルの Active Directory からユーザーを削除する必要があります。
     
-アカウントは、削除されると非アクティブになります。 削除後約 30 日間は、アカウントを復元することができます。 アカウントの削除と復元の詳細については、「office 2013 で[365 ユーザーを削除](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)する」と「office 2013 でユーザーを[365 復元](https://docs.microsoft.com/office365/admin/add-users/restore-user)する」を参照してください。中国で21vianet が運用している office 365 を使用している場合は、「 [Create Or edit user accounts in Office 365 in 21vianet-Admin Help](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
+アカウントは、削除されると非アクティブになります。 削除後約 30 日間は、アカウントを復元することができます。 アカウントの削除と復元の詳細については、「[ユーザーを削除](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)して[ユーザーを復元](https://docs.microsoft.com/office365/admin/add-users/restore-user)する」または「中国で21Vianet が運営する office 365 を使用している場合は、「 [Create Or edit user accounts in Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
   
 ## <a name="password-management"></a>パスワードの管理
 
@@ -188,5 +188,5 @@ Azure Active Directory (AD) は、Office 365 に対して包括的な ID およ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   

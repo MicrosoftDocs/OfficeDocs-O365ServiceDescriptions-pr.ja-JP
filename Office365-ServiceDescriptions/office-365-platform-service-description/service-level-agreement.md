@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 03c1b613404033b38b9898ac2f3c979882f96845
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 34e959c8b5d88034154819f7bdca53e72ab92bde
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640295"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001983"
 ---
 # <a name="service-level-agreement"></a>サービス レベル契約
 
@@ -35,5 +35,5 @@ ms.locfileid: "43640295"
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   

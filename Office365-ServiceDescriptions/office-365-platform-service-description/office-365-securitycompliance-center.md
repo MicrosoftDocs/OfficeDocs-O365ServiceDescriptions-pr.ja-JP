@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ&amp;コンプライアンスセンターは、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813390"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001993"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -32,7 +32,7 @@ ms.locfileid: "43813390"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**、 **Office 365 US Government G1**  |**Office 365 Enterprise E3**、 **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise f3**  **Office 365 US Government f3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |いいえ   |いいえ   |いいえ|いいえ   |はい   |いいえ   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |いいえ   |いいえ   |いいえ|いいえ   |いいえ   |はい   |
 |[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
 |[高度な脅威の管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(フィッシングキャンペーン用の脅威エクスプローラーなど)<sup>6</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |

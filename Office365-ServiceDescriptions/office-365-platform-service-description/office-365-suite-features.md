@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639935"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002003"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -83,9 +83,9 @@ Microsoft Teams は、チーム メンバーが協力してもっと成果をあ
 
 Office Delve を使用すると、ユーザーは、パーソナライズされた洞察に基づいて Office 365 全体のコンテンツを検索して検出することができます。 Delve は、Office Graph を利用する最初のエクスペリエンスとなります。 Office Delve の詳細については、「[Office Delve とは](https://go.microsoft.com/fwlink/?LinkId=511463)」を参照してください。 
   
-## <a name="office-365-groups"></a>Office 365 グループ
+## <a name="microsoft-365-groups"></a>Microsoft 365 グループ
 
-Office 365 のグループは、協力してもっと成果をあげるために必要な同僚、情報、アプリケーションにユーザーをつなぐためのものです。グループは、既定では、発見可能性や共有生を促進するためにオープンなものとなっていますが、機密性の高いコンテンツについてはプライベート グループを作ることもできます。グループの詳細については、「[Office 365 グループについて](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)」を参照してください。グループの制限の詳細については、「[Office 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」の「グループの管理方法」を参照してください。
+Microsoft 365 のグループでは、より多くの作業を行うために必要な仕事仲間、情報、およびアプリケーションがユーザーによって接続されます。 グループは、既定では、発見可能性や共有生を促進するためにオープンなものとなっていますが、機密性の高いコンテンツについてはプライベート グループを作ることもできます。 グループの詳細については、「 [Microsoft 365 のグループ](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)」を参照してください。 グループの制限の詳細については、「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」の「グループを管理する方法」を参照してください。
   
 ## <a name="office-365-video"></a>Office 365 ビデオ
 

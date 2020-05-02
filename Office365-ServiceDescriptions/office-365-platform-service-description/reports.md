@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft の管理者は、組織が Microsoft サービスをどのように使用しているかを示すレポートを表示できます。 このレポートを使用すれば、問題を特定したり、データをフィルター処理したり、データを Microsoft Excel にダウンロードしたりできます。 また、Microsoft 365 reporting web サービスを使用して独自のレポートを作成することもできます。 Exchange Online および Exchange Online Protection (EOP) 管理者は、メール保護レポートを使用して、マルウェア、スパム、ルールの検出に関するデータを表示できます。
-ms.openlocfilehash: 1bfe5ed3b9cc85e890eedea6358db7a70114d14d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638985"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001968"
 ---
 # <a name="reports"></a>レポート
 
@@ -27,6 +27,6 @@ Microsoft の管理者は、組織が Microsoft サービスをどのように�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

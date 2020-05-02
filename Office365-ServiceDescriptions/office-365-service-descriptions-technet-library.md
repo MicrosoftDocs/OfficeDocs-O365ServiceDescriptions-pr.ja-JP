@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638725"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002067"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 サービスの説明 
 
@@ -36,7 +36,7 @@ Microsoft では、対象となるプランに含まれるサービスのため�
   
 まず、次のサービスの説明を参照してください。
   
-- [Office 365 プラットフォームサービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 および Office 365 プラットフォームサービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office アプリケーション サービスの説明](office-applications-service-description/office-applications-service-description.md)
 
