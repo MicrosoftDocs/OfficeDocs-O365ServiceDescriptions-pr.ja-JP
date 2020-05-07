@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Microsoft Office 365 では、多くの携帯電話、タブレット、その他のモバイルデバイスを使用することができます。
-ms.openlocfilehash: fa168b8074c86dde99cf761986d0a2df3ca35ffd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b06c9769841cca8f08ff2e8dfa9abc16bde7bb72
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262910"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045019"
 ---
 # <a name="mobile-devices-sd"></a>モバイルデバイス [SD]
 
@@ -31,6 +31,6 @@ Microsoft Office 365 では、多くの携帯電話、タブレット、その�
     
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+Microsoft 365 および Office 365 プラン全体の機能の可用性を表示するには、「 [microsoft 365 And office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

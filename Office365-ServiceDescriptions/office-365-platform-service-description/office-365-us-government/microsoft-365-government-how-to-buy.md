@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172259"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045049"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-購入方法
 
-米国の公的機関の固有の要件および進化する要件に対応して、Microsoft では、公的機関のお客様に特定の Microsoft 365 Government 環境を作成しました。 このセクションでは、環境の概要と、購入方法について詳しく説明します。 この補足セクションは、「 [Office 365 サービスの説明](../../office-365-service-descriptions-technet-library.md)」に記載することをお勧めします。
+米国の公的機関の固有の要件および進化する要件に対応して、Microsoft では、公的機関のお客様に特定の Microsoft 365 Government 環境を作成しました。 このセクションでは、環境の概要と、購入方法について詳しく説明します。 この補足セクションは、 [Microsoft 365 および Office 365 サービスの説明と](../../office-365-service-descriptions-technet-library.md)共に読むことをお勧めします。
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 Government とは
 
-Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けに特化した、生産性、セキュリティ、モビリティの各クラウドソフトウェア機能のセットです。 最も厳格なコンプライアンス要件を満たす固有の環境によって提供される Microsoft 365 Government は、Microsoft コマーシャルクラウドの機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。エンタープライズサービス。 
+Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けに特化した、生産性、セキュリティ、モビリティの各クラウドソフトウェア機能のセットです。 Microsoft 365 Government は、最も厳格なコンプライアンス要件を満たす固有の環境を通じて提供されています。 Microsoft Government は、Microsoft の商用クラウドエンタープライズ製品の機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 Government の価値
 
-Microsoft 365 Government は、政府機関が法令データのコンプライアンスを効果的に管理できるようにすることで、いつでも、モバイル生産性とセキュリティ保護された共同作業を可能にすることにより、企業のリーダーと作業者の生産性を常に向上させる要件. 次の表に、主な自治体の役割についての例を示します。
+Microsoft 365 Government は、政府機関が法令データの法令遵守の要件を効果的に管理できるようにすることで、お客様によるモバイル生産性とセキュリティで保護されたコラボレーションをいつでも利用できるようにしています。 次の表に、主な自治体の役割についての例を示します。
 
  
 ||||||
@@ -69,7 +69,7 @@ Microsoft Government Cloud の対象となっているお客様は、GCC と GCC
 - 官庁、事務所、代理店、department または米国政府機関のその他のエンティティとして定義された連邦機関
 - 次のいずれかとして定義された、都道府県/ローカルエンティティ。
     1. 米国の州または地方自治体のいずれかのエージェンシー
-    2. 米国の郡、borough、ペンシルバニア州、市町村、municipality、市街、township、特殊目的の部署、または顧客の州の法律によって確立され、お客様の state's 管轄に配置されているその他の類似の種類の政府機関 instrumentalityと地理的な境界
+    2. 米国の米国郡、borough、ペンシルバニア州、市町村、municipality、市街、township、特殊な目的の学区、または顧客の州の法律によって確立され、顧客の州および地理的な境界内にある、その他の類似する種類の政府機関 instrumentality
     3. コロンビアの地区、プエルトリコ、グアム、米領サモア、米国領バージン諸島、北マリアナ諸島の地区。
 - エスニックエンティティ。 federally として定義されており、米国内部の米国部署からの資金およびサービスの対象として定義されています。これは、その状態をインドの tribe として、または、アラスカ州またはアラスカ州の地域のネイティブ企業で使用します。
 

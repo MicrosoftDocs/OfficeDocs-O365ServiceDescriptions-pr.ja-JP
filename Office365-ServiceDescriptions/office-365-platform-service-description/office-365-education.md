@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: 5c8df6d3faaba680046b6b2f808fe1aa74bffa73
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639945"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044999"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
   
-この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 複数のビジネスプランおよびエンタープライズプランの機能を比較するには、「 [office 365 For business プランを比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)する」または「 [office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の「関連するサービスの説明」を参照してください。
+この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 複数のビジネスプランまたはエンタープライズプランの機能を比較するには、「 [office 365 For business プランを比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)する」または「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
   
 サポート記事および情報を検索するには、「 [Office のヘルプ&amp;トレーニング](https://support.office.com/)」を参照してください。
   
@@ -324,7 +324,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |役割に基づくアクセス許可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |役割グループ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |役割の割り当てポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[メッセージポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[メッセージ ポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange Online ベースのメールボックスのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |社内メールボックスのクラウドベースのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |メッセージングレコード管理 (MRM) 保持タグとアイテム保持ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -709,7 +709,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|配布グループの所有者の最大数  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -960,7 +960,7 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 |クライアントバージョンコントロール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |IM コンテンツのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |会議コンテンツのアーカイブ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|アプリケーション共有とデスクトップ共有のアーカイブ  <br/> |必要  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アプリケーション共有とデスクトップ共有のアーカイブ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ユーザーレベルのアーカイブ構成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ログイントレースファイル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |

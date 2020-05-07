@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft は、次のネットワーク機能をサポートしています。
-ms.openlocfilehash: 62a474c9fe0161f7b4d876d8ca462e6bfe5e962d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639765"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045009"
 ---
 # <a name="networking"></a>ネットワーク
 
@@ -64,6 +64,6 @@ Microsoft ネットワークインフラストラクチャは、サービスの�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

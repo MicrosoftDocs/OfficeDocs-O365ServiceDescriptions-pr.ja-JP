@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: d6ec64226e4a61c2e5e5063d7f89d7e33bdb6688
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002057"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044979"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォームサービスの説明
 
@@ -27,7 +27,7 @@ Microsoft 365 および Office 365 は、組織のニーズを満たすために
   
 Microsoft 365 と Office 365 は、クラウドの生産性をさまざまな規模の企業に提供し、時間、コスト、および価値のあるリソースを節約するのに役立ちます。 Microsoft 365 および Office 365 プランでは、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype for Business Online を含む) のクラウドベースバージョンの microsoft Office デスクトップスイートが、インターネットを介して実質的にユーザーの生産性を向上させることができます。
   
-プラン間での機能の比較については、「[プランを比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)する」または「 [Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の「関連するサービスの説明」を参照してください。
+プラン間での機能の比較については、「[プランを比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)する」または「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
   
 - Office 365 Education プランについては、最初に [教育機関向け Office 365](office-365-education.md) ページをご覧ください。 
     
@@ -43,17 +43,17 @@ Office 365 では組織のニーズを満たすために最適な、さまざま
   
 ボリュームライセンスの詳細については、「[ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=848696)」を参照してください。
   
-## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 Nonprofit のプランと料金
+## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 および Office 365 の非営利団体向けプランと価格設定
 
-Office 365 Nonprofit プランの対象となる組織の場合、これらのプランには対応するビジネス プランとまったく同じ機能が含まれています (たとえば、Office 365 Nonprofit Enterprise E5 には、Office 365 Enterprise E5 と同じ機能が含まれています)。対応するプランと違うのは、価格のみです。Office 365 Nonprofit プランの詳細については、[Office 365 Nonprofit のプランと料金](https://go.microsoft.com/fwlink/?LinkID=627221)、およびこちらの「[よく寄せられる質問](https://go.microsoft.com/fwlink/?LinkID=786641)」を参照してください。
+Microsoft 365 または Office 365 の非営利団体プランに該当する組織では、これらのプランには対応するビジネスプランとまったく同じ機能が含まれています (たとえば、Office 365 非営利 E5 には、office の 365 E5 と同じ機能が含まれています)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および Office 365 の非営利団体プランの詳細については、「 [microsoft 365 と 365 office の非営利団体の比較](https://go.microsoft.com/fwlink/?LinkID=627221)」およびこの[FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
-企業組織、教育組織、および行政機関で使用可能な月単位のサブスクリプションベースのサービスである、Office 365 のシステム要件については、「[Office 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
+Microsoft 365 と Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [microsoft 365 および office のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
-サービス レベル契約については、[サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=843153)をご覧ください。 Office 365 の最近の稼働率については、「[Office 365 による透明性のある運用](https://go.microsoft.com/fwlink/?linkid=848695)」を参照してください。
+サービス レベル契約については、[サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=843153)をご覧ください。 Office 365 の最近の稼働時間の詳細については、「[サービスの正常性と継続性](https://go.microsoft.com/fwlink/?linkid=848695)」を参照してください。
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -61,7 +61,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
   
 ## <a name="data-storage-location"></a>データの保存場所
 
-データの保存場所については、「[お客様のデータの保存場所](https://products.office.com/where-is-your-data-located)」を参照してください。 
+データの保存場所については、「[顧客データの保存場所](https://docs.microsoft.com/office365/enterprise/o365-data-locations)」を参照してください。 
   
 ## <a name="multi-geo-capabilities"></a>複数地域機能 
 
@@ -69,7 +69,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
   
 利用可能な Geo: アジア太平洋、オーストラリア、カナダ、欧州連合、インド、日本、韓国、英国、アメリカ合衆国。 
   
-複数[地域の紹介](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)について詳しくは、こちらを参照してください。
+詳細については、「 [Office 365 での複数地域の導入](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)」を参照してください。
   
 ## <a name="feature-availability-across-plans"></a>プランで利用できる機能
 
@@ -83,8 +83,8 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
     
 - 米国政府機関: [政府機関向け Office 365 のプラン](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 非営利団体: [Office 365 Nonprofit のプランと料金](https://go.microsoft.com/fwlink/?LinkID=733237)。
-    
+- 非営利団体: [Microsoft 365 と Office 365 の非営利団体のサービスを比較](https://go.microsoft.com/fwlink/?LinkID=733237)する
+
 - Office 365 Germany:[Office 365 Germany のプラン](https://go.microsoft.com/fwlink/?linkid=839016)
     
 一部の Microsoft 365 for business プランには、サブスクリプションのために購入できるアドオンが用意されています。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「[アドオンを購入または編集する](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」の「さまざまなバージョンの Microsoft 365 で利用できるアドオン」を参照してください。
@@ -95,7 +95,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |**[Microsoft 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
-|**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Microsoft 365 suite の機能](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |<sup>19</sup>  <br/> |<sup>19</sup>  <br/> |いいえ  <br/> |
 |Microsoft ブリーフィングメール<sup>22</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Power Automate  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>13</sup> <br/> |
@@ -197,7 +197,7 @@ Office 365 Nonprofit プランの対象となる組織の場合、これらの�
 |FISMA 運用認可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft データ処理契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[サービス継続性](service-health-and-continuity.md)** <br/> ||||||||
+|**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |BlackBerry Internet Service (BIS) の使用  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[パートナー](partners.md)** <br/> ||||||||

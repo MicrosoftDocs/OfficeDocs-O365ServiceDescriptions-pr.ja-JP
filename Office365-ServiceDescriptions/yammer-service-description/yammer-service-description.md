@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640185"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044819"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -44,7 +44,7 @@ Yammer は以下のプランで提供されています。
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |高度なセキュリティ、管理、統合を備えたエンタープライズ ソーシャル ネットワーキング。  <br/> |
    
 > [!NOTE]
-> [Office 365 プラットフォームサービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)に記載されている機能とポリシーは、Yammer サービスには適用されません。 
+> [Microsoft 365 および Office 365 プラットフォームサービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)に記載されている機能とポリシーは、Yammer サービスには適用されません。 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise service communications policy
 <a name="YammerCommsPolicy"> </a>
@@ -106,7 +106,7 @@ Yammer は、 [Microsoft 365 変更管理ポリシー](https://www.microsoft.com
 |[ユーザーの管理](administration-and-security-features-in-yammer.md#user-management) <br/> |いいえ  <br/> |はい  <br/> |
 |[単一の id](administration-and-security-features-in-yammer.md#single-identity) <br/> |はい  <br/> |はい  <br/> |
 |[ディレクトリ同期](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |いいえ  <br/> |はい  <br/> |
-|[データエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |いいえ  <br/> |はい  <br/> |
+|[データのエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |いいえ  <br/> |はい  <br/> |
 |[キーワード監視](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |いいえ  <br/> |はい  <br/> |
 |[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |いいえ  <br/> |はい  <br/> |
 |[組織のリソース](administration-and-security-features-in-yammer.md#organization-resources) <br/> |はい  <br/> |はい  <br/> |

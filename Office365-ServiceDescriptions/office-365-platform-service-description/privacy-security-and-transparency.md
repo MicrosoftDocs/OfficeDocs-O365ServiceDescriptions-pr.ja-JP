@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: f78ad545436952325d74964ae1ea228796290b0e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639925"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044949"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透明性
 
@@ -42,7 +42,7 @@ Microsoft が Office 365 サービスを安全かつ確実に提供する方法�
 
 お客様は、データがどこに存在するか、Microsoft がどこからアクセスできるのか、そして社内でその情報を扱うことができるかを知ることができます。 詳細については、「[透過性](https://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)」をご覧ください。
   
-## <a name="advanced-ediscovery"></a>高度な電子情報開示
+## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
 電子情報開示 (eDiscovery) とは、訴訟で証拠として使用できる電子的情報を特定および提供するプロセスです。 高度な電子情報開示は、Office 365 の既存の電子情報開示機能のセットに基づいて構築されるため、大規模な非構造化データセットを分析し、訴訟に関連するデータ量を減らすことができます。 Office 365 コンプライアンス センターの検索機能を使用して、組織内のすべてのコンテンツ ソースの初回検索を実行し、特定の訴訟に関連する可能性のあるデータを識別および収集できます。 次に、高度な電子情報開示のテキスト分析機能、マシン学習機能、関連/予測コーディング機能を適用することによって、そのデータを分析できます。 詳細については、「 [Advanced eDiscovery](https://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)」を参照してください。
   
@@ -58,5 +58,5 @@ Office 365 Advanced Threat Protection を使用すると、マルウェアやウ
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
