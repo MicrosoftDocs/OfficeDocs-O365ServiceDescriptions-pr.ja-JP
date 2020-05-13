@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044989"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213909"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -38,7 +38,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |**教育機関 (無制限の数のユーザー)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Government (無制限の数のユーザー)** <br/> |[利用可能なすべてのビジネス プランを参照します](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**21Vianet が中国で運用している Office 365** <br/> |[利用可能なすべてのビジネス プランを参照できます](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[利用可能なすべてのビジネス プランを参照します](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Germany** <br/> |[「Office 365 ドイツ」の詳細を参照してください。](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>それぞれの Office 365 プランのサービスの可用性
 
@@ -49,7 +49,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**サービス** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
 |SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話に使用することを可能にするアドインサービスです。 これにより、電話システム、国内通話プラン、SMS、電話会議が統合されます。
-ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640155"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213969"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 音声サービスの説明
 
@@ -32,7 +32,7 @@ Microsoft 365 Business Voice は、最大300のライセンスを持つ次の小
 - [Microsoft 365 Business Premium](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
+- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
 - [Microsoft 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 - [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 
@@ -58,9 +58,9 @@ Microsoft 365 Business Voice は、最大300のライセンスを持つ次の小
 | 共有ボイスメールへの自動応答/通話キューの転送 | はい                              | はい                                                   |
 | 多言語対話音声応答 (IVR)          | はい                              | はい                                                   |
 | 通話ポリシー                                         | はい                              | はい                                                   |
-| 国内通話プラン                                  | 必要                              | いいえ                                                    |
-| フリーダイヤル\*                                    | 必要                              | いいえ                                                    |
-| 国際通話プラン\*                           | 必要                              | いいえ                                                    |
+| 国内通話プラン                                  | はい                              | いいえ                                                    |
+| フリーダイヤル\*                                    | はい                              | いいえ                                                    |
+| 国際通話プラン\*                           | はい                              | いいえ                                                    |
 | 電話会議                                     | はい                              | はい                                                   |
  
-\*無料ダイヤルおよび国際通話プランは、[コミュニケーションクレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)を使用して追加料金で利用できます。 詳細については、「[無料ダイヤル](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)および[国際通話料金](https://products.office.com/microsoft-teams/online-meeting-solutions#Rates)」を参照してください。
+\*無料ダイヤルおよび国際通話プランは、[コミュニケーションクレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)を使用して追加料金で利用できます。 詳細については、「[無料ダイヤル](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)および[国際通話料金](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)」を参照してください。

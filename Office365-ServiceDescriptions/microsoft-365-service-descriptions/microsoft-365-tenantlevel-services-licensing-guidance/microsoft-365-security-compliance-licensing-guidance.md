@@ -12,21 +12,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090140"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214019"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
-この記事では、テナント内のすべてのユーザーに対して、テナント内&mdash;のすべてのユーザー (スタンドアロンまたは Office 365 または Microsoft 365 プランの一部として&mdash;) を購入したときに、テナントレベルのサービスがオンラインサービスになっています。 一部のライセンスのないユーザーは技術的にサービスにアクセスできる可能性がありますが、サービスの利用を目的としているユーザーにはライセンスが必要です。
+この記事では、テナント内の &mdash; &mdash; すべてのユーザーに対して、テナント内のすべてのユーザー (スタンドアロンまたは Office 365 または Microsoft 365 プランの一部として) を購入したときに、テナントレベルのサービスがオンラインサービスになっています。 一部のライセンスのないユーザーは技術的にサービスにアクセスできる可能性がありますが、サービスの利用を目的としているユーザーにはライセンスが必要です。
 
 > [!NOTE]
 > 一部のテナントサービスは、現在、特定のユーザーに対する利点を制限することはできません。 ライセンスを付与されたユーザーにサービスのメリットを制限するための取り組みを実施する必要があります。 これにより、ターゲット機能が使用可能になった場合に、サービスが組織に及ぼす影響を回避できます。
 
-ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -96,7 +96,7 @@ ATP の範囲を適用するには、安全なリンクと安全な添付ファ�
 
 Office 365 Cloud App Security (OCAS) は、Microsoft Cloud App Security の一部であり、機能は Office 365 に制限されており、サードパーティのクラウドアプリおよび IaaS サービスに対して追加のセキュリティを使用することはできません。
 
-OCAS は、組織の生産性を向上させるクラウドアプリやサービスを組織に可視化し、サイバーの脅威を特定して対処する&mdash;洗練された分析を提供し、Office 365 でのデータ転送を制御することができます。
+OCAS は、組織の生産性を向上させるクラウドアプリやサービスを組織に可視化し、サイバーの脅威を特定して対処する洗練された分析を提供し、Office 365 でのデータ転送を制御することができ &mdash; ます。
 
 機能を比較するには、「 [Microsoft Cloud App security And Office 365 Cloud App security の相違](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)」を参照してください。
 
@@ -121,7 +121,7 @@ Office 365 E5/A5/G5 は、ユーザーが OCAS の恩恵を受けるための権
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) は、クラウドアプリとサービスを組織に表示し、サイバーの脅威を特定して対処する洗練された分析を提供し、クラウドアプリ間でデータを転送&mdash;する方法を制御できる、クラウドアクセスセキュリティブローカー (casb) ソリューションです。
+Microsoft Cloud App Security (MCAS) は、クラウドアプリとサービスを組織に表示し、サイバーの脅威を特定して対処する洗練された分析を提供し、 &mdash; クラウドアプリ間でデータを転送する方法を制御できる、クラウドアクセスセキュリティブローカー (CASB) ソリューションです。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3、および Office 365 デー
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、**データ損失防止** > の**場所**の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
+管理者は、**データ損失防止**の場所の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます  >  **Locations**。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Teams の通信データ損失防止
 
@@ -372,7 +372,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、**データ損失防止** > の**場所**の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます。
+管理者は、**データ損失防止**の場所の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます  >  **Locations**。
 
 ## <a name="information-barriers"></a>情報バリア
 
@@ -380,7 +380,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
@@ -417,7 +417,7 @@ Microsoft 365 E3/A3、Office 365 E3/A3、および Azure Information Protection 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-管理者は、Exchange 管理センターで**メールフロー** > **ルール**の下に Office 365 メッセージ暗号化ポリシーを作成して管理します。 既定では、これらのルールはテナント内のすべてのユーザーに適用されます。 新しい Office 365 メッセージ暗号化機能のセットアップの詳細については、「 [365 office の新しいメッセージの暗号化機能をセットアップ](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)する」を参照してください。
+管理者は、Exchange 管理センターで**メールフロー**ルールの下に Office 365 メッセージ暗号化ポリシーを作成して管理し  >  **Rules**ます。 既定では、これらのルールはテナント内のすべてのユーザーに適用されます。 新しい Office 365 メッセージ暗号化機能のセットアップの詳細については、「 [365 office の新しいメッセージの暗号化機能をセットアップ](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)する」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -514,7 +514,7 @@ Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-Microsoft 365 サービスのユーザーアクティビティに関連する監査レコードは、最大1年間保持できるため、ユーザーは高度な監査からメリットを得られます。 さらに、ユーザーのメールボックス内のアイテムにアクセスまたは読み取りが行われたときなど、高価値の監査イベントがログに記録されます。 詳細については、「[高価値の監査イベント](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)」を参照してください。
+Microsoft 365 サービスのユーザーアクティビティに関連する監査レコードは、最大1年間保持できるため、ユーザーは高度な監査からメリットを得られます。 さらに、ユーザーのメールボックス内のアイテムにアクセスまたは読み取りが行われたときなど、高価値の監査イベントがログに記録されます。 詳細については、「 [Microsoft 365 の詳細な監査](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」を参照してください。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 

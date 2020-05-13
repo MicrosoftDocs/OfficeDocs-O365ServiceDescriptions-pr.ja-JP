@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online アーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 (SP2 以降)、または特定の Exchange Online または Microsoft の365プランを購読している組織のための Microsoft 365 クラウドベースのエンタープライズクラスアーカイブソリューションです。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: cddcf315d2921ff0722b82698f5fc66f172e46b5
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638715"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213729"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
 Microsoft Exchange Online アーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 (SP2 以降)、または特定の Exchange Online または Microsoft365 プランを購読している組織のための Microsoft 365 クラウドベースのエンタープライズクラスアーカイブソリューションです。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
   
-Microsoft online service では、強力なセキュリティ、信頼性、およびユーザーの生産性に対するニーズを満たすために、Exchange Online のアーカイブが設計されています。 すべての Microsoft online services に共通の機能を含む、Microsoft 365 の詳細については、「 [Office 365 プラットフォームサービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)」を参照してください。
+Microsoft online service では、強力なセキュリティ、信頼性、およびユーザーの生産性に対するニーズを満たすために、Exchange Online のアーカイブが設計されています。 すべての Microsoft online services に共通の機能を含む、Microsoft 365 の詳細については、「 [microsoft 365 および Office 365 platform service description](../office-365-platform-service-description/office-365-platform-service-description.md)」を参照してください。
   
-Exchange Online Archiving を購入するには、「[Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)」を参照してください。
+Exchange Online のアーカイブを購入するには、「 [Exchange Online アーカイブ for server](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)」を参照してください。
   
-プラン全体の機能を比較するには、「 [Microsoft 365 for business プランの比較](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。
+プラン間で機能を比較するには、「[エンタープライズをサポートするための強力なツール](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。
   
 > [!TIP]
-> サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://docs.microsoft.com/office365/securitycompliance/export-search-results)する方法について説明します。 
+> サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [コンテンツ検索の結果をエクスポート](https://docs.microsoft.com/office365/securitycompliance/export-search-results)する方法について説明します。 
   
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online Archiving プラン
 
@@ -40,24 +40,24 @@ Exchange Online Archiving は以下のプランを通して使用できます。
   
 |**プラン**|**説明**|
 |:-----|:-----|
-|**Exchange Server 用の Exchange Online Archiving** <br/> |Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange 2010 (SP2 以降) 内のプライマリメールボックスを使用するユーザーのためのクラウドベースのアーカイブ。  <br/> 社内の Exchange サーバー上にあるプライマリ メールボックスにクラウド ベースのアーカイブを追加する場合は、ハイブリッド展開を構成する必要があります。ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://docs.microsoft.com/exchange/exchange-hybrid)」を参照してください。  <br/> |
-|**Exchange Server 用の Exchange Online Archiving (Enterprise CAL Suite 経由)** <br/> |Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange 2010 (SP2 以降) 内のプライマリメールボックスを使用するユーザーのためのクラウドベースのアーカイブ。 詳細については、「[ライセンス簡易ガイド - Core クライアント アクセス ライセンス (CAL) スイートおよび Enterprise CAL スイートのライセンス](https://www.microsoft.com/licensing/product-licensing/client-access-license)」を参照してください。  <br/> |
-|**Exchange Online 用の Exchange Online Archiving** <br/> | 次のプラン<sup>1</sup>について、クラウドベースのアーカイブとインプレースホールドをアドオンとして使用します。<br/>  Exchange Online プラン 1  <br/>  Exchange Online Kiosk  <br/>  Microsoft 365 Business Basic  <br/>  Microsoft 365 Business Standard  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F3  <br/> Microsoft 365 Enterprise F3<br/> <b>注:</b>次のプランには既にアーカイブが含まれており、アドオンとして Exchange Online のアーカイブは必要ありません。<br/>Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online プラン 2 <br/> Microsoft 365 Business Premium <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Exchange Online メールボックスのアーカイブ機能について詳しくは、「 [Exchange Online のアーカイブ メールボックス](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)」をご覧ください。           |
+|**Exchange Server 用の Exchange Online Archiving** <br/> |Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange 2010 (SP2 以降) 内のプライマリメールボックスを使用するユーザーのためのクラウドベースのアーカイブ。  <br/> 社内の Exchange サーバー上にあるプライマリ メールボックスにクラウド ベースのアーカイブを追加する場合は、ハイブリッド展開を構成する必要があります。 ハイブリッド展開の詳細については、「 [Exchange Server のハイブリッド展開](https://docs.microsoft.com/exchange/exchange-hybrid)」を参照してください。  <br/> |
+|**Exchange Server 用の Exchange Online Archiving (Enterprise CAL Suite 経由)** <br/> |Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange 2010 (SP2 以降) 内のプライマリメールボックスを使用するユーザーのためのクラウドベースのアーカイブ。 詳細については、「[クライアントアクセスライセンスと管理ライセンス](https://www.microsoft.com/licensing/product-licensing/client-access-license)」を参照してください。  <br/> |
+|**Exchange Online 用の Exchange Online Archiving** <br/> | 次のプラン<sup>1</sup>について、クラウドベースのアーカイブとインプレースホールドをアドオンとして使用します。<br/>  Exchange Online プラン 1  <br/>  Exchange Online Kiosk  <br/>  Microsoft 365 Business Basic  <br/>  Microsoft 365 Business Standard  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F3  <br/> Microsoft 365 Enterprise F3<br/> <b>注:</b>次のプランには既にアーカイブが含まれており、アドオンとして Exchange Online のアーカイブは必要ありません。<br/>Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online プラン 2 <br/> Microsoft 365 Business Premium <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Exchange Online メールボックスのアーカイブ機能の詳細については、「 [Exchange Online アーカイブのアーカイブ機能](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)」を参照してください。           |
    
 >[!NOTE]
 ><sup>1</sup> 社内の Exchange サーバーにメールボックスを置かず、クラウドだけを使用する組織では、ハイブリッド展開は不要です。 ただし、社内メールボックスが存在する場合は、ハイブリッド展開が必要です。
 <br/>
-<sup>2</sup> Exchange Online プラン1および Microsoft 365 アプリプランには[、メールボックスとアーカイブにサイズ制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)があります。 Exchange Online 用の Exchange Online Archiving アドオンにより、無制限のクラウド ベースのアーカイブと[インプレース保持と訴訟ホールド](compliance-and-security-features.md#in-place-hold-and-litigation-hold)が追加されます。
+<sup>2</sup> Exchange Online プラン1および Microsoft 365 アプリプランには、メールボックスとアーカイブにサイズ制限があります。 詳細については、「 [Exchange Online の制限](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)」を参照してください。 Exchange Online 用の Exchange Online Archiving アドオンにより、無制限のクラウド ベースのアーカイブと[インプレース保持と訴訟ホールド](compliance-and-security-features.md#in-place-hold-and-litigation-hold)が追加されます。
   
-すべての Microsoft 365 プランに関する情報をお探しですか? Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
+すべての Microsoft 365 プランに関する情報をお探しですか? Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>要件
 
 Exchange Server 用の Exchange Online アーカイブを使用するには、ユーザーメールボックスが Exchange Server 2019、Exchange Server 2016、Exchange Server 2013、または Exchange Server 2010 (SP2 以降) に存在している必要があります。
   
 ### <a name="federated-identity-and-single-sign-on"></a>フェデレーション ID とシングル サインオン
 
-管理者は、オンプレミスの Active Directory との認証にシングルサインオンのアプローチを使用できます。 これを実現するために、管理者はオンプレミスの Active Directory フェデレーションサービス (&reg; Microsoft Windows Server 2008 service) を構成して、Microsoft Federation Gateway とフェデレーションを行うことができます。 Active Directory フェデレーションサービスを構成すると、その id がフェデレーションドメインに基づいているすべてのユーザーは、既存の企業ログオンを使用して Office 365 に自動的に認証できるようになります。
+管理者は、オンプレミスの Active Directory との認証にシングルサインオンのアプローチを使用できます。 これを実現するために、管理者はオンプレミスの Active Directory フェデレーションサービス (Microsoft Windows Server 2008 service) を構成して &reg; 、Microsoft Federation Gateway とフェデレーションを行うことができます。 Active Directory フェデレーションサービスを構成すると、その id がフェデレーションドメインに基づいているすべてのユーザーは、既存の企業ログオンを使用して Office 365 に自動的に認証できるようになります。
   
 ### <a name="user-subscriptions"></a>ユーザー サブスクリプション
 
@@ -65,14 +65,14 @@ Exchange Online Archiving サービスにアクセスするユーザーは、Exc
   
 ## <a name="unlimited-archive-storage-quota"></a>無制限のアーカイブ ストレージのクォータ
 
- 無制限のアーカイブ機能 (*自動拡張アーカイブ*と呼ばれます) は、アーカイブメールボックスに追加のストレージ容量を提供します。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブが有効になっている場合は、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 Exchange ハイブリッド展開では、オンプレミスのユーザーのメールボックスが Exchange Server 2019、Exchange Server 2016、または Exchange Server 2013 (SP1 以降) に存在する場合にのみ、自動拡張アーカイブが、クラウドベースのアーカイブメールボックスに対してサポートされます。 詳細については、「[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」を参照してください。
+ 無制限のアーカイブ機能 (*自動拡張アーカイブ*と呼ばれます) は、アーカイブメールボックスに追加のストレージ容量を提供します。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブが有効になっている場合は、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 Exchange ハイブリッド展開では、オンプレミスのユーザーのメールボックスが Exchange Server 2019、Exchange Server 2016、または Exchange Server 2013 (SP1 以降) に存在する場合にのみ、自動拡張アーカイブが、クラウドベースのアーカイブメールボックスに対してサポートされます。 詳細については、「[無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」を参照してください。
   
 > [!IMPORTANT]
 > 管理者は、記憶領域のクォータを調整できません。<br/>
 > 自動拡張アーカイブは、Exchange Server 2010 上に存在するメールボックスではサポートされていません。
   
 > [!IMPORTANT]
-> 自動拡張アーカイブは、個々のユーザーまたは共有メールボックスに使用されるメールボックスに対して、 *1 日&nbsp;あたり 1 GB を超えない*成長率を持つメールボックスに対してのみサポートされます。 アーカイブの目的で、ジャーナリング、トランスポート ルール、または自動転送ルールを使用して Exchange Online Archiving にメッセージをコピーすることは許可されていません。 ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブメールボックスを使用して他のユーザーのアーカイブデータを保存したり、不適切な使用をしたりする場合に、無制限のアーカイブを拒否する権利を留保します。
+> 自動拡張アーカイブは、個々のユーザーまたは共有メールボックスに使用されるメールボックスに対して、 *1 &nbsp; 日あたり 1 GB を超えない*成長率を持つメールボックスに対してのみサポートされます。 アーカイブの目的で、ジャーナリング、トランスポート ルール、または自動転送ルールを使用して Exchange Online Archiving にメッセージをコピーすることは許可されていません。 ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブメールボックスを使用して他のユーザーのアーカイブデータを保存したり、不適切な使用をしたりする場合に、無制限のアーカイブを拒否する権利を留保します。
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Exchange Online Archiving の各プランで利用できる機能
 

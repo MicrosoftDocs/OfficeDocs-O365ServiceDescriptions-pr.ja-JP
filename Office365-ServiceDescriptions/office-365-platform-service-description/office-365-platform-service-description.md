@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 8c050d771976fb70707f0d781edaa9fdcbcb76fe
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044979"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214009"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォームサービスの説明
 
@@ -27,7 +27,7 @@ Microsoft 365 および Office 365 は、組織のニーズを満たすために
   
 Microsoft 365 と Office 365 は、クラウドの生産性をさまざまな規模の企業に提供し、時間、コスト、および価値のあるリソースを節約するのに役立ちます。 Microsoft 365 および Office 365 プランでは、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype for Business Online を含む) のクラウドベースバージョンの microsoft Office デスクトップスイートが、インターネットを介して実質的にユーザーの生産性を向上させることができます。
   
-プラン間での機能の比較については、「[プランを比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)する」または「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
+プランの機能を比較するには、「[エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。または、機能の詳細な一覧については、「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
   
 - Office 365 Education プランについては、最初に [教育機関向け Office 365](office-365-education.md) ページをご覧ください。 
     
@@ -45,11 +45,11 @@ Office 365 では組織のニーズを満たすために最適な、さまざま
   
 ## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 および Office 365 の非営利団体向けプランと価格設定
 
-Microsoft 365 または Office 365 の非営利団体プランに該当する組織では、これらのプランには対応するビジネスプランとまったく同じ機能が含まれています (たとえば、Office 365 非営利 E5 には、office の 365 E5 と同じ機能が含まれています)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および Office 365 の非営利団体プランの詳細については、「 [microsoft 365 と 365 office の非営利団体の比較](https://go.microsoft.com/fwlink/?LinkID=627221)」およびこの[FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)を参照してください。
+Microsoft 365 または Office 365 の非営利団体プランに該当する組織では、これらのプランには対応するビジネスプランとまったく同じ機能が含まれています (たとえば、Office 365 非営利 E5 には、office の 365 E5 と同じ機能が含まれています)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および Office 365 の非営利団体プランの詳細については、「 [microsoft 365 と 365 office の非営利団体を比較](https://go.microsoft.com/fwlink/?LinkID=627221)する」と「[非営利の生産性ソリューション](https://go.microsoft.com/fwlink/?LinkID=786641)」を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
-Microsoft 365 と Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [microsoft 365 および office のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
+Microsoft 365 と Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [microsoft 365 および office リソースのシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
@@ -57,7 +57,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
-セキュリティ&amp;コンプライアンスセンターおよび追加情報と可用性へのリンクについては、 [「 &amp;セキュリティコンプライアンスセンター](office-365-securitycompliance-center.md)」を参照してください。
+セキュリティ &amp; コンプライアンスセンターおよび追加情報と可用性へのリンクについては、「[セキュリティ &amp; コンプライアンスセンター](office-365-securitycompliance-center.md)」を参照してください。
   
 ## <a name="data-storage-location"></a>データの保存場所
 
@@ -197,7 +197,6 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |FISMA 運用認可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft データ処理契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |BlackBerry Internet Service (BIS) の使用  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[パートナー](partners.md)** <br/> ||||||||
@@ -209,9 +208,9 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 > <sup>1</sup> Microsoft 365 および Office 365 は、製造元によってサポートされていないオペレーティングシステムのサポートを提供しません。 
 <br/><sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、microsoft 365 App for enterprise のサブスクリプションが必要です。これは、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise E1、Office 365 エデュケーション、または Office 365 Enterprise F3 に含まれていません。 Microsoft 365 Apps for business に付属している Office クライアントアプリは、完全な Azure Information Protection (プラン 1) 機能もサポートしています。
 <br/><sup>3</sup>ローカル active directory とのディレクトリ同期を使用する場合は、Windows PowerShell 用 Azure Active directory モジュールを使用して Microsoft 365 ポータルではなく、ローカルの active directory を使用してアカウントを削除するか、パスワードを変更する必要があります。 
-<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「[セキュリティ情報を使用して職場または学校のパスワードをリセット](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 
 <br/><sup>6</sup>期間割引を使用して購入された座席の減少は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>7</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Microsoft セキュリティスコアの紹介](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。 
+<br/><sup>7</sup> [Microsoft セキュリティスコア](https://securescore.office.com)セキュリティページから入手できます。 管理者のアクセス許可が必要です。 詳細については、「 [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。 
 <br/><sup>8</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 
 <br/><sup>9</sup>つの効果が低下します。 組織が Internet Explorer 8 または Internet Explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、Internet Explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 
 <br/><sup>10</sup> microsoft Teams は、Microsoft 365 business Basic、Microsoft 365 Business Standard、Office 365 Enterprise (E1、E3、E5、F3)、および Office 365 エデュケーションプランでご利用いただけます。 
@@ -225,5 +224,5 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 <br/><sup>18</sup> 2019 年5月以降の Office 365 および Microsoft 365 の既存の対象となる sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。
 <br/><sup>19</sup>無料アドオンとして利用できます。 詳細については、「 [Microsoft 予約へのアクセスを取得する](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)」を参照してください。
 <br/><sup>20</sup>詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。
-<br/><sup>21</sup>には、「 [azure active directory の価格設定」ページ](https://azure.microsoft.com/pricing/details/active-directory/)の「 **Office 365 Apps** 」列に記載されている azure active directory 機能が含まれています。 Premium Azure AD 機能を取得するには、Azure Active Directory プラン1またはプラン2、エンタープライズモバイルセキュリティ、または Microsoft 365 E3 または E5 を追加する必要があります。<br/>
-<sup>22</sup>ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「[ブリーフィングメールを構成する](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
+<br/><sup>21</sup>には、「 [azure active directory の価格設定](https://azure.microsoft.com/pricing/details/active-directory/)」ページの「 **Office 365 Apps** 」列に記載されている azure active directory 機能が含まれています。 Premium Azure AD 機能を取得するには、Azure Active Directory プラン1またはプラン2、エンタープライズモバイルセキュリティ、または Microsoft 365 E3 または E5 を追加する必要があります。<br/>
+<sup>22</sup>ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「 [Configure ブリーフィング電子メール](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>

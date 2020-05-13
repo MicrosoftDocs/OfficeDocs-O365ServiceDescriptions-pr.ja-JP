@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、「Exchange Online サービスの説明」に記載されている米国政府機関クラウドと商用クラウドの機能の違いの概要について説明します。
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813403"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213699"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>米国政府機関向けの Exchange Online
 
@@ -22,7 +22,7 @@ ms.locfileid: "43813403"
 
 資格および購入を含む、政府機関のクラウドの詳細については、「 [Microsoft 365 government-購入方法](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)」を参照してください。 Office 365 Government プランを比較するには、「 [office 365 government プラン](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)」を参照してください。
 
-ネットワーク接続を管理するときに必要なエンドポイントの詳細については、「 [office 365 米国政府用 GCC、高エンドポイント](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) または [office 365 米国政府の DoD エンドポイント](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)」を参照してください。
+ネットワーク接続を管理するときに必要なエンドポイントの詳細については、「 [office 365 米国政府用 GCC、高エンドポイント](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   または [office 365 米国政府の DoD エンドポイント](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)」を参照してください。
 
 Office 365 の機能を楽しんだだけでなく、米国政府機関のクラウド環境特有の次の機能を活用することができます。
 
@@ -51,7 +51,7 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 |役割に基づくアクセス許可|はい|はい|はい||
 |役割グループ|はい|はい|はい||
 |役割の割り当てポリシー|はい|はい|はい||
-|**[メッセージポリシーとコンプライアンス](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
+|**[メッセージ ポリシーとコンプライアンス](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
 |Exchange Online ベースのメールボックスのアーカイブ|はい|はい|はい||
 |社内メールボックスのクラウドベースのアーカイブ|はい|はい|はい||
 |Messaging Records Management(MRM) |はい|はい|はい||
@@ -65,7 +65,7 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 |インプレース保持と訴訟ホールド|はい|はい|はい|G3 または G5 サービスプランが必要です。|
 |インプレース電子情報開示 (eDiscovery)|はい|はい|はい||
 |メール フロー ルール|はい|はい|はい||
-|データ損失防止|いいえ|はい|はい|G3 または G5 サービスプランが必要です。|
+|Data loss prevention|はい|はい|はい|G3 または G5 サービスプランが必要です。|
 |ジャーナル|はい|はい|はい||
 |**[スパム対策とマルウェア対策の保護](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
 |組み込みのスパム対策保護|はい|はい|はい||
@@ -154,9 +154,9 @@ GCC High および DoD 環境の両方とも、送信接続の明示的な承認
 
 これらの制限により、次のような場合には、GCC High/DoD 環境からのこの送信接続に依存する機能はサポートされません。 
 
-- 接続さ&mdash;れたアカウントユーザーは、アカウント (GOOGLE、POP、IMAP など) を追加または同期できません。 
+- 接続されたアカウント &mdash; ユーザーは、アカウント (Google、POP、IMAP など) を追加または同期できません。 
 
-- サードパーティ製のファイルストレージプロバイダー&mdash;のサポート *GCC High/DoD* 内のユーザーの OneDrive for business アカウントのみ、さまざまな Outlook クライアントからファイルの添付/共有を目的としてアクセスできます。 サードパーティ製のストレージアカウント (Dropbox、ボックス、Google Drive) を追加することはできません。 
+- サードパーティ製のファイルストレージプロバイダーのサポート &mdash;  *GCC High/DoD 内*のユーザーの OneDrive for business アカウントのみ、   さまざまな Outlook クライアントからファイルの添付/共有を目的としてアクセスできます。 サードパーティ製のストレージアカウント (Dropbox、ボックス、Google Drive) を追加することはできません。 
 
 - Facebook や LinkedIn などのソーシャルネットワークとの接続。 
 

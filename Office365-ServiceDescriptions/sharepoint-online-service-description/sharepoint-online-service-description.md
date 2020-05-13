@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044789"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214039"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -31,7 +31,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、知識、および
 
 簡単な概要については、「 [SharePoint とは](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)」を参照してください。
   
-どのプランに SharePoint が含まれているかを確認するには、 [Microsoft 365 for business プランを比較](https://products.office.com/business/compare-more-office-365-for-business-plans)します。 Microsoft 365 のシステム要件については、「 [Office のシステム要件](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)」を参照してください。 
+[エンタープライズをサポートするため](https://products.office.com/business/compare-more-office-365-for-business-plans)の SharePoint、強力なツールを含むプランを確認します。 Microsoft 365 のシステム要件については、「 [microsoft 365 および Office のリソース](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)」を参照してください。 
 
 米国政府機関のお客様の SharePoint 機能の相違点については、「 [sharepoint の us government 環境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)」を参照してください。
   
@@ -43,7 +43,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、知識、および
 
 Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、 [firstline サブスクリプション](https://www.microsoft.com/microsoft-365/business/office-365-f1)の一部としてのみ、スタンドアロンのオファーとしては購入されません。 
+SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)の一部としてのみ、スタンドアロンのオファーとしては購入されません。 
   
 ## <a name="rights-of-guests"></a>ゲストの権限
 
@@ -51,11 +51,11 @@ SharePoint にアクセスするには、組織内のユーザーに SharePoint 
 
 ## <a name="onedrive"></a>OneDrive
 
-Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラインストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive は SharePoint に含まれており、スタンドアロンプランとして購入することもできます。 各プランに付属している OneDrive ストレージの数については、「 [Onedrive サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
+Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラインストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive は SharePoint に含まれており、スタンドアロンプランとして購入することもできます。 各プランに付属している OneDrive ストレージの数については、「 [onedrive サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
 
 ## <a name="apps"></a>アプリ
 
-コンピューター上の SharePoint ファイルを同期するために、ユーザーは Windows または Mac 用の[OneDrive 同期アプリ](https://onedrive.live.com/about/download/)を使用できます。 同期アプリの機能の可用性の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。 
+コンピューター上の SharePoint ファイルを同期するために、ユーザーは Windows または Mac 用の[OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)を使用できます。 同期アプリの機能の可用性の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。 
 
 モバイルデバイスで SharePoint サイトを操作するには、 [iOS、Android、または Windows 用の sharepoint モバイルアプリをインストール](https://products.office.com/sharepoint/mobile-app)します。 
   
@@ -109,7 +109,7 @@ Microsoft Graph の可用性の詳細については、「 [microsoft 365 And Of
 - [サイトガバナンス](/sharepoint/governance-overview) 
 - [用語ストアで管理されたメタデータ](/sharepoint/managed-metadata)
 
-FastTrack 移行サービスの可用性の詳細については、「 [Microsoft 365 の Fasttrack センターの特典](/fasttrack/m365-eligible-services-and-plans)」を参照してください。 
+FastTrack 移行サービスの可用性の詳細については、「[対象となるサービスとプラン](/fasttrack/m365-eligible-services-and-plans)」を参照してください。 
 
 共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。
 
@@ -143,7 +143,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 
 [Azure Information protection](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)の詳細については、「 [azure Information protection の要件](/azure/information-protection/requirements)」を参照してください。
 
-顧客キーを利用できるかどうかについては、「[顧客キーライセンス](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)の詳細」を参照してください。 
+顧客キーを利用できるかどうかに関する情報は、「[顧客キーを使用したサービス暗号化](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)」を参照してください。 
 
 
 
@@ -168,7 +168,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [組織のアセットライブラリ](/sharepoint/organization-assets-library)
 - [組織のニュース](/sharepoint/organization-news-site)
 - [ページの承認](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [ページ](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - レコード管理
 - [ごみ箱](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint モバイルアプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -179,8 +179,8 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [サイト: コミュニケーションサイト](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [サイト: ホームサイト](/sharepoint/home-site)
 - [サイト: ハブサイト](/sharepoint/planning-hub-sites)
-- サイト: モダンチームサイト (Office 365 グループなし)
-- [サイト: Office 365 グループに接続されたチームサイト](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 Office 365 を含むサブスクリプションが必要です。
+- サイト: モダンチームサイト (Microsoft 365 グループなし)
+- [サイト: Microsoft 365 グループに接続されたチームサイト](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 Office 365 を含むサブスクリプションが必要です。
 - [サイト: ルートサイト](/sharepoint/modern-root-site)
 - [チーム OneNote ノートブック](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [テーマ (外観を変更)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)

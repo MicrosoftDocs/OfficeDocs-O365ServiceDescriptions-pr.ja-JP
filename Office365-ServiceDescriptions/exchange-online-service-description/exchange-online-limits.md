@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
-ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
+ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790458"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213869"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -391,6 +391,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 - **迷惑メール フォルダーの保持期間**: 自動的に削除されるまで迷惑メール フォルダーにアイテムを保持できる最大日数。
 
+> [!NOTE]
+> 回復可能な削除によって削除されたユーザーメールボックスは、 &mdash; Microsoft 365 管理センターまたは Exchange Online PowerShell のメールボックスの削除コマンドレットを使用して削除されたメールボックスで、まだ Azure Active Directory のごみ箱にある場合、 &mdash; 30 日以内に回復可能です。
+
 ### <a name="retention-limits"></a>保持の制限
 
 ||||||||
@@ -434,7 +437,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|
 |メンバー数 5,000 から 99,999 の配布グループの最大メッセージ サイズ|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |メンバー数 100,000 の配布グループの最大メッセージ サイズ|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|配布グループの所有者の最大数|10 |10 |10 |10 |10 |10 |
+|配布グループの所有者の最大数|10  |10  |10  |10  |10  |10  |
 |ユーザーが作成できるグループの最大数|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -447,7 +450,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |配布グループのメンバーの最大数|100,000 人<sup>1</sup>|100,000 人|100,000 人|100,000 人|
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上<sup>1</sup>|5,000 人以上|5,000 人以上|5,000 人以上|
-|配布グループの所有者の最大数|10 |10 |10 |10 |
+|配布グループの所有者の最大数|10  |10  |10  |10  |
 |ユーザーが作成できるグループの最大数|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

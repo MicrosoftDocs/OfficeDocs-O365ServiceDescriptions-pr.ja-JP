@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium は、中小企業のお客様を対象とした Microsoft のクラス最高のサービスです。 Microsoft 365 Business Premium は、Microsoft 365 の生産性、高度なセキュリティ、およびデバイス管理を統合する統合ソリューションです。
-ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640305"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213959"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小規模ビジネスに Microsoft 365 のライセンスを付与する
 
@@ -32,8 +32,8 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 |**チームワークのハブ** | Microsoft Teams でのチャットベースのワークスペース、オンライン会議などの詳細 | はい |はい |
 |**ファイルの記憶域** | OneDrive for Business  | ユーザーごとに 1 TB | ユーザーごとに 1 TB |
 |**ソーシャル、ビデオ、サイト** | Stream、Yammer、Planner、SharePoint Online、PowerApps、電源自動化 | はい | はい |
-|**ビジネスアプリ** | アプリ&ndash;予約のスケジュール<sup>1</sup> | はい | はい |
-|   | ビジネスアプリケーション&ndash;ミル eiq<sup>1</sup> | はい | はい |
+|**ビジネスアプリ** | アプリ予約のスケジュール &ndash; <sup>1</sup> | はい | はい |
+|   | ビジネスアプリケーション &ndash; ミル eiq<sup>1</sup> | はい | はい |
 |**脅威保護** | Office 365 Advanced Threat Protection | いいえ | はい |
 |   | Windows Exploit Guard 強制 | いいえ | はい  |
 |**ID 管理** | ハイブリッド Azure Active Directory アカウントのセルフサービスによるパスワードのリセット | いいえ | はい |
@@ -63,8 +63,8 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 |**チームワークのハブ** | Microsoft Teams でのチャットベースのワークスペース、オンライン会議などの詳細 | はい | はい |
 |**ファイルの記憶域** | OneDrive for Business | 無制限 | ユーザーごとに 1 TB |
 |**ソーシャル、ビデオ、サイト** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Power オートメーション<sup>1</sup> | はい | はい |
-|**ビジネスアプリ** | アプリ&ndash;予約のスケジューリング<sup>2</sup> | はい | はい |
-|   | ビジネスアプリケーション&ndash;ミル eiq<sup>2</sup> | いいえ | はい |
+|**ビジネスアプリ** | アプリ予約のスケジューリング &ndash; <sup>2</sup> | はい | はい |
+|   | ビジネスアプリケーション &ndash; ミル eiq<sup>2</sup> | いいえ | はい |
 |**脅威保護** | Office 365 Advanced Threat Protection | いいえ | はい |
 |   | Windows Exploit Guard 強制 | いいえ | はい |
 |**ID 管理** | ハイブリッド Azure Active Directory アカウントのセルフサービスによるパスワードのリセット | いいえ | はい |
@@ -75,7 +75,7 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 |   | Windows Virtual Desktop | いいえ | はい |
 |**情報保護** | Microsoft データ損失防止 | はい | はい |
 |   | Azure Information Protection プラン1、BitLocker 強制 | いいえ | はい |
-|**オンプレミスの CAL 権限** | ECAL Suite (Exchange、SharePoint、Skype) | 必要 | いいえ |
+|**オンプレミスの CAL 権限** | ECAL Suite (Exchange、SharePoint、Skype) | はい | いいえ |
 |**コンプライアンス** | 無制限のメールアーカイブ<sup>3</sup> | はい | はい |
 
 **メモ**
@@ -96,8 +96,8 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 |**チームワークのハブ** | Microsoft Teams でのチャットベースのワークスペース、オンライン会議などの詳細 | はい | はい | はい |
 |**ファイルの記憶域** | OneDrive for Business | ユーザーごとに 1 TB | ユーザーごとに 1 TB | 無制限 |
 |**ソーシャル、ビデオ、サイト** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Power オートメーション<sup>1</sup> | はい | はい | はい |
-|**ビジネスアプリ** | アプリ&ndash;予約のスケジューリング<sup>2</sup> | はい | はい | はい |
-|   | ビジネスアプリケーション&ndash;ミル eiq<sup>2</sup> | はい | はい | いいえ |
+|**ビジネスアプリ** | アプリ予約のスケジューリング &ndash; <sup>2</sup> | はい | はい | はい |
+|   | ビジネスアプリケーション &ndash; ミル eiq<sup>2</sup> | はい | はい | いいえ |
 |**脅威保護** | Office 365 Advanced Threat Protection | いいえ | はい | いいえ |
 |   | Windows Exploit Guard 強制 | いいえ | はい | いいえ |
 |**ID 管理** | ハイブリッド Azure Active Directory アカウントのセルフサービスによるパスワードのリセット | いいえ | はい | いいえ |
@@ -130,8 +130,8 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 |**ファイルの記憶域** | OneDrive for Business | ユーザーごとに 1 TB | ユーザーごとに 1 TB | 無制限 | 無制限 |
 |**ソーシャル、ビデオ、サイト** | Yammer、SharePoint Online、Planner | はい | はい | はい | はい |
 |   | Stream | | はい | はい | はい |
-|**ビジネスアプリ** | アプリ&ndash;予約のスケジュール<sup>1</sup> | はい | はい | はい | はい |
-|   | ビジネスアプリケーション&ndash;ミル eiq<sup>1</sup> | はい | はい | 不要 | いいえ |
+|**ビジネスアプリ** | アプリ予約のスケジュール &ndash; <sup>1</sup> | はい | はい | はい | はい |
+|   | ビジネスアプリケーション &ndash; ミル eiq<sup>1</sup> | はい | はい | 不要 | いいえ |
 |**脅威保護** | Microsoft Advanced Threat Analytics、Device Guard、Credential Guard、AppLocker、エンタープライズデータ保護 | いいえ | いいえ | ○ | はい |
 |   | Office 365 Advanced Threat Protection | いいえ | はい | いいえ | はい |
 |   | Windows Defender Advanced Threat Protection | いいえ | いいえ | いいえ | はい |
@@ -160,7 +160,7 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 
 ## <a name="office-client-commercial-plans"></a>Office クライアントのコマーシャルプラン
 
-| **アプリケーション** | **Microsoft 365 Apps for business** | **エンタープライズ向け Microsoft 365 アプリ** |
+| **アプリケーション** | **Microsoft 365 Apps for business** | **Microsoft 365 Apps for enterprise** |
 |------------------|-------------------------|------------------------|
 | Word             | はい                     | はい                    |
 | Excel            | はい                     | はい                    |
@@ -170,7 +170,7 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 | Publisher        | はい                     | はい                    |
 | Access           | はい                     | はい                    |
 | Microsoft Teams  | はい                     | はい                    |
-| **プレミアム価値**                             | **Microsoft 365 Apps for business** | **エンタープライズ向け Microsoft 365 アプリ** |
+| **プレミアム価値**                             | **Microsoft 365 Apps for business** | **Microsoft 365 Apps for enterprise** |
 | ボリューム ライセンス認証                             | いいえ                      | いいえ                     |
 | グループポリシー<sup>1</sup>                      | いいえ                      | はい                    |
 | 共有コンピューターのライセンス認証                    | はい<sup>7</sup>        | はい                    |
@@ -183,12 +183,12 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 | ビジネス インテリジェンス                         | いいえ                      | はい<sup>5</sup>        |
 | IRM<sup>3</sup>を作成する                        | はい<sup>7</sup>        | はい                    |
 | データ損失防止<sup>3</sup>              | はい<sup>7</sup>        | はい<sup>5</sup>        |
-| **クラウド値**                  | **Microsoft 365 Apps for business** | **エンタープライズ向け Microsoft 365 アプリ** |
+| **クラウド値**                  | **Microsoft 365 Apps for business** | **Microsoft 365 Apps for enterprise** |
 | グループ                           | はい                     | はい                    |
 | Office 展開ツール           | はい                     | はい                    |
 | ローミングドキュメント & の設定     | はい                     | はい                    |
 | 1 TB の OneDrive for Business       | はい                     | はい                    |
-| **ライセンス**                                   | **Microsoft 365 Apps for business** | **エンタープライズ向け Microsoft 365 アプリ** |
+| **ライセンス**                                   | **Microsoft 365 Apps for business** | **Microsoft 365 Apps for enterprise** |
 | ライセンスモデル                                 | ユーザーごと                | ユーザーごと               |
 | ライセンスの種類                                    | サブスクリプション            | サブスクリプション           |
 | PC/Mac のインストール<sup>6</sup>                     | 5                        | 5                      |
@@ -204,11 +204,11 @@ Microsoft 365 Business Premium には、microsoft 365 Apps for business クラ�
 
 <sup>1</sup>組織は、企業ネットワークにログオンするコンピューターに、特定の構成設定 (セキュリティ設定、アプリ設定、Active Directory ローミングなど) をプッシュすることができます。
 
-<sup>2</sup> office Standard 2016 および Office Professional Plus 2016 では、MSI モデルを使用して更新プログラムを完全に制御できます。 Microsoft 365 for enterprise および**microsoft 365 apps for business** 、インストールと更新プログラムはクイック実行で管理されます。
+<sup>2</sup> office Standard 2016 および Office Professional Plus 2016 では、MSI モデルを使用して更新プログラムを完全に制御できます。 Microsoft 365 for enterprise および Microsoft 365 Apps for business、インストールと更新プログラムはクイック実行で管理されます。
 
 <sup>3</sup>スイートには、ビジネス生産性サーバーとのさまざまな統合レベルが用意されています。
 
-<sup>4</sup> Outlook&mdash;からメールをアーカイブする .pst ファイルは&mdash;必要ありません。また、電子メールを自動的にアーカイブまたは削除するアイテム保持ポリシーを設定します。 IT 管理者は、インプレースアーカイブを一元管理できます。
+<sup>4</sup> Outlook からメールをアーカイブ &mdash; する .pst ファイルは必要ありません &mdash; 。また、電子メールを自動的にアーカイブまたは削除するアイテム保持ポリシーを設定します。 IT 管理者は、インプレースアーカイブを一元管理できます。
 
 <sup>5</sup>追加のオンラインサービスが必要です。
 

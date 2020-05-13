@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 02a39b94179a175a72e53c6a1d9e3ccacfca3ea3
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044819"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213679"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -25,14 +25,11 @@ Yammer は、高性能で安全、かつプライベートなエンタープラ�
   
 Yammer を含むプランの一覧については、「 [Microsoft サービスファミリとプラン](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)」を参照してください。
   
-プラン全体の機能を比較するには、「 [Microsoft 365 for business プランの比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
-  
-> [!TIP]
-> Microsoft サービスの説明では、ページをエクスポート、保存、および印刷することができます。 [複数のページをエクスポート](https://go.microsoft.com/fwlink/?LinkId=403349)する方法について説明します。 
+プラン間で機能を比較するには、「[エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
-Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [Microsoft 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
+Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [Microsoft 365 および office のリソース](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
 ## <a name="yammer-plans"></a>Yammer プラン
 
@@ -41,7 +38,7 @@ Yammer は以下のプランで提供されています。
 |**プラン**|**説明**|
 |:-----|:-----|
 |[Yammer の概要](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |エンタープライズ ソーシャル ネットワーキング - いつでも、どこでも。  <br/> |
-|[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |高度なセキュリティ、管理、統合を備えたエンタープライズ ソーシャル ネットワーキング。  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |高度なセキュリティ、管理、統合を備えたエンタープライズ ソーシャル ネットワーキング。  <br/> |
    
 > [!NOTE]
 > [Microsoft 365 および Office 365 プラットフォームサービスの説明](../office-365-platform-service-description/office-365-platform-service-description.md)に記載されている機能とポリシーは、Yammer サービスには適用されません。 

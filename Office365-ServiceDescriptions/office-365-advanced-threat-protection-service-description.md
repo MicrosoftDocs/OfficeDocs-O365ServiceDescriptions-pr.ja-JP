@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640145"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213949"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -61,7 +61,7 @@ ATP は、次の Exchange および Microsoft 365 のサブスクリプション
 
 Office 365 Advanced Threat Protection を購入するには、「[Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)」を参照してください。
 
-プランの機能を比較するには、「 [microsoft 365 アプリのビジネスプランを比較](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)する」および「 [microsoft 365 Enterprise ソリューション](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)をお探しください」を参照してください。
+プラン間で機能を比較するには、「[エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」と「 [Microsoft 365 を使用](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)して企業を変換する」を参照してください。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の新機能
 
@@ -73,7 +73,7 @@ Office 365 Advanced Threat Protection を購入するには、「[Office 365 Adv
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の要件
 
-ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エージェントで使用できます。 ATP でサポートされているオペレーティング システム、Web ブラウザー、言語については、「[Exchange Online Protection の Exchange 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=282381)」の「サポートされているブラウザー」と「サポートされている言語」をご覧ください。
+ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エージェントで使用できます。 ATP でサポートされているオペレーティングシステム、web ブラウザー、および言語の詳細については、「exchange [Online Protection の exchange 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=282381)」の「サポートされるブラウザー」と「サポートされる言語」のセクションを参照してください。
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Advanced Threat Protection (ATP) の各プランで利用できる機能
 
@@ -100,7 +100,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Advanced Threat Protection (ATP) の機能
 
-### <a name="safe-attachments"></a>添付ファイル保護
+### <a name="safe-attachments"></a>安全な添付ファイル
 
 [ATP の安全な添付ファイル](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)は、不明なマルウェアやウイルスから保護され、メッセージングシステムを保護するためのゼロ日の保護を提供します。 既知のウイルス/マルウェア署名がないすべてのメッセージと添付ファイルは、ATP がさまざまな機械学習および分析テクノロジを使用して悪意を検出する特別な環境にルーティングされます。 不審な動作が検出されないと、メッセージが解放されてメールボックスに配信されます。
 
@@ -122,7 +122,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 - Microsoft Teams チャンネルおよびチャット
 
 > [!NOTE]
-> ユーザーが ATP<sup>\*</sup>のライセンスを持っている必要があり、Atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
+> ユーザーが ATP のライセンスを持っている必要があり <sup>\*</sup> 、atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
 >
 > <sup>\*</sup>組織全体にわたる ATP のライセンス (ATP_ENTERPRISE_FACULTY など) については、個々のユーザーに ATP ライセンスを割り当てる必要はありません。
 >
@@ -146,7 +146,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 エクスプローラーには、マルウェア (電子メールとコンテンツなど)、送信、フィッシング、すべての電子メールなどのビューが含まれています。 エクスプローラーがリアルタイム検出と比較されることを確認するには、[この PDF をダウンロード](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)してください。
 
-エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「[脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
+エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「[脅威エクスプローラー」および「リアルタイム検出](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
 
 ### <a name="real-time-detections"></a>リアルタイムの検出
 
