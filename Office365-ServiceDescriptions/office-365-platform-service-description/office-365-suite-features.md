@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
-ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
+ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022837"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226196"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 suite の機能
 
@@ -27,7 +27,7 @@ ms.locfileid: "44022837"
 
 Microsoft の予約は、お客様にサービスを提供する予定の企業向けのオンラインおよびモバイルアプリです。 このような企業の例としては、ヘア salons、歯科支社、spas、法律事務所、金融サービスプロバイダー、コンサルタント、医療機関、教育機関、および自動ショップがあります。 Microsoft の予約は、Microsoft 365 for business のサブスクリプションを所有する米国およびカナダのお客様が利用できます。
   
-Microsoft 予約の詳細については、「 [Microsoft 予約でビジネス予定表をオンラインで公開](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)する」を参照してください。
+Microsoft 予約の詳細については、「 [Microsoft 予約でビジネス予定表をオンラインで公開](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)する」を参照してください。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft ブリーフィング電子メール
 
@@ -41,11 +41,11 @@ Microsoft 予約の詳細については、「 [Microsoft 予約でビジネス�
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft Power オートメーションを使用すると、アプリケーション間でワークフローを自動化することができます。 Flow を使用して、電子メールと IM のアラートを接続したり、アプリケーション間でファイルを同期したり、1 つのサービスから別のサービスにファイルをコピーしたり、1 つのアプリから収集したデータを別のアプリに格納したりできます。 開始するためのテンプレートを利用できます。 フロー機能とその使用方法の詳細については、「[パワー自動化 web サイト](https://preview.flow.microsoft.com/en-us/)」を参照してください。
+Microsoft Power オートメーションを使用すると、アプリケーション間でワークフローを自動化することができます。 Flow を使用して、電子メールと IM のアラートを接続したり、アプリケーション間でファイルを同期したり、1 つのサービスから別のサービスにファイルをコピーしたり、1 つのアプリから収集したデータを別のアプリに格納したりできます。 開始するためのテンプレートを利用できます。 フロー機能とその使用方法の詳細については、「[パワー自動化 web サイト](https://preview.flow.microsoft.com/)」を参照してください。
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms では、カスタムのクイズ、調査、アンケート、登録などをすばやく簡単に作成することができます。 クイズやフォームを作成する場合、どの Web ブラウザー (モバイル デバイス上でも) を使用している人にも回答してもらうように招待できます。 回答が提出されたら、組み込みの分析機能を使用して応答を評価することができます。 クイズ回答などのフォーム データは、さらに分析したりランク付けしたりするために Excel にエクスポートできます。 詳細については、「[Microsoft Forms とは](https://support.office.com/en-us/forms)」を参照してください。
+Microsoft Forms では、カスタムのクイズ、調査、アンケート、登録などをすばやく簡単に作成することができます。 クイズやフォームを作成する場合、どの Web ブラウザー (モバイル デバイス上でも) を使用している人にも回答してもらうように招待できます。 回答が提出されたら、組み込みの分析機能を使用して応答を評価することができます。 クイズ回答などのフォーム データは、さらに分析したりランク付けしたりするために Excel にエクスポートできます。 詳細については、「[Microsoft Forms とは](https://support.office.com/forms)」を参照してください。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
@@ -61,7 +61,7 @@ Microsoft Planner とは、ユーザーが視覚的にチームワークを編�
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps は、各デバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 PowerApps では、組み込み接続、または会社によって構築されたものを使用して、Microsoft 365 と Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなど、アプリをクラウドとオンプレミスサービスに接続できます。 メール アドレスを入力するだけで、同僚と PowerApps を簡単に共有できます。 詳細は、[PowerApps の Web サイト](https://powerapps.microsoft.com/en-us/)を参照してください。
+Microsoft PowerApps は、各デバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 PowerApps では、組み込み接続、または会社によって構築されたものを使用して、Microsoft 365 と Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなど、アプリをクラウドとオンプレミスサービスに接続できます。 メール アドレスを入力するだけで、同僚と PowerApps を簡単に共有できます。 詳細は、[PowerApps の Web サイト](https://powerapps.microsoft.com/)を参照してください。
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -77,7 +77,7 @@ Microsoft Sway は、対話型の Web ベースのキャンバスを使用して
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams は、チームメンバーがより多くのことを実現するのに役立つチャット中心のワークスペースです。 Microsoft Teams は、チームワークのハブとしての役割を果たし、チャット会話、コンテンツ、およびツールを1つのワークスペースに瞬時にアクセスできるようにします。 SharePoint と OneNote が組み込まれており、チーム メンバーは、アプリ内の Office ドキュメント上ですぐに作業できます。 チャットとは別に、Microsoft Teams もビデオ通話と会議をサポートしているため、必要に応じて、またはスケジュールされたときに Teams が live をミーティングできるようになります。 チーム メンバーは簡単に複数のチームと共同作業し、連絡先、チャット、ファイル間における検索をいつでも実行できます。 Microsoft Teams は、Windows、Mac、web、Android、iOS の各プラットフォームで動作します。 詳細は、「[Microsoft Teams のヘルプ](https://go.microsoft.com/fwlink/?linkid=834413)」を参照してください。 現時点で、Teams は [Office 365 Germany](office-365-germany.md) では利用可能ではありません。
+Microsoft Teams は、チームメンバーがより多くのことを実現するのに役立つチャット中心のワークスペースです。 Microsoft Teams は、チームワークのハブとしての役割を果たし、チャット会話、コンテンツ、およびツールを1つのワークスペースに瞬時にアクセスできるようにします。 SharePoint と OneNote が組み込まれており、チーム メンバーは、アプリ内の Office ドキュメント上ですぐに作業できます。 チャットとは別に、Microsoft Teams もビデオ通話と会議をサポートしているため、必要に応じて、またはスケジュールされたときに Teams が live をミーティングできるようになります。 チーム メンバーは簡単に複数のチームと共同作業し、連絡先、チャット、ファイル間における検索をいつでも実行できます。 Microsoft Teams は、Windows、Mac、web、Android、iOS の各プラットフォームで動作します。 詳細については、「 [Microsoft teams サービスの説明](../teams-service-description.md)」および「 [Microsoft Teams のオンラインヘルプ](https://go.microsoft.com/fwlink/?linkid=834413)」を参照してください。 現時点で、Teams は [Office 365 Germany](office-365-germany.md) では利用可能ではありません。
   
 ## <a name="office-delve"></a>Office Delve
 
@@ -85,7 +85,7 @@ Office Delve を使用すると、ユーザーは、カスタマイズされた�
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365 グループ
 
-Microsoft 365 のグループでは、より多くの作業を行うために必要な仕事仲間、情報、およびアプリケーションがユーザーによって接続されます。 グループは、既定では、発見可能性や共有生を促進するためにオープンなものとなっていますが、機密性の高いコンテンツについてはプライベート グループを作ることもできます。 グループの詳細については、「 [Microsoft 365 のグループ](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)」を参照してください。 グループの制限の詳細については、「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」の「グループを管理する方法」を参照してください。
+Microsoft 365 のグループでは、より多くの作業を行うために必要な仕事仲間、情報、およびアプリケーションがユーザーによって接続されます。 グループは、既定では、発見可能性や共有生を促進するためにオープンなものとなっていますが、機密性の高いコンテンツについてはプライベート グループを作ることもできます。 グループの詳細については、「 [Microsoft 365 のグループ](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)」を参照してください。 グループの制限の詳細については、「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」の「グループを管理する方法」を参照してください。
   
 ## <a name="office-365-video"></a>Office 365 ビデオ
 

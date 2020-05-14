@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639885"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226226"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -90,7 +90,7 @@ Excel のグラフとテーブルを使えば、データの書式設定と情�
 
 ## <a name="check-spelling"></a>スペルチェックを行う
 
-ワークシート上のテキストのスペルチェックを行うには、[**校正** > の**スペル**チェックを行う]**を選択し** > ます。 詳細については、「[スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
+ワークシート上のテキストのスペルチェックを行うには、[校正のスペル**チェックを行う] を選択し**  >  **Proofing**  >  **Spelling**ます。 詳細については、「[スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -102,7 +102,7 @@ Excel のテーブルを作成した後は、テーブルの機能を使用せ�
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-テキスト、ハイパーリンク、数字、数式、図形、グラフ、および画像の切り取り、コピー、貼り付けを行うことができます。 行に配置するために回転する必要があるデータが列にある場合は、[**貼り付け**] メニューの [**置換**] 機能を使用します。 [Excel での web 上のコピーと貼り付けの詳細については、「」](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)を参照してください。
+テキスト、ハイパーリンク、数字、数式、図形、グラフ、および画像の切り取り、コピー、貼り付けを行うことができます。 行に配置するために回転する必要があるデータが列にある場合は、[**貼り付け**] メニューの [**置換**] 機能を使用します。 [Excel での web 上のコピーと貼り付けの詳細については、「」](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)を参照してください。 ブラウザーとしてエッジまたは Chrome を使用すると、他のアプリからハイパーリンクをコピーして、web 用の Excel に貼り付けることができます。 貼り付けられたハイパーリンクは正常に機能します。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -110,7 +110,7 @@ Excel を web に使用してデータ接続を表示することはできます
   
 ## <a name="create-tables"></a>テーブルの作成
 
-テーブルを作成して関連データの整理と分析を行います。テーブルを作成することで、データの並べ替え、フィルター処理、および書式設定が容易になります。 
+テーブルを作成して関連データの整理と分析を行います。 テーブルを作成することで、データの並べ替え、フィルター処理、および書式設定が容易になります。 スタイルギャラリーを含む、[表の書式設定オプション](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)を使用して、一部のポーランド語を追加します。
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>高度な分析ビュー (Power View、Power Pivot、スライサー) の作成
 
@@ -162,7 +162,7 @@ OneDrive.com に Excel ブックを保存すると、ブログや Web サイト�
   
 ## <a name="formula-tools-advanced"></a>数式ツール、詳細
 
-Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式などの高度な数式ツールをサポートします。 Excel for the web では、最も基本的な Excel 数式のみがサポートされています。 [数式](https://go.microsoft.com/fwlink/p/?LinkId=271665)の詳細については、こちらを参照してください。
+Microsoft Excel デスクトップアプリには、3D 参照スタイルなど、最も高度な数式ツールが用意されています。 Excel for the web では、[動的配列数式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)などの高度な excel 数式がサポートされています。 [数式](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US)の詳細については、こちらを参照してください。
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -174,7 +174,7 @@ Microsoft Excel デスクトップ アプリは、3D 参照形式や配列数式
   
 ## <a name="functions"></a>関数
 
-Excel の web 用の数式では、Excel の最大400のワークシート関数を使用できます。
+[フィルター関数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)などの[動的配列数式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)で使用される関数を含む、web 用の excel の数式では、最大400の excel ワークシート関数を使用できます。
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Excel のアイデアは、高度な視覚的な概要、傾向、パターン�
 ## <a name="insert-shapes"></a>図形の挿入
 
 ボックス、円、線、コネクタ、矢印などの図形を、web スプレッドシートの Excel に追加して書式設定します。 [図形の追加](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)の詳細について説明します。
+
+## <a name="keyboard-shortcuts"></a>キーボード ショートカット
+
+キーボードショートカットを変更することで、デスクトップおよび web 版の Excel と同じように動作するようにキーボードショートカットを制御することができます。これにより、ブラウザーのショートカットを上書きすること &mdash; もできます。 [ **Help**  >  **キーボードショートカット**] を選びます。
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -283,6 +287,10 @@ Web 用 Excel では使用できません。 お使いのコンピューター�
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
 ブックを自分用にコピーする必要がある場合は、[ファイル] タブの [名前を付けて保存] コマンドを使用するか、またはブックのフォルダーでブック名を右クリックして [ダウンロード] コマンドを使用し、お使いのコンピューターにブックをダウンロードします。
+
+## <a name="sensitivity-labels"></a>秘密度ラベル
+
+ラベルを手動で適用するか、Microsoft から自動的に推奨されるラベルを使用して、ドキュメントのアクセスと機密性の制御を維持します。
   
 ## <a name="share"></a>共有
 
@@ -291,14 +299,18 @@ Web 用 Excel では使用できません。 お使いのコンピューター�
 ## <a name="sheet-protection"></a>シートの保護
 
 Excel ファイルを他のユーザーと共有する場合、ワークシートが変更されるのを防ぐためにワークシートを保護することができ、ワークシートのユーザーに許可する操作を選択することもできます。
-  
-## <a name="slicer-viewing"></a>スライサーの表示
 
-ワークシートのスライサーを表示し、[スライサー] ボタンを選択してデータをフィルター処理します。 Excel では、web でスライサーを作成または編集することはできません。
+## <a name="sheet-views"></a>シートビュー
+
+[シートビュー](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)を使用すると、他のユーザーによって中断されることなく、Excel ワークシートのカスタマイズしたビューを作成できます。 たとえば、ユーザーにとって重要なレコードのみを表示するフィルターを設定できます。ドキュメント内の他のユーザーの並べ替えやフィルター処理による影響を受けません。 同じワークシートに複数のシートビューを設定することもできます。
+  
+## <a name="slicers"></a>スライサー
+
+ワークシートのスライサーを表示し、[スライサー] ボタンを選択してデータをフィルター処理します。 Excel では、web 用のスライサーを作成または編集することはできませんが、既存のスライサーを削除することはできます。
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理 (上から下へ、または左から右へ)、およびピボットテーブルの詳細へのドリルを行うことができます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)の詳細について説明します。
+Web 用の Excel では、すべてのワークシートの表示と並び替え、データの並べ替えとフィルター処理 (上から下へ、または左から右へ)、およびピボットテーブルの詳細へのドリルを行うことができます。 アイコンセットまたはカラースケールを使用して、アイコンまたは色の値を使用して、条件付きで書式設定されたデータを並べ替えます。 [データの並べ替えとフィルター処理](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)の詳細について説明します。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>スプレッドシートの監査とコンプライアンス
 
@@ -339,6 +351,10 @@ Microsoft Excel デスクトップ アプリは、データの操作、分析、
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
 Web 用 Excel では使用できません。 必要に応じて、Excel での "What-if" 分析の結果を表示できます。 目標シーク、データテーブル、ソルバー、系列などの分析ツールを使用する場合は、Excel デスクトップアプリが必要になります。 [ブラウザーと Excel デスクトップアプリでのブックの使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=273900)について説明します。
+
+## <a name="workbook-statistics"></a>ブックの統計情報
+
+ブックの統計情報機能は、ブックの要素を数えて識別し、そのすべてのコンテンツを検出するのに役立ちます。 [**校閲**] タブが表示されます。
   
 ## <a name="feature-availability"></a>機能の可用性
 

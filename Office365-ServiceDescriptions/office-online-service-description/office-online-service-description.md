@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Microsoft 365 のお客様は、Word、Excel、OneNote、または PowerPoint を使用して、移動中のファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213989"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226216"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
@@ -176,7 +176,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[コピーを保存またはダウンロードする](excel-online.md#save-or-download-a-copy) <br/> |はい  <br/> |はい  <br/> |
 |[共有](excel-online.md#share) <br/> |はい  <br/> |はい  <br/> |
 |[シートの保護](excel-online.md#sheet-protection) <br/> |はい  <br/> |はい  <br/> |
-|[スライサーの表示](excel-online.md#slicer-viewing) <br/> |はい  <br/> |はい  <br/> |
+|[Slicers](excel-online.md#slicers) <br/> |はい  <br/> |はい  <br/> |
 |[データの並べ替えとフィルター処理](excel-online.md#sort-and-filter-data) <br/> |はい  <br/> |はい  <br/> |
 |[スプレッドシートの監査とコンプライアンス](excel-online.md#spreadsheet-audit-and-compliance) <br/> |いいえ  <br/> |はい  <br/> |
 |[ステータス バーの集計](excel-online.md#status-bar-aggregates) <br/> |はい  <br/> |はい  <br/> |
