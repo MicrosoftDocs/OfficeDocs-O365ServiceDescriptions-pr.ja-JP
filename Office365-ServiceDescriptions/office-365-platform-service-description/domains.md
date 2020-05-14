@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: ドメインを追加すると、ユーザーを追加したり、電子メールアドレスやその他のサービスをビジネス名に変換したりするためのステップバイステップウィザードを使用できます。 ウィザードを完了すると、現在のメールプロバイダーに移動するのではなく、会社のメールが Microsoft に届くようになります。 詳細については、「ユーザーとドメインを Microsoft に追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638865"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044829"
 ---
 # <a name="domains"></a>ドメイン
 
@@ -57,6 +57,6 @@ Microsoft は、dns レコードを事前にチェックして、DNS の問題�
     
 ## <a name="feature-availability"></a>機能の可用性
 
-Microsoft 365 のビジネスプラン、スタンドアロンのオプション、オンプレミスソリューションで利用できる機能を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+Microsoft 365 のビジネスプラン、スタンドアロンのオプション、オンプレミスソリューションで利用できる機能を表示するには、「 [microsoft 365 および Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

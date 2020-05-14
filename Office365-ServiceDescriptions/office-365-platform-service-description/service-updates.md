@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: リリース直後またはリリース予定の Office 365 機能については、「Microsoft 365 ロードマップ」を参照してください。
-ms.openlocfilehash: 70236f8d0600e5a614524fb1842d1fd62764655d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639775"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044809"
 ---
 # <a name="service-updates"></a>サービス更新
 
@@ -43,6 +43,6 @@ Microsoft は[オンラインライフサイクルポリシー](https://support.
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® スマートフォンは、Office 365 の電子メールや文書にアクセスすることができます。
-ms.openlocfilehash: 61f6e4cf3d28ba4acb05cac1f436f868ca5bcabb
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: cb7119c136887b4ddbaae284a78b38686ccf0f09
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262880"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044839"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -53,5 +53,5 @@ BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前の�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Office 365 プラン全体の機能の可用性を表示するには、「 [office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+Office 365 プラン全体の機能の可用性を表示するには、「 [Microsoft 365 および office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
   
