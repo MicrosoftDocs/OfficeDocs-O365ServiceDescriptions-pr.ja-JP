@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能の比較については、こちらを参照してください。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213789"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267346"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -119,7 +119,7 @@ Exchange Online サブスクリプションプランで使用可能なストレ�
 |アドレス帳ポリシー|はい|はい|はい|はい|はい|はい|はい|はい|
 |階層型アドレス帳|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |アドレス一覧とグローバルアドレス一覧|はい|はい|はい|はい|はい<sup>18</sup>|はい<sup>18</sup>|はい<sup>18</sup>|はい<sup>18</sup>|
-|Office 365 グループ|いいえ|いいえ|○|はい|はい|はい|はい|はい|
+|Microsoft 365 グループ|いいえ|いいえ|○|はい|はい|はい|はい|はい|
 |配布グループ|はい|はい|はい|はい|はい|はい|はい|はい|
 |外部連絡先 （グローバル）|はい|はい|はい|はい|はい|はい|はい|はい|
 |ユニバーサル連絡先カード|はい|はい|はい|はい|はい|はい|はい|はい|
