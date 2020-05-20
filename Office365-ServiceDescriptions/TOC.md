@@ -1,6 +1,6 @@
 
-# [Office 365 サービスの説明](office-365-service-descriptions-technet-library.md)
-## [Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
+# [Microsoft 365 および Office 365 サービスの説明](office-365-service-descriptions-technet-library.md)
+## [Microsoft 365 および Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 のシステム要件](office-365-platform-service-description/office-365-system-requirements.md)
 ### [セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md)
