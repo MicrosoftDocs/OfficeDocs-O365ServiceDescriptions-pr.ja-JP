@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638939"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356885"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -85,6 +85,10 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 ### <a name="managed-metadata"></a>管理メタデータ
 
 用語ストアに 200,000 語、1000 グローバル用語セット、1000 グループ。
+
+### <a name="overall-site-metadata"></a>サイト全体のメタデータ
+
+サイトごとに 1000 GB (メタデータがこのサイズに達することはほとんどありません)。
 
 ### <a name="subsites"></a>サブサイト 
 

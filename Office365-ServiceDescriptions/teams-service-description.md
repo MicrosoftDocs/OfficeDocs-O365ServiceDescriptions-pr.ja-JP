@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213656"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356895"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -60,7 +60,7 @@ Microsoft Teams は、スタンドアロンサービスとしては利用でき�
 |音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Apps、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい  <br/> |
-|ライブイベント  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>なし  <br/> |<sup>5</sup>なし  <br/> |はい  <br/> |
+|ライブイベント  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>なし  <br/> |<sup>5</sup>なし  <br/> |はい  <br/> |
 
 <sup>1</sup>個々のチームの2500メンバーについて、GCC-HIGH および DOD サポートに関する Microsoft Teams。<br/>
 <sup>2</sup> Microsoft Planner は、現在プライベートチャネルではアクセスできません。<br/>
