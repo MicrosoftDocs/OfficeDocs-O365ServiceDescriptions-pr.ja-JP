@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
-ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
+ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
+ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44408927"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44412696"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -179,7 +179,7 @@ Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBA
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Microsoft 365 E5/A5/G5/E3/A3//F1/F3/Business、Enterprise Mobility + Security F3/E3/E5、Office 365 E5/A5/E3/A3/F3、AIP Plan 1、および AIP Plan 2 は、ユーザーが手動の機密情報による恩恵を受けるための権限を提供します。
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise Mobility + Security F3/e3/E5、Office 365 E5/A5/E3/A3/F3、AIP Plan 1、および AIP Plan 2 は、ユーザーが手動による感度のラベル付けを利用できるようにするための権限を提供します。
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 Information Protection and ガバナンス、Office 365 E5、Office 365 Advanced コンプライアンス、Enterprise Mobility + Security E5、および AIP プラン2では、ユーザーが自動的に秘密度を使用してメリットを得られる権利を提供します。
 
