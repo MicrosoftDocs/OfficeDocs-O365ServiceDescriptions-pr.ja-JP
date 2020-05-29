@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267336"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408927"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -30,7 +30,7 @@ ms.locfileid: "44267336"
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure Active Directory Id 保護 (AADIP) は、Azure Active Directory Premium P2 プランの機能です。これにより、組織の id に影響を及ぼす可能性のある脆弱性を検出したり、組織の id に関連する、検出された疑わしいアクションに対する自動応答を構成したり、疑わしいインシデントを調査し、それらを解決するための適切な処置を
+Azure Active Directory Id 保護は、組織の id に影響を与える可能性のある潜在的な脆弱性を検出し、組織の id に関連する、検出された疑わしいアクションに対する自動応答を構成し、疑わしいインシデントを調査して解決するための適切な処置を行うことができる、Azure Active Directory Premium P2 プランの機能です。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -42,11 +42,11 @@ Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで有効になっています。 Aウン p の詳細については、「 [Azure Active Directory Id 保護とは](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、テナントレベルで Azure AD Identity Protection 機能が有効になっています。 Azure AD Id 保護の詳細については、「 [Azure Active Directory Id 保護とは](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することによって、その範囲を設定できます。 展開のスコープを設定する方法については、「[サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
+管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することにより、Azure AD Id 保護を適用できます。 Azure AD Identity Protection の展開の範囲を設定する方法については、「[サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
 
 ## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
@@ -380,7 +380,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
