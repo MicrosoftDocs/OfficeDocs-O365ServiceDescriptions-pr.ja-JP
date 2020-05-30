@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226266"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429122"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -162,7 +162,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 |顧客ロックボックス|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |詳細な電子情報開示|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |セキュリティ スコア|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|**[コンプライアンス](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |SAS 70/SSAE16 の評価|はい|はい|はい|はい|はい|はい|はい|はい|
 |ISO 27001 認定|はい|はい|はい|はい|はい|はい|はい|はい|
 |EU モデル条項|はい|はい|はい|はい|はい|はい|はい|はい|

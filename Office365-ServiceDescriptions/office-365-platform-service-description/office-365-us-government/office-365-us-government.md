@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 この記事では、Office 365 Government US 環境に固有の機能の概要について説明します。
-ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045039"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429062"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -134,7 +134,7 @@ Office 365 US Government プランのシステム要件については、[office
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
-セキュリティ&amp;コンプライアンスセンターおよび追加情報と可用性へのリンクについては、 [「 &amp;セキュリティコンプライアンスセンター](../../office-365-platform-service-description/office-365-securitycompliance-center.md)」を参照してください。
+セキュリティ &amp; コンプライアンスセンターおよび追加情報と可用性へのリンクについては、「[セキュリティ &amp; コンプライアンスセンター](../../office-365-platform-service-description/office-365-securitycompliance-center.md)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
@@ -264,7 +264,7 @@ Office 365 US Government プランのシステム要件については、[office
 |セキュリティ スコア<sup>14</sup> <br/> |Yes<sup>9、15</sup> <br/> |はい (<sup>9</sup> ) <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
 |Office メッセージの暗号化  <br/> |いいえ  <br/> |○ <br/> |はい <br/> |いいえ  <br/> |
 |脅威インテリジェンス  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |はい <br/> |<sup>12</sup> <br/> |
-|**[コンプライアンス](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -296,7 +296,7 @@ Office 365 US Government プランのシステム要件については、[office
 <br/><sup>11</sup>まだ Office 365 Government では利用できませんが、近日中に提供されています。 
 <br/><sup>12</sup>含まれていませんが、GCC で個別のアドオンとして購入できます。 
 <br/><sup>13</sup> Office 365 Government 製品ではサポートされていません。 
-<br/><sup>14</sup>使用可能[https://securescore.office.com](https://securescore.office.com)です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。
+<br/><sup>14</sup>使用可能 [https://securescore.office.com](https://securescore.office.com) です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。
 ). 
 <br/><sup>15</sup>現時点では DoD 環境では使用できませんが、近日中に提供されます。 
 <br/><sup>16</sup>管理センターには、DoD または GCC の高度な環境での利用状況分析は含まれていません。

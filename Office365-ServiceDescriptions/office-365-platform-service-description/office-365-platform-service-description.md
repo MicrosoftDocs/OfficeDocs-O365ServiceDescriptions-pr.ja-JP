@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 および Office 365 プラットフォームサービスの説明
+title: Microsoft 365 および Office 365 プラットフォーム サービスの説明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: 8c050d771976fb70707f0d781edaa9fdcbcb76fe
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214009"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429072"
 ---
-# <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォームサービスの説明
+# <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
 Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
   
@@ -188,7 +188,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |上級電子情報開示<sup>16</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft セキュリティスコア<sup>7</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|**[コンプライアンス](compliance-servicedesc.md)** <br/> ||||||||
+|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

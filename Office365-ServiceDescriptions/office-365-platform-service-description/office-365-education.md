@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
+ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044999"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429132"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の Exchange Online、Microsoft SharePoint Online、Office for the&mdash;Web、microsoft Skype For business online&mdash;などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、インターネットを介してユーザーが実質的に生産性を向上させることができます。
+Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
   
 この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 複数のビジネスプランまたはエンタープライズプランの機能を比較するには、「 [office 365 For business プランを比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)する」または「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
   
-サポート記事および情報を検索するには、「 [Office のヘルプ&amp;トレーニング](https://support.office.com/)」を参照してください。
+サポート記事および情報を検索するには、「 [Office のヘルプ &amp; トレーニング](https://support.office.com/)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
@@ -161,7 +161,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |高度な電子情報開示<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|**[コンプライアンス](compliance-servicedesc.md)** <br/> ||||
+|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -184,16 +184,16 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 <sup>2</sup>ローカル active directory とのディレクトリ同期を使用する場合は、Office 365 ポータルではなくローカル active directory を使用するか、Windows PowerShell 用 Azure Active directory モジュールを使用して、アカウントを削除するか、またはパスワードを変更する必要があります。 <br/> 
 <sup>3</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/> 
 <sup>4</sup>期間割引を使用して購入された座席の削減は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 <br/> 
-<sup>5</sup>で[https://securescore.office.com](https://securescore.office.com/)利用可能 (リンクは管理者権限が必要)。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
+<sup>5</sup>で利用可能 [https://securescore.office.com](https://securescore.office.com/) (リンクは管理者権限が必要)。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
 <sup>6</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 <br/> 
 <sup>7</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br>
 <sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。<br>
 <sup>9</sup>詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。<br>
 <sup>10</sup>ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「[ブリーフィングメールを構成する](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
 
-## <a name="security-amp-compliance-center-features"></a>セキュリティ&amp;コンプライアンスセンターの機能
+## <a name="security-amp-compliance-center-features"></a>セキュリティ &amp; コンプライアンスセンターの機能
 
-[ &amp;セキュリティコンプライアンスセンター](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center)は、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[セキュリティ &amp; コンプライアンスセンター](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center)は、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -301,7 +301,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 ||||
 |:-----|:-----|:-----|
-|**アプリケーション** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
+|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
