@@ -26,7 +26,6 @@
 ### [ヘルプとトレーニング](office-365-platform-service-description/help-and-training.md)
 ### [ネットワーク](office-365-platform-service-description/networking.md)
 ### [プライバシー、セキュリティ、および透明性](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [コンプライアンス](office-365-platform-service-description/compliance-servicedesc.md)
 ### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [パートナー](office-365-platform-service-description/partners.md)
 ### [サービス レベル契約](office-365-platform-service-description/service-level-agreement.md)
