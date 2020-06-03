@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
-ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
+ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
+ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44412696"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44524180"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -180,6 +180,11 @@ Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBA
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise Mobility + Security F3/e3/E5、Office 365 E5/A5/E3/A3/F3、AIP Plan 1、および AIP Plan 2 は、ユーザーが手動による感度のラベル付けを利用できるようにするための権限を提供します。
+
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise Mobility + Security F3/E3/E5、AIP Plan 1、および AIP Plan 2 は、power BI で機密ラベルを適用および表示し、Power BI から Excel、PowerPoint、または PDF にエクスポートするときにデータを保護するための権限を提供します。 
+
+> [!NOTE]
+> Power BI は、Microsoft 365 E5/A5/G5 に含まれています。他のすべてのプランでは、Power BI は個別にライセンスされている必要があります。
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 Information Protection and ガバナンス、Office 365 E5、Office 365 Advanced コンプライアンス、Enterprise Mobility + Security E5、および AIP プラン2では、ユーザーが自動的に秘密度を使用してメリットを得られる権利を提供します。
 
@@ -380,7 +385,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
