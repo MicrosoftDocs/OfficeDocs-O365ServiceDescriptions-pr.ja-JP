@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話に使用することを可能にするアドインサービスです。 これにより、電話システム、国内通話プラン、SMS、電話会議が統合されます。
-ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213969"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679594"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 音声サービスの説明
 
@@ -25,16 +25,20 @@ Microsoft 365 Business Voice は、電話システムの機能 (コールパー�
 - Microsoft 365 企業向け音声
 - Microsoft 365 ビジネス音声 (通話プランなし)
 
-Microsoft 365 Business Voice は、最大300のライセンスを持つ次の小規模および中規模のビジネス向けサブスクリプションで利用できます。
+Microsoft 365 Business Voice は、最大300のライセンスを持つ次のサブスクリプションで利用できます。
 
-- [Microsoft 365 Business Basic](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Business Standard](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Business Premium](microsoft-365-business-service-description.md)
-- [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
-- [Microsoft 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
-- [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 F1
+- Microsoft 365 F3
+- Office 365 F3
+- Microsoft および Office 365 Enterprise E1、E3、または E5
+- Microsoft 365 および Office 365 エデュケーション A1、A3、または A5
+- Microsoft 365 および Office 365 Government G1、G3、または G5 (GCC のみ)
+- Microsoft 365 非営利事業の基本
+- Microsoft 365 の非営利業務標準
+- Microsoft 365 および Office 365 非営利 E1、E3、または E5
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 ビジネス Voip 機能
 

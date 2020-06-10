@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429072"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679574"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
@@ -43,9 +43,9 @@ Office 365 では組織のニーズを満たすために最適な、さまざま
   
 ボリュームライセンスの詳細については、「[ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=848696)」を参照してください。
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 および Office 365 の非営利団体向けプランと価格設定
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365 および Office 365 プランと、非営利団体向けの価格
 
-Microsoft 365 または Office 365 の非営利団体プランに該当する組織では、これらのプランには対応するビジネスプランとまったく同じ機能が含まれています (たとえば、Office 365 非営利 E5 には、office の 365 E5 と同じ機能が含まれています)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および Office 365 の非営利団体プランの詳細については、「 [microsoft 365 と 365 office の非営利団体を比較](https://go.microsoft.com/fwlink/?LinkID=627221)する」と「[非営利の生産性ソリューション](https://go.microsoft.com/fwlink/?LinkID=786641)」を参照してください。
+Microsoft 365 および Office 365 プランが適用されていない組織では、これらのプランには、対応するビジネスプランとまったく同じ機能が含まれています (たとえば、非営利の Office 365 E5 には Office の 365 E5 と同じ機能があります)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および Office 365 プランの非営利に関する詳細については、「 [microsoft 365 と office の365による非](https://go.microsoft.com/fwlink/?LinkID=627221)営利のプランの比較」および「[非営利の生産性のソリューション](https://go.microsoft.com/fwlink/?LinkID=786641)」を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -83,7 +83,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
     
 - 米国政府機関: [政府機関向け Office 365 のプラン](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 非営利団体: [Microsoft 365 と Office 365 の非営利団体のサービスを比較](https://go.microsoft.com/fwlink/?LinkID=733237)する
+- 非営利団体: [Microsoft 365 と Office 365 のサービスを比較しないようにし](https://go.microsoft.com/fwlink/?LinkID=733237)ます。
 
 - Office 365 Germany:[Office 365 Germany のプラン](https://go.microsoft.com/fwlink/?linkid=839016)
     
@@ -167,7 +167,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新情報](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

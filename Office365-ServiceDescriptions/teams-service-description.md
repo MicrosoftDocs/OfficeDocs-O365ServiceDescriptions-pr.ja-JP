@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356895"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679584"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
 Microsoft Teams は、Microsoft 365 でのチームワークのハブです。 Teams サービスを使用すると、インスタントメッセージング、音声およびビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、および広範囲の web 会議機能を利用できます。 また、Teams は、ファイルとデータのコラボレーション機能と拡張性機能を提供し、Microsoft 365 およびその他の Microsoft およびパートナーアプリと統合します。
 
-Skype for Business Online は2021年7月31日に廃止され、2019年7月30日に[発表](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)されます。 Microsoft Teams は、Microsoft の Azure とその他のサービス技術革新を活用することで、基盤からクラウドに対して構築されたまったく新しいサービスです。 Microsoft Teams は、Office 365 グループ、Microsoft Graph、およびその他の Office 365 と同じエンタープライズレベルのセキュリティ、コンプライアンス、管理容易性を使用して構築されています。 Teams は、Azure Active Directory (Azure AD) に保存されている id を活用します。 これらのサービスは Microsoft データセンターから提供され、企業ネットワークまたはインターネット上のさまざまなデバイス上のユーザーがアクセスできます。 詳細については、 [Microsoft Teams の IT アーキテクチャおよびテレフォニーソリューションのポスター](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)を参照してください。
+Skype for Business Online は2021年7月31日に廃止され、2019年7月30日に[発表](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)されます。 Microsoft Teams は、Microsoft の Azure とその他のサービス技術革新を活用することで、基盤からクラウドに対して構築されたまったく新しいサービスです。 Microsoft Teams は、microsoft 365 グループ、Microsoft Graph、および Office 365 の他の部分と同じエンタープライズレベルのセキュリティ、コンプライアンス、管理容易性を使用して構築されています。 Teams は、Azure Active Directory (Azure AD) に保存されている id を活用します。 これらのサービスは Microsoft データセンターから提供され、企業ネットワークまたはインターネット上のさまざまなデバイス上のユーザーがアクセスできます。 詳細については、 [Microsoft Teams の IT アーキテクチャおよびテレフォニーソリューションのポスター](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)を参照してください。
 
 Microsoft は、お客様のデータのセキュリティおよびサービスの[アクセシビリティ](https://www.microsoft.com/trust-center/compliance/accessibility)について引き続き取り組んでいます。 詳細については、「 [Microsoft Trust center](https://www.microsoft.com/trust-center) 」および「 [Office アクセシビリティセンター](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)」を参照してください。
 
