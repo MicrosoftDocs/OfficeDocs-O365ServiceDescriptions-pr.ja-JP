@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6a3bdafcdd7b18f64fd6894d1a4ab3612d392ae2
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213719"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711127"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-購入方法
 
@@ -136,6 +136,7 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 **AOS-G パートナー GCC および GCC High (500 座席下)**
 
 - アジャイル IT
+- 適用される情報科学 (AIS) 
 - C3 統合ソリューション
 - Dox エレクトロニクス、.Inc
 - F1 ソリューション、Inc

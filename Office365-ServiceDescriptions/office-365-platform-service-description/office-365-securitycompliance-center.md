@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ &amp; コンプライアンスセンターは、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267326"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711117"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -59,7 +59,7 @@ ms.locfileid: "44267326"
 |[顧客キー](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |||||||||
 
-<sup>1</sup>情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。
+<sup>1</sup>情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。 これらの機能は E3 および E5 で使用できます。これは、制限のある E1 のみを使用します。 E1、E3、E5 で使用可能な機能の完全な一覧については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup>高度な情報ガバナンスにより、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーに基づいて情報を分類することができます。 これには、ポリシーの推奨、データへのラベルの自動適用、機密性の高いデータ型またはクエリに基づくラベルの適用、廃棄のレビュー、およびスマートインポートフィルターの使用などのインテリジェント/自動アクションが含まれています。 また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。
 
@@ -115,7 +115,7 @@ ms.locfileid: "44267326"
 |[特権アクセス管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |不要   |いいえ|いいえ|いいえ|
 |||||||||
 
-<sup>1</sup>情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。
+<sup>1</sup>情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。 これらの機能は E3 および E5 で使用できます。これは、制限のある E1 のみを使用します。 E1、E3、E5 で使用可能な機能の完全な一覧については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Exchange Online アーカイブアドオンを購入する必要があります。
 

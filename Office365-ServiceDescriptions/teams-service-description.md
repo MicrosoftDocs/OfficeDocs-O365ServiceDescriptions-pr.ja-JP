@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679584"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711147"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -25,14 +25,17 @@ Microsoft は、お客様のデータのセキュリティおよびサービス�
 
 お客様のために、Microsoft Teams のユーザーを有効にするためのサブスクリプションのマスターテーブルが用意されています。 詳細な計画については、「[お客様のビジネスに適した Microsoft Teams を探す](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1)」を参照してください。 政府機関プランでのその他の Office 365 については、「 [office 365 government プラン](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)」を参照してください。 Office 365 の G5 には、Teams の機能へのアクセスが含まれています。
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**小規模ビジネスプラン** <br/> |**エンタープライズプラン** <br/> |**教育機関向けの計画** <br/> |**開発者向けの計画** <br/> |
-|Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 Developer  <br/> |
-|Microsoft 365 Business Standard  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
-|Microsoft 365 for Business  <br/> |Office 365 Enterprise E4 (廃止)  <br/> |Office 365 エデュケーション E3 (廃止)  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 Developer <br/> |
+|Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 製品機能の実装に関する詳細なガイダンスについては、 [Microsoft Teams の管理に関するドキュメント](https://docs.microsoft.com/MicrosoftTeams)を参照してください。 このサービスの説明では、さまざまなクラウドインストールで提供されるサービスの主な違いについて詳しく説明します。 Microsoft Teams のコア機能は、サブスクリプション間では異なります。 コンプライアンス機能を利用できるかどうかは、サブスクリプションレベルによって決まります。 詳細については、「 [Microsoft Teams のセキュリティとコンプライアンス](https://docs.microsoft.com/microsoftteams/security-compliance-overview)」を参照してください。 各サブスクリプションで使用できる機能の詳細な一覧については、「 [Microsoft 365 And Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)」を参照してください。
 
