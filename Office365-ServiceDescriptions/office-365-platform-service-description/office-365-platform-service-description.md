@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679574"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768133"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
@@ -103,7 +103,8 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft MyAnalytics<sup>20</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft Planner  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft PowerApps  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>12</sup> <br/> |
+|Microsoft PowerApps  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>12</sup> <br/> | 
+|Web 用 Microsoft Project <sup>23</sup> <br/> |はい <br/> |いいえ <br/>|○ <br/> |はい <br/> |はい <br/> |はい <br/> | はい <br/> |
 |Microsoft StaffHub  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Stream  <br/> |はい  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
@@ -226,3 +227,4 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 <br/><sup>20</sup>詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。
 <br/><sup>21</sup>には、「 [azure active directory の価格設定](https://azure.microsoft.com/pricing/details/active-directory/)」ページの「 **Office 365 Apps** 」列に記載されている azure active directory 機能が含まれています。 Premium Azure AD 機能を取得するには、Azure Active Directory プラン1またはプラン2、エンタープライズモバイルセキュリティ、または Microsoft 365 E3 または E5 を追加する必要があります。<br/>
 <sup>22</sup>ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「 [Configure ブリーフィング電子メール](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
+<sup>23</sup>機能の詳細については、 [Microsoft Project サービスの説明](../project-online-service-description/project-online-service-description.md)を参照してください。 ユーザーには、web のプロジェクトへの限定的な権限アクセス権が付与されます。 これらの権限は、web アプリケーションのプロジェクトに対してのみ使用できます。また、プロジェクト計画1、プロジェクト計画3、またはプロジェクト計画5のライセンスを持つテナントに対してのみ使用が制限されています。 これらの権限は、電源プラットフォームアプリケーションまたはその他のデータセット、Project Online デスクトップクライアント、または Project Online へのアクセスを許可しません。
