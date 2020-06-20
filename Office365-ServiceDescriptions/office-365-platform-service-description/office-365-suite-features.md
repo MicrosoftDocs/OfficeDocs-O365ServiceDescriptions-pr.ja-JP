@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226196"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820605"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 suite の機能
 
@@ -49,7 +49,7 @@ Microsoft Forms では、カスタムのクイズ、調査、アンケート、�
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
-Microsoft Graph API を使用すると、豊富なリソース、リレーションシップ、インテリジェンスに接続するアプリを、すべて 1 つのエンドポイントを介して迅速に構築できます: https://graph.microsoft.com。たとえば、組織のためにデータを取得するカスタムのダッシュボード、ワークフロー、アプリを構築することができます。詳細については、「[Microsoft Graph の概要](https://go.microsoft.com/fwlink/?linkid=849595)」を参照してください。
+Use the Microsoft Graph API to quickly build apps that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: https://graph.microsoft.com. For example, you can build custom dashboards, workflows, and apps that retrieve data for your organization. For more information, see the [Microsoft Graph documentation](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
@@ -57,11 +57,15 @@ MyAnalytics では、個人の生産性における主な要因として、お�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner とは、ユーザーが視覚的にチームワークを編成するためのツールです。チームは、新しい計画の作成、タスクの編成および割り当て、ファイルの共有、現在の作業に関するチャット、期限の設定、状態の更新を行うことができます。また、Microsoft Planner にはドキュメントを特定のタスクに関連付け、それをまとめて編集し、タスクに関連する会話を行う機能が備わっています。詳細については、「[Microsoft Planner の概要](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)」をご覧ください。Planner は、[Office 365 Germany](office-365-germany.md) においては現時点では利用できません。
+Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
 Microsoft PowerApps は、各デバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 PowerApps では、組み込み接続、または会社によって構築されたものを使用して、Microsoft 365 と Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなど、アプリをクラウドとオンプレミスサービスに接続できます。 メール アドレスを入力するだけで、同僚と PowerApps を簡単に共有できます。 詳細は、[PowerApps の Web サイト](https://powerapps.microsoft.com/)を参照してください。
+
+## <a name="microsoft-project-for-the-web"></a>Web 用 Microsoft Project
+
+Web 用 Project は、クラウドベースの作業およびプロジェクト管理のための最新の Microsoft オファーリングです。 Web 用 Project は、ほとんどのニーズと役割を満たす、シンプルで強力な作業管理機能を備えています。 プロジェクト管理者とチームメンバーは、web に Project を使用して、任意のサイズの作業を計画し、管理することができます。 詳細については、「 [Microsoft Project web サイト](https://aka.ms/MicrosoftProject)」を参照してください。
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -69,11 +73,11 @@ Microsoft StaffHub は、スタッフとマネージャーが自分のモバイ�
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream は、組織内のユーザーが動画を安全にアップロード、視聴、共有するために使用できるエンタープライズ ビデオ サービスです。授業、会議、プレゼンテーション、トレーニング セッション等の録画や、チームのコラボレーションを促進するその他の動画を共有できます。また、Microsoft Stream を使用すれば、動画のコメントを共有し、コメントや説明内でタイム コードにタグを付けて動画内の特定のポイントを参照することが容易になります。
+Microsoft Stream is an enterprise video service that people in your organization can use to upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration. Microsoft Stream also makes it easy to share comments on a video and tag time codes in comments and descriptions to refer to specific points in a video.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway は、対話型の Web ベースのキャンバスを使用してアイデアを表現するための、プロ仕様のビジネス向けデジタル ストーリーテリング アプリです。Microsoft Sway の組み込みデザイン エンジンは、大々的な書式設定や追加のトレーニングを必要とせず、専門的で視覚に訴えるレポートやプレゼンテーションなどを作成するのに役立ちます。結果を変更して、好みのユニークな外観にしあげることもできます。Microsoft Sway によって、ブラウザーや画面を問わずに作成した資料の見栄えを良くすることができ、リンクを送信するだけでそれらの資料を同僚や顧客と共有することができます。また、アプリを切り替えずに、あらゆる種類のコンテンツを検索してまとめるのに役立ちます。イメージ、テキスト、動画、グラフをキャンバスにドラッグ アンド ドロップすることができます。詳細については、[Sway](https://sway.com) のサイトを参照してください。Microsoft Sway は、 [Office 365 Germany](office-365-germany.md) においては現時点では利用できません。
+Microsoft Sway is a professional digital storytelling app for business that helps you and your colleagues express ideas using an interactive, web-based canvas. Microsoft Sway's built-in design engine helps you produce professional, visually-appealing reports, presentations, and more without the need for extensive formatting or additional training. You can also modify the results to get the unique look and feel you want. Microsoft Sway makes your creation look great in any browser on any screen, and it can be shared with colleagues and customers by simply sending a link. Microsoft Sway helps you find and pull together all sorts of content without leaving the app, so you can drag and drop your images, text, videos, and charts right on to your canvas. To learn more, see [Sway](https://sway.com). Microsoft Sway is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -89,11 +93,11 @@ Microsoft 365 のグループでは、より多くの作業を行うために必
   
 ## <a name="office-365-video"></a>Office 365 ビデオ
 
-Office 365 ビデオは、さまざまなデバイスでビデオをアップロード、共有、探索できる、セキュリティ保護された全社的な宛先として機能します。これは Microsoft Azure Media Services を利用しています。閲覧者は常時 Office 365 ビデオに参加して最新情報が得られ、こうして幅広いアイデア交換や、組織の調和が促進されます。詳細については、「[Office 365 のビデオの紹介](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)」を参照してください。
+Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote Class Notebook
 
-Class Notebook は OneNote の一部となっていて、Office 365 Education および Office 365 E5 Education で利用できます。各ノートブックには、教師たちがコースの内容を共有できるコンテンツ ライブラリ、教師と学生が共同で作業できるコラボレーション空間、そして生徒ごとのプライベート ノートブックが含まれています。Class Notebook を作成した後、教師と学生はどのデバイスからでも、OneNote アプリを使ってその Class Notebook にアクセスできます。
+Class Notebook is part of OneNote and is available for Office 365 Education and Office 365 E5 Education. Each notebook includes a Content Library for teachers to share course content, a Collaboration Space where teachers and students can work together, and a private notebook for each student. After a Class Notebook is created, teachers and students can use the OneNote app to access it from any device.
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
