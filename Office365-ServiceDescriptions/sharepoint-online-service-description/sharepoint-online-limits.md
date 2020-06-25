@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768113"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873617"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -25,7 +25,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Microsoft 365 Business Basic または Business Premium** <br/> |**Office 365 Enterprise E1、E3、または E5、または SharePoint Plan 1 または 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |10 GB<sup>および購入し</sup>たライセンスごとに 2 gb <br/> |
+|組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |サイト (サイト コレクション) あたりの最大ストレージ <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
 |ユーザー数  <br/> |最大 300  <br/> |1 から 500,000<sup>7</sup> <br/> |1 から 500,000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 
-15 GB。 リストアイテムの添付ファイルの最大サイズは 250 MB です。 新しい OneDrive 同期アプリ (OneDrive.exe) を使用する際の制限事項の詳細については、「[無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
+100 GB リストアイテムの添付ファイルの最大サイズは 250 MB です。 新しい OneDrive 同期アプリ (OneDrive.exe) を使用する際の制限事項の詳細については、「[無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
 
 ### <a name="moving-and-copying-across-sites"></a>サイト間の移動とコピー
 

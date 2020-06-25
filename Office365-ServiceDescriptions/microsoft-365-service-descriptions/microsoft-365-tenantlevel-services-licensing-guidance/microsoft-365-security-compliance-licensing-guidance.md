@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845011"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873627"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -210,17 +210,21 @@ AIP スキャナー機能の場合、Microsoft はライセンスされていな
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E5/A5/E3/A3/E1/A1 には、レコード以外の保持ラベルを手動で適用したり、PST ファイルをインポートしたり、メールをアーカイブしたりするための基本的な情報ガバナンス機能が用意されています。
+Microsoft 365 F3/Business Premium、Office 365 E1/A1/F3、およびスタンドアロン Exchange プランは、ユーザーがメールボックスデータに非レコード保持ラベルを手動で適用することによるメリットを得られるようにするための権限を提供します。
 
-Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 は、1つの組織全体または場所全体にわたるアイテム保持ポリシーまたは手動によるアイテム保持のラベル付けをユーザーが利用できるようにする権利を提供します。
+Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3、およびスタンドアロンの SharePoint プランは、ユーザーが SharePoint または OneDrive のファイルに非レコード保持ラベルを手動で適用することによる利点を得るための権限を提供します。 
 
-Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 情報の保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが自動的に保持ラベルまたはポリシーを適用し、カスタムイベントに基づいて保持ラベルの保存期間を開始し、ラベルの保持期間の最後に、サードパーティのデータをインポートし、ラベル付けされたコンテンツを検出し、ラベル付けされたアクティビティを監視します。
+Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3、Exchange Plan 2、および Exchange Online アーカイブは、1つの基本的な組織全体または場所全体にわたるメールボックス保持ポリシーを使用することによって、またはメールボックスのデータに非レコード保持ラベルを手動で適用するための権限を提供します。
+
+Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3、および SharePoint プラン2は、ユーザーが基本的な SharePoint または OneDrive のアイテム保持ポリシーから恩恵を受けたり、非レコード保持ラベルを SharePoint または OneDrive のファイルに手動で適用したりするための権限を提供します。
+
+Microsoft 365 E5/A5/E3/A3 および Office 365 E5/A5/E3/A3 は、ユーザーが Teams のアイテム保持ポリシーの恩恵を受けるための権限を提供します。
+
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 情報保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスでは、保持ラベルまたはポリシーを自動的に適用することによるメリットを得ることができるユーザーの権限が提供されます。既定の保持ラベルまたはポリシーの適用、カスタムイベントに基づく保持ラベルの保持期間の開始、ラベルの保持期間の最後における手動による廃棄レビューのトリガー、ネイティブデータコネクタを介したサードパーティデータのインポート、ファイル a レコードの宣言、ラベル付きコンテンツの検出、ラベル付けアクティビティの監視を行います。
 
 Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 Information Protection and ガバナンス trainable 分類子に基づいて保持ラベルを自動的に適用することによるユーザーの権利を提供します。
 
 ライセンスによる特定の権限については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced コンプライアンスには、Machine Learning (trainable 分類子) に基づく自動保持の権限は含まれていません。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -390,9 +394,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
 | 2つのグループ (グループ1とグループ 2) は相互に通信できません (つまり、グループ1のユーザーはグループ2ユーザーとの通信を制限され、グループ2ユーザーはグループ1ユーザーとの通信を制限されます。 | グループ1とグループ2の両方のユーザー |
-| グループ1のユーザーは、会社の他のユーザーとの通信を制限されます。 | グループ1のユーザーのみ |
-| 会社の残りの部分は、グループ1との通信から制限されています。 | グループ1以外のすべてのユーザー |
-| グループ1ユーザーはグループ2ユーザーとの通信を制限されていますが、グループ2ユーザーはグループ1ユーザーと通信できます。 | グループ1のユーザーのみ ||
+| グループ1のユーザーは、会社の他のユーザーとの通信を制限されます。 | グループ1のユーザーのみ ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
