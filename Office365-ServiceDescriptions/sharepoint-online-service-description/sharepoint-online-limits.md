@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873617"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909440"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -49,7 +49,9 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>リストまたはライブラリ内のアイテムに対する固有の権限
 
-サポートされる上限は 50,000 ですが、一般的な推奨上限は 5,000 です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
+サポートされる制限は5万一意権限アイテムですが、推奨される一般的な制限は5000です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
+
+もう1つの制限は、一意の権限 item ごとに5000の役割の割り当てです。 
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 

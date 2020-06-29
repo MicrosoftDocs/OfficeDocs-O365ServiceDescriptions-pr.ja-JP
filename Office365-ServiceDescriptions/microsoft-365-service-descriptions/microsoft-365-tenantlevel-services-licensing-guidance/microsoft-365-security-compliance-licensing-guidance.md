@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873627"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909450"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -129,7 +129,7 @@ MCAS は、シャドウ IT を検出して評価し、第1およびサードパ�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、および Microsoft 365 Information Protection and ガバナンスは、ユーザーが MCAS から恩恵を受けるための権限を提供します。
+MCAS、Enterprise Mobility + Security E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、microsoft 365 E5/A5/G5 コンプライアンス、および Microsoft 365 Information Protection and ガバナンスは、ユーザーが MCAS から恩恵を受けるための権限を提供します。
 
 Azure AD P1 は、ユーザーが MCAS の検出機能を利用できるようにするための権限を提供します。
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium、Office 365 E1/A1/F3、およびスタンド�
 
 Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3、およびスタンドアロンの SharePoint プランは、ユーザーが SharePoint または OneDrive のファイルに非レコード保持ラベルを手動で適用することによる利点を得るための権限を提供します。 
 
-Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3、Exchange Plan 2、および Exchange Online アーカイブは、1つの基本的な組織全体または場所全体にわたるメールボックス保持ポリシーを使用することによって、またはメールボックスのデータに非レコード保持ラベルを手動で適用するための権限を提供します。
+Microsoft 365 E5/A5/E3/A3/Business Premium、Office 365 E5/A5/E3/A3、Exchange Plan 2、および Exchange Online アーカイブは、組織全体または場所全体にわたる基本的なメールボックス保持ポリシーの使用、またはメールボックスデータへの非レコード保持のラベルを手動で適用するための権限をユーザーに提供します。
 
 Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3、および SharePoint プラン2は、ユーザーが基本的な SharePoint または OneDrive のアイテム保持ポリシーから恩恵を受けたり、非レコード保持ラベルを SharePoint または OneDrive のファイルに手動で適用したりするための権限を提供します。
 
@@ -389,7 +389,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 以下に例を示します。
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
