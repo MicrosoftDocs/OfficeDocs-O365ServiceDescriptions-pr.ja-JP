@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909450"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988871"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -497,7 +497,7 @@ Microsoft 365 コンプライアンスセンターでポリシーを作成する
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Enterprise Mobility + Security E3/Security E3、Microsoft 365 F3/E3/A3、および Azure Active Directory Premium プラン1のライセンスを持つユーザーは、条件付きアクセスポリシーからメリットを得られます。 Enterprise Mobility + Security E5/G5 のライセンスユーザー、Microsoft 365 E5/A5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) によってメリットを得られます。
+Enterprise Mobility + Security E3/Security E3、Security E3/A3、Microsoft 365 F3/E3/A3/Business Premium、および Azure Active Directory Premium プラン1は、条件付きアクセスポリシーを利用することができます。 Enterprise Mobility + Security E5/G5 のライセンスユーザー、Microsoft 365 E5/A5、Microsoft E5 セキュリティ、および Azure Active Directory Premium プラン2は、Id 保護 (リスクベースの条件付きアクセスポリシー) によってメリットを得られます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 

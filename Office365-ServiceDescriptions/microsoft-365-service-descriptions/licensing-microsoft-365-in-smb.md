@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium は、中小企業のお客様を対象とした Microsoft のクラス最高のサービスです。 Microsoft 365 Business Premium は、Microsoft 365 の生産性、高度なセキュリティ、およびデバイス管理を統合する統合ソリューションです。
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213959"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988861"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小規模ビジネスに Microsoft 365 のライセンスを付与する
 
@@ -137,7 +137,7 @@ Microsoft 365 Business Premium は、中小企業 (SMB) をご利用のお客様
 |   | Windows Defender Advanced Threat Protection | いいえ | いいえ | いいえ | はい |
 |   | Office 365 脅威インテリジェンス | いいえ | いいえ  | いいえ | はい |
 |**ID 管理** | ハイブリッド Azure Active Directory アカウント、Azure MFA、条件付きアクセスのためのセルフサービスによるパスワードのリセット   | いいえ | ○ | はい | はい |
-|   | Azure AD: Cloud App Discovery、Azure AD Connect Health、10個を超えるアプリの SSO | いいえ | いいえ | ○ | はい |
+|   | Azure AD: Cloud App Discovery、Azure AD Connect Health、10個を超えるアプリの SSO | はい | はい | はい | はい |
 |   | Azure Active Directory プラン 2 | いいえ | いいえ | いいえ | はい |
 |**デバイス & アプリの管理** | Microsoft Intune、Windows 自動操縦 | いいえ | ○ | はい | はい |
 |   | 共有コンピューターのライセンス認証、Windows 仮想デスクトップ | いいえ | ○ | はい | はい |
