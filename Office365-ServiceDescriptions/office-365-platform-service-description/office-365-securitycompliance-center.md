@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ &amp; コンプライアンスセンターは、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711117"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043039"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -50,6 +49,7 @@ ms.locfileid: "44711117"
 |[電子情報開示のエクスポート](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |いいえ   |いいえ   |いいえ   |いいえ   |○   |はい   |いいえ   |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[アーカイブ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |はい<sup>3</sup>  |はい<sup>3</sup>  |はい<sup>3</sup>   |はい<sup>3</sup>  |はい<sup>4</sup>  |はい<sup>4</sup>  |いいえ   |
+|[通知ポリシー](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |はい   |はい   |はい|はい   |はい   |はい   |はい   |
 |[基本監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |はい   |はい   |はい|はい   |はい   |はい   |はい   |
 |[高度な監査](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[通信のコンプライアンス (監督ポリシー)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
