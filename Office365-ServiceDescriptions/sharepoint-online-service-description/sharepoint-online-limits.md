@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
+ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909440"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45082259"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -59,7 +59,11 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="moving-and-copying-across-sites"></a>サイト間の移動とコピー
 
-1 操作ごとに 100 GB Web ブラウザーは開いたままにしておく必要があります。
+1回の操作で複数のファイルをコピーまたは移動するには、次の3つの要件があります。 
+
+- ファイルサイズの合計は 100 GB 以下 
+- 3万を超えるファイル
+- 各ファイルは 2 GB 未満である必要があります。
 
 ### <a name="sync"></a>同期
 
