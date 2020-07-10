@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
-ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
+ms.openlocfilehash: c6e18ea3e2219843c8169649ec6f1013270e6cff
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45082259"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089648"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -25,7 +25,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 |||||
 |:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Microsoft 365 Business Basic または Business Premium** <br/> |**Office 365 Enterprise E1、E3、または E5、または SharePoint Plan 1 または 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
+|組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup>  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |サイト (サイト コレクション) あたりの最大ストレージ <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
 |ユーザー数  <br/> |最大 300  <br/> |1 から 500,000<sup>7</sup> <br/> |1 から 500,000<sup>7</sup> <br/> |
