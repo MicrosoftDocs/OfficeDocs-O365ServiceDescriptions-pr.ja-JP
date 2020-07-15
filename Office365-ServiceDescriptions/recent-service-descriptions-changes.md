@@ -1,8 +1,7 @@
 ---
 title: サービスの説明の最近の変更
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 次の表は、サービスの説明の内容に最近加えられた変更の一覧です。
-ms.openlocfilehash: fbc0d162eb2b0236b3fed3cfb1e938aadddb4084
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8a8463698ee378d375243baacdd87c7e77bc2983
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640125"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131081"
 ---
 # <a name="recent-service-descriptions-changes"></a>サービスの説明の最近の変更
 
@@ -97,7 +96,7 @@ ms.locfileid: "43640125"
 |:-----|:-----|:-----|
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Office 365 プラットフォーム  <br/> |[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |ストリームと Delve を含め、Office 365 Enterprise F1 のサービス可用性に関連する変更を行いました。  <br/> |
-||[サービス更新](office-365-platform-service-description/service-updates.md) <br/> |「最初のリリース」が「対象となるリリース」になりました。Office 365 リリース プログラム ページへのリンクを更新しました。  <br/> |
+||[サービス更新](office-365-platform-service-description/service-updates.md) <br/> |"First release" is now "Targeted release." Updated link to Office 365 release programs page.  <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |Office 365 Enterprise F1 および Exchange Online Kiosk プランでのハイブリッド展開のサポートを更新しました。  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business サービスの説明](onedrive-for-business-service-description.md) <br/> |Office 365 Enterprise F1 での OneDrive for Business の可用性を追加しました (ユーザーは 2GB の OneDrive スペースを使用できます)。  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |BCS の変更:SharePoint 社内展開プランにおける SharePoint Server 2013 Standard CAL のビジネス データ Web パーツの可用性を「はい」から「いいえ」に変更しました。  <br/> |
@@ -115,10 +114,10 @@ ms.locfileid: "43640125"
 ||[Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md) <br/> |新しいサービスのページを追加しました。  <br/> |
 ||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |廃止された BlackBerry Business Cloud Services (BBCS) への参照を削除しました。  <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |Office 365 Enterprise E5 の顧客キーの可用性を追加しました。  <br/> |
-||[Exchange Online の制限](exchange-online-service-description/exchange-online-limits.md) <br/> |Outlook Web Access (OWA) の 35 MB ファイル添付の制限を明確化しました。35 MB を超える個々の添付ファイルは、ブロックされます。また、添付するファイルのグループの合計が 35 MB を超える場合もブロックされます。  <br/> |
+||[Exchange Online の制限](exchange-online-service-description/exchange-online-limits.md) <br/> |Clarified 35 MB attachment limit for Outlook Web Access (OWA). An attached individual file that exceeds 35 MB is blocked. Additionally, an attached group of files that collectively exceeds 35 MB is also blocked.  <br/> |
 ||[クライアントとモバイル デバイス](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |複数の更新プログラム、記事を再構築しました。  <br/> |
 |複数  <br/> |複数  <br/> |Microsoft sway への参照を修正しました。  <br/> |
-|複数  <br/> |複数  <br/> |OneDrive for Business と SharePoint Online のサービスの説明を更新し、追加のハイブリッド機能が含まれるようになりました。Vianet が運用している Office 365、Office 365 Germany、Office 365 Education のページにもハイブリッド機能が追加されました。  <br/> |
+|複数  <br/> |複数  <br/> |Updated OneDrive for Business and SharePoint Online Service Descriptions to include additional hybrid features. Also added hybrid features to Office 365 operated by Vianet, Office 365 Germany, and Office 365 Education pages.  <br/> |
    
 ## <a name="october-2017"></a>2017 年 10 月
 

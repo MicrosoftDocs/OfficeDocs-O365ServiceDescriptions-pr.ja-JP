@@ -1,8 +1,7 @@
 ---
 title: Power BI サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -12,12 +11,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI は、クラウドベースのビジネス分析ツールのスイートであり、すべてのユーザーがデータに接続して、データをより速く、効率よく、そして理解できるようにします。 使いやすいダッシュボードを使用してユーザーが広範囲のライブ データに接続し、対話式レポートを提供し、データを魅力的にビジュアル化して配信することで、データを有効に活用できるようになります。
-ms.openlocfilehash: 0e73585454ad28c79253c2ccd860969313c7790d
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 298cb650fb27c50c82d270b3362e645ada1ef2a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213939"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131261"
 ---
 # <a name="power-bi-service-description"></a>Power BI サービスの説明
 

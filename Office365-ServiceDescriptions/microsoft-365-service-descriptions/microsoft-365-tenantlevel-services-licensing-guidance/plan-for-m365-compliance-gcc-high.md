@@ -1,20 +1,19 @@
 ---
 title: Microsoft 365 コンプライアンスの計画 - GCC High
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – GCC 高を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089638"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132501"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 コンプライアンスの計画-GCC 高
 
@@ -46,7 +45,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む[
 > [!NOTE]
 > Microsoft 365 Government-GCC High は米国でのみ利用可能です。 米国以外の政府機関のお客様は、多くの[Office 365 Government プラン](https://products.office.com/government/compare-office-365-government-plans)から選択できます。
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>手順 2.  Microsoft 365 Government に適用-GCC-高
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>手順 2. Microsoft 365 Government に適用-GCC-高
 
 このサービスが組織に適していると判断した場合は、[このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
  
@@ -87,7 +86,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む[
 |                                         | 特権アクセス管理                    | エンジニアリングバックログの場合 |
 | **& 応答の検出**                  | インプレースの予約                            | Available              |
 |                                         | ケース管理                                 | Available              |
-|                                         | Search                                          | Available              |
+|                                         | 検索                                          | Available              |
 |                                         | エクスポート                                          | Available              |
 |                                         | RMS 復号化                                  | Available              |
 |                                         | ネイティブエクスポート                                   | Available              |

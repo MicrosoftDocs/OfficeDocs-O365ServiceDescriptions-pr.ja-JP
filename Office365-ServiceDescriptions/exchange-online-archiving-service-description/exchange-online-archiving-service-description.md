@@ -1,8 +1,7 @@
 ---
 title: Exchange Online Archiving サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,18 +13,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online アーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 (SP2 以降)、または特定の Exchange Online または Microsoft の365プランを購読している組織のための Microsoft 365 クラウドベースのエンタープライズクラスアーカイブソリューションです。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213729"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131521"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
 Microsoft Exchange Online アーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 (SP2 以降)、または特定の Exchange Online または Microsoft365 プランを購読している組織のための Microsoft 365 クラウドベースのエンタープライズクラスアーカイブソリューションです。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
   
-Microsoft online service では、強力なセキュリティ、信頼性、およびユーザーの生産性に対するニーズを満たすために、Exchange Online のアーカイブが設計されています。 すべての Microsoft online services に共通の機能を含む、Microsoft 365 の詳細については、「 [microsoft 365 および Office 365 platform service description](../office-365-platform-service-description/office-365-platform-service-description.md)」を参照してください。
+Microsoft オンラインサービスとして、Exchange Online のアーカイブは、セキュリティ、信頼性、ユーザーの生産性を強化するためのニーズを満たすことができるように設計されています。 すべての Microsoft online services に共通の機能を含む、Microsoft 365 の詳細については、「 [microsoft 365 および Office 365 platform service description](../office-365-platform-service-description/office-365-platform-service-description.md)」を参照してください。
   
 Exchange Online のアーカイブを購入するには、「 [Exchange Online アーカイブ for server](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)」を参照してください。
   
@@ -61,11 +60,11 @@ Exchange Server 用の Exchange Online アーカイブを使用するには、�
   
 ### <a name="user-subscriptions"></a>ユーザー サブスクリプション
 
-Exchange Online Archiving サービスにアクセスするユーザーは、Exchange Online Archiving サブスクリプションを所有している必要があります。電子メール アーカイブ サブスクリプションは、特定のユーザーのメッセージング データの記憶域にしか使用することができません。
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>無制限のアーカイブ ストレージのクォータ
 
- 無制限のアーカイブ機能 (*自動拡張アーカイブ*と呼ばれます) は、アーカイブメールボックスに追加のストレージ容量を提供します。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブが有効になっている場合は、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 Exchange ハイブリッド展開では、オンプレミスのユーザーのメールボックスが Exchange Server 2019、Exchange Server 2016、または Exchange Server 2013 (SP1 以降) に存在する場合にのみ、自動拡張アーカイブが、クラウドベースのアーカイブメールボックスに対してサポートされます。 詳細については、「[無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」を参照してください。
+ 無制限アーカイブ機能 (*自動拡張アーカイブ*と呼ばれる) には、アーカイブ メールボックスに追加の記憶域があります。 Exchange Online のアーカイブの各サブスクライバーは、最初にアーカイブメールボックスに 100 GB のストレージを受け取ります。 自動拡張アーカイブが有効になっている場合は、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 Exchange ハイブリッド展開では、オンプレミスのユーザーのメールボックスが Exchange Server 2019、Exchange Server 2016、または Exchange Server 2013 (SP1 以降) に存在する場合にのみ、自動拡張アーカイブが、クラウドベースのアーカイブメールボックスに対してサポートされます。 詳細については、「[無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」を参照してください。
   
 > [!IMPORTANT]
 > 管理者は、記憶領域のクォータを調整できません。<br/>

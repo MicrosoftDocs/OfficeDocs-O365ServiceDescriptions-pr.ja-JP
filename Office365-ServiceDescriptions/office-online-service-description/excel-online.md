@@ -1,8 +1,7 @@
 ---
 title: Web 用 Excel
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226226"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131421"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -39,7 +38,7 @@ Excel でサポートされているファイルの種類を確認するには�
 
 ## <a name="add-hyperlinks"></a>ハイパーリンクの追加
 
-セルにハイパーリンクを追加することによって、Web ページや Web 上のファイルにリンクします。セルに直接 Web アドレスを入力するか、または [ハイパーリンクの挿入] コマンドを使用することができます。
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>高度なデータ型: 株式および地理
 
@@ -47,7 +46,7 @@ Excel で株および地理データを取得することができます。 こ�
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-タイムライン コントロールでは、モデル化されたデータのフィルター処理を行うことができます。この機能を使用すると、連続した日付範囲の表示や変更、ピボットテーブルやピボットグラフなどのピボットベースのオブジェクトのフィルター処理を視覚的に行うことができます。  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>Alignment
 
@@ -71,11 +70,11 @@ Web 用 Excel は、セルに入力した内容を完了し、複数の値があ
   
 ## <a name="autosum"></a>AutoSum
 
-列または行の数値を合計するには、合計するセルを選択して [オート SUM] をダブルクリックします。結果は次の空白のセルに表示されます。
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>計算
 
-Excel を使用して、さまざまな自動、手動、反復計算を実行することができます。Excel では、これらの計算を実行するのに関数を使用します。詳細については、「[Excel 関数 (カテゴリ別)](https://go.microsoft.com/fwlink/?linkid=847459)」を参照してください
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>数式内のセル参照
 
@@ -138,7 +137,7 @@ Dropbox は、クラウド ストレージ、ファイルの同期、個人用�
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Web ページまたはブログページへのブックの埋め込み (OneDrive)
 
-OneDrive.com に Excel ブックを保存すると、ブログや Web サイトに直接 Excel ブックを埋め込むことができます。閲覧者はデータの並べ替え、フィルター処理、計算をその場で行うことができます。また、OneDrive のブックを更新すると、閲覧者がページを更新したときに最新の変更内容が表示されます。[ブログへの Excel ブックの埋め込み](https://go.microsoft.com/fwlink/p/?LinkId=271673)の詳細をご確認ください。
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>外部参照 (リンク)
 
@@ -172,7 +171,7 @@ Microsoft Excel デスクトップアプリには、3D 参照スタイルなど�
 
 編集表示でブラウザーのブックに表示できるものはすべて、閲覧表示でも表示できます。
   
-## <a name="functions"></a>関数
+## <a name="functions"></a>= (式) フィールドで使用できる関数
 
 [フィルター関数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)などの[動的配列数式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)で使用される関数を含む、web 用の excel の数式では、最大400の excel ワークシート関数を使用できます。
   
@@ -194,7 +193,7 @@ Excel のアイデアは、高度な視覚的な概要、傾向、パターン�
   
 ## <a name="insert-charts"></a>Insert charts
 
-グラフを作成してデータを視覚的に表現します。縦棒グラフ、折れ線グラフ、円グラフ、横棒グラフなどの各種グラフから選択できます。[利用可能なグラフの種類](https://go.microsoft.com/fwlink/p/?LinkId=273899)の詳細をご確認ください。
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -222,7 +221,7 @@ Excel では、web 用の excel で名前付き範囲を作成することはで
 
 ## <a name="number-formatting"></a>数値の書式
 
-数値の書式を変更します。書式の一覧での [通貨] や [短い日付形式] などの書式の選択、小数点以下の桁数の変更、または桁区切り記号の追加を行います。
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Office アドイン
 
@@ -254,7 +253,7 @@ Web 用 Excel の [印刷] コマンドを使用して、ワークシート全�
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
 
-2 人以上のユーザーが、Excel デスクトップ アプリの代わりに各自の Web ブラウザーを使用して、同時に同じスプレッドシートで作業することができます。リアルタイム プレゼンスを使用すれば、共同編集者が文書のどこを編集しているかを確認して編集中の競合を避けたり、彼らの変更箇所を表示したりできます。リアルタイム共同編集の詳細については、「[Excel ブックの共同編集を使用して同時に共同作業を行う](https://go.microsoft.com/fwlink/?linkid=850793)」を参照してください。
+Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>おすすめグラフの作成と書式設定を使用した編集
 
@@ -286,7 +285,7 @@ Web 用 Excel では使用できません。 お使いのコンピューター�
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-ブックを自分用にコピーする必要がある場合は、[ファイル] タブの [名前を付けて保存] コマンドを使用するか、またはブックのフォルダーでブック名を右クリックして [ダウンロード] コマンドを使用し、お使いのコンピューターにブックをダウンロードします。
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>秘密度ラベル
 

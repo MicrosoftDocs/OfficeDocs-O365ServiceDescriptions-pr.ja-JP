@@ -1,8 +1,7 @@
 ---
 title: プロジェクトの計画
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online では次のプロジェクト計画機能を使用できます。
-ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640205"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131101"
 ---
 # <a name="project-planning"></a>プロジェクトの計画
 
@@ -31,11 +30,11 @@ Project Online では次のプロジェクト計画機能を使用できます�
   
 ## <a name="budget-planning"></a>Budget planning
 
-予算計画では、現在の進行状況を、プロジェクトの開始時に設定した基準と比較できます。[達成額の分析](https://go.microsoft.com/fwlink/p/?LinkId=271336)について詳細情報を参照してください。
+Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>プロジェクト バージョンの比較
 
-プロジェクトの 2 つのバージョンを比較します。新しいタスクの追加などの変更部分を示すレポートが作成されます。
+Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
   
 ## <a name="deadlines"></a>期限
 
@@ -55,7 +54,7 @@ Project Online では次のプロジェクト計画機能を使用できます�
   
 ## <a name="reports"></a>レポート
 
-Project 2016 を使用すると、データを別のプログラムにエクスポートすることなく、鮮明でカラフルな、本格的なレポートを作成できます。 画像、グラフ、アニメーション、リンクなど、プロジェクトの&mdash;進捗情報を明確かつ効果的に関係者やチームメンバーと共有するために必要なすべての要素を追加します。 詳細について[は、「プロジェクトレポートの作成」を](https://go.microsoft.com/fwlink/p/?LinkId=271349)参照してください。
+Project 2016 を使用すると、データを別のプログラムにエクスポートすることなく、鮮明でカラフルな、本格的なレポートを作成できます。 画像、グラフ、アニメーション、リンクなど、プロジェクトの &mdash; 進捗情報を明確かつ効果的に関係者やチームメンバーと共有するために必要なすべての要素を追加します。 詳細について[は、「プロジェクトレポートの作成」を](https://go.microsoft.com/fwlink/p/?LinkId=271349)参照してください。
   
 ## <a name="team-planner"></a>チーム プランナー
 

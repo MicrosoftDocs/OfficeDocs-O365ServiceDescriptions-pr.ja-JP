@@ -1,8 +1,7 @@
 ---
 title: Yammer のサポート機能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer では次のサポート機能が利用可能です。
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688008"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132001"
 ---
 # <a name="support-features-in-yammer"></a>Yammer のサポート機能
 
 Yammer では次のサポート機能が利用可能です。
   
 > [!IMPORTANT]
-> Yammer では、外部ネットワーク、&mdash;ユーザー、メッセージ、グループ、ファイル&mdash;などの削除されたコンテンツを回復することはサポートされません。ネットワーク管理者によって誤って削除されたコンテンツが含まれます。
+> Yammer では、外部ネットワーク、ユーザー、メッセージ、グループ、ファイルなどの削除されたコンテンツを回復することはサポートされません &mdash; &mdash; 。ネットワーク管理者によって誤って削除されたコンテンツが含まれます。
 >
 > Microsoft では、Yammer で使用可能な分析機能以外の、カスタムまたはアドホック レポートを提供していません 。 Microsoft では、サポート要求の過程でカスタムレポートを提供することがありますが、ほとんどの場合、データに対する直接の要求に対応することはできません。
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer エンタープライズ の管理者はアカウントの保守を担当し、Microsoft サポート チームと直接連絡を取ることができます。サポートを必要としている Yammer エンタープライズ の管理者は、「[サポートへようこそ](https://go.microsoft.com/fwlink/p/?LinkId=330922)」を参照してください。
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>カスタマー サポート
 
@@ -42,7 +41,7 @@ Microsoft FastTrack サービスは、すべての手順でヘルプを提供す
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer プランのサポート機能
 
-組織のニーズに最適な Yammer プランをお探しですか？各プランで利用できるサポート機能を次の表でご確認ください。
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**機能**|**Yammer ベーシック**|**Yammer エンタープライズ**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ Microsoft FastTrack サービスは、すべての手順でヘルプを提供す
  
 ## <a name="technical-support-case-handling"></a>テクニカル サポート ケースの処理
 
-Microsoft サポートでは、テクニカル サポート ケースを開く際に、問題のタイプやお客様への影響を評価した上で、ケースに重大度レベルを割り当てます。次の表に、問題のタイプと重大度レベルの例を示します。 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**重大度レベル**|**説明**|**例**|
 |:-----|:-----|:-----|
@@ -62,7 +61,7 @@ Microsoft サポートでは、テクニカル サポート ケースを開く�
 
 ## <a name="technical-support-initial-response-times"></a>テクニカル サポートの初期応答時間
 
-初期応答時間は、上記の重大度レベルと Yammer サブスクリプションの種類に基づきます。目標応答時間を下の表に示します。
+Initial response times are based on the severity levels described above and the type of Yammer subscription. The target response times are shown in the following table.
   
 |**重大度レベル**|**Yammer ベーシック**|**Yammer エンタープライズ**|
 |:-----|:-----|:-----|

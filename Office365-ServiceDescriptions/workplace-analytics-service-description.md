@@ -1,7 +1,7 @@
 ---
 title: Workplace Analytics サービスの説明
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics は、組織のコミュニケーションとコラボレーションの傾向に関する豊富で実用的な洞察を提供し、より効果的なビジネス上の意思決定を行うのに役立ちます。
-ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640105"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132931"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics サービスの説明
 
@@ -46,6 +46,6 @@ Workplace Analytics は、データを保護するためにニーズとコンプ
 
 詳細については、「[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492)」を参照してください。 Workplace Analytics の使用方法の詳細については、「 [Workplace analytics のドキュメント](https://docs.microsoft.com/workplace-analytics/)」を参照してください。
   
-## <a name="licensing-requirements"></a>ライセンス要件
+## <a name="licensing-requirements"></a>ライセンスの要件
 
 Exchange Online プラン1またはプラン2は前提条件です。

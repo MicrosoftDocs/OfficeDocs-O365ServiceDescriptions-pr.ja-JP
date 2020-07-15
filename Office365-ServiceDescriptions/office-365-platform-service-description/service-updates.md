@@ -1,8 +1,7 @@
 ---
 title: サービス更新
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: リリース直後またはリリース予定の Office 365 機能については、「Microsoft 365 ロードマップ」を参照してください。
-ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044809"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131481"
 ---
 # <a name="service-updates"></a>サービス更新
 
 > [!NOTE]
-> このトピックは、21Vianet が運用している Office 365 には適用されません。サービスの更新についての詳細は、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照してください。 
+> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 リリースされたばかりの機能、またはリリース予定の機能については、「 [Microsoft 365 ロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。
   
 > [!NOTE]
-> アップデートおよびアップグレードは、地理、言語、データ センター、サブスクリプションなど、多くの要因に基づいてカスタマーに公開されます。したがって、既存のカスタマーが、すべてのアップデートやアップグレード機能を直ちに使用できるわけではありません。 
+> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
   
 ## <a name="targeted-release"></a>対象となるリリース
 

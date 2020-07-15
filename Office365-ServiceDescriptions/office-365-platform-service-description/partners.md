@@ -1,8 +1,7 @@
 ---
 title: パートナー
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,35 +10,35 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
-description: Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
-ms.openlocfilehash: d9c907fc214e992d7ab30ed5a77452c2c0b5053e
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: As an authorized Microsoft partner, Microsoft Office 365 offers you an opportunity to grow your customer base and create lasting relationships with them. For a monthly or annual fee paid to you, your customers can use cloud-based services so they don't have to manage data backups, server hardware, and server updates. The services available to you depend on the types of services you are authorized to provide.
+ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044969"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131691"
 ---
 # <a name="partners"></a>パートナー
 
 > [!NOTE]
 > 次に記載されているパートナー機能は、21Vianet が運用している Office 365 で使用可能です。 
   
-Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
+As an authorized Microsoft partner, Microsoft Office 365 offers you an opportunity to grow your customer base and create lasting relationships with them. For a monthly or annual fee paid to you, your customers can use cloud-based services so they don't have to manage data backups, server hardware, and server updates. The services available to you depend on the types of services you are authorized to provide.
   
 > [!NOTE]
-> パートナー機能の使用方法の詳細については、「[パートナー: ビジネスを構築して Office 365 パートナー サブスクリプションを管理する](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)」を参照して、パートナー機能の説明を確認してください。パートナー機能へのアクセス許可を得るには、[Microsoft オンライン サービス パートナー契約書](https://go.microsoft.com/fwlink/p/?LinkId=285473) に署名して Cloud Essentials に登録してください。 
+> For more information on how to use partner features, see [Build your business and administer your Office 365 partner subscription](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) and review the partner features presentation. To receive access to the partner features, you can join Cloud Essentials by signing the [Microsoft Online Services Partner Agreement](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>試用版への招待および発注書の作成
 
-試用版への招待を作成してカスタマーに送信し、Office 365 の **[パートナーの概要]** ページを使用して Office 365 を試用できるようにします。招待には申し出に応じて 1 つまたは複数のサービスを含めることができます。代理管理の提供が認められている場合には、試用版への招待にオプションを追加し、カスタマーの代理としてアカウントを管理することができます。これによりカスタマーがOffice 365 を試用しやすくなります。 
+You can create and send trial invitations to your customers so they can try Office 365 by using the **Partner overview** page in Office 365. The invitation can contain one or more services, depending on the offer. If you're certified to offer delegated administration, you can add an option to the trial invitation that allows you to administer the account on behalf of your customer. This makes it easier for your customer to try Office 365. 
   
-カスタマーに Office 365 の試用版への招待を送信した後、特定のサービスやカスタマーに必要なライセンス数などを含め、カスタマーのニーズに合うようにカスタマイズした購入プランを作成、送信してフォローアップをすることができます。代理管理の提供が認められている場合には、購入プランにオプションを追加し、カスタマーの代理としてアカウントを管理することができます。
+After you've sent a trial invitation for Office 365 to a customer, you can follow up by creating and sending a purchase offer that's customized to fit the needs of your customer including the specific services and the number of licenses your customer needs. If you're certified to offer delegated administration, you can add the option to the purchase offer that allows you to administer the account on behalf of your customer.
   
 ## <a name="provide-delegated-administration"></a>代理管理の提供
 
-代理管理を使用すると、パートナーはカスタマーのサービスやサブスクリプションすべてに完全な管理者アクセス権限を持つことができます。つまり、カスタマーの代理として管理タスクを実行することができます (メールボックスの設定、ユーザーおよびグループの追加または削除、Microsoft カスタマー サービス サポートへのサービス要求の送信を含みます)。代理管理機能は、Cloud Essentials、Cloud Accelerate、または Cloud Deployment プログラムに登録されているパートナーのみに提供されます。
+Delegated administration allows a partner to have full administrative access to all the customer's services and subscriptions. This means you can perform administrative tasks on behalf of customers (including setting up mailboxes, adding or removing users and groups, data migration, and submitting service requests to Microsoft Customer Service and Support). Delegated administration capability is offered exclusively for partners who are enrolled in Cloud Essentials, Cloud Accelerate or the Cloud Deployment programs.
   
-カスタマーのアカウント管理を開始する前に、カスタマーが代理管理者として承認する必要があります。カスタマーの承認を得るには、代理管理のオファーをカスタマーに送信します。このオファーは試用版への招待または購入プランに含むことができます。カスタマーはパートナーの招待用電子メールに返信することにより、代理管理パートナーを承認します。
+Before you can start administering a customer's account, the customer must authorize you as a delegated administrator. To get customer approval, you send them an offer for delegated administration, which you can include with a trial invitation or purchase offer. The customer authorizes a Delegated Administration partner by responding to the partner's invitational email.
   
 各お客様には、1人の委任された管理パートナーを付与する資格があります。 このパートナーはカスタマーの登録パートナー (POR) にすることもできますが、必須ではありません。 登録パートナーと代理管理パートナーの役割は分離されており、カスタマーはそれぞれを別に指定します。 これにより、カスタマーは購入のアドバイスを得るためにあるパートナーを選択し、実装や管理されたサービスのために別のパートナーを選択することができます。 また、パートナーもこれらの役割の一方または両方を専門としてビジネスを構築するかどうかを選択することができます。
   
@@ -47,9 +46,9 @@ Microsoft Office 365 は正規の Microsoft パートナーとして、カスタ
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Office 365 Marketplace でのカスタマーや他のパートナーとの結びつき
 
-Office 365 Marketplace は、カスタマーがパートナー サービスや専門家の助言を求める機会を提供します。詳細については、「[Office 365 Marketplace に登録する](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)」を参照してください。
+The Office 365 Marketplace offers customers the opportunity to find partner services and expertise. For more information, see [Get listed in the Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-マイクロソフト パートナー ネットワークはパートナーのニーズに応えることに取り組んでいます。マイクロソフト パートナー ネットワークに参加する、また Microsoft のパートナーへのサービスについて知るためには、「[マイクロソフト パートナー ネットワーク](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)」を参照してください。
+The Microsoft Partner Network is committed to serving the needs of our partners. To join the network, and to see how Microsoft serves its partners, see [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>機能の可用性
 

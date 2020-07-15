@@ -1,8 +1,7 @@
 ---
 title: Exchange Online のセットアップと管理
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: この記事では、Exchange Online の設定をカスタマイズし、組織の Exchange Online 環境を常に最新の状態にし、最新の状態に保つために使用できる管理制御とサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
-ms.openlocfilehash: 53179b3526a53333583c8265a501c743658348cd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 19ec50b3f502ee111de05e1a115d17f16fec3569
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640335"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133002"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
@@ -49,28 +48,28 @@ Microsoft 365 管理センターは、各企業のサービス管理者が、購
   
 ### <a name="exchange-admin-center"></a>Exchange 管理センター
 
-Exchange Online には、使いやすく、社内、オンライン、またはハイブリッド展開の管理用に最適化された、統合管理コンソールがあります。Exchange 管理センター (EAC) では、管理者が Exchange に固有の設定を管理することができます。
+Exchange Online provides a single unified management console that allows for ease of use and is optimized for management of on-premises, online, or hybrid deployments. The Exchange admin center (EAC) is where administrators can manage Exchange-specific settings.
   
 EAC を使用して Exchange Online を管理する方法の詳細については、「[Exchange Online の Exchange 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=271807)」を参照してください。
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online 用リモート Windows PowerShell
 
-リモート Windows PowerShell を使用することにより、管理者は Exchange Online にアクセスして、EAC では使用不可であったり実用的ではない管理タスクを実行できます。これらは、繰り返しタスクの自動化、カスタム レポートからのデータ抽出、ポリシーのカスタマイズ、既存インフラストラクチャおよびプロセスへの Exchange Online の接続などの機能です。詳細については、「[リモート PowerShell による Exchange への接続](https://go.microsoft.com/fwlink/p/?LinkId=308994)」を参照してください。
+Using remote Windows PowerShell, administrators can connect to Exchange Online to perform management tasks that are not available or practical using the EAC. These include the ability to automate repetitive tasks, extract data for custom reports, customize policies, and connect Exchange Online to existing infrastructure and processes. For more information, see [Connect to Exchange Online Using Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
   
-Exchange Online は Exchange Server 2013 と同じ Windows PowerShell コマンドレットを使用しますが、一部のコマンドとパラメーターは Exchange Online には該当しない機能となるため、使用できません。Exchange Online で使用するコマンドレットの一覧については、「[Exchange Online コマンドレット](https://go.microsoft.com/fwlink/p/?LinkId=271808)」を参照してください。
+Exchange Online uses the same Windows PowerShell cmdlets as Exchange Server 2013, with certain commands and parameters unavailable because these features do not apply in Exchange Online. For a list of cmdlets for use with Exchange Online, see [Exchange Online cmdlets](https://go.microsoft.com/fwlink/p/?LinkId=271808).
   
-管理者はリモート Windows PowerShell を使用するのに、Exchange Server 管理ツールまたは移行ツールをインストールする必要はありません。ただし、管理者のコンピューターは Windows PowerShell v3 と WinRM 3.0 を含む Windows Management Framework 3.0 と Windows .NET Framework 4.5 を実行している必要があります。これらのコンポーネントは、Windows 8 または Windows Server 2012 を実行しているコンピューターにはすでにインストールされています。管理者は Windows 7 または Windows Server 2008 R2 を実行しているコンピューター用にこれらのコンポーネントを手動でダウンロードできます。
+Administrators do not need to install any Exchange Server management or migration tools to use remote Windows PowerShell. However, administrators' computers must be running the Windows Management Framework 3.0, which contains Windows PowerShell v3 and WinRM 3.0; and Windows .NET Framework 4.5. These components are already installed on computers running Windows 8 or Windows Server 2012. Administrators can manually download these components for computers that are running Windows 7 or Windows Server 2008 R2.
   
 > [!IMPORTANT]
 > サービス拒否 (DoS) 攻撃を防止するため、Exchange Online 組織に対して開かれる Windows PowerShell 接続は 3 つに制限されています。 
   
 ## <a name="self-service-capabilities-for-exchange-online"></a>Exchange Online のセルフ サービス機能
 
-EAC、リモート Windows PowerShell、およびその他のツールを使用して、Exchange Online を管理する場合に使用可能な重要な機能を以下に挙げます。これらのツールにより、その他の多くの設定も制御可能です (本稿で説明します)。
+Below are important capabilities that are available for managing Exchange Online by using the EAC, remote Windows PowerShell, and other tools. Many other settings can also be controlled with these tools, as described throughout this document.
   
 ### <a name="mobile-device-security-policies-for-exchange-online"></a>Exchange Online でのモバイル デバイスのセキュリティ ポリシー
 
-Exchange Online では、モバイル デバイス用に Exchange Server 2013 と同じ ActiveSync ポリシーがサポートされます。管理者は、EAC またはリモート Windows PowerShell を使用して、特定のユーザーおよびグループ用にこれらのセキュリティ ポリシーを適用またはカスタマイズできます。
+Exchange Online supports the same ActiveSync policies for mobile devices as Exchange Server 2013. Administrators can enforce and customize these security policies for specific users and groups by using the EAC or remote Windows PowerShell.
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online でのメッセージ追跡
 
@@ -78,7 +77,7 @@ Exchange Online では、モバイル デバイス用に Exchange Server 2013 �
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online の利用状況レポート
 
-管理者はリモート Windows PowerShell を使用して、組織内のユーザーが Exchange Online サービスをどのように使用するのかに関する情報を取得できます。取得可能な情報を以下に挙げます。
+Administrators can use remote Windows PowerShell to retrieve information about how people in their organizations use the Exchange Online service. Available information includes:
   
 - 組織内の各ユーザーのメールボックス サイズを表示する。
     
@@ -86,7 +85,7 @@ Exchange Online では、モバイル デバイス用に Exchange Server 2013 �
     
 - モバイル データ アクセスに関するデータを抽出する (どのユーザーが Exchange ActiveSync 経由で接続しているか、ユーザーはどのデバイスを使用しているか、ユーザーの最終接続日時等)。
     
-"get-" で始まるリモート Windows PowerShell コマンドレットは、Exchange Online システムからデータを取得できます。管理者はさらに、分析したりレポートを作成するため、Windows PowerShell から .csv 形式でこの情報をエクスポートできます。
+Remote Windows PowerShell cmdlets that start with "get-" can fetch data from the Exchange Online system. Administrators can export this information from Windows PowerShell in .csv format for advanced analysis or reporting.
   
 Exchange Online で使用する Windows PowerShell コマンドレットの詳細については、「[Exchange Online コマンドレット](https://go.microsoft.com/fwlink/p/?LinkId=271808)」を参照してください。
   
@@ -96,7 +95,7 @@ Exchange Online で使用する Windows PowerShell コマンドレットの詳�
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online でのサービスおよび製品のアップグレード
 
-Exchange Server の新しいリリースを含め、最新の Exchange テクノロジへの定期的なアップグレードは、Exchange Online のカスタマーにとって有益です。これらのアップグレードは追加料金なしで利用することができ、カスタマーは常に最新の Exchange ソフトウェアを使用できます。
+Exchange Online customers benefit from periodic upgrades to the latest Exchange technology, including new releases of Exchange Server. These upgrades are made available at no additional charge, and ensure that customers are always using the latest Exchange software.
   
 Exchange の主要なバージョンが Microsoft からリリースされた後、カスタマーは最長 12 ヶ月までサービスを最新リリースにアップグレードすることができます。
   

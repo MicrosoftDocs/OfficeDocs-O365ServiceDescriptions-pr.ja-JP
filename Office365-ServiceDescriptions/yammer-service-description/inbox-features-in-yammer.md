@@ -1,8 +1,7 @@
 ---
 title: Yammer の受信トレイ機能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Yammer では次の受信トレイ機能が利用可能です。
-ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e8cf9c963a00166910bc34e2f2cfc0e19d6575d1
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640045"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133051"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer の受信トレイ機能
 
 Yammer では次の受信トレイ機能が利用可能です。
   
-## <a name="inbox"></a>Inbox
+## <a name="inbox"></a>受信トレイ
 
 受信トレイは、@mentions、グループアナウンス、会話、およびプライベートメッセージを自動的に集約して、応答の優先順位を簡単に設定できるようにします。
   

@@ -1,20 +1,19 @@
 ---
 title: 米国政府機関向けの Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、「Exchange Online サービスの説明」に記載されている米国政府機関クラウドと商用クラウドの機能の違いの概要について説明します。
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213699"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131931"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>米国政府機関向けの Exchange Online
 
@@ -75,7 +74,7 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 |検疫 - 管理者による管理|はい|はい|はい||
 |検疫 - エンドユーザーによる自己管理|はい|はい|はい||
 |Advanced Threat Protection|はい|はい|はい|G5 Service プラン (またはアドオンの購入) が必要です。<br><br>ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスのフィッシング対策は、GCC High および DoD ではまだ利用できません。|
-|**[メール フロー](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
+|**[メールフロー](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
 |送信メールのカスタムルーティング|はい|はい|はい||
 |Secure messaging with a trusted partner|はい|はい|はい||
 |Conditional mail routing|はい|はい|はい||
@@ -117,7 +116,7 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 |Outlook for Mac|はい|はい|はい|GCC の高および米国のコンプライアンス要件を満たすには、少なくともバージョン1803の Office 365 ProPlus を実行している必要があります。 Office 365 ProPlus は、G1 または F3 に含まれていません。|
 |iOS および Android 用の Outlook|はい|はい|はい||
 |Exchange ActiveSync|はい|はい|はい||
-|Office 365 のモバイル デバイス管理|はい|はい|はい||
+|Microsoft 365 の基本的なモビリティとセキュリティ|はい|はい|はい||
 |POP と IMAP|はい|はい|はい||
 |SMTP|はい|はい|はい||
 |EWS アプリケーションのサポート|はい|はい|はい||

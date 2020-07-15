@@ -1,8 +1,7 @@
 ---
 title: Web 用 PowerPoint
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft 365 のお客様は、web 用 Office を使用して、移動中のファイルを表示、作成、および編集できます。
-ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640285"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131321"
 ---
 # <a name="powerpoint-for-the-web"></a>Web 用 PowerPoint
 
@@ -89,7 +88,7 @@ Web 用の PowerPoint では、プレゼンテーションを web サイトや�
   
 ## <a name="full-fidelity-reading-view"></a>忠実な閲覧表示
 
-アニメーション、画面切り替え、および音声/ビデオ&mdash;を表示する目的でプレゼンテーションを表示します。
+&mdash;アニメーション、画面切り替え、および音声/ビデオを表示する目的でプレゼンテーションを表示します。
   
 ## <a name="full-ink-support"></a>インクの完全サポート
 
@@ -125,7 +124,7 @@ Web 用の PowerPoint は web ブラウザーから起動され、インター�
   
 ## <a name="picture-cropping"></a>図のトリミング
 
-トリミング ツールを使用して、画像の対象のフレーミングを改善します。画像の端のトリミング ハンドルのいずれかをクリックし、希望する画像になるまでドラッグします。
+Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
   
 ## <a name="pictures"></a>ピクチャ
 
@@ -173,7 +172,7 @@ Web 用の PowerPoint に Word のアートとグラフを挿入することは�
   
 ## <a name="share"></a>共有
 
-プレゼンテーションが SharePoint ドキュメント ライブラリに保存されている場合は、プレゼンテーションはオンライン上にあるため、電子メールの添付ファイルではなくリンクを送信することによってプレゼンテーションを共有できます。適切なアクセス許可を持つ閲覧者は、Web ブラウザーやモバイル デバイスでプレゼンテーションを表示することができます。[プレゼンテーションの共有](https://go.microsoft.com/fwlink/?LinkId=272776)について詳細情報を参照してください。
+If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>スライド ショー
 

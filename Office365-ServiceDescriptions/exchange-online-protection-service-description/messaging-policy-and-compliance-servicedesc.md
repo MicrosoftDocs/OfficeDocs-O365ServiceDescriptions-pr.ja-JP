@@ -1,8 +1,7 @@
 ---
 title: メッセージングのポリシーと準拠
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640165"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132791"
 ---
 # <a name="messaging-policy-and-compliance"></a>メッセージング ポリシーとコンプライアンス
 
@@ -56,7 +55,7 @@ EAC で DLP ポリシーを構成することにより、次のことが可能�
 - インシデント レポートの生成アクションを使用して、DLP レポートでのインシデント データの確認や独自のレポートの追加を行うことができます。
 
 > [!NOTE]
-> DLP ポリシーは、組織と外部との間で送受信されるメールにのみ適用されます。社内で Exchange Server 2013 と DLP を実行していない場合、組織内 (内部) メールに DLP ポリシーは適用されません。このことは、許可されていない受信者に機密データを誤って送信する前に、潜在的なポリシー違反をユーザーに通知する DLP ポリシー ヒントにも当てはまります。
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 DLP の詳細については、「 [Exchange Online でのデータ損失防止](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)」を参照してください。
 
@@ -66,7 +65,7 @@ Office 365 Message Encryption は、Azure Information Protection の一部で、
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP オプション間のメッセージング ポリシーとコンプライアンス機能
 
-|**機能**|**EOP スタンドアロン**|**Exchange Online の<br/> EOP 機能**|**Exchange Enterprise <br/> CAL とサービス**|
+|**機能**|**EOP スタンドアロン**|**Exchange Online の EOP 機能 <br/>**|**Exchange Enterprise <br/> CAL とサービス**|
 |:-----|:-----|:-----|:-----|
 |メール フロー ルール|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1、3</sup>|
 |監査ログ|はい<sup>2</sup>|はい|はい|

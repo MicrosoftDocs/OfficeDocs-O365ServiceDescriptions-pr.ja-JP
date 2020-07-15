@@ -1,8 +1,7 @@
 ---
 title: Yammer のメッセージ機能と会話機能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer では次のメッセージおよび会話機能を使用できます。
-ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640035"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133041"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージ機能と会話機能
 
@@ -37,7 +36,7 @@ Yammer の web サポート用 Office を使用すると、yammer にアップ�
 
 ## <a name="online-now"></a>今すぐオンライン
 
-だれがオンラインかが分かり、1 人または複数の同僚とプライベートな議論を即時に開始できます。連絡先リストは、多くやりとりをする人の順に自動的に並べ替えられます。
+See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
 
 ## <a name="polls"></a>投票
 

@@ -1,8 +1,7 @@
 ---
 title: ドメイン
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: ドメインを追加すると、ユーザーを追加したり、電子メールアドレスやその他のサービスをビジネス名に変換したりするためのステップバイステップウィザードを使用できます。 ウィザードを完了すると、現在のメールプロバイダーに移動するのではなく、会社のメールが Microsoft に届くようになります。 詳細については、「ユーザーとドメインを Microsoft に追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044829"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132401"
 ---
 # <a name="domains"></a>ドメイン
 

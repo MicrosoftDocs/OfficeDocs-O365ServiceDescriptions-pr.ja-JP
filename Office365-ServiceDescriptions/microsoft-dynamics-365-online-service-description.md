@@ -1,8 +1,7 @@
 ---
 title: Microsoft Dynamics 365 (オンライン) サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: Dynamics 365 用の2016年12月の更新プログラム (オンラインとオンプレミス) の時点で、dynamics CRM 機能が、インテリジェントビジネスアプリケーションのセットである Dynamics 365 の一部として含まれるようになりました。 Dynamics 365 は、特定のビジネス機能を管理するための新しいアプリケーションを提供することによって、顧客関係管理 (CRM) とエンタープライズリソース計画 (ERP) の機能を統合しています。
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213919"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132451"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (オンライン) サービスの説明
 

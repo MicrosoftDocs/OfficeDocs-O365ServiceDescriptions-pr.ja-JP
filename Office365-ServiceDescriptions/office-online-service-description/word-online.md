@@ -1,8 +1,7 @@
 ---
 title: Web 用 Word
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
-ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640215"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131301"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 
@@ -43,7 +42,7 @@ Word では、変更を加えたときに文書が自動的に保存されます
   
 ## <a name="autotext"></a>AutoText
 
-定型句ギャラリーからの定型句を使用して、書式設定済みのテキストのブロックを挿入することができます。これは、たとえば、同じ内容の大きなテキスト ブロックを繰り返し入力する必要があり、そのテキストに書式設定がたくさん含まれている場合に便利です。選択したテキストを定型句ギャラリーに追加することにより、定型句エントリを作成できます。詳細については、「[テキストを自動的に挿入する](https://go.microsoft.com/fwlink/?linkid=846739)」を参照してください。
+You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>プロがデザインしたテンプレートの参照と利用
 
@@ -71,11 +70,11 @@ Web 用 Word では使用できません。 変更履歴や文書の結合、比
   
 ## <a name="content-controls"></a>コンテンツ コントロール
 
-コンテンツ コントロールとは、テンプレート、フォーム、文書内で使用するために追加、カスタマイズすることができる個々のコントロールです。コンテンツ コントロールの詳細については、「[コンテンツ コントロールのプロパティを設定または変更する](https://go.microsoft.com/fwlink/p/?LinkId=846741)」を参照してください。
+Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
   
 ## <a name="cover-pages"></a>送付状
 
-Microsoft Word では、便利なデザイン済み送付状のギャラリーを提供しています。送付状を選択し、サンプル テキストを自分のテキストに置換すればよいだけです。
+Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
   
 ## <a name="creation-of-advanced-document-elements"></a>高度な文書要素の作成
 
@@ -87,7 +86,7 @@ Web 用 Word では使用できません。 コンテンツ コントロール�
   
 ## <a name="document-translation"></a>ドキュメントの翻訳
 
-ブラウザー上で直接ドキュメントを翻訳します。これにより、ドキュメントのコメントも翻訳されます。
+Translate documents directly in the browser. Even document comments are translated.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -103,7 +102,7 @@ Web および Word デスクトップアプリの両方の Word で検索と置�
   
 ## <a name="font-formatting"></a>フォントの書式設定
 
-Web 用の Word では、フォント、フォントサイズ、およびいくつかのフォント書式設定&mdash;属性 (太字、斜体、下線、上付き文字など) を適用できます。 テキストの強調表示やフォント色の変更を行い、選択したテキストの書式設定をオフにすることもできます。 Word では、文書のテーマの書式設定を使用して、web でテキストを書式設定できます。 フォント ギャラリー上部でアクティブなテーマのフォントを確認し、フォントの色のギャラリーでテーマの色を確認します。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Web 用の Word では、フォント、フォントサイズ、およびいくつかのフォント書式設定属性 ( &mdash; 太字、斜体、下線、上付き文字など) を適用できます。 テキストの強調表示やフォント色の変更を行い、選択したテキストの書式設定をオフにすることもできます。 Word では、文書のテーマの書式設定を使用して、web でテキストを書式設定できます。 フォント ギャラリー上部でアクティブなテーマのフォントを確認し、フォントの色のギャラリーでテーマの色を確認します。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="footnotes-and-endnotes"></a>脚注と文末脚注
 
@@ -127,7 +126,7 @@ Web 用の Word では、ドキュメント内のブックマークへのリン�
   
 ## <a name="index"></a>インデックス
 
-索引には、文書内で扱われている用語やトピックと、それらが出現するページが一覧表示されます。索引を作成するには、メイン項目の名前と文書内での相互参照を指定することによって索引項目をマークしてから、索引を作成します。
+An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
   
 ## <a name="ink-editor"></a>インク エディター
 
@@ -185,7 +184,7 @@ Web 用の Word では、画像のサイズを変更したり、代替テキス�
   
 ## <a name="preformatted-font-and-color-schemes"></a>書式設定済みのフォントと配色
 
-テーマを使用することにより、状況に合った、プロフェッショナルなデザインの文書を作成するプロセスを簡略化することができます。テーマは表、グラフ、図形、図に適用でき、それにより統一感のあるフォント、効果、配色を提供することができます。
+You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
   
 ## <a name="present-online"></a>オンライン プレゼンテーション
 
@@ -213,7 +212,7 @@ Web 用 Word では使用できません。 スペル チェック辞書への�
   
 ## <a name="reference-tools"></a>参照ツール
 
-表示モードの場合、資料文献、目次、および索引機能は文書内に期待どおりに表示されます。編集モードの場合、これらはプレースホルダーとして表示され、削除することはできますが、編集や更新を行うことはできません。資料文献、目次、索引、引用文献一覧などの高度な参照ツールは、Word デスクトップ アプリのみで利用できます。
+Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
   
 ## <a name="rendering-of-text-boxesshapes"></a>テキスト ボックス/図形のレンダリング
 
@@ -221,7 +220,7 @@ Web 用 Word では使用できません。 スペル チェック辞書への�
   
 ## <a name="researcher"></a>リサーチ ツール
 
-リサーチ ツールにより、信頼性の高いソースとコンテンツを見つけてドキュメントに組み込むことができます。リサーチ ツールは、Bing を使用して Web から適切なコンテンツを取得します。詳細については、「[Word 内で論文のためのリサーチを簡単に実行する](https://go.microsoft.com/fwlink/?linkid=839490)」を参照してください。
+Researcher helps you find and incorporate reliable sources and content for your document. Researcher uses Bing to pull in the appropriate content from the web. For more information, see [Research for your paper easily within Word](https://go.microsoft.com/fwlink/?linkid=839490).
   
 ## <a name="rich-media"></a>リッチ メディア
 
@@ -261,7 +260,7 @@ Web 用 Word では使用できません。 既存の引用文献一覧を表示
   
 ## <a name="tap"></a>タップ
 
-タップ機能を使用して、コンテンツを検索して再利用します。タップすると、最も頻繁に利用する関連ファイルが提示されるので、ファイルや情報の検索よりもドキュメントの作成に集中することが可能になります。詳細については、「[Word を開いたまま、必要に応じて目的のコンテンツを検索し、再利用する](https://go.microsoft.com/fwlink/?linkid=825878)」を参照してください。
+Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
   
 ## <a name="tell-me"></a>操作アシスト
 
@@ -285,7 +284,7 @@ Web 用の Word では、編集モードでコメントを挿入、編集、ま�
   
 ## <a name="watermarks"></a>透かし
 
-透かしは、ドキュメント内のテキストの背後に配置されたテキストまたは画像であり、たとえば、下書きや秘密情報などのテキスト透かしを加えることができます。Word には、透かしのギャラリーが用意されているので、そこから選択することも、自分の文書用に、会社ロゴなどの自分専用のカスタム透かしを作成することもできます。  
+Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
   
 ## <a name="word-count"></a>文字カウント
 

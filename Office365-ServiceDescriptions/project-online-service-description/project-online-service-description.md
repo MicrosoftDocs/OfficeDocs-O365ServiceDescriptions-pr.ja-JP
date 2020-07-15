@@ -1,8 +1,7 @@
 ---
 title: Microsoft Project サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクトポートフォリオ管理 (PPM) および日常業務用の柔軟なオンラインソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820615"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131161"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -188,7 +187,7 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 |ユーザーの管理 | プロジェクト、チーム、および組織レベルでユーザーとグループの役割とアクセス許可を管理します。 | いいえ | はい |
 |サービス管理 | Office 365<sup>1</sup>環境の一部としての Microsoft Project 環境の計画、インストール、構成、管理、拡張を行います。  | いいえ | はい |
 
-#### <a name="notes"></a>メモ
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> Office または Microsoft 365 商用サブスクリプションが必要です。</br>
 <sup>2</sup>個別に購入した Azure ボード。</br>
@@ -279,14 +278,14 @@ Web 用のプロジェクトにはいくつかの制限があります。次の�
 
 |Entity/field | 極限 |
 |-------------|-------|
-|**Task** ||
+|**タスク** ||
 |最大 タスクの階層レベル | 10レベル |
 |最大 タスクのリンク (後続 + 先行タスク) | 1280 |
 |最大 リーフタスクの期間 | 1250日 |
 |最大 サマリータスクの期間 | 3650日 (10 年) |
 |最大 タスクに割り当てることができるリソース | 20リソース |
 |タスクのサポートされている日付範囲 | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**プロジェクト** ||
 |最大 プロジェクトのタスクの合計 | 500 |
 |最大 プロジェクトの合計時間 | 3650日 (10 年) |
 |最大 プロジェクトの総リソース | 150 |

@@ -1,8 +1,7 @@
 ---
 title: 共有とコラボレーション
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8e5ce6ce41f206c5736241340c393833ae78fea7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638895"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132591"
 ---
 # <a name="sharing-and-collaboration"></a>共有とコラボレーション
 
@@ -35,9 +34,9 @@ Office 365 テナントの作成時に、Microsoft Federation Gateway でフェ�
   
 ## <a name="site-mailboxes"></a>サイト メールボックス
 
-電子メールとドキュメントは、従来から 2 つの固有で別個のデータ リポジトリに保持されています。チームの多くは、電子メールとドキュメントの両方を使用して共同作業します。課題は、電子メールとドキュメントが異なるクライアントでアクセスされることです。そのため、通常は、ユーザーの生産性が低下し、ユーザー エクスペリエンスの質が低下します。
+Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
   
-課題は、電子メールとドキュメントが異なるクライアントでアクセスされることです。 そのため、通常は、ユーザーの生産性が低下し、ユーザー エクスペリエンスの質が低下します。 サイト メールボックスは、この問題を解消しようとする Exchange 2013 の新しいコンセプトです。サイト メールボックスでは、同じクライアント インターフェイスを使用して Microsoft SharePoint 2013 ドキュメントと Exchange 電子メールの両方にアクセスできるようにすることで、コラボレーションとユーザーの生産性を向上します。サイト メールボックスの機能は、SharePoint 2013 サイト メンバーシップ (所有者とメンバー)、共有ストレージ (電子メール メッセージのための Exchange 2013 メールボックスとドキュメントのための SharePoint 2013 サイト)、およびプロビジョニングとライフサイクル ニーズに対応する管理インターフェイスから構成されます。
+The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
   
 > [!IMPORTANT]
 > プランには、SharePoint を含める必要があります。 サイト メールボックスの機能は、SharePoint 2013 サイト メンバーシップ (所有者とメンバー)、共有ストレージ (電子メール メッセージのための Exchange 2013 メールボックスとドキュメントのための SharePoint 2013 サイト)、およびプロビジョニングとライフサイクル ニーズに対応する管理インターフェイスから構成されます。 

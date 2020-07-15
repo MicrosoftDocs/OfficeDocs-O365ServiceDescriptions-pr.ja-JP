@@ -1,8 +1,7 @@
 ---
 title: Skype for Business Online の制限
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online の制限は、次のカテゴリに分類されます。
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639705"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131021"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -39,7 +38,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 ## <a name="peer-to-peer-limits"></a>ピアツーピア制限
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **ファイル転送制限**Skype for Business Online IM 会話で転送できるファイルの最大サイズ。ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](https://go.microsoft.com/fwlink/?LinkId=398280)」を参照してください。
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **開かれたタブ付き会話数の制限** Skype for Business ユーザーが同時に開くことのできる会話タブの最大数。 
     
@@ -53,7 +52,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |該当なし  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> クライアントは、手動でユーザーを追加するか、グループまたは配信リストのコンテキスト メニューからインスタント メッセージを送信することにより、99 人までのユーザーとのチャットを開始することができます。Skype for Business Online のインスタント メッセージングについては、「 [Skype for Business で IM を送信する](https://go.microsoft.com/fwlink/?linkid=533412)」を参照してください。 
+> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>スタンドアロンの各オプションでのピアツーピア制限
 
@@ -65,7 +64,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> クライアントは、手動でユーザーを追加するか、グループまたは配信リストのコンテキスト メニューからインスタント メッセージを送信することにより、99 人までのユーザーとのチャットを開始することができます。Skype for Business Online のインスタント メッセージングについては、「 [Skype for Business で IM を送信する](https://go.microsoft.com/fwlink/?linkid=533412)」を参照してください。 
+> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>会議の制限
 
@@ -95,7 +94,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |チーム呼び出しグループ内の個人  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |該当なし  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Skype for Business 会議の参加者数が 75 人を超える場合は、会議の参加者名簿の参加者リスト (司会者と出席者) が省略されて、個々の出席者に司会者と出席者自身の名前のみが表示されるようにします。会議の司会者には、完全な参加者リストが表示されます。また、ギャラリー ビューと IM エラーは出席者には表示されません。 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>スタンドアロンの各オプションでの会議の制限
 

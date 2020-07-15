@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Education
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045059"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132411"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。 
   
-Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。 次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。 ビジネスおよびエンタープライズの各プランの機能を比較するには、「 [microsoft 365 for business プランを比較](https://go.microsoft.com/fwlink/?linkid=799177)する」または「 [Microsoft 365 および Office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の関連するサービスの説明を参照してください。 サポート記事および情報を検索するには、「 [Office のヘルプ&amp;トレーニング](https://support.office.com/)」を参照してください。
+Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。 次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。 ビジネスおよびエンタープライズの各プランの機能を比較するには、「 [microsoft 365 for business プランを比較](https://go.microsoft.com/fwlink/?linkid=799177)する」または「 [Microsoft 365 および Office 365 サービス](../office-365-service-descriptions-technet-library.md)の説明」の関連するサービスの説明を参照してください。 サポート記事および情報を検索するには、「 [Office のヘルプ &amp; トレーニング](https://support.office.com/)」を参照してください。
   
 ## <a name="services-and-features"></a>サービスと機能
 

@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 Business Premium サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能によってクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: 8760788fe6fd0b8a66f9379f56b569239b18c142
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: fbeae5678143d78138b71fe842c40a9969951531
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214029"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132561"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium サービスの説明
 
@@ -105,7 +104,7 @@ Microsoft 365 Business Premium には、基本的に Microsoft 365 Business Stan
 |フォルダーをランサムウェアなどの脅威から保護する <br/> |はい  <br/> |
 |Bitlocker を使用した不正アクセスから PC のファイルとフォルダーを保護する <br/> |はい  <br/> |
 
-### <a name="notes"></a>備考
+### <a name="notes"></a>Notes
 <sup>1</sup> Exchange Online プラン 1 が含まれます。<br/>
 <sup>2</sup> Azure information PROTECTION (AIP) は、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にします。 AIP プラン1は、Microsoft 365 Business Premium に含まれています。 <br/>
 <sup>3</sup> Microsoft 365 Business Premium には、Exchange Online アーカイブサブスクリプションが含まれています。 各 Exchange Online Archiving サブスクライバーは、最初にアーカイブ メールボックスに 100 GB の記憶域を受け取ります。 自動拡張アーカイブをオンにした場合、100 GB の記憶域容量に達すると、追加の記憶域が自動的に追加されます。 詳細については、「[無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)」を参照してください。 <br/>

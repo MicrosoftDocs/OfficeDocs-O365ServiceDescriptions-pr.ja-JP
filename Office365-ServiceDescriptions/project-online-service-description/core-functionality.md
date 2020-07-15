@@ -1,8 +1,7 @@
 ---
 title: コア機能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online では次のコア機能が利用可能です。
-ms.openlocfilehash: ef7db261827e79f47403e897aaabd248a25e4d02
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640195"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131271"
 ---
 # <a name="core-functionality"></a>コア機能
 
@@ -43,11 +42,11 @@ Backstage の機能を使用するには、[**ファイル**] を選択します
   
 ## <a name="custom-fields"></a>カスタム フィールド
 
-Project に含まれるフィールドに加え、組織のニーズに合わせてカスタム フィールドを使用することもできます。詳細については、「[利用可能なフィールド リファレンス](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)」を参照してください。
+In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
-Word などの Office アプリケーション間でスケジュールの詳細情報をコピーして貼り付けて、スケジュールの進行状況を共有できます。「[Word からコピーして Project に貼り付ける](https://go.microsoft.com/fwlink/p/?LinkId=271330)」の詳細情報を参照してください。
+Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
@@ -55,7 +54,7 @@ Word などの Office アプリケーション間でスケジュールの詳細�
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
 
-リボンを使用して生産性を向上します。リボンは、Project 機能とコントロールを迅速に検出して使用するために使用できるタブ インターフェイスです。[リボン](https://go.microsoft.com/fwlink/p/?LinkId=271325)の詳細情報を参照してください。
+Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -71,7 +70,7 @@ Project の活用を支援するアプリケーションが必要ですか? Offi
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-プロジェクトヘルプは、Office.com で、または「project で直接作業の開始に関するガイド ([**ファイル** \> ] [**新規作成**]) で参照できます。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+プロジェクトヘルプは、Office.com で、または「project で直接作業の開始に関するガイド ([**ファイル**] [ \> **新規作成**]) で参照できます。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
@@ -79,15 +78,15 @@ Project の活用を支援するアプリケーションが必要ですか? Offi
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-プロジェクトのすべての詳細情報が分かるわけではない場合、リソース、開始日、終了日などに「未定」といったプレースホルダー テキストを使用できます。詳細については、「[トップダウン プランニング](https://go.microsoft.com/fwlink/p/?LinkId=271333)」を参照してください。
+If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>プロジェクト テンプレート
 
-過去のプロジェクトをテンプレートとして使用すると、プロジェクトの作成にかかる膨大な時間を節約できます。「[既存のプロジェクトやテンプレートを使って新しいプロジェクトを作成する](https://go.microsoft.com/fwlink/p/?LinkId=271328)」を参照してください。
+You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>スタート エクスペリエンス
 
-Project 2013 では、空のプロジェクトを表示することなく、プロジェクトを開始するためのワンストップ センターを表示します。カスタマー テンプレートまたは組み込みのガイドを使用して、簡単な 4 つの手順で開始できます。
+Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
   
 ## <a name="text-wrap"></a>文字列の折り返し
 

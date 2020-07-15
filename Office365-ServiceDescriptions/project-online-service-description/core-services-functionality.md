@@ -1,8 +1,7 @@
 ---
 title: コア サービスの機能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 次のコアサービス機能は、Project Online で利用できます。
-ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638965"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131241"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 
@@ -25,11 +24,11 @@ ms.locfileid: "43638965"
   
 ## <a name="active-directory-integration"></a>Active Directory の統合
 
-Active Directory では、管理者がユーザーの資格情報とアクセス許可を集中管理できます。Active Directory と Project との統合により、Active Directory のユーザーとグループは Project Online または Project Server 2013 で同期されます。「[Project Server 2013 でセキュリティ グループと Active Directory との同期を管理する](https://go.microsoft.com/fwlink/p/?LinkId=402631)」を参照してください。
+Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>管理、展開、拡張性
 
-Project Online および Project Server 2013 は、管理者が Project の計画、インストールと構成、維持と拡張を行うための機能を提供します。「[Project Server 2013 の IT 担当者向け新機能](https://go.microsoft.com/fwlink/p/?LinkId=272017)」を参照してください。
+Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>はじめに
 
@@ -37,7 +36,7 @@ Project Online および Project Server 2013 は、管理者が Project の計�
   
 ## <a name="issues-and-risk-management-for-team-members"></a>問題とリスクの管理 (チーム メンバー向け)
 
-Project Online および Project Server 2013 には、潜在的な事業関連またはプロジェクト関連のリスクや問題を防止、特定、および軽減するための機能が含まれます。詳細については、「[Project Web App での懸案事項、リスク、およびドキュメントの管理](https://go.microsoft.com/fwlink/?LinkId=402634)」を参照してください。
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Office 365 セキュリティ センター
 
@@ -45,7 +44,7 @@ Project Online および Project Server 2013 には、潜在的な事業関連�
   
 ## <a name="ppm-partner-ecosystem"></a>PPM パートナーのエコシステム
 
-Microsoft PPM ソリューションは、PPM コンピテンシーを獲得し、関連する試験に合格して世界中の 80 を超える国々で多数の展開を手掛けた、数多くの Microsoft パートナーにより支持されています。プロフェッショナル サービス組織による評価、概要説明、展開、研修などの支援を必要とされる場合は、[お近くの PPM パートナーにお問い合わせ](https://go.microsoft.com/fwlink/p/?LinkId=272646)ください。
+Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
 ## <a name="service-reliability"></a>サービスの信頼性
 
@@ -61,5 +60,5 @@ Microsoft サービスは、新しい機能で定期的に更新されていま�
   
 ## <a name="time-and-task-management-for-team-members"></a>時間とタスクの管理 (チーム メンバー向け)
 
-時間レポートとタスク管理に集中化された共通アプローチを使用します。給与計算のための稼働時間と非稼働時間、請求書、およびその他の事業目的をキャプチャします。プロジェクトや日常業務の状態および臨時の要求を効率的に伝達することにより、稼働状況の山と谷、タスクの進行状況を測定します。これは、計画での工数、費用、およびタイムフレームの効率を予測するのに役立ちます。詳細については、「[時間とタスクの進捗状況を管理する](https://go.microsoft.com/fwlink/p/?LinkId=271321)」を参照してください。
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

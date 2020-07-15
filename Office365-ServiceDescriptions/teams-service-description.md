@@ -1,19 +1,18 @@
 ---
 title: Microsoft Teams サービスのサービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711147"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131991"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -53,7 +52,7 @@ Microsoft Teams は、スタンドアロンサービスとしては利用でき�
 
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Small Business** <br/> |**エンタープライズプラン** <br/> |**GCC** <br/> |**GCC-高** <br/> |**DOD** <br/> |**教育** <br/> |
+| <br/>|**小規模企業** <br/> |**エンタープライズプラン** <br/> |**GCC** <br/> |**GCC-高** <br/> |**DOD** <br/> |**教育** <br/> |
 |チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Teams  <br/> |はい <br/> |はい <br/> |あり <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
 |チャネル-標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

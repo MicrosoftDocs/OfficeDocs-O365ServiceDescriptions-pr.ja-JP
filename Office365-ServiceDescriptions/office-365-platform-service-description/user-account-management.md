@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002314"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131661"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ Microsoft は、ユーザーを作成、管理、および認証するための�
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>サインイン、インストール、アンインストール、またはサブスクリプションのキャンセルについてヘルプが必要ですか?
 
-Office | を[インストールまたはアンインストールする](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)際[のサインインに](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | 関するヘルプを取得する ([office をキャンセル](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)する) 365
+[signing in](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [Office をインストールまたはアンインストールする](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)際のサインインに関するヘルプを取得する (office をキャンセルする)  |  [365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 その他の問題については、 [Microsoft サポートセンター](https://support.microsoft.com/contactus/)を参照してください。 中国の 21Vianet が運用している Office 365 に対するサポートを受けるには、[21Vianet サポート チーム](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)にお問い合わせください。 Office 365 Germany の場合、[Office 365 Germany サポート チーム](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)にお問い合わせください。 
   
@@ -50,7 +49,7 @@ ID の種類は、ユーザー エクスペリエンスおよびユーザー ア
 
 新しいユーザーを作成すると、ユーザーのサインイン名と電子メールアドレスが、Microsoft 365 管理センターで設定されている既定のドメインに割り当てられます。 詳細については、「[ユーザーとドメインを追加](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)する」を参照してください。 
   
-既定では、サブスクリプションは、 \<アカウントを使用して作成された\> **onmicrosoft.com**ドメインを使用し_ます。_\* Onmicrosoft.com ドメインを保持するのではなく、1つ以上のカスタムドメインを Microsoft に追加し、検証済みのドメインのいずれかでサインインするようにユーザーを割り当てることができます。 Each user's assigned domain is the email address that will appear on sent and received email messages. 
+既定では、サブスクリプションは、 \< _company name_\> **.onmicrosoft.com**アカウント \* を使用して作成された onmicrosoft.com ドメインを使用します。Onmicrosoft.com ドメインを保持するのではなく、1つ以上のカスタムドメインを Microsoft に追加し、検証済みのドメインのいずれかでサインインするようにユーザーを割り当てることができます。 Each user's assigned domain is the email address that will appear on sent and received email messages. 
   
 最大900の登録済みインターネットドメインをホストでき、それぞれ異なる名前空間で表されます。 
   
@@ -58,7 +57,7 @@ ID の種類は、ユーザー エクスペリエンスおよびユーザー ア
   
 Office 365 におけるドメインの詳細については、「[ドメイン](domains.md)」のサービスの説明を参照してください。 
   
-\* 中国で 21Vianet が運用している Office 365 を使用している場合、既定のドメインは、\<companyname\> **.onmsChina.cn** です。Office 365 Germany を使用している場合の既定ドメインは、\<companyname\> **.onmicrosoft.de** です。
+\*中国で21Vianet が運営する Office 365 を使用している場合は、既定のドメインは \<companyname\> **. onmsChina.cn です。** Office 365 ドイツを使用している場合は、既定のドメイン \<companyname\> **onmicrosoft.de**
   
 ## <a name="authentication"></a>認証
 
@@ -141,7 +140,7 @@ Microsoft サービスを適切に検出して認証するために、管理者�
     
 - セキュリティを強化するには、ユーザーが最初に Microsoft サービスにアクセスするときにパスワードを変更する必要があります。 そのため、ユーザーが Microsoft サービスにアクセスできるようにするには、Microsoft 365 管理センターにサインインし、パスワードを変更するように求めるメッセージが表示される必要があります。
     
-- 管理者は、パスワード有効期限ポリシーを設定できます。詳しくは、「[組織のパスワード有効期限ポリシーを設定します。](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)」を参照してください。
+- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 クラウド ID を持つユーザーのパスワードを再設定するには、いくつか方法があります。
   
@@ -173,7 +172,7 @@ SharePoint Online では、セキュリティ グループを使用してサイ�
   
 ## <a name="administrator-roles"></a>管理者の役割
 
-Office 365 Enterprise は、ロールベースのアクセス制御 (RBAC) モデルを採用しています。そのため、アクセス許可や機能は、管理の役割によって定義されます。自分の組織の Office 365 にサインアップしたユーザーが、自動的に全体管理者または最上位管理者になります。管理者の役割には、全体管理者、課金管理者、パスワード管理者、サービス管理者、およびユーザー管理の管理者の 5 つがあります。管理者の役割を Exchange Online、SharePoint Online、および Skype for Business Online の管理に適用する方法など、Office 365 Enterprise の管理者役割の詳細については、「[一般法人向け Office 365 で管理者ロールを割り当てる](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11))」を参照してください。中国で 21Vianet が運用している Office 365 を使用している場合は、「[一般法人向け Office 365 で管理者ロールを割り当てる](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)」を参照してください。
+Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>代理管理とパートナーのサポート
 
@@ -184,7 +183,7 @@ Office 365 Enterprise は、ロールベースのアクセス制御 (RBAC) モ�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory サービス
 
-Azure Active Directory (AD) は、Office 365 に対して包括的な ID およびアクセス管理の機能を提供します。開発者のために、ディレクトリ サービス、高度な ID ガバナンス、アプリケーション アクセス管理、機能豊富な標準ベースのプラットフォームを組み合わせています。Office 365 における AD 機能について詳しくは、「[サインイン ページのブランド化とクラウド ユーザーのセルフサービスによるパスワードのリセット](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)」をご覧ください。[Azure Active Directory のエディション](https://msdn.microsoft.com/library/azure/dn532272.aspx)の詳細をご確認ください。 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>機能の可用性
 

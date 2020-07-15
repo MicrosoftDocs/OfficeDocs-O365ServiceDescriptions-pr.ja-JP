@@ -1,8 +1,7 @@
 ---
 title: タスク管理
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online では、次のタスク管理機能が利用可能です。
-ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640275"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131071"
 ---
 # <a name="task-management"></a>タスク管理
 
@@ -27,7 +26,7 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-タスクを非アクティブ化すると、プロジェクト プラン内に保持されていても、リソースの可用性、プロジェクト スケジュール、その他のタスクのスケジュール方法には影響しません。[タスクの非アクティブ化](https://go.microsoft.com/fwlink/p/?LinkId=271335)について詳細情報を参照してください。
+When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>オートコンプリート
 
@@ -43,7 +42,7 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="cross-project-critical-path"></a>プロジェクト間のクリティカル パス
 
-クリティカル パスとは、プロジェクトがスケジュールどおりに終了するためには、スケジュールに従って完了させる必要がある一連のタスクのことです。別のプロジェクト内のタスクとの依存関係を作成、編集、削除できます。 
+A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
   
 ## <a name="task-inspector"></a>タスクの詳細情報
 
@@ -51,7 +50,7 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="task-path-analysis"></a>タスクパス分析
 
-タスクと他のタスクとの関係を確認するため、プロジェクト全体のタスクのタスク パスを強調表示します。[タスク間のリンクを強調表示する方法](https://go.microsoft.com/fwlink/p/?LinkId=271345)について詳細情報を参照してください。
+See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>トップダウン サマリー タスク
 

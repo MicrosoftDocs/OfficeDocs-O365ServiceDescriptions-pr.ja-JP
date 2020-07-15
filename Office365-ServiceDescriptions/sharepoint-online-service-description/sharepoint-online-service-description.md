@@ -1,8 +1,7 @@
 ---
 title: SharePoint サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214039"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131031"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -53,7 +52,7 @@ SharePoint にアクセスするには、組織内のユーザーに SharePoint 
 
 Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラインストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive は SharePoint に含まれており、スタンドアロンプランとして購入することもできます。 各プランに付属している OneDrive ストレージの数については、「 [onedrive サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
 
-## <a name="apps"></a>アプリ
+## <a name="apps"></a>Apps
 
 コンピューター上の SharePoint ファイルを同期するために、ユーザーは Windows または Mac 用の[OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)を使用できます。 同期アプリの機能の可用性の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。 
 

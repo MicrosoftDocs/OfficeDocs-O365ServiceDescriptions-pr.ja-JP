@@ -1,20 +1,19 @@
 ---
 title: 中小規模ビジネスに Microsoft 365 のライセンスを付与する
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium は、中小企業のお客様を対象とした Microsoft のクラス最高のサービスです。 Microsoft 365 Business Premium は、Microsoft 365 の生産性、高度なセキュリティ、およびデバイス管理を統合する統合ソリューションです。
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988861"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132541"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>中小規模ビジネスに Microsoft 365 のライセンスを付与する
 

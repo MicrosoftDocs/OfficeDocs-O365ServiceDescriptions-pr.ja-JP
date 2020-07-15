@@ -1,7 +1,7 @@
 ---
-title: ブリーフィング電子メールサービスの説明
-ms.author: sharik
-author: skjerland
+title: ブリーフィング メール サービスの説明
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: ブリーフィングメールは、ユーザーが毎日の時間を最大限に活用できるようにします。 さまざまな要素にまたがる機会を特定し、タイムリーな事前通知を提供します。
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260662"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132011"
 ---
-# <a name="briefing-email-service-description"></a>ブリーフィング電子メールサービスの説明
+# <a name="briefing-email-service-description"></a>ブリーフィング メール サービスの説明
 
 ブリーフィングメールは、ユーザーが自分の予定表を常に管理し、自分の日を意図的に制御できるようにするためのものです。 最初の2時間 (Outlook で設定されているように設定されています) では、関連するアイテムに関するメールが表示されます。これにより、毎日の準備が容易になります。
 

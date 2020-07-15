@@ -1,29 +1,28 @@
 ---
 title: Microsoft 365 コンプライアンスの計画 - GCC
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティに Office 365 の展開を推進する IT 担当者、または政府の規制と要件に従うデータを処理するその他のエンティティ (Microsoft を使用している場合) を対象としています。365 Government-GCC は、これらの要件を満たすのに適しています。
-ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
+ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262820"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132461"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
-このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティに Office 365 の展開を推進する IT 担当者、または政府の規制と要件に従うデータを処理するその他のエンティティ (Microsoft を使用している場合) を対象としています。365 Government-GCC は、これらの要件を満たすのに適しています。
+このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
 
 > [!NOTE]
 > 組織が既に Microsoft 365 Government-GCC の資格要件を満たしており、プログラムに適用されている場合は、手順1と2を省略して手順3に直接進むことができます。
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>手順 1.  組織に Microsoft 365 Government-GCC が必要かどうかを判断し、資格要件を満たしているかどうかを判断する
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>手順 1. 組織に Microsoft 365 Government-GCC が必要かどうかを判断し、資格要件を満たしているかどうかを判断する
 
 Microsoft 365 Government-GCC 環境は、FedRAMP を含むクラウドサービスの米国政府の要件と、刑事司法および連邦税務情報システム (CJI および FTI データ型) の要件に準拠しています。
 
@@ -42,7 +41,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 「 [Office 365 US Government サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)」では、プラットフォームの利点について説明します。これは、米国内での会議のコンプライアンス要件を中心としています。
 
 > [!TIP]
-> サービスの説明の情報の表を Excel ブックに転送して、組織の  **y/n に関連**し、 **組織のニーズを満たす**2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
+> サービスの説明の情報の表を Excel ブックに転送して、 **組織の y/n に関連**   し、 **組織のニーズを満たす**2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
 
 > [!NOTE]
 > Microsoft 365 Government-GCC は米国でのみ利用可能です。 米国以外の政府機関のお客様は、多くの[Office 365 Government プラン](https://products.office.com/government/compare-office-365-government-plans)から選択できます。
@@ -51,17 +50,17 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 - *Microsoft 365 Government-GCC が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2.  Microsoft 365 Government-GCC への適用
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2. Microsoft 365 Government-GCC への適用
 
 このサービスが組織に適していると判断した場合は、[このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>手順 3.  Microsoft 365 Government-GCC の既定のセキュリティ設定について
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>手順 3. Microsoft 365 Government-GCC の既定のセキュリティ設定について
 
 既定のセキュリティ設定を変更する前に、管理者およびセキュリティ設定を慎重に確認して、コンプライアンスへの影響を考慮することをお勧めします。
 
 **判断ポイント**:*既定の Microsoft 365 Government-GCC セキュリティ設定を変更するかどうかを決定します。解決するには、変更による影響を最初に理解する必要があります。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>手順 4.  Microsoft 365 Government – GCC<sup>1</sup>では、現在どの機能が使用できないか、または無効になっているかを理解する
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>手順 4. Microsoft 365 Government – GCC<sup>1</sup>では、現在どの機能が使用できないか、または無効になっているかを理解する
 
 政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。
 
@@ -77,19 +76,19 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | スマートインポートフィルター                            | エンジニアリングバックログの場合 |
 |                                         | イベント ベースの保持                           | Available              |
 |                                         | 廃棄のレビュー                              | Available              |
-|                                         | 情報障壁                            | Available              |
+|                                         | 情報バリア                            | Available              |
 |                                         | ファイルと電子メールのデータ損失防止 (DLP)  | Available              |
 |                                         | Teams チャットおよびチャネル会話の DLP    | エンジニアリングバックログの場合 |
 |                                         | DLP の正確なデータ一致                            | エンジニアリングバックログの場合 |
 |                                         | ラベル アクティビティ エクスプローラー                         | エンジニアリングバックログの場合 |
-|                                         | Trainable 分類子                           | エンジニアリングバックログの場合 |
+|                                         | トレーニング可能な分類子                           | エンジニアリングバックログの場合 |
 |                                         | 統合されたラベルと機密ラベル         | エンジニアリングバックログの場合 |
-| **Insider リスク管理**             | 高度なメッセージ暗号化                     | Available              |
-|                                         | Insider リスク管理                         | エンジニアリングバックログの場合 |
+| **インサイダー リスクの管理**             | 高度なメッセージ暗号化                     | Available              |
+|                                         | インサイダー リスクの管理                         | エンジニアリングバックログの場合 |
 |                                         | 通信コンプライアンス                        | エンジニアリングバックログの場合 |
 |                                         | 顧客ロックボックス                                | Available              |
-|                                         | カスタマー キー                                    | Available              |
-|                                         | 特権アクセスの管理                    | エンジニアリングバックログの場合 |
+|                                         | 顧客キー                                    | Available              |
+|                                         | 特権アクセス管理                    | エンジニアリングバックログの場合 |
 | **& 応答の検出**                  | インプレースの予約                            | Available              |
 |                                         | ケース管理                                 | Available              |
 |                                         | 検索                                          | Available              |
@@ -104,7 +103,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 予測コーディング                               | エンジニアリングバックログの場合 |
 |                                         | 読み込みファイルを使用したエクスポートの処理                 | エンジニアリングバックログの場合 |
 |                                         | タグ                                         | エンジニアリングバックログの場合 |
-|                                         | 表示者                                         | エンジニアリングバックログの場合 |
+|                                         | 閲覧者                                         | エンジニアリングバックログの場合 |
 |                                         | Redactions                                      | エンジニアリングバックログの場合 |
 |                                         | フィルター処理                                       | エンジニアリングバックログの場合 |
 |                                         | 保管担当者からワークロードへのマッピング                   | エンジニアリングバックログの場合 |

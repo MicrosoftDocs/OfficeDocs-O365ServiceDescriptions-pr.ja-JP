@@ -1,8 +1,7 @@
 ---
 title: Help and training
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
-ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 7c34c20d9f2231f278442137f1b615be4201d4c8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045029"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132321"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,11 +24,11 @@ Microsoft Office 365 では、次のヘルプとトレーニングリソース�
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。 すべての Office 365 ヘルプを[https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)検索することもできます。 
+ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。 すべての Office 365 ヘルプを検索することもでき [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) ます。 
   
 ## <a name="training"></a>トレーニング
 
-トレーニングはビデオ、ウェビナー、認定クラスを介して利用可能です。詳細については、以下を参照してください。
+Training is available through videos, webinars, and classes leading to certification. For more information, see:
   
 - [Office 365 のビデオ トレーニング](https://go.microsoft.com/fwlink/p/?LinkId=286119)
     
@@ -46,13 +45,13 @@ Microsoft Office 365 では、次のヘルプとトレーニングリソース�
 ## <a name="community"></a>コミュニティ
 
 > [!NOTE]
-> コミュニティ リソースは、Office 365 の各国版に当てはまります。21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
+> Community resources apply to worldwide versions of Office 365. If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
   
-Office 365 コミュニティを通じて、さまざまなセルフヘルプ サポート情報を利用できます。コミュニティには、お客様がサポート フォーラム、Wiki、およびブログを通じて、技術、課金、サービスに関するさまざまな質問の答えを見つけられるように、最新の情報が掲載されています。サポート フォーラムは、Microsoft サポート代理人によってスタッフが配置され運営されています。
+The Office 365 Community is a single destination for self-help support information. It has the latest information to help customers find answers to a variety of technical, billing, and service questions through support forums, wikis, and blogs. The support forums are staffed and moderated by Microsoft Support agents.
   
 Office 365 コミュニティのホーム ページから次のリソースにアクセスできます。
   
-- **フォーラム** フォーラムは、テクニカル サポートへの質問や Office 365 サービスに関連するトピックについての意見のオンラインの投稿先を、コミュニティの参加者に提供することを目的としています。以下のフォーラムが利用できます。 
+- **Forums** Forums are intended to provide community participants with an online destination where they can post technical support questions and discuss topics related to the Office 365 services. Here are the forums that are available: 
     
   - の展開
     
@@ -84,9 +83,9 @@ Office 365 コミュニティのホーム ページから次のリソースに�
     
   - Yammer
     
-- **Wiki** Wiki には、Microsoft の従業員および認証済みのコミュニティ メンバーによって作成された Wiki ページが含まれています。この共同作業のサイトには、特定の Office 365 の技術的なシナリオについて収集された最新のコンテンツが網羅されています。通常、個々の Wiki ページには、特定の技術的なシナリオに関する Web サイト、Web キャスト、トラブルシューティング ビデオ、FAQ ページ、ドキュメント、およびダウンロードへのリンクが含まれています。各改定日の履歴追跡と作成者のエイリアスがバージョン比較機能とともに提供されています。 
+- **Wikis** Wikis include wiki pages created by Microsoft employees and authenticated community members. This collaborative site encompasses the latest collective content about specific Office 365 technical scenarios. Each individual wiki page typically includes links to websites, webcasts, troubleshooting videos, FAQ pages, documents, and downloads about that specific technical scenario. Historical tracking of every revision date and author alias is provided along with the ability to compare versions. 
     
-- **ブログ** Office 365 の技術ブログは、Office 365 オンライン サービスの最新情報の取得や、Office 365 の機能のメリットについての学習に適したリソースです。トピックには、製品に関する見識、新製品の発表、お客様のインタビュー、ゲストのブログ シリーズなどがあります。 
+- **Blogs** The Office 365 Technical Blog is a good resource for obtaining current information about Office 365 online services and for learning about the benefits of Office 365 features and functions. Topics include product insights, new product announcements, customer interviews, and a guest blog series. 
     
 詳細については、[Office 365 コミュニティ](https://techcommunity.microsoft.com/)をご覧ください。
   
@@ -100,13 +99,13 @@ Office 365 コミュニティのホーム ページから次のリソースに�
 
 Office 365 のコミュニティとオンラインヘルプに加えて、Office 365 には次のセルフヘルプリソースが含まれています。
   
-- **Office 365 のトラブルシューティング ツール** Office 365 のトラブルシューティング ツールは、ユーザーが問題に関する一連の短い質問に回答した後、その回答に基づいて有用なツールと情報を提示します。ツールを使用するには、Office 365 コミュニティの [Office 365 のトラブルシューティング ツール](https://go.microsoft.com/fwlink/?LinkId=272113)に関するページへ移動してください。 
+- **Troubleshooting tool for Office 365** After answering a series of short questions about your issue, the Troubleshooting tool for Office 365 suggests helpful tools and information based on your answers. To use the tool, go to the [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) page of the Office 365 Community. 
     
-- **テクニカル サポート ビデオ** 英語版の教育用トラブルシューティング ビデオは、よくあるユーザーからの質問に基づいて開発されています。35 種類以上の個々のビデオがあり、毎週さらに追加されています。トピックは、BlackBerry® 管理センターの概要からディレクトリ同期のアクティブ化および移行まで広範にわたっています。これらのビデオを視聴するには、Office 365 コミュニティ サイトでビデオを検索してください。コミュニティ ポータルを通じてビデオのリクエストを送信することをお勧めします。また、 [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) および [ショーケース](https://go.microsoft.com/fwlink/?LinkId=272060) チャンネルでもビデオを検索できます。 
+- **Technical support videos** English language-only instructional troubleshooting videos have been developed based on the most commonly asked questions from customers. There are more than 35 individual videos and more coming every week. Topics range from an overview of the BlackBerry® Administration Center to activating and migrating directory synchronization. To view these videos, go to the Office 365 Community site and search for videos. Customers are encouraged to submit a request for a video through the community portal. Customers can also navigate to the [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) and [Showcase](https://go.microsoft.com/fwlink/?LinkId=272060) channels. 
     
-- **ソーシャル メディア**[Facebook](https://go.microsoft.com/fwlink/?LinkId=272061)、[Twitter](https://go.microsoft.com/fwlink/?LinkId=272062)、および [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) で Office 365 をフォローすることで、お客様とパートナーは Office 365 についてより多くのことを学習する、さらなる手段を得ることができます。この Office 365 についてすばやく簡単に学習する方法によって、他のユーザーの意見を聞き、自分のコメントを追加してツイートできます。Microsoft サポート プロフェッショナルが、Microsoft 関連の Facebook および Twitter のアクティビティをモニターし、サポート関連の問い合わせについて支援しています。最新のツイートと最新の Facebook フィードを検索するには、Office 365 コミュニティ ホームページの下部に移動し、お客様とパートナーの日々のディスカッションを確認してください。 
+- **Social media** Following Office 365 on [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062), and [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) provides a way for customers and partners to become more educated about Office 365. This fast and easy way of learning about Office 365 allows customers to listen to what others are saying and be able to add their own comments and tweets. Microsoft support professionals monitor the Microsoft-related Facebook and Twitter activity to assist with any support-related inquiries. To find the most current Facebook feeds along with the most recent tweets, go to the bottom of the Office 365 Community homepage to hear the daily discussions among customers and partners. 
     
-    21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
+    If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
     
 ## <a name="languages"></a>言語
 

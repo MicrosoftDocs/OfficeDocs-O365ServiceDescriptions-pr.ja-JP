@@ -1,8 +1,7 @@
 ---
 title: 教育機関向け Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: f75d1127e81d1b9f85b96b7ca0e92d1a63423185
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429132"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132351"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -48,8 +47,8 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 > <sup>1</sup> Microsoft Project は Office 365 には含まれていませんが、個別に取得することができます。 Project Online Essentials は無料です。 学生または教育機関の場合は、プロジェクト計画3を購入することができます。また、プラン5は、教育価格でご利用いただける場合があります。   <br/> 
 <sup>2</sup> Office 365 プランに含まれる Azure_Information_Protection 機能の詳細については、「 [Azure Information Protection](https://azure.microsoft.com/services/information-protection/)」を参照してください。<br/> 
 <sup>3</sup> Office 365 A5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/> <sup>4</sup> Exchange Online プラン 2 が含まれます。 <br/> 
-<sup>5</sup> Exchange Online プラン 1 と補足機能が含まれます。<br/> 
-<sup>6</sup> Skype for Business Online プラン 2 が含まれます。<br> <sup>7</sup> Skype for Business Online プラン 1 と補足機能が含まれます。 
+<sup>5</sup> Includes Exchange Online Plan 1 plus supplemental features. <br/> 
+<sup>6</sup> Includes Skype for Business Online Plan 2. <br> <sup>7</sup> Skype for Business Online プラン 1 と補足機能が含まれます。 
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -141,7 +140,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新情報](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -346,7 +345,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |検疫 - 管理者による管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検疫 - エンドユーザーによる自己管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|**[メール フロー](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[メールフロー](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |送信メールのカスタムルーティング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Secure messaging with a trusted partner  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Conditional mail routing  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -477,7 +476,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
   
 #### <a name="address-book-limits"></a>アドレス帳の制限
 
-- **アドレス一覧の制限** Exchange Online または Exchange Server 2013 組織内で作成できるアドレス一覧の最大数。この数には、[すべての連絡先] や [すべてのグループ] など、Exchange Online の既定のアドレス一覧が含まれます。 
+- **Address list limit** The maximum number of address lists that can be created in an Exchange Online or Exchange Server 2013 organization. This number includes the default address lists in Exchange Online, such as All Contacts and All Groups. 
     
 - **オフライン アドレス帳の制限** Exchange Online または Exchange Server 2013 組織内で作成できるオフライン アドレス帳 (OAB) の最大数。 
     
@@ -495,7 +494,7 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
    
 #### <a name="mailbox-storage-limits"></a>メールボックス格納域の制限
 
-使用できるメールボックス格納域のサイズは、メールボックスのタイプおよびユーザーのサブスクリプション ライセンスによって決まります。管理者は、メールボックスの最大サイズをユーザーごとまたはグローバルに減らすことができます。
+The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
   
 > [!NOTE]
 > ジャーナリング、トランスポート ルール、または自動転送ルールを使用してアーカイブの目的のため、Exchange Online メールボックスにメッセージをコピーすることは許可されていません。 ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブメールボックスを使用して他のユーザーのアーカイブデータを保存したり、不適切な使用をしたりする場合に、無制限のアーカイブを拒否する権利を留保します。
@@ -524,11 +523,11 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
 
 Exchange Online では、ユーザーのメールボックスが上限に近づくか、または一杯になったときに 3 種類の通知が行われます。
   
-- **警告** ユーザーは、メールボックスが最大サイズの制限値に近づいていることを示す警告を電子メールで受信します。この警告は、ユーザーに不要なメールの削除を促すものです。 
+- **Warning** The user receives an email warning that the mailbox is approaching the maximum size limit. This warning is intended to encourage users to delete unwanted mail. 
     
-- **送信禁止** ユーザーは、メールボックスのサイズが制限値に達したときに、送信禁止の通知を電子メールで受信します。ユーザーは、十分な電子メールが削除され、メールボックスのサイズが制限値を下回るまで、新しいメッセージを送信できません。 
+- **Prohibit Send** The user receives a prohibit-send notification email when the mailbox size limit is reached. The user cannot send new messages until enough email is deleted to bring the mailbox below the size limit. 
     
-- **送受信禁止** Exchange Online は、メールボックスのサイズが制限値に達すると、メールの受信を拒否し、送信者に配信不能レポート (NDR) を送信します。送信者には後でメールを再送信するオプションがあります。ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
+- **Prohibit Send/Receive** Exchange Online rejects any incoming mail when the mailbox size limit is reached, and sends a non-delivery report (NDR) to the sender. The sender has the option to try resending the mail later. To receive messages again, the user must delete email until the mailbox is below the size limit. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -539,29 +538,29 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
    
 #### <a name="mailbox-folder-limits"></a>メールボックス フォルダーの制限
 
-これらの制限は、メールボックスを Exchange Online でサポート可能な大きさにするためのものです。これらの制約は、フォルダーごとのメールボックス項目数、メールボックスごとのフォルダー数、あるいは Exchange Online 組織ごとのパブリック フォルダー数の無制限な使用を防ぐことを目的としています。実用的には、メールボックス フォルダーの限度は事実上無制限で、Exchange Online へ移行するほとんどの Exchange Online メールボックスや社内メールボックスを十分にサポートしています。
+These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
   
-- **メールボックス フォルダーごとの最大メッセージ数** メールボックス フォルダーの最大メッセージ数を規定します。この制限値に達すると新規メッセージを配達することも、フォルダーに保存することもできません。 
+- **Maximum number of messages per mailbox folder** Specifies the maximum number of messages for a mailbox folder. New messages can't be delivered or saved in a folder when this limit is reached. 
     
-- **メールボックス フォルダーごとの警告を出すメッセージ数** メールボックス フォルダーに保存されたメッセージ数がここで指定した数を超えると、Exchange Online がメールボックス所有者に警告メッセージを送信します。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **Warning for number of messages per mailbox folder** Specifies the number of messages that a mailbox folder can hold before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数** 復元可能アイテム フォルダー内の各フォルダーに保存できる最大メッセージ数を規定します。フォルダーがこの最大数を超えた場合、新しいメッセージを保存できません。たとえば、回復可能なアイテム フォルダーの削除フォルダーがメッセージの最大数を超えた場合、メールボックスの所有者がメールボックスからアイテムを完全に削除しようとしても、削除は失敗します。 
+- **Maximum number of messages per folder in the Recoverable Items folder** Specifies the maximum number of messages that can be contained in each folder in the Recoverable Items folder. When a folder exceeds this limit, it can't store new messages. For example, if the Deletions folder in the Recoverable Items folder has exceeded the message count limit and the mailbox owner attempts to permanently delete items from their mailbox, the deletion will fail. 
     
 - **復元可能アイテム フォルダー内のフォルダーごとの警告を出すメッセージ数** 復元可能アイテム フォルダー内の各フォルダーに保存されるメッセージ数がここで指定した数を超えると、Exchange Online はアプリケーション イベント ログにイベントを記録します。 
     
-- **メールボックス フォルダーごとのサブフォルダー数の最大値** メールボックス フォルダー内に作成できるサブフォルダー数の最大値を規定します。この最大数に達すると、メールボックスの所有者は新しいサブフォルダーを作成できません。 
+- **Maximum number of subfolders per mailbox folder** Specifies the maximum number of subfolders that can be created in a mailbox folder. The mailbox owner won't be able to create a new subfolder when this limit is reached. 
     
-- **メールボックス フォルダーごとの警告を出すサブフォルダー数** メールボックス フォルダーに作成するサブフォルダー数がここで指定した数を超えると、Exchange Online がメールボックス所有者に警告メッセージを送信します。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **Warning for number of subfolders per mailbox folder** Specifies the number of subfolders that can be created in a mailbox folder before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **フォルダー階層の深さの最大値** メールボックスのフォルダー階層内のレベルの最大数を指定します。この最大数に達すると、メールボックスの所有者はメールボックス フォルダーの階層内で新たなレベルを作成できなくなります。 
+- **Maximum folder hierarchy depth** Specifies the maximum number of levels in the folder hierarchy of a mailbox. The mailbox owner won't be able to create another level in the folder hierarchy of the mailbox folder when this limit is reached. 
     
-- **警告を出すフォルダー階層の深さ** フォルダー階層のレベル数がここで指定した数を超えると、Exchange Online がメールボックス所有者に警告メッセージを送信します。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **Warning for folder hierarchy depth** Specifies the number of levels in the folder hierarchy of a mailbox folder that can be created before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **パブリック フォルダーの最大数** パブリック フォルダー階層全体のパブリック フォルダーの最大数を指定します。この制限に達すると、既存のパブリック フォルダーを削除しないかぎり、新しいパブリック フォルダーを作成できなくなります。 
+- **Maximum number of public folders** Specifies the maximum number of public folders in the complete public folder hierarchy. When this limit is reached, existing public folders must be deleted before new public folders can be created. 
     
-- **パブリック フォルダーごとのサブフォルダー数の最大値** パブリック フォルダー内に作成できるサブフォルダー数の最大値を指定します。この制限値に達すると、パブリック フォルダーに新規サブフォルダーの作成はできません。 
+- **Maximum number of subfolders per public folder** Specifies the maximum number of subfolders that can be created in a public folder. New subfolders can't be created in a public folder when this limit is reached. 
     
-- **パブリック フォルダーごとの警告を出すサブフォルダー数** パブリック フォルダーに作成するサブフォルダー数がここで指定した数を超えると、Exchange Online がフォルダー所有者に警告メッセージを送信します。所有者が存在していない場合、警告メッセージは所有者アクセス許可を持つユーザーに送信されます。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **Warning for number of subfolders per public folder** Specifies the number of subfolders that can be created in a public folder before Exchange Online sends a warning message to the folder owner. If no owner exists, warning messages are sent to users with Owner permissions. When this quota is reached, warning messages are sent once a day. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -594,14 +593,14 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 - **件名の長さの制限** 1 つのメール メッセージの件名に使用できるテキスト文字の最大数。 
     
-- **添付ファイル数の制限** 1 つの電子メール メッセージに添付できる添付ファイルの最大数。添付ファイルすべての合計サイズがメッセージ サイズの制限に違反しない場合でも、メッセージに添付できる添付ファイルの数には制限があります。この制限はマルチパート メッセージの制限によって制御されます。 
+- **File attachments limit** The maximum number of file attachments allowed in an email message. Even if the total size of all the file attachments doesn't violate the message size limit, there is still a limit on how many attachments are allowed in the message. This limit is controlled by the multipart message limit. 
     
 - **添付ファイルのサイズ制限** 1 つの添付ファイルの最大ファイル サイズです。 
     
     > [!NOTE] 
     > これは、1 つの添付ファイルの最大ファイル サイズです。 Outlook on the web を含む個々のクライアント プログラムでは、添付ファイルのサイズ制限がこの最大値より小さい場合があります。 Exchange ActiveSync は、添付ファイルのサイズ制限を個別の添付ファイルごとには実装しません。 Exchange ActiveSync メッセージに添付されるすべてのファイルの合計サイズは、メッセージのサイズ制限よりも小さい必要があります。 
   
-- **マルチパート メッセージの制限** MIME マルチパート メッセージで許可されるメッセージ本文のパーツの最大数。この制限は、メッセージ内で許可される添付ファイルの最大数も制御します。 
+- **Multipart message limit** The maximum number of message body parts that are allowed in a MIME multipart message. This limit also controls the maximum number of file attachments that are allowed in a message. 
     
 - **埋め込みメッセージの深さの制限** 1 つのメール メッセージで許可される転送メール メッセージの最大数。 
     
@@ -631,11 +630,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 #### <a name="receiving-and-sending-limits"></a>受信および送信の制限
 
-受信および送信の制限は、スパムや大量メール送信ワームまたはウイルス対策として適用されます。これらの制限は、システムを健全に維持しユーザーの安全を守るために役立ちます。
+Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
   
 #### <a name="receiving-limits"></a>受信の制限
 
-受信の制限は、1 時間あたりにユーザー、グループ、またはパブリック フォルダーが受信できるメッセージの数に対して適用されます。これは、オンプレミスのサーバーからのメッセージと、インターネットからのメッセージの両方に適用されます。受信の制限を超えると、そのメールボックスに送信された電子メールに対して、メールボックスの配信のしきい値が上限を超えたことを伝える配信不能レポートが送信されます。1 時間後に制限が更新され、メールボックスは再びメッセージを受信できるようになります。
+Receiving limits apply to the number of messages that a user, group, or public folder can receive per hour. This applies for both messages received from the Internet and from on-premises servers. When the receiving limit has been exceeded, any emails sent to that mailbox will receive a non-delivery report stating that the mailbox has exceeded the maximum delivery threshold. After one hour, the limit will refresh and the mailbox will once again be able to receive messages.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -647,9 +646,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 送信側の制限は、ユーザーが自己の Exchange Online アカウントから発信できるメッセージの受信者数、メッセージ数、およびメッセージごとの受信者数に対して適用されます。
   
 > [!NOTE]
-> 組織のアドレス帳に格納されている配布グループの場合、グループは 1 受信者としてカウントされます。メールボックスの連絡先フォルダーに格納されている配布グループの場合、グループのメンバーは個別にカウントされます。 
+> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually. 
   
-- **受信者数の制限** Exchange Online には、受信者が送信を要求していないバルク メッセージの配信を防ぐための受信者制限があり、ユーザーおよびアプリケーションによる膨大な数の電子メールの送信を防止しています。これらの制限は、すべての送信メッセージおよび内部メッセージに対してユーザーごとに適用されます。 
+- **Recipient rate limit** To discourage the delivery of unsolicited bulk messages, Exchange Online has recipient limits that prevent users and applications from sending large volumes of email. These limits are applied per-user to all outbound and internal messages. 
     
     > [!NOTE]
     > 正当なバルク メッセージ (たとえば、顧客向けのニュースレター) を送信しなければならない Exchange Online のお客様は、そうしたサービスに特化したサード パーティ プロバイダーを使用する必要があります。 
@@ -657,9 +656,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 - **受信者の制限** "宛先:"、"CC:"、"BCC:" の各フィールドに 1 通のメール メッセージで入力できるメッセージ受信者の最大数。 
     
     > [!NOTE]
-    > 受信者数の制限と受信者制限の目的で、組織の共有アドレス帳に保存される配布グループは 1 つの受信者としてカウントされます。個人用の配布リストでは、各受信者は個別にカウントされます。 
+    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately. 
   
-- **メッセージ数の制限** メッセージ数の制限では、指定された期間内に Exchange Online アカウントからユーザーが送信できるメッセージの数を決定します。この制限により、単一の送信者がシステム リソースを過剰に消費するのを防ぐことができます。SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。 
+- **Message rate limit** Message rate limits determine how many messages a user can send from their Exchange Online account within a specified period of time. This limit helps prevent overconsumption of system resources by a single sender. If a user submits messages at a rate that exceeds the limit via SMTP client submission, the messages will be rejected and the client will need to retry. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -691,7 +690,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |迷惑メール フォルダーの保存期限  <br/> |30 日  <br/> |30 日間  <br/> |30 日間  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。  
+> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. 
   
 #### <a name="distribution-group-limits"></a>配布グループの制限
 
@@ -699,9 +698,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 - **Maximum number of distribution group members** The total recipient count is determined after distribution group expansion. 
     
-- **大きな配布グループへのメッセージの送信の制限** この制限で指定された数のメンバーを含む配布グループでは、配信の管理またはメッセージの承認のいずれかのオプションを構成する必要があります。配信の管理では、その配布グループにメッセージを送信することが許可される送信者のリストを指定します。メッセージの承認では、その配布グループに送信されるすべてのメッセージを承認する必要があるモデレーターを 1 人以上指定します。 
+- **Limit sending messages to large distribution groups** Distribution groups that contain the number of members specified by this limit must have delivery management or message approval options configured. Delivery management specifies a list of senders who are allowed to send messages to the distribution group. Message approval specifies one or more moderators who must approve all messages sent to the distribution group. 
     
-- **大きな配布グループの最大メッセージ サイズ** 5,000 人以上の受信者に送信されるメッセージのサイズの制限です。サイズがこの制限を超えている場合はメッセージが配信されず、送信者に配信不能レポート (NDR) が送信されます。受信者の合計数は、配布グループの展開後に決定されます。 
+- **Maximum message size for large distribution groups** If a message is sent to 5,000 or more recipients, the message size can't exceed this limit. If the message size exceeds the limit, the message isn't delivered, and the sender receives a non-delivery report (NDR). The total recipient count is determined after distribution group expansion. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -709,7 +708,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|配布グループの所有者の最大数  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -718,7 +717,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>ジャーナル、トランスポート、受信トレイのルール上の制限
 
-次のリストには、ジャーナル ルール、トランスポート ルール (組織全体のルールとも呼ばれる) に適用される制限や、受信トレイ ルールに適用される制限が含まれます。受信トレイ ルールは個々のユーザーごとに設定され、個々のユーザーのメールボックスで送受信されたメッセージに適用されます。
+The following list includes limits that apply to journal rules, transport rules (also known as organization-wide rules), and limits that apply to Inbox rules. Inbox rules are set up by individual users and applied to messages sent and received by the individual user's mailbox.
   
 - **ジャーナル ルールの最大数** 組織で使用できるジャーナル ルールの最大数です。 
     
@@ -726,15 +725,15 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
     
-- **すべてのトランスポート ルールで使用されているすべての正規表現の最大文字数** 組織のすべてのトランスポート ルールの条件および例外に含まれるすべての正規表現の文字数の合計です。長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。 
+- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions. 
     
 - **添付ファイルのコンテンツに対するスキャンの制限** トランスポート ルールの条件を使用してメッセージの添付ファイルのコンテンツを確認できますが、添付ファイルから抽出されたテキストの最初の 1 MB だけが検査されます。 この 1 MB の制限は、添付ファイルから抽出するテキストのことを指すもので、添付ファイルのサイズではありません。 たとえば、2 MB のファイルに 1 MB 未満のテキストが含まれる場合は、すべてのテキストが検査されます。 
     
-- **すべてのトランスポート ルールによってメッセージに追加される受信者の最大数** 1 つのメッセージに複数のトランスポート ルールが適用される場合、メッセージに追加できる受信者の数が制限されます。この制限に達すると、残りの受信者はメッセージに追加されません。また、トランスポート ルールで配布グループをメッセージに追加することはできません。 
+- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule. 
     
-- **転送者の制限** リダイレクト処理を含む受信トレイ ルールまたはトランスポート ルールに構成できる受信者の最大数。この値よりも多くの受信者にメッセージをリダイレクトするようにルールが構成されている場合、ルールは適用されず、ルールの条件を満たすメッセージはルールで指定されたどの受信者にもリダイレクトされません。 
+- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule. 
     
-- **メッセージのリダイレクト回数** 受信トレイ ルールに基づいてメッセージを自動的にリダイレクト、転送、または返信する回数。たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。この場合は、ユーザー C にメッセージが配信されなかったことを示す配信不能レポート (NDR) がユーザー B に送信されないままメッセージが破棄されます。 
+- **Number of times a message is redirected** The number of times a message will be redirected, forwarded, or replied to automatically based on Inbox rules. For example, User A has an Inbox rule that redirects messages to User B, based on the sender. User B has an Inbox rule that forwards messages to User C based on keywords in the subject line. If a message satisfies both of these conditions, the message is only sent to User B; it's not forwarded to User C because only one redirection is allowed. In this case, the message is dropped without sending a non-delivery report (NDR) to User B indicating that the message wasn't delivered to User C. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -756,11 +755,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
     
-- **モデレート待ちメッセージの有効期限** 既定では、モデレート待ちのメッセージは 2 日後に期限切れになります。ただし、期限切れモデレート メッセージの処理が 7 日ごとに実行されます。したがって、モデレート メッセージが期限切れになるのは 2 日から 9 日の間になります。 
+- **Expiration for messages waiting for moderation** By default, a message waiting for moderation expires after two days. However, the processing of expired moderated messages runs every seven days. This means that a moderated message can expire at any time between two and nine days. 
     
-- **期限切れモデレート通知メッセージの最大頻度** この制限は、期限切れモデレート メッセージに関する通知メッセージの 1 時間あたりの最大数を設定します。データセンターのメールボックス データベースごとの制限です。 
+- **Maximum rate for expired moderation notification messages** This limit sets the maximum number of notification messages for expired moderated messages in a one-hour period. This limit is placed on each mailbox database in the datacenter. 
     
-    負荷が高いときには、一部の送信者に期限切れモデレート メッセージに関する通知メッセージが送信されなくなる可能性がありますが、その場合も、配信レポートで通知を確認できます。
+    During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -795,13 +794,13 @@ OneDrive for Business は、SharePoint Online に付属していますが、ス�
   
 ### <a name="system-requirements"></a>システム要件
 
-OneDrive for Business 同期クライアントのシステム要件は、OneDrive クライアントとは異なります。詳細については、「[OneDrive for Business の SharePoint 2013 および SharePoint Online 用同期クライアントをインストールする方法](https://support2.microsoft.com/kb/2903984)」を参照してください。
+The OneDrive for Business sync client has different system requirements than the OneDrive client. To learn more, see [How to install the OneDrive for Business sync client](https://support2.microsoft.com/kb/2903984).
   
 ### <a name="onedrive-for-business-limits"></a>OneDrive for Business の制限
 
 OneDrive for Business プラン 1 は、ユーザーごとに 1 TB の記憶領域を提供します。 
   
-以下の条件を満たすプランでは、5 人以上のユーザーによるサブスクリプションに対して、ユーザーごとに無制限の OneDrive ストレージを提供します。Microsoft は、ユーザーごとにまず 5 TB の記憶領域を提供します。OneDrive ストレージの追加をご希望のお客様は、Microsoft サポートに連絡して必要に応じて要請できます。5 人未満のユーザーを持つサブスクリプションは、ユーザー 1 人あたり 1 TB のストレージを受け取ります。
+The following qualifying plans provide unlimited OneDrive storage per user for subscriptions with at least five users. Microsoft will provide an initial 5 TB of storage space per user. Customers who want additional OneDrive storage can request it as needed by contacting Microsoft Support. Subscriptions with less than five users receive 1 TB of storage per user.
   
 - Office 365 A1
     
@@ -813,7 +812,7 @@ OneDrive for Business プラン 1 は、ユーザーごとに 1 TB の記憶領�
   
 OneDrive for Business に追加できないファイルの種類については、「[リストまたはライブラリに追加できないファイルの種類](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)」を参照してください。
   
-OneDrive for Business は SharePoint Online に含まれています。サイト コレクションのクォータ、ファイルのアップロード制限、記憶域制限などの SharePoint Online での追加の制限についての詳細は、「[SharePoint Online ソフトウェアの境界と制限](../sharepoint-online-service-description/sharepoint-online-limits.md)」を参照してください。
+OneDrive for Business is included in SharePoint Online. To learn about additional limitations in SharePoint Online, such as site collection quotas, file upload limits, and storage limits, see [SharePoint Online software boundaries and limits](../sharepoint-online-service-description/sharepoint-online-limits.md).
   
 ### <a name="subscription-plans"></a>サブスクリプション プラン
 
@@ -884,7 +883,7 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 | Skype フェデレーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|AOL および Yahoo! フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|AOL and Yahoo! federation  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |臨時およびスケジュールの電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |臨時およびスケジュールのビデオ会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -1001,7 +1000,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 #### <a name="peer-to-peer-limits"></a>ピアツーピア制限
 
-- **ファイル転送制限**Skype for Business Online IM 会話で転送できるファイルの最大サイズ。ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **開かれたタブ付き会話数の制限** Skype for Business ユーザーが同時に開くことのできる会話タブの最大数。 
     
@@ -1037,7 +1036,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 |チーム呼び出しグループ内の個人  <br/> |まで  <br/> |まで  <br/> |まで  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Skype for Business 会議の参加者数が 75 人を超える場合は、会議の参加者名簿の参加者リスト (司会者と出席者) が省略されて、個々の出席者に司会者と出席者自身の名前のみが表示されるようにします。会議の司会者には、完全な参加者リストが表示されます。また、ギャラリー ビューと IM エラーは出席者には表示されません。 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 #### <a name="meeting-retention-limits"></a>会議の保存期限
 

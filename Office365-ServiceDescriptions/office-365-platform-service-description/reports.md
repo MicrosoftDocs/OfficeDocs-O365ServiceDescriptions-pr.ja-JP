@@ -1,8 +1,7 @@
 ---
 title: レポート
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft の管理者は、組織が Microsoft サービスをどのように使用しているかを示すレポートを表示できます。 このレポートを使用すれば、問題を特定したり、データをフィルター処理したり、データを Microsoft Excel にダウンロードしたりできます。 また、Microsoft 365 reporting web サービスを使用して独自のレポートを作成することもできます。 Exchange Online および Exchange Online Protection (EOP) 管理者は、メール保護レポートを使用して、マルウェア、スパム、ルールの検出に関するデータを表示できます。
-ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: e013a38446af676534043529ad285b7042c6ee34
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001968"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131851"
 ---
 # <a name="reports"></a>レポート
 

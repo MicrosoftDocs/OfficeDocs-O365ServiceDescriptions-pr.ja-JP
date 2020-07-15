@@ -1,8 +1,7 @@
 ---
 title: プライバシー、セキュリティ、および透明性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,19 +11,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044949"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131671"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透明性
 
 > [!NOTE]
-> この記事の情報は Office 365 の各国版に適用されます。Office 365 US Government、Office 365 Germany、21Vianet が運用している Office 365 など、Office 365 の国内クラウド インスタンスを使用している場合は、「[Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)」をご覧ください。 
+> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。詳細については、「[Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)」をご覧ください。
+Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>プライバシー
 
@@ -50,7 +49,7 @@ Microsoft が Office 365 サービスを安全かつ確実に提供する方法�
 
 Microsoft 管理者は、カスタマーロックボックスを使用して、Microsoft サポートエンジニアがヘルプセッション中にデータにアクセスする方法を制御できます。 問題をトラブルシューティングして解決するために、エンジニアがデータへのアクセスを要求した場合、カスタマー ロックボックスを使用してアクセス権の要求を承認または拒否することができます。 承認すると、エンジニアはデータにアクセスできるようになります。 各要求には有効期限があり、問題が解決されると、要求は閉じられ、アクセスは取り消されます。
   
-カスタマー ロックボックスは Office 365 Enterprise 5 プランに含まれています。または、その他の Office 365 Enterprise プランで個別のサブスクリプションを購入することもできます。詳細については、「[Office 365 カスタマー ロックボックス要求](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)」をご覧ください。
+Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 

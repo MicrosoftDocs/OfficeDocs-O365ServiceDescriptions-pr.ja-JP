@@ -1,8 +1,7 @@
 ---
 title: ネットワーク
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft は、次のネットワーク機能をサポートしています。
-ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 0f0554bdd907a6f0a37299dc3e38e5f778e7187e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045009"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132331"
 ---
 # <a name="networking"></a>ネットワーク
 
@@ -30,7 +29,7 @@ Microsoft では、IPv4 アドレスと IPv6 アドレスを使用していま�
 Microsoft は、Microsoft ヘルプで許可されている IP アドレスの一覧を保持しています。 詳細については、「 [url と IP アドレスの範囲](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)」を参照してください。 21Vianet が運用している Office 365 については、「[21Vianet が運用している Office 365 の URL と IP アドレス](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints)」を参照してください。 Office 365 Germany については、「[Office 365 Germany エンドポイント](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)」を参照してください。
   
 > [!IMPORTANT]
-> 特定の IP アドレス サブネットへのルーティングではなく、上に記載されたルート ドメイン名 (\*.Outlook.com、\*.MicrosoftOnline.com、\*.SharePoint.com など) へのルーティングを有効にすることを強くお勧めします。IP アドレス サブネットを使用すると、変更が行われたときにユーザーに対するサービスが停止する危険があります。 
+> We strongly recommend that you enable routing to the root domain names listed in the articles above (such as \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com) instead of routing to specific IP address subnets. Relying on IP address subnets runs the risk of outages for your users as changes are made. 
   
 ## <a name="bandwidth-requirements"></a>帯域幅要件
 
@@ -44,7 +43,7 @@ Azure ExpressRoute について詳しくは、「[Office 365 向け Azure Expres
   
 ### <a name="wan-accelerators"></a>WAN アクセラレータ
 
-Microsoft は、Office 365 で顧客が所有する WAN 高速化デバイスやキャッシュ デバイスをサポートしていません。待ち時間が長いまたは帯域幅が狭い条件下で WAN 最適化コントローラーを使用してパフォーマンスを改善する場合は、Microsoft にサービス要求のトラブルシューティングを依頼する際に WAN 最適化コントローラーを無効にする必要があります。また、これらのデバイスのサポートについては、デバイスの提供元に相談してください。詳細については、「[Office 365 での WAN 最適化コントローラーおよびキャッシュ デバイスの使用](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365)」を参照してください。
+Microsoft does not provide support for customer-owned WAN acceleration and caching devices with Office 365. If you decide to use a WAN optimization controller to improve performance under conditions of high latency or low bandwidth, you'll need to disable it while troubleshooting service requests with Microsoft, and work with your device vendor for device support. For more information, see [WAN Acceleration and caching devices with Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
   
 ## <a name="the-global-microsoft-network"></a>Microsoft のグローバル ネットワーク
 
@@ -52,9 +51,9 @@ Microsoft ネットワークインフラストラクチャは、サービスの�
   
 顧客データの機密性と整合性を維持するために、Microsoft は、コンシューマーサービスネットワークを Microsoft ネットワークとは分離して保持します。 情報フローの制御には、以下のような複数の方法を使用しています。
   
-- 物理的な分離。特定の通信パターンを防止するように構成されたルーターで、ネットワーク セグメントを物理的に分離します。
+- Physical separation. Network segments are physically separated by routers that are configured to prevent specific communication patterns.
     
-- 論理的な分離。仮想 LAN (VLAN) テクノロジを使用して通信をさらに分離します。
+- Logical separation. Virtual LAN (VLAN) technology is used to further separate communications.
     
 - ファイアウォール。 ファイアウォールおよびその他のネットワークセキュリティ強制ポイントは、インターネットに公開されるシステムとのデータ交換を制限し、Microsoft が管理するバックエンドシステムからシステムを分離するために使用されます。 
     

@@ -1,8 +1,7 @@
 ---
 title: Office 365 プランのオプション
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213909"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132131"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -42,10 +41,10 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
    
 ### <a name="service-availability-within-each-office-365-plan"></a>それぞれの Office 365 プランのサービスの可用性
 
-各 Office 365 プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。次の表に、各 Office 365 プランで使用できるサービスを示します。
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
->  特定のサービスを複数の Office 365 プランで使用できることがありますが、各プランで使用できる機能は異なることがあります。 各プランで利用できる機能の詳細を表示するには、各サービスの説明を参照するか、詳細について販売店または Microsoft の営業担当者にお問い合わせください。 <br/>  いくつかの Office 365 のビジネス プランには、サブスクリプションのために購入可能なアドオンが用意されています。アドオンにより、サブスクリプションに追加機能が提供されます。詳細については、「[一般法人向け Office 365 向けのアドオンを購入または編集する](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」を参照してください。 
+>  特定のサービスを複数の Office 365 プランで使用できることがありますが、各プランで使用できる機能は異なることがあります。 各プランで利用できる機能の詳細を表示するには、各サービスの説明を参照するか、詳細について販売店または Microsoft の営業担当者にお問い合わせください。 <br/>  Several of the Office 365 for business plans have add-ons that you can buy for your subscription. An add-on provides additional functionality to the subscription. For more information, see [Buy or edit an add-on for Office 365 for business](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|

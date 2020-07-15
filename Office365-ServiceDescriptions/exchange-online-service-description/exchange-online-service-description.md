@@ -1,8 +1,7 @@
 ---
 title: Exchange Online サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能の比較については、こちらを参照してください。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845021"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131551"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -101,7 +100,7 @@ Exchange Online サブスクリプションプランで使用可能なストレ�
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|○|はい|はい|はい|はい|はい|
 |Advanced Threat Protection|いいえ|はい|不要|いいえ|いいえ|いいえ|はい|いいえ|
-|**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[メールフロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |送信メールのカスタムルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|
 |Conditional mail routing|いいえ|いいえ|○|はい|はい|はい|はい|はい|
@@ -145,7 +144,7 @@ Exchange Online サブスクリプションプランで使用可能なストレ�
 |Outlook for Mac<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい| いいえ|
 |Outlook for iOS and Android<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |Exchange ActiveSync|はい|はい|はい|はい|はい|はい|はい|はい|
-|Office 365 のモバイル デバイス管理|いいえ|いいえ|○|はい|はい|はい|はい|はい|
+|Microsoft 365 の基本的なモビリティとセキュリティ|いいえ|いいえ|○|はい|はい|はい|はい|はい|
 |POP と IMAP|はい|はい|はい|はい|はい|はい|はい|はい <sup>12</sup>|
 |SMTP|はい|はい|はい|はい|はい|はい|はい|はい|
 |EWS アプリケーションのサポート|はい|はい|はい|はい|はい|はい|はい|いいえ|
@@ -234,7 +233,7 @@ Exchange Online サブスクリプションプランで使用可能なストレ�
 |Customize anti-malware policies|はい|はい|はい|はい|はい <sup>8</sup>|
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい <sup>8</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|○|はい|はい|
-|**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
+|**[メールフロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |送信メールのカスタムルーティング|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|
 |Conditional mail routing|いいえ|いいえ|○|はい|はい|

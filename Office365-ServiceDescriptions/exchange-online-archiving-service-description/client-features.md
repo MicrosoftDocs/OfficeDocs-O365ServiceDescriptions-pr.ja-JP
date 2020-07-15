@@ -1,8 +1,7 @@
 ---
 title: Exchange Online アーカイブのクライアント機能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続はインターネット経由で行われるため、仮想プライベートネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
-ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639725"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132061"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのクライアント機能
 
@@ -28,14 +27,14 @@ Microsoft Exchange Online アーカイブを使用すると、ユーザーはさ
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook は、予定表作成、連絡先、タスクのサポートを含む多機能の電子メール プログラムです。Exchange Online Archiving は、Outlook 2013、Outlook 2010、Outlook 2007 をサポートします。主な機能には以下のものがあります。
+Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
   
 - **Outlook Anywhere**Outlook Anywhere を使用すると、Outlook ユーザーは、VPN 接続を必要とせずに、インターネット経由で Exchange Server に接続し、Exchange Online アーカイブを使用することができます。 Outlook と Exchange Online Archiving 間の通信は、RPC-over-HTTP Windows ネットワーク コンポーネントを使用し、SSL で保護されたトンネルを介して行われます。    
 - **自動検出** Exchange 自動検出サービスは、Exchange Online Archiving と連動するように Outlook を自動的に構成します。 自動検出を使用すると、Outlook ユーザーは、必要なプロファイル設定を Exchange から直接 (かつ固定した間隔で) 自分のメールアドレスとパスワードで受信することができます。 
 
 Outlook 2010 以降および web 上の Outlook では、アーカイブのすべての機能に加えて、保持ポリシーやアーカイブポリシーなどの関連機能をユーザーに提供します。
   
-Outlook 2007 はアーカイブの基本的なサポートを提供しますが、一部のアーカイブ機能とコンプライアンス機能が Outlook 2007 では使用できません。たとえば、Outlook 2007 では、ユーザーは、保持ポリシーやアーカイブ ポリシーをメールボックス内のアイテムに適用できません。代わりに、管理者によってプロビジョニングされるポリシーを使用する必要があります。Outlook 2007 ユーザーがアーカイブにアクセスするためには、2011 年 2 月の Office 2007 累積更新プログラムが必要です。
+Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
   
 > [!NOTE]
 > Outlook は Exchange Online Archiving に付属していません。 Microsoft 365 for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。 Microsoft 365 enterprise 用アプリの詳細については、「 [Office アプリケーションサービスの説明](../office-applications-service-description/office-applications-service-description.md)」を参照してください。 
@@ -48,10 +47,10 @@ Outlook 2007 はアーカイブの基本的なサポートを提供しますが�
 |:-----|:-----|
 |Outlook 2010 以降  <br/> |Exchange Online Archiving の最新機能をサポートします。<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Exchange Online Archiving と一緒に使用するためにサポートされています。<sup>1、2</sup> <br/> |
-|Outlook 2003  <br/> |サポート対象外  <br/> |
-|Outlook for Mac 2011  <br/> |サポート対象外  <br/> |
+|Outlook 2003  <br/> |非サポート  <br/> |
+|Outlook for Mac 2011  <br/> |非サポート  <br/> |
 |Outlook for Mac  <br/> |サポート対象外 Exchange Online Archiving<sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |サポート対象外  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |非サポート  <br/> |
 |IMAP と POP  <br/> |サポート対象外  <br/> |
 |Exchange ActiveSync (モバイルデバイス)  <br/> |サポート対象外  <br/> |
    
@@ -62,7 +61,7 @@ Outlook 2007 はアーカイブの基本的なサポートを提供しますが�
 
 ## <a name="outlook-on-the-web"></a>Web 上の Outlook
 
-Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。 自宅、オフィス、または外出&mdash;&mdash;先でインターネットに接続しているユーザーは、Outlook on the web を使用して自分のメールにアクセスできます。
+Outlook on the web は、Exchange Online と連携する Web ベースの Outlook 電子メール プログラムです。 自宅、オフィス、または外出先でインターネットに接続しているユーザーは、 &mdash; &mdash; Outlook on the web を使用して自分のメールにアクセスできます。
   
 ユーザーはオンプレミスの web 上の Outlook にサインインして、自分のアーカイブにアクセスできます (同じ URL を使用)。 アーカイブは、Outlook on the web のプライマリメールボックスと共に表示されます。 Web 上の Outlook から直接アーカイブにアクセスする明示的な方法はありません。
   

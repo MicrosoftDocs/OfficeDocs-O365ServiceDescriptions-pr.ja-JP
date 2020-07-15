@@ -1,8 +1,7 @@
 ---
 title: 管理と管理 [EOP]
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: このセクションでは、Microsoft Exchange Online Protection (EOP) 管理者が使用できる管理インターフェイスについて説明します。
-ms.openlocfilehash: 8b3f6cfceb015bc1730fe4c4d61c2fcda3f94259
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640025"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131543"
 ---
 # <a name="administration-and-managementeop"></a>管理と管理 [EOP]
 
@@ -35,7 +34,7 @@ Exchange 管理センター (EAC) は、簡単に使用できる単一の統合�
   
 ## <a name="remote-windows-powershell-access"></a>リモート Windows PowerShell へのアクセス
 
- 管理者は、リモート Windows PowerShell を使用して、コマンド ラインから管理タスクを実行できます。コマンドレットごとのリモート シェル セッションとドキュメントの作成に関する情報を含む、Windows PowerShell の使用方法に関する詳細については、「[Exchange Online による PowerShell の使用](https://go.microsoft.com/fwlink/p/?LinkId=282266)」を参照してください。
+ Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
 ## <a name="feature-availability"></a>機能の可用性
 

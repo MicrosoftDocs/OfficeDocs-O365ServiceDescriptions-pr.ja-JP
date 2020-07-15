@@ -1,8 +1,7 @@
 ---
 title: メール フロー
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 大部分の組織では、メールボックスをホストし、メールフローを処理します。 これは最も簡単な構成で、Microsoft はすべてのメールボックスとフィルター処理を管理します。 ただし、組織によっては特定の規制や業務上のニーズを満たしていることを保証するためのより複雑なメール フロー セットアップが必要な場合があります。 以下に、こうしたオプションについて記します。
-ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1ada5a3199e6ae65c6aaa99873f13a4025366a8d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640325"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132721"
 ---
 # <a name="mail-flow"></a>メール フロー
 
@@ -45,19 +44,19 @@ Exchange Online のお客様は、Microsoft コネクタを使用して、信頼
   
 ## <a name="conditional-mail-routing"></a>条件付きメール ルーティング
 
-コネクタとトランスポート ルールを使用して特定のサイトにメールをルーティングできます。条件に基づいたルーティングでは、特定の条件に基づいてコネクタを選択できます。
+You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
   
 詳しくは、「[Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing)」を参照してください。
   
 ## <a name="incoming-mail-safe-list"></a>受信メールのセーフ リスト
 
-信頼できるパートナーの IP アドレスをセーフ リストに追加して、自分宛てにパートナーから送信されるメッセージにスパム対策フィルター処理を施さないようにすることができます。そのためには、接続フィルターの IP 許可一覧を使います。
+You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
   
 詳細については、「[Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy)」を参照してください。
   
 ## <a name="hybrid-email-routing"></a>ハイブリッド電子メール ルーティング
 
-ハイブリッド展開によって、充実した機能の利用、および既存の社内 Microsoft Exchange 組織に対する管理制御をクラウドにまで展開することができます。ハイブリッド トランスポートでは、いずれかの組織の受信者間で送信されたメッセージは、認証、暗号化され、トランスポート層セキュリティ (TLS) を使用して転送され、トランスポート ルール、ジャーナリング、およびスパム対策ポリシーといった Exchange コンポーネントに対して「内部」として表示されます。ハイブリッド トランスポートは、Exchange Server のハイブリッド構成ウィザードを使用して構成します。
+A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
   
 ハイブリッド展開でのメール ルーティングの詳細については、「[Exchange ハイブリッド展開でのトランスポート ルーティング](https://go.microsoft.com/fwlink/p/?LinkId=271757)」を参照してください。
   
@@ -77,13 +76,13 @@ Exchange Online のお客様は、Microsoft コネクタを使用して、信頼
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>ハイブリッド構成ウィザードでの展開のトラブルシューティング
 
-ハイブリッド構成ウィザードを使用して Microsoft Exchange Server でハイブリッド展開を構成すると、ハイブリッド展開で問題が発生する可能性が大幅に低下します。ただし構成を誤った場合、ハイブリッド構成ウィザードの範囲外に、ハイブリッド展開で問題が発生する可能性がある一般的な領域がいくつかあります。このような領域には、クライアント アクセス サーバーの適切な構成、および証明書の適切なインストールと構成があります。
+Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
   
 ハイブリッド構成ウィザードによる展開のトラブルシューティングの詳細については、「[ハイブリッド展開のトラブルシューティング](https://go.microsoft.com/fwlink/p/?LinkId=271040)」を参照してください。
   
 ### <a name="managing-a-hybrid-configuration"></a>ハイブリッド構成の管理
 
-ハイブリッド構成ウィザードで設定を変更することにより、既存のハイブリッド構成を変更できます。シナリオには、集中型トランスポートを無効にするシナリオ、またはセキュリティで保護されたメール トランスポートを無効にするシナリオがあります。
+You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
   
 ハイブリッド展開の構成の管理の詳細については、「[ハイブリッド展開の管理](https://go.microsoft.com/fwlink/p/?LinkId=271044)」を参照してください。
   

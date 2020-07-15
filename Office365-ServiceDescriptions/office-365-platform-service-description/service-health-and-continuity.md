@@ -1,8 +1,7 @@
 ---
 title: サービスの正常性および継続性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、サインインすることでいつでも利用できます。
-ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044959"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131801"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -28,15 +27,15 @@ Microsoft 管理者は、サービスの状態を表示し、メンテナンス�
   
 ## <a name="view-status-of-services"></a>サービスの状態を表示
 
-[サービスの正常性] セクションには、サービスの現在の状態と、サービスの中断と停止に関する詳細が表示されます。予定されているメンテナンス情報は、メッセージセンターで利用できます。詳細については、「[サービスの状態を表示する](https://docs.microsoft.com/office365/enterprise/view-service-health)」を参照してください。 
+The Service health section shows the current status of the service and details about service disruptions and outages. Planned maintenance information is available on the Message Center. For more information, see [View the status of your services](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>サービス インシデント
 
-サービス インシデントとは、サービスの提供に影響を与えるイベントのことです。考えられるサービス インシデントの原因には、Microsoft のデータ センター内のハードウェアやソフトウェアの障害、お客様と Microsoft 間のネットワーク接続の障害、あるいは火災、洪水、その他の地域災害によるデータ センターの重大な被害などがあります。大部分のサービス インシデントは、Microsoft の技術とプロセス ソリューションを利用して短時間で解決されます。ただし、一部のインシデントはより重大で、サービス停止の期間が長くなる可能性があります。
+A service incident is an event that affects the delivery of a service. Service incidents may be caused by hardware or software failure in the Microsoft data center, a faulty network connection between the customer and Microsoft, or a major data center challenge such as fire, flood, or regional catastrophe. Most service incidents can be addressed using Microsoft technology and process solutions and are resolved within a short time. However, some service incidents are more serious and can lead to longer term outages.
   
 サービスが使用不能になる場合の通知には 2 種類あります。
   
-- 計画された**メンテナンスイベント:** 計画されたメンテナンスは、インフラストラクチャおよびソフトウェアアプリケーションに対して、Microsoft が定期的に開始するサービスの更新です。計画されたメンテナンス通知は、Microsoft サービスの機能に影響を与える可能性があるサービス作業についてお客様に通知します。お客様は、Microsoft 365 管理センターのメッセージセンターを使用して、計画されたすべてのメンテナンスの前に、5日後に通知されます。Microsoft は、通常、地域のタイムゾーンに基づいてサービスの利用状況が最も少ない時間帯にメンテナンスを計画します。 
+- **Planned maintenance events:** Planned maintenance is regular Microsoft-initiated service updates to the infrastructure and software applications. Planned maintenance notifications inform customers about service work that might affect the functionality of a Microsoft service. Customers are notified no later than five days in advance of all planned maintenance through Message Center on the Microsoft 365 admin center. Microsoft typically plans maintenance for times when service usage is historically at its lowest based on regional time zones. 
     
 - **予定外のダウンタイム:** 計画外のサービスインシデントは、いずれかのサービスが使用できないか応答しない場合に発生します。 
 
@@ -104,7 +103,7 @@ Office 365 サービス通信 API を使用すると、目的の方法でサー�
   
 計画外のサービス インシデントは、SLA サービスで定義されたサービスの使用に影響を与える、マルチ テナント サービスの中断として定義され、サービスの正常性ダッシュボードでそのように宣言されています。
   
- 大多数の組織全体に広範で大きな影響があった、お客様に影響を与える計画外のサービス インシデントに対して、暫定のインシデントの事後レビュー (PIR) が、インシデントの解決から 48 時間以内にサービスの正常性ダッシュボード経由で配信されます。続いて最終的な PIR が 5 営業日以内に配信されます。この詳細な PIR レポートには以下の項目が含まれています。 
+ For unplanned customer-impacting service incidents in which there was broad and noticeable impact across a large number of organizations, a preliminary Post-Incident Review (PIR) will be delivered via your Service Health Dashboard within 48 hours of incident resolution, followed by a final PIR within five business days. The detailed PIR report includes: 
   
 - ユーザー エクスペリエンスや顧客への影響
     
@@ -114,7 +113,7 @@ Office 365 サービス通信 API を使用すると、目的の方法でサー�
     
 - 継続的な改善のためになされる根本原因分析と対策
     
-他のすべてのサービス インシデントの場合、サービスの正常性ダッシュボードは、イベントの最終概要、事前の根本原因、開始時刻と終了時刻、および次の手順の詳細情報を含む、インシデント完了の概要を提供します。このカテゴリのサービス インシデントでは、PIR は生成されません。 
+For all other service incidents, the Service Health Dashboard will provide an incident closure summary including a final summary of the event, preliminary root cause, start and end times, and information detailing next steps. For this category of service incident, a PIR will not be generated. 
   
 ## <a name="service-continuity"></a>サービス継続性
 
@@ -126,7 +125,7 @@ Microsoft オファーリングは、サービスのピーク時のパフォー�
 
 Microsoft は、以下の機能によって、お客様がいつでも必要なときにデータを利用できるようにしています。
   
-- **データ ストレージと冗長性:** お客様のデータは、信頼性の高いデータ保護機能を備えた冗長環境に保管されます。これにより可用性とビジネス継続性が確保され、迅速な復旧が可能です。データ冗長性は複数レベルで実装されており、ローカルのディスク障害に対処する冗長ディスク構成から、遠隔地のデータ センターへのデータのフル レプリケーションまでをサポートします。 
+- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
     
 - **データの監視:** Microsoft サービスは、次のようにして高レベルのパフォーマンスを維持します。 
     
@@ -146,13 +145,13 @@ Microsoft は、以下の機能によって、お客様がいつでも必要な�
 
 Microsoft の開発および運用チームは、お客様にビジネス継続性を提供するうえで重要な役割を果たす、専任のサポート組織によって補われています。 サポート スタッフはサービスおよびサービスに関連するアプリケーションに精通しており、Microsoft 社内のアーキテクチャ、開発、テストの専門家と直接やり取りします。
   
-サポート組織は運用および製品開発チームと密接に協力することで、迅速な問題解決を実現し、お客様の声を反映するための窓口になります。お客様からのフィードバックは、計画、開発、運用プロセスに役立てられます。
+The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
   
 - **オンライン問題追跡:** お客様は、問題が対応されていることを把握し、タイムリーに解決されていることを追跡できる必要があります。 Microsoft 365 padmin center ortal は、サポート用の単一の web ベースのインターフェイスを提供します。 お客様はこのポータルを使用することで、サービス リクエストを追加および監視するとともに、Microsoft サポート チームからのフィードバックを受信できます。 
     
 - **スタッフが継続的にサポートするセルフヘルプ:** Microsoft は、お客様が Microsoft サポートを必要とせずにサービス関連の問題を解決するのに役立つ、さまざまなセルフヘルプのリソースとツールを提供しています。 
     
-お客様は、サービス リクエストを作成する前にサポート技術情報の記事や FAQ を参照することで、よくある問題に関するヘルプを即座に得ることができます。これらのリソースは絶えず最新の情報に更新され、既知の問題に対する解決策をタイムリーに提供します。また、サポート担当者による対応が必要な問題が発生した場合は、電話または管理ポータルを通じて、24 時間 365 日体制のスタッフによる迅速な支援を得ることができます。
+Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
   
 サポートの詳細については、「[サポート](support.md)」トピックを参照してください。 
   

@@ -1,8 +1,7 @@
 ---
 title: Web 用 Visio サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。
-ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213655"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131951"
 ---
 # <a name="visio-for-the-web-service-description"></a>Web 用 Visio サービスの説明
 
