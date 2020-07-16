@@ -26,7 +26,7 @@ ms.locfileid: "45131151"
   
 ## <a name="create-a-project-site"></a>プロジェクトサイトを作成する
 
-If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+Project Web App を使用する場合、SharePoint で新規プロジェクト サイトを作成するか、既存のサイトと同期することで、プロジェクトを他のユーザーと共有できます。サイトはプロジェクトのタスクを SharePoint タスク リストとして共有します。[SharePoint との同期](https://go.microsoft.com/fwlink/p/?LinkId=271352)について詳細情報を参照してください。
   
 ## <a name="master-projects-on-sharepoint"></a>SharePoint のマスター プロジェクト
 
@@ -46,7 +46,7 @@ Project Web App を使用してプロジェクトを発行します。 プロジ
   
 ## <a name="task-list-sync-to-sharepoint"></a>SharePoint へのタスクリストの同期
 
-After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+最初にプロジェクトを SharePoint タスク リストとペアにすると、プロジェクトを更新した場合引き続きタスク リストを同期できます。同期中、以前のタスク間の関係、マイルストーン、フィールドのマッピング (メモを含む) が維持されます。チームのメンバーは、自分のタスクにアクセスするために Project Professional 2013 をインストールする必要はありません。[SharePoint タスク リストとの同期](https://go.microsoft.com/fwlink/p/?LinkId=271353)について詳細情報を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

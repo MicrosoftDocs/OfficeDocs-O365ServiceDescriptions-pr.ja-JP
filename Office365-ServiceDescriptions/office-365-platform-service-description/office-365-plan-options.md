@@ -41,10 +41,10 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
    
 ### <a name="service-availability-within-each-office-365-plan"></a>それぞれの Office 365 プランのサービスの可用性
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+各 Office 365 プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。次の表に、各 Office 365 プランで使用できるサービスを示します。
   
 > [!IMPORTANT]
->  特定のサービスを複数の Office 365 プランで使用できることがありますが、各プランで使用できる機能は異なることがあります。 各プランで利用できる機能の詳細を表示するには、各サービスの説明を参照するか、詳細について販売店または Microsoft の営業担当者にお問い合わせください。 <br/>  Several of the Office 365 for business plans have add-ons that you can buy for your subscription. An add-on provides additional functionality to the subscription. For more information, see [Buy or edit an add-on for Office 365 for business](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
+>  特定のサービスを複数の Office 365 プランで使用できることがありますが、各プランで使用できる機能は異なることがあります。 各プランで利用できる機能の詳細を表示するには、各サービスの説明を参照するか、詳細について販売店または Microsoft の営業担当者にお問い合わせください。 <br/>  いくつかの Office 365 のビジネス プランには、サブスクリプションのために購入可能なアドオンが用意されています。アドオンにより、サブスクリプションに追加機能が提供されます。詳細については、「[一般法人向け Office 365 向けのアドオンを購入または編集する](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」を参照してください。 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|

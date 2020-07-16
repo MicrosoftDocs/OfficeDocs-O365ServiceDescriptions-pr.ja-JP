@@ -30,7 +30,7 @@ ms.locfileid: "45132111"
     
 - モバイル デバイスでの Skype for Business のオプションを確認するには、「[モバイル デバイス、Macintosh に Skype for Business をインストールする](https://go.microsoft.com/fwlink/?linkid=847564)」を参照してください。
     
-- For a detailed comparison of the Skype for Business desktop and web clients, see [Skype for Business Online client comparison tables](https://go.microsoft.com/fwlink/?linkid=829754). For a detailed comparison of the Skype for Business mobile clients, see the [Mobile client comparison tables](https://go.microsoft.com/fwlink/?linkid=846932).
+- Skype for Business のデスクトップと Web クライアントの詳細な比較については、「[Skype for Business のデスクトップ クライアントの比較表](https://go.microsoft.com/fwlink/?linkid=829754)」を参照してください。Skype for Business のモバイル クライアントの詳細な比較については、「[Skype for Business のモバイル クライアントの比較表](https://go.microsoft.com/fwlink/?linkid=846932)」を参照してください。
     
 モバイルデバイス、PC、Mac 用のクライアントをダウンロードするには、「[すべてのデバイスで Skype For business をダウンロード](https://go.microsoft.com/fwlink/?linkid=846929)する」にアクセスしてください。
   
@@ -50,7 +50,7 @@ Skype for Business を使って、ユーザーは次のことができます。
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Skype 間の音声、ビデオ、メディア
 
-Skype for Business Online users can make one-to-one computer-based audio and video calls to other Skype for Business users using a PC and a web camera. A Skype for Business Online user can initiate Skype-to-Skype audio and video calls with another user in the same Skype for Business Online organization (within or outside the corporate firewall), or with another Skype for Business user in a Skype for Business federated domain if the two Skype for Business domains are correctly configured, supported, and permitted for federation.
+Skype for Business Online ユーザーは、PC と Web カメラを使用して、1 対 1 のコンピューターベースの音声通話とビデオ通話を他の Skype for Business ユーザーに対して行うことができます。Skype for Business Online ユーザーは、同じ Skype for Business Online 組織 (会社のファイアウォール内側でも外側でも) 内の別のユーザー、または 2 つの Skype for Business ドメインがフェデレーション用に適切に構成、サポート、許可されている場合は Skype for Business フェデレーション ドメイン内の別の Skype for Business ユーザーと、Skype 間の音声通話とビデオ通話を開始できます。
   
 Skype for business でオーディオデバイスのオプションを設定する方法については、「 [skype For business でオーディオデバイスのオプションを設定](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff)する」を参照してください。 
   
@@ -71,19 +71,19 @@ Skype for Business のマルチパーティ オーディオには、各種の帯
 Skype for Business online 会議の詳細については、「 [IM およびオンライン会議のための skype For business の使用を開始](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd)する」を参照してください。
   
 > [!IMPORTANT]
-> Multiparty Skype for Business audio and video capabilities might not be available in certain countries due to regulatory restrictions. For details, see [About license restrictions](https://go.microsoft.com/fwlink/?LinkId=278963). 
+> マルチパーティ対応の Skype for Business 音声/ビデオ機能は、特定の国では規制上の制約によりご利用いただけない場合があります。詳細については、「[Office 365 で Office を最大限に活用する](https://go.microsoft.com/fwlink/?LinkId=278963)」をご覧ください。 
   
 ## <a name="security-and-archiving"></a>セキュリティとアーカイブ
 
 Microsoft のトラフィック (信号およびメディアトラフィックの両方) は、トランスポート層セキュリティ (TLS) プロトコルを使用して暗号化されます。 誰かが通信を傍受しても暗号化されたテキストしか見ることができません。 たとえば、空港などの公衆 Wi-Fi ネットワークを使用中に Skype for Business Online の IM や通話、プレゼンテーションにアクセスした場合、ネットワーク スニファーによって通信が傍受されるおそれがあるため、ユーザーの通信は暗号化されます。
   
-Skype for Business provides archiving of peer-to-peer instant messages, multiparty instant messages, and content upload activities in meetings. The archiving capability requires Exchange and is controlled by the user's Exchange mailbox In-Place Hold attribute, which archives both email and Skype for Business contents.
+Skype for Business は、ピアツーピアのインスタント メッセージ、マルチパーティのインスタント メッセージ、および会議中にアップロードされたコンテンツのアーカイブを提供します。アーカイブ機能には Exchange が必要で、ユーザーの Exchange メールボックスのインプレース ホールド属性によって制御されます。この属性は、電子メールと Skype for Business のコンテンツの両方をアーカイブします。
   
-All archiving in Skype for Business is considered "user-level archiving" because you enable or disable it for one or more specific users or groups of users by creating, configuring, and applying a user-level archiving policy for those users. There is no direct control of archiving settings from within the Skype for Business admin center. 
+ユーザーレベルのアーカイブ ポリシーを作成、構成、適用することで、特定のユーザーまたはユーザー グループに対するアーカイブ処理を有効または無効にするため、Skype for Business のアーカイブはすべて「ユーザーレベル アーカイブ」と見なされます。Skype for Business 管理センター内部からはアーカイブ設定を直接管理できません。 
   
 ## <a name="exchange-and-sharepoint-interoperability"></a>Exchange と SharePoint の相互運用性
 
-Skype for Business Online includes high definition pictures, presence status updates based on Exchange calendar information, unified contact store, archiving, out-of-office messages in Skype for Business, and presence status and click-to-communicate in Outlook. This interoperability requires running the Skype for Business client on the user's desktop.
+Skype for Business Online には、高精細の画像、Exchange 予定表情報に基づくプレゼンス状態の更新、統合連絡先ストア、アーカイブ、Skype for Business の不在メッセージ、および Outlook のプレゼンス状態とクリック通信機能が含まれます。この相互運用性では、ユーザーのデスクトップで Skype for Business クライアントを実行する必要があります。
   
 特定のサブスクリプション プランでは、次のことを行うために Skype for Business を Exchange Online ユニファイド メッセージング (UM) と統合できます。
   
@@ -91,7 +91,7 @@ Skype for Business Online includes high definition pictures, presence status upd
     
 - Web 上の Outlook を有効にして、IM、プレゼンス、Exchange 予定表情報に基づく状態の更新、および Skype for Business 会議のスケジュールを提供します。
     
-Skype for Business interoperates with on-premises Microsoft SharePoint Server for presence and click-to-communicate in SharePoint sites. This interoperability requires running the Skype for Business client on the user's desktop. 
+Skype for Business は、SharePoint サイトのプレゼンスおよびクリックだけで可能になる通信機能のためにオンプレミス Microsoft SharePoint サーバーと相互に連携します。この相互運用性では、ユーザーのデスクトップで Skype for Business クライアントを実行する必要があります。 
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Skype for Business Online の管理
 
@@ -111,13 +111,13 @@ Microsoft では、すべての Skype for Business Online データセンター�
   
 ## <a name="audio-conferencing-in-office-365"></a>Office 365 における電話会議
 
-Audio Conferencing is any conference in which at least one participant dials in to the audio portion by using a phone. The ability to use a phone to access a meeting is useful for individuals who are on the road or otherwise can't attend a meeting using a mobile device or PC. Using a phone also can be a better option in other scenarios, such as when internet connectivity is limited or when a meeting is audio only.
+電話会議とは、少なくとも 1 人の参加者が電話を使用して、音声部分にダイヤルインする会議のことを指します。電話を使用して会議にアクセスする機能は、ユーザーが外出先にいるときや、モバイル デバイスまたは PC を使用して会議に参加できないときに役立ちます。電話を使用することが最適なオプションとなるシナリオには、インターネット接続が制限されている場合や、会議が音声のみである場合などがあります。
   
-With Audio Conferencing, users in your organization can host or create meetings that contain dial-in phone numbers. Callers can then use those phone numbers to call into a meeting using their phones (users who are dialing into a meeting will only get audio, not instant messages, shared desktops, or files being shared in the meeting). You only need to set up dial-in conferencing for users who plan to schedule or lead meetings. Unless the organizer has locked the meeting, anyone who has the dial-in number and conference ID can join the meeting. For details, see [Getting started with Audio Conferencing](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) and [Dial-in numbers available for Audio Conferencing](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+電話会議では、組織内のユーザーは、ダイヤルインの電話番号が含まれる会議をホストまたは作成できます。発信者は、これらの電話番号を使用して、自分の電話で会議にコールインすることができます (会議にダイヤルインしているユーザーは、音声しか聞けず、インスタント メッセージ、共有デスクトップ、または会議で共有されているファイルを取得することはできません)。ダイヤルイン会議をセットアップする必要があるのは、会議をスケジュールまたは進行するユーザーに対してのみです。開催者が会議をロックした場合を除き、ダイヤルイン電話番号と会議 ID を持つユーザーは、誰でも会議に参加できます。詳細については、「[電話会議とプランの呼び出しのサポートされている国/地域](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」および「[電話会議のダイヤルイン電話番号](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)」をご覧ください。
   
 ダイヤルイン会議を有効にするには、ダイヤルイン会議プロバイダーとして Microsoft を使用するか、またはサードパーティのダイヤルイン会議プロバイダー (電話会議プロバイダーまたは ACP とも呼ばれます) を使用することができます。
   
-Audio Conferencing is not available in all countries or regions. For a list of the countries or regions in which you can purchase Audio Conferencing, see [Where can you get Audio Conferencing?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+一部の国または地域では電話会議は使用できません。電話会議機能を購入できる国と地域の一覧については、「[電話会議とプランの呼び出しのサポートされている国/地域](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」をご覧ください。
   
 ## <a name="calling-plans"></a>通話プラン
 

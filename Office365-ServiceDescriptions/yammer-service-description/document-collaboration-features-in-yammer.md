@@ -24,7 +24,7 @@ Yammer では次のドキュメント コラボレーション機能が利用可
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Yammer プランのドキュメント コラボレーション機能
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+組織のニーズに最適な Yammer プランをお探しですか？各プランで利用できるドキュメント コラボレーション機能を次の表で確認してください。
   
 |**機能**|**Yammer ベーシック**|**Yammer エンタープライズ**|
 |:-----|:-----|:-----|

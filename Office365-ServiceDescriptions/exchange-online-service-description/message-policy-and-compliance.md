@@ -21,13 +21,13 @@ ms.locfileid: "45132701"
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Exchange Online ベースのメールボックスのアーカイブ
 
-Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
+Exchange Online のメールボックスはクラウド内に存在するため、これらのメールボックスをアーカイブするには固有のホスティング環境が必要になります。いくつかのケースでは、Exchange Online を使用して社内メールボックスをクラウドでアーカイブすることもできます。このセクションでは、Exchange Online でのアーカイブ オプションについて説明します。
   
 Exchange Online には、ユーザーが古い電子メールメッセージを保存するのに便利な場所を提供するインプレースアーカイブなど、クラウドベースのメールボックス用の組み込みアーカイブ機能が用意されています。 インプレースアーカイブは、Outlook および web 上の Outlook のユーザーのプライマリメールボックスフォルダーと共に表示される特別な種類のメールボックスです。 ユーザーは、アクセスして、プライマリメールボックスを検索するのと同じ方法でアーカイブにアクセスして検索できます。 利用可能な機能は、使用中のクライアントによって異なります。
   
 - Outlook **2016、outlook 2013、outlook 2010、web 上の outlook**ユーザーは、アーカイブのすべての機能に加え、保持およびアーカイブポリシーの制御といった関連するコンプライアンス機能を利用できます。 
     
-- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
+- **Outlook 2007** ユーザーはインプレース アーカイブの基本的な機能を利用できますが、すべてのアーカイブ機能とコンプライアンス機能を利用できるわけではありません。たとえば、ユーザーはメールボックス アイテムに対して保持またはアーカイブ ポリシーを適用できないため、管理者がプロビジョニングするポリシーを使用する必要があります。 
     
 管理者は Exchange 管理センターまたはリモート Windows PowerShell を使用し、特定のユーザーに対する個人用アーカイブ機能を有効にします。
   
@@ -43,12 +43,12 @@ Exchange Online には、ユーザーが古い電子メールメッセージを�
   
 > [!IMPORTANT]
 > - ジャーナリング、トランスポート ルール、または自動転送ルールを使用してアーカイブの目的のため、Exchange Online メールボックスにメッセージをコピーすることは許可されていません。 Microsoft は、メールボックスアーカイブが個人のシナリオで使用されていない場合や不適切な使用がある場合に、無制限のアーカイブを拒否する権利を留保します。
-> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
+> - インプレース アーカイブには、Outlook ユーザーに対する特定のライセンス要件があります。Outlook 2007 ユーザーが個人用アーカイブにアクセスするためには、Office 2007 の 2011 年 2 月の累積的な更新プログラムが必要です。 
 > - Exchange Online では、管理者が作成した .pst ファイルを個人用アーカイブにインポートするために、Exchange Server 2010 Service Pack 1 以降の_New-mailboximportrequest_ Windows PowerShell コマンドレットをサポートしていません。 ユーザーのプライマリ メールボックスとアーカイブの両方が Exchange Online にある場合、管理者は PST Capture (無料ツール) を使用してユーザーのプライマリ メールボックスまたはアーカイブに .pst ファイルのデータをインポートすることができます。
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>社内メールボックスのクラウドベースのアーカイブ
 
-Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
+Microsoft のホスト型のアーカイブ ソリューションである Microsoft Exchange Online Archiving では、Exchange Online を使用して Exchange Server 2010 以降の社内メールボックスをクラウドベースでアーカイブすることができます。これを行うには、社内組織がハイブリッド モードになっているか、Exchange Online Archiving 用にセットアップされている必要があります。
   
 > [!IMPORTANT]
 > 管理フォルダー ポリシーが適用された Exchange 2010 メールボックス サーバー上の社内メールボックスを使用するユーザーでは、社内またはクラウドベースのインプレース アーカイブを有効にすることはできません。 
@@ -59,11 +59,11 @@ Exchange Online で提供される保持ポリシーは、組織における電�
   
 Exchange Online では、管理者は Exchange 管理センター (EAC) またはリモート Windows PowerShell を使用してアイテム保持ポリシーを管理します。
   
-Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
+Exchange Online では、アーカイブ ポリシーと削除ポリシーの 2 つのタイプのポリシーが利用できます。同じアイテムまたはフォルダーに対して両方のタイプを組み合わせて使用することができます。たとえば、ユーザーは指定した日数後に電子メール メッセージをインプレース アーカイブに自動的に移動し、さらに一定の期間が経過した後に削除するように電子メール メッセージにタグ付けできます。
   
 Outlook 2010 以降および web 上の Outlook では、ユーザーはフォルダー、会話、または個々のメッセージにアイテム保持ポリシーを適用することができます。 また、メッセージに適用済みのアイテム保持ポリシーや削除日を表示することもできます。 他の電子メール クライアントのユーザーは、管理者が設定したサーバー側のアイテム保持ポリシーに基づいて電子メール メッセージの削除またはアーカイブを行うことができます。
   
-The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
+Exchange Online で利用できるアイテム保持ポリシーの機能は、Exchange Server 2010 Service Pack 2 RU4 で利用できる機能と同じです。管理者はリモート Windows PowerShell を使用して、アイテム保持ポリシーを Exchange Server 2010 以降の社内環境から Exchange Online に移行できます。
   
 > [!IMPORTANT]
 > 管理フォルダー (Exchange Server 2007 で導入された古いメッセージング レコード管理方式) は Exchange Online では利用できません。 
@@ -80,7 +80,7 @@ Microsoft サーバーは、BitLocker を使用して、お客様のデータが
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
-In addition to BitLocker, we use a technology called Distributed Key Manager (DKM). DKM is a client-side functionality that uses a set of secret keys to encrypt and decrypt information. Only members of a specific security group in Active Directory Domain Services can access those keys to decrypt the data that is encrypted by DKM. In Exchange Online, only certain service accounts under which the Exchange processes run are part of that security group. As part of standard operating procedure in the datacenter, no human is given credentials that are part of this security group and therefore no human has access to the keys that can decrypt these secrets.
+BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロジも使用しています。DKM は、一連の秘密キーを使用して情報を暗号化および復号化するクライアント側の機能です。Active Directory ドメイン サービス内の特定のセキュリティ グループのメンバーのみが、DKM によって暗号化されたデータを解読するためにこれらのキーにアクセスできます。Exchange Online では Exchange プロセスの実行に使用する特定のサービス アカウントだけが、そのセキュリティ グループに属します。データセンター内の標準運用手順の一環として、このセキュリティ グループに属する資格情報は人間には付与されないため、人間はだれもこれらの機密情報を解読できるキーにアクセスできません。
   
 ## <a name="customer-key"></a>顧客キー
 
@@ -88,19 +88,19 @@ In addition to BitLocker, we use a technology called Distributed Key Manager (DK
   
 ## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
 
-Office 365 Message Encryption allows email users to send encrypted email messages to anyone. We announced new capabilities in Office Message Encryption that leverage the protection features in Azure Information Encryption. These new capabilities provided enhanced end user experiences that make it easier to share and collaborate on protected messages with anyone inside or outside the organization. The new Office Message Encryption capabilities have some setup requirements. See Set up new Office 365 Message Encryption capabilities built on top of Azure Information Protection. Customers on legacy Office 365 Message Encryption do not get the new capabilities without following the set up guidance provided above. Please read the [FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) for more details on what's included in the new vs. legacy Office 365 Message Encryption capabilities. 
+Office 365 Message Encryption によって、電子メール ユーザーは暗号化された電子メールを任意の宛先に送信できます。Azure Information Encryption の保護機能を活用する Office Message Encryption の新機能を発表しました。これらの新機能ではエンド ユーザー エクスペリエンスが拡張されており、それによって組織内外のだれとでも保護されたメッセージを簡単に共有し、共同作業をすることが可能になります。新しい Office Message Encryption 機能のセットアップにはいくつかの要件があります。Azure Information Protection をベースにビルドされている新しい Office 365 Message Encryption 機能のセットアップ情報を参照してください。従来の Office 365 Message Encryption を使用しているお客様は、上記のガイダンスに基づいてセットアップを行わない限り、新機能をご利用になれません。Office 365 Message Encryption の新旧それぞれの機能の詳細については、[FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) を参照してください。 
 
 Office 365 Advanced Message Encryption では、メッセージの有効期限と失効を許可することによって、追加の保護を提供します。  組織から送信される暗号化メール用に複数のテンプレートを作成することもできます。  高度なメッセージの暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフの価格)、Office 365 Enterprise E5 (非営利スタッフの価格)、または Office 365 教育 A5 に含まれています。 Office 365 Advanced Message Encryption を含まないサブスクリプションが組織にある場合は、Microsoft 365 E5 コンプライアンスまたは Office 365 Advanced コンプライアンス SKU をアドオンとして購入できます。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
-S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
+S/MIME を使用すれば、組織内で署名して暗号化した電子メールを送信することにより、機密情報を保護することができます。管理者は、PKI 証明書を設定してユーザーに発行した後で、リモート Windows PowerShell を使用して S/MIME をセットアップすることができます。この証明書は、社内の Active Directory 証明書サービスから同期する必要があります。
   
 S/MIME は Microsoft Edge および Internet Explorer 11 でサポートされています。 現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。 詳細については、「[S/MIME によるメッセージの署名と暗号化](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)」を参照してください。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>インプレース保持と訴訟ホールド
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+訴訟となる可能性がある程度見込まれる場合、組織では、訴訟に関連する電子メールを含めた電子的に格納された情報 (ESI) を保持する必要があります。訴訟の詳細が明らかになる前に訴訟の可能性を予測する場合もあるため、保持の対象が広範囲にわたることもあります。組織では、特定の問題に関するすべての電子メールを保存したり、特定の個人に関するすべての電子メールを保存したりします。
   
 Exchange Online では、次の目標を達成するためにインプレース保持または訴訟ホールドを使用できます。
   
@@ -131,13 +131,13 @@ Exchange Online では、次の目標を達成するためにインプレース�
 
 Exchange Online を使用すると、ユーザーは web ベースのインターフェイスを使用して、組織全体のメールボックスの内容を検索できます。 インプレースの電子情報開示検索の実行を許可された管理者やコンプライアンス担当者およびセキュリティ担当者は、(割り当てにより) 電子メール メッセージ、添付ファイル、予定表の予定、タスク、連絡先、およびその他のアイテムを検索できます。 インプレース電子情報開示では、プライマリ メールボックスとアーカイブを同時に検索できます。 KQL 構文に加えて、送信者、受信者、メッセージの種類、送信/受信日付、およびカーボン コピー/ブラインド カーボン コピーなどの豊富なフィルタリング機能が利用できます。 検索結果には、検索クエリに一致した削除済みアイテム フォルダー内のアイテムも含まれます。
   
-Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
+インプレース電子情報開示検索の結果は、Web ベースのインターフェイスでプレビューし、PST ファイルにエクスポートし、探索メールボックスと呼ばれる特殊なメールボックスにコピーすることができます。探索メールボックスには、検索結果を格納するための 50 GB のクォータが割り当てられています。また、管理者は Outlook を探索メールボックスに接続して検索結果にアクセスし、検索結果を .pst ファイルにエクスポートすることもできます。
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
+管理者は Exchange 管理センターまたはリモート Windows PowerShell を使用して、複数メールボックス検索を実行できます。Exchange 管理センターでは、検索結果の読み取り専用のプレビューを利用できます。これにより、管理者は検索をすばやく確認し、必要に応じて、別のパラメーターで検索を実行し直すことができます。検索を最適化した後に、管理者は検索結果を探索メールボックスにコピーできます。
   
-By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
+既定では各組織に 1 つの探索メールボックスが作成されますが、管理者はリモート Windows PowerShell を使用して追加の探索メールボックスを作成することができます。インプレース電子情報開示検索の結果を格納する以外の目的に探索メールボックスを使用することはできません。
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
+管理者は Exchange 管理センターまたはリモート Windows PowerShell を使用して、インプレース電子情報開示検索を実行できます。Exchange 管理センターでは、検索結果の読み取り専用のプレビューを利用できます。これにより、管理者は検索をすばやく確認し、必要に応じて、別のパラメーターで検索を実行し直すことができます。検索を最適化した後に、管理者は検索結果を探索メールボックスにコピーしたり、検索結果を PST ファイルにエクスポートしたりできます。
   
 管理者は、Exchange 管理センターまたはリモート Windows PowerShell を使用して、インプレース電子情報開示検索で一度に最大 10,000 のメールボックスを検索できます。 
   
@@ -153,9 +153,9 @@ Exchange Online では、権限のあるユーザーがインプレース電子�
   
 ## <a name="mail-flow-rules"></a>メール フロー ルール
 
-You can use mail flow rules to look for specific conditions on messages that pass through your organization and act on them. Mail flow rules let you apply messaging policies to email messages, secure messages, protect messaging systems, and prevent information leakage.
+メール フロー ルールを使用すると、組織を通過するメッセージを、特定の条件に基づいて確認し、処理することができます。メール フロー ルールによって、電子メール メッセージにメッセージング ポリシーを適用し、メッセージおよびメッセージング システムを保護し、情報漏洩を防ぐことができます。
   
-Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
+今日、多くの組織では、組織の内部および外部にいる受信者と送信者の間の通信を制限するメッセージング ポリシーを適用することが、法律、規制要件、または企業ポリシーによって要求されています。一部の組織では、個人間、組織内の各部門のグループ間、および組織外のエンティティ間の通信を制限するだけでなく、以下のようなメッセージング ポリシーの要件も満たす必要があります。
   
 - 不適切なコンテンツが組織に侵入したり組織から発信されたりしないようにする
     
@@ -168,7 +168,7 @@ Many organizations today are required by law, regulatory requirements, or compan
 - メッセージが組織を通過するときに免責事項を適用する
     
 > [!IMPORTANT]
-> Attachment file types that require installation of third-party iFilters on the email server (such as Adobe .pdf) cannot be inspected using mail flow rules until after an appropriate iFilter is installed. For more information about file types that are supported by mail flow rules, see [Use mail flow rules to inspect message attachments in Office 365](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
+> 電子メール サーバー上にサードパーティの iFilter をインストールする必要のある添付ファイルの種類 (Adobe .pdf など) では、適切な iFilter をインストールしない限りメール フロー ルールを使用して検査できません。メール フロー ルールでサポートされているファイルの種類の詳細については、「[Office 365 で、メール フロー ルールを使用してメッセージの添付ファイルを検査する](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)」を参照してください。
   
 メール フロー ルールの詳細については、「[Exchange 2016 でのメール フロー ルール](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)」をご覧ください。
   
@@ -188,7 +188,7 @@ DLP ポリシーは Exchange 管理センター (EAC) の管理インターフ�
     
 - メッセージの添付ファイル、本文テキスト、または件名に含まれる機密情報を検出し、Exchange Online で処理を実行する信頼レベルを調整できます。
     
-- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
+- ドキュメントのフィンガープリント機能を使って機密性の高いフォーム データを検出できます。ドキュメントのフィンガープリント機能を使用すると、テキスト ベースのフォームを基に、機密情報のカスタム タイプを手早く作成し、トランスポート ルールと DLP ポリシーを定義できます。
     
 - ポリシーヒントを追加します。これにより、Outlook 2016、Outlook 2013、Outlook on the web、およびデバイスユーザー用 OWA に通知が表示されるので、データの損失を減らすことができます。また、誤報告を許可することで、ポリシーの有効性を向上させることもできます。 
     
@@ -198,9 +198,9 @@ DLP の詳細については、「[データ損失防止](https://docs.microsoft
   
 ## <a name="journaling"></a>ジャーナリング
 
-You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
+Exchange Online は、SMTP を介してメッセージを受信できる任意の外部メールボックスに電子メールのコピーをジャーナリングするように構成することができます。ジャーナリングは、受信および送信電子メールを記録することで、組織が法律、規則、および組織の準拠要件に応答するのに役立ちます。メッセージのアイテム保持および準拠の計画をする場合、ジャーナリングについて、どのように組織の準拠ポリシーに適合するかを理解することは重要です。
   
-You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
+ジャーナル ルールは、Exchange 管理センターまたはリモート Windows PowerShell を使用して管理できます。ユーザー単位および配布リスト単位でジャーナリングを構成し、内部メッセージのみ、外部メッセージのみ、または内部メッセージと外部メッセージの両方をジャーナリングするように選択できます。ジャーナリングされたメッセージには、元のメッセージだけでなく、送信者、受信者、コピー、およびブラインド コピーについての情報も含まれます。
   
 信頼性の高いジャーナリングを実現するには、次のタスクをすべて実行する必要があります。
   

@@ -35,7 +35,7 @@ BlackBerry 10 スマートフォンは、Microsoft Exchange ActiveSync を使用
 
 BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前のスマートフォンを Exchange Online に接続できます。 BIS は、BlackBerry ユーザーが IMAP または POP を経由してインターネット経由で電子メールアカウントにアクセスできるようにします。
   
-Most mobile operators have BIS set up. End users will need to configure email, calendar, and contacts synchronization by using the instructions in the following Knowledge Base articles:
+ほとんどの携帯電話会社では BIS がセットアップされています。そのためエンド ユーザーは、次のサポート技術情報の記事を使用して、電子メール、予定表、連絡先の同期を構成する必要があります。
   
 - [KB31310 - BlackBerry Internet Service と Microsoft Office 365 サービス](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -44,7 +44,7 @@ Most mobile operators have BIS set up. End users will need to configure email, c
 - [KB22430 - BlackBerry Internet Service とのワイヤレスの連絡先同期を有効または無効にする方法](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> Users who connect to their accounts using IMAP or POP connections can synchronize their email only by using a wireless connection. For information about how BIS users can use a wired connection to synchronize the contacts and calendar between their BlackBerry smartphones and their accounts, contact BlackBerry support. 
+> IMAP または POP 接続を使用して自分のアカウントに接続するユーザーは、ワイヤレス接続を使用する場合にのみ電子メールを同期することができます。BIS ユーザーが BlackBerry スマートフォンとアカウントとの間の連絡先や予定表を有線接続で同期する方法については、BlackBerry サポートにお問い合わせください。 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>BlackBerry スマートフォンと SharePoint Online
 

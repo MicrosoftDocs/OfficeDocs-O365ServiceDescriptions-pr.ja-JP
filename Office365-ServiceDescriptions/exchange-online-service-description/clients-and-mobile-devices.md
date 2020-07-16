@@ -25,11 +25,11 @@ Microsoft Outlook は、予定表、連絡先、タスク、および以下の�
   
 - **MAPI OVER HTTP**HTTP 経由のメッセージングアプリケーションプログラムインターフェイス (MAPI) により、Outlook ユーザーは組織のファイアウォールの外側からインターネット経由で Exchange Online メールボックスに接続することができます。 MAPI over HTTP は、Outlook Anywhere の長期的な置き換えとしてサポートされています。 この接続方法は、接続回復力の向上、より安全なサインイン、拡張性、および IT とサポートの拡張機能を提供します。 詳細については、「 [Office 365 における RPC over HTTP のサポート終了 (2017 年 10 月 31 日) に関する情報](https://go.microsoft.com/fwlink/?linkid=863890)」および「[MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041)」を参照してください。
 
-- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
+- **自動検出** 自動検出サービスは、Exchange Online と連携するように Outlook を自動的に構成します。Outlook ユーザーは、電子メール アドレスとパスワードを使って初めて Exchange Online にサインインしたときに、必要なプロファイル設定を受信します。これらの設定は、ユーザーのプロファイルの作成と管理に必要な情報で Outlook クライアントを自動的に更新します。自動検出サービスを使用するには SSL 証明書が必要です。この SSL 証明書は、単一のプライマリ SSL ドメインに限定されます。 
 
 - **Exchange キャッシュモード**Exchange キャッシュモード機能を使用すると、Outlook ユーザーは、インターネットに接続されていない場合に Exchange Online メールボックスのローカルコピーにアクセスすることができます。 Exchange キャッシュモードでは、ユーザーの Exchange メールボックスのクライアント側コピーが Outlook に保持され、このコピーが電子メールサーバーと自動的に同期されます。 Exchange キャッシュモードで Outlook を使用することをお勧めします。これは、オフラインアクセスを提供し、クライアントとサーバーの間のネットワーク条件が理想的でない場合でも、応答性の高いユーザー環境を提供するために使用することをお勧めします。 
 
-By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
+既定では、すべてのユーザーが Outlook からアクセスできます。管理者は Windows PowerShell を使って特定のユーザーまたはグループのアクセスを無効にできます。Exchange Online へのアクセスには、最新の Service Pack をインストールした最新バージョンの Outlook を使用してください。 
   
 Exchange 2016 と Exchange Online でサポートされている Outlook クライアントの詳細については、「 [Office のシステム要件](https://products.office.com/office-system-requirements)」を参照してください。 
 
@@ -59,7 +59,7 @@ Exchange Online は Microsoft Outlook for Mac をサポートしています。M
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook for iOS、Android、および Windows Phone
 
-Exchange Online works with Outlook apps available for iOS, Android, and Windows Phone. On any of these devices, use the app store to find the Outlook app. Here's a breakdown by mobile OS.
+Exchange Online は、iOS、Android、および Windows Phone で使用可能な Outlook アプリで動作します。これらのデバイスのいずれかで、アプリ ストアを使用して Outlook アプリを検索します。モバイル OS での概要を次に示します。
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -120,7 +120,7 @@ Outlook for iOS、Outlook for Android、または Outlook for Windows Phone を�
 
 Exchange Online は、モバイル デバイスと Exchange Online の間でメールボックス データを同期する Microsoft Exchange ActiveSync プロトコルをサポートしているため、電子メール、予定表、連絡先、タスクに外出先からアクセスできます。
   
-A wide range of mobile devices work with Exchange ActiveSync, including Microsoft Windows Phone, Apple iPhone and iPad, and Android phones and tablets. In addition to mobile phones and devices, the Mail application in Windows Phone uses Exchange ActiveSync to connect to Exchange Online. A complete list of current Exchange ActiveSync licensees is available at the Exchange ActiveSync Licensing site.
+Microsoft の Windows Phone、Apple の iPhone および iPad、Android の携帯電話およびタブレットなど、さまざまなモバイル デバイスが Exchange ActiveSync に対応しています。携帯電話やモバイル デバイスだけでなく、Windows Phone の電子メール アプリケーションも Exchange Online への接続に Exchange ActiveSync を使用しています。最新の Exchange ActiveSync ライセンシーの完全な一覧は、Exchange ActiveSync ライセンス サイトで提供しています。
   
 Exchange ActiveSync の詳細については、「[Exchange Online のクライアントとモバイル](https://go.microsoft.com/fwlink/p/?LinkId=271792)」を参照してください。
   
@@ -135,20 +135,20 @@ Exchange Web サービスで開発されたアプリケーションの詳細に�
   
 ## <a name="pop-and-imap"></a>POP と IMAP
 
-Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
+Exchange Online は、POP3 および IMAP4 プロトコルによるメールボックスへのアクセスをサポートします。POP および IMAP でのアクセスには、SSL による暗号化が必要です。既定では、POP がすべてのユーザーに対して有効になっています。POP および IMAP の接続設定は Outlook on the web で確認できます。管理者はユーザーごとに POP および IMAP によるアクセスを無効にできます。
   
 POP3 および IMAP4 接続の詳細については、「[Exchange Server 2013 での POP3 と IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070)」を参照してください。
   
 ## <a name="smtp"></a>SMTP
 
-Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
+簡易メール転送プロトコル (SMTP) は、IMAP または POP で Exchange Online に接続しているクライアントからのメール送信に使用されます。SMTP は、Exchange サーバーを経由したルーティングおよび配信を行うためのプライマリ プロトコルです。Exchange Online は、SMTP によるメール送信を必要とするお客様社内の承認済みアプリケーションに対して、2 種類の SMTP リレー サービスをサポートしています。
   
 - 管理環境内のユーザーに対する SMTP メッセージの送信。
 
 - 管理環境外のアドレスに対する認証済み SMTP メッセージ リレー。
 
 > [!IMPORTANT]
-> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
+> SMTP リレーを行うには、承認済み送信元サーバーの IP アドレスが必要です。SMTP で電子メールを送信するには、トランスポート層セキュリティ (TLS) による暗号化と認証が必要です。 
   
 ## <a name="blackberryreg-devices"></a>BlackBerry &reg; デバイス
 
@@ -161,7 +161,7 @@ Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients t
 詳細については、「[BlackBerry](../office-365-platform-service-description/blackberry.md)」を参照してください。
   
 > [!NOTE]
-> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
+> 中国の 21Vianet が運用している Office 365 を使用している場合は、BlackBerry Business Cloud Services が使用できません。ただし、Exchange ActiveSync デバイスまたは Research in Motion (RIM: BlackBerry ワイヤレス電子メール ソリューション) からの製品を使用して、Blackberry Enterprise Server (BES) を実行することはできます。 
   
 ## <a name="feature-availability"></a>機能の可用性
 

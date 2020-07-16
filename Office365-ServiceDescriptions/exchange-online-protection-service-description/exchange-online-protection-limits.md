@@ -25,13 +25,13 @@ ms.locfileid: "45133011"
 > [!TIP]
 > Exchange Online の制限の詳細については、「 [Exchange online の制限](../exchange-online-service-description/exchange-online-limits.md)」を参照してください。 トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。 Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
   
-- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **ドメイン制限** テナントあたり最大 900 のドメインを追加できます。この 900 の制限には、サブドメイン、または必要に応じて、キャッチオール オプションの一部として一致サブドメインを含めることができます。詳しくは、「 [EOP で承認済みドメインを管理する](https://go.microsoft.com/fwlink/p/?LinkId=282239)」を参照してください。
     
 - **メッセージ サイズの制限** EOP スタンドアロンのお客様の最大メッセージ サイズは、添付ファイルを含めて 150 MB です。 
     
-- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
+- **送信された送信メッセージの数** EOP 経由で送信される送信メッセージ数の制限値は、通常の電子メール通信がスパムとして処理されないのに十分な高さに設定されています。商業用の電子メール メッセージを送信したい場合は、EOP 経由で送信メッセージを送信するよりも、サード パーティ電子メール サービス プロバイダー (ESP) を使用するか、社内の電子メール サーバー経由で送信することをお勧めします。 
     
-- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
+- **受信者の制限** 送信側ホストが、受信者が 500 人よりも少ない "チャンク" にメッセージを分割できる限り、明示的な制限は定義されません。ただし、各 "チャンク" は、事実上新しいメッセージとして扱われます。短い期間中の多すぎるメッセージ、低い評価のホストからのメッセージ、または信頼できないコンテンツを含むメッセージは、制限またはブロックされる可能性があります。 
     
 - **IP 許可一覧または IP 禁止一覧の制限** 接続フィルターの IP 許可一覧または IP 禁止一覧を構成するとき、最大で 1,273 個のエントリを指定できます (エントリは、単一の IP アドレス、または /24 ～ /32 までの CIDR レンジの IP アドレスです)。 
     
@@ -39,7 +39,7 @@ ms.locfileid: "45133011"
     
 - **スパム検疫の保存期間**既定では、検疫に送信されたスパムメッセージは30日間保持されます。 管理者は、コンテンツ フィルター ポリシーによってこの値を下げることができます。 
     
-- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
+- **エンドユーザー スパム検疫通知** 既定では、有効にされている場合、エンドユーザーのスパム検疫通知が 3 日ごとに送信されます。それらは 1 ～ 15 日ごとに送信されるように構成できます。 
     
 - **レポート作成とメッセージ追跡の制限**レポート作成とメッセージ追跡の制限については、「Reporting and message trace [In Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
     

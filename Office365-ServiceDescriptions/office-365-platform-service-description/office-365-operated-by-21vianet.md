@@ -28,11 +28,11 @@ Microsoft は、サービス自体を運用していません。 21Vianet は、
 > [!NOTE]
 > これらのサービスは中国の法律に従います。
 
-Due to the unique nature of the China services—operated by a partner from datacenters inside China—there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. See the service description footnotes for differences. For a higher-level overview of differences, see [Learn about Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china).
+中国におけるサービス (中国内のデータセンターのパートナーが運用する) には固有の性質があるため、一部の機能はまだ有効になっていません。お客様は、段階的にサービスの完全な機能をご利用いただけるようになります。相違点については、サービス説明の脚注を参照してください。より詳細なレベルの相違点の概要については、「[21Vianet が運用している Office 365 の詳細](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)」を参照してください。
 
 ## <a name="service-availability-within-each-plan"></a>それぞれのプランのサービスの可用性
 
-Each Office 365 plan operated by 21Vianet includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+21Vianet が運用している各 Office 365 プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。次の表に、各 Office 365 プランで使用できるサービスを示します。
 
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
@@ -528,7 +528,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 
 |**プラン**|**説明**|
 |:-----|:-----|
-|**21Vianet が運用している Exchange Server for Office 365 用の Exchange Online Archiving**|Exchange Server 2013 または Exchange 2010 (SP2 以降) 内のプライマリ メールボックスを使用しているユーザー用のクラウド ベースのアーカイブ。  <br/> If you want to add a cloud-based archive to a primary mailbox that's located on an on-premises Exchange server, you need to configure a hybrid deployment. For more information about hybrid deployments see [Exchange Server Hybrid Deployments](https://docs.microsoft.com/exchange/exchange-hybrid).|
+|**21Vianet が運用している Exchange Server for Office 365 用の Exchange Online Archiving**|Exchange Server 2013 または Exchange 2010 (SP2 以降) 内のプライマリ メールボックスを使用しているユーザー用のクラウド ベースのアーカイブ。  <br/> 社内の Exchange サーバー上にあるプライマリ メールボックスにクラウド ベースのアーカイブを追加する場合は、ハイブリッド展開を構成する必要があります。ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://docs.microsoft.com/exchange/exchange-hybrid)」を参照してください。  |
 |**21Vianet が運用している Exchange Online for Office 365 用の Exchange Online Archiving**| 以下のプランには、既にアーカイブが含まれており、アドオンとしての Exchange Online Archiving は必要ありません。  <br/>  Office 365 A1 21Vianet が運用している  <br/>  Office 365 Enterprise E3 21Vianet が運用している  <br/>  21Vianet が運用している、Office 365 用の Exchange Online プラン 2  <br/>  Exchange Online メールボックスのアーカイブ機能について詳しくは、「 [Exchange Online のアーカイブ メールボックス](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)」をご覧ください。|
 
 次の表では、21Vianet が運用している Office 365 で利用可能な Exchange Online Archiving 機能を示します。
@@ -565,7 +565,7 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online の機能
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
+すべての Office 365 プランには、SharePoint Online サービスが含まれていますが、すべてのプランが SharePoint の全機能をサポートしているわけではありません。次の表に、プランにおける機能のサポート状況を示します。
 
 > [!NOTE]
 Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
@@ -866,7 +866,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)|はい|いいえ|○|はい|はい|はい|いいえ|
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 | Skype フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|AOL and Yahoo! federation|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|AOL および Yahoo! フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 365 Enterprise F3 が21Vianet が運用している**|
 |臨時およびスケジュールの電話会議|はい|はい|はい|はい|はい|はい|いいえ|
 |臨時およびスケジュールのビデオ会議|はい|はい|はい|はい|はい|はい|いいえ|
@@ -969,11 +969,11 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>Office 365 スタンドアロン プランの Skype for Business Online 機能
 
-The following table lists Office 365 plans that include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
+次の表に一覧表示されている Office 365 プランには、SharePoint Online サービスが含まれていますが、すべてのプランが SharePoint の全機能をサポートしているわけではありません。次の表に、プランにおける機能のサポート状況を示します。
 
 > [!NOTE]
 > - Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
-> - Skype for Business Online Standalone Plan 2 licensed users will get the Skype for Business Basic client, not the full Skype for Business client. If you want users to have the Skype for Business client, you will need to upgrade them to a license that includes it, such as an Enterprise-based license. To deploy the Skype for Business client to your users, see [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
+> - Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。Skype for Business クライアントをユーザーに展開するには、「[Office 365 に Skype for Business クライアントを展開する](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)」をご覧ください。
 
 ||||
 |:-----|:-----|:-----|
@@ -1010,7 +1010,7 @@ The following table lists Office 365 plans that include the SharePoint Online se
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)|はい|はい|
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション|いいえ|いいえ|
 | Skype フェデレーション|いいえ|いいえ|
-|AOL and Yahoo! federation|いいえ|いいえ|
+|AOL および Yahoo! フェデレーション|いいえ|いいえ|
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**21Vianet が運用している Office 365 向け Skype for Business Online スタンドアロン プラン 1**|**21Vianet が運用している Office 365 向け Skype for Business Online スタンドアロン プラン 2**|
 |臨時およびスケジュールの電話会議|いいえ|はい|
 |臨時およびスケジュールのビデオ会議|いいえ|はい|
