@@ -1,8 +1,7 @@
 ---
 title: OneDrive サービスの説明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213929"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131291"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -50,9 +49,9 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 - Microsoft 365 Apps for enterprise
 - Office 365 Enterprise E1
 - Office 365 Government G1
-- Office 365 Nonprofit Business Essentials
-- Office 365 Nonprofit Business Premium
-- Office 365 Nonprofit E1
+- Microsoft 365 Business Basic for Nonprofits
+- Microsoft 365 Business Standard for Nonprofits
+- Office 365 E1 for nonprofits
 - OneDrive for Business プラン 1
 - SharePoint Online プラン 1
 - Microsoft 365 Business Premium
@@ -68,8 +67,8 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Nonprofit E3
-- Office 365 Nonprofit E5
+- Office 365 E3 for nonprofits
+- Office 365 E5 for nonprofits
 - OneDrive for Business (プラン 2)
 - SharePoint Online プラン 2
 - Microsoft 365 Enterprise E3
@@ -78,8 +77,8 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 - Microsoft 365 A5
 - Microsoft 365 US Government G3
 - Microsoft 365 US Government G5
-- Microsoft 365 Nonprofit E3
-- Microsoft 365 Nonprofit E5
+- Microsoft 365 E3 for nonprofits
+- Microsoft 365 E5 for nonprofits
 
 > [!NOTE]
 > 既定の OneDrive ストレージ スペースを増やす場合、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。 
