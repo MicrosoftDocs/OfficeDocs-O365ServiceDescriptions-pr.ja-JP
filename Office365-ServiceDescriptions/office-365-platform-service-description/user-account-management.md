@@ -140,7 +140,7 @@ Microsoft サービスを適切に検出して認証するために、管理者�
     
 - セキュリティを強化するには、ユーザーが最初に Microsoft サービスにアクセスするときにパスワードを変更する必要があります。 そのため、ユーザーが Microsoft サービスにアクセスできるようにするには、Microsoft 365 管理センターにサインインし、パスワードを変更するように求めるメッセージが表示される必要があります。
     
-- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- 管理者は、パスワード有効期限ポリシーを設定できます。詳しくは、「[組織のパスワード有効期限ポリシーを設定します。](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)」を参照してください。
     
 クラウド ID を持つユーザーのパスワードを再設定するには、いくつか方法があります。
   
@@ -172,7 +172,7 @@ SharePoint Online では、セキュリティ グループを使用してサイ�
   
 ## <a name="administrator-roles"></a>管理者の役割
 
-Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 Enterprise は、ロールベースのアクセス制御 (RBAC) モデルを採用しています。そのため、アクセス許可や機能は、管理の役割によって定義されます。自分の組織の Office 365 にサインアップしたユーザーが、自動的に全体管理者または最上位管理者になります。管理者の役割には、全体管理者、課金管理者、パスワード管理者、サービス管理者、およびユーザー管理の管理者の 5 つがあります。管理者の役割を Exchange Online、SharePoint Online、および Skype for Business Online の管理に適用する方法など、Office 365 Enterprise の管理者役割の詳細については、「[一般法人向け Office 365 で管理者ロールを割り当てる](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11))」を参照してください。中国で 21Vianet が運用している Office 365 を使用している場合は、「[一般法人向け Office 365 で管理者ロールを割り当てる](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)」を参照してください。
   
 ## <a name="delegated-administration-and-support-for-partners"></a>代理管理とパートナーのサポート
 
@@ -183,7 +183,7 @@ Office 365 Enterprise follows a role-based access control (RBAC) model: permissi
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory サービス
 
-Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) は、Office 365 に対して包括的な ID およびアクセス管理の機能を提供します。開発者のために、ディレクトリ サービス、高度な ID ガバナンス、アプリケーション アクセス管理、機能豊富な標準ベースのプラットフォームを組み合わせています。Office 365 における AD 機能について詳しくは、「[サインイン ページのブランド化とクラウド ユーザーのセルフサービスによるパスワードのリセット](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)」をご覧ください。[Azure Active Directory のエディション](https://msdn.microsoft.com/library/azure/dn532272.aspx)の詳細をご確認ください。 
   
 ## <a name="feature-availability"></a>機能の可用性
 

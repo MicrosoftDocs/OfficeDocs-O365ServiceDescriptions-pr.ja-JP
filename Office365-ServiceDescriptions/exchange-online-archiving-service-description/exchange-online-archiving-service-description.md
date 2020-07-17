@@ -60,7 +60,7 @@ Exchange Server 用の Exchange Online アーカイブを使用するには、�
   
 ### <a name="user-subscriptions"></a>ユーザー サブスクリプション
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+Exchange Online Archiving サービスにアクセスするユーザーは、Exchange Online Archiving サブスクリプションを所有している必要があります。電子メール アーカイブ サブスクリプションは、特定のユーザーのメッセージング データの記憶域にしか使用することができません。
   
 ## <a name="unlimited-archive-storage-quota"></a>無制限のアーカイブ ストレージのクォータ
 

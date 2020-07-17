@@ -22,7 +22,7 @@ ms.locfileid: "45131621"
   
 ## <a name="odata-feeds"></a>OData フィード
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+OData フィードにより、REST クエリおよびさまざまな OData クライアント ライブラリは、Project Web App インスタンスから両方のレポート データのクエリを作成できます。たとえば、直接 Web ブラウザーの REST クエリを使うか、または JavaScript を使ってモバイル デバイス、タブレット、PC、Mac コンピューター用の Web アプリおよびクライアント アプリを構築することができます。詳細については、「[Project 2013 OData サービス参照](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)」を参照してください。
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>すぐに使えるポートフォリオダッシュボード
 
@@ -30,5 +30,5 @@ OData feeds enable REST queries and a variety of OData client libraries to make 
   
 ## <a name="project-desktop-reporting"></a>Project デスクトップ レポート
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+Project デスクトップ レポートでは、必要なプロジェクト データの人目を引くグラフィック レポートを作成およびカスタマイズすることができ、他のソフトウェアに頼る必要がありません。詳細については、「[プロジェクト レポートを作成する](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)」を参照してください。
   

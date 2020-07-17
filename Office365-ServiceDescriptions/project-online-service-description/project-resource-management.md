@@ -30,11 +30,11 @@ Project Online では、次のリソース管理機能が利用可能です。
   
 ## <a name="manage-nonworking-time"></a>非稼働時間の管理
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+休日、祝日、医療休暇、その他の非稼働時間を自分のプロジェクト スケジュールに追加します。[プロジェクトに休日と祝日を追加する方法](https://go.microsoft.com/fwlink/p/?LinkId=271337)について詳細情報を参照してください。
   
 ## <a name="resource-leveling"></a>Resource leveling
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+プロジェクト内のユーザーが同時に処理する割り当てが多すぎる場合、それらの割り当てを自動的に調整することができます。これはリソース レベルと呼ばれます。「[リソース割り当ての平準化](https://go.microsoft.com/fwlink/p/?LinkId=271348)」を参照してください。
   
 ## <a name="resource-sheet-and-usage-views"></a>リソース シートおよび配分状況ビュー
 
@@ -50,7 +50,7 @@ When people in your project are working on too many assignments at the same time
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+人などの時間単価型リソース、建築職人などの特定のスキルを持つ標準リソース、コンピューターやセメントなどの数量単価型リソースなどの各リソースをプロジェクトに追加します。「[機器のコストとその他のコスト リソースを入力する](https://go.microsoft.com/fwlink/?LinkId=402922)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

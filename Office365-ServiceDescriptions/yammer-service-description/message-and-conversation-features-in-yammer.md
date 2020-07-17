@@ -36,7 +36,7 @@ Yammer の web サポート用 Office を使用すると、yammer にアップ�
 
 ## <a name="online-now"></a>今すぐオンライン
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+だれがオンラインかが分かり、1 人または複数の同僚とプライベートな議論を即時に開始できます。連絡先リストは、多くやりとりをする人の順に自動的に並べ替えられます。
 
 ## <a name="polls"></a>投票
 

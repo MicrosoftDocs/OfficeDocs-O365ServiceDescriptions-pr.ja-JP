@@ -70,13 +70,13 @@ Microsoft 365 サブスクリプションのテクニカルサポートは、基
   
 ### <a name="technical-support-case-handling"></a>テクニカル サポート ケースの処理
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+Microsoft では、テクニカル サポート ケースを開く際に、問題のタイプや顧客への影響を評価した上で、ケースに重大度レベルを割り当てます。次の表に、問題のタイプと重大度レベルの例を示します。
   
 |**重大度レベル**|**操作とサポートの説明**|**例**|
 |:-----|:-----|:-----|
-|重大度 A (重大)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | メールの送受信に関する広範囲の不具合。  <br/>  SharePoint サイトのダウン。  <br/>  すべてのユーザーがインスタント メッセージの送信、Skype for Business 会議のへ参加や予定、または Skype for Business 通話を行うことができない。  <br/> |
-|重大度 B (高)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Outlook の [送信] ボタンの文字が正しく表示されない。  <br/>  EAC (Exchange 管理センター) からは設定できないが、PowerShell からは設定できる。  <br/> |
-|重大度 C (重大でない)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | ユーザーのパスワードを無期限に設定する方法。  <br/>  Exchange Online でユーザーが連絡先の情報を削除できない。  <br/> |
+|重大度 A (重大)  <br/> |1 つまたは複数のサービスにアクセスできないか、または使用できない。実稼動、業務、または展開の期日に重大な影響を及ぼすか、実稼動や収益に重大な影響が生じる。複数のユーザーまたはサービスに影響が生じる。  <br/> | メールの送受信に関する広範囲の不具合。  <br/>  SharePoint サイトのダウン。  <br/>  すべてのユーザーがインスタント メッセージの送信、Skype for Business 会議のへ参加や予定、または Skype for Business 通話を行うことができない。  <br/> |
+|重大度 B (高)  <br/> |サービスは使用できるが、一部に不具合がある。ビジネスへの影響は重大でないため、業務時間中に対処することができる。個別のユーザー、顧客、またはサービスが部分的に影響を受ける。  <br/> | Outlook の [送信] ボタンの文字が正しく表示されない。  <br/>  EAC (Exchange 管理センター) からは設定できないが、PowerShell からは設定できる。  <br/> |
+|重大度 C (重大でない)  <br/> |ビジネスへの影響は軽微。問題は重要だが、顧客に対して提供しているサービスや生産性への大きな影響はない。個別のユーザーに部分的な影響が出ているが、別の方法が使用できる。  <br/> | ユーザーのパスワードを無期限に設定する方法。  <br/>  Exchange Online でユーザーが連絡先の情報を削除できない。  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>テクニカル サポートの初期応答時間
 
@@ -105,7 +105,7 @@ Microsoft assigns a severity level to a case when it is opened, based on an asse
   
 ## <a name="shared-support-responsibilities"></a>サポートの責任の共有
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft では、適切な専門スタッフによる迅速なテクニカル サポートがクラウド サービスの重要な要素であると考えています。同様に、お客様の IT 部門もユーザー サポートにおいて非常に重要な役割を担っていると理解しています。
   
 ### <a name="administrator-role-and-responsibilities"></a>管理者の役割と責任
 
@@ -131,7 +131,7 @@ Office 365 Enterprise および Microsoft 365 アプリプランでは、さま�
 
 - Microsoft のセルフサービス サポート リソースを使用して、サポート案件を解決します。
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+管理者はお客様のユーザーに対して初期の支援を提供する必要があります。ただし、セルフサービス サポート リソースを利用して問題を解決できない場合、管理者は [テクニカル サポート](support.md#technical-support) に問い合わせる必要があります。
   
 ### <a name="microsoft-support-role"></a>Microsoft サポートの役割
 
@@ -177,7 +177,7 @@ Microsoft に含まれているサポートサービスは多くのお客様の�
 
 ### <a name="partners"></a>パートナー
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+Microsoft パートナーを選択して、サービス要求チケットの作成などの管理機能を委任することができます。詳しくは、[パートナー](partners.md) サービスの説明、および「 [サブスクリプション アドバイザー パートナーを追加、変更、または削除する](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide)」を参照してください。
   
 ### <a name="developers"></a>開発者
 

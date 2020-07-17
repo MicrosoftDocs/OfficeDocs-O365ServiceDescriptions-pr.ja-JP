@@ -24,7 +24,7 @@ ms.locfileid: "45131451"
 
 Microsoft 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップアプリケーションの最新バージョンを提供するサブスクリプションサービスです。
   
-Even though Office is a cloud-based service, Office applications don't run in the cloud. Instead, users download Office applications from the Office 365 portal and install them on their local computers. Microsoft uses Click-to-Run technology to make the download and installation of Office applications fast and simple. Click-to-Run uses virtualization technology to run Office applications in a self-contained environment on a local computer, which allows users to run Office applications side-by-side with earlier versions of Office.
+Office はクラウドベースのサービスであっても、Office アプリケーションはクラウドでは実行されません。その代わりに、ユーザーは office アプリケーションを Office 365 ポータルからダウンロードして、ローカルコンピューターにインストールします。Microsoft では、クイック実行テクノロジを使用して Office アプリケーションのダウンロードとインストールをすばやく簡単に行うことができます。クイック実行は仮想化テクノロジを使用して、ローカルコンピューター上の自己完結型の環境で Office アプリケーションを実行できます。これにより、ユーザーは office の以前のバージョンと共存することができます。
   
 Office アプリケーションは、32 ビットおよび 64 ビット版で利用可能です。
   
@@ -34,7 +34,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 
 次の表を使用して、複数のプランおよび Microsoft Office 2013 および Office 2016 のボリュームライセンス版の機能を比較します。
   
-Several of the Microsoft 365 for business plans have add-ons that you can buy for your subscription. An add-on provides additional functionality to the subscription. For more information, see [Buy or edit an add-on](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+一部の Microsoft 365 for business プランには、サブスクリプションのために購入できるアドオンが用意されています。アドオンは、サブスクリプションに追加の機能を提供します。詳細については、「[アドオンを購入または編集する](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」を参照してください。
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -209,5 +209,5 @@ Several of the Microsoft 365 for business plans have add-ons that you can buy fo
 |ディクテーション| いいえ<sup>1</sup> | いいえ<sup>1</sup> | いいえ<sup>1</sup> |
 
 > [!NOTE]
-> <sup>1</sup> Available in December 2019. <br/>
+> <sup>1</sup> 2019 年 12 月 に利用可能になります。<br/>
 > <sup>2</sup> (サインインしていない) ローカルの Surface Hub で利用できます。

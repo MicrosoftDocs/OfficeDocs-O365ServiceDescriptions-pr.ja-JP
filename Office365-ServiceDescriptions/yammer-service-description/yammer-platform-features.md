@@ -24,7 +24,7 @@ Yammer では次の Yammer プラットフォーム機能が利用可能です�
  
 ## <a name="activity-stream-api"></a>アクティビティストリーム API
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+ソーシャル グラフにデータを追加して、既存のエンタープライズ ビジネス アプリケーションを統合します。すべての既存のビジネス アプリケーション間で行われているアクティビティを検出することができます。
   
 ## <a name="browser-extension"></a>ブラウザー拡張
 

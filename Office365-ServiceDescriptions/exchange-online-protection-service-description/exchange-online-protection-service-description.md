@@ -22,7 +22,7 @@ ms.locfileid: "45132841"
 
 Exchange Online Protection の機能と要件に関する情報を取得します。 Exchange Online Protection を提供するプランの一覧と、それらのプラン全体での機能の比較について説明します。
 
-Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
+マイクロソフト Exchange Online Protection (EOP) は、クラウドベースの電子メール フィルタリング サービスであり、スパムやマルウェアから組織を保護するのに役立ち、メッセージング ポリシー違反から組織を保護する機能が含まれています。EOP はメッセージング環境の管理を簡素化し、社内のハードウェアおよびソフトウェアの維持に伴う負荷の多くを軽減します。
 
 次の一覧では、メッセージング保護に EOP を使用する主な方法について説明します。
 
@@ -66,7 +66,7 @@ Exchange Enterprise CAL with Services のライセンスの詳細については
 Exchange Enterprise CAL とサービスライセンスがあり、EOP をプロビジョニングする場合は、「 [Set up THE EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)」の手順に従ってください。 セットアップ手順は EOP スタンドアロンのセットアップ手順と同じです。
 
 > [!NOTE]
-> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
+> Exchange Enterprise CAL with Services の新機能は Exchange Online と同時に展開され、EOP スタンドアロンと同時には展開されません。EOP スタンドアロンと Exchange Online/Exchange Enterprise CAL with Services の展開スケジュールは、多少異なる場合があります。
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) の要件
 
@@ -78,7 +78,7 @@ EOP の制限については、「 [Exchange Online Protection の制限](exchan
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Exchange Online Protection (EOP) の各プランで利用できる機能
 
-Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+各機能を以下に列挙します。EOP 機能の詳細については、表内のリンクをクリックしてください。Exchange Online という記述は、主に、Office 365 Enterprise サービス ファミリを指しています。
 
 |||||
 |:-----|:-----|:-----|:-----|

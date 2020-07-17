@@ -20,13 +20,13 @@ ms.locfileid: "45132392"
 
 Office 365 ドイツは、ヨーロッパ全域で既に利用可能な Office 365 サービスの差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
 
-The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
+データ受託者として、Deutsche Telekom の子会社である、ドイツの独立企業 T-Systems International が、顧客データへの物理的および論理的アクセスを制御します。ドイツ法に準拠した、データ受託者による承認や監督がなければ、顧客データにアクセスすることはできません。
 
 このようなお客様のニーズの変化に基づいて、ドイツでのクラウド戦略は、グローバルクラウドサービスと一貫性のあるドイツの新しいクラウド地域の提供に重点を置いています。 このフォーカスにより、新しい顧客を受け入れたり、現在使用可能な Microsoft クラウドドイツから新しいサービスを展開したりすることはなくなります。 既存のお客様は現在提供されている現在のクラウドサービスを引き続き使用できます。これは、必要なセキュリティ更新プログラムによって維持されます。 [Office 365 ドイツについて説明](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)します。
 
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
-Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+各 Office 365 Germany プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。次の表に、各 Office 365 プランで使用できるサービスを示します。
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -60,7 +60,7 @@ The Security &amp; Compliance Center is available for Office 365 Germany. 詳細
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Office 365 Germany に対してはどのようなコンプライアンスの証明書が提供されていますか?
 
-Office 365 Germany adheres to the cloud security and compliance standards of Office 365. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of Service Organization Controls (SOC), International Organization for Standardization (ISO), and audits. The certifications include ISO 27001/27002, 27017, 27018, and SOC 1 and 2. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
+Office 365 Germany は、Office 365 のクラウド セキュリティとコンプライアンスの標準に準拠しています。Office 365 では、SOC (Service Organization Controls)、ISO (国際標準化機構) などの監査の一環として、認定された監査担当者により独立して評価される、総合的な認定が行われます。ISO 27001/27002、27017、27018、SOC 1 と 2 の認定などがあります。Office 365 Germany におけるその他のデータ トラスティの制御に関しては、毎年、ISO と SOC の監査の一環として、独立した監査担当者によって評価されます。
 
 ## <a name="platform-features"></a>プラットフォーム機能 
 
@@ -538,7 +538,7 @@ EOP の<sup>4 つ</sup>のメールフロールール (トランスポートル�
 
 ## <a name="project-online-features"></a>Project Online の機能
 
-The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+次の表は、Office 365 Germany プラン全体で利用可能な Project Online 機能のリストです。Project Online の詳細については、「[Project Online の使用を開始する](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)」を参照してください。
 
 ||||
 |:-----|:-----|:-----|
@@ -549,7 +549,7 @@ The following table lists the Project Online features that are available across 
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online の機能
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
+すべての Office 365 のプランに SharePoint Online サービスが含まれますが、プランの中には、一部の SharePoint 機能をサポートしていないものもあります。次の表は、Office 365 Germany プラン全体で利用可能な機能のリストです。
 
 ****
 
@@ -849,7 +849,7 @@ All Office 365 plans include the SharePoint Online service, but not all plans su
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)|はい|いいえ|○|はい|はい|はい|いいえ|
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Skype フェデレーション|<sup>6</sup>なし|いいえ|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|<sup>6</sup>なし|いいえ|
-|AOL and Yahoo! federation|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|AOL および Yahoo! フェデレーション|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |臨時およびスケジュールの電話会議|はい|はい|はい|はい|はい|はい|いいえ|
 |臨時およびスケジュールのビデオ会議|はい|はい|はい|はい|はい|はい|いいえ|

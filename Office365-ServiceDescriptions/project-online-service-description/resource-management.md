@@ -22,15 +22,15 @@ Project Online では、次のリソース管理機能が利用可能です。
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>受信リソース契約要求の承認/却下/変更
 
-You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
+全体のリソース ビューに基づいて、受信リソース契約要求を承認、却下、変更することができます。詳細については、「[契約依頼を承認または拒否する](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409)」を参照してください。
   
 ## <a name="manage-resource-pool"></a>リソース共有元の管理
 
-Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
+個別管理と一括管理の両方で、エンタープライズ リソース共有元を管理します。詳細については、「[リソースを Project Web App に追加する](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409)」と「[外部データ ファイルを利用し、エンタープライズ リソースを追加または更新する](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409)」を参照してください。
   
 ## <a name="plan-resource-capacity"></a>リソース容量の計画
 
-When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
+リソースが重複して予約されているかどうかを知る必要がある場合、リソース センターのキャパシティ プランニング ビューを使用して、リソースを配置できる時間と、リソースをプロジェクトで必要とする時間を比較できます。詳細については、「[リソースの最大利用可能時間を評価する](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409)」を参照してください。
   
 ## <a name="request-resource-agreements"></a>リソース契約の要求
 

@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
 ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,7 +20,7 @@ ms.locfileid: "45131431"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 
-Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
   
 システム要件として、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [Microsoft 365 のシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
@@ -58,7 +58,7 @@ Skype for Business は、インスタント メッセージング クライア�
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath は、電子フォームの設計、配布、完成、送信を実行できるようにするプログラムです。InfoPath フォーム Web パーツを SharePoint Online サイトに追加することを選択できます。InfoPath フォーム Web パーツの詳細については、「[InfoPath フォーム Web パーツの使用](https://go.microsoft.com/fwlink/p/?LinkId=271687)」を参照してください。
 
 コードを記述しなくても、InfoPath の後続の PowerApps が SharePoint のビジネス生産性を向上させる方法については、「 [powerapps を使用して sharepoint をカスタマイズ](https://powerapps.microsoft.com/infopath/)する」を参照してください。
   

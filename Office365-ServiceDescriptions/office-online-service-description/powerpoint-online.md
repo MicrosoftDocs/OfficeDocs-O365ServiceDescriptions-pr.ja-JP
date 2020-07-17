@@ -124,7 +124,7 @@ Web 用の PowerPoint は web ブラウザーから起動され、インター�
   
 ## <a name="picture-cropping"></a>図のトリミング
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+トリミング ツールを使用して、画像の対象のフレーミングを改善します。画像の端のトリミング ハンドルのいずれかをクリックし、希望する画像になるまでドラッグします。
   
 ## <a name="pictures"></a>ピクチャ
 
@@ -172,7 +172,7 @@ Web 用の PowerPoint に Word のアートとグラフを挿入することは�
   
 ## <a name="share"></a>共有
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+プレゼンテーションが SharePoint ドキュメント ライブラリに保存されている場合は、プレゼンテーションはオンライン上にあるため、電子メールの添付ファイルではなくリンクを送信することによってプレゼンテーションを共有できます。適切なアクセス許可を持つ閲覧者は、Web ブラウザーやモバイル デバイスでプレゼンテーションを表示することができます。[プレゼンテーションの共有](https://go.microsoft.com/fwlink/?LinkId=272776)について詳細情報を参照してください。
   
 ## <a name="slide-show"></a>スライド ショー
 

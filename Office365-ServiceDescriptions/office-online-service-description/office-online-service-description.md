@@ -29,7 +29,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 組織に最適な Office ソリューションを特定するには、どうすればよいですか? 次の表では、web 機能の Office を機能豊富な Microsoft Office デスクトップアプリと比較しています。 表を使用して、Office の web で利用できる機能を確認し、機能の名前を選択して、その機能がどのように機能するかについての簡単な説明を確認します。 組織内の一部のユーザーが Excel デスクトップアプリの高度なグラフ機能を必要としていて、他のユーザーは、Office を使用して web 用の Word ドキュメントと PowerPoint プレゼンテーションを表示したり、軽く編集したりする必要があることがわかっている場合があります。 
   
 > [!NOTE]
->  A limited selection of Office features has been chosen to represent the advanced capabilities of the Office desktop suite. The tables are not a comprehensive list of Microsoft Office features. <br/>  Microsoft Microsoft 365 enterprise 用アプリは、最新の Office デスクトップスイートの月単位のサブスクリプションサービスです。 <br/>  Microsoft Office Online Server のオンプレミスのお客様は、office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Microsoft 365 Apps for enterprise license) を購入した場合、web 編集ライセンスの Office を入手できます。 
+>  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Microsoft 365 enterprise 用アプリは、最新の Office デスクトップスイートの月単位のサブスクリプションサービスです。 <br/>  Microsoft Office Online Server のオンプレミスのお客様は、office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Microsoft 365 Apps for enterprise license) を購入した場合、web 編集ライセンスの Office を入手できます。 
   
 > [!NOTE]
 > Outlook 電子メールの添付ファイルまたは SharePoint ドキュメントライブラリのいずれかとして Office ドキュメントを開くと、そのドキュメントは web 用の Office で起動し、読み取り専用になります。 Web 用に Office のドキュメントを編集する (編集モード) には、Office 365 Enterprise E1 などの suite ライセンスが必要です。 デスクトップアプリでドキュメントを編集するには、Office デスクトップスイートライセンスが必要です (エンタープライズサブスクリプション用の Microsoft 365 アプリ、またはインストールされている Office Professional Plus 2010 のバージョンなど)。 

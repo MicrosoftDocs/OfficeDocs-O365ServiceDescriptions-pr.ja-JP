@@ -55,7 +55,7 @@ EAC で DLP ポリシーを構成することにより、次のことが可能�
 - インシデント レポートの生成アクションを使用して、DLP レポートでのインシデント データの確認や独自のレポートの追加を行うことができます。
 
 > [!NOTE]
-> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
+> DLP ポリシーは、組織と外部との間で送受信されるメールにのみ適用されます。社内で Exchange Server 2013 と DLP を実行していない場合、組織内 (内部) メールに DLP ポリシーは適用されません。このことは、許可されていない受信者に機密データを誤って送信する前に、潜在的なポリシー違反をユーザーに通知する DLP ポリシー ヒントにも当てはまります。
 
 DLP の詳細については、「 [Exchange Online でのデータ損失防止](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)」を参照してください。
 

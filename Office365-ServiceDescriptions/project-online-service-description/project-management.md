@@ -24,7 +24,7 @@ Project Online では次のプロジェクト管理機能が利用可能です�
   
 ## <a name="issues-and-risk-management"></a>問題とリスク管理
 
-Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online および Project Server 2013 には、潜在的な事業関連またはプロジェクト関連のリスクや問題を防止、特定、および軽減するための機能が含まれます。詳細については、「[Project Web App での懸案事項、リスク、およびドキュメントの管理](https://go.microsoft.com/fwlink/?LinkId=402634)」を参照してください。
   
 ## <a name="manage-project-resources"></a>プロジェクト リソース管理
 
@@ -32,15 +32,15 @@ Project Online and Project Server 2013 include features to prevent, identify, an
   
 ## <a name="reporting-and-business-intelligence"></a>レポートとビジネス インテリジェンス
 
-With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).
+Microsoft PPM ソリューションには、レポートの表示と作成、および Project Server 2013 データの処理のためのいくつかのオプションがあります。一部のレポートは自動的に入手できます。また、多くのレポート作成ツールを使用して、独自のレポートを簡単に作成することもできます。詳細については、「[プロジェクト データで使用できるレポート作成ツール](https://go.microsoft.com/fwlink/?LinkId=402642)」を参照してください。
   
 ## <a name="schedule-management"></a>スケジュール管理
 
-The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).
+スケジュールは、期限内にプロジェクトを引き渡すのに完了する必要があるタスクと成果物を表します。プロジェクトのタイムラインを作成して、進捗状況を追跡し、変更を管理できます。詳細については、「[プロジェクト タイムラインにタスクを追加する](https://go.microsoft.com/fwlink/?LinkID=402655)」を参照してください。
   
 ## <a name="time-and-task-management"></a>時間とタスクの管理
 
-Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+時間レポートとタスク管理に集中化された共通アプローチを使用します。給与計算のための稼働時間と非稼働時間、請求書、およびその他の事業目的をキャプチャします。プロジェクトや日常業務の状態および臨時の要求を効率的に伝達することにより、稼働状況の山と谷、タスクの進行状況を測定します。これは、計画での工数、費用、およびタイムフレームの効率を予測するのに役立ちます。詳細については、「[時間とタスクの進捗状況を管理する](https://go.microsoft.com/fwlink/p/?LinkId=271321)」を参照してください。
 
 ## <a name="project-home"></a>プロジェクトのホーム
 

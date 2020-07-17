@@ -30,7 +30,7 @@ ms.locfileid: "45133071"
 
  **特定の Skype for Business 機能を利用するために購入する必要があるライセンスについて知りたいと思いませんか。[Skype For business アドオンライセンス](https://go.microsoft.com/fwlink/?LinkID=799524)を参照してください。**
   
-Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
+Skype for Business Online はコミュニケーション サービスであり、いつでも、ほとんどどこからでも人々を会議や会話に参加させることができます。ユーザーはプレゼンスに関する情報にアクセスし、インスタント メッセージ、音声とビデオの通話、豊富なオンライン会議、さまざまな Web 会議機能を使用できます。 
   
 Skype for Business は複数の顧客を同時にサポートするマルチテナント サーバーでホストされます。 これらのサーバーは、Microsoft データセンターに格納されており、企業ネットワーク内から、またはインターネット経由でさまざまなデバイスのユーザーがアクセスできます。 
   
@@ -81,7 +81,7 @@ Skype for Business Online の新機能については、「[Skype for Business �
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、オーディオ、ビデオ、会議)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 | Skype フェデレーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|AOL and Yahoo! federation  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|AOL および Yahoo! フェデレーション  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[Skype for Business Online 会議](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |臨時およびスケジュールの電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |臨時およびスケジュールのビデオ会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -189,7 +189,7 @@ Skype for Business Online の新機能については、「[Skype for Business �
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>Skype for Business Online スタンドアロン プランで利用できる機能
 
-The following table lists Skype for Business Online feature availability across standalone plans. For a description of these features, go to [Skype for Business Online features](skype-for-business-online-features.md).
+次の表は、さまざまなスタンドアロン プランで Skype for Business Online の機能が利用できるかどうかを示しています。これらの機能の説明については、[Skype for Business Online の機能](skype-for-business-online-features.md) をご覧ください。
   
 > [!NOTE]
 > Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。 ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。 Skype for business クライアントをユーザーに展開するには、「 [Microsoft 365 または Office 365 で skype For business クライアントを展開](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)する」を参照してください。 
@@ -230,7 +230,7 @@ The following table lists Skype for Business Online feature availability across 
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 | Skype フェデレーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|AOL and Yahoo! federation  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
+|AOL および Yahoo! フェデレーション  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[Skype for Business Online 会議](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online スタンドアロン プラン 1** <br/> |**Skype for Business Online スタンドアロン プラン 2** <br/> |
 |臨時およびスケジュールの電話会議  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |臨時およびスケジュールのビデオ会議  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |

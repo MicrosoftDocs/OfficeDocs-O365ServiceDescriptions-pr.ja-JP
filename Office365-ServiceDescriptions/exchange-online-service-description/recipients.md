@@ -20,24 +20,24 @@ ms.locfileid: "45132641"
 ---
 # <a name="recipients"></a>受信者
 
-This topic describes recipient-related features included with Microsoft Exchange Online. This includes email, contacts, distribution groups, and calendar and scheduling capabilities.
+このトピックでは、Microsoft Exchange Online に含まれる受信者関連の機能について説明します。これには、電子メール、連絡先、配布グループ、および予定表とスケジュール機能が含まれています。
   
 ## <a name="email"></a>Email
 
-Every Microsoft Exchange Online subscriber receives a mailbox, and specialty mailboxes are available for scheduling facilities resources (such as conference rooms) and for multiuser access to shared email addresses. Maximum storage limits apply to most mailboxes, and administrators can control allowable mailbox sizes. Automated notifications and restrictions can alert users when their mailboxes are nearing, or at, capacity. Exchange Online also has several types of message limitations—message size, message rate, and recipient list limits. Details of all these features and limits are provided below.
+Microsoft Exchange Online のサブスクライバー全員にメールボックスが与えられ、ファシリティ リソース (会議室など) のスケジューリング、および複数ユーザーによる共有電子メール アドレスへのアクセスには、特殊なメールボックスを使用できます。大部分のメールボックスに記憶域の制限値が適用され、管理者はメールボックスの許容サイズを制御できます。通知と制限の自動化により、メールボックスの容量が上限に近づくか、または一杯になったときに、ユーザーに警告できます。また、Exchange Online には、メッセージのサイズ、メッセージの数、および受信者リストの制限など、複数の種類のメッセージ制限があります。これらのすべての機能と制限の詳細は、以下のとおりです。
   
 > [!NOTE]
 > キャッチオール アドレスは、Exchange Online ではサポートされていません。 受信者フィルターが潜在的なスパムメッセージから保護するために必要なため、組織内に存在しない電子メールアドレスは拒否されます。 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>メールボックスの種類、ストレージの制限、および容量の警告
 
-The amount of mailbox storage available to a user and the default mailbox size are determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally. Exchange Online also provides notifications when a user's mailbox is nearing, or at, capacity.
+ユーザーが使用できるメールボックスの記憶域の量と既定のメールボックス サイズは、メールボックスの種類とユーザーのサブスクリプション ライセンスによって決まります。管理者は、メールボックスの最大サイズをユーザーごとまたはグローバルに減らすことができます。Exchange Online では、ユーザーのメールボックスが上限に近づくか、または一杯になったときには通知も行われます。
   
 詳細については、トピック「 [Exchange Online の制限](exchange-online-limits.md)」の「メールボックスの格納域の制限」と「容量のアラート」セクションを参照してください。
   
 ### <a name="mailtips"></a>メール ヒント
 
-MailTips are automated, informative messages that appear above the To: line while users are composing or addressing a message. They are designed to help prevent accidental delivery, policy violations, or unnecessary non-delivery reports (NDRs). For example, MailTips can generate an alert if senders try to send messages to overly large groups, to groups that contain external recipients, or to a distribution group that is moderated or restricted. For more information, see [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472).
+メール ヒントは、ユーザーがメッセージを作成しているか、アドレスを指定しているときに "宛先:" 行の上に表示され、自動で情報を提供するメッセージです。これらは、誤配信、ポリシー違反、または不要な配信不能レポート (NDR) を防ぐことを目的としています。たとえば、送信者が大きすぎるグループや、外部の受信者を含むグループ、モデレートまたは制限されている配布グループにメッセージを送信しようとした場合、メール ヒントにアラートを表示できます。詳細については、「[メール ヒント](https://go.microsoft.com/fwlink/p/?LinkId=401472)」を参照してください。
   
 ### <a name="delegate-access"></a>代理人アクセス
 
@@ -47,7 +47,7 @@ Exchange Online は、ユーザーが他のユーザーに自身の電子メー�
   
 - **代理送信アクセス許可** 代理人は、電子メール メッセージを作成し、送信者フィールドに他のユーザーの名前を入力できます。このフィールドには「個人の名前」の代わりに「代理人の名前」が表示されます。 
     
-- **Send As permissions** The delegate can send messages from the other person's mailbox as if the delegate were the mailbox owner. This scenario is common where there is a shared mailbox and several employees send email messages from that shared mailbox instead of from their Exchange Online accounts. 
+- **送信の形式アクセス許可** 代理人は、代理人がそのメールボックスの所有者であるかのように、他のユーザーのメールボックスからメッセージを送信できます。一般的なシナリオとしては、共有のメールボックスが存在し、複数の従業員が各自の Exchange Online アカウントではなくその共有メールボックスから電子メール メッセージを送信するケースがあります。 
     
 アクセスの委任の詳細については、「[受信者のアクセス許可を管理する](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx)」をご覧ください。
   
@@ -57,7 +57,7 @@ Exchange Online では、ユーザーが、メッセージの到着時に特定�
   
 ### <a name="clutter"></a>クラッター機能
 
-Clutter is designed to help you focus on the most important messages in your inbox. It uses machine learning to de-clutter your inbox by moving lower priority messages out of your way and into a new Clutter folder. Clutter respects your existing email rules, so if you have created rules to organize your email those rules continue to be applied and Clutter won't act on those messages. Clutter is disabled by default for your inbox. To learn more, see [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+クラッター機能は、受信トレイにある最も重要なメッセージに集中できるように設計されています。機会学習を使用すると、優先度の低いメッセージを新しいクラッター フォルダーに移すことにより受信トレイを整理します。クラッター機能は既存の電子メール ルールを尊重するため、メールを整理するルールを作成している場合には継続して適用され、該当するメッセージをクラッターが処理することはありません。クラッター機能は、既定で受信トレイには無効です。詳細については、「[Office 365 での受信トレイを整理する](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)」を参照してください。
   
 ### <a name="connected-accounts"></a>接続されているアカウント
 
@@ -65,12 +65,12 @@ Clutter is designed to help you focus on the most important messages in your inb
   
 ### <a name="inactive-mailboxes"></a>非アクティブなメールボックス
 
-Exchange Online provides the capability to preserve the contents of deleted mailboxes indefinitely. This feature is called inactive mailboxes. A mailbox becomes inactive when an In-Place Hold or a Litigation Hold is placed on the mailbox before it's deleted. This results in the contents of the mailbox being preserved indefinitely. Administrators, compliance officers, or record managers can use the In-Place eDiscovery feature in Exchange Online to access the contents of an inactive mailbox.
+Exchange Online は、削除されたメールボックスの内容を無期限に保持する機能を提供します。この機能は非アクティブなメールボックスと呼ばれます。メールボックスは、削除前にインプレース保持または訴訟ホールドを配置することによって非アクティブになります。これにより、メールボックスの内容が無期限に保存されます。管理者、コンプライアンス責任者、またはレコード マネージャーは、Exchange Online でインプレース電子情報開示機能を使用して、非アクティブなメールボックスの内容にアクセスできます。
   
 非アクティブなメールボックスを有効にするには、メールボックスに Exchange Online (プラン 2) ライセンスを割り当てるか、Exchange Online Archiving をサブスクライブすることによって、インプレース保持または訴訟ホールドを削除前のメールボックスに配置できるようにする必要があります。
   
 > [!IMPORTANT]
-> If a hold isn't placed on a mailbox before it's deleted, the contents of the mailbox will not be preserved or discoverable. The mailbox can be recovered within 30 days of deletion, but the mailbox and its contents will be permanently deleted after 30 days if it isn't recovered. 
+> メールボックスを削除する前にホールドを設定しない場合、メールボックスの内容が保持されないか、開示可能になりません。メールボックスは、削除後 30 日以内であれば回復できますが、回復されない場合、メールボックスとその内容は 30 日後に完全に削除されます。 
   
 詳細については、次のトピックを参照してください。
   
@@ -96,25 +96,25 @@ Exchange Online では、アドレス一覧と Gal のカスタマイズがサ�
   
 ### <a name="hierarchical-address-books"></a>階層型アドレス帳
 
- Hierarchical address books allow end users to browse for recipients in their Exchange organization using an organizational hierarchy. Administrators can customize the address book by seniority and rank rather than alphabetical listings. 
+ エンド ユーザーは階層型アドレス帳を使用して、組織階層を使用する Exchange 組織内の受信者を参照できます。管理者は、アドレス帳をアルファベット順ではなく、年齢と職位でカスタマイズできます。 
   
 ### <a name="distribution-groups-global"></a>配布グループ (グローバル)
 
 配布グループ (または配布一覧) は、社内の全ユーザーが利用できるユーザー、連絡先、および他の配布グループのコレクションです。 ユーザーは、配布グループのエイリアスを電子メールの宛先に指定して、そのグループ内の全員にメッセージを送信します。 配布グループは、Outlook で各自が作成する個人の配布グループと似ていますが、メンバー リストが社内でグローバルに利用可能な点のみが異なります。 管理者は Exchange 管理センターで配布グループを作成します。 また、グループは、社内 Active Directory から Exchange Online と同期させることもできます。 これらは、Outlook の GAL に表示されます。 Exchange Online は、以下を含む高度な配布グループ機能をサポートします。
   
-- **Restricted distribution groups** By default, anyone can send emails to any distribution group. Administrators can change permissions to allow only specific individuals to send emails to a particular group—for example, to discourage inappropriate use of large distribution lists. Administrators can also block external sources from sending email to distribution groups to help prevent spam. For distribution groups that are synchronized from on-premises Active Directory using the Directory Synchronization tool, the attributes for restriction are synchronized to the cloud automatically. For more information, see [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **制限された配布グループ** 既定では、誰もがすべての配布グループに電子メールを送信できます。管理者は、たとえば、サイズの大きい配布リストの不適切な使用を防ぐ目的で、特定の個人のみが特定のグループに電子メールを送信できるようにアクセス許可を変更できます。また、管理者は、スパムを防ぐため、外部ソースから配布グループへの電子メール送信をブロックすることもできます。ディレクトリ同期ツールを使用して社内 Active Directory から同期される配布グループの場合、制限の属性は自動的にクラウドに同期されます。詳細については、「 [配布グループの管理](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)」をご覧ください。
     
-- **Dynamic distribution groups** The membership list for a dynamic distribution group (also known as a dynamic distribution list, or query-based distribution list) is calculated every time a message is sent to the group. This calculation is based on filters and conditions that the administrator defines. They are managed in Exchange Online through remote Windows PowerShell. For more information about dynamic distribution groups, see [Manage Dynamic Distribution Groups](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
+- **動的配布グループ** 動的配布グループのメンバーシップ一覧 (動的配布一覧またはクエリベース配布一覧とも呼ばれる) は、メッセージがそのグループに送信されるたびに計算されます。この計算は、管理者が定義したフィルターと条件に基づいて行われます。これらはリモート Windows PowerShell を使用して Exchange Online で管理されます。動的配布グループの詳細については、「 [動的配布グループの管理](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx)」をご覧ください。
     
     > [!IMPORTANT]
-    > The Office 365 Directory Synchronization tool ignores dynamic distribution groups in on-premises Active Directory, and does not synchronize these to Exchange Online. Organizations that use the Directory Synchronization tool should use a naming convention that avoids conflicts between the regular distribution groups that are managed on-premises and the dynamic distribution groups that are managed in Exchange Online. 
+    > Office 365 ディレクトリ同期ツールは、社内の Active Directory 内にある動的配布グループを無視し、それらのグループと Exchange Online との同期を行いません。ディレクトリ同期ツールを使用する組織は、社内で管理される通常の配布グループと、Exchange Online で管理される動的配布グループが競合しない命名規則を使用する必要があります。 
   
-- **Moderated distribution groups** Administrators can select a moderator to regulate the flow of messages to a distribution group. With moderated distribution groups, anyone can email the distribution group alias, but before the message is delivered to the members of the group, a moderator must review and approve it. For more information about moderation, see the Message Approval section in [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **モデレート配布グループ** 管理者はモデレーターを選択して、配布グループへのメッセージの流れを規制できます。モデレート配布グループでは、全員が配布グループのエイリアスにメールを送信できますが、グループのメンバーに配信される前に、モデレーターによるメッセージの確認と承認が必要です。モデレーションの詳細については、「 [配布グループの管理](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)」の「メッセージの承認」セクションをご覧ください。
     
-- **Self-Service distribution groups** Administrators can give users the ability to manage their own distribution group membership from a web-based interface. Users can be given permissions to create, delete, join, or leave distribution groups. These capabilities are enabled by default for all Exchange Online users. Administrators can disable them so that only the IT department can manage distribution groups, if desired. They can also create naming policies to standardize and manage the names of distribution groups that their users create. For example, they can add a specific prefix or suffix to the distribution group name when it is created, or block specific words from being used in the group's name. 
+- **セルフサービス配布グループ** 管理者は、ユーザーが各自の配布グループ メンバーシップを Web ベースのインターフェイスから管理できるようにすることができます。ユーザーには、配布グループを作成、削除、参加、または脱退するアクセス権限が与えられます。これらの機能は既定で、すべての Exchange Online ユーザーに対して有効になっています。管理者は、IT 部門のみが配布グループを管理できるように、必要に応じてこれらの機能を無効化することが可能です。また、命名ポリシーを作成して、ユーザーが作成する配布グループの名前を標準化し管理することもできます。たとえば、配布グループの名前を作成するときに、特定のプレフィックスやサフィックスを追加したり、グループ名に特定の単語が使用できないようにしたりできます。 
     
     > [!IMPORTANT]
-    > Self-service capabilities are not available for distribution groups that are synchronized from on-premises Active Directory to Exchange Online. Organizations that use Directory Synchronization should use a naming convention that avoids conflicts between distribution groups that are managed on-premises and distribution groups that are managed in the cloud. 
+    > セルフ サービス機能は、社内 Active Directory から Exchange Online に同期される配布グループでは使用できません。ディレクトリ同期を使用する組織は、社内で管理される配布グループと、クラウドで管理される配布グループが競合しない命名規則を使用する必要があります。 
   
 ### <a name="external-contacts-global"></a>外部連絡先 （グローバル）
 
@@ -128,7 +128,7 @@ Exchange Online では、アドレス一覧と Gal のカスタマイズがサ�
 
 リソース メールボックス (会議室や物理的機器など) は、会社の会議室、他の設備、またはリソースを表します。 ユーザーは、Outlook または web 上の Outlook の会議出席依頼にリソースの電子メールエイリアスを追加することによって、会議室またはリソースを予約することができます。 会議室とリソースは、Outlook および web 上の Outlook の GAL に表示されます。
   
-Administrators create resource mailboxes using the Exchange admin center or remote Windows PowerShell. The mailboxes can also be synchronized with Exchange Online from on-premises Active Directory.
+管理者は、Exchange 管理センターまたはリモート Windows PowerShell を使用して、リソース メールボックスを作成します。また、メールボックスは、社内 Active Directory から Exchange Online と同期させることもできます。
   
 リソース メールボックスの詳細については、以下を参照してください。
   
@@ -138,7 +138,7 @@ Administrators create resource mailboxes using the Exchange admin center or remo
     
 ### <a name="conference-room-management"></a>会議室の管理
 
-Exchange Online includes the Resource Booking Attendant (RBA), which automates scheduling of conference rooms and other resources. A resource mailbox that is RBA-configured accepts, declines, or acknowledges meeting requests from a meeting organizer based on the resource's calendar availability. 
+Exchange Online には、会議室およびその他リソースのスケジューリングを自動化するリソース予約アテンダント (RBA) が含まれています。RBA が構成されたリソース メールボックスは、リソースの予定表に基づいて、会議の開催者からの会議出席依頼を承認、拒否、または確認します。 
   
 管理者は、web 上の Outlook で会議室の自動応答をカスタマイズし、予約ポリシーを構成できます。 これらのポリシーには、リソースのスケジュールを設定できるユーザー、スケジュールを設定できる期間、リソースの予定表に表示する会議情報、およびスケジューリングの競合を許可する割合が含まれます。 管理者は、リソース予約アテンダントを無効化して、手動で会議室の会議出席依頼を管理する特定のユーザーを割り当てることができます。
   
@@ -146,7 +146,7 @@ Exchange Online includes the Resource Booking Attendant (RBA), which automates s
   
 ### <a name="out-of-office-replies"></a>不在時の返信
 
-Out-of-office messages are automatic replies to incoming messages that Exchange Online sends on behalf of a user. Users can schedule out-of-office messages in advance, with specific start and end times, and can configure separate out-of-office messages for internal and external recipients. They can also set out-of-office messages from mobile devices that support this Exchange ActiveSync feature. Junk-email and mailing-list awareness within Exchange Online prevents users from sending external out-of-office messages to extended mailing lists and potential spammers. Administrators can also prevent users from sending out-of-office messages to external users using remote Windows PowerShell.
+不在時のメッセージは、Exchange Online がユーザーに代わって送信する受信メッセージへの自動返信です。ユーザーは、開始時間と終了時間を指定して不在時の自動応答メッセージを事前にスケジュールできます。また、内部受信者と外部受信者に個別のメッセージを構成できます。さらに、この Exchange ActiveSync 機能をサポートしているモバイル デバイスからも、不在時のメッセージを設定できます。Exchange Online 内で迷惑メールやメーリング リストを認識することで、ユーザーが、拡張されたメーリング リストや隠れたスパム送信者に外部の不在時のメッセージを送信するのを防ぎます。また、管理者はユーザーがリモートの Windows PowerShell を使用して不在時のメッセージを外部ユーザーに送信するのを防ぐこともできます。
   
 ### <a name="calendar-sharing"></a>予定表の共有
 
@@ -160,7 +160,7 @@ Out-of-office messages are automatic replies to incoming messages that Exchange 
   
 ### <a name="outlook-2010-room-finder"></a>Outlook 2010 の会議室の検索
 
-Exchange Online supports the Room Finder feature of Outlook 2010, which arranges rooms into lists (for example, a list called "Building 5 rooms") to make it easier to find a nearby room when scheduling a meeting. To appear in the room list, a distribution group must be specially marked using one of two methods: 
+Exchange Online は、Outlook 2010 の会議室の検索機能をサポートしており、この機能を利用すれば、会議室が一覧 (たとえば「ビル 5 会議室」という一覧) に整理され、会議のスケジュールを設定する際に近くの会議室が見つけやすくなります。会議室一覧に表示するには、次の 2 つの方法のいずれかで配布グループに特別なマークを付ける必要があります。 
   
 - 新しい会議室一覧は、リモート Windows PowerShell を使用して作成できます。 
     

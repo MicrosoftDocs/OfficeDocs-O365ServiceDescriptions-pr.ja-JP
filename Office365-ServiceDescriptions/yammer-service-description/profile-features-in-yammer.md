@@ -28,7 +28,7 @@ Yammer では次のプロファイル機能が利用可能です。
 
 ## <a name="leaderboards"></a>ランキング
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+ネットワーク内の影響力のある同僚を識別します。ランキングには、メッセージ、返信メッセージ、「いいね！」メッセージが最も多い人が表示されます。
 
 ## <a name="member-directory"></a>メンバーディレクトリ
 

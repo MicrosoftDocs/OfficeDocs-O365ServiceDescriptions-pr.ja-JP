@@ -30,7 +30,7 @@ Microsoft Exchange Online Protection (EOP) は、受信者、ドメイン、お�
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+EOP では、管理役割の構成のみが可能です。EAC では、既定の管理役割グループに対してユーザーを直接、追加または削除できます。RBAC のカスタマイズはできません。詳細については、「[EOP で管理役割グループのアクセス許可を管理する](https://go.microsoft.com/fwlink/p/?LinkId=282238)」を参照してください。
   
 ## <a name="domain-management"></a>Domain management
 
@@ -38,13 +38,13 @@ In EOP, you can configure administrative roles only. Users can be added and remo
   
 ## <a name="match-subdomains"></a>一致サブドメイン
 
-In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+EOP では、管理対象ドメインのサブドメインへのメール フローを有効にできます。詳細については、「[EOP でサブドメインの電子メール フローを有効にする](https://go.microsoft.com/fwlink/p/?LinkId=397213)」を参照してください。 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>Directory Based Edge Blocking (DBEB)
 
 ディレクトリ ベースのエッジ ブロック機能では、サービス ネットワーク境界で無効な受信者宛てのメッセージを拒否することができます。 DBEB では、管理者がメールが有効な受信者を Microsoft に追加し、Microsoft に存在しない電子メールアドレスに送信されたすべてのメッセージをブロックすることができます。 メッセージが Microsoft にある有効な電子メールアドレスに送信された場合、メッセージは残りのサービスフィルタリング層 (マルウェア対策、スパム対策、トランスポートルール) を続行します。 宛先のアドレスが存在しない場合、メッセージはフィルターを適用する前にブロックされ、送信者には、メッセージが配信されなかったことを通知する配信不能レポート (NDR) が送信されます。 
   
-Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+DBEB を有効にするには、ユーザーおよびドメインの構成が必要です。詳細については、「[ディレクトリ ベースのエッジ ブロックを使用して無効な受信者に送信されたメッセージを拒否する](https://go.microsoft.com/fwlink/p/?LinkId=390676)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 

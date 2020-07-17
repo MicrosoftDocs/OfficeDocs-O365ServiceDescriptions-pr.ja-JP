@@ -36,19 +36,19 @@ Project Online では、次のポートフォリオ管理機能を使用でき�
   
 ## <a name="financial-management"></a>財務管理
 
-Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+財務管理プロセスを取り入れることにより、費用と利益の見積もりを改善します。費用対効果を効率的に追跡することで、各プロジェクトが予算内で遂行されることと、ポートフォリオの予測結果を実現します。詳細については、「[プロジェクト ポートフォリオ管理ソリューション ガイド (ホワイト ペーパー)](https://go.microsoft.com/fwlink/p/?LinkId=402633)」を参照してください。
   
 ## <a name="participate-in-workflow"></a>ワークフローへの参加
 
-Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
+ワークフローは、フェーズを通してプロジェクトを進めるための構造化された方法を提供します。ワークフローには、提案作成や初期承認など、プロジェクトの進行状況に合わせたライフサイクル ステージの定義が含まれています。ワークフローでは、各ステージで必要な情報またはロックされている情報を設定します。
   
 ## <a name="portfolio-analytics-and-selection"></a>ポートフォリオ分析と選択
 
-Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+組織の事業戦略に最適なプロジェクト ポートフォリオを効率的に特定、選択、および遂行し、投資回収率 (ROI) を最大化します。詳細については、「[プロジェクト ポートフォリオ管理ソリューション ガイド (ホワイト ペーパー)](https://go.microsoft.com/fwlink/p/?LinkId=402633)」を参照してください。
   
 ## <a name="program-management"></a>プログラム管理
 
-In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+プログラム管理の各プロジェクトには、それぞれを組み合わせてプログラム全体の利益予測を達成するための、独自の目標のセットがあります。詳細については、「[プロジェクト ポートフォリオ管理ソリューション ガイド (ホワイト ペーパー)](https://go.microsoft.com/fwlink/p/?LinkId=402633)」を参照してください。
   
 ## <a name="roadmap"></a>ロードマップ
 

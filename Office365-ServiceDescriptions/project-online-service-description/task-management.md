@@ -26,7 +26,7 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+タスクを非アクティブ化すると、プロジェクト プラン内に保持されていても、リソースの可用性、プロジェクト スケジュール、その他のタスクのスケジュール方法には影響しません。[タスクの非アクティブ化](https://go.microsoft.com/fwlink/p/?LinkId=271335)について詳細情報を参照してください。
   
 ## <a name="auto-complete"></a>オートコンプリート
 
@@ -42,7 +42,7 @@ When you inactivate a task, it stays in the project plan but does not affect the
   
 ## <a name="cross-project-critical-path"></a>プロジェクト間のクリティカル パス
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+クリティカル パスとは、プロジェクトがスケジュールどおりに終了するためには、スケジュールに従って完了させる必要がある一連のタスクのことです。別のプロジェクト内のタスクとの依存関係を作成、編集、削除できます。 
   
 ## <a name="task-inspector"></a>タスクの詳細情報
 
@@ -50,7 +50,7 @@ A critical path is the series of tasks that must be completed on schedule for a 
   
 ## <a name="task-path-analysis"></a>タスクパス分析
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+タスクと他のタスクとの関係を確認するため、プロジェクト全体のタスクのタスク パスを強調表示します。[タスク間のリンクを強調表示する方法](https://go.microsoft.com/fwlink/p/?LinkId=271345)について詳細情報を参照してください。
   
 ## <a name="top-down-summary-tasks"></a>トップダウン サマリー タスク
 

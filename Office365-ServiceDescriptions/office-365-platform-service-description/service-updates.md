@@ -21,12 +21,12 @@ ms.locfileid: "45131481"
 # <a name="service-updates"></a>サービス更新
 
 > [!NOTE]
-> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> このトピックは、21Vianet が運用している Office 365 には適用されません。サービスの更新についての詳細は、「[一般法人向け Office 365 のサポートへのお問い合わせ - 管理者向けヘルプ](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照してください。 
   
 リリースされたばかりの機能、またはリリース予定の機能については、「 [Microsoft 365 ロードマップ](https://go.microsoft.com/fwlink/?LinkId=509914)」を参照してください。
   
 > [!NOTE]
-> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
+> アップデートおよびアップグレードは、地理、言語、データ センター、サブスクリプションなど、多くの要因に基づいてカスタマーに公開されます。したがって、既存のカスタマーが、すべてのアップデートやアップグレード機能を直ちに使用できるわけではありません。 
   
 ## <a name="targeted-release"></a>対象となるリリース
 

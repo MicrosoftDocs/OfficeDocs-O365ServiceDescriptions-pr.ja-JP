@@ -27,14 +27,14 @@ Microsoft Exchange Online アーカイブを使用すると、ユーザーはさ
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
+Microsoft Outlook は、予定表作成、連絡先、タスクのサポートを含む多機能の電子メール プログラムです。Exchange Online Archiving は、Outlook 2013、Outlook 2010、Outlook 2007 をサポートします。主な機能には以下のものがあります。
   
 - **Outlook Anywhere**Outlook Anywhere を使用すると、Outlook ユーザーは、VPN 接続を必要とせずに、インターネット経由で Exchange Server に接続し、Exchange Online アーカイブを使用することができます。 Outlook と Exchange Online Archiving 間の通信は、RPC-over-HTTP Windows ネットワーク コンポーネントを使用し、SSL で保護されたトンネルを介して行われます。    
 - **自動検出** Exchange 自動検出サービスは、Exchange Online Archiving と連動するように Outlook を自動的に構成します。 自動検出を使用すると、Outlook ユーザーは、必要なプロファイル設定を Exchange から直接 (かつ固定した間隔で) 自分のメールアドレスとパスワードで受信することができます。 
 
 Outlook 2010 以降および web 上の Outlook では、アーカイブのすべての機能に加えて、保持ポリシーやアーカイブポリシーなどの関連機能をユーザーに提供します。
   
-Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
+Outlook 2007 はアーカイブの基本的なサポートを提供しますが、一部のアーカイブ機能とコンプライアンス機能が Outlook 2007 では使用できません。たとえば、Outlook 2007 では、ユーザーは、保持ポリシーやアーカイブ ポリシーをメールボックス内のアイテムに適用できません。代わりに、管理者によってプロビジョニングされるポリシーを使用する必要があります。Outlook 2007 ユーザーがアーカイブにアクセスするためには、2011 年 2 月の Office 2007 累積更新プログラムが必要です。
   
 > [!NOTE]
 > Outlook は Exchange Online Archiving に付属していません。 Microsoft 365 for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。 Microsoft 365 enterprise 用アプリの詳細については、「 [Office アプリケーションサービスの説明](../office-applications-service-description/office-applications-service-description.md)」を参照してください。 

@@ -32,7 +32,7 @@ Exchange Online を含むサブスクリプションの機能の比較につい�
 [Exchange Online のメール配信不能レポート](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online のヘルプ](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
+Microsoft Exchange Online は、Microsoft Exchange Server の機能をクラウドベースのサービスとして提供するホスト型のメッセージング ソリューションです。ユーザーは PC、Web、およびモバイル デバイスから電子メール、カレンダー、連絡先、タスクにアクセスできます。Active Directory と完全に統合するので、管理者がグループ ポリシーを他の管理ツールと共に使用し、環境全体にわたって Exchange Online 機能を管理することができます。
   
 Exchange Online をサブスクライブする組織は、ユーザーに提供するメッセージング サービスを管理できますが、社内サーバー ソフトウェアを運用するときのような負荷はありません。 このドキュメントで説明する Exchange Online のホスト型のプランでは、電子メールは、複数のカスタマーを同時にサポートするサーバー上でホストされます。 これらのサーバーは、Microsoft データセンターに格納されており、企業ネットワーク内から、またはインターネット経由でさまざまなデバイスのユーザーがアクセスできます。
   
@@ -49,9 +49,9 @@ Exchange 管理センターの新機能の詳細については、「 [exchange 
 
 Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
+Exchange Online サービスにアクセスする各ユーザーは、サブスクリプション プランに割り当てられる必要があります。ユーザーのサブスクリプションごとにメールボックスがあります。これらのメールボックスのフォルダーおよびメッセージは、Microsoft データ センターの Exchange Server が実行されているコンピューター上に格納されます。
   
-User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
+ユーザー サブスクリプションは、会議室および共有メールボックスには必要ありません。これらの特殊な種類のメールボックスには、ログイン資格情報がありません。これらの特殊な種類のメールボックスは、ライセンスを持ち、適切なアクセス許可があるユーザーが委任によって管理とアクセスを行います。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online のシステム要件
 

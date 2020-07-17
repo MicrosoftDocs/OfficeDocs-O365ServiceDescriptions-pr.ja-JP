@@ -29,7 +29,7 @@ Yammer では次のサポート機能が利用可能です。
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer エンタープライズ の管理者はアカウントの保守を担当し、Microsoft サポート チームと直接連絡を取ることができます。サポートを必要としている Yammer エンタープライズ の管理者は、「[サポートへようこそ](https://go.microsoft.com/fwlink/p/?LinkId=330922)」を参照してください。
 
 ## <a name="customer-support"></a>カスタマー サポート
 
@@ -41,7 +41,7 @@ Microsoft FastTrack サービスは、すべての手順でヘルプを提供す
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer プランのサポート機能
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
+組織のニーズに最適な Yammer プランをお探しですか？各プランで利用できるサポート機能を次の表でご確認ください。
   
 |**機能**|**Yammer ベーシック**|**Yammer エンタープライズ**|
 |:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Need help figuring out which Yammer plan best fits your organization's needs? Us
  
 ## <a name="technical-support-case-handling"></a>テクニカル サポート ケースの処理
 
-Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
+Microsoft サポートでは、テクニカル サポート ケースを開く際に、問題のタイプやお客様への影響を評価した上で、ケースに重大度レベルを割り当てます。次の表に、問題のタイプと重大度レベルの例を示します。 
   
 |**重大度レベル**|**説明**|**例**|
 |:-----|:-----|:-----|
@@ -61,7 +61,7 @@ Microsoft Support assigns a severity level to a case when it is opened, based on
 
 ## <a name="technical-support-initial-response-times"></a>テクニカル サポートの初期応答時間
 
-Initial response times are based on the severity levels described above and the type of Yammer subscription. The target response times are shown in the following table.
+初期応答時間は、上記の重大度レベルと Yammer サブスクリプションの種類に基づきます。目標応答時間を下の表に示します。
   
 |**重大度レベル**|**Yammer ベーシック**|**Yammer エンタープライズ**|
 |:-----|:-----|:-----|
