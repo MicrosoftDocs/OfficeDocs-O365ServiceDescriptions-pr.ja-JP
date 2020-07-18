@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131291"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154405"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -40,6 +40,8 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 **2 GB**
 
 - Office 365 Enterprise F3
+- Microsoft 365 F1
+- Microsoft 365 F3
 
 **1 TB**
 
