@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137563"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201557"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -342,6 +342,26 @@ Office 365 E5/A5、Microsoft 365 E5/a5、Microsoft 365 E5/A5 コンプライア�
 
 お客様は、承認者グループとアクセスポリシーを使用して、ユーザー単位で PAM を管理することができます。これは、ライセンスを持つユーザーに適用できます。 詳細については、「 [Office 365 での特権アクセス管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)」を参照してください。
 
+## <a name="double-key-encryption-for-microsoft-365"></a>Microsoft 365 の二重キー暗号化 
+
+Microsoft 365 の二重キー暗号化により、非常に機密性の高いデータを保護し、特殊な要件を満たし、暗号化キーのフルコントロールを維持することができます。 二重キー暗号化は、2つのキーを使用してデータを保護し、1つのキーをコントロールに、2番目のキーをセキュリティで保護された Microsoft Azure に格納します。 データを表示するには、両方のキーへのアクセス権を持っている必要があります。 Microsoft は1つのキーにしかアクセスできないため、Microsoft はそのキーとデータを利用できないため、データのプライバシーとセキュリティを完全に制御できるようにしています。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+暗号化されたデータをクラウドに移行して、キーがユーザーの制御にとどまる限り、第三者がアクセスできないようにすることで、2つのキー暗号化を利用できるようになります。 エンドユーザーは、他の機密ラベルで保護されたコンテンツと同じように、二重の重要な暗号化コンテンツを保護して使用できます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 情報保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスは、ユーザーが二重のキー暗号化を利用できるようにするための権限を提供します。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+Double キー暗号化は、Microsoft Office for Windows のデスクトップバージョンをサポートしています。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+ライセンスを付与されたユーザーのために、Office 365 または Microsoft 365 組織内のデータに暗号化キーを割り当てるには、キー暗号化展開の手順2に従います。
+
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online、SharePoint Online、OneDrive for business の Office 365 データ損失防止
 
 Exchange Online、SharePoint Online、OneDrive for Business の Office 365 データ損失防止 (DLP) を使用すると、組織は、電子メールとファイル (Microsoft Teams ファイルリポジトリに格納されているファイルを含む) 全体で機密情報を識別、監視、および自動保護することができます。
@@ -388,7 +408,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
