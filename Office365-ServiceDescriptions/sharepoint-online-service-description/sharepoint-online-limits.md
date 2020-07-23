@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154365"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229643"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -24,7 +24,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Microsoft 365 Business Basic または Business Premium** <br/> |**Microsoft 365 E3 または E5、Office 365 Enterprise E1、E3、E5、または SharePoint プラン1または2** <br/> | **Microsoft 365 F1 または F3、Office 365 Enterprise F3** <br/> |
+|**機能** <br/> |**Microsoft 365 Business Basic、Business Standard、Business Premium** <br/> |**Microsoft 365 E3 または E5、Office 365 Enterprise E1、E3、E5、または SharePoint プラン1または2** <br/> | **Microsoft 365 F1 または F3、Office 365 Enterprise F3** <br/> |
 |組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup>  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |サイト (サイト コレクション) あたりの最大ストレージ <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
@@ -83,7 +83,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="sharepoint-groups"></a>SharePoint グループ
 
-ユーザーは 5,000 のグループに所属でき、各グループには最大 5,000 のユーザーを含めることができます。 サイト (サイト コレクション) あたり最大 10,000 グループを含めることができます。
+ユーザーは、サイト (サイトコレクション) ごとに5000グループに属することができ、各グループは最大で5000ユーザーを持つことができます。 サイト (サイト コレクション) あたり最大 10,000 グループを含めることができます。
 
 > [!NOTE]
 > Azure AD グループの制限は、パブリック グループ サイトとプライベート グループ サイトのメンバーシップの管理に影響する可能性がありますので、「[Azure AD サービスの制限と制約](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)」を参照してください。 

@@ -1,5 +1,5 @@
 ---
-title: モバイルデバイス [SD]
+title: モバイルデバイスサービスの説明
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Microsoft Office 365 では、多くの携帯電話、タブレット、その他のモバイルデバイスを使用することができます。
-ms.openlocfilehash: 04b1a125788d92e3eaea53f7e0ddd7005b3d2885
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3abf786b322c8b8d9986823eed8ed8ce8d84ae37
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132381"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229633"
 ---
 # <a name="mobile-devices-sd"></a>モバイルデバイス [SD]
 
@@ -26,7 +26,7 @@ Microsoft Office 365 では、多くの携帯電話、タブレット、その�
     
 - モバイルデバイスでの電子メールの使用については、「[クライアントとモバイルデバイス](../exchange-online-service-description/clients-and-mobile-devices.md)サービスの説明」を参照してください。 
     
-- Office 365 のモバイル デバイス管理の詳細については、「[Office 365 のモバイル デバイス管理 (MDM) の概要](https://go.microsoft.com/fwlink/?linkid=808602)」を参照してください。
+- Microsoft 365 の基本的なモビリティとセキュリティの詳細については、「 [microsoft 365 の基本的なモビリティとセキュリティの概要](https://go.microsoft.com/fwlink/?linkid=808602)」を参照してください。
     
 ## <a name="feature-availability"></a>機能の可用性
 
