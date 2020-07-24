@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – DoD を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5518a0332d598a25a434c817ce04eefc6069b62d
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132491"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388083"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンスの計画 - DoD 展開
 
@@ -47,7 +47,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 > [!NOTE]
 > Microsoft 365 Government は米国でのみご利用いただけます。 米国以外の政府機関のお客様は、多くの[Office 365 Government プラン](https://products.office.com/government/compare-office-365-government-plans)から選択できます。
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>手順 2. Microsoft 365 Government-DoD の適用
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>手順 2。 Microsoft 365 Government-DoD の適用
 
 このサービスが組織に適していると判断した場合は、[このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
 
@@ -73,7 +73,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                        |推奨されるポリシー                            | エンジニアリングバックログの場合 |
 |                                        |スマートインポートフィルター                            | エンジニアリングバックログの場合 |  
 |                                        |イベント ベースの保持                           | エンジニアリングバックログの場合 |
-|                                        |廃棄のレビュー                              | エンジニアリングバックログの場合 |
+|                                        |処理確認                              | エンジニアリングバックログの場合 |
 |                                        |情報バリア                            | Available              |
 |                                        |ファイルと電子メールのデータ損失防止 (DLP)  | Available              |
 |                                        |Teams チャットおよびチャネル会話の DLP    | エンジニアリングバックログの場合 |
@@ -81,34 +81,34 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                        |ラベル アクティビティ エクスプローラー                         | エンジニアリングバックログの場合 |
 |                                        |トレーニング可能な分類子                           | エンジニアリングバックログの場合 |
 |                                        |統合されたラベルと機密ラベル         | エンジニアリングバックログの場合 |
-|**インサイダー リスクの管理**             |高度なメッセージ暗号化                     | Available              |
+|**Insider リスク管理**             |高度なメッセージ暗号化                     | Available              |
 |                                        |インサイダー リスクの管理                         | エンジニアリングバックログの場合 |
 |                                        |通信コンプライアンス                        | エンジニアリングバックログの場合 |
 |                                        |顧客ロックボックス                                | Available              |
 |                                        |顧客キー                                    | Available              |
 |                                        |特権アクセス管理                    | エンジニアリングバックログの場合 |
-|**& 応答の検出**                  |インプレースの予約                            | Available              |
-|                                        |ケース管理                                 | Available              |
-|                                        |検索                                          | Available              |
-|                                        |エクスポート                                          | Available              |
-|                                        |RMS 復号化                                  | Available              |
-|                                        |ネイティブエクスポート                                   | Available              |
-|                                        |高度な処理                             | エンジニアリングバックログの場合 |
-|                                        |電子メールスレッド                                 | エンジニアリングバックログの場合 |
-|                                        |ほぼ重複した識別                   | エンジニアリングバックログの場合 |
-|                                        |テーマ                                          | エンジニアリングバックログの場合 |
-|                                        |予測コーディング                               | エンジニアリングバックログの場合 |
-|                                        |読み込みファイルを使用したエクスポートの処理                 | エンジニアリングバックログの場合 |
-|                                        |タグ                                         | エンジニアリングバックログの場合 |
-|                                        |閲覧者                                         | エンジニアリングバックログの場合 |
-|                                        |Redactions                                      | エンジニアリングバックログの場合 |
-|                                        |フィルター処理                                       | エンジニアリングバックログの場合 |
-|                                        |保管担当者からワークロードへのマッピング                   | エンジニアリングバックログの場合 |
-|                                        |保管担当者通信                        | エンジニアリングバックログの場合 |
-|                                        |チェックセット                                     | エンジニアリングバックログの場合 |
-|                                        |レビューと注釈                             | エンジニアリングバックログの場合 |
-|                                        |Office 以外の365の取り込み                        | エンジニアリングバックログの場合 |
-|                                        |検索用語レポート                              | エンジニアリングバックログの場合 |
+|**& 応答の検出**                  |コア電子情報開示: インプレース保持                            | Available              |
+|                                        |コア電子情報開示: ケース管理                                 | Available              |
+|                                        |コア電子情報開示: 検索                                          | Available              |
+|                                        |コア電子情報開示: エクスポート                                          | Available              |
+|                                        |コア電子情報開示: RMS 復号化                                  | Available              |
+|                                        |コア電子情報開示: ネイティブエクスポート                                   | Available              |
+|                                        |高度な電子情報開示: 高度な処理                             | Available |
+|                                        |高度な電子情報開示: 電子メールスレッド                                 | Available |
+|                                        |高度な電子情報開示: ほぼ重複した識別情報                   | Available |
+|                                        |高度な電子情報開示: テーマ                                          | Available |
+|                                        |高度な電子情報開示: 予測コーディング                               | Available |
+|                                        |高度な電子情報開示: 読み込みファイルを使用したエクスポート処理                 | Available |
+|                                        |高度な電子情報開示: タグ付け                                         | Available |
+|                                        |高度な電子情報開示: 閲覧者                                         | Available |
+|                                        |高度な電子情報開示: Redactions                                      | Available |
+|                                        |高度な電子情報開示: フィルター処理                                       | Available |
+|                                        |高度な電子情報開示: 保管担当者 to ワークロードマッピング                   | Available |
+|                                        |高度な電子情報開示: 保管担当者通信                        | Available |
+|                                        |高度な電子情報開示: レビューセット                                     | Available |
+|                                        |高度な電子情報開示: レビューと注釈                             | Available |
+|                                        |高度な電子情報開示: Office 以外の365の取り込み                        | エンジニアリングバックログの場合 |
+|                                        |高度な電子情報開示: 検索用語レポート                              | Available |
 
 <sup>1</sup>特定された状態は、プロジェクト計画と優先度を再評価する際に変更される可能性があります。<br/>
 <sup>2</sup>ラベルを手動でアプリケーションに適用するには、 [Azure INFORMATION Protection (AIP) クライアントバージョン 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)が必要です。

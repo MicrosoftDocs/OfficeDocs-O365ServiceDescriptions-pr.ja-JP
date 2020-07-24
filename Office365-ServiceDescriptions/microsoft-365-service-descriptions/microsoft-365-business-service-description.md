@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能によってクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201561"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388113"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium サービスの説明
 
@@ -52,57 +52,57 @@ Microsoft 365 Business Premium には、基本的に Microsoft 365 Business Stan
 |インプレース保持と訴訟ホールド  <br/> |いいえ  <br/> |はい<sup>3</sup>  <br/> |
 |インプレース電子情報開示 (eDiscovery)  <br/> |はい  <br/> |はい  <br/> |
 |Transport rules  <br/> |はい  <br/> |はい  <br/> |
-|データ損失防止  <br/> |いいえ  <br/> |はい <br/> |
+|データ損失防止  <br/> |不要  <br/> |はい <br/> |
 |[プライバシー、セキュリティ、および透明性](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |組み込みのスパム対策保護  <br/> |はい  <br/> |はい  <br/> |
 |組み込みのマルウェア対策保護  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 Advanced Threat Protection プラン1 <br/> |いいえ  <br/> |はい<sup>7</sup> <br/> |
 |セキュリティ スコア<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |
-|Office 365 Advanced Threat Protection プラン 2 <br/> |いいえ  <br/> |いいえ <br/> |
+|Office 365 Advanced Threat Protection プラン 2 <br/> |不要  <br/> |不要 <br/> |
 |**Azure AD Premium P1 は、Microsoft 365 Business Premium のお客様が利用できます。**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Azure 多要素認証 (MFA)  <br/> |いいえ  <br/> |はい <br/> |はい  <br/> |
-|管理単位  <br/> |いいえ  <br/> |はい <br/> |はい  <br/> |
-|Cloud App Discovery  <br/> |いいえ  <br/> |はい <br/> |はい  <br/> |
-|動的グループ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Azure 多要素認証 (MFA)  <br/> |不要  <br/> |はい <br/> |はい  <br/> |
+|管理単位  <br/> |不要  <br/> |はい <br/> |はい  <br/> |
+|Cloud App Discovery  <br/> |不要  <br/> |はい <br/> |はい  <br/> |
+|動的グループ  <br/> |不要  <br/> |はい  <br/> |はい  <br/> |
 |クラウド ID のセルフサービスのパスワードのリセット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|オンプレミス AD の書き戻しによるセルフサービスのパスワードのリセット  <br/> |いいえ  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
-|オンプレミスのディレクトリと Azure AD 間でのデバイス オブジェクトの双方向同期 (デバイスの書き戻し)  <br/> |いいえ  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
-|条件付きアクセス (グループ、場所、またはデバイスの状態に基づく)  <br/> |いいえ  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
+|オンプレミス AD の書き戻しによるセルフサービスのパスワードのリセット  <br/> |不要  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
+|オンプレミスのディレクトリと Azure AD 間でのデバイス オブジェクトの双方向同期 (デバイスの書き戻し)  <br/> |不要  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
+|条件付きアクセス (グループ、場所、またはデバイスの状態に基づく)  <br/> |不要  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
 |企業ブランド化 (ログオンページ/アクセスパネルのカスタマイズ)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|アプリケーションプロキシ  <br/> |いいえ  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
-|Microsoft Identity Manager (MIM) ユーザー CAL  <br/> |いいえ  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
+|アプリケーションプロキシ  <br/> |不要  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
+|Microsoft Identity Manager (MIM) ユーザー CAL  <br/> |不要  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
 |Connect Health  <br/> |いいえ  <br/> |はい (<sup>9</sup> )  <br/> |はい  <br/> |
 |SLA 99.9%  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[デバイスとアプリケーションの管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium には、iOS、Android、Mac OS、その他のクロスプラットフォームデバイス管理のための完全な Intune 機能が含まれています。<sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Intune モバイルデバイス管理 (MDM) (Pc、Mac、モバイルデバイス用)<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|モバイル デバイス管理 (MDM) の自動登録  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Office アプリと LOB アプリの Intune モバイルアプリケーション管理 (MAM)<br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows update management、Defender、ファイアウォールポリシー<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|データ保護 - 選択的ワイプ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ポリシーを対象としたセキュリティグループ (SG)  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|登録済みの Windows 10 デバイスで Office アプリをインストールする  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows Defender の構成  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|デバイスプロファイルおよびセキュリティ構成の展開<sup>5</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows Virtual Desktop <br/> |いいえ <br/> |はい <br/> |はい <br/> |
+|[デバイスとアプリケーションの管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium には、iOS、Android、Mac OS、その他のクロスプラットフォームデバイス管理のための完全な Intune 機能が含まれています。<sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|Intune モバイルデバイス管理 (MDM) (Pc、Mac、モバイルデバイス用)<sup>5</sup> <br/> |不要  <br/> |はい  <br/> |
+|モバイル デバイス管理 (MDM) の自動登録  <br/> |不要  <br/> |はい  <br/> |
+|Office アプリと LOB アプリの Intune モバイルアプリケーション管理 (MAM)<br/> |不要  <br/> |はい  <br/> |
+|Windows update management、Defender、ファイアウォールポリシー<sup>5</sup> <br/> |不要  <br/> |はい  <br/> |
+|データ保護 - 選択的ワイプ  <br/> |はい  <br/> |はい  <br/> |
+|ポリシーを対象としたセキュリティグループ (SG)  <br/> |不要  <br/> |はい  <br/> |
+|登録済みの Windows 10 デバイスで Office アプリをインストールする  <br/> |不要  <br/> |はい  <br/> |
+|Windows Defender の構成  <br/> |不要  <br/> |はい  <br/> |
+|デバイスプロファイルおよびセキュリティ構成の展開<sup>5</sup> <br/> |不要  <br/> |はい  <br/> |
+|Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |不要  <br/> |はい  <br/> |
+|セルフサービスの BitLocker 回復  <br/> |不要  <br/> |はい  <br/> |
+|Windows Virtual Desktop <br/> |不要 <br/> |はい <br/> |
 
 |||
 |:-----|:-----|
 |**Windows 10 Pro 管理** <br/>Windows 7 および 8.1 Professional がライセンスされているデバイスがある場合、Microsoft 365 Business Premium は Windows 10 Pro へのアップグレードを提供します。<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
-|Windows AutoPilot による簡略化された展開  <br/> |必要  <br/> |
-|サブスクリプションのアクティブ化  <br/> |必要  <br/> |
-|アイドル時のデバイス画面の組織的な制御  <br/> |必要  <br/> |
-|Microsoft Store からのアプリへのユーザーアクセスの組織的な制御  <br/> |必要  <br/> |
-|Cortana へのユーザーアクセスの組織的な制御  <br/> |必要  <br/> |
-|Microsoft による Windows のヒントと広告の組織的な制御  <br/> |必要  <br/> |
+|Windows AutoPilot による簡略化された展開  <br/> |はい  <br/> |
+|サブスクリプションのアクティブ化  <br/> |はい  <br/> |
+|アイドル時のデバイス画面の組織的な制御  <br/> |はい  <br/> |
+|Microsoft Store からのアプリへのユーザーアクセスの組織的な制御  <br/> |はい  <br/> |
+|Cortana へのユーザーアクセスの組織的な制御  <br/> |はい  <br/> |
+|Microsoft による Windows のヒントと広告の組織的な制御  <br/> |はい  <br/> |
 |Windows 10 デバイスを自動的に最新の状態に保つ  <br/> |はい  <br/> |
 |**Windows 10 のセキュリティ** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Windows Defender ウイルス対策を使用して、PC をウイルスやその他の脅威から保護する  <br/> |はい  <br/> |
 |Microsoft Edge で Web ベースの脅威から PC を保護する  <br/> |はい  <br/> |
-|デバイスに対する攻撃面を縮小するルールを使用する <br/> |必要  <br/> |
-|フォルダーをランサムウェアなどの脅威から保護する <br/> |必要  <br/> |
-|Bitlocker を使用した不正アクセスから PC のファイルとフォルダーを保護する <br/> |必要  <br/> |
+|デバイスに対する攻撃面を縮小するルールを使用する <br/> |はい  <br/> |
+|フォルダーをランサムウェアなどの脅威から保護する <br/> |はい  <br/> |
+|Bitlocker を使用した不正アクセスから PC のファイルとフォルダーを保護する <br/> |はい  <br/> |
 
 ### <a name="notes"></a>Notes
 <sup>1</sup> Exchange Online プラン 1 が含まれます。<br/>

@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131991"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388093"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -56,19 +56,18 @@ Microsoft Teams は、スタンドアロンサービスとしては利用でき�
 |チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Teams  <br/> |はい <br/> |はい <br/> |あり <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
 |チャネル-標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |<sup>3</sup>なし  <br/> |<sup>3</sup>なし  <br/> |<sup>3</sup>なし  <br/> |はい  <br/> |
+|チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |不要  <br/> |いいえ  <br/> |不要 <br/> |はい  <br/> |
 |会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |画面共有の PowerPoint 音声/ビデオデスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Apps、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい  <br/> |
-|ライブイベント  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |<sup>5</sup>なし  <br/> |<sup>5</sup>なし  <br/> |はい  <br/> |
+|Apps、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
+|ライブイベント  <br/> |不要  <br/> |はい  <br/> |はい  <br/> |いいえ<sup>4</sup>  <br/> |いいえ<sup>4</sup>  <br/> |はい  <br/> |
 
 <sup>1</sup>個々のチームの2500メンバーについて、GCC-HIGH および DOD サポートに関する Microsoft Teams。<br/>
 <sup>2</sup> Microsoft Planner は、現在プライベートチャネルではアクセスできません。<br/>
-<sup>3</sup>プライベートチャネルは、現時点では GCC クラウドでは利用できません。 可用性に関するその他の更新プログラムは、メッセージセンターに公開されます。<br/>
-<sup>4</sup> Microsoft OneNote は、DOD クラウドでは利用できません。 現時点では、これらのクラウドではアプリケーションとアプリケーションの公開は利用できません。<br/>
-この時点では、 <sup>5 つ</sup>のライブイベントは GCC-High または DOD では利用できません。<br/>
+<sup>3</sup> Microsoft OneNote は、DOD クラウドでは利用できません。 現時点では、これらのクラウドではアプリケーションとアプリケーションの公開は利用できません。<br/>
+<sup>4</sup>現時点では、GCC-High または DOD では、Live イベントは使用できません。<br/>
 
 ## <a name="next-steps"></a>次の手順
 
