@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話に使用することを可能にするアドインサービスです。 これにより、電話システム、国内通話プラン、SMS、電話会議が統合されます。
-ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
+ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679594"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410217"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 音声サービスの説明
 
@@ -33,12 +33,12 @@ Microsoft 365 Business Voice は、最大300のライセンスを持つ次のサ
 - Microsoft 365 F1
 - Microsoft 365 F3
 - Office 365 F3
-- Microsoft および Office 365 Enterprise E1、E3、または E5
-- Microsoft 365 および Office 365 エデュケーション A1、A3、または A5
-- Microsoft 365 および Office 365 Government G1、G3、または G5 (GCC のみ)
+- Microsoft および Office 365 Enterprise E1 または E3
+- Microsoft 365 および Office 365 エデュケーション A1 または A3
+- Microsoft 365 および Office 365 Government G1 または G3
 - Microsoft 365 非営利事業の基本
 - Microsoft 365 の非営利業務標準
-- Microsoft 365 および Office 365 非営利 E1、E3、または E5
+- Microsoft 365 および Office 365 非営利 E1 または E3
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 ビジネス Voip 機能
 
