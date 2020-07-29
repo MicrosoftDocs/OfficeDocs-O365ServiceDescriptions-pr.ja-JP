@@ -109,5 +109,5 @@
 #### [Microsoft 365 コンプライアンスの計画 - DoD 展開](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Microsoft 365 コンプライアンスの計画 - GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Microsoft 365 コンプライアンスの計画 - GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
-## [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
+## [Microsoft Dynamics 365 サービス説明](microsoft-dynamics-365-online-service-description.md)
  
