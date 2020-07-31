@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: ドメインを追加すると、ユーザーを追加したり、電子メールアドレスやその他のサービスをビジネス名に変換したりするためのステップバイステップウィザードを使用できます。 ウィザードを完了すると、現在のメールプロバイダーに移動するのではなく、会社のメールが Microsoft に届くようになります。 詳細については、「ユーザーとドメインを Microsoft に追加する」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132401"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531220"
 ---
 # <a name="domains"></a>ドメイン
 
@@ -26,7 +26,7 @@ ms.locfileid: "45132401"
   
 ## <a name="custom-domains"></a>カスタム ドメイン
 
-サブスクリプションには最大900のドメインを追加できます。 ただし、別の Microsoft クラウド サービスで既に使用している Office 365 にドメインを追加することはできません。 これは、同一のドメインを複数のサブスクリプションに追加できないことを意味します。 詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
+サブスクリプションには最大900のドメインを追加できます (サブドメインを含む)。 Microsoft 365 には、既に別の Microsoft クラウドサービスで使用しているドメインを追加することはできません。 これは、同一のドメインを複数のサブスクリプションに追加できないことを意味します。 詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
   
 ### <a name="second-and-third-level-domains"></a>第 2 および第 3 レベル ドメイン
 
@@ -48,7 +48,7 @@ Microsoft は、dns レコードを事前にチェックして、DNS の問題�
   
 ## <a name="sharing-a-domain"></a>ドメインの共有
 
-一部の電子メールアドレスは、Microsoft のドメインに対して、または前のメールプロバイダーで試験的に使用することができます。 これは、追加のセットアップ手順が必要であり、Microsoft サービスにいくつかの制限があるため、パイロットでのみ使用することをお勧めします。 詳細については、以下を参照してください。
+一部の電子メールアドレスは、Microsoft のドメインに対して、または前のメールプロバイダーで試験的に使用することができます。 これは、追加のセットアップ手順が必要であり、Microsoft サービスにいくつかの制限があるため、パイロットでのみ使用することをお勧めします。 詳細については、以下をご参照ください。
   
 - [小規模企業向けの Microsoft 365 のパイロット](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: 8a22154cf97031518fac99a5b7052c00e0bdb214
-ms.sourcegitcommit: 31ef23008777fe063df8c9abca75292f6991b8a2
+ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46513893"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531210"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -56,7 +56,7 @@ Microsoft Teams は、スタンドアロンサービスとしては利用でき�
 |チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Teams  <br/> |はい <br/> |はい <br/> |あり <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
 |チャネル-標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |いいえ  <br/> |はい  <br/> |いいえ <br/> |はい  <br/> |
+|チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |はい <br/> |いいえ  <br/> |不要 <br/> |はい  <br/> |
 |会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |画面共有の PowerPoint 音声/ビデオデスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
