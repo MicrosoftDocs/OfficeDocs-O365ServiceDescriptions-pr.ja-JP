@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131301"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616913"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 
@@ -127,10 +127,6 @@ Web 用の Word では、ドキュメント内のブックマークへのリン�
 ## <a name="index"></a>インデックス
 
 索引には、文書内で扱われている用語やトピックと、それらが出現するページが一覧表示されます。索引を作成するには、メイン項目の名前と文書内での相互参照を指定することによって索引項目をマークしてから、索引を作成します。
-  
-## <a name="ink-editor"></a>インク エディター
-
-インク エディターを使用すると、円で囲んでテキストを選択したり、バツ印をつけてテキストを削除したりするなどの自然なジェスチャでドキュメントの編集や書式設定を行うことができます。
   
 ## <a name="insert-online-pictures"></a>オンライン画像の挿入
 
@@ -297,4 +293,8 @@ Word では、文書内の単語数についての大まかな語句が提供さ
 ## <a name="feature-availability"></a>機能の可用性
 
 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office for the web service description](office-online-service-description.md)」を参照してください。 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>オペレーティングパラメーターの制限と仕様
+
+オペレーティングパラメーターの制限については、「[オペレーティングパラメーターの制限と仕様 (Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation))」を参照してください。
   

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Microsoft 365 のお客様は、Word、Excel、OneNote、または PowerPoint を使用して、移動中のファイルを表示、作成、および編集できます。
-ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131331"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616923"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
@@ -63,7 +63,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[ヘッダーとフッター](word-online.md#headers-and-footers) <br/> |はい  <br/> |はい  <br/> |
 |[ハイパーリンク](word-online.md#hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[索引](word-online.md#index) <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |
-|[インク エディター](word-online.md#ink-editor) <br/> |いいえ  <br/> |はい  <br/> |
+|[インクエディター] <br/> |いいえ  <br/> |はい  <br/> |
 |[オンライン画像の挿入](word-online.md#insert-online-pictures) <br/> |はい  <br/> |はい  <br/> |
 |[IRM とパスワード保護](word-online.md#irm-and-password-protection) <br/> |いいえ  <br/> |はい  <br/> |
 |[学習ツール](word-online.md#learning-tools) <br/> |いいえ  <br/> |はい  <br/> |
@@ -277,7 +277,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[Skype for Business または Office Presentation Service によるオンライン プレゼンテーション](powerpoint-online.md#present-online-through-skype-for-business-or-the-office-presentation-service) <br/> |はい  <br/> |はい  <br/> |
 |[PDF に印刷](powerpoint-online.md#print-to-pdf) <br/> |はい  <br/> |はい  <br/> |
 |[校正ツール](powerpoint-online.md#proofing-tools) <br/> |はい  <br/> |はい  <br/> |
-|[リアルタイム共同編集](powerpoint-online.md#real-time-co-authoring) <br/> |○  <br/> |はい<sup>4</sup> <br/> |
+|[リアルタイム共同編集](powerpoint-online.md#real-time-co-authoring) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |
 |[校閲者ツール、詳細](powerpoint-online.md#reviewer-tools-advanced) <br/> |いいえ  <br/> |はい  <br/> |
 |Rights management: IRM とパスワードのセキュリティ <br/> |いいえ  <br/> |はい  <br/> |
 |[スライド ショーの実行](powerpoint-online.md#run-slide-show) <br/> |はい  <br/> |はい  <br/> |
