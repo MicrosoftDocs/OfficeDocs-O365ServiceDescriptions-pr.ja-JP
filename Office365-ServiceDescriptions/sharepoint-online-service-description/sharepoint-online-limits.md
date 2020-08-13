@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
-ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
+ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560082"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649597"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -67,7 +67,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="sync"></a>同期
 
-**新しい OneDrive 同期アプリ** - ファイル オンデマンドを使用して、またはライブラリ内で特定のフォルダーのみを選択して同期を行っている場合であっても、パフォーマンスを最適化するには、同期されているすべてのドキュメント ライブラリ全体で 300,000 アイテム以上のファイルを格納しないようにすることをお勧めします。
+**新しい OneDrive 同期アプリ**-最適なパフォーマンスを実現するために、ファイルを必要に応じて使用している場合、または同期するライブラリ内の一部のフォルダーのみを選択している場合でも、すべての同期されたドキュメントライブラリで、ユーザーごとに30万個を超えるファイルを保存しないことをお勧めします。
 
 **以前の OneDrive for Business 同期アプリ (Groove.exe)** - 同期されているすべてのライブラリ全体で、最大 20,000 アイテムを同期できます。 これには、OneDrive ライブラリ、チーム サイト ライブラリ、またはその両方が含まれます。 全体での同期制限とは別に、ライブラリの種類ごとに同期できるアイテムの数に制限があります。
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされているときに確認できます。 サービス正常性情報は、サインインすることでいつでも利用できます。
-ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131801"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649607"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -48,7 +48,7 @@ Microsoft 管理者は、サービスの状態を表示し、メンテナンス�
 |**2020** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
-| 99.98% <br/> | <br/> | <br/> |<br/> |
+| 99.98% <br/> | 99.99%<br/> | <br/> |<br/> |
 
 <br/>
 
