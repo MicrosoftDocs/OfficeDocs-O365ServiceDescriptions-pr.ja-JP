@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201557"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798383"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -45,7 +45,7 @@ Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することにより、Azure AD Id 保護を適用できます。 Azure AD Identity Protection の展開の範囲を設定する方法については、「[サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
+管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することにより、Azure AD Id 保護を適用できます。 Azure AD Identity Protection の展開の範囲を設定する方法については、「 [サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
 
 ## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
@@ -116,7 +116,7 @@ Office 365 E5/A5/G5 は、ユーザーが OCAS の恩恵を受けるための権
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、OCAS 展開を適用して、特定のアプリへのアクセス方法を強制し、Office 365 Cloud App Security によって監視されるユーザーグループを制限することができます。 詳細については、「[スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
+管理者は、OCAS 展開を適用して、特定のアプリへのアクセス方法を強制し、Office 365 Cloud App Security によって監視されるユーザーグループを制限することができます。 詳細については、「 [スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
@@ -146,7 +146,7 @@ MCAS の条件付きアクセスアプリコントロール機能を活用する
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、サービスで利用できるスコープ付き展開機能を使用して、ライセンスを持つユーザーに MCAS 展開の範囲を設定できます。 詳細については、「[スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
+管理者は、サービスで利用できるスコープ付き展開機能を使用して、ライセンスを持つユーザーに MCAS 展開の範囲を設定できます。 詳細については、「 [スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -166,7 +166,7 @@ SecOps アナリストおよびセキュリティ担当者は、Microsoft Defend
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft Defender ATP 管理者は、[役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
+Microsoft Defender ATP 管理者は、 [役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
 
 ## <a name="information-protection"></a>情報保護
 
@@ -320,11 +320,11 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 コンプ�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft では、組織内のユーザーに対するカスタマーロックボックスのアクセス制御承認要求を提供しています。
+カスタマーロックボックスサービスは、現在、特定のユーザーに制限されることはありません。 利点を得るには、すべてのユーザーにライセンスを付与する必要があります。
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 での特権アクセス管理
 
-[特権アクセス管理 (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)は、Office 365 の特権のある管理タスクに対するきめ細かいアクセス制御を提供します。 PAM を有効にした後は、管理者特権のタスクを完了するために、ユーザーは、高いスコープと時間がバインドされた承認ワークフローを使用してジャストインタイムアクセスを要求する必要があります。
+[特権アクセス管理 (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) は、Office 365 の特権のある管理タスクに対するきめ細かいアクセス制御を提供します。 PAM を有効にした後は、管理者特権のタスクを完了するために、ユーザーは、高いスコープと時間がバインドされた承認ワークフローを使用してジャストインタイムアクセスを要求する必要があります。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -336,7 +336,7 @@ Office 365 E5/A5、Microsoft 365 E5/a5、Microsoft 365 E5/A5 コンプライア�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで PAM 機能が有効になっています。 PAM ポリシーの構成の詳細については、「[特権アクセス管理の概要](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、テナントレベルで PAM 機能が有効になっています。 PAM ポリシーの構成の詳細については、「 [特権アクセス管理の概要](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -376,7 +376,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3、および Office 365 デー
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、Exchange Online の電子メール、SharePoint サイト、および OneDrive アカウントは、これらの DLP 機能の*有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「[データ損失防止の概要](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、Exchange Online の電子メール、SharePoint サイト、および OneDrive アカウントは、これらの DLP 機能の *有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「 [データ損失防止の概要](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -396,7 +396,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Teams チャットおよびチャネルメッセージは、テナント内のすべてのユーザーについて、これらの DLP 機能の*有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「[データ損失防止の概要](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)」を参照してください。
+既定では、Teams チャットおよびチャネルメッセージは、テナント内のすべてのユーザーについて、これらの DLP 機能の *有効な場所 (ワークロード)* です。 DLP ポリシーの使用の詳細については、「 [データ損失防止の概要](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -408,7 +408,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に、例を示します。
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:-------|:------|
@@ -507,7 +507,7 @@ Insider リスク管理ポリシーは、Microsoft 365 コンプライアンス�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft 365 コンプライアンスセンターでポリシーを作成する場合は、[**ユーザーとグループの選択**] ページで、[**ユーザーまたはグループ**の選択] を選択してライセンスユーザーのみを選択するか、すべてのユーザーがライセンスを持っている場合は [**すべてのユーザー] および [メールが有効なグループ**] チェックボックスをオンにします。 詳細については、「 [insider リスク管理の概要](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)」を参照してください。
+Microsoft 365 コンプライアンスセンターでポリシーを作成する場合は、[ **ユーザーとグループの選択** ] ページで、[ **ユーザーまたはグループ** の選択] を選択してライセンスユーザーのみを選択するか、すべてのユーザーがライセンスを持っている場合は [ **すべてのユーザー] および [メールが有効なグループ** ] チェックボックスをオンにします。 詳細については、「 [insider リスク管理の概要](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)」を参照してください。
 
 ## <a name="conditional-access-policies"></a>条件付きアクセス ポリシー
 
@@ -527,7 +527,7 @@ Enterprise Mobility + Security E3/Security E3、Security E3/A3、Microsoft 365 F
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-具体的には、Id 保護と条件付きアクセスの場合、ユーザーはグループに含めるか、条件付きアクセスポリシーに追加する必要があります。 条件付きアクセスポリシーでは、ユーザーとグループの条件は必須です。 ポリシーでは、[**すべてのユーザー** ] または [特定のユーザーとグループ] のどちらかを選択できます。 適切にライセンスされたユーザーとグループのみを選択する必要があります。 詳細については、「 [Azure Active Directory の条件付きアクセスの条件](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)について」を参照してください。
+具体的には、Id 保護と条件付きアクセスの場合、ユーザーはグループに含めるか、条件付きアクセスポリシーに追加する必要があります。 条件付きアクセスポリシーでは、ユーザーとグループの条件は必須です。 ポリシーでは、[ **すべてのユーザー** ] または [特定のユーザーとグループ] のどちらかを選択できます。 適切にライセンスされたユーザーとグループのみを選択する必要があります。 詳細については、「 [Azure Active Directory の条件付きアクセスの条件](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)について」を参照してください。
 
 ## <a name="advanced-audit"></a>高度な監査
 
