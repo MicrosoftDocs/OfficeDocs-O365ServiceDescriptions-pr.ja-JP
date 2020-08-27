@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: eee5117fd3279d9989796c9513e105e6003e8495
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132411"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255894"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -24,7 +24,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
   
 ## <a name="services-and-features"></a>サービスと機能
 
-各 Microsoft 365 Education プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。 次の表は、お客様のニーズに最適のソリューションを選択できるように、Office 365 および Microsoft 365 の各プランで利用可能なサービスを示しています。 サービスと機能を詳細に確認するには、「 [Office 365 エデュケーション](office-365-education.md)サービスの説明」を参照してください。
+各 Microsoft 365 Education プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。 次の表は、お客様のニーズに最適のソリューションを選択できるように、Office 365 および Microsoft 365 の各プランで利用可能なサービスを示しています。 サービスと機能を詳細に確認するには、「 [Office 365 エデュケーション](office-365-education.md) サービスの説明」を参照してください。
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -47,12 +47,12 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |学習ツール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクセシビリティ チェック  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office Lens  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|コード ビルダーを備えた Minecraft Education Edition  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
-|テスト アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
-|学校用 PC のセットアップ アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|コード ビルダーを備えた Minecraft Education Edition  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|テスト アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|学校用 PC のセットアップ アプリ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**音声、ビデオ、会議** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5**<sup>6</sup> <br/> |
-|Skype 会議メディア  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft の予約  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype 会議メディア  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft の予約  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 電話会議  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |Office 365 電話システム  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |**分析** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
@@ -77,11 +77,11 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |高度なデータ ガバナンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |**管理とセキュリティ** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |School Data Sync  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Advanced Security Management  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Intune for Education<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
-|Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
-|Windows Defender ウイルス対策  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
-|Device Guard  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|Office 365 Cloud App Security  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Intune for Education<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Windows Defender ウイルス対策  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Device Guard  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**高度なセキュリティ** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
@@ -91,7 +91,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Exchange<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |
 |SharePoint<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |
 |Skype for Business<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい  <br/> |
-|Windows Server CAL  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |
+|Windows Server CAL  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Endpoint Configuration Manager  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |System Center Endpoint Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
    
@@ -104,7 +104,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 > <sup>6</sup> Microsoft 365 エデュケーション A5 には、電話システム、電話会議、通話プランの機能が含まれています。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/>
 > <sup>7</sup> Microsoft プランに含まれている Azure information protection 機能の詳細については、「 [azure information protection](https://go.microsoft.com/fwlink/?linkid=838357)」を参照してください。 <br/>
 > <sup>8</sup> Intune が含まれます。 <br/>
-> <sup>9</sup>サーバーと cal は、Exchange、SharePoint、および Skype for business に含まれています。 <br/>
+> <sup>9</sup> サーバーと cal は、Exchange、SharePoint、および Skype for business に含まれています。 <br/>
 > <sup>10</sup> ecal または Core CAL (購入される A3 のバージョンによって異なります)。 A5 には、ecal 権限が含まれています。 <br/>
 > <sup>11</sup> Azure active directory の詳細については、「 [active directory とは](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)」を参照してください。 <br/>
 > <sup>12</sup> Office Pro Plus を適用して、保護された電子メールを Outlook デスクトップから送信する必要があります。 <br/> 
