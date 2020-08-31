@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131031"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300511"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -52,9 +52,9 @@ SharePoint にアクセスするには、組織内のユーザーに SharePoint 
 
 Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラインストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive は SharePoint に含まれており、スタンドアロンプランとして購入することもできます。 各プランに付属している OneDrive ストレージの数については、「 [onedrive サービスの説明](../onedrive-for-business-service-description.md)」を参照してください。
 
-## <a name="apps"></a>Apps
+## <a name="apps"></a>アプリ
 
-コンピューター上の SharePoint ファイルを同期するために、ユーザーは Windows または Mac 用の[OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)を使用できます。 同期アプリの機能の可用性の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。 
+コンピューター上の SharePoint ファイルを同期するために、ユーザーは Windows または Mac 用の [OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) を使用できます。 同期アプリの機能の可用性の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。 
 
 モバイルデバイスで SharePoint サイトを操作するには、 [iOS、Android、または Windows 用の sharepoint モバイルアプリをインストール](https://products.office.com/sharepoint/mobile-app)します。 
   
@@ -79,7 +79,7 @@ Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラ�
 
 カスタマイズオプションの概要については、「 [SharePoint のカスタマイズ](/sharepoint/extend-and-develop)」を参照してください。
 
-Microsoft Power Apps と Power オートメーションの可用性の詳細については、「[パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
+Microsoft Power Apps と Power オートメーションの可用性の詳細については、「 [パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
 
 Microsoft Graph の可用性の詳細については、「 [microsoft 365 And Office 365 platform service description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)」を参照してください。
 
@@ -97,7 +97,7 @@ Microsoft Graph の可用性の詳細については、「 [microsoft 365 And Of
 - [移行: SharePoint 移行ツール](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [移行: 移行マネージャー](/sharepointmigration/mm-get-started)
 - [移行: SharePoint 移行評価ツール](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [移行: Mover.io](https://mover.io/)。 現在、北アメリカのお客様のみが利用できます。
+- [移行: Mover.io](https://mover.io/)。 現在、世界中で利用可能です。
 - [複数地域 (データ常駐)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 少なくと500の Microsoft ライセンスが必要なアドオン。 詳細については、Microsoft の担当者にお問い合わせください。
 - [プログラムによるサイトのプロビジョニング](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [ルートサイトの置き換え](/sharepoint/modern-root-site)
@@ -108,7 +108,7 @@ Microsoft Graph の可用性の詳細については、「 [microsoft 365 And Of
 - [サイトガバナンス](/sharepoint/governance-overview) 
 - [用語ストアで管理されたメタデータ](/sharepoint/managed-metadata)
 
-FastTrack 移行サービスの可用性の詳細については、「[対象となるサービスとプラン](/fasttrack/m365-eligible-services-and-plans)」を参照してください。 
+FastTrack 移行サービスの可用性の詳細については、「 [対象となるサービスとプラン](/fasttrack/m365-eligible-services-and-plans)」を参照してください。 
 
 共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description)」を参照してください。
 
@@ -133,16 +133,16 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 
 - [カスタマー ロックボックス](/microsoft-365/compliance/customer-lockbox-requests)
 - [データ損失防止 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
-- [電子情報開示](/microsoft-365/compliance/ediscovery-cases)(コンテンツ検索、保留、エクスポート)
+- [電子情報開示](/microsoft-365/compliance/ediscovery-cases) (コンテンツ検索、保留、エクスポート)
 - [情報障壁](/microsoft-365/compliance/information-barriers)
 - [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保持ラベルおよびポリシー](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [機密ラベル](/microsoft-365/compliance/sensitivity-labels)
-- [統合](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)された監査 (SharePoint ユーザーおよび管理者のアクティビティの監査)
+- [統合](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) された監査 (SharePoint ユーザーおよび管理者のアクティビティの監査)
 
 [Azure Information protection](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)の詳細については、「 [azure Information protection の要件](/azure/information-protection/requirements)」を参照してください。
 
-顧客キーを利用できるかどうかに関する情報は、「[顧客キーを使用したサービス暗号化](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)」を参照してください。 
+顧客キーを利用できるかどうかに関する情報は、「 [顧客キーを使用したサービス暗号化](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)」を参照してください。 
 
 
 
@@ -167,7 +167,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [組織のアセットライブラリ](/sharepoint/organization-assets-library)
 - [組織のニュース](/sharepoint/organization-news-site)
 - [ページの承認](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [ページ](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - レコード管理
 - [ごみ箱](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint モバイルアプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -186,7 +186,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [Web パーツ](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
 - [Microsoft Teams で SharePoint コンテンツを操作](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)します。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
 
-Microsoft Power Apps と Power オートメーションの可用性の詳細については、「[パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
+Microsoft Power Apps と Power オートメーションの可用性の詳細については、「 [パワーアプリとパワー自動化ライセンス](/power-platform/admin/powerapps-flow-licensing-faq)に関する faq」を参照してください。
 
 共有に関連する機能の詳細については、「 [OneDrive サービスの説明](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)」を参照してください。
 
