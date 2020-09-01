@@ -12,21 +12,21 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft 365 と Office 365 には、組織のニーズに最適な、さまざまなプランが用いられます。 Exchange Online のプランを含むプラン間の相違点をお使いのお使いの場合、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 805a05b62fa4bd354378fb2fa4c4d30f271aaf5d
-ms.sourcegitcommit: 5789fb5d6440556b7ad77ba620c6e9be97261e0f
+description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
+ms.openlocfilehash: b011201ed43d27a0efbb14413eb11a2853906133
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826720"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315358"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
-Microsoft 365 と Office 365 には、組織のニーズに最適な、さまざまなプランが用いられます。 Exchange Online のプランを含むプラン間の相違点をお使いのお使いの場合、この記事では各プランに含まれる機能について説明します。
+Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
   
-Microsoft 365 と Office 365 は、すべての規模のビジネスにクラウドによる生産性の強力な機能を提供し、時間の節約と複雑さ、無料のリソースの利用をサポートします。 Microsoft 365 および Office 365 プランは、使い慣れた Microsoft Office デスクトップ スイートと、よく使い慣れた Microsoft Office デスクトップ スイート製品である、Microsoft の次世代のコミュニケーションおよびコラボレーション サービス (Microsoft Exchange Online、Microsoft SharePoint Online、Web 用 Office、Microsoft Skype for Business Online など) を組み合わせで、インターネット経由の生産性を上回るユーザーの生産性を上回るのに役立ちます。
+Microsoft 365 と Office 365 は、クラウドの生産性をさまざまな規模の企業に提供し、時間、コスト、および価値のあるリソースを節約するのに役立ちます。 Microsoft 365 および Office 365 プランでは、microsoft の次世代コミュニケーションおよびコラボレーションサービス (Microsoft Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype for Business Online を含む) のクラウドベースバージョンの microsoft Office デスクトップスイートが、インターネットを介して実質的にユーザーの生産性を向上させることができます。
   
-プラン全体で機能を比較するには、お客様 [の企業をサポートする](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 強力なツールを参照してください。また、機能の詳細なリストについては [、Microsoft 365 および Office 365](../office-365-service-descriptions-technet-library.md)のサービスの説明に含つつサービスの説明を参照してください。
+プランの機能を比較するには、「 [エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 」を参照してください。または、機能の詳細な一覧については、「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
   
 - Office 365 Education プランについては、最初に [教育機関向け Office 365](office-365-education.md) ページをご覧ください。 
     
@@ -38,65 +38,65 @@ Microsoft 365 と Office 365 は、すべての規模のビジネスにクラウ
     
 ## <a name="office-365-plans"></a>Office 365 プラン
 
-Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。 スタンドアロン プラン オプションや、別のプランへの変更などの詳細については [、「Office 365 Office 365 プランのオプション」を参照してください](office-365-plan-options.md)。
+Office 365 では組織のニーズを満たすために最適な、さまざまなプランが利用可能です。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Office 365 プランのオプション](office-365-plan-options.md)」を参照してください。
   
-ボリューム ライセンスの詳細については、ライセンス条項 [とドキュメントを参照してください](https://go.microsoft.com/fwlink/?linkid=848696)。
+ボリュームライセンスの詳細については、「 [ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=848696)」を参照してください。
   
-## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365 と Office 365 プランと非営利団体向けの価格
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365 および Office 365 プランと、非営利団体向けの価格
 
-Microsoft 365 プランおよび Office非営利団体向けプランの要件を満たす組織の場合、これらのプランには、対応するビジネス プランとまったく同じ機能が含まれています (たとえば、非営利団体向け Office 365 E5 には、Office 365 E5 と同じ機能が含まれています)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および非営利団体向けの Office 365 プランの詳細については、「非営利団体向け [Microsoft 365 と Office 365](https://go.microsoft.com/fwlink/?LinkID=627221)のプランを比較し、 [非営利団体向け生産性ソリューションを比較してください](https://go.microsoft.com/fwlink/?LinkID=786641)。
+Microsoft 365 および Office 365 プランが適用されていない組織では、これらのプランには、対応するビジネスプランとまったく同じ機能が含まれています (たとえば、非営利の Office 365 E5 には Office の 365 E5 と同じ機能があります)。 対応するプランと違うのは、価格のみです。 Microsoft 365 および Office 365 プランの非営利に関する詳細については、「 [microsoft 365 と office の365による非](https://go.microsoft.com/fwlink/?LinkID=627221)営利のプランの比較」および「 [非営利の生産性のソリューション](https://go.microsoft.com/fwlink/?LinkID=786641)」を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
-企業組織、教育組織、および行政機関で使用可能な月単位のサブスクリプションベースのサービス、Microsoft 365 および Office 365 のシステム要件については、「Microsoft 365 と Office リソースの [システム要件」を参照してください](https://products.office.com/office-system-requirements/#Office365forBEG)。
+Microsoft 365 と Office 365 のシステム要件については、ビジネス、教育、および行政機関で使用可能な月単位のサブスクリプションベースのサービスについては、「 [microsoft 365 および office リソースのシステム要件](https://products.office.com/office-system-requirements/#Office365forBEG)」を参照してください。
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
-サービス レベル契約については、[サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=843153)をご覧ください。 Office 365 の最近のOfficeについては、「 [サービスの正常性と管理の状態」を参照してください](https://go.microsoft.com/fwlink/?linkid=848695)。
+サービス レベル契約については、[サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=843153)をご覧ください。 Office 365 の最近の稼働時間の詳細については、「 [サービスの正常性と継続性](https://go.microsoft.com/fwlink/?linkid=848695)」を参照してください。
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
-セキュリティ コンプライアンス センターの詳細 &amp; および追加情報と可用性へのリンクについては、「セキュリティ コンプライアンス センター [」 &amp; を参照してください](office-365-securitycompliance-center.md)。
+セキュリティ &amp; コンプライアンスセンターおよび追加情報と可用性へのリンクについては、「 [セキュリティ &amp; コンプライアンスセンター](office-365-securitycompliance-center.md)」を参照してください。
   
 ## <a name="data-storage-location"></a>データの保存場所
 
-データの保存場所については、「顧客データの [保存場所」を参照してください](https://docs.microsoft.com/office365/enterprise/o365-data-locations)。 
+データの保存場所については、「 [顧客データの保存場所](https://docs.microsoft.com/office365/enterprise/o365-data-locations)」を参照してください。 
   
 ## <a name="multi-geo-capabilities"></a>複数地域機能 
 
-複数地域機能により、単一の組織は複数の Office 365 データセンター地域にまたがることができます。また、Exchange Online および OneDrive for Business のデータを、選択した地域に保存する機能をユーザーごとに保存できます。 
+複数地域を使用すると、1つの組織が複数の Office 365 データセンター環境にまたがることができ、選択した地域で、Exchange Online と OneDrive for business のデータをユーザーごとに保存することができます。 
   
-使用可能な地域: アジア/パークモーリア、オーストラリア、カナダ、Euopean Union、インド、日本、韓国、英国、米国 
+利用可能な Geo: アジア太平洋、オーストラリア、カナダ、欧州連合、インド、日本、韓国、英国、アメリカ合衆国。 
   
-詳細については [、「Office 365 での複数地域機能の紹介」を参照してください](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
+詳細については、「 [Office 365 での複数地域の導入](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)」を参照してください。
   
 ## <a name="feature-availability-across-plans"></a>プランで利用できる機能
 
-次の表に、すべてのプラットフォーム機能の一覧を示します。
+次の表に、すべてのプラットフォーム機能を示します。
   
 さまざまな種類のビジネス向けプランの価格と機能の詳細については、次のページを参照してください。
   
-- ビジネス: [Microsoft 365 の一覧のプランと価格](https://go.microsoft.com/fwlink/?LinkID=827896)
+- ビジネス: [Microsoft 365 for business のプランと料金](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - 教育機関: [Office 365 Education のプランと料金](https://go.microsoft.com/fwlink/?LinkID=827897)
     
 - 米国政府機関: [政府機関向け Office 365 のプラン](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 非営利団体: [Microsoft 365 と Office 365 プランを非営利団体向けのプランと比較する](https://go.microsoft.com/fwlink/?LinkID=733237)
+- 非営利団体: [Microsoft 365 と Office 365 のサービスを比較しないようにし](https://go.microsoft.com/fwlink/?LinkID=733237)ます。
 
 - Office 365 Germany:[Office 365 Germany のプラン](https://go.microsoft.com/fwlink/?linkid=839016)
     
-いくつかの Microsoft 365 のビジネス プランには、サブスクリプションとして購入可能なアドオンが用いいます。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「一部のバージョンの Microsoft 365 で利用可能なアドオン」(Buy または Edit [an add-on) をご覧ください](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。
+一部の Microsoft 365 for business プランには、サブスクリプションのために購入できるアドオンが用意されています。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「 [アドオンを購入または編集する](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」の「さまざまなバージョンの Microsoft 365 で利用できるアドオン」を参照してください。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**機能** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[Microsoft 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
-|Microsoft 365 Office センターまたは管理ツールを使用して、Office 365 を管理Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
-|**[Microsoft 365 スイート機能](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Microsoft 365 suite の機能](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Microsoft Briefing email<sup>21</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft ブリーフィングメール<sup>21</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Power Automate  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>13</sup> <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -105,7 +105,7 @@ Microsoft 365 プランおよび Office非営利団体向けプランの要件�
 |Microsoft PowerApps  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>12</sup> <br/> | 
 |Web 用 Microsoft Project <sup>22</sup> <br/> |はい <br/> |いいえ <br/>|はい <br/> |はい <br/> |はい <br/> |はい <br/> | はい <br/> |
 |Microsoft StaffHub  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Stream  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |は<sup>い、17</sup> <br/> |
+|Microsoft Stream  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
 |Office Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -113,18 +113,19 @@ Microsoft 365 プランおよび Office非営利団体向けプランの要件�
 |Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |
 |OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>14</sup> <br/> |いいえ  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
+|Microsoft Search|いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br/> |
 |**[ユーザー アカウント管理](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |クラウド ID、フェデレーション ID、多要素認証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 デスクトップ セットアップ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |.csv ファイルを使用した一括アップロード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ディレクトリ同期ツール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange のシンプルな (一括) 移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 から、または Microsoft 365 から、またはアカウント 3 を使用して、アカウントの削除とユーザーWindows PowerShell<sup>リセット</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 または Windows PowerShell<sup>3</sup>を使用して、アカウントの削除とユーザーパスワードのリセットを行う <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ユーザーが自分のパスワードを変更できる<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ライセンスの管理  <br/> |はい<sup>。6</sup> <br/> |はい<sup>。6</sup> <br/> |はい<sup>。6</sup> <br/> |はい<sup>。6</sup> <br/> |はい<sup>。6</sup> <br/> |はい<sup>。6</sup> <br/> |はい<sup>。6</sup> <br/> |
-|Microsoft 365 からセキュリティ グループを管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|ライセンスの管理  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
+|Microsoft 365 からセキュリティグループを管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |複数の管理者役割を使用できる  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|パートナーに Microsoft 365 の管理を許可する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|パートナーが Microsoft 365 を管理できるようにする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Active Directory サービス<sup>20</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[ドメイン](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |fourthcoffee.com などのカスタム第 2 レベル ドメインの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -141,7 +142,7 @@ Microsoft 365 プランおよび Office非営利団体向けプランの要件�
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センター ダッシュボードで利用可能な個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート](reports.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |アクティブおよび非アクティブ メールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |新規メールボックスおよび削除済みメールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -166,8 +167,8 @@ Microsoft 365 プランおよび Office非営利団体向けプランの要件�
 |ダウンロード可能なメールの保護レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 レポート Web サービスを使用して、独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新情報](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|Microsoft 365 reporting web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -185,8 +186,8 @@ Microsoft 365 プランおよび Office非営利団体向けプランの要件�
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |顧客キー<sup>15</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Advanced eDiscovery<sup>16</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Microsoft セキュア スコア<sup>7</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|上級電子情報開示<sup>16</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft セキュリティスコア<sup>7</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -205,24 +206,24 @@ Microsoft 365 プランおよび Office非営利団体向けプランの要件�
 |**[サービス レベル契約](service-level-agreement.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[製品使用権](product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> | 
 
-> <sup>1</sup> つの Microsoft 365 と Office 365 は、製造元によってサポートされていないオペレーティング システムをサポートしていません。 
-<br/><sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Some Azure Information Protection features require a subscription to Microsoft 365 Apps for enterprise, which is not included with Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F3. ビジネス Office Microsoft 365 Apps for business に付付付付のクライアント アプリは、Azure Information Protection (プラン 1) のすべての機能もサポートしています。
-<br/><sup>3</sup> ローカル Active Directory でディレクトリ同期を使用する場合、アカウントを削除するか、パスワードを変更する必要があります。その場合、Windows PowerShell 用の Microsoft 365 ポータルではなく、ローカル Active Directory を使用します。 
-<br/><sup>4 ユーザー</sup> のセルフサービス パスワード管理ポリシーを設定する方法については、「セキュリティ情報を使用して職場 [または学校のパスワードをリセットする」を参照してください](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 
-<br/><sup>6</sup> 回の国数の割引で購入したシートを 6 つ減らすと、後期使用料を期す場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>7</sup> Microsoft セキュ [ア スコアのセキュリティ ページ](https://securescore.office.com) から入手できます。 管理者のアクセス許可が必要です。 詳しくは、Microsoft セキ [ュア スコアを参照してください](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
-<br/><sup>8</sup> Microsoft Sway は特定の地域のお客様は現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 
-<br/><sup>9</sup> 0 にしたエクスペリエンス。 組織が、以前の Web アプリやサービスへのアクセスに Internet Explorer 8 または Internet Explorer 9 に依存している場合は、Internet Explorer 11 へのアップグレードと Internet Explorer 11 のエンタープライズ モードの評価を検討します。 この更新プログラムを使用すると、レガシ Web アプリの下位互換性が向上します。 
-<br/><sup>10</sup> Microsoft Teams は、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise (E1、E3、E5、F3)、および Office 365 Education プランで利用できます。 
-<br/><sup>11</sup> Office 365 Enterprise F3 では、Office 365 ビデオの表示のみ (発行または共有はなし) に制限されます。 
-<br/><sup>12</sup> in Office 365 Enterprise F3, PowerApps is limited to consumption only (no publishing or sharing). 
-<br/><sup>13</sup> Office 365 Enterprise F3 では、Flow は使用のみを制限し、実行される操作は 1 か月につき 1 ユーザーあたり 750 に制限されます。 
-<br/><sup>14- 14</sup> 月 365 Office education のプランで、365 E5 Education をOffice含む 14 月のプランで利用可能です。 Office 365 Enterprise E5 では使用できません。 
-<br/><sup>15 詳細については</sup> 、「カスタマー キー [によるサービスの暗号化」を参照してください](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
-<br/><sup>16</sup> アドバンスト eDiscovery は、米国と西部 (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 Europe、中間イバースト、アフリカの顧客データは西西暦 [オランダ] にエクスポートされます)
-<br/><sup>17:</sup> Microsoft Stream の場合にのみ 17: 公開も共有もしません。
-<br/><sup>18</sup> 2019 年 5 月から、Office 365 および Microsoft 365 の既存の対象となる既存の SKUs は Kaizala Pro でバックフィルされます。 2019 年 6 月 1 日以降、Kaizala Pro はすべての対象となる Office 365 と Microsoft 365 の KPI に含まれます。
-<br/><sup>19</sup> 詳細については [、「MyAnalytics のプランと環境」を参照してください](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>20</sup>には、Azure Active Directory の価格ページ**の 365 Office列**[に記述されている Azure Active Directory 機能が含](https://azure.microsoft.com/pricing/details/active-directory/)まれています。 Azure Active Directory プラン 1 またはプラン 2、Enterprise Mobile Security、または Microsoft 365 E3 または E5 を追加して、Premium Azure AD を利用する必要があります。<br/>
-<sup>21。</sup> ブリーフ電子メールが Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「詳細な [電子メールの構成」を参照してください](https://docs.microsoft.com/Briefing/be-admin)。<br>
-<sup>22 機能</sup> の詳細については [、Microsoft Project サービスの説明を参照してください](../project-online-service-description/project-online-service-description.md)。 ユーザーには、Web 用 Project への制限された権限のアクセス権が付与されます。 これらの権限は、Web 用 Project でのみ使用が制限されます。また、プロジェクト プラン 1、Project Plan 3、または Project Plan 5 のライセンスを持っているテナントのみが必要です。 これらの権限は、Power Platform アプリケーションやその他のデータ セット、Project Online デスクトップ クライアント、または Project Online へのアクセスを許可するものを持つものでした。
+> <sup>1</sup> Microsoft 365 および Office 365 は、製造元によってサポートされていないオペレーティングシステムのサポートを提供しません。 
+<br/><sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、microsoft 365 App for enterprise のサブスクリプションが必要です。これは、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise E1、Office 365 エデュケーション、または Office 365 Enterprise F3 に含まれていません。 Microsoft 365 Apps for business に付属している Office クライアントアプリは、完全な Azure Information Protection (プラン 1) 機能もサポートしています。
+<br/><sup>3</sup> ローカル active directory とのディレクトリ同期を使用する場合は、Windows PowerShell 用 Azure Active directory モジュールを使用して Microsoft 365 ポータルではなく、ローカルの active directory を使用してアカウントを削除するか、パスワードを変更する必要があります。 
+<br/><sup>4</sup> ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [セキュリティ情報を使用して職場または学校のパスワードをリセット](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 
+<br/><sup>6</sup> 期間割引を使用して購入された座席の減少は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
+<br/><sup>7</sup> [Microsoft セキュリティスコア](https://securescore.office.com) セキュリティページから入手できます。 管理者のアクセス許可が必要です。 詳細については、「 [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。 
+<br/><sup>8</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 
+<br/><sup>9</sup> つの効果が低下します。 組織が Internet Explorer 8 または Internet Explorer 9 に依存している場合は、古い web アプリやサービスにアクセスするために、internet explorer 11 にアップグレードして、Internet Explorer 11 のエンタープライズモードを評価することを検討してください。 この更新プログラムを使用すると、従来の web アプリの下位互換性が向上します。 
+<br/><sup>10</sup> microsoft Teams は、Microsoft 365 business Basic、Microsoft 365 Business Standard、Office 365 Enterprise (E1、E3、E5、F3)、および Office 365 エデュケーションプランでご利用いただけます。 
+<br/><sup>11</sup> Office 365 Enterprise F3 では、office 365 のビデオは表示のみに制限されています (公開または共有はできません)。 
+<br/><sup>12</sup> Office 365 Enterprise F3、PowerApps は消費のみに制限されています (公開または共有はできません)。 
+<br/><sup>13</sup> Office 365 Enterprise F3 では、フローは消費のみに制限されており、実行の制限はユーザーごとに1月あたり750に制限されています。 
+<br/><sup>14</sup> office 365 の教育機関向けプラン (Office 365 E5 教育を含む) でのみ使用できます。 Office 365 Enterprise E5 では使用できません。 
+<br/><sup>15</sup> 詳細については、「 [顧客キーによるサービスの暗号化](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
+<br/><sup>16</sup> 高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)
+<br/><sup>17</sup> Microsoft Stream でのみ利用できます: 公開または共有していません。
+<br/><sup>18</sup> 2019 年5月以降の Office 365 および Microsoft 365 の既存の対象となる sku は、Kaizala Pro でバックフィルされます。 2019年6月1日から、Kaizala Pro は対象となるすべての Office 365 および Microsoft 365 Sku に含まれます。
+<br/><sup>19</sup> 詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。
+<br/><sup>20</sup> [ [azure active directory の価格設定](https://azure.microsoft.com/pricing/details/active-directory/)] ページの [ **Office 365 Apps** ] 列に記載されている azure active directory 機能が含まれています。 Premium Azure AD 機能を取得するには、Azure Active Directory プラン1またはプラン2、エンタープライズモバイルセキュリティ、または Microsoft 365 E3 または E5 を追加する必要があります。<br/>
+<sup>21</sup> ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「 [Configure ブリーフィング電子メール](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
+<sup>22</sup> 機能の詳細については、 [Microsoft Project サービスの説明](../project-online-service-description/project-online-service-description.md)を参照してください。 ユーザーには、web のプロジェクトへの限定的な権限アクセス権が付与されます。 これらの権限は、web アプリケーションのプロジェクトに対してのみ使用できます。また、プロジェクト計画1、プロジェクト計画3、またはプロジェクト計画5のライセンスを持つテナントに対してのみ使用が制限されています。 これらの権限は、電源プラットフォームアプリケーションまたはその他のデータセット、Project Online デスクトップクライアント、または Project Online へのアクセスを許可しません。
