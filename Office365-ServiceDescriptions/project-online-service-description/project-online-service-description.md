@@ -192,8 +192,8 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 <sup>1</sup> Office または Microsoft 365 の商用サブスクリプションが必要です。</br>
 <sup>2</sup> Azure Boards は別途取得されます。</br>
 <sup>3</sup> Project for the web および Project Online のレポートは、Power BI を使用して利用できます。 レポートの表示、編集、作成には、Power BI サブスクリプションが必要です。 Microsoft は、事前に構築された一連の Power BI レポートを提供しています。 ユーザーは、Power BI を使用して、これらのレポートをカスタマイズしたり、追加のレポートを作成したりできます。</br> 
-<sup>4</sup> Web データの Project にアクセスするカスタム PowerApps モバイル アプリケーションを構築して使用するには、PowerApps サブスクリプションと Project Plan 3 または Project Plan 5 サブスクリプションが必要です。</br>
-<sup>5</sup> Web データのビジネス プロセスを Power Automate と Project で自動化して統合するには、Power Automate サブスクリプションと Project Plan 3 または Project Plan 5 サブスクリプションが必要です。</br>
+<sup>4</sup>Project for the web データにアクセスするカスタム PowerApps モバイル アプリケーションを構築して使用するには、PowerApps サブスクリプションと Project Plan 3 または Project Plan 5 サブスクリプションが必要です。</br>
+<sup>5</sup> Power Automate で Project for the web データを使用してビジネス プロセスを自動化および統合するには、Power Automate サブスクリプションと Project Plan 3 または Project Plan 5 サブスクリプションが必要です。</br>
 <sup>6</sup> Project Online の外部ユーザー用のライセンスは、内部ユーザー用と同じポリシーに準じます。 Project Online サイトでのやり取りには、Project Plan 3 または Project Plan 5 のサブスクリプションが必要です。</br>
 <sup>7</sup> Project Plan 3 または Project Plan 5 のサブスクリプションを持つユーザーは、リソース管理の要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
 <sup>8</sup> Project Plan 5 のサブスクリプションを持つユーザーは、リソース管理の要求を確認、実行、および承認できます。</br>
@@ -272,7 +272,7 @@ Project for the web では、データを保存するために Common Data Servi
 
 Project for the web と Project Online には、Office 365 と同じデータ バックアップと保持ポリシーがあります。 詳細については、「[Office 365 でのデータの保持、削除、および破棄](https://docs.microsoft.com/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)」を参照してください。
 
-### <a name="project-for-the-web-boundaries-and-limitations"></a>Web の境界と制限のための Project
+### <a name="project-for-the-web-boundaries-and-limitations"></a>Project for the web の境界と制限
 
 Project for the web には、次の表で説明するいくつかの制限があります。
 
