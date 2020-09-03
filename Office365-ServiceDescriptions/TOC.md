@@ -4,7 +4,7 @@
 ### [Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 のシステム要件](office-365-platform-service-description/office-365-system-requirements.md)
 ### [セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md)
-### [Office 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md)
+### [Microsoft 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High および DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)

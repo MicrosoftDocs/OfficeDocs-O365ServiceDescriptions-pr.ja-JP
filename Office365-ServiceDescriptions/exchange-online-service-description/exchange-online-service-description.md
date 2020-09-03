@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能の比較については、こちらを参照してください。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315378"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337863"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -198,9 +198,9 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 <sup>21</sup> 表は、クライアントが関連付けられたプランを使用して動作するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 <br/>
 <sup>22</sup> 詳細については、「 [顧客キーによるサービスの暗号化](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
 <sup>23</sup> お客様の操作による直接接続を介したサードパーティ製 PBX システム向けの EXCHANGE Online UM サポートは、2019年4月に終了します。 詳細については、「exchange [Online ユニファイドメッセージングでのセッションボーダーコントローラーのサポート中止](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) 」を参照してください。 <br/>
-<sup>24</sup> F3 ユーザーが自分のメールボックスに代理人を追加することはできませんが、別のメールボックス (共有メールボックスを含む) にアクセスして、それらに委任された操作を実行することはできます。
+<sup>24</sup> F3 ユーザーが自分のメールボックスに代理人を追加することはできませんが、別のメールボックス (共有メールボックスを含む) にアクセスして、それらに委任された操作を実行することはできます。<br/>
 <sup>25</sup> exchange server 2013 および exchange server 2016 では、Microsoft 365 Apps for enterprise のサブスクリプションも必要です。
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online スタンドアロンの各プランで利用できる機能
 
 |**機能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
@@ -282,6 +282,7 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 |SMTP|はい|はい|はい|はい|はい|
 |EWS アプリケーションのサポート|はい|はい|はい|はい|いいえ|
 |Outlook for Mac|はい|はい|はい|はい|いいえ|
+|Outlook for iOS and Android<sup>21</sup>|はい (<sup>25</sup> )|はい (<sup>25</sup> )|はい|はい|はい|
 |**[音声メッセージ サービス](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |ボイス メール|はい|はい|いいえ|はい|いいえ|
 |サードパーティボイスメールの相互運用性|はい|はい|はい|はい|はい|
@@ -330,4 +331,5 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 <sup>21</sup> いくつかのサードパーティの web パーツやアドインは使用できない場合があります。 <br/>
 <sup>22</sup> 電子情報開示については、オンプレミスとクラウドについて別のクエリが必要になります。 <br/>
 <sup>23</sup> Exchange Online Kiosk は、オンプレミスサーバーの使用に対するアクセス権を提供しません。 準拠するには、お客様は該当する CAL を購入するか、既に購入しているか、この種のアクセス権を提供する Enterprise SKU にアップグレードする必要があります。 <br/>
-<sup>24</sup> 個の Microsoft 365 グループが、制限された機能で利用可能です。
+<sup>24</sup> 個の Microsoft 365 グループが、制限された機能で利用可能です。<br/>
+<sup>25</sup> exchange server 2013 および exchange server 2016 では、Microsoft 365 Apps for enterprise のサブスクリプションも必要です。
