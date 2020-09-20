@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318944"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134044"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -117,7 +117,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 - Web 用 Office （Web 用 Word、Web 用 Excel、Web 用 PowerPoint、Web 用 OneNote）
 
-- Windows では Word、Excel、PowerPoint、Visio、iOS および Androi dデバイスでは Office アプリ
+- Windows 上の Word、Excel、および PowerPoint
 
 - Microsoft Teams チャンネルおよびチャット
 

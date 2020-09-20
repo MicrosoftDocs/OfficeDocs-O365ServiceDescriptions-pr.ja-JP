@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: 20982db7e0b858d6220e79871e9a2933957dfa7f
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: 4cd10893dd4e04970cd16bdbee829fdc0448cdae
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337853"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134004"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
@@ -108,7 +108,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |Microsoft Stream  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
-|Office Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft 365 グループ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |
 |OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>13</sup> <br/> |はい  <br/> |
@@ -168,7 +168,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービスの更新情報](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[サービス更新](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -225,4 +225,4 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 <br/><sup>18</sup> 詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。
 <br/><sup>19</sup>には、「 [azure active directory の価格設定](https://azure.microsoft.com/pricing/details/active-directory/)」ページの「 **Office 365 Apps** 」列に記載されている azure active directory 機能が含まれています。 Premium Azure AD 機能を取得するには、Azure Active Directory プラン1またはプラン2、エンタープライズモバイルセキュリティ、または Microsoft 365 E3 または E5 を追加する必要があります。<br/>
 <sup>20</sup> ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「 [Configure ブリーフィング電子メール](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
-<sup>21</sup> 機能の詳細については、 [Microsoft Project サービスの説明](../project-online-service-description/project-online-service-description.md)を参照してください。 ユーザーには、web のプロジェクトへの限定的な権限アクセス権が付与されます。 これらの権限は、web アプリケーションのプロジェクトに対してのみ使用できます。また、プロジェクト計画1、プロジェクト計画3、またはプロジェクト計画5のライセンスを持つテナントに対してのみ使用が制限されています。 これらの権限は、電源プラットフォームアプリケーションまたはその他のデータセット、Project Online デスクトップクライアント、または Project Online へのアクセスを許可しません。
+<sup>21</sup> ユーザーには、Web のプロジェクトへの表示のみのアクセス権が与えられます。 これらの権限は、web アプリケーションのプロジェクトに対してのみ使用できます。また、プロジェクト計画1、プロジェクト計画3、またはプロジェクト計画5のライセンスを持つテナントに対してのみ使用が制限されています。 これらの権限は、電源プラットフォームアプリケーションまたはその他のデータセット、Project Online デスクトップクライアント、または Project Online へのアクセスを許可しません。 機能の詳細については、 [Microsoft Project サービスの説明](../project-online-service-description/project-online-service-description.md)を参照してください。

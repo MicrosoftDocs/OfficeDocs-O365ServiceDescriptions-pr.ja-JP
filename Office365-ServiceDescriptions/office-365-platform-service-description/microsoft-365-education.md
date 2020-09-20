@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: eee5117fd3279d9989796c9513e105e6003e8495
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+ms.openlocfilehash: ab28bb301e105118ce058102f6cdda42d645f367
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255894"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134014"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -30,7 +30,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**サービス** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Webアプリ上の Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 Apps for enterprise  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |はい<sup>1</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |はい<sup>3</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
@@ -80,10 +80,10 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Office 365 Cloud App Security  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Intune for Education<sup>8</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Analytics  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Windows Defender ウイルス対策  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft Defender ウイルス対策  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Device Guard  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |**高度なセキュリティ** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
+|Office 365 Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
 |Cloud App Security  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Microsoft Defender Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>13</sup>  <br/> |

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649597"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962096"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -49,7 +49,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>リストまたはライブラリ内のアイテムに対する固有の権限
 
-サポートされる制限は5万一意権限アイテムですが、推奨される一般的な制限は5000です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
+許可される制限は5万一意に権限アイテムですが、推奨される一般的な制限は5000です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
 
 もう1つの制限は、一意の権限 item ごとに5000の役割の割り当てです。 
 
@@ -67,7 +67,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="sync"></a>同期
 
-**新しい OneDrive 同期アプリ**-最適なパフォーマンスを実現するために、ファイルを必要に応じて使用している場合、または同期するライブラリ内の一部のフォルダーのみを選択している場合でも、すべての同期されたドキュメントライブラリで、ユーザーごとに30万個を超えるファイルを保存しないことをお勧めします。
+**新しい OneDrive 同期アプリ** -最適なパフォーマンスを実現するために、ファイルを必要に応じて使用している場合、または同期するライブラリ内の一部のフォルダーのみを選択している場合でも、すべての同期されたドキュメントライブラリで、ユーザーごとに30万個を超えるファイルを保存しないことをお勧めします。
 
 **以前の OneDrive for Business 同期アプリ (Groove.exe)** - 同期されているすべてのライブラリ全体で、最大 20,000 アイテムを同期できます。 これには、OneDrive ライブラリ、チーム サイト ライブラリ、またはその両方が含まれます。 全体での同期制限とは別に、ライブラリの種類ごとに同期できるアイテムの数に制限があります。
 

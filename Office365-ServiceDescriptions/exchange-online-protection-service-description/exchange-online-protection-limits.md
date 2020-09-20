@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133011"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134054"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
@@ -26,6 +26,8 @@ ms.locfileid: "45133011"
 > Exchange Online の制限の詳細については、「 [Exchange online の制限](../exchange-online-service-description/exchange-online-limits.md)」を参照してください。 トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。 Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
   
 - **ドメイン制限** テナントあたり最大 900 のドメインを追加できます。この 900 の制限には、サブドメイン、または必要に応じて、キャッチオール オプションの一部として一致サブドメインを含めることができます。詳しくは、「 [EOP で承認済みドメインを管理する](https://go.microsoft.com/fwlink/p/?LinkId=282239)」を参照してください。
+
+- **リモートドメインの制限** テナントごとに最大200のリモートドメインを追加できます。
     
 - **メッセージ サイズの制限** EOP スタンドアロンのお客様の最大メッセージ サイズは、添付ファイルを含めて 150 MB です。 
     
@@ -35,13 +37,13 @@ ms.locfileid: "45133011"
     
 - **IP 許可一覧または IP 禁止一覧の制限** 接続フィルターの IP 許可一覧または IP 禁止一覧を構成するとき、最大で 1,273 個のエントリを指定できます (エントリは、単一の IP アドレス、または /24 ～ /32 までの CIDR レンジの IP アドレスです)。 
     
-- **メッセージ遅延の制限**延期されたメッセージは、24時間キューに残ります。 メッセージの再送信は、受信者のメールシステムから返されたエラーの種類に基づいて行われます。 15 分ごとにメッセージの送信が再試行されます。 
+- **メッセージ遅延の制限** 延期されたメッセージは、24時間キューに残ります。 メッセージの再送信は、受信者のメールシステムから返されたエラーの種類に基づいて行われます。 15 分ごとにメッセージの送信が再試行されます。 
     
-- **スパム検疫の保存期間**既定では、検疫に送信されたスパムメッセージは30日間保持されます。 管理者は、コンテンツ フィルター ポリシーによってこの値を下げることができます。 
+- **スパム検疫の保存期間** 既定では、検疫に送信されたスパムメッセージは30日間保持されます。 管理者は、コンテンツ フィルター ポリシーによってこの値を下げることができます。 
     
 - **エンドユーザー スパム検疫通知** 既定では、有効にされている場合、エンドユーザーのスパム検疫通知が 3 日ごとに送信されます。それらは 1 ～ 15 日ごとに送信されるように構成できます。 
     
-- **レポート作成とメッセージ追跡の制限**レポート作成とメッセージ追跡の制限については、「Reporting and message trace [In Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
+- **レポート作成とメッセージ追跡の制限** レポート作成とメッセージ追跡の制限については、「Reporting and message trace [In Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248)」の「レポート作成およびメッセージ追跡データの可用性と遅延」セクションを参照してください。
     
 ### <a name="limits-across-eop-options"></a>各 EOP オプションでの制限
 
