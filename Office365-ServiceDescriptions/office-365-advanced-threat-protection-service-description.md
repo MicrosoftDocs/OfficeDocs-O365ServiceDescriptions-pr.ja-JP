@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134044"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170542"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -94,6 +94,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |脅威調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[インシデント対応の自動化](#automated-incident-response)|いいえ|はい|はい|
 |[攻撃シミュレータ](#attack-simulator)|いいえ|はい|はい|
+|*Microsoft の脅威保護との統合*|いいえ|いいえ|はい|
 
 > [!TIP]
 > Office 365 ATP Plan 1 と Plan 2 の間で、ダウンロード可能な違いの一覧が必要ですか。 [PDF を取得](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)します。 
@@ -132,7 +133,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 [ATP Safe Documents](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)機能は、 [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を使用して、[保護ビュー](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)で開かれたドキュメントやファイルをスキャンします。
 
-はじめに把握しておくべき情報
+始める前に把握しておくべき情報
 
 - Office バージョン 2004 (12730) を使用しているユーザーが、安全なドキュメントを使用できるようになりました。 この機能は既定でオフになっており、セキュリティ管理者が有効にする必要があります。
 

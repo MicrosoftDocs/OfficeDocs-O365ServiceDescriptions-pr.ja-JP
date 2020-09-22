@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: Dynamics 365 では、顧客関係管理 (CRM) とエンタープライズリソース計画 (ERP) の機能を一連のアプリケーションを使用して統合することにより、ビジネス機能を管理し、優れた結果を提供しています。
-ms.openlocfilehash: 032d2a1d11390b1c6a3b6f8c439ad6ac956ec1e4
-ms.sourcegitcommit: 4b17f7f6c04dee202bb8b391badb6fdcba5b8dde
+ms.openlocfilehash: 8197a043ab4040f57eea858dad64d9afafe38b29
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46505775"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175174"
 ---
 # <a name="microsoft-dynamics-365-service-description"></a>Microsoft Dynamics 365 サービス説明
 
@@ -26,29 +26,28 @@ Dynamics 365 アプリの詳細については、「 [Microsoft dynamics 365](ht
   
 ## <a name="dynamics-365-plans"></a>Dynamics 365 プラン
 
-Dynamics 365 には、使用状況のパターンと大規模な小規模な組織のニーズを満たすために特別に設計されたプランがいくつかあります。 Dynamics 365 アプリは個別に使用することもできます。
+Dynamics 365 には、使用状況のパターンと大規模な小規模な組織のニーズを満たすように設計されたいくつかのプランがあります。 Dynamics 365 アプリは個別に使用することもできます。
 
-Dynamics 365 プランと価格の詳細については、「 [dynamics 365 プライス](https://dynamics.microsoft.com/pricing)および[dynamics 365 ライセンスガイド (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544)」を参照してください。
+Dynamics 365 プランと価格の詳細については、「 [dynamics 365 プライス](https://dynamics.microsoft.com/pricing) および [dynamics 365 ライセンスガイド (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544)」を参照してください。
   
 ## <a name="dynamics-365-service-level-agreement"></a>Dynamics 365 サービス レベル アグリーメント
 
-Microsoft ボリュームライセンスプログラムによってライセンス認証された製品とサービスの使用に関連するライセンス条項、条件、および補足情報については、「 [Microsoft Online services のサービスレベル契約 (Word 文書)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583)」を参照してください。 最新情報については、「[ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=272026)」を参照してください。
+Microsoft ボリュームライセンスプログラムによってライセンス認証された製品とサービスの使用に関連するライセンス条項、条件、および補足情報については、「 [Microsoft Online services のサービスレベル契約 (Word 文書)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583)」を参照してください。 最新情報については、「 [ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=272026)」を参照してください。
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Dynamics 365 サービスのダウンタイム ウィンドウ
 
-Dynamics 365 サービスのダウンタイム ウィンドウの定義は次のとおりです。
+Dynamics 365 サービスのダウンタイム ウィンドウの定義は次のとおりです。<br><br>
   
-|||||
+| カテゴリ | 影響/ダウンタイム | 通知 | 運用レベル契約 <sup>1</sup>|
 |:-----|:-----|:-----|:-----|
-|**カテゴリ** <br/> |**影響/ダウンタイム** <br/> |**通知** <br/> |**運用レベル契約**<sup>1</sup> <br/> |
 |毎週  <br/> |影響なし/ダウンタイムなし  <br/> |メッセージ センター  <br/> |48 時間  <br/> |
 |毎月  <br/> |影響なし/ダウンタイムなし  <br/> |メッセージ センター  <br/> |48 時間  <br/> |
 |更新プログラムのロールアップ  <br/> |影響なし/ダウンタイムなし  <br/> |メッセージ センター  <br/> |48 時間  <br/> |
 |メジャー アップグレード  <br/> |顧客によってスケジュールされ、選択した時間枠内で完了  <br/> |メッセージ センター  <br/> |90 日  <br/> |
 
-<sup>1</sup>運用チームがサービスレベル契約で定義された一連のサービスを提供することができる時間。 <br/>
+> <sup>1</sup> 運用チームがサービスレベル契約で定義された一連のサービスを提供することができる時間。 <br/>
 
-サービスダウンタイムウィンドウに関する情報については、 [Microsoft Online Services のサービスレベル契約 (Word 文書)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583)を確認してください。 最新情報については、「[ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=272026)」を参照してください。 
+サービスダウンタイムウィンドウに関する情報については、 [Microsoft Online Services のサービスレベル契約 (Word 文書)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=17583) を確認してください。 最新情報については、「 [ライセンス条項とドキュメント](https://go.microsoft.com/fwlink/?linkid=272026)」を参照してください。 
   
 ## <a name="microsoft-trust-center"></a>Microsoft トラスト センター
 
