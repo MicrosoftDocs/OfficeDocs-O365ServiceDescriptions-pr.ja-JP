@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798383"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214386"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -148,6 +148,32 @@ MCAS の条件付きアクセスアプリコントロール機能を活用する
 
 管理者は、サービスで利用できるスコープ付き展開機能を使用して、ライセンスを持つユーザーに MCAS 展開の範囲を設定できます。 詳細については、「 [スコープ付き展開](https://docs.microsoft.com/cloud-app-security/scoped-deployment)」を参照してください。
 
+## <a name="compliance-manager"></a>コンプライアンス マネージャー
+
+コンプライアンスマネージャーを使用して、コンプライアンスを簡素化し、リスクを軽減します。 コンプライアンスマネージャーは、組織が規制、基準、会社のポリシー、その他の必要な統制フレームワークの要件を満たすのに役立ちます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+コンプライアンスマネージャーサービスのユーザーには、次のような利点があります。
+
+- 複雑な規制、標準、会社のポリシー、その他の必要な制御フレームワークをシンプルな言語に翻訳します。
+- 固有のコンプライアンス要件を満たすための、標準の評価とカスタム評価の豊富なライブラリへのアクセスを提供します。
+- 推奨される改善アクションに規制制御をマップします。
+- 規制要件を満たすソリューションを実装する方法について、ステップごとのガイダンスを提供します。
+- 各アクションにスコアを関連付けることで、組織のコンプライアンスに最も大きな影響を与えるアクションを優先順位付けすることができます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Office 365 E1/A1/E3/A3 および Microsoft 365 E3/A3 ライセンスを持つお客様は、データ保護基準の評価にアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用しているお客様は、データ保護基準、GDPR、NIST 800-53、および ISO 22701 の標準評価にアクセスできます。 プレミアム評価は、Office 365 E5/A5 および Microsoft 365 E5/A5 ユーザーに購入できるようになります。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+コンプライアンスマネージャーは、テナントに対して既定でプロビジョニングされます。 管理者は、ユーザーのアクセス許可を設定して、組織内の管理者以外のユーザーがコンプライアンスマネージャーの使用を開始できるように、役割を割り当てます。 詳細については、「 [ドキュメント](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)」を参照してください。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+コンプライアンスマネージャーへのアクセスは、ユーザーのアクセス許可の設定と役割の割り当てによって制御されます。 詳細については、「[ドキュメント](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)」を参照してください。
+
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。
@@ -227,15 +253,15 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 3
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで情報ガバナンス機能が有効になっています。 ライセンスユーザーに自動ラベル付けとポリシーを適用するための情報ガバナンスを構成する方法については、「 [Manage Information ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)」を参照してください。
+既定では、テナント内のすべてのユーザーについて、テナントレベルで情報ガバナンス機能が有効になっています。 ライセンスユーザーの autolabeling とポリシーを適用するための情報ガバナンスを構成する方法については、「 [Manage Information ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-情報ガバナンス機能は、特定の場所 (チームサイト、グループサイトなど) のライセンスユーザーに適用できます。 ライセンスユーザーに自動ラベル付けとポリシーを適用するための情報ガバナンスを構成する方法については、「 [Manage Information ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)」を参照してください。
+情報ガバナンス機能は、特定の場所 (チームサイト、グループサイトなど) のライセンスユーザーに適用できます。 ライセンスユーザーの autolabeling とポリシーを適用するための情報ガバナンスを構成する方法については、「 [Manage Information ガバナンス](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)」を参照してください。
 
 ## <a name="records-management"></a>レコード管理
 
-レコード管理によって、組織は Microsoft 365 およびサードパーティのデータにわたって、検出、分類、ラベル付け、保存、およびディフェンシブの削除機能を使用して、ビジネスおよび規制の記録保持義務を満たすことができます。
+レコード管理により、組織は Microsoft 365 およびサードパーティのデータにわたって、検出、分類、ラベル付け、保存、およびディフェンシブの削除機能を使用して、ビジネスおよび規制の記録保持義務を満たすことができます。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
@@ -256,6 +282,61 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 3
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 レコード管理機能は、特定の場所 (チームサイト、グループサイトなど) にあるライセンスユーザーに適用できます。 ライセンスを付与されたユーザーに適用するレコード管理の構成の詳細については、「 [Microsoft 365 のレコード管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)」を参照してください。
+
+## <a name="data-connectors"></a>データコネクタ 
+
+Microsoft は、Microsoft 365 コンプライアンスセンターで構成できるサードパーティのデータコネクタを提供しています。 Microsoft によって提供されるデータコネクタの一覧については、 [サードパーティのデータコネクタ](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) の表を参照してください。 また、この表には、Microsoft 365 でデータをインポートおよびアーカイブした後にサードパーティのデータに適用できるコンプライアンスソリューションの概要と、各コネクタのステップごとの手順へのリンクも含まれています。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+データコネクタを使用して、Microsoft 365 でサードパーティのデータをインポートおよびアーカイブする主な利点は、インポート後にさまざまな Microsoft 365 コンプライアンスソリューションを適用できることです。 これにより、組織の Microsoft 以外のデータが、組織に影響する規制および標準に準拠していることを確認できます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+次のライセンスは、ユーザーがデータコネクタから恩恵を受けるための権限を提供します。
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 Info Protection & ガバナンス
+- Microsoft 365 E5/A5 コンプライアンス
+- Microsoft 365 E5/A5 Insider リスク管理 
+- Microsoft 365 E5/A5 電子情報開示と監査 
+- Office 365 E5/A5
+- Office 365 Advanced Compliance
+
+Microsoft のパートナーのいずれかによって提供される M365 セキュリティ & コンプライアンスセンターのデータコネクタについては、組織でパートナーとのビジネス上の関係が必要になります。そのためには、これらのコネクタを展開する必要があります。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+コネクタは、セキュリティ & コンプライアンスセンターおよびコネクタカタログを使用して構成されます。
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+データコネクタサービスは、テナントレベルの値です。 このサービスを利用することを目的としているすべてのユーザーは、ライセンスを持っている必要があります。
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>Teams DLP の Microsoft Graph Api
+
+今年前半に、 [Teams のメッセージに関する Microsoft Graph 変更通知 API のパブリックプレビューを発表しました](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)。 この API を使用すると、開発者は、Microsoft Teams のメッセージをほぼリアルタイムで聴いて、お客様と Isv の両方の DLP シナリオ実装を有効にできるアプリを構築することができます。 さらに、Microsoft Graph Patch API を使用すると、Teams のメッセージに DLP アクションを適用することができます。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+Microsoft Teams では、[データ損失防止 (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide)機能がよく使用されています。これは、組織がリモート作業に移行したためです。 組織に DLP がある場合は、Microsoft Teams チャネルまたはチャットセッションで機密情報を共有できないようにするポリシーを定義できるようになりました。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Teams チャットでのデータ損失防止 (DLP) 保護をサポートするには、次の E5 ライセンスのいずれかが必要です。
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 コンプライアンス
+- Microsoft 365 E5/A5 情報の保護とガバナンス
+- Office 365 E5/A5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+API アクセスは、テナントレベルで構成されます。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+Microsoft Graph API for Teams DLP は、テナントレベルの値です。 このサービスを利用することを目的としているすべてのユーザーは、ライセンスを持っている必要があります。
 
 ## <a name="ediscovery"></a>電子情報開示
 
@@ -533,9 +614,13 @@ Enterprise Mobility + Security E3/Security E3、Security E3/A3、Microsoft 365 F
 
 Microsoft 365 の高度な監査では、ユーザーと管理者のアクティビティについて1年間の監査ログの保持が提供され、他の Microsoft 365 サービスの監査ログの保持を管理するためのカスタム監査ログ保持ポリシーを作成する機能が提供されます。 また、調査のための重要なイベントへのアクセス、および Office 365 Management Activity API への高帯域幅アクセスを提供します。 詳細については、「 [Microsoft 365 の詳細な監査](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)」を参照してください。
 
+アドオン SKU を使用して、10年間の保持期間を有効にすることもできます。 アドオン SKU は、2021の初期段階で必要になります。
+
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
 Office 365 E5 のライセンスユーザー、Microsoft 365 E5、Microsoft 365 E5 コンプライアンス、および Microsoft 365 電子情報開示と監査は、高度な監査からメリットを得られます。
+
+高度な監査と10年の監査ログ保持アドオンを使用したライセンスユーザーは、10年の監査ログの保持を利用できます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -543,8 +628,10 @@ Microsoft 365 サービスのユーザーアクティビティに関連する監
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Office 365 または Microsoft 365 E5 サブスクリプションを持つすべての組織のテナントレベルで Advanced Audit が有効になっており、Azure Active Directory、Exchange、および SharePoint のアクティビティ (適切なライセンスを持つユーザーによって実行される) の監査ログの1年の保持期間が自動的に付与されます。 さらに、組織は監査ログの保持ポリシーを使用して、他の Microsoft 365 サービスのアクティビティによって生成された監査レコードの保持期間を管理できます。 詳細については、「[監査ログ保持ポリシーを管理する](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)」を参照してください。
+既定では、Office 365 または Microsoft 365 E5 サブスクリプションを持つすべての組織のテナントレベルで Advanced Audit が有効になっており、Azure Active Directory、Exchange、および SharePoint のアクティビティ (適切なライセンスを持つユーザーによって実行される) の監査ログの1年の保持期間が自動的に付与されます。 さらに、組織は監査ログの保持ポリシーを使用して、他の Microsoft 365 サービスのアクティビティによって生成された監査レコードの保持期間を管理できます。 同じアイテム保持ポリシーを使用して、10年間の監査ログ保持機能を有効にすることもできます。 詳細については、「[監査ログ保持ポリシーを管理する](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 監査ログの1年間の保持、および重要なイベントの監査は、適切なライセンスを持つユーザーにのみ適用されます。 さらに、管理者は監査ログ保持ポリシーを使用して、特定のユーザーの監査ログの保存期間を短くすることができます。
+
+監査ログの10年間の保持は、適切なアドオンライセンスを持つユーザーにのみ適用されます。 アドオン SKU は、2021の初期段階で必要になります。

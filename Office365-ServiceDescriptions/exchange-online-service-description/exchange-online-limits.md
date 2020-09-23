@@ -13,19 +13,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: ac20cda83afbc261035ebd2307660a6e62c872ce
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315368"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214346"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
 アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
 
 > [!NOTE]
-> タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。  <br/> *  [電子メール](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (電子メールの作成と送信に役立つ)  <br/> *  [Microsoft 365 でのビジネス向けメール-管理者向けヘルプ](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Microsoft サポート/回復アシスタントを使用して Outlook および Microsoft 365 の問題を修正する](https://diagnostics.office.com/) <br/>  *  [メール配信不能レポート](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online のヘルプ](https://go.microsoft.com/fwlink/?linkid=825607)
+> タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。
+> - [電子メール](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (電子メールの作成と送信に役立つ)
+>- [Microsoft 365 でのビジネス向けメール-管理者向けヘルプ](https://go.microsoft.com/fwlink/?linkid=529722)
+>- [Microsoft サポート/回復アシスタントを使用して Outlook および Microsoft 365 の問題を修正する](https://diagnostics.office.com/)
+>- [メール配信不能レポート](https://go.microsoft.com/fwlink/?linkid=526653)
+>- [Exchange Online のヘルプ](https://go.microsoft.com/fwlink/?linkid=825607)<
 
 Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあてはまります。
 
@@ -54,7 +59,12 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 - [Exchange ActiveSync の制限](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  Microsoft 365 組織に適用される制限は、その組織がサービスに登録されている期間によって異なる場合があります。 <br/> * Microsoft データセンターで制限が変更された場合は、既存のすべてのお客様に変更を適用するのに時間がかかることがあります。 <br/> * これらの制限のほとんどを変更することはできませんが、ユーザーとユーザーはそれらを認識する必要があります。 <br/> * これらの制限は、内部および外部の両方の受信者に適用されます。 <br/> * 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 <br/> * Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」を参照してください。
+> - Microsoft 365 組織に適用される制限は、その組織がサービスに登録されている期間によって異なる場合があります。
+> - Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。
+> - これらの制限の大部分は変更できませんが、注意を払う必要があります。
+> - これらの制限は内部受信者と外部受信者の両方に適用されます。
+> - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。
+> - Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」を参照してください。
 
 ## <a name="address-book-limits"></a>アドレス帳の制限
 
@@ -71,9 +81,8 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 
 ### <a name="address-book-limits"></a>アドレス帳の制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |アドレス一覧の制限|1000|1000|1000|1000|1000|1000|
 |オフライン アドレス帳 (OAB) の制限|250|250|250|250|250|250|
 |アドレス帳ポリシー (ABP) の制限|250|250|250|250|250|250|
@@ -81,9 +90,8 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 
 ### <a name="address-book-limits-across-standalone-plans"></a>スタンドアロン プラン全体のアドレス帳制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |アドレス一覧の制限|1000|1000|1000|1000|
 |オフライン アドレス帳 (OAB) の制限|250|250|250|250|
 |アドレス帳ポリシー (ABP) の制限|250|250|250|250|
@@ -98,9 +106,8 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 
 ### <a name="storage-limits"></a>記憶域の制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |ユーザー メールボックス|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |アーカイブ メールボックス<sup>7、8</sup>|50 GB|50 GB|50 GB|無制限<sup>1</sup>|無制限<sup>1</sup>|使用不可<sup>4</sup>|
 |共有メールボックス<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2、9</sup>|50/100 GB<sup>2、9</sup>|50 GB<sup>2</sup>|
@@ -114,9 +121,8 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つにあては
 
 ### <a name="storage-limits-across-standalone-plans"></a>スタンドアロン プランの格納域に関する制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |ユーザー メールボックス|2 GB<sup>1</sup>|50 GB|100 GB|2 GB|
 |アーカイブ メールボックス<sup>8、9</sup>|100 GB<sup>1</sup>|50 GB|無制限<sup>2</sup>|使用不可<sup>5</sup>|
 |共有メールボックス<sup>11</sup>|2 GB<sup>1</sup>|50 GB<sup>3</sup>|50 GB<sup>3、10</sup>|50 GB<sup>3</sup>|
@@ -139,18 +145,16 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="capacity-alerts"></a>容量のアラート
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |警告|49 GB|49 GB|49 GB|98 GB|98 GB|1.96 GB|
 |送信禁止|49.5 GB|49.5 GB|49.5 GB|99 GB|99 GB|1.98 GB|
 |送受信禁止|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>スタンドアロン プランの容量のアラート
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |警告|1.9 GB<sup>1</sup>|49 GB|98 GB|1.96 GB|
 |送信禁止|2 GB<sup>1</sup>|49.5 GB|99 GB|1.98 GB|
 |送受信禁止|2.3 GB<sup>1</sup>|50 GB|100 GB|2 GB|
@@ -186,9 +190,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="mailbox-folder-limits"></a>メールボックス フォルダーの制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |メールボックス フォルダーごとの最大メッセージ数|100 万|100 万|100 万|100 万|100 万|100 万|
 |メールボックス フォルダーごとの警告を出すメッセージ数|900,000|900,000|900,000|900,000|900,000|900,000|
 |復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数|300 万|300 万|300 万|300 万|300 万|300 万|
@@ -211,9 +214,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>スタンドアロン プランのメールボックス フォルダーの制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |メールボックス フォルダーごとの最大メッセージ数|制限なし<sup>1</sup>|100 万|100 万|100 万|
 |メールボックス フォルダーごとの警告を出すメッセージ数|制限なし|900,000|900,000|900,000|
 |復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数|制限なし|300 万|300 万|300 万|
@@ -259,9 +261,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="message-limits"></a>メッセージの制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |メッセージ サイズの制限 - Outlook|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |メッセージ サイズの制限 - OWA|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|
 |メッセージ サイズの制限 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
@@ -289,9 +290,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="message-limits-across-standalone-options"></a>スタンドアロン オプションのメッセージの制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |メッセージ サイズの制限 - Outlook|10 MB<sup>4</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>2</sup>|
 |メッセージ サイズの制限 - OWA|10 MB<sup>4</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|150 MB<sup>1、2</sup>|
 |メッセージ サイズの制限 - Outlook for Mac|10 MB<sup>4</sup>|150 MB|150 MB||
@@ -323,9 +323,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 受信の制限は、1 時間あたりにユーザー、グループ、またはパブリック フォルダーが受信できるメッセージの数に対して適用されます。 これは、インターネットから受信するメッセージとオンプレミスのサーバーから受信するメッセージの両方に適用されます。 受信の制限を超えると、そのメールボックスに送信された電子メールに対して、メールボックスの配信のしきい値が上限を超えたことを伝える配信不能レポートが送信されます。 1 時間後に制限が更新され、メールボックスは再びメッセージを受信できるようになります。
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard Office**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |受信したメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3,600 のメッセージ|1 時間あたり 3600 のメッセージ|1 時間あたり 3600 のメッセージ|
 
 ### <a name="sending-limits"></a>送信の制限
@@ -351,9 +350,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 #### <a name="sending-limits"></a>送信の制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |受信者数の制限<sup>1</sup>|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|1 日あたり 10,000 の受信者|
 |受信者の制限<sup>2</sup>|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|最大1000人の受信者をカスタマイズ可能|
 |受信者のプロキシ アドレスの制限|400|400|400|400|400|400|
@@ -365,9 +363,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 #### <a name="sending-limits-across-standalone-options"></a>スタンドアロンの各オプションでの送信の制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |受信者数の制限|制限なし<sup>1</sup>|1 日あたり 10,000 の受信者<sup>2</sup>|1 日あたり 10,000 の受信者<sup>2</sup>|1 日あたり 10,000 の受信者<sup>2</sup>|
 |受信者の制限|1000受信者<sup>1</sup>|1000受信者|1000受信者|1000受信者|
 |受信者のプロキシ アドレスの制限|400|400|400|400|
@@ -396,9 +393,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="retention-limits"></a>保持の制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|14 日間<sup>1</sup>|
 |迷惑メール フォルダーの保存期限|30 日間|30 日間|30 日間|30 日間|30 日間|30 日間|
@@ -408,9 +404,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="retention-limits-across-standalone-options"></a>スタンドアロン オプションの保存期限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |削除済みアイテム フォルダーの保存期限|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|制限なし<sup>1</sup>|
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限|14 日間<sup>1</sup>|14 日間<sup>2</sup>|14 日間<sup>2</sup>|14 日間<sup>2</sup>|
 |迷惑メール フォルダーの保存期限|2 年間<sup>1</sup>|30 日間|30 日間|30 日間|
@@ -430,14 +425,13 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="distribution-group-limits"></a>配布グループの制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |配布グループ メンバーの最大数<sup>1</sup>|100,000 人|100,000 人|100,000 人|100,000 人|100,000 人|100,000 人|
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|
 |メンバー数 5,000 から 99,999 の配布グループの最大メッセージ サイズ|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |メンバー数 100,000 の配布グループの最大メッセージ サイズ|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|配布グループの所有者の最大数|10  |10  |10  |10  |10  |10  |
+|配布グループの所有者の最大数|10 |10 |10 |10 |10 |10 |
 |ユーザーが作成できるグループの最大数|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -445,12 +439,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="distribution-group-limits-across-standalone-options"></a>スタンドアロン オプションの配布グループの制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |配布グループのメンバーの最大数|100,000 人<sup>1</sup>|100,000 人|100,000 人|100,000 人|
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上<sup>1</sup>|5,000 人以上|5,000 人以上|5,000 人以上|
-|配布グループの所有者の最大数|10  |10  |10  |10  |
+|配布グループの所有者の最大数|10 |10 |10 |10 |
 |ユーザーが作成できるグループの最大数|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -460,29 +453,28 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 次のリストには、ジャーナル ルールとトランスポート ルール (組織全体のルールとも呼ばれる) に適用される制限および受信トレイ ルールに適用される制限が含まれます。 受信トレイ ルールは個々のユーザーごとに設定され、個々のユーザーのメールボックスで送受信されたメッセージに適用されます。
 
-- **ジャーナル ルールの最大数** 組織で使用できるジャーナル ルールの最大数です。
+- **ジャーナルルールの最大数**: 組織内に存在できるジャーナルルールの最大数。
 
-- **トランスポート ルールの最大数** 組織で使用できるルールの最大数です。
+- **トランスポートルールの最大数**: 組織内に存在できるルールの最大数。
 
-- **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
+- **個々のトランスポートルールの最大サイズ**: 単一のトランスポートルールで使用できる最大文字数。 The characters are used in the conditions, exceptions, and actions.
 
-- **すべてのトランスポートルールで使用されるすべての正規表現の文字制限** 組織内のすべてのトランスポートルールの条件と例外に含まれるすべての正規表現を含めるために使用される合計文字数。 長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。
+- **すべてのトランスポートルールで使用されているすべての正規表現の文字制限**: すべてのトランスポートルールの条件と例外に含まれるすべての正規表現を含む、組織内の合計文字数。 長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。
 
-- **添付ファイルのコンテンツに対するスキャンの制限** トランスポート ルールの条件を使用してメッセージの添付ファイルのコンテンツを確認できますが、添付ファイルから抽出されたテキストの最初の 1 MB だけが検査されます。 この 1 MB の制限は、添付ファイルから抽出するテキストのことを指すもので、添付ファイルのサイズではありません。 たとえば、2 MB のファイルに含まれるテキストが 1 MB 未満であった場合、すべてのテキストが検査されます。
+- **添付ファイルコンテンツのスキャンの制限**: トランスポートルールの条件では、メッセージの添付ファイルの内容を調べることができますが、添付ファイルから抽出されたテキストの最初の 1 MB のみが検査されます。 この 1 MB の制限は、添付ファイルから抽出するテキストのことを指すもので、添付ファイルのサイズではありません。 たとえば、2 MB のファイルに含まれるテキストが 1 MB 未満であった場合、すべてのテキストが検査されます。
 
-- **すべてのトランスポート ルールによってメッセージに追加される受信者の最大数** 1 つのメッセージに複数のトランスポート ルールが適用される場合、メッセージに追加できる受信者の数が制限されます。この制限に達すると、残りの受信者はメッセージに追加されません。また、トランスポート ルールで配布グループをメッセージに追加することはできません。
+- **すべてのトランスポートルールによってメッセージに追加される受信者の最大数**: メッセージが異なるトランスポートルールによって処理された場合、メッセージに追加できる受信者の数は有限です。 この制限に達すると、残りの受信者はメッセージに追加されません。 また、トランスポート ルールで配布グループをメッセージに追加することはできません。
 
-- **転送者の制限** リダイレクト処理を含む受信トレイ ルールまたはトランスポート ルールに構成できる受信者の最大数。この値よりも多くの受信者にメッセージをリダイレクトするようにルールが構成されている場合、ルールは適用されず、ルールの条件を満たすメッセージはルールで指定されたどの受信者にもリダイレクトされません。
+- **Forwardee limit**: リダイレクトアクションを使用して、受信トレイまたはトランスポートルールに対して構成できる受信者の最大数。 この値よりも多くの受信者にメッセージをリダイレクトするようにルールが構成されている場合、ルールは適用されず、ルールの条件を満たすメッセージはルールで指定されたどの受信者にもリダイレクトされません。
     
-- **メッセージのリダイレクト回数** 受信トレイ ルールに基づいてメッセージを自動的にリダイレクト、転送、または返信する回数。 たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。 ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。 リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。 この場合、メッセージがユーザー C に配信されなかったという配信不能レポート (NDR) をユーザー B に送信することなくメッセージは破棄されます。Microsoft では、X-MS-Exchange-Inbox-Rules-Loop ヘッダーを使用して、メッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
+- **メッセージのリダイレクト**回数: 受信トレイルールに基づいてメッセージが自動的にリダイレクト、転送、または返信された回数。 たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。 ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。 リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。 この場合、メッセージがユーザー C に配信されなかったという配信不能レポート (NDR) をユーザー B に送信することなくメッセージは破棄されます。Microsoft では、X-MS-Exchange-Inbox-Rules-Loop ヘッダーを使用して、メッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
 
-- **トランスポート ルールによってメッセージがリダイレクトされる回数** トランスポート ルールに基づいてメッセージがリダイレクトされる回数です。 たとえば、Exchange 組織 Tailspin Toys には、ユーザー A に送信されたすべてのメッセージを、Exchange 組織 Contoso にいるユーザー B にリダイレクトするトランスポートルールがあります。 Exchange 組織 Contoso 内には、ユーザー B に送信されたすべてのメッセージを Exchange 組織 A. Datum Corporation にいるユーザー C にリダイレクトするトランスポート ルールがあります。 この場合、メッセージは破棄され、ステータスコードと拒否メッセージ (*550 5.7.128 TRANSPORT.RULES.RejectMessage; Transport rules loop count exceeded and message rejected*) が含まれる配信不能レポート (NDR) がユーザー A に送信されます。Microsoft では、X-MS-Exchange-Transport-Rules-Loop ヘッダーを使用して、トランスポート ルールによりメッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
+- **トランスポートルールによるメッセージのリダイレクト**回数: トランスポートルールに基づいてメッセージがリダイレクトされる回数。 たとえば、Exchange 組織 Tailspin Toys には、ユーザー A に送信されたすべてのメッセージを、Exchange 組織 Contoso にいるユーザー B にリダイレクトするトランスポートルールがあります。 Exchange 組織 Contoso 内には、ユーザー B に送信されたすべてのメッセージを Exchange 組織 A. Datum Corporation にいるユーザー C にリダイレクトするトランスポート ルールがあります。 この場合、メッセージは破棄され、ステータスコードと拒否メッセージ (*550 5.7.128 TRANSPORT.RULES.RejectMessage; Transport rules loop count exceeded and message rejected*) が含まれる配信不能レポート (NDR) がユーザー A に送信されます。Microsoft では、X-MS-Exchange-Transport-Rules-Loop ヘッダーを使用して、トランスポート ルールによりメッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>ジャーナル、トランスポート、受信トレイのルール上の制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |ジャーナル ルールの最大数|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|
 |トランスポート ルールの最大数|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|300 個のルール|
 |各トランスポート ルールの最大サイズ|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -500,9 +492,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>スタンドアロン オプションのジャーナル、トランスポート、受信トレイのルールの制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |ジャーナル ルールの最大数|制限なし|50 個のルール|50 個のルール|50 個のルール|
 |トランスポート ルールの最大数|制限なし|300 個のルール|300 個のルール|300 個のルール|
 |各トランスポート ルールの最大サイズ|40 KB|8 KB|8 KB|8 KB|
@@ -528,9 +519,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="moderation-limits"></a>モデレートの制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |調停メールボックスの最大サイズ|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |最大モデレーター数|10 人|10 人|10 人|10 人|10 人|10 人|
 |モデレートを待機しているメッセージの有効期限|2 日間|2 日間|2 日間|2 日間|2 日間|2 日間|
@@ -538,9 +528,8 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="moderation-limits-across-standalone-options"></a>スタンドアロン オプションのモデレートの制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |調停メールボックスの最大サイズ|制限なし<sup>1</sup>|10 GB|10 GB|10 GB|
 |最大モデレーター数|制限なし|10 人|10 人|10 人|
 |モデレートを待機しているメッセージの有効期限|5 日間<sup>1</sup>|2 日間|2 日間|2 日間|
@@ -559,16 +548,14 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 ### <a name="exchange-activesync-limits"></a>Exchange ActiveSync の制限
 
-||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|1280|1280|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>各スタンドアロン オプションの Exchange ActiveSync の制限
 
-||||||
+| 機能 | Exchange Server 2013 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能**|**Exchange Server 2013**|**Exchange Online プラン 1**|**Exchange Online プラン 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync デバイスの制限|100|100|100|100|
 |Exchange ActiveSync デバイス削除の制限|1280|1280|1280|1280|

@@ -9,34 +9,33 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: f75d1127e81d1b9f85b96b7ca0e92d1a63423185
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: feb7ce1db3b904218a0a4a9df994cb8500cfd2ca
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132351"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214376"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
   
-この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 複数のビジネスプランまたはエンタープライズプランの機能を比較するには、「 [office 365 For business プランを比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)する」または「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
+この記事では、Office 365 エデュケーションプランの機能 (A1、A3、および A5) を一覧表示します。 複数のビジネスプランまたはエンタープライズプランの機能を比較するには、「 [office 365 For business プランを比較](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) する」または「 [Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連するサービスの説明を参照してください。
   
 サポート記事および情報を検索するには、「 [Office のヘルプ &amp; トレーニング](https://support.office.com/)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
-各 Office 365 エデュケーションプランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。 次の表に、各 Office 365 プランで使用できるサービスを示します。
+各 Office 365 エデュケーションプランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。 次の表に、各 Office 365 プランで使用できるサービスを示します。<br><br>
   
-|||||
+| サービス | Office 365 A1 | Office 365 A3 | Office 365 A5<sup>3</sup> |
 |:-----|:-----|:-----|:-----|
-|**サービス** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |はい<sup>5</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Online  <br/> |はい<sup>7</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
-|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Webアプリ上の Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Project  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -56,16 +55,15 @@ Office 365 のシステム要件については、「[Office 365 のシステム
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
-サービス レベル契約については、[サービス レベル契約](../office-365-platform-service-description/service-level-agreement.md)をご覧ください。 最近使用した稼働時間 for Office 365 の詳細については、「[最近の世界規模の稼働時間](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)」を参照してください。
+サービス レベル契約については、[サービス レベル契約](../office-365-platform-service-description/service-level-agreement.md)をご覧ください。 最近使用した稼働時間 for Office 365 の詳細については、「 [最近の世界規模の稼働時間](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)」を参照してください。
   
 ## <a name="platform-features"></a>プラットフォーム機能 
 
-次の表に、Office 365 エデュケーションプラン全体で利用可能なすべてのプラットフォーム機能の一覧を示します。 プランの価格と機能については、「[Office 365 を無料であなたの学校に](https://products.office.com/en/academic/compare-office-365-education-plans)」を参照してください。
+次の表に、Office 365 エデュケーションプラン全体で利用可能なすべてのプラットフォーム機能の一覧を示します。 プランの価格と機能については、「[Office 365 を無料であなたの学校に](https://products.office.com/en/academic/compare-office-365-education-plans)」を参照してください。<br><br>
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
+|**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -114,7 +112,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|[ **サービスの正常性**] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[ サービスの正常性] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |アクティブおよび非アクティブ メールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |新規メールボックスおよび削除済みメールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -153,14 +151,14 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |**[ネットワーク](networking.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |IPv4 および IPv6 プロトコル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**信頼** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[プライバシー、セキュリティ、および透明性](privacy-security-and-transparency.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[プライバシー、セキュリティ、および透明性](privacy-security-and-transparency.md) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Security Management  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |高度な電子情報開示<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
+|[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home) <br/> ||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -169,26 +167,26 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |FISMA 運用認可  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft データ処理契約  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |PCI 準拠 PAN データ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|**[サービスの継続性](service-health-and-continuity.md)** <br/> ||||
+|[サービスの継続性](service-health-and-continuity.md) <br/> ||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |BlackBerry Internet Service (BIS) の使用  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[パートナー](partners.md)** <br/> ||||
+|[パートナー](partners.md) <br/> ||||
 |指定されたプランを使用しているカスタマーに対する試用版への招待および発注書の作成  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |代理管理の提供  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービス レベル契約](service-level-agreement.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[製品使用権](product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[サービス レベル契約](service-level-agreement.md) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[製品使用権](product-use-rights.md) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Office 365 は、製造元によってサポートされていないオペレーティングシステムのサポートを提供していません。<br/> 
-<sup>2</sup>ローカル active directory とのディレクトリ同期を使用する場合は、Office 365 ポータルではなくローカル active directory を使用するか、Windows PowerShell 用 Azure Active directory モジュールを使用して、アカウントを削除するか、またはパスワードを変更する必要があります。 <br/> 
-<sup>3</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/> 
-<sup>4</sup>期間割引を使用して購入された座席の削減は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 <br/> 
-<sup>5</sup>で利用可能 [https://securescore.office.com](https://securescore.office.com/) (リンクは管理者権限が必要)。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
+<sup>2</sup> ローカル active directory とのディレクトリ同期を使用する場合は、Office 365 ポータルではなくローカル active directory を使用するか、Windows PowerShell 用 Azure Active directory モジュールを使用して、アカウントを削除するか、またはパスワードを変更する必要があります。 <br/> 
+<sup>3</sup> ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 <br/> 
+<sup>4</sup> 期間割引を使用して購入された座席の削減は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 <br/> 
+<sup>5</sup> で利用可能 [https://securescore.office.com](https://securescore.office.com/) (リンクは管理者権限が必要)。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
 <sup>6</sup> Microsoft Sway は、一部の地域のお客様が現在利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 <br/> 
-<sup>7</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br>
-<sup>8</sup>各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。<br>
-<sup>9</sup>詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。<br>
-<sup>10</sup>ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「[ブリーフィングメールを構成する](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
+<sup>7</sup> 高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br>
+<sup>8</sup> 各プランに含まれている Microsoft stream 機能の詳細については、「 [Stream ライセンスの概要](https://stream.microsoft.com/documentation/stream-license-overview/)」を参照してください。<br>
+<sup>9</sup> 詳細については、「 [myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。<br>
+<sup>10</sup> ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「 [ブリーフィングメールを構成する](https://docs.microsoft.com/Briefing/be-admin)」を参照してください。<br>
 
 ## <a name="security-amp-compliance-center-features"></a>セキュリティ &amp; コンプライアンスセンターの機能
 
@@ -197,9 +195,8 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[Advanced Security Management](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)(メールフィルタリング、マルウェア対策など)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -217,24 +214,21 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |[Office 365 での無制限アーカイブの概要](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[手動のアイテム保持/削除ポリシー](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[統合監査](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|||||
    
 > [!NOTE]
-> <sup>1</sup>データガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。そして、ワークロード、ユーザー、およびグループにわたって保持/削除ポリシーを作成して適用します。 メールボックスに適用されるアイテム保持ポリシーには、Office 365 Enterprise E3 または E5 が必要です。 <br/> 
-<sup>2</sup>高度なデータガバナンスにより、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーに基づいて情報を分類することができます。 これには、ポリシーの推奨などのインテリジェント/自動アクションが含まれます。データにラベルを自動的に適用する。機密データの種類またはクエリに基づいてラベルを適用する。スマートインポートフィルターの使用。 また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。 <br/> 
-<sup>3</sup>無制限。 <br/> 
-<sup>4</sup>高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/> 
+> <sup>1</sup> データガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。そして、ワークロード、ユーザー、およびグループにわたって保持/削除ポリシーを作成して適用します。 メールボックスに適用されるアイテム保持ポリシーには、Office 365 Enterprise E3 または E5 が必要です。 <br/> 
+<sup>2</sup> 高度なデータガバナンスにより、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーに基づいて情報を分類することができます。 これには、ポリシーの推奨などのインテリジェント/自動アクションが含まれます。データにラベルを自動的に適用する。機密データの種類またはクエリに基づいてラベルを適用する。スマートインポートフィルターの使用。 また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。 <br/> 
+<sup>3</sup> 無制限。 <br/> 
+<sup>4</sup> 高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/> 
 <sup>5</sup> Advanced Threat Protection は、Office 365 A5、および Office 365 A1 および Office 365 A3 のスタンドアロンサービスとして使用できます。<br/>
-<sup>6</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)を使用して、統合された監査ログからイベントを取得することもできます。 <br/>
+<sup>6</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) を使用して、統合された監査ログからイベントを取得することもできます。 <br/>
   
 ## <a name="office-application-features"></a>Office アプリケーション機能  
 
-次の表を使用して、Office 365 エデュケーションプラン全体で利用可能な機能を比較します。
+次の表を使用して、Office 365 エデュケーションプラン全体で利用可能な機能を比較します。<br><br>
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**Office アプリケーション** <br/> ||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |いいえ<sup>3、4</sup> <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |いいえ<sup>3、4</sup> <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |いいえ<sup>3、4</sup> <br/> |はい  <br/> |はい  <br/> |
@@ -284,8 +278,8 @@ Office 365 のシステム要件については、「[Office 365 のシステム
    
 > [!NOTE]
 > <sup>1</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 <br/> 
-<sup>2</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれている、完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「[デスクトップクライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。 <br/> 
-<sup>3</sup>一部の教育機関は、Microsoft 365 Apps for enterprise を含み、学生、教職員、スタッフが、最大5台の PC または Mac コンピューターと、Windows タブレットや iPad を含むその他のモバイルデバイスに最新バージョンの Office をインストールすることを許可します。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/> 
+<sup>2</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれている、完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「 [デスクトップクライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。 <br/> 
+<sup>3</sup> 一部の教育機関は、Microsoft 365 Apps for enterprise を含み、学生、教職員、スタッフが、最大5台の PC または Mac コンピューターと、Windows タブレットや iPad を含むその他のモバイルデバイスに最新バージョンの Office をインストールすることを許可します。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/> 
 web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳細については、「 [Office for the web features](office-365-education.md#office-for-the-web-features) 」を参照してください。
   
 ## <a name="office-for-the-web-features"></a>Web 用 Office の機能
@@ -298,9 +292,8 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 > - Microsoft Microsoft 365 enterprise 用アプリは、最新の Office デスクトップスイートの月単位のサブスクリプションサービスです。 <br/>
 > - Microsoft Office Online Server のオンプレミスのお客様は、office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Microsoft 365 Apps for enterprise license) を購入した場合、web 編集ライセンスの Office を入手できます。 
   
-||||
+| アプリケーション | Webアプリ上の Office | 詳細な機能比較へのリンク |
 |:-----|:-----|:-----|
-|**Application** <br/> |**Web 用 Office** <br/> |**詳細な機能比較へのリンク** <br/> |
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |Web 用 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -309,11 +302,10 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 
-次の表に、Office 365 エデュケーションプラン全体で利用可能な Exchange Online の機能を示します。
+次の表に、Office 365 エデュケーションプラン全体で利用可能な Exchange Online の機能を示します。<br><br>
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[計画と展開](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |サポートされているハイブリッド展開  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サポートされている IMAP 移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -345,7 +337,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |検疫 - 管理者による管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検疫 - エンドユーザーによる自己管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|**[メールフロー](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[メール フロー](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |送信メールのカスタムルーティング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Secure messaging with a trusted partner  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Conditional mail routing  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -384,7 +376,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |サイト メールボックス  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |パブリック フォルダー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[クライアントとモバイル デバイス](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-| Outlook for Windows <sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Outlook for Windows <sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook on the web<sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook for Mac<sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |iOS および Android 用の Outlook<sup>9</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -420,12 +412,12 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
    
 > [!NOTE]
 > <sup>1</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 <br/>
-<sup>2</sup>トランスポートルールは、柔軟な条件で構成されます。これにより、条件と例外、および条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 <br/> 
+<sup>2</sup> トランスポートルールは、柔軟な条件で構成されます。これにより、条件と例外、および条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 <br/> 
 <sup>3</sup> Exchange Server 2013 は、Microsoft マルウェア対策エンジンのみを使用します。 Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 <br/> 
 <sup>4</sup> SharePoint Online は、サブスクリプションプランに含まれている必要があります。 <br/> 
-<sup>5 つ</sup>の接続されたアカウントは、POP と IMAP のアカウントでサポートされていますが、Outlook.com (Hotmail) では無効になっています。 <br/> <sup>6</sup>コマンドレットを使用したアドレス一覧とグローバルアドレス一覧の操作はサポートされていません。 <br/> 
-<sup>7</sup>一部のサードパーティの web パーツやアドインは使用できない場合があります。 <br/> 
-<sup>8</sup>電子情報開示については、オンプレミスとクラウドについて別のクエリが必要になります。 <br/> 
+<sup>5 つ</sup> の接続されたアカウントは、POP と IMAP のアカウントでサポートされていますが、Outlook.com (Hotmail) では無効になっています。 <br/> <sup>6</sup> コマンドレットを使用したアドレス一覧とグローバルアドレス一覧の操作はサポートされていません。 <br/> 
+<sup>7</sup> 一部のサードパーティの web パーツやアドインは使用できない場合があります。 <br/> 
+<sup>8</sup> 電子情報開示については、オンプレミスとクラウドについて別のクエリが必要になります。 <br/> 
 <sup>9</sup> Table クライアントが関連するプランを使用して動作するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 
   
 ### <a name="exchange-online-limits"></a>Exchange Online の制限
@@ -434,8 +426,8 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 > [!NOTE]
 > タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。<br/> 
-> - [メールの](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)作成と送信に関するヘルプを提供します。 
->- [一般法人向け Office 365 のメール - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/email/email?redirectSourcePath=%252farticle%252f5ff63bc1-308b-46de-a39b-cdc43ac117de&view=o365-worldwide)
+> - [メールの](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) 作成と送信に関するヘルプを提供します。 
+>- [一般法人向け Office 365 のメール - 管理者向けヘルプ](https://docs.microsoft.com/microsoft-365/admin/email/)
 >- [メッセージ サイズの制限](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [Microsoft Office 365 サポート/回復アシスタントで Outlook と Office 365 の問題を解決する](https://diagnostics.office.com/)
 >- [Office 365 でのメール配信不能レポート](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
@@ -468,25 +460,24 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
 - [Exchange ActiveSync の制限](office-365-education.md#exchange-activesync-limits)
     
 > [!IMPORTANT]
->  - Microsoft 365 組織に適用される制限は、その組織がサービスに登録されている期間によって異なる場合があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
->  - これらの制限の大部分は変更できませんが、注意を払う必要があります。 
+> - Microsoft 365 組織に適用される制限は、その組織がサービスに登録されている期間によって異なる場合があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
+> - これらの制限の大部分は変更できませんが、注意を払う必要があります。 
 > - これらの制限は内部受信者と外部受信者の両方に適用されます。 
 > - 既定では、exchange online Protection (EOP) は Exchange Online メールボックスを保護します。 Exchange Online の EOP 機能に適用される制限については、「 [Exchange Online Protection の制限](../exchange-online-protection-service-description/exchange-online-protection-limits.md)」を参照してください。 
->  - Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「[Office 365 グループについて](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)」の「グループを管理する方法」を参照してください。 
+> - Office 365 グループの制限については、「グループを管理する方法」を参照してください。 「[Office 365 グループについて](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)」の「グループを管理する方法」を参照してください。 
   
 #### <a name="address-book-limits"></a>アドレス帳の制限
 
-- **アドレス一覧の制限** Exchange Online または Exchange Server 2013 組織内で作成できるアドレス一覧の最大数。この数には、[すべての連絡先] や [すべてのグループ] など、Exchange Online の既定のアドレス一覧が含まれます。 
+- **アドレス一覧の制限** -exchange Online または exchange Server 2013 の組織で作成できるアドレス一覧の最大数。 この数には、[すべての連絡先] や [すべてのグループ] など、Exchange Online の既定のアドレス一覧が含まれます。 
     
-- **オフライン アドレス帳の制限** Exchange Online または Exchange Server 2013 組織内で作成できるオフライン アドレス帳 (OAB) の最大数。 
+- **オフラインアドレス帳の制限** -exchange Online または exchange Server 2013 組織で作成できるオフラインアドレス帳 (OAB) の最大数。 
     
-- **アドレス帳ポリシーの制限** Exchange Online または Exchange Server 2013 組織内で作成できるアドレス帳ポリシー (ABP) の最大数。 
+- **アドレス帳ポリシーの制限** -exchange Online または exchange Server 2013 組織に作成されるアドレス帳ポリシー (abp) の最大数。 
     
-- **グローバル アドレス一覧** Exchange Online または Exchange Server 2013 組織内で作成できるグローバル アドレス一覧 (GAL) の最大数。 
+- **グローバルアドレス一覧** -exchange Online または exchange Server 2013 組織で作成されるグローバルアドレス一覧 (GAL) の最大数。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |アドレス一覧の制限  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |オフライン アドレス帳 (OAB) の制限  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |アドレス帳ポリシー (ABP) の制限  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -499,9 +490,8 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
 > [!NOTE]
 > ジャーナリング、トランスポート ルール、または自動転送ルールを使用してアーカイブの目的のため、Exchange Online メールボックスにメッセージをコピーすることは許可されていません。 ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブメールボックスを使用して他のユーザーのアーカイブデータを保存したり、不適切な使用をしたりする場合に、無制限のアーカイブを拒否する権利を留保します。
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |ユーザー メールボックス  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |アーカイブ メールボックス<sup>6、7</sup> <br/> |無制限<sup>1</sup> <br/> |無制限<sup>1</sup> <br/> |無制限<sup>1</sup> <br/> |
 |共有メールボックス  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
@@ -523,15 +513,14 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
 
 Exchange Online では、ユーザーのメールボックスが上限に近づくか、または一杯になったときに 3 種類の通知が行われます。
   
-- **警告** ユーザーは、メールボックスが最大サイズの制限値に近づいていることを示す警告を電子メールで受信します。この警告は、ユーザーに不要なメールの削除を促すものです。 
+- **警告** -ユーザーはメールボックスが最大サイズ制限に近づいているという警告を受信します。 この警告の目的は、不要なメールの削除をユーザーに促すことです。 
     
-- **送信禁止** ユーザーは、メールボックスのサイズが制限値に達したときに、送信禁止の通知を電子メールで受信します。ユーザーは、十分な電子メールが削除され、メールボックスのサイズが制限値を下回るまで、新しいメッセージを送信できません。 
+- **送信禁止** -メールボックスのサイズ制限に達したときに、ユーザーは禁止通知メールを受信します。 ユーザーは、十分な電子メールが削除され、メールボックスのサイズが制限値を下回るまで、新しいメッセージを送信できません。 
     
-- **送受信禁止** Exchange Online は、メールボックスのサイズが制限値に達すると、メールの受信を拒否し、送信者に配信不能レポート (NDR) を送信します。送信者には後でメールを再送信するオプションがあります。ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
+- [**送受信を禁止**する] メールボックスのサイズ制限に達した場合、Exchange Online は受信メールを拒否し、配信不能レポート (NDR) を送信者に送信します。 送信者には後でメールを再送信するオプションがあります。 ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |警告  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
 |送信禁止  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
 |送受信禁止  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
@@ -540,31 +529,30 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 これらの制限は、メールボックスを Exchange Online でサポート可能な大きさにするためのものです。これらの制約は、フォルダーごとのメールボックス項目数、メールボックスごとのフォルダー数、あるいは Exchange Online 組織ごとのパブリック フォルダー数の無制限な使用を防ぐことを目的としています。実用的には、メールボックス フォルダーの限度は事実上無制限で、Exchange Online へ移行するほとんどの Exchange Online メールボックスや社内メールボックスを十分にサポートしています。
   
-- **メールボックス フォルダーごとの最大メッセージ数** メールボックス フォルダーの最大メッセージ数を規定します。この制限値に達すると新規メッセージを配達することも、フォルダーに保存することもできません。 
+- **メールボックスフォルダーごとの最大メッセージ数** -メールボックスフォルダーの最大メッセージ数を指定します。 この制限値に達すると、フォルダーへの新規メッセージの配達または保存ができなくなります。 
     
-- **メールボックス フォルダーごとの警告を出すメッセージ数** メールボックス フォルダーに保存されたメッセージ数がここで指定した数を超えると、Exchange Online がメールボックス所有者に警告メッセージを送信します。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **警告メールボックスフォルダーあたりのメッセージ数** : Exchange Online がメールボックス所有者に警告メッセージを送信する前にメールボックスフォルダーが保持できるメッセージの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
-- **復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数** 復元可能アイテム フォルダー内の各フォルダーに保存できる最大メッセージ数を規定します。フォルダーがこの最大数を超えた場合、新しいメッセージを保存できません。たとえば、回復可能なアイテム フォルダーの削除フォルダーがメッセージの最大数を超えた場合、メールボックスの所有者がメールボックスからアイテムを完全に削除しようとしても、削除は失敗します。 
+- **回復可能なアイテムフォルダー内のフォルダーごとの最大メッセージ数** -回復可能なアイテムフォルダー内の各フォルダーに含めることができるメッセージの最大数を指定します。 フォルダーがこの最大数を超えた場合、新しいメッセージを保存できません。 たとえば、回復可能なアイテム フォルダーの削除フォルダーがメッセージの最大数を超えた場合、メールボックスの所有者がメールボックスからアイテムを完全に削除しようとしても、削除は失敗します。 
     
-- **復元可能アイテム フォルダー内のフォルダーごとの警告を出すメッセージ数** 復元可能アイテム フォルダー内の各フォルダーに保存されるメッセージ数がここで指定した数を超えると、Exchange Online はアプリケーション イベント ログにイベントを記録します。 
+- [**回復可能なアイテム] フォルダー内のフォルダーごとの警告**: Exchange Online がアプリケーションイベントログにイベントをログ記録する前に、回復可能なアイテムフォルダー内の各フォルダーが保持できるメッセージの数を指定します。 
     
-- **メールボックス フォルダーごとのサブフォルダー数の最大値** メールボックス フォルダー内に作成できるサブフォルダー数の最大値を規定します。この最大数に達すると、メールボックスの所有者は新しいサブフォルダーを作成できません。 
+- **メールボックスフォルダーごとの最大サブフォルダー数** -メールボックスフォルダー内に作成できるサブフォルダーの最大数を指定します。 この最大数に達すると、メールボックスの所有者は新しいサブフォルダーを作成できなくなります。 
     
-- **メールボックス フォルダーごとの警告を出すサブフォルダー数** メールボックス フォルダーに作成するサブフォルダー数がここで指定した数を超えると、Exchange Online がメールボックス所有者に警告メッセージを送信します。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **警告メールボックスフォルダーあたりのサブフォルダー数について** は、Exchange Online がメールボックス所有者に警告メッセージを送信する前にメールボックスフォルダーに作成できるサブフォルダーの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
-- **フォルダー階層の深さの最大値** メールボックスのフォルダー階層内のレベルの最大数を指定します。この最大数に達すると、メールボックスの所有者はメールボックス フォルダーの階層内で新たなレベルを作成できなくなります。 
+- **フォルダー階層の深さの最大** 値-メールボックスのフォルダー階層内のレベルの最大数を指定します。 この最大数に達すると、メールボックスの所有者はメールボックス フォルダーの階層内で新たなレベルを作成できなくなります。 
     
-- **警告を出すフォルダー階層の深さ** フォルダー階層のレベル数がここで指定した数を超えると、Exchange Online がメールボックス所有者に警告メッセージを送信します。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **警告: フォルダー階層の深さ** -Exchange Online がメールボックスの所有者に警告メッセージを送信する前に作成できるメールボックスフォルダーのフォルダー階層内のレベル数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
-- **パブリック フォルダーの最大数** パブリック フォルダー階層全体のパブリック フォルダーの最大数を指定します。この制限に達すると、既存のパブリック フォルダーを削除しないかぎり、新しいパブリック フォルダーを作成できなくなります。 
+- **パブリックフォルダーの最大数** -完全なパブリックフォルダー階層内のパブリックフォルダーの最大数を指定します。 この制限に達すると、既存のパブリック フォルダーを削除しないかぎり、新しいパブリック フォルダーを作成できなくなります。 
     
-- **パブリック フォルダーごとのサブフォルダー数の最大値** パブリック フォルダー内に作成できるサブフォルダー数の最大値を指定します。この制限値に達すると、パブリック フォルダーに新規サブフォルダーの作成はできません。 
+- **パブリックフォルダーごとのサブフォルダーの最大数** -パブリックフォルダー内に作成できるサブフォルダーの最大数を指定します。 この制限値に達すると、パブリック フォルダーに新規のサブフォルダーを作成できなくなります。 
     
-- **パブリック フォルダーごとの警告を出すサブフォルダー数** パブリック フォルダーに作成するサブフォルダー数がここで指定した数を超えると、Exchange Online がフォルダー所有者に警告メッセージを送信します。所有者が存在していない場合、警告メッセージは所有者アクセス許可を持つユーザーに送信されます。このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **警告: パブリックフォルダーあたりのサブフォルダー数について** は、Exchange Online がフォルダー所有者に警告メッセージを送信する前に、パブリックフォルダー内に作成できるサブフォルダーの数を指定します。 所有者が存在していない場合、警告メッセージは所有者アクセス許可を持つユーザーに送信されます。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |メールボックス フォルダーごとの最大メッセージ数  <br/> |100 万  <br/> |100 万  <br/> |100 万  <br/> |
 |メールボックス フォルダーごとの警告を出すメッセージ数  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |復元可能アイテム フォルダー内のフォルダーごとの最大メッセージ数  <br/> |300 万  <br/> |300 万  <br/> |300 万  <br/> |
@@ -582,31 +570,30 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |パブリック フォルダーごとの警告を出すサブフォルダー数  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 
+> <sup>1</sup> ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 
   
 #### <a name="message-limits"></a>メッセージの制限
 
-- **メッセージのサイズ制限** サイズの大きいメッセージによって他のメッセージの配信がブロックされたり、すべてのユーザーに対するサービスのパフォーマンスに影響が及んだりするのを防ぐには、メッセージ サイズの制限が必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。
+- **メッセージサイズの制限** -メッセージサイズの制限は、サイズの大きいメッセージが他のメッセージの配信をブロックしたり、すべてのユーザーのサービスのパフォーマンスに影響を与えないようにするために必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。
     
    > [!NOTE]
     > 電子メール クライアントによっては、メッセージ サイズの制限が低くなるか、個々の添付ファイルのサイズが Exchange Online のメッセージ サイズ制限より小さい値に制限される場合があります。 
   
-- **件名の長さの制限** 1 つのメール メッセージの件名に使用できるテキスト文字の最大数。 
+- **件名の長さの制限** -電子メールメッセージの件名行に入力できるテキスト文字の最大数。 
     
-- **添付ファイル数の制限** 1 つの電子メール メッセージに添付できる添付ファイルの最大数。添付ファイルすべての合計サイズがメッセージ サイズの制限に違反しない場合でも、メッセージに添付できる添付ファイルの数には制限があります。この制限はマルチパート メッセージの制限によって制御されます。 
+- **添付ファイルの制限** -電子メールメッセージで許可される添付ファイルの最大数。 添付ファイルすべての合計サイズがメッセージ サイズの制限に違反しない場合でも、メッセージに添付できる添付ファイルの数には制限があります。 この制限はマルチパート メッセージの制限によって制御されます。 
     
-- **添付ファイルのサイズ制限** 1 つの添付ファイルの最大ファイル サイズです。 
+- 添付**ファイルのサイズ制限**-1 つの添付ファイルの最大ファイルサイズです。 
     
     > [!NOTE] 
     > これは、1 つの添付ファイルの最大ファイル サイズです。 Outlook on the web を含む個々のクライアント プログラムでは、添付ファイルのサイズ制限がこの最大値より小さい場合があります。 Exchange ActiveSync は、添付ファイルのサイズ制限を個別の添付ファイルごとには実装しません。 Exchange ActiveSync メッセージに添付されるすべてのファイルの合計サイズは、メッセージのサイズ制限よりも小さい必要があります。 
   
-- **マルチパート メッセージの制限** MIME マルチパート メッセージで許可されるメッセージ本文のパーツの最大数。この制限は、メッセージ内で許可される添付ファイルの最大数も制御します。 
+- **マルチパートメッセージの制限** -MIME マルチパートメッセージで許可されるメッセージ本文のパーツの最大数。 この制限は、1 つのメッセージ内で許可される添付ファイルの最大数も制御します。 
     
-- **埋め込みメッセージの深さの制限** 1 つのメール メッセージで許可される転送メール メッセージの最大数。 
+- **埋め込みメッセージの深さ制限** -電子メールメッセージで許可される転送された電子メールメッセージの最大数。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |メッセージ サイズの制限 - Outlook  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
 |メッセージ サイズの制限 - OWA  <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |
 |メッセージ サイズの制限 - Outlook for Mac  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
@@ -615,15 +602,15 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |件名の長さの制限  <br/> |255 文字  <br/> |255 文字  <br/> |255 文字  <br/> |
 |添付ファイルの制限  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |250 個の添付ファイル  <br/> |
-|添付ファイルのサイズ制限 - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|添付ファイルのサイズ制限 - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |添付ファイルのサイズ制限 - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|添付ファイルのサイズ制限 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |マルチパート メッセージの制限  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |250 パーツ  <br/> |
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Microsoft 管理者は、1 mb と 150 MB の間でカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織で許可される最大メッセージサイズのカスタマイズの詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。<br/> 
-<sup>2</sup>ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 <br/> 
+<sup>2</sup> ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 <br/> 
 <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> 
 <sup>4</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 この制限は、サポート対象の Exchange メールボックス レプリケーション サービスを使用する、移動ベースの移行に適用されます。 その他の移行方法 (一括、段階的な IMAP、PST) およびその他のサード パーティ製ツールは、一般的なメッセージ サイズの制限を受けます。 <br/> 
 <sup>5</sup> 新しい機能を備えた OME については、「 [Azure Information Protection をベースにした新しい Office 365 Message Encryption 機能を構築する](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
@@ -634,11 +621,10 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 #### <a name="receiving-limits"></a>受信の制限
 
-受信の制限は、1 時間あたりにユーザー、グループ、またはパブリック フォルダーが受信できるメッセージの数に対して適用されます。これは、オンプレミスのサーバーからのメッセージと、インターネットからのメッセージの両方に適用されます。受信の制限を超えると、そのメールボックスに送信された電子メールに対して、メールボックスの配信のしきい値が上限を超えたことを伝える配信不能レポートが送信されます。1 時間後に制限が更新され、メールボックスは再びメッセージを受信できるようになります。
+受信の制限は、1 時間あたりにユーザー、グループ、またはパブリック フォルダーが受信できるメッセージの数に対して適用されます。これは、オンプレミスのサーバーからのメッセージと、インターネットからのメッセージの両方に適用されます。受信の制限を超えると、そのメールボックスに送信された電子メールに対して、メールボックスの配信のしきい値が上限を超えたことを伝える配信不能レポートが送信されます。1 時間後に制限が更新され、メールボックスは再びメッセージを受信できるようになります。<br><br>
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |受信したメッセージ  <br/> |1 時間あたり 3600 のメッセージ  <br/> |1 時間あたり 3600 のメッセージ  <br/> |1 時間あたり 3600 のメッセージ  <br/> |
    
 #### <a name="sending-limits"></a>送信の制限
@@ -648,21 +634,20 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 > [!NOTE]
 > 組織のアドレス帳に格納されている配布グループの場合、グループは 1 受信者としてカウントされます。メールボックスの連絡先フォルダーに格納されている配布グループの場合、グループのメンバーは個別にカウントされます。 
   
-- **受信者数の制限** Exchange Online には、受信者が送信を要求していないバルク メッセージの配信を防ぐための受信者制限があり、ユーザーおよびアプリケーションによる膨大な数の電子メールの送信を防止しています。これらの制限は、すべての送信メッセージおよび内部メッセージに対してユーザーごとに適用されます。 
+- **受信者数の制限** -不要なバルクメッセージの配信を防ぐため、Exchange Online には、ユーザーやアプリケーションが大量の電子メールを送信することを防ぐための受信者の制限があります。 これらの制限は、すべての送信メッセージおよび内部メッセージに対してユーザーごとに適用されます。 
     
     > [!NOTE]
     > 正当なバルク メッセージ (たとえば、顧客向けのニュースレター) を送信しなければならない Exchange Online のお客様は、そうしたサービスに特化したサード パーティ プロバイダーを使用する必要があります。 
   
-- **受信者の制限** "宛先:"、"CC:"、"BCC:" の各フィールドに 1 通のメール メッセージで入力できるメッセージ受信者の最大数。 
+- **受信者の制限** -1 つの電子メールメッセージの [宛先:]、[Cc:]、および [Bcc] フィールドに指定できる受信者の最大数。 
     
     > [!NOTE]
     > 受信者数の制限と受信者制限の目的で、組織の共有アドレス帳に保存される配布グループは 1 つの受信者としてカウントされます。個人用の配布リストでは、各受信者は個別にカウントされます。 
   
-- **メッセージ数の制限** メッセージ数の制限では、指定された期間内に Exchange Online アカウントからユーザーが送信できるメッセージの数を決定します。この制限により、単一の送信者がシステム リソースを過剰に消費するのを防ぐことができます。SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。 
+- **メッセージレートの制限** -メッセージ数の制限は、指定された期間内にユーザーが Exchange Online アカウントから送信できるメッセージの数を決定します。 この制限により、単一の送信者がシステム リソースを過剰に消費するのを防ぐことができます。 SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |受信者数の制限  <br/> |1 日あたり 10,000 の受信者  <br/> |1 日あたり 10,000 の受信者  <br/> |1 日あたり 10,000 の受信者  <br/> |
 |受信者の制限  <br/> |500 の受信者  <br/> |500 の受信者  <br/> |500 の受信者  <br/> |
 |受信者のプロキシ アドレスの制限  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -676,18 +661,17 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 これらの制限で、受信トレイ内の特定のフォルダー内のアイテムにアクセス可能な時間長を制御します。
   
-- **削除済みアイテム フォルダーの保持期間** 自動的に削除されるまで削除済みアイテム フォルダーにアイテムを保持できる最大日数。 
+- **削除済みアイテムフォルダーの保存期間** -自動的に削除されるまで削除済みアイテムフォルダーにアイテムを保持できる最大日数。 
     
-- **Retention period for items removed from the Deleted Items folder** The maximum numbers of days that items removed from the Deleted Items folder are retained before they're permanently deleted. 
+- **削除済みアイテムフォルダーから削除されたアイテムの保持期間** -削除済みアイテムフォルダーから削除されたアイテムが完全に削除されるまで保持される最大日数。 
     
-- **迷惑メール フォルダーの保持期間** 自動的に削除されるまで迷惑メール フォルダーにアイテムを保持できる最大日数。 
+- **迷惑メールフォルダーの保持期間** -自動的に削除されるまで迷惑メールフォルダーにアイテムを保持できる最大日数。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |削除済みアイテム フォルダーの保存期限  <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |制限なし<sup>1</sup> <br/> |
 |削除済みアイテム フォルダーから削除されたアイテムの保存期限  <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |14 日間<sup>1</sup> <br/> |
-|迷惑メール フォルダーの保存期限  <br/> |30 日  <br/> |30 日間  <br/> |30 日間  <br/> |
+|迷惑メール フォルダーの保存期限  <br/> |30 日間  <br/> |30 日間  <br/> |30 日間  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> これは既定の制限です。管理者は、組織に適用されるこの値を変更できます。  
@@ -696,15 +680,14 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 これらの制限は、組織の共有アドレス帳に含まれる配布グループに適用されます。
   
-- **Maximum number of distribution group members** The total recipient count is determined after distribution group expansion. 
+- **配布グループメンバーの最大数** -受信者の合計数は、配布グループの展開後に決定されます。 
     
-- **大きな配布グループへのメッセージの送信の制限** この制限で指定された数のメンバーを含む配布グループでは、配信の管理またはメッセージの承認のいずれかのオプションを構成する必要があります。配信の管理では、その配布グループにメッセージを送信することが許可される送信者のリストを指定します。メッセージの承認では、その配布グループに送信されるすべてのメッセージを承認する必要があるモデレーターを 1 人以上指定します。 
+- **大規模な配布グループへのメッセージの送信を制限** する-この制限で指定されたメンバーの数を含む配布グループには、配信管理またはメッセージ承認のオプションが構成されている必要があります。 配信の管理では、その配布グループにメッセージを送信することが許可される送信者のリストを指定します。 メッセージの承認では、その配布グループに送信されるすべてのメッセージを承認する必要があるモデレーターを 1 人以上指定します。 
     
-- **大きな配布グループの最大メッセージ サイズ** 5,000 人以上の受信者に送信されるメッセージのサイズの制限です。サイズがこの制限を超えている場合はメッセージが配信されず、送信者に配信不能レポート (NDR) が送信されます。受信者の合計数は、配布グループの展開後に決定されます。 
+- **大規模な配布グループの最大メッセージサイズ** -メッセージが5000以上の受信者に送信される場合、メッセージサイズがこの制限を超えることはできません。 サイズがこの制限を超えている場合はメッセージが配信されず、送信者に配信不能レポート (NDR) が送信されます。 受信者の合計数は、配布グループの展開後に決定されます。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
@@ -719,25 +702,24 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 次のリストには、ジャーナル ルール、トランスポート ルール (組織全体のルールとも呼ばれる) に適用される制限や、受信トレイ ルールに適用される制限が含まれます。受信トレイ ルールは個々のユーザーごとに設定され、個々のユーザーのメールボックスで送受信されたメッセージに適用されます。
   
-- **ジャーナル ルールの最大数** 組織で使用できるジャーナル ルールの最大数です。 
+- **ジャーナルルールの最大数** -組織内に存在できるジャーナルルールの最大数。 
     
-- **トランスポート ルールの最大数** 組織で使用できるルールの最大数です。 
+- **トランスポートルールの最大数** -組織内に存在できるルールの最大数。 
     
-- **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
+- **個々のトランスポートルールの最大サイズ** -単一のトランスポートルールで使用できる最大文字数。 The characters are used in the conditions, exceptions, and actions. 
     
-- **すべてのトランスポート ルールで使用されているすべての正規表現の最大文字数** 組織のすべてのトランスポート ルールの条件および例外に含まれるすべての正規表現の文字数の合計です。長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。 
+- **すべてのトランスポートルールで使用されるすべての正規表現の文字制限** 。すべてのトランスポートルールの条件と例外で、組織内のすべての正規表現で使用される文字の合計数。 長くて複雑な正規表現を含むルールを少数使用することも、単純な正規表現を含むルールを多数使用することもできます。 
     
-- **添付ファイルのコンテンツに対するスキャンの制限** トランスポート ルールの条件を使用してメッセージの添付ファイルのコンテンツを確認できますが、添付ファイルから抽出されたテキストの最初の 1 MB だけが検査されます。 この 1 MB の制限は、添付ファイルから抽出するテキストのことを指すもので、添付ファイルのサイズではありません。 たとえば、2 MB のファイルに 1 MB 未満のテキストが含まれる場合は、すべてのテキストが検査されます。 
+- **添付ファイルコンテンツのスキャンの制限** -トランスポートルールの条件では、メッセージの添付ファイルの内容を調べることができますが、添付ファイルから抽出されたテキストの最初の 1 MB のみが検査されます。 この 1 MB という制限は、添付ファイルのファイル サイズではなく、添付ファイルから抽出されたテキストに適用されます。 たとえば、2 MB のファイルに 1 MB 未満のテキストが含まれる場合は、すべてのテキストが検査されます。 
     
-- **すべてのトランスポート ルールによってメッセージに追加される受信者の最大数** 1 つのメッセージに複数のトランスポート ルールが適用される場合、メッセージに追加できる受信者の数が制限されます。この制限に達すると、残りの受信者はメッセージに追加されません。また、トランスポート ルールで配布グループをメッセージに追加することはできません。 
+- **すべてのトランスポートルールによってメッセージに追加された受信者の最大数** -メッセージが異なるトランスポートルールによって処理された場合、メッセージに追加できる受信者の数は有限です。 この制限に達すると、残りの受信者はメッセージに追加されません。 また、トランスポート ルールで配布グループをメッセージに追加することはできません。 
     
-- **転送者の制限** リダイレクト処理を含む受信トレイ ルールまたはトランスポート ルールに構成できる受信者の最大数。この値よりも多くの受信者にメッセージをリダイレクトするようにルールが構成されている場合、ルールは適用されず、ルールの条件を満たすメッセージはルールで指定されたどの受信者にもリダイレクトされません。 
+- **Forwardee limit** -リダイレクトアクションを使用して、受信トレイまたはトランスポートルールに対して構成できる受信者の最大数。 この値よりも多くの受信者にメッセージをリダイレクトするようにルールが構成されている場合、ルールは適用されず、ルールの条件を満たすメッセージはルールで指定されたどの受信者にもリダイレクトされません。 
     
-- **メッセージのリダイレクト回数** 受信トレイ ルールに基づいてメッセージを自動的にリダイレクト、転送、または返信する回数。たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。この場合は、ユーザー C にメッセージが配信されなかったことを示す配信不能レポート (NDR) がユーザー B に送信されないままメッセージが破棄されます。 
+- **メッセージがリダイレクト** された回数-受信トレイルールに基づいてメッセージが自動的にリダイレクト、転送、または返信された回数。 たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。 ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。 リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。 この場合は、ユーザー C にメッセージが配信されなかったことを示す配信不能レポート (NDR) がユーザー B に送信されないままメッセージが破棄されます。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |ジャーナル ルールの最大数  <br/> |50 個のルール  <br/> |50 個のルール  <br/> |50 個のルール  <br/> |
 |トランスポート ルールの最大数  <br/> |300 個のルール  <br/> |300 個のルール  <br/> |300 個のルール  <br/> |
 |各トランスポート ルールの最大サイズ  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
@@ -745,43 +727,41 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |添付ファイルのコンテンツのスキャンの制限  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |すべてのトランスポート ルールによってメッセージに追加される最大受信者数  <br/> |100 の受信者  <br/> |100 の受信者  <br/> |100 の受信者  <br/> |
 |被転送者の制限  <br/> |10 の受信者  <br/> |10 の受信者  <br/> |10 の受信者  <br/> |
-|メッセージのリダイレクト回数  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |
+|メッセージのリダイレクト回数  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |1 回のリダイレクト  <br/> |
    
 #### <a name="moderation-limits"></a>モデレートの制限
 
 これらの制限は、配布グループとトランスポート ルールに適用されるメッセージの承認のモデレート設定を制御します。
   
-- **調停メールボックスの最大サイズ** 調停メールボックスのサイズがこの制限を超えると、モデレートを必要とするメッセージは配信不能レポート (NDR) で送信者に返されます。 
+- **調停メールボックスの最大サイズ** -調停メールボックスがこの制限を超えると、モデレートを必要とするメッセージは配信不能レポート (NDR) で送信者に返されます。 
     
-- **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
+- **モデレーターの最大数** -1 つのモデレート配布グループに割り当てることができるモデレーターの最大数、または1つのトランスポートルールを使用してメッセージに追加できるモデレーターの最大数。 配布グループをモデレーターとして指定することはできません。 
     
-- **モデレート待ちメッセージの有効期限** 既定では、モデレート待ちのメッセージは 2 日後に期限切れになります。ただし、期限切れモデレート メッセージの処理が 7 日ごとに実行されます。したがって、モデレート メッセージが期限切れになるのは 2 日から 9 日の間になります。 
+- **モデレートを待機しているメッセージの有効期限** -既定では、モデレートを待機しているメッセージは、2日後に期限切れになります。 ただし、期限切れモデレート メッセージの処理が 7 日ごとに実行されます。 したがって、モデレート メッセージが期限切れになるのは 2 日から 9 日の間になります。 
     
-- **期限切れモデレート通知メッセージの最大頻度** この制限は、期限切れモデレート メッセージに関する通知メッセージの 1 時間あたりの最大数を設定します。データセンターのメールボックス データベースごとの制限です。 
+- **期限切れのモデレート通知メッセージの最大レート** -この制限は、1時間の期限切れのモデレートメッセージに対する通知メッセージの最大数を設定します。 データセンターのメールボックス データベースごとの制限です。 
     
     負荷が高いときには、一部の送信者に期限切れモデレート メッセージに関する通知メッセージが送信されなくなる可能性がありますが、その場合も、配信レポートで通知を確認できます。
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |調停メールボックスの最大サイズ  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |最大モデレーター数  <br/> |10 人  <br/> |10 人  <br/> |10 人  <br/> |
-|モデレートを待機しているメッセージの有効期限  <br/> |2 日  <br/> |2 日間  <br/> |2 日間  <br/> |
+|モデレートを待機しているメッセージの有効期限  <br/> |2 日間  <br/> |2 日間  <br/> |2 日間  <br/> |
 |期限切れモデレート通知メッセージの最大頻度  <br/> |1 時間あたり 300 通  <br/> |1 時間あたり 300 通  <br/> |1 時間あたり 300 通  <br/> |
    
 #### <a name="exchange-activesync-limits"></a>Exchange ActiveSync の制限
 
 モバイル デバイスと Exchange との間でメールボックス データを同期するクライアント プロトコルである Microsoft Exchange ActiveSync には、次の制限が適用されます。 
   
-- **Exchange ActiveSync デバイスの制限** 1 メールボックスあたりの Exchange ActiveSync デバイスの最大数。 
+- **Exchange activesync デバイスの制限** -メールボックスあたりの exchange activesync デバイスの最大数。 
     
-- **Exchange ActiveSync デバイス削除の制限** Exchange 管理者が 1 か月で削除できる Exchange ActiveSync デバイスの最大数。 
+- **Exchange activesync デバイス削除の制限** -exchange 管理者が1か月で削除できる exchange activesync デバイスの最大数。 
     
-- **Exchange ActiveSync ファイル添付の制限** Exchange ActiveSync デバイスが送受信できるメッセージ ファイル添付の最大サイズ。 
+- **Exchange activesync のファイル添付の制限** -exchange activesync デバイスで送受信できるメッセージファイル添付の最大サイズ。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync デバイスの制限  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync デバイス削除の制限  <br/> |1280  <br/> |1280  <br/> |1280  <br/> |
 |Exchange ActiveSync ファイル添付の制限  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
@@ -824,11 +804,10 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 
 ### <a name="sharepoint-online-limits"></a>SharePoint Online の制限
 
-次の表に、各 Office 365 教育計画の SharePoint の制限を示します。
+次の表に、各 Office 365 教育計画の SharePoint の制限を示します。<br><br>
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |記憶域<sup>1、2</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 10 GB<sup>3</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 10 GB<sup>3</sup> <br/> |1 組織につき 1 TB、さらに購入したライセンスごとに 10 GB<sup>3</sup> <br/> |
 |ストア内の用語  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |サイト コレクションの記憶域  <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |サイト コレクションまたはグループにつき最大 25 TB<sup>4</sup> <br/> |
@@ -837,8 +816,8 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 |ユーザー数  <br/> |1 から 500,000<sup>6</sup> <br/> |1 から 500,000<sup>6</sup> <br/> |1 から 500,000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「[サブスクリプションの記憶域スペースを追加](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)する」を参照してください。 <br/> <sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。<br/> 
-<sup>3</sup>サブスクリプションと SharePoint Online スタンドアロンプランを持っている場合は、記憶域の量が追加されます。<br/> 
+> <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域スペースを追加](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)する」を参照してください。 <br/> <sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。<br/> 
+<sup>3</sup> サブスクリプションと SharePoint Online スタンドアロンプランを持っている場合は、記憶域の量が追加されます。<br/> 
 <sup>4</sup> SharePoint Online 管理者は、サイト コレクションとサイトの記憶域使用制限を設定できます。<br/> 
 <sup>5</sup> ライセンス ユーザーごとの OneDrive for Business サイト コレクションは含まれません。<br/> 
 <sup>6</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
@@ -850,9 +829,8 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 > [!NOTE]
 > この表は、Office 365 エデュケーションオプションのクライアントとサービスの利用可能性を示しています。 さまざまな Skype for Business デスクトップ クライアント、Web クライアント、モバイル クライアント間で個々の機能を比較する場合は、「[Lync Server 2013 のクライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」と「[Lync Server 2013 のモバイル クライアントの比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)」を参照してください。 
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for Business Full  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business Basic  <br/> |はい<sup>1</sup> <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -882,7 +860,7 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 |**[フェデレーションとパブリック IM 接続](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Office Communications Server 2007 R2 および Lync Server 2010 (IM、プレゼンス、音声、ビデオ、会議)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |XMPP (Google トークなどで使用される) および Sametime フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-| Skype フェデレーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype フェデレーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |AOL および Yahoo! フェデレーション  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**[Skype for Business Online 会議](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |臨時およびスケジュールの電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -949,8 +927,8 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
 |チーム通話  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |ビデオ通話モニター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ボイスメール  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans)(アドオンの購入が必要な国内通話プラン)  <br/> |No<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |
-|[通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans)(アドオンの購入が必要な国際通話プラン)  <br/> |No<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |
+|[通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (アドオンの購入が必要な国内通話プラン)  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |
+|[通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (アドオンの購入が必要な国際通話プラン)  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |
 |[コミュニケーション クレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |Skype for Business 音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -981,7 +959,7 @@ SharePoint Online の機能の詳細については、「 [Sharepoint online サ
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップクライアントは、ローカルにインストールされたアプリケーションで、Skype for Business Online を含むプランに対して、プレゼンス、インスタントメッセージング、および会議機能を提供します。 Microsoft 365 Apps for enterprise、Office 365 A3 には、完全な Skype for Business (Lync) アプリケーションが含まれています。これには、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「 [Desktop client comarison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) 」を参照してください。<br/> 
-<sup>2</sup>ボイスメールを使用するユーザーに Exchange Online (プラン 2) プランを割り当てる必要があります。 Exchange Online (プラン 1) プランはボイス メールには使用できません。 
+<sup>2</sup> ボイスメールを使用するユーザーに Exchange Online (プラン 2) プランを割り当てる必要があります。 Exchange Online (プラン 1) プランはボイス メールには使用できません。 
   
 ### <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -1000,33 +978,31 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 #### <a name="peer-to-peer-limits"></a>ピアツーピア制限
 
-- **ファイル転送制限**Skype for Business Online IM 会話で転送できるファイルの最大サイズ。ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
+- **ファイル転送制限** -Skype For BUSINESS Online IM 会話で転送可能なファイルの最大サイズ。 ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
     
-- **開かれたタブ付き会話数の制限** Skype for Business ユーザーが同時に開くことのできる会話タブの最大数。 
+- **開いているタブ付き会話** 数の制限-Skype for business ユーザーが同時に開くことができる会話タブの最大数。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|ファイル転送制限  <br/> |無制限  <br/> |制限なし  <br/> |制限なし  <br/> |
+|ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
 |開かれたタブ付き会話数の制限  <br/> |50  <br/> |50  <br/> |無制限  <br/> |
    
 #### <a name="meeting-limits"></a>会議の制限
 
-- **ファイルのアップロード制限** 配布資料や PowerPoint プレゼンテーションなど、Skype for Business 会議にアップロードできるファイルの最大サイズ。 
+- **ファイルのアップロード制限** -配布資料や PowerPoint プレゼンテーションなど、Skype for business 会議にアップロードできるファイルの最大サイズ。 
     
-- **Skype for Business 会議の参加者数** 単一の Skype for Business 会議に参加できる参加者 (プレゼンターを含む) の最大数。 
+- **Skype For business 会議の参加者** -1 つの Skype for business 会議に参加できる参加者 (プレゼンターを含む) の最大数。 
     
-- **Skype for Business 会議のプレゼンター数** 単一の Skype for Business 会議でのプレゼンターの最大数。 
+- **Skype** for business 会議のプレゼンター-1 つの Skype for business 会議の発表者の最大数。 
     
-- **Skype for Business Web アプリ会議の参加者数** 会議に参加できる Skype for Business Web アプリ会議参加者の最大数。 
+- **Skype For business web app ミーティング参加者** -会議に参加できる Skype for business web アプリ会議参加者の最大数。 
     
-- **Skype for Business Web アプリの匿名参加者数** 会議に匿名で参加できる Skype for Business Web アプリ会議参加者の最大数。 
+- **Skype For business web app の匿名参加者** -会議に匿名で参加できる Skype for business web アプリ会議参加者の最大数。 
     
-- **電話で参加するゲスト数** 会議に電話で参加できるゲストの最大数。 
+- **電話で参加しているゲスト** -会議に電話をかけることができるゲストの最大数。 
     
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |ファイルのアップロード制限  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |
 |Skype for Business 会議の参加者数<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Skype for Business 会議のプレゼンター数  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -1040,22 +1016,21 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 #### <a name="meeting-retention-limits"></a>会議の保存期限
 
-- **会議コンテンツの保存期限** 最後のユーザーが会議を退席してから、アップロードされた会議コンテンツが完全に削除されるまで Skype for Business に保持される時間。 
+- **会議コンテンツの保持期間** -最後のユーザーが会議を退室してから、アップロードされたすべての会議コンテンツが完全に削除される前に Skype for business に保持される時間。 
     
-- **会議の有効期限** 会議が終了した後でユーザーが会議にアクセスできる時間。 
+- **会議の有効期限** -会議が終了してから、ユーザーが会議にアクセスできる期間。 
     
 > [!NOTE]
 > 各ユーザーは、いつでも最大 1,000 件の会議をデータベースに保存できます。 
   
-|||||
+| 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日   <br/> |15 日   <br/> |15 日   <br/> |
-|会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日   <br/> |15 日  <br/> |
-|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間   <br/> |8 時間   <br/> |8 時間  <br/> |
+|会議コンテンツの保存:1 回のみのミーティング  <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |
+|会議コンテンツの保存:定期的な会議  <br/> |15 日  <br/> |15 日  <br/> |15 日  <br/> |
+|会議コンテンツの保存:今すぐミーティング  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |
 |会議の有効期限:1 回のみのミーティング  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
 |会議の有効期限:定期的な会議  <br/> |14 日  <br/> |14 日  <br/> |14 日  <br/> |
-|会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |8 時間   <br/> |8 時間  <br/> |
+|会議の有効期限:今すぐミーティング  <br/> |8 時間  <br/> |8 時間  <br/> |8 時間  <br/> |
    
 #### <a name="minute-limits"></a>分数の制限
 

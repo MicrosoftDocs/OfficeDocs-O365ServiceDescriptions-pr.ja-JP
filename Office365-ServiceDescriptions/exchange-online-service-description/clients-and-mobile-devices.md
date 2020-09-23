@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Exchange Online は、デスクトップおよびモバイルバージョンの Outlook、および Outlook on the web で動作します。
+ms.openlocfilehash: 32fb8ee9124a805233daaab2968158825cb46ca4
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132971"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214356"
 ---
 # <a name="clients-and-mobile-devices"></a>クライアントとモバイル デバイス
 
@@ -23,11 +24,11 @@ ms.locfileid: "45132971"
 
 Microsoft Outlook は、予定表、連絡先、タスク、および以下の主な機能をサポートする電子メール プログラムです。
   
-- **MAPI OVER HTTP**HTTP 経由のメッセージングアプリケーションプログラムインターフェイス (MAPI) により、Outlook ユーザーは組織のファイアウォールの外側からインターネット経由で Exchange Online メールボックスに接続することができます。 MAPI over HTTP は、Outlook Anywhere の長期的な置き換えとしてサポートされています。 この接続方法は、接続回復力の向上、より安全なサインイン、拡張性、および IT とサポートの拡張機能を提供します。 詳細については、「 [Office 365 における RPC over HTTP のサポート終了 (2017 年 10 月 31 日) に関する情報](https://go.microsoft.com/fwlink/?linkid=863890)」および「[MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041)」を参照してください。
+- **Mapi OVER http** over http では、Outlook ユーザーは組織のファイアウォールの外側からインターネット経由で Exchange Online メールボックスに接続できます。 MAPI over HTTP は、Outlook Anywhere の長期的な置き換えとしてサポートされています。 この接続方法は、接続回復力の向上、より安全なサインイン、拡張性、および IT とサポートの拡張機能を提供します。 詳細については、「 [Office 365 における RPC over HTTP のサポート終了 (2017 年 10 月 31 日) に関する情報](https://go.microsoft.com/fwlink/?linkid=863890)」および「[MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041)」を参照してください。
 
-- **自動検出** 自動検出サービスは、Exchange Online と連携するように Outlook を自動的に構成します。Outlook ユーザーは、電子メール アドレスとパスワードを使って初めて Exchange Online にサインインしたときに、必要なプロファイル設定を受信します。これらの設定は、ユーザーのプロファイルの作成と管理に必要な情報で Outlook クライアントを自動的に更新します。自動検出サービスを使用するには SSL 証明書が必要です。この SSL 証明書は、単一のプライマリ SSL ドメインに限定されます。 
+- **自動検出** -自動検出サービス機能により、Outlook が Exchange Online と連携するように自動的に構成されます。 Outlook ユーザーは、電子メール アドレスとパスワードを使って初めて Exchange Online にサインインしたときに、必要なプロファイル設定を受信します。 これらの設定は、ユーザーのプロファイルの作成と管理に必要な情報で Outlook クライアントを自動的に更新します。 自動検出サービスを使用するには SSL 証明書が必要です。 この SSL 証明書は、単一のプライマリ SSL ドメインに限定されます。 
 
-- **Exchange キャッシュモード**Exchange キャッシュモード機能を使用すると、Outlook ユーザーは、インターネットに接続されていない場合に Exchange Online メールボックスのローカルコピーにアクセスすることができます。 Exchange キャッシュモードでは、ユーザーの Exchange メールボックスのクライアント側コピーが Outlook に保持され、このコピーが電子メールサーバーと自動的に同期されます。 Exchange キャッシュモードで Outlook を使用することをお勧めします。これは、オフラインアクセスを提供し、クライアントとサーバーの間のネットワーク条件が理想的でない場合でも、応答性の高いユーザー環境を提供するために使用することをお勧めします。 
+- **Exchange キャッシュモード** -Exchange キャッシュモード機能により、Outlook ユーザーは、インターネットに接続されていない場合に exchange Online メールボックスのローカルコピーにアクセスできます。 Exchange キャッシュモードでは、ユーザーの Exchange メールボックスのクライアント側コピーが Outlook に保持され、このコピーが電子メールサーバーと自動的に同期されます。 Exchange キャッシュモードで Outlook を使用することをお勧めします。これは、オフラインアクセスを提供し、クライアントとサーバーの間のネットワーク条件が理想的でない場合でも、応答性の高いユーザー環境を提供するために使用することをお勧めします。 
 
 既定では、すべてのユーザーが Outlook からアクセスできます。管理者は Windows PowerShell を使って特定のユーザーまたはグループのアクセスを無効にできます。Exchange Online へのアクセスには、最新の Service Pack をインストールした最新バージョンの Outlook を使用してください。 
   
@@ -39,7 +40,12 @@ Microsoft 365 は、Office の最新のブラウザーおよびバージョン�
 - マイクロソフトは、セキュリティに関連しない問題を解決するためのソフトウェア更新プログラムを提供していません。
 
 > [!IMPORTANT]
->  Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft 365 for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 POP を使用して Exchange Online の電子メールアカウントに接続する場合は、次の制限があります。予定表情報がない > > 空き時間情報はありません > > >] POP を使用して接続すると、すべてのメッセージがクライアントにダウンロードされ、複数のコンピューターまたはデバイス (ノート pc と電話など) 間の同期はありません 
+> Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft 365 for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 POP を使用して Exchange Online の電子メール アカウントに接続する場合、次の制限事項が表示されます。
+> - 予定表情報がない
+>- 空き時間情報がない
+>- グローバル アドレス一覧がない
+>- プッシュ メールがない
+>- POP 経由で接続した場合、すべてのメッセージはクライアントにダウンロードされ、複数のコンピューターまたはデバイス間 (ノート PC と携帯電話の間など) で同期されることはありません。 
   
 ## <a name="outlook-on-the-web"></a>Web 上の Outlook
 
@@ -47,9 +53,9 @@ Outlook on the web は、Exchange Online と連携する Web ベースの Outloo
   
 Outlook on the web のクライアントには 2 つのバージョンがあり、どちらも Exchange Online とともに利用できます。
   
-- **Outlook on the web**Web 上の Outlook の標準バージョンでは、Exchange Online ユーザーが Outlook ユーザーの場合とほとんど同じようなメッセージングの使用環境を備えています。 最新の web ブラウザーをサポートしており、デスクトップやラップトップだけでなく、タブレットやスマートフォンでも使用できるように最適化されています。 ユーザーは、メッセージの読み取りと送信、連絡先の整理、予定および会議のスケジュールを行うことができます。 既定の動作ベースのタイムアウトは6時間に設定されていますが、 [Windows PowerShell の管理者が](https://go.microsoft.com/fwlink/p/?LinkId=399155)5 ~ 8 時間に構成することができます。 このタイムアウトは、web アプリ内でのユーザー操作に依存します。たとえば、ボタンを選択したり、メッセージを選択したりできます。 また、個別にセキュリティで保護されたタイムアウトもあります。これは構成できず、ユーザーのアクティビティに関係なく実行されます。 ユーザーが8時間でログインしている場合、OWA は自動的にユーザーをログアウトし、再認証を要求します。 
+- **Web** 上の outlook-web 上の outlook の標準バージョンでは、Exchange Online ユーザーが outlook ユーザーの場合とほとんど同じようなメッセージングの利便性を備えています。 最新の web ブラウザーをサポートしており、デスクトップやラップトップだけでなく、タブレットやスマートフォンでも使用できるように最適化されています。 ユーザーは、メッセージの読み取りと送信、連絡先の整理、予定および会議のスケジュールを行うことができます。 既定の動作ベースのタイムアウトは6時間に設定されていますが、 [Windows PowerShell の管理者が](https://go.microsoft.com/fwlink/p/?LinkId=399155) 5 ~ 8 時間に構成することができます。 このタイムアウトは、web アプリ内でのユーザー操作に依存します。たとえば、ボタンを選択したり、メッセージを選択したりできます。 また、個別にセキュリティで保護されたタイムアウトもあります。これは構成できず、ユーザーのアクティビティに関係なく実行されます。 ユーザーが8時間でログインしている場合、OWA は自動的にユーザーをログアウトし、再認証を要求します。 
 
-- **Outlook on the web の light バージョン**ライトバージョンの Outlook on the web では、ほとんどすべての web ブラウザーを使用して Exchange Online ユーザーがメールボックスにアクセスできます。 ユーザーは、メッセージの読み取りと送信、連絡先の整理、予定および会議のスケジュールを行うことができます。 既定の動作ベースのタイムアウトは6時間に設定されていますが、 [Windows PowerShell の管理者が](https://go.microsoft.com/fwlink/p/?LinkId=399155)5 ~ 8 時間に構成することができます。 このタイムアウトは、web アプリ内でのユーザー操作に依存します。たとえば、ボタンを選択したり、メッセージを選択したりできます。 また、個別にセキュリティで保護されたタイムアウトもあります。これは構成できず、ユーザーのアクティビティに関係なく実行されます。 ユーザーが8時間でログインしている場合、light バージョンの OWA は自動的にユーザーをログアウトし、再認証を要求します。 
+- **ライトバージョンの outlook on** the web-web 上の outlook のライトバージョンでは、ほぼすべての web ブラウザーを使用して Exchange Online ユーザーがメールボックスにアクセスできるようになります。 ユーザーは、メッセージの読み取りと送信、連絡先の整理、予定および会議のスケジュールを行うことができます。 既定の動作ベースのタイムアウトは6時間に設定されていますが、 [Windows PowerShell の管理者が](https://go.microsoft.com/fwlink/p/?LinkId=399155) 5 ~ 8 時間に構成することができます。 このタイムアウトは、web アプリ内でのユーザー操作に依存します。たとえば、ボタンを選択したり、メッセージを選択したりできます。 また、個別にセキュリティで保護されたタイムアウトもあります。これは構成できず、ユーザーのアクティビティに関係なく実行されます。 ユーザーが8時間でログインしている場合、light バージョンの OWA は自動的にユーザーをログアウトし、再認証を要求します。 
 
 Outlook on the web は、モバイル バージョンでも利用可能です。 詳細については、「[このページ](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)」をご覧ください。
   
@@ -59,12 +65,11 @@ Exchange Online は Microsoft Outlook for Mac をサポートしています。M
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook for iOS、Android、および Windows Phone
 
-Exchange Online は、iOS、Android、および Windows Phone で使用可能な Outlook アプリで動作します。これらのデバイスのいずれかで、アプリ ストアを使用して Outlook アプリを検索します。モバイル OS での概要を次に示します。
+Exchange Online は、iOS、Android、および Windows Phone で使用可能な Outlook アプリで動作します。これらのデバイスのいずれかで、アプリ ストアを使用して Outlook アプリを検索します。モバイル OS での概要を次に示します。<br><br>
   
-|||||
+| デバイス | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
-|デバイス  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook モバイル アプリ利用の可否  <br/> |はい  <br/> [Outlook for Android の入手](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可  <br/> [Outlook for iOS の入手](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |組み込み  <br/> |
+|Outlook モバイル アプリ利用の可否  <br/> |可  <br/> [Outlook for Android の入手](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可  <br/> [Outlook for iOS の入手](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |組み込み  <br/> |
 |Exchange Online と互換性のある組み込みの電子メール アプリ  <br/> |Gmail アプリ/Samsung 電子メール アプリ  <br/> |iOS メール アプリ  <br/> |Outlook メール、予定表、連絡先  <br/> |
 |詳細情報  <br/> |[Android モバイルのセットアップ](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone または iPad のセットアップ](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone のセットアップ](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
@@ -150,7 +155,7 @@ POP3 および IMAP4 接続の詳細については、「[Exchange Server 2013 �
 > [!IMPORTANT]
 > SMTP リレーを行うには、承認済み送信元サーバーの IP アドレスが必要です。SMTP で電子メールを送信するには、トランスポート層セキュリティ (TLS) による暗号化と認証が必要です。 
   
-## <a name="blackberryreg-devices"></a>BlackBerry &reg; デバイス
+## <a name="blackberry-devices"></a>BlackBerry デバイス
 
 電子メールは、BlackBerry &reg; デバイスの Exchange ActiveSync から入手できます。 オプションの詳細については、次のトピックを参照してください。
   

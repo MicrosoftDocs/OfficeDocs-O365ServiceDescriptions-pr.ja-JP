@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
-ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
+ms.openlocfilehash: 9a735338dc1cf99c35058ec7f1ae829d2c081936
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "48170542"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214366"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
 
@@ -133,13 +133,13 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 [ATP Safe Documents](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)機能は、 [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を使用して、[保護ビュー](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)で開かれたドキュメントやファイルをスキャンします。
 
-始める前に把握しておくべき情報
+はじめに把握しておくべき情報
 
 - Office バージョン 2004 (12730) を使用しているユーザーが、安全なドキュメントを使用できるようになりました。 この機能は既定でオフになっており、セキュリティ管理者が有効にする必要があります。
 
 - この機能は、Microsoft 365 E5 または Microsoft 365 E5 セキュリティライセンスを持つユーザーのみが使用できます (Office 365 ATP プランには含まれていません)。
 
-- Windows では Word、Excel、PowerPoint、Visio、iOS および Androi dデバイスでは Office アプリ
+- Windows 上の Word、Excel、および PowerPoint
 
 - Microsoft Teams チャンネルおよびチャット
 
