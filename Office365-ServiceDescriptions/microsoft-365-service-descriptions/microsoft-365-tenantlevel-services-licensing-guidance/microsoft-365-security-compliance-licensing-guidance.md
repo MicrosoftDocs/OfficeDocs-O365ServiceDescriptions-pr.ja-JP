@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214386"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245732"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -168,11 +168,11 @@ Office 365 E1/A1/E3/A3 および Microsoft 365 E3/A3 ライセンスを持つお
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-コンプライアンスマネージャーは、テナントに対して既定でプロビジョニングされます。 管理者は、ユーザーのアクセス許可を設定して、組織内の管理者以外のユーザーがコンプライアンスマネージャーの使用を開始できるように、役割を割り当てます。 詳細については、「 [ドキュメント](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)」を参照してください。
+コンプライアンスマネージャーは、テナントに対して既定でプロビジョニングされます。 管理者は、ユーザーのアクセス許可を設定して、組織内の管理者以外のユーザーがコンプライアンスマネージャーの使用を開始できるように、役割を割り当てます。 詳細については、「コンプライアンスマネージャーの使用を開始する」を参照してください [。ユーザーの権限を設定し、役割を割り当て](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)ます。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-コンプライアンスマネージャーへのアクセスは、ユーザーのアクセス許可の設定と役割の割り当てによって制御されます。 詳細については、「[ドキュメント](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)」を参照してください。
+コンプライアンスマネージャーへのアクセスは、ユーザーのアクセス許可の設定と役割の割り当てによって制御されます。 詳細については、「コンプライアンスマネージャーの使用を開始する」を参照してください [。ユーザーの権限を設定し、役割を割り当て](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)ます。
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -489,11 +489,11 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に、例を示します。
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:<br><br>
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
-|:-------|:------|
-| 2つのグループ (グループ1とグループ 2) は相互に通信できません (つまり、グループ1のユーザーはグループ2ユーザーとの通信を制限され、グループ2ユーザーはグループ1ユーザーとの通信を制限されます。 | グループ1とグループ2の両方のユーザー ||
+|:------|:------|:------|
+| 2つのグループ (グループ &nbsp; 1 とグループ &nbsp; 2) は相互に通信できません (つまり、グループ1のユーザーは &nbsp; グループ &nbsp; 2 ユーザーとの通信を制限され、グループ2ユーザーはグループ1ユーザーとの通信を制限され &nbsp; &nbsp; ます。 | グループ &nbsp; 1 とグループ2の両方のユーザー &nbsp; |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 

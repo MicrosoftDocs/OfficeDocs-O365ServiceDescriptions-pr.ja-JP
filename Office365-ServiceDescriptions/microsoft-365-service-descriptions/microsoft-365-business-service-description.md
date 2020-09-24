@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium は、ビジネスを保護するために、高度なセキュリティとデバイスの管理機能によってクラス最高の生産性を実現する統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
-ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
+ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947831"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245712"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium サービスの説明
 
@@ -22,11 +22,10 @@ Microsoft 365 Business Premium は、高度な脅威からビジネスを保護�
   
 ## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>Microsoft 365 Business Standard および Microsoft 365 Business Premium プランで利用できる機能
 
-Microsoft 365 Business Premium には、基本的に Microsoft 365 Business Standard で利用可能なすべての機能と、その他の Microsoft セキュリティ機能が含まれています。
+Microsoft 365 Business Premium には、基本的に Microsoft 365 Business Standard で利用可能なすべての機能と、その他の Microsoft セキュリティ機能が含まれています。<br><br>
 
-||||
+| プランのオプション | Microsoft 365 Business Standard | Microsoft 365 Business Premium |
 |:-----|:-----|:-----|
-|**プランのオプション** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Office 365 プラットフォーム  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |
@@ -86,22 +85,19 @@ Microsoft 365 Business Premium には、基本的に Microsoft 365 Business Stan
 |Azure AD 参加を使用した Windows 10 の Enterprise State Roaming  <br/> |いいえ  <br/> |はい  <br/> |
 |セルフサービスの BitLocker 回復  <br/> |いいえ  <br/> |はい  <br/> |
 |Windows Virtual Desktop <br/> |いいえ <br/> |はい <br/> |
-
-|||
-|:-----|:-----|
 |**Windows 10 Pro 管理** <br/>Windows 7 と 8.1 Professional がライセンスされているデバイスがある場合、Microsoft 365 Business Premium は Windows 10 Pro へのアップグレードを提供<sup>します。</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Windows AutoPilot による簡略化された展開  <br/> |はい  <br/> |
-|サブスクリプションのアクティブ化  <br/> |必要  <br/> |
-|アイドル時のデバイス画面の組織的な制御  <br/> |必要  <br/> |
-|Microsoft Store からのアプリへのユーザーアクセスの組織的な制御  <br/> |必要  <br/> |
-|Cortana へのユーザーアクセスの組織的な制御  <br/> |必要  <br/> |
+|サブスクリプションのアクティブ化  <br/> |はい  <br/> |
+|アイドル時のデバイス画面の組織的な制御  <br/> |はい  <br/> |
+|Microsoft Store からのアプリへのユーザーアクセスの組織的な制御  <br/> |はい  <br/> |
+|Cortana へのユーザーアクセスの組織的な制御  <br/> |はい  <br/> |
 |Microsoft による Windows のヒントと広告の組織的な制御  <br/> |はい  <br/> |
 |Windows 10 デバイスを自動的に最新の状態に保つ  <br/> |はい  <br/> |
 |**Windows 10 のセキュリティ** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Windows Defender ウイルス対策を使用して、PC をウイルスやその他の脅威から保護する  <br/> |はい  <br/> |
 |Microsoft Edge で Web ベースの脅威から PC を保護する  <br/> |はい  <br/> |
-|デバイスに対する攻撃面を縮小するルールを使用する <br/> |必要  <br/> |
-|フォルダーをランサムウェアなどの脅威から保護する <br/> |必要  <br/> |
+|デバイスに対する攻撃面を縮小するルールを使用する <br/> |はい  <br/> |
+|フォルダーをランサムウェアなどの脅威から保護する <br/> |はい  <br/> |
 |Bitlocker を使用した不正アクセスから PC のファイルとフォルダーを保護する <br/> |はい  <br/> |
 
 ### <a name="notes"></a>Notes

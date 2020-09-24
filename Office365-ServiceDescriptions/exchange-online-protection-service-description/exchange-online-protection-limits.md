@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定がない限り構成できません。
-ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: a2f7db904cf837f1441222d7867d2abb6fd70733
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134054"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245702"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
@@ -47,9 +47,10 @@ ms.locfileid: "48134054"
     
 ### <a name="limits-across-eop-options"></a>各 EOP オプションでの制限
 
-|**機能**|****EOP スタンドアロン****|****EOP 機能Exchange Online****|****Exchange Enterprise CAL (サービス付き)****|
+| 機能 | EOP スタンドアロン | Exchange Online の EOP 機能 | Exchange Enterprise CAL (サービス付き) |
 |:-----|:-----|:-----|:-----|
 |ドメインの制限  <br/> |900  <br/> |900  <br/> |900  <br/> |
+|リモートドメインの制限  <br/> |200  <br/> |200  <br/> |200  <br/> |
 |メッセージ サイズの制限 (添付ファイルを含む)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |受信者の制限  <br/> |上記の "受信者の制限" を参照  <br/> |ホストされているメールボックスから送信する場合は、500 人の受信者。その他のシナリオについては、上記の "受信者の制限" を参照  <br/> |上記の "受信者の制限" を参照  <br/> |
 |差出人セーフ リストの制限  <br/> |1024 エントリ  <br/> |1024 エントリ  <br/> ||
