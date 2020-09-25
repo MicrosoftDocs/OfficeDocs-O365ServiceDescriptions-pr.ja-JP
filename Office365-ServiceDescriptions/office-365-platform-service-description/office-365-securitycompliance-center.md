@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ &amp; コンプライアンスセンターは、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300531"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261599"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -25,11 +25,10 @@ ms.locfileid: "47300531"
 
 ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Security &amp; Compliance Center availability for Business and Enterprise plans
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;ビジネスおよびエンタープライズプランのセキュリティコンプライアンスセンターの可用性
 
-|||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1、Office 365 US Government G1 | Office 365 E3、Office 365 US Government G3 | Office 365 E5 | Office 365 F3、Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**、 **Office 365 US Government G1**  |**Office 365 Enterprise E3**、 **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise f3**  **Office 365 US Government f3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |いいえ   |いいえ   |いいえ|いいえ   |いいえ   |はい   |
 |[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
@@ -57,7 +56,6 @@ ms.locfileid: "47300531"
 |[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ |はい   |いいえ   |
 |[特権アクセス管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
 |[顧客キー](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |
-|||||||||
 
 <sup>1</sup> 情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。 これらの機能は E3 および E5 で使用できます。これは、制限のある E1 のみを使用します。 E1、E3、E5 で使用可能な機能の完全な一覧については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ ms.locfileid: "47300531"
 
 <sup>5</sup> Advanced EDiscovery は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)
 
-<sup>6</sup> Advanced Threat Protection は、Office 365 enterprise E5 および Office 365 enterprise E1 および Office 365 enterprise E3 のスタンドアロンサービスとして提供されています。
+<sup>6</sup> Advanced Threat Protection は、Office 365 E5 および Office 365 E1 および Office 365 E3 のスタンドアロンサービスとして提供されています。
 
 <sup>7</sup> Microsoft Teams リポジトリに格納されているファイルが含まれます。
 
@@ -85,11 +83,10 @@ ms.locfileid: "47300531"
 
 <sup>13</sup> には、Machine Learning ベースのラベル付け (trainable 分類子) は含まれていません。
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;スタンドアロンプランのセキュリティコンプライアンスセンターの可用性
 
-|||||||||
+| 機能 | Exchange Online プラン 1 | Exchange Online プラン 2 | Exchange Online Kiosk | SharePoint Online プラン 1 | SharePoint Online プラン 2 | OneDrive for Business プラン 1 | OneDrive for Business (プラン 2) | Skype for Business Online プラン 1 | Skype for Business Online プラン 2|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能**  |**Exchange Online プラン 1**  |**Exchange Online プラン 2**  |**Exchange Online Kiosk**  |**SharePoint Online プラン 1**  |**SharePoint Online プラン 2**  |**OneDrive for Business プラン 1** |**OneDrive for Business プラン 2** |**Skype for Business Online プラン 1**  |**Skype for Business Online プラン 2**  |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |はい   |はい   |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |いいえ   |はい   |
 |[脅威の管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)(メールフィルタリング、マルウェア対策など)   |はい   |はい   |はい   |はい   |はい   |はい   |はい   |はい   |はい   |
@@ -113,7 +110,6 @@ ms.locfileid: "47300531"
 |[Office 365 Message Encryption (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |いいえ|いいえ|いいえ|
 |[Office 365 Advanced Message Encryption](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |いいえ|いいえ|いいえ|
 |[特権アクセス管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |いいえ   |いいえ   |いいえ   |いいえ   |はい   |いいえ   |いいえ|いいえ|いいえ|
-|||||||||
 
 <sup>1</sup> 情報ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、および手動で適用できます。ドライブ出荷またはネットワーク経由でデータをインポートします。 これらの機能は E3 および E5 で使用できます。これは、制限のある E1 のみを使用します。 E1、E3、E5 で使用可能な機能の完全な一覧については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ ms.locfileid: "47300531"
 
 <sup>4</sup> Skype の会話は、メールボックスの一部として保存されます。
 
-<sup>5</sup> Advanced eDiscovery には、Office 365 Enterprise E5 またはアドオンライセンスが必要です。
+<sup>5</sup> Advanced eDiscovery には、Office 365 E5 またはアドオンライセンスが必要です。
 
 <sup>6</sup> Skype アーカイブは、ユーザーのメールボックス内にあります。
 

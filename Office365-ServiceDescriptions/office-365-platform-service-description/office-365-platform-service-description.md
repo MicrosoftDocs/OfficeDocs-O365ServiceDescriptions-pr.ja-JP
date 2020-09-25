@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: 4cd10893dd4e04970cd16bdbee829fdc0448cdae
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134004"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261529"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
@@ -87,36 +87,36 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 - Office 365 Germany:[Office 365 Germany のプラン](https://go.microsoft.com/fwlink/?linkid=839016)
     
 一部の Microsoft 365 for business プランには、サブスクリプションのために購入できるアドオンが用意されています。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「 [アドオンを購入または編集する](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)」の「さまざまなバージョンの Microsoft 365 で利用できるアドオン」を参照してください。
+<br><br>
   
-|||||||||
+| 機能 | Microsoft 365 Business Basic | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
-|**[Microsoft 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
+|**[Microsoft 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
 |Microsoft 365 管理センターまたは Windows PowerShell を使用して Office 365 を管理する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
 |**[Microsoft 365 スイート機能](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft ブリーフィングメール<sup>20</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Power Automate  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>12</sup> <br/> |
+|Microsoft Power Automate  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Graph API  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft MyAnalytics<sup>18</sup>  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Microsoft Planner  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft PowerApps  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> | 
-|Web 用 Microsoft Project <sup>21</sup> <br/> |はい <br/> |いいえ <br/>|はい <br/> |はい <br/> |はい <br/> |はい <br/> | はい <br/> |
+|Microsoft Planner  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft PowerApps  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> | 
+|Web 用 Microsoft Project <sup>21</sup> <br/> |必要 <br/> |いいえ <br/>|はい <br/> |はい <br/> |はい <br/> |はい <br/> | はい <br/> |
 |Microsoft StaffHub  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft Stream  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
+|Microsoft Stream  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |はい<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
 |Microsoft Delve  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
-|Microsoft 365 グループ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 グループ  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 ビデオ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>11</sup> <br/> |
 |OneNote Class Notebook  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>13</sup> <br/> |はい  <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい <br/> |
 |Microsoft Search|いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br/> |
 |**[ユーザー アカウント管理](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |クラウド ID、フェデレーション ID、多要素認証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Office 365 デスクトップ セットアップ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Office 365 デスクトップ セットアップ  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |.csv ファイルを使用した一括アップロード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ディレクトリ同期ツール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange のシンプルな (一括) 移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |

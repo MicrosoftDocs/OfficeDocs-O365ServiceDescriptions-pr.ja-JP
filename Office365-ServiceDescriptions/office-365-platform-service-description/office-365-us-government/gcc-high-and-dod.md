@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Office 365 コマーシャル環境と比較した Office 365 GCC High および DoD 環境の固有のコミットメントと相違点について説明します。
-ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214336"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261519"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
 
@@ -22,9 +22,9 @@ ms.locfileid: "48214336"
   
 詳細を確認したり、検証プロセスを開始したりするには、アカウントチームや優先パートナーに連絡してください。 購入方法の詳細については、「 [Microsoft 365 Government-購入方法](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)」を参照してください。
   
-## <a name="how-to-use-this-service-description-section"></a>このサービスの説明セクションの使用方法
+## <a name="how-to-use-this-service-description"></a>このサービスの説明を使用する方法
 
-Office 365 US Government サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
+Office 365 US Government サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 エンタープライズ向け Office 365 と比較して、固有のコミットメントと相違点を定義します。
   
 ## <a name="compliance"></a>コンプライアンス
 
@@ -38,11 +38,10 @@ Office 365 の国防総省サブスクライバーは、DOD SRG L5 に適合す�
   
 ## <a name="background-screening"></a>背景調査
 
-Office 365 のスタッフには、GCC High および DoD 製品への永続的なアクセス権がありません。 顧客コンテンツへのアクセスを許可する、一時的なアクセス許可昇格を要求するスタッフは、まず、次のバックグラウンドチェックに合格している必要があります。
+Office 365 のスタッフには、GCC High および DoD 製品への永続的なアクセス権がありません。 顧客コンテンツへのアクセスを許可する、一時的なアクセス許可昇格を要求するスタッフは、まず、次のバックグラウンドチェックに合格している必要があります。<br><br>
   
-|||
+| Microsoft の人事審査と背景のチェック<sup>1</sup> | 説明 |
 |:-----|:-----|
-|**Microsoft の人事審査と背景のチェック**<sup>1</sup> <br/> |**説明** <br/> |
 |アメリカ国籍  <br/> |アメリカ国籍の確認  <br/> |
 |職歴チェック  <br/> |過去 7 年間の職歴の確認  <br/> |
 |学歴の確認  <br/> |最終学歴の検証  <br/> |
@@ -78,7 +77,7 @@ GCC High および DoD 環境のサブスクリプションには、Exchange Onl
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**電話システムと電話会議 (直接ルーティング経由)**: スマートフォンシステムと電話会議 (GCC High および DoD 環境) は直接ルーティングによって配信されています。 詳細については、以下のサービスレベルのドキュメントを参照してください。
+**電話システムと電話会議 (直接ルーティング経由)** -音声システムと電話会議 (GCC High および DoD 環境) は直接ルーティングによって配信されています。 詳細については、以下のサービスレベルのドキュメントを参照してください。
 
 - [直接ルーティング経由の電話システム](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [GCC High および DoD のダイレクト ルーティングを使用する電話会議](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
@@ -89,7 +88,7 @@ GCC High および DoD 環境のサブスクリプションには、Exchange Onl
   
 ### <a name="yammer"></a>Yammer
 
-Yammer Enterprise は、GCC High および DoD 環境では使用できません。
+Yammer for enterprise は、GCC High および DoD 環境では使用できません。
   
 ## <a name="customer-support"></a>顧客サポート
 
