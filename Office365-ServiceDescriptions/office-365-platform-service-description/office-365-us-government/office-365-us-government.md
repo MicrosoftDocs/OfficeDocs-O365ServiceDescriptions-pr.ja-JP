@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 この記事では、Office 365 Government US 環境に固有の機能の概要について説明します。
-ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fb01c4815536695f8b8ccf4c3d9ef003cd0cb071
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131731"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276776"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -29,9 +29,9 @@ ms.locfileid: "45131731"
 > 
 >このような特別な時間にサービスが利用可能かつ信頼できることを確認するための手順を実行していただき、サポートを受けていただきありがとうございます。<br/> 
 
-米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このセクションでは、Office 365 Government US 環境に固有の機能の概要について説明します。 この補足セクションは、 [Microsoft 365 および Office 365 サービスの説明](../../office-365-service-descriptions-technet-library.md)と共に参照することをお勧めします。
+米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 このサービスの説明は、Office 365 Government US 環境に固有の機能の概要を示しています。 このサービスの説明は、その他の [Microsoft 365 および Office 365 サービス](../../office-365-service-descriptions-technet-library.md)の説明と共に読むことをお勧めします。
   
-## <a name="how-to-use-this-service-description"></a>このサービスの説明の使用方法
+## <a name="how-to-use-this-service-description"></a>このサービスの説明を使用する方法
 
 Office 365 US Government サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 Office 365 Enterprise 製品と比較した独自のコミットメントと相違点を定義します。
   
@@ -55,13 +55,13 @@ Office 365 US Government には、Office 365 の特長と機能に加え、次�
   
 ## <a name="customer-eligibility"></a>お客様の適格性
 
-Office 365 US Government を使用できるのは、(1) 米国連邦、州、地方、部族、地域関連の行政機関と、(2) 政府の規制や要件の対象となるデータを取り扱い、Office 365 US Government を使用することがこれらの要件を満たす上で適切な、適格性の検証の対象となるその他の機関です。Microsoft による適格性の検証には、武器国際取引に関する規制 (ITAR) の対象となるデータ、FBI の米国刑事司法情報サービス (CJIS) ポリシーの対象となる法律施行データ、またはその他の政府が規制または制御するデータの取り扱いに関する検証が含まれます。検証には、ITAR データに関する米国国務省への登録の証明や、データの取り扱いに関する特定の要件についての政府機関による公的支援が必要な場合があります。Office 365 DoD 環境は、米国国防総省専用です。
+Office 365 US Government は、(1) 米国連邦、州、地方、エスニック、および territorial government の各エンティティと (2) 政府の規制および要件を満たすデータを処理するその他のエンティティ (2)、およびこれらの要件を満たすために Office 365 US Government を使用することが適切である場合に使用できます。 Microsoft による適格性の検証には、武器国際取引に関する規制 (ITAR) の対象となるデータ、FBI の米国刑事司法情報サービス (CJIS) ポリシーの対象となる法律施行データ、またはその他の政府が規制または制御するデータの取り扱いに関する検証が含まれます。 検証には、ITAR データに関する米国国務省への登録の証明や、データの取り扱いに関する特定の要件についての政府機関による公的支援が必要な場合があります。 Office 365 DoD 環境は、米国国防総省専用です。
   
 資格の基準は Office 365 Government の各オファーリング間で一貫していますが、Microsoft は、ITAR 契約言語に対して GCC の高環境用にのみ同意します。
   
 Office 365 US Government の適格性に関してご質問がある機関は、アカウント チームにお問い合わせください。
   
-お客様の Office 365 US Government の契約の更新時には、適格性の再検証が必要になります。
+Office 365 US Government のお客様の契約の更新時には、適格性の再検証が必要になります。
   
 ## <a name="customer-content-located-within-the-united-states"></a>米国内の顧客コンテンツ
 
@@ -86,7 +86,7 @@ Office 365 では、サードパーティ製のアプリケーションを Share
   
 ## <a name="restricted-data-access-by-administrators"></a>管理者に制限されたデータ アクセス
 
-Microsoft 管理者による Office 365 US Government のお客様のコンテンツへのアクセスは、スクリーン担当者に制限されています。 審査レベルの詳細については、それぞれの環境 (GCC または GCC High および DoD) について、「サービスの説明」ページを参照してください。 
+Microsoft 管理者による Office 365 US Government のお客様のコンテンツへのアクセスは、スクリーン担当者に制限されています。 審査レベルの詳細については、それぞれの環境 (GCC または GCC High および DoD) のサービスの説明ページを参照してください。 
 
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack センターのオンボードアシスタント
@@ -97,22 +97,21 @@ Office 365<sup>1</sup>の Fasttrack センターの特典を使用すると、Fa
   
 - コアオンボード-これらは、必要に応じて、テナントの構成と Azure Active Directory (Azure AD) との統合に必要なタスクです。 コア オンボーディングは、他の対象のサービスのオンボーディングのベースラインも提供します。
     
-- サービスオンボードおよび移行サービスのオンボードタスクは、テナント内のシナリオを有効にします。 データ移行 (電子メールやファイルを含む) については、「[データ移行](https://aka.ms/whatcanmigrate)」で説明します。<sup>2</sup>
+- サービスオンボードおよび移行サービスのオンボードタスクは、テナント内のシナリオを有効にします。 データ移行 (電子メールやファイルを含む) については、「 [データ移行](https://aka.ms/whatcanmigrate)」で説明します。<sup>2</sup>
 
 ユーザー導入サービスは、ユーザーが対象となるサービスを認識し、それらを使用してビジネス価値を促進できるようにするためのガイダンスを提供するタスクで構成されています。 この支援は、オンボーディング アクティビティと並行して行われます。
   
-FastTrack センタープロセスの詳細については、[こちら](https://aka.ms/whatistheprocess)を参照してください。 契約の役割と責任の内訳については、 [Fasttrack の責任](https://aka.ms/whatdoesftcdo)だけでなく、[責任](https://aka.ms/whatdowedo)についても確認してください。
+FastTrack センタープロセスの詳細については、 [こちら](https://aka.ms/whatistheprocess)を参照してください。 契約の役割と責任の内訳については、 [Fasttrack の責任](https://aka.ms/whatdoesftcdo) だけでなく、 [責任](https://aka.ms/whatdowedo)についても確認してください。
   
-> <sup>1</sup> fasttrack サービスを受けるには、対象となる[プラン](https://aka.ms/whocanbenefit)のリストから少なくとも50のライセンスを購入する必要があります。
-<br/><sup>2</sup>データ移行サービスは、500またはそれ以上のライセンスを持つ Office 365 テナントで使用できます。
+> <sup>1</sup> fasttrack サービスを受けるには、対象となる [プラン](https://aka.ms/whocanbenefit) のリストから少なくとも50のライセンスを購入する必要があります。
+<br/><sup>2</sup> データ移行サービスは、500またはそれ以上のライセンスを持つ Office 365 テナントで使用できます。
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack によって実行されたデータ移行
 
-[Fasttrack](https://fasttrack.microsoft.com/)移行特典を選択する場合は、データ移行を管理するチームへのアクセス権を付与する必要があります。 これらの人員は米国市民で、Office 365 US Government サービスのお客様に移行を実行する前に、次のバックグラウンドチェックが行われています。
+[Fasttrack](https://fasttrack.microsoft.com/)移行特典を選択する場合は、データ移行を管理するチームへのアクセス権を付与する必要があります。 これらの人員は米国市民で、Office 365 US Government サービスのお客様に移行を実行する前に、次のバックグラウンドチェックが行われています。<br><br>
   
-||||
+| 背景調査 | GCC | GCC High および DoD |
 |:-----|:-----|:-----|
-|**背景の審査** <br/> |**GCC** <br/> |**GCC High および DoD** <br/> |
 |米市民権の確認  <br/> |はい  <br/> |はい  <br/> |
 |雇用履歴チェック  <br/> |はい  <br/> |はい  <br/> |
 |教育機関の確認  <br/> |はい  <br/> |はい  <br/> |
@@ -133,42 +132,40 @@ Office 365 US Government プランのシステム要件については、[office
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
-セキュリティ &amp; コンプライアンスセンターおよび追加情報と可用性へのリンクについては、「[セキュリティ &amp; コンプライアンスセンター](../../office-365-platform-service-description/office-365-securitycompliance-center.md)」を参照してください。
+セキュリティ &amp; コンプライアンスセンターおよび追加情報と可用性へのリンクについては、「 [セキュリティ &amp; コンプライアンスセンター](../../office-365-platform-service-description/office-365-securitycompliance-center.md)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
-各 Office 365 プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。次の表に、各 Office 365 US Government プランで使用できるサービスを示します。
+各 Office 365 プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。次の表に、各 Office 365 US Government プランで使用できるサービスを示します。<br><br>
   
-||||||
+| Office 365 サービス | Office 365 Government G1 | Office 365 Government G3 | Office 365 Government G5 | Office 365 Government F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Office 365 サービス** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F3** <br/> |
-|Web 用 Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 Apps for enterprise  <br/> |いいえ <br/> |○ <br/> |はい <br/> |いいえ  <br/> |
+|Webアプリ上の Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365 Apps for enterprise  <br/> |いいえ <br/> |はい <br/> |はい <br/> |いいえ  <br/> |
 |Exchange Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online Protection  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SharePoint Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Skype for Business (Instant Messaging &amp; Presence)  <br/> |はい<sup>1</sup> <br/> |はい  <br/> |あり  <br/> |はい<sup>1</sup> <br/> |
-| 音声ビデオシステム、電話会議  <br/> |No<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい <sup>5</sup> <br/> |いいえ  <br/> |
-|Power BI Pro  <br/> |No<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
-|Project Online  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |
+|Skype for Business (Instant Messaging &amp; Presence)  <br/> |はい<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい<sup>1</sup> <br/> |
+| 音声ビデオシステム、電話会議  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい <sup>5</sup> <br/> |いいえ  <br/> |
+|Power BI Pro  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
+|Project Online  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |
 |Web 用 Visio  <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |<sup>6</sup>なし <br/> |
 |Yammer Enterprise  <br/> |いいえ<sup>4</sup> <br/> |いいえ<sup>4</sup> <br/> |いいえ<sup>4</sup> <br/> |いいえ<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Enterprise、G3、および G5 用の Microsoft 365 Apps には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。
-<br/><sup>2</sup>含まれていませんが、個別のアドオンとして購入できます。 Project Online には、サブスクリプションの一部として Project Online デスクトップクライアントが含まれています。
-<br/> <sup>3</sup>現時点では GCC High または DoD プランでは利用できませんが、近日中に提供されます。 
+<br/><sup>2</sup> 含まれていませんが、個別のアドオンとして購入できます。 Project Online には、サブスクリプションの一部として Project Online デスクトップクライアントが含まれています。
+<br/> <sup>3</sup> 現時点では GCC High または DoD プランでは利用できませんが、近日中に提供されます。 
 <br/><sup>4</sup> Yammer エンタープライズは OFFICE 365 US Government のコンポーネントではありませんが、GCC で office 365 のライセンスを供与された各ユーザーに対してスタンドアロンの提案として無償で購入することができます。 この提供は現在、エンタープライズ契約およびエンタープライズ サブスクリプション契約に基づいて Office 365 GCC を購入するお客様に限定されています。 Yammer は、GCC High または DoD では利用可能ではありません。
-<br/><sup>5</sup>通話プランはアドオンです。 
-<br/><sup>6</sup>含まれていませんが、個別のアドオンとして購入できます。 Visio for the web には、サブスクリプションの一部として Visio デスクトップアプリが含まれています。
+<br/><sup>5</sup> 通話プランはアドオンです。 
+<br/><sup>6</sup> 含まれていませんが、個別のアドオンとして購入できます。 Visio for the web には、サブスクリプションの一部として Visio デスクトップアプリが含まれています。
 
 ## <a name="platform-features"></a>プラットフォーム機能 
 
-以下の表は、Office 365 US Government プラン全体で利用可能なプラットフォームの機能やサービスの一覧です。
+以下の表は、Office 365 US Government プラン全体で利用可能なプラットフォームの機能やサービスの一覧です。<br><br>
   
-||||||
+| 機能 | Office 365 Government G1 | Office 365 Government G3 | Office 365 Government G5 | Office 365 Government F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F3** <br/> |
 |**Office 365 管理** <br/> |||||
 |Microsoft 365 管理センターを使用して Office 365 を管理する  <br/> |Yes<sup>16</sup> <br/> |Yes<sup>16</sup> <br/> |はい  <br/> |Yes<sup>16</sup> <br/> |
 |Office 365 からのコア サービスの設定の管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -261,7 +258,7 @@ Office 365 US Government プランのシステム要件については、[office
 |顧客ロックボックス  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |はい <br/> |<sup>12</sup> <br/> |
 |Advanced eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |はい  <br/> |<sup>12</sup> <br/> |
 |セキュリティ スコア<sup>14</sup> <br/> |Yes<sup>9、15</sup> <br/> |はい (<sup>9</sup> ) <br/> |Yes<sup>9、15</sup> <br/> |Yes<sup>9、15</sup> <br/> |
-|Office メッセージの暗号化  <br/> |いいえ  <br/> |○ <br/> |はい <br/> |いいえ  <br/> |
+|Office メッセージの暗号化  <br/> |いいえ  <br/> |はい <br/> |はい <br/> |いいえ  <br/> |
 |脅威インテリジェンス  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |はい <br/> |<sup>12</sup> <br/> |
 |**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -283,103 +280,102 @@ Office 365 US Government プランのシステム要件については、[office
 |**[製品使用権](../../office-365-platform-service-description/product-use-rights.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、Microsoft 365 Apps for enterprise のサブスクリプションが必要です。これは、Office 365 Government G1 または Office 365 Government F3 には含まれていません。 > 
-<br/><sup>2</sup>既存の bbcs および BIS お客様は、サービスを引き続き使用できます。 新規のお客様の受け付けはしていません。 
-<br/><sup>3</sup>ディレクトリ同期を使用する場合は、Office 365 ポータルではなく Active directory を使用するか、Windows PowerShell の Azure Active directory モジュールを使用して、アカウントを削除するか、パスワードを変更する必要があります。 
-<br/><sup>4</sup>パスワード同期を使用する場合、ユーザーはローカルの Active Directory でパスワードを変更する必要があります。 
-<br/><sup>5</sup>ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 
-<br/><sup>6</sup>以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 この場合、パブリック Web サイトが 2 つあっても、どちらか一方のサイトしかカスタム ドメイン名でホストすることができません。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「 [365 Office web サイトホスティングとパブリック web サイトについて」](https://go.microsoft.com/fwlink/p/?LinkID=325009)を参照してください。 
-<br/><sup>7</sup>年割引を使用して購入された座席は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>8</sup>以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 Office 365 government G1、Office 365 government G3、Office 365 government F3。 
-<br/><sup>9</sup>現時点では GCC では使用できませんが、近日中に公開されています。
-<br/><sup>10</sup> for Office 365 Government G1、G3、および F3、対象指定リリース、および office 365 for business ロードマップが適用されます。ただし、[コンプライアンス要件](https://www.microsoft.com/trust-center)により、特定のサービス更新に関して何らかの相違や遅延が発生する場合があります。
-<br/><sup>11</sup>まだ Office 365 Government では利用できませんが、近日中に提供されています。 
-<br/><sup>12</sup>含まれていませんが、GCC で個別のアドオンとして購入できます。 
+<br/><sup>2</sup> 既存の bbcs および BIS お客様は、サービスを引き続き使用できます。 新規のお客様の受け付けはしていません。 
+<br/><sup>3</sup> ディレクトリ同期を使用する場合は、Office 365 ポータルではなく Active directory を使用するか、Windows PowerShell の Azure Active directory モジュールを使用して、アカウントを削除するか、パスワードを変更する必要があります。 
+<br/><sup>4</sup> パスワード同期を使用する場合、ユーザーはローカルの Active Directory でパスワードを変更する必要があります。 
+<br/><sup>5</sup> ユーザーのセルフサービスのパスワード管理ポリシーを設定する方法については、「 [Azure AD でパスワードを管理](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)する」を参照してください。 
+<br/><sup>6</sup> 以前のバージョンの office 365 からアップグレードしていない場合は、office 365 でパブリック web サイトを1つしか使用できません。 この場合、パブリック Web サイトが 2 つあっても、どちらか一方のサイトしかカスタム ドメイン名でホストすることができません。 ビジネスサブスクリプションで2つの web サイトを操作する方法の詳細については、「 [2 つの Office 365 パブリック web サイトの操作](https://go.microsoft.com/fwlink/p/?LinkID=271589)」を参照してください。 別のサブスクリプションをお持ちの場合は、「 [365 Office web サイトホスティングとパブリック web サイトについて」](https://go.microsoft.com/fwlink/p/?LinkID=325009)を参照してください。 
+<br/><sup>7</sup> 年割引を使用して購入された座席は、早期の解雇料金の対象となる場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
+<br/><sup>8</sup> 以下のプランでは、Microsoft 365 管理センターからのライセンスシートの変更をサポートしていません。 Office 365 government G1、Office 365 government G3、Office 365 government F3。 
+<br/><sup>9</sup> 現時点では GCC では使用できませんが、近日中に公開されています。
+<br/><sup>10</sup> for Office 365 Government G1、G3、および F3、対象指定リリース、および office 365 for business ロードマップが適用されます。ただし、 [コンプライアンス要件](https://www.microsoft.com/trust-center)により、特定のサービス更新に関して何らかの相違や遅延が発生する場合があります。
+<br/><sup>11</sup> まだ Office 365 Government では利用できませんが、近日中に提供されています。 
+<br/><sup>12</sup> 含まれていませんが、GCC で個別のアドオンとして購入できます。 
 <br/><sup>13</sup> Office 365 Government 製品ではサポートされていません。 
-<br/><sup>14</sup>使用可能 [https://securescore.office.com](https://securescore.office.com) です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。
+<br/><sup>14</sup> 使用可能 [https://securescore.office.com](https://securescore.office.com) です。 管理者のアクセス許可が必要です。 詳細については、「 [Office 365 Secure Score の概要](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)」を参照してください。
 ). 
-<br/><sup>15</sup>現時点では DoD 環境では使用できませんが、近日中に提供されます。 
-<br/><sup>16</sup>管理センターには、DoD または GCC の高度な環境での利用状況分析は含まれていません。
+<br/><sup>15</sup> 現時点では DoD 環境では使用できませんが、近日中に提供されます。 
+<br/><sup>16</sup> 管理センターには、DoD または GCC の高度な環境での利用状況分析は含まれていません。
 <br/><sup>17</sup> GCC High または DoD 環境ではサポートされていません。
-<br/><sup>18</sup>マルウェア対策は、ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスについては、GCC High および DoD ではまだ利用できません。
-<br/><sup>19</sup>現時点では GCC 環境では使用できませんが、近日中に提供されます。
-<br/><sup>20 個</sup>の Microsoft Stream のみ: 公開または共有を行いません。 
+<br/><sup>18</sup> マルウェア対策は、ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスについては、GCC High および DoD ではまだ利用できません。
+<br/><sup>19</sup> 現時点では GCC 環境では使用できませんが、近日中に提供されます。
+<br/><sup>20 個</sup> の Microsoft Stream のみ: 公開または共有を行いません。 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Office アプリケーションの可用性とエンタープライズ価値
 
-次の表には、Office 365 US Government プラン全体にわたって利用可能な Office アプリケーション機能が示されています。
+次の表には、Office 365 US Government プラン全体にわたって利用可能な Office アプリケーション機能が示されています。<br><br>
   
-||||||
+| アプリケーション/機能 | Office 365 Government G1 | Office 365 Government G3 | Office 365 Government G5 | Office 365 Government F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F3** <br/> |
-|**Office アプリケーション** <br/> |||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+| **Office アプリケーション** |||||
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft Forms<sup>7</sup>| はい <br/> | はい <br/>| はい <br/> | いいえ <br/> |
-|Microsoft ホワイトボード<sup>7</sup>| いいえ <br/> | ○ <br/> | はい <br/> | いいえ <br/> |
-|[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft ホワイトボード<sup>7</sup>| いいえ <br/> | はい <br/> | はい <br/> | いいえ <br/> |
+|[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |はい<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup> <br/> |
-|[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|[Office for Mac for Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[IPad/iPhone 用 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |はい  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |はい  <br/> |
 |[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |はい  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |はい  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |はい  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |はい  <br/> |
 |Office Mobile for Windows 10 tablets <br/> |はい  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |はい  <br/> |
 |IOS および Android 用の Outlook<sup>5、4</sup>  <br/> |はい <br/> |はい <br/> |はい <br/> |はい <br/> |
 |**企業にとっての利点** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Government F3** <br/> |
-|PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|PC または Mac 上のユーザーごとに 5 個のインストール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |自動化されたユーザー アカウント プロビジョニング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|多言語ユーザー インターフェイス  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|多言語ユーザー インターフェイス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |クライアント プッシュ展開  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
-|社内 Exchange のクライアント サポート  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|社内 SharePoint のクライアント サポート  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|ソフトウェア更新の制御  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|データベース比較  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|デスクトップの仮想化  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|Excel スプレッドシート比較  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|Excel スプレッドシート検査  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|グループ ポリシーのサポート  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|社内 Exchange のクライアント サポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|社内 SharePoint のクライアント サポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|ソフトウェア更新の制御  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|データベース比較  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|デスクトップの仮想化  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Excel スプレッドシート比較  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Excel スプレッドシート検査  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|Exchange Online と SharePoint Online のアーカイブとコンプライアンス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|グループ ポリシーのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Azure Information Protection を使用した Information Rights Management  <br/> |いいえ<sup>1</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |いいえ<sup>1</sup> <br/> |
 |Windows Server AD RMS を使用した Information Rights Management  <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |はい<sup>2</sup> <br/> |
-|Office アドイン、ActiveX、および BHO のサポート  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|Office アドイン、ActiveX、および BHO のサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|OneNote クライアントから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Office Lens  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Office テレメトリ  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
-|クライアント アプリケーションのオフライン サポート  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
-|最適化されたサイド バイ サイド クライアント インストール  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|クライアント アプリケーションのオフライン サポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|最適化されたサイド バイ サイド クライアント インストール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Power Map for Excel  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |Power Pivot for Excel  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |Power Query for Excel  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |Power View for Excel  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |ローミング設定  <br/> |いいえ  <br/> |はい<sup></sup> <br/> |はい<sup></sup> <br/> |いいえ  <br/> |
-|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |○ <br/> |はい <br/> |いいえ  <br/> |
-|クラウドベース ファイル ストレージのブロックのサポート  <br/> |いいえ  <br/> |○  <br/> |はい  <br/> |いいえ  <br/> |
+|共有コンピューターのライセンス認証  <br/> |いいえ  <br/> |はい <br/> |はい <br/> |いいえ  <br/> |
+|クラウドベース ファイル ストレージのブロックのサポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |バージョン アップグレード  <br/> |いいえ  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |いいえ  <br/> |
 |Volume activation (KMS/MAK)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、Microsoft 365 Apps for enterprise のサブスクリプションが必要です。これは、Office 365 Government G1 または Office 365 Government F3 には含まれていません。 
 <br/><sup>2</sup> WINDOWS SERVER AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。 
 <br/><sup>3</sup> Skype For business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Microsoft 365 Apps for enterprise、および Office 365 Enterprise E3 には、高度なテレフォニーサポート、アーカイブ、コンプライアンス機能などの追加機能が含まれる、完全な Skype アプリケーションが含まれています。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
-<br/><sup>4</sup>現時点では GCC High または DoD 環境では使用できませんが、近日中に提供されます。
-<br/><sup>5</sup>詳細について[は、「Government Community Cloud で Outlook For iOS と Outlook For Android を使用する](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)」を参照してください。
+<br/><sup>4</sup> 現時点では GCC High または DoD 環境では使用できませんが、近日中に提供されます。
+<br/><sup>5</sup> 詳細について [は、「Government Community Cloud で Outlook For iOS と Outlook For Android を使用する](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 」を参照してください。
 <br/><sup>6</sup> Office 365 DoD 環境ではまだ使用できませんが、近日中に提供されます。
-<br/><sup>7</sup>アプリケーションは、現時点では利用できない特定の機能を除き、政府機関のクラウドで完全に使用できます。 詳細については、「 [Office アプリケーション機能の可用性](#office-application-and-feature-availability-in-government-plans)」を参照してください。
+<br/><sup>7</sup> アプリケーションは、現時点では利用できない特定の機能を除き、政府機関のクラウドで完全に使用できます。 詳細については、「 [Office アプリケーション機能の可用性](#office-application-and-feature-availability-in-government-plans) 」を参照してください。
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>政府機関向けプランで利用できる Office アプリケーションと機能
 
-政府機関向けクラウドで利用できる Office アプリケーションは次のとおりです。ただし、表で、表に示されるとおり、一部のクラウドベース機能は現在利用できない可能性があります。
+政府機関向けクラウドで利用できる Office アプリケーションは次のとおりです。ただし、表で、表に示されるとおり、一部のクラウドベース機能は現在利用できない可能性があります。<br><br>
 
-|||||
+| アプリケーション/機能 | GCC | GCC High | DOD |
 |-----|-----|-----|-----|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用でき **ません** 。 ||||
 |3D 埋め込みアニメーションと 3D モデル | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |データ型 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |フラッシュ フィル | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |Ideas (Insight サービス) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
-|強化された PowerBI との統合 (カスタム ビジュアル、PBI グラフを直接 Excel から作成) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
+|Power BI との統合の強化 (カスタムビジュアル、Excel からの直接 PBI グラフの作成) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |Intelligent Digital Ink | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |Office 365 グループ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |ピボットテーブルに接続されたピボットグラフ データ | いいえ <br/> | いいえ <br/> | いいえ <br/> |
@@ -390,23 +386,23 @@ Office 365 US Government プランのシステム要件については、[office
 |スマート検索 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |グラフ: サンバーストツリー、ウォーターフォール、ヒストグラム、地図、タイムライン、じょうご | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |バージョン履歴 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用でき **ません** 。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |メール通知 | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ <br/> | 
 |画像の挿入 | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ <br/> |
 |ビデオの挿入 | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ <br/> |
 |数学 | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ <br/> |
 |Office との統合 | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ <br/> |
 |最近使用したグループ フォーム | いいえ<sup>4</sup> <br/> | はい <br/> | はい <br/> |
-|外部共有<sup>3</sup> | はい <br/> | いいえ <br/> | いいえ <br/> |
+|外部共有 <sup>3</sup> | はい <br/> | いいえ <br/> | いいえ <br/> |
 |フォーム Pro | いいえ | いいえ | いいえ |
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、この時点では利用できません。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、この時点では利用でき **ません** 。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |リサーチ ツール | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |Intelligent Digital Ink | いいえ <br/> | いいえ <br/> | いいえ <br/> |
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用でき **ません** 。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Office サウンド (一部) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |動的データ交換 (DDE) が既定で無効になっている | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |ディクテーション | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> |
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用でき **ません** 。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |スマート検索 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |Office サウンド (一部) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |3D モデルと 3D 埋め込みアニメーションと | いいえ <br/> | いいえ <br/> | いいえ <br/> |
@@ -432,7 +428,7 @@ Office 365 US Government プランのシステム要件については、[office
 |リアルタイムのプレゼンス | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |コンテンツへのリアクション | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |ホワイトボードのボード ギャラリー (自分と共有されたものを含む) | いいえ <br/> | いいえ <br/> | いいえ <br/> |
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用できません。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) は、次の機能を除き、政府機関のクラウドで完全に利用できます。ただし、現時点では利用でき **ません** 。 | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |スマート検索 | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |リサーチ ツール | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |Office サウンド  | いいえ <br/> | いいえ <br/> | いいえ <br/> |
@@ -450,7 +446,7 @@ Office 365 US Government プランのシステム要件については、[office
 |共同編集者とのコンテキストに応じたチャット: ドキュメント内の共同編集者とのチャット | いいえ <br/> | いいえ <br/> | いいえ <br/> |
 |ディクテーション | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> | いいえ<sup>1</sup> <br/> |
 
-><sup>1 つ</sup>の利用可能時間。
-<br/><sup>2</sup>ローカル Surface Hub での可用性 (サインインしていない場合)。
-<br/><sup>3 つ</sup>の外部共有が GCC 環境で使用できます。 組織で[Microsoft Forms をオンまたは](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)オフにする方法について説明します。 GCC High および DOD 環境では、外部共有は無効になっています。組織内のユーザーは、フォームを完成させ、応答を送信したり、フォーム[をテンプレートとして複製および共有](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)したり、[フォームで共同編集または共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)を行ったり、[フォームの結果にアクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)したりすることがあります。
-<br/><sup>4</sup>最近のグループフォーム機能は、GCC 環境では無効になっています。 ただし、ユーザーはグループフォームタブで特定のグループを選択することで、グループフォームにアクセスできます。
+><sup>1 つ</sup> の利用可能時間。
+<br/><sup>2</sup> ローカル Surface Hub での可用性 (サインインしていない場合)。
+<br/><sup>3 つ</sup> の外部共有が GCC 環境で使用できます。 組織で [Microsoft Forms をオンまたは](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) オフにする方法について説明します。 GCC High および DOD 環境では、外部共有は無効になっています。組織内のユーザーは、フォームを完成させ、応答を送信したり、フォーム [をテンプレートとして複製および共有](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)したり、 [フォームで共同編集または共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)を行ったり、 [フォームの結果にアクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)したりすることがあります。
+<br/><sup>4</sup> 最近のグループフォーム機能は、GCC 環境では無効になっています。 ただし、ユーザーはグループフォームタブで特定のグループを選択することで、グループフォームにアクセスできます。

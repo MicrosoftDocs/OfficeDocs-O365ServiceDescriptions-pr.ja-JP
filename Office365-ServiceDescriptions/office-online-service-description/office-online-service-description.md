@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Microsoft 365 のお客様は、Word、Excel、OneNote、または PowerPoint を使用して、移動中のファイルを表示、作成、および編集できます。
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616923"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276787"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
 Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、Excel、OneNote、PowerPoint のドキュメントを開きます。 Office for web を使用すると、ほとんどすべてのデバイスから、インターネット接続を使用して、どこからでも Office ファイルを簡単に操作したり共有したりできます。 Microsoft 365 のお客様は、Word、Excel、OneNote、または PowerPoint を使用して、移動中のファイルを表示、作成、および編集できます。 
   
-プラン間で機能を比較するには、「[エンタープライズをサポートするための強力なツール](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。
+プラン間で機能を比較するには、「 [エンタープライズをサポートするための強力なツール](https://products.office.com/business/compare-more-office-365-for-business-plans)」を参照してください。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Web プランの Office で利用できる機能
 
-組織に最適な Office ソリューションを特定するには、どうすればよいですか? 次の表では、web 機能の Office を機能豊富な Microsoft Office デスクトップアプリと比較しています。 表を使用して、Office の web で利用できる機能を確認し、機能の名前を選択して、その機能がどのように機能するかについての簡単な説明を確認します。 組織内の一部のユーザーが Excel デスクトップアプリの高度なグラフ機能を必要としていて、他のユーザーは、Office を使用して web 用の Word ドキュメントと PowerPoint プレゼンテーションを表示したり、軽く編集したりする必要があることがわかっている場合があります。 
+組織に最適な Office ソリューションを判断するのに役立つ情報が必要ですか? 次の表では、web 機能の Office を機能豊富な Microsoft Office デスクトップアプリと比較しています。 表を使用して、Office の web で利用できる機能を確認し、機能の名前を選択して、その機能がどのように機能するかについての簡単な説明を確認します。 組織内の一部のユーザーが Excel デスクトップアプリの高度なグラフ機能を必要としていて、他のユーザーは、Office を使用して web 用の Word ドキュメントと PowerPoint プレゼンテーションを表示したり、軽く編集したりする必要があることがわかっている場合があります。 
   
 > [!NOTE]
 >  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Microsoft 365 enterprise 用アプリは、最新の Office デスクトップスイートの月単位のサブスクリプションサービスです。 <br/>  Microsoft Office Online Server のオンプレミスのお客様は、office デスクトップスイートライセンス (Office Professional Plus、Office Standard、または Microsoft 365 Apps for enterprise license) を購入した場合、web 編集ライセンスの Office を入手できます。 
@@ -36,10 +36,9 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
   
 ### <a name="word"></a>Word
 
-||||
+| アプリケーション機能 | Web 用 Word | Word デスクトップ アプリ |
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**Word for the web** <br/> |**Word デスクトップ アプリ** <br/> |
-|[位置揃えガイドと忠実なレイアウト](word-online.md#alignment-guides-and-live-layout) <br/> |いいえ  <br/> |はい  <br/> |
+|[Alignment guides and live layout](word-online.md#alignment-guides-and-live-layout) <br/> |いいえ  <br/> |はい  <br/> |
 |[スタイルの適用](word-online.md#apply-styles) <br/> |はい  <br/> |はい  <br/> |
 |[自動保存](word-online.md#autosave) <br/> |はい  <br/> |はい  <br/> |
 |[定型句](word-online.md#autotext) <br/> |はい  <br/> |はい  <br/> |
@@ -107,14 +106,13 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[拡大/縮小](word-online.md#zoom) <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>これらはビューアーに表示されますが、Office で web 用に作成または編集することはできません。 <br/>
+> <sup>1</sup> これらはビューアーに表示されますが、Office で web 用に作成または編集することはできません。 <br/>
 > <sup>2</sup> 一部の Office アドインを利用できます。 <br/>
   
 ### <a name="excel"></a>Excel
 
-||||
+| アプリケーション機能 | Web 用 Excel | Excel デスクトップ アプリ |
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**Excel for the web** <br/> |**Excel デスクトップ アプリ** <br/> |
 |[アクセシビリティ チェック](excel-online.md#add-hyperlinks) <br/> |はい  <br/> |はい  <br/> |
 |[シート見出しに背景色を追加する](excel-online.md#add-background-color-to-sheet-tabs) <br/> |はい  <br/> |はい  <br/> |
 |[ハイパーリンクの追加](excel-online.md#add-hyperlinks) <br/> |はい  <br/> |はい  <br/> |
@@ -189,18 +187,17 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[What-If 分析ツール](excel-online.md#what-if-analysis-tools) <br/> |いいえ  <br/> |はい  <br/> |
 
 > [!NOTE] 
-> <sup>1</sup>ピボットグラフ、表示のみを作成することはできません。
- <br/><sup>2</sup>環境の構成方法によっては、Web 用 Excel に表示されるブックで、一部の種類のデータ接続がサポートされます。 詳細については、「ブラウザーウィンドウでブックのデータを更新する」を参照してください。 
+> <sup>1</sup> ピボットグラフ、表示のみを作成することはできません。
+ <br/><sup>2</sup> 環境の構成方法によっては、Web 用 Excel に表示されるブックで、一部の種類のデータ接続がサポートされます。 詳細については、「ブラウザーウィンドウでブックのデータを更新する」を参照してください。 
  <br/><sup>3</sup> Excel で web 用に vba を使用してマクロを作成または実行することはできませんが、ファイルに含まれる vba を削除 (または破損) することなく、vba 対応のスプレッドシートを開いて編集することができます。
  <br/><sup>4</sup> web 用の Excel では、最後の既知の参照値がブラウザーウィンドウに表示されます。ただし、Excel デスクトップアプリを使用して更新する必要があります。 
- <br/><sup>5</sup>一部の Office アドインを利用できます。 
+ <br/><sup>5</sup> 一部の Office アドインを利用できます。 
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| アプリケーション機能 | Web 用 OneNote | OneNote デスクトップ アプリ |
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**OneNote for the web** <br/> |**OneNote デスクトップ アプリ** <br/> |
-|[高度な共同作業:新規コンテンツの未読表示、プレゼンス](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |いいえ  <br/> |はい  <br/> |
+|[Advanced collaboration: New content shows as unread, presence](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |いいえ  <br/> |はい  <br/> |
 |[タグの適用](onenote-online.md#apply-tags) <br/> |はい  <br/> |はい  <br/> |
 |[箇条書きと段落番号](onenote-online.md#bullets-and-numbering) <br/> |はい  <br/> |はい  <br/> |
 |[クリップボード](onenote-online.md#clipboard) <br/> |はい  <br/> |はい  <br/> |
@@ -219,7 +216,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 |[インク:インクからテキスト/インクから数式、カスタマイズ可能なペン、描画ツール](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |いいえ  <br/> |はい  <br/> |
 |[インク表示](onenote-online.md#ink-viewing) <br/> |はい  <br/> |はい  <br/> |
 |[ナビゲーション](onenote-online.md#navigation) <br/> |はい  <br/> |はい  <br/> |
-|[ノートブック管理:セクション/ノートブックを横断するページのファイリング、セクションの並べ替え、セクション グループの作成/削除](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |はい<sup>1</sup> <br/> |はい  <br/> |
+|[ノートブック管理: セクション/ノートブックの2ページファイリング、セクションの並べ替え、作成/削除セクショングループ](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |はい<sup>1</sup> <br/> |はい  <br/> |
 |[Office アドイン](onenote-online.md#office-add-ins) <br/> |はい<sup>2</sup> <br/> |はい  <br/> |
 |[Outlook との統合 (タスク)](onenote-online.md#outlook-integration-tasks) <br/> |いいえ  <br/> |はい  <br/> |
 |[段落の書式設定](onenote-online.md#paragraph-formatting) <br/> |はい  <br/> |はい  <br/> |
@@ -246,10 +243,9 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| アプリケーション機能 | Web 用 PowerPoint | PowerPoint デスクトップ アプリ |
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**PowerPoint for the web** <br/> |**PowerPoint デスクトップ アプリ** <br/> |
-|[位置揃え、箇条書き、番号](powerpoint-online.md#alignment-bullets-numbers) <br/> |はい  <br/> |はい  <br/> |
+|[Alignment, bullets, numbers](powerpoint-online.md#alignment-bullets-numbers) <br/> |はい  <br/> |はい  <br/> |
 |[基本的な画面切り替えとアニメーションの適用](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |はい<sup>1</sup> <br/> |はい  <br/> |
 |[テキスト、図形、および画像へのリッチ書式の適用](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |いいえ  <br/> |はい  <br/> |
 |[テーマおよびテーマのバリエーションの適用](powerpoint-online.md#apply-themes-and-theme-variants) <br/> |はい  <br/> |はい  <br/> |
@@ -297,14 +293,13 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
 ><sup>1</sup> PowerPoint for web では、8つの画面切り替えと37アニメーションのギャラリーがサポートされています。 選択の幅を広げる場合、またはカスタム アニメーションを作成する場合は、PowerPoint デスクトップ アプリを使用します。 
  <br/>
 <sup>2</sup> 使用しているデバイスが、インクをサポートする必要があります。 <br/> 
-<sup>3</sup> 一部の Office アドインを利用できます。 <br/>
+<sup>3</sup> 一部の Office アドインは利用可能ですが、全部ではありません。 <br/>
 <sup>4</sup> ピボットグラフまたはピボットテーブルは作成できませんが、ビューアーに表示することはできます。 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Web 用 Office でサポートされているファイルの種類
 
-||||
+| Word 2.0 以降で作成された Word 文書 | 表示モード | 編集モード |
 |:-----|:-----|:-----|
-|**Word 2.0 以降で作成された Word 文書** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.docx)  <br/> |はい  <br/> |はい  <br/> |
 |バイナリ (.doc)  <br/> |はい  <br/> |.docx に変換  <br/> |
 |マクロ (.docm)  <br/> |はい<sup>1</sup> <br/> |はい<sup>1</sup> <br/> |
@@ -329,7 +324,7 @@ Web 用 office (以前の Office Web Apps) は、web ブラウザーで Word、E
    
 > [!NOTE]
 > <sup>1</sup> マクロの実行または変更はできません。<br/>
-> <sup>2</sup>マクロが存在する場合、ユーザーはマクロを削除したファイルのコピーを保存するように求められます。<br/> 
+> <sup>2</sup> マクロが存在する場合、ユーザーはマクロを削除したファイルのコピーを保存するように求められます。<br/> 
   
 > [!NOTE]
 > 新しいファイル形式 (.docx, .xlsl, .pptx) は Office 2016、2013、2010、2007 で作成できます。また、互換性パックを追加した Office 2000 以降でも作成できます。 

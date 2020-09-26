@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
-ms.openlocfilehash: 163bb207292515ff93e5145e70741cea560acf15
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 各 Yammer プランで利用できる機能を確認します。
+ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132901"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276744"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -24,7 +24,7 @@ Yammer は、高性能で安全、かつプライベートなエンタープラ�
   
 Yammer を含むプランの一覧については、「 [Microsoft サービスファミリとプラン](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)」を参照してください。
   
-プラン間で機能を比較するには、「[エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
+プラン間で機能を比較するには、「 [エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
   
 ## <a name="system-requirements"></a>システム要件
 
@@ -32,9 +32,9 @@ Office 365 のシステム要件については、ビジネス、教育、およ
   
 ## <a name="yammer-plans"></a>Yammer プラン
 
-Yammer は以下のプランで提供されています。
+Yammer は以下のプランで提供されています。<br><br>
   
-|**プラン**|**説明**|
+| 計画 | 説明 |
 |:-----|:-----|
 |[Yammer の概要](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |エンタープライズ ソーシャル ネットワーキング - いつでも、どこでも。  <br/> |
 |[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |高度なセキュリティ、管理、統合を備えたエンタープライズ ソーシャル ネットワーキング。  <br/> |
@@ -45,15 +45,15 @@ Yammer は以下のプランで提供されています。
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise service communications policy
 <a name="YammerCommsPolicy"> </a>
 
-Yammer は、 [Microsoft 365 変更管理ポリシー](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)に準拠していますが、更新プログラムをロールアウトするために対象となるリリースは使用しません。 
+Yammer は、 [Microsoft 365 変更管理ポリシー](https://aka.ms/ManageChange)に準拠していますが、更新プログラムをロールアウトするために対象となるリリースは使用しません。 
   
 すべての Yammer ユーザーは、A/B 機能テストを受けることになります。これにより、Microsoft では安定性、パフォーマンス、およびエクスペリエンスを向上するためにさまざまな環境やデバイスにおいて機能をテストすることができます。テストのために、同じネットワーク内のユーザーでも、エクスペリエンスが異なる場合があります。お客様が A/B テストを受けないことを選択することはできません。
   
 お客様のアクションを必要とする、またはお客様に大きな影響を与えることが予想されるすべての変更 (A/B テスト、新機能、機能廃止、法令遵守の境界、ワークフローの変更) は、事前に通達されます。Yammer によって加えられる変更が一部のお客様に影響を与えるシナリオを特定しました。たとえば、Yammer Chrome 拡張機能などの機能が変更されたり、削除されたりする場合があります。エンゲージメントは低いものの、一部のユーザーに影響を与えます。このような場合は、Microsoft は確認された管理者に対する通常の通信チャネルに加えて該当ユーザーと直接連絡を取り、前述されているポリシーに基づいて、変更の影響を受ける一部のユーザーのユーザー エクスペリエンスの向上に努める所存です。一部の対象ユーザーだけが影響を受ける「アクションが必要となる変更 (変更の計画)」または「認知を必要とする変更 (必ず通知)」に分類される変更の場合、該当ユーザーに直接通知することがあります。次の表は、この変更を反映するように更新されました。 
   
-通達に使用されるチャネルは影響の度合いによって異なります。
+通達に使用されるチャネルは影響の度合いによって異なります。<br><br>
   
-|||
+| 変更の種類 | 通信チャネル |
 |:-----|:-----|
 |**アクションを必要とする変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があり、組織の法令遵守に影響を与える可能性のある更新を行う必要があります。  <br/> |-Office 365 メッセージセンターの電子メールを Yammer 認証済み管理者に直接送信 <br/>-Microsoft 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
 |**認識を必要とする変更 (情報を入手する)**<br/>管理者による操作を必要としない変更、ビジュアルデザインの変更  <br/> |-Office 365 メッセージセンター<br/>-Microsoft 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
@@ -61,9 +61,9 @@ Yammer は、 [Microsoft 365 変更管理ポリシー](https://www.microsoft.com
    
 ## <a name="feature-availability-across-yammer-plans"></a>Yammer の各プランで利用できる機能
 
-組織のニーズに最適な Yammer プランをお探しですか？ 各プランで利用できる機能を次の表でご確認ください。 機能名を選択して、この機能が Yammer でどのように機能するかについての概要を確認します。
+組織のニーズに最適な Yammer プランをお探しですか？ 各プランで利用できる機能を次の表でご確認ください。 機能名を選択して、この機能が Yammer でどのように機能するかについての概要を確認します。<br><br>
   
-|**機能**|**Yammer ベーシック**|**Yammer エンタープライズ**|
+| 機能 | Yammer ベーシック | Yammer エンタープライズ |
 |:-----|:-----|:-----|
 |[グループ](group-features-in-yammer.md#groups) <br/> | はい  <br/> |はい  <br/> |
 |[関連グループ](group-features-in-yammer.md#related-groups) <br/> |はい  <br/> |はい  <br/> |

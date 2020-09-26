@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Visio デスクトップアプリを使用して、Visio の web 上の機能を比較します。
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131951"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276669"
 ---
 # <a name="visio-for-the-web-service-description"></a>Web 用 Visio サービスの説明
 
 Web 用の Visio を使用すると、web 上の Visio 図を表示、編集、および共有できます。 基本のダイアグラムをもとに、計画のイメージを描いたり、提案をしたり、プロセスの手順について流れを説明したりするなど、共通のアイディアを表現することができます。 一般的に使用される図の種類と豊富な図形のセットを使用して、最初のクラスの図を簡単に作成できます。 Visio for the web ユーザーは、図面を共有したり、SharePoint Online または OneDrive for Business Online にアップロードされたファイルにコメントを挿入したりして、表示と共同作業を行うことができます。
   
-詳細と作業の開始については、「 [Visio プラン 1](https://products.office.com/en-US/visio/visio-online)」を参照してください。
+詳細と作業の開始については、「 [Visio プラン 1](https://products.office.com/visio/visio-online)」を参照してください。
   
 Visio を web に使用する場合のヘルプについては、「 [visio help & learning](https://support.office.com/visio)」を参照してください。
   
 ## <a name="feature-availability-and-comparison"></a>機能の可用性と比較
 
-次の表では、Visio の機能豊富な Visio デスクトップアプリに Visio の機能を比較します。 表を使用して、Visio で web で利用できる機能を確認し、機能名を選択して、その機能がどのように機能するかについての簡単な説明を読みます。 組織内の一部のユーザーが Visio デスクトップアプリの高度な機能を必要とするだけでなく、visio で visio の図を web に対して表示し、軽く編集しなければならない場合があります。 
+次の表では、Visio デスクトップアプリと web 機能の機能を比較しています。 表を使用して、Visio で web で利用できる機能を確認し、機能名を選択して、その機能がどのように機能するかについての簡単な説明を読みます。 組織内の一部のユーザーが Visio デスクトップアプリの高度な機能を必要とするだけでなく、visio で visio の図を web に対して表示し、軽く編集しなければならない場合があります。<br><br> 
   
-||||
+| アプリケーション機能 | Web 用 Visio | Visio デスクトップ アプリ |
 |:-----|:-----|:-----|
-|**アプリケーション機能** <br/> |**Web 用 Visio** <br/> |**Visio デスクトップ アプリ** <br/> |
 |[テキストと図形へのリッチ書式の適用](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |はい  <br/> |はい  <br/> |
 |[オブジェクトの配置](visio-online.md#arrange-objects) <br/> |はい  <br/> |はい  <br/> |
 |[マッシュアップ ソリューションの構築](visio-online.md#build-mashup-solutions) <br/> |はい  <br/> |はい  <br/> |
@@ -66,9 +65,8 @@ Visio を web に使用する場合のヘルプについては、「 [visio help
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Visio でサポートされている web 上のファイルの種類
 
-||||
+| Visio 2010 以降で作成された visio 図面 | 表示モード | 編集モード |
 |:-----|:-----|:-----|
-|**Visio 2010 以降を使用して作成された Visio ダイアグラム** <br/> |**表示モード** <br/> |**編集モード** <br/> |
 |Open XML (.vsdx)  <br/> |はい  <br/> |いいえ  <br/> |
 |バイナリ (.vsd)  <br/> |はい  <br/> |いいえ  <br/> |
 |マクロ (.vsdm)  <br/> |はい  <br/> |なし  <br/> |

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
-ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962096"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276727"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -22,9 +22,8 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
   
 ## <a name="limits-by-plan"></a>プラン別制限 
 
-|||||
+| 機能 | Microsoft 365 Business Basic、Business Standard、Business Premium | Microsoft 365 E3 または E5、Office 365 E1、E3、E5、または SharePoint プラン1または2 | Microsoft 365 F1 または F3、Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|**機能** <br/> |**Microsoft 365 Business Basic、Business Standard、Business Premium** <br/> |**Microsoft 365 E3 または E5、Office 365 Enterprise E1、E3、E5、または SharePoint プラン1または2** <br/> | **Microsoft 365 F1 または F3、Office 365 Enterprise F3** <br/> |
 |組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup>  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |サイト (サイト コレクション) あたりの最大ストレージ <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
@@ -34,9 +33,9 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用されるストレージは、組織の合計ストレージの上限に含まれます。 
 <br/> <sup>3</sup> Microsoft 365 サブスクリプションと Office 365 追加のファイル記憶域アドオンがある場合は、ストレージ容量が追加されます。 
 <br/> <sup>4</sup> これは単一のサイトのストレージ (以前の「サイト コレクション」) の*制限*であり、各サイトに*提供*されるストレージの量ではありません。 この制限は、Office 365 グループ接続のチーム サイトと OneDrive を含むすべての種類のサイトに適用されます。 SharePoint 管理者は、[手動でストレージの下限を設定](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)することができます。 
-<br/> <sup>5</sup> 現場担当者は、SharePoint サイトを管理できません。 
+<br/> 第<sup>5</sup>行のワーカーは SharePoint サイトを管理できません。 
 <br/> <sup>6</sup> ライセンス ユーザーごとの OneDrive は含まれません。 
-<br/> <sup>7</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
+<br/> <sup>7</sup> ユーザー数が50万を超える場合は、Microsoft の担当者にお問い合わせください。 
   
 ## <a name="service-limits-for-all-plans"></a>すべてのプランのサービスの制限
 
@@ -49,9 +48,9 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>リストまたはライブラリ内のアイテムに対する固有の権限
 
-許可される制限は5万一意に権限アイテムですが、推奨される一般的な制限は5000です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
+許可されている制限は5万一意で権限アイテムですが、推奨される一般的な制限は5000です。 5000を超える権限アイテムを一意に変更するには、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
 
-もう1つの制限は、一意の権限 item ごとに5000の役割の割り当てです。 
+もう1つの制限は、権限 item ごとに5000の役割の割り当てです。 
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 

@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Project Online は Office 365 を通じて、ほぼすべてのデバイスのほぼどこからでも、優先順位付けの計画およびプロジェクトやプロジェクト ポートフォリオ投資の管理を行う強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
-ms.translationtype: HT
+description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 によって提供される Project Online は、プロジェクトとプロジェクトポートフォリオへの投資を計画、優先順位付け、および管理するための強力なプロジェクト管理機能を、ほとんどすべてのデバイスで利用できます。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
+ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131161"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276796"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -75,7 +75,7 @@ Microsoft は今後、Project for the web の改革に重点を置きます。 �
 
 ## <a name="microsoft-project-subscriptions"></a>Microsoft Project のサブスクリプション
 
-Microsoft Project は、組織のニーズに最適な 3 つの異なるサブスクリプションを通じて利用できます。 これらのサブスクリプションは、Project Plan 1、Project Plan 3、および Project Plan 5 です。 各サブスクリプションの機能を比較するには、「[各アプリケーションとサブスクリプションで利用可能な機能](#feature-availability-across-applications-and-subscriptions)」を参照してください。
+Microsoft Project は、組織のニーズに最適な 3 つの異なるサブスクリプションを通じて利用できます。 これらのサブスクリプションは、Project Plan 1、Project Plan 3、および Project Plan 5 です。 各サブスクリプションの機能を比較するには、「[各アプリケーションとサブスクリプションで利用可能な機能](#feature-availability-across-applications-and-subscriptions)」を参照してください。<br><br>
 
 |製品 | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
@@ -83,15 +83,15 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |Project Online | |**x x**| **x x x** |
 |Project Online デスクトップ クライアント | |**x**|**x**|
 
-上の表のチェック数 (** x **) は、Plan によって提供される機能の一般的なレベルを示しています。 たとえば、Project Online の場合、Plan 5 は Plan 3 よりも多くの機能を提供します。
+上の表のチェック数 (** x **) は、Plan によって提供される機能の一般的なレベルを示しています。 たとえば、Project Online の場合、プラン5はプラン3よりも多くの機能を提供します。
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>各アプリケーションとサブスクリプションで利用可能な機能
 
 ### <a name="project-for-the-web-features"></a>Project for the web の機能
 
-このセクションにリストされている機能は、Project for the web のデータ ストアのデータとのみ相互作用します。 これらの機能はすべて、Microsoft Project のすべてのサブスクリプション (Project Plan 1、Project Plan 3、および Project Plan 5) で利用できます。
+このセクションにリストされている機能は、Project for the web のデータ ストアのデータとのみ相互作用します。 これらの機能はすべて、Microsoft Project のすべてのサブスクリプション (Project Plan 1、Project Plan 3、および Project Plan 5) で利用できます。<br><br>
 
-|機能 | 説明 | Office 365 のライセンス | Plan 1 | Plan 3 | Plan 5|
+| 機能 | 説明 | Office 365 のライセンス | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**プロジェクト、タスク、および時間管理**||||||
 |ボード ビュー | すぐに使用できるカスタム タスク ボードを使用して、ワークフローと状態の監視を改善するためにプロジェクト タスクを視覚的に追跡します。| 表示のみ | はい | はい| はい|
@@ -125,7 +125,7 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 
 ### <a name="project-online-features"></a>Project Online の機能
 
-このセクションにリストされている機能は、Project Online SharePoint のデータ ストアのデータとのみ相互作用します。
+このセクションにリストされている機能は、Project Online SharePoint のデータ ストアのデータとのみ相互作用します。<br><br>
 
 |機能 | 説明 | Project Plan 3 | Project Plan 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -201,7 +201,7 @@ Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業
 
 ### <a name="project-online-desktop-client-features"></a>Project Online デスクトップ クライアントの機能
 
-|機能 | 説明 |
+| 機能 | 説明 |
 |--------|-------------|
 |**プロジェクトとタスクの管理**||
 |基準計画 | プロジェクトのベースラインを設定し、過去のパフォーマンスに対して現在のパフォーマンスを監視します。 |
@@ -274,9 +274,9 @@ Project for the web と Project Online には、Office 365 と同じデータ �
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project for the web の境界と制限
 
-Project for the web には、次の表で説明するいくつかの制限があります。
+Project for the web には、次の表で説明するいくつかの制限があります。<br><br>
 
-|エンティティ/フィールド | 制限 |
+| エンティティ/フィールド | 制限 |
 |-------------|-------|
 |**タスク** ||
 |最大 タスクの階層レベル | 10 レベル |

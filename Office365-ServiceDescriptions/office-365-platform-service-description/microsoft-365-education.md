@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
-ms.openlocfilehash: 46a5ea8dc2f0cd4c5cec1e7e2aa91473787c09e1
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+description: Microsoft 365 と Office 365 教育機関のプランの違いについて説明します。
+ms.openlocfilehash: d0dfabd0269941d9bda4517cc9f22d17f8c4237f
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261559"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276737"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -24,9 +24,9 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
   
 ## <a name="services-and-features"></a>サービスと機能
 
-各 Microsoft 365 Education プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。 次の表は、お客様のニーズに最適のソリューションを選択できるように、Office 365 および Microsoft 365 の各プランで利用可能なサービスを示しています。 サービスと機能を詳細に確認するには、「 [Office 365 エデュケーション](office-365-education.md) サービスの説明」を参照してください。
+各 Microsoft 365 Education プランには、Exchange Online や SharePoint Online などの個別のサービスが複数含まれています。 次の表は、お客様のニーズに最適のソリューションを選択できるように、Office 365 および Microsoft 365 の各プランで利用可能なサービスを示しています。 サービスと機能を詳細に確認するには、「 [Office 365 エデュケーション](office-365-education.md) サービスの説明」を参照してください。<br><br>
 
-|**サービス**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
+| サービス | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 A3 の学生使用の利点 | Office 365 A5 Student の利点 | Microsoft 365 エデュケーション A3 学生使用特典 | Microsoft 365 エデュケーション A5 学生使用特典 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 プラットフォーム|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Webアプリ上の Office|はい|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -49,7 +49,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |コード ビルダーを備えた Minecraft Education Edition|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
 |テスト アプリ|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |学校用 PC のセットアップ アプリ|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
-|"**音声ビデオと会議**"|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 エデュケーション A56**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
+|**音声ビデオと会議**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 エデュケーション A56**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
 |Skype 会議メディア|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Microsoft の予約|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Office 365 電話会議|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
@@ -58,14 +58,14 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Delve|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Power BI Pro|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |My Analytics|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
-|**Azure Active Directory11**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
+|**Azure Active Directory <sup> 11<sup>**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
 |Azure Active Directory Basic|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Azure Active Directory プラン 1|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|はい|
 |Azure Active Directory プラン 2|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|
 |**コンプライアンス**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
 |Office 365 Rights Management|はい|はい|はい|はい|はい|はい|はい|はい|はい|
-|Azure Information Protection プラン 17|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Azure Information Protection プラン 27|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|Azure Information Protection プラン <sup> 17<sup>|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|いいえ|
+|Azure Information Protection プラン <sup> 27<sup>|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |訴訟ホールド|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |電子情報開示検索|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |電子情報開示のエクスポート|はい|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -78,7 +78,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Office 365 Advanced Threat Protection プラン 2|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|はい|
 |School Data Sync|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Advanced Security Management|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
-|Intune for Education8|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
+|Intune for Education<sup>8<sup>|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
 |Advanced Threat Analytics|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
 |Windows Defender ウイルス対策|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Device Guard|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
@@ -88,9 +88,9 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Cloud App Security|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|はい|はい|
 |Microsoft Defender Advanced Threat Protection|いいえ|いいえ|いいえ|いいえ|はい13|いいえ|いいえ|いいえ|いいえ|
 |**サーバーと CAL の利点**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Exchange9|いいえ|いいえ|いいえ|Yes10|必要|いいえ|いいえ|いいえ|いいえ|
-|SharePoint9|いいえ|いいえ|いいえ|Yes10|必要|いいえ|いいえ|いいえ|いいえ|
-|Skype for Business9|いいえ|いいえ|いいえ|Yes10|必要|いいえ|いいえ|いいえ|いいえ|
+|Exchange <sup> 9<sup>|いいえ|いいえ|いいえ|Yes10|はい|いいえ|いいえ|いいえ|いいえ|
+|SharePoint <sup> 9<sup>|いいえ|いいえ|いいえ|Yes10|はい|いいえ|いいえ|いいえ|いいえ|
+|Skype for Business<sup>9<sup>|いいえ|いいえ|いいえ|Yes10|はい|いいえ|いいえ|いいえ|いいえ|
 |Windows Server CAL|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Endpoint Configuration Manager|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |System Center Endpoint Protection|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|

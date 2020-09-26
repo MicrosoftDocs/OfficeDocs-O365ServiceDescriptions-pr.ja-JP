@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245732"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284989"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -164,7 +164,7 @@ MCAS の条件付きアクセスアプリコントロール機能を活用する
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E1/A1/E3/A3 および Microsoft 365 E3/A3 ライセンスを持つお客様は、データ保護基準の評価にアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用しているお客様は、データ保護基準、GDPR、NIST 800-53、および ISO 22701 の標準評価にアクセスできます。 プレミアム評価は、Office 365 E5/A5 および Microsoft 365 E5/A5 ユーザーに購入できるようになります。
+Office 365 E1/A1/E3/A3 および Microsoft 365 E3/A3 ライセンスを持つお客様は、データ保護基準の評価にアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用しているお客様は、データ保護基準、GDPR、NIST 800-53、および ISO 22701 の標準評価にアクセスできます。 カスタム評価機能を使用するには、少なくとも1つの Office 365 E5/A5 または Microsoft 365 E5/A5 ライセンスが必要です。 プレミアム評価は、Office 365 E5/A5 および Microsoft 365 E5/A5 ユーザーに購入できるようになります。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、Enterprise Mobility + S
 > [!NOTE]
 > Power BI は、Microsoft 365 E5/A5/G5 に含まれています。他のすべてのプランでは、Power BI は個別にライセンスされている必要があります。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 Information Protection and ガバナンス、Office 365 E5、Office 365 Advanced コンプライアンス、Enterprise Mobility + Security E5、および AIP プラン2では、ユーザーが自動的に秘密度を使用してメリットを得られる権利を提供します。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 情報保護、ガバナンス、Office 365 E5、Office 365 Advanced コンプライアンス、Enterprise Mobility + Security E5、および AIP プラン2は、ユーザーが自動秘密情報のラベル付けによる恩恵を受けるための権限を提供します。
 
 ライセンスによる特定の権限については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)には、Machine Learning (trainable 分類子) に基づく自動分類に対する権限は含まれていません。
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/A3 および Office 365 E5/A5/E3/A3 は、ユーザーが
 
 Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 情報保護とガバナンス、Office 365 E5/A5、および Office 365 Advanced コンプライアンスでは、保持ラベルまたはポリシーを自動的に適用することによるメリットを得ることができるユーザーの権限が提供されます。既定の保持ラベルまたはポリシーの適用、カスタムイベントに基づく保持ラベルの保持期間の開始、ラベルの保持期間の最後における手動による廃棄レビューのトリガー、ネイティブデータコネクタを介したサードパーティデータのインポート、ファイル a レコードの宣言、ラベル付きコンテンツの検出、ラベル付けアクティビティの監視を行います。
 
-Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 Information Protection and ガバナンス trainable 分類子に基づいて保持ラベルを自動的に適用することによるユーザーの権利を提供します。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 情報保護、ガバナンスユーザーが trainable 分類子に基づいて保持ラベルを自動的に適用することによるメリットを得られるようにするための権限をユーザーに提供します。
 
 ライセンスによる特定の権限については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 3
 
 Microsoft 365 E5/A5、Microsoft 365 E5/a5 コンプライアンス、Microsoft 365 情報保護とガバナンス、Office 365 E5/A5、Office 365 Advanced コンプライアンスは、アイテムをレコードとして宣言したり、保持またはレコードのラベルを自動的に適用したり、廃棄レビュープロセスを実行したり (trainable 分類子に基づいて保持ラベルを自動的に適用する場合を除く)
 
-Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 Information Protection and ガバナンス trainable 分類子に基づいて、保持またはレコードラベルを自動的に適用することによる利点をユーザーに提供します。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 コンプライアンス、Microsoft 365 情報保護、ガバナンスは、trainable 分類子に基づいて、保持またはレコードのラベルを自動的に適用することによるユーザーのための権限を提供します。
 
 ライセンスによる特定の権限については、「Microsoft 365 コンプライアンスライセンスの詳細な比較」を参照してください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 

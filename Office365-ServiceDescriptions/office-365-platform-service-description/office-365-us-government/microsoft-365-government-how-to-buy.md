@@ -7,35 +7,34 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 5ce792e713a4db5149498c3b8dd60a216b26a365
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
+ms.openlocfilehash: 81ee54c17a4861c44f350f394ccc61a4bd669996
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131751"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276769"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-購入方法
 
-米国の公的機関の固有の要件および進化する要件に対応して、Microsoft では、公的機関のお客様に特定の Microsoft 365 Government 環境を作成しました。 このセクションでは、環境の概要と、購入方法について詳しく説明します。 この補足セクションは、 [Microsoft 365 および Office 365 サービスの説明と](../../office-365-service-descriptions-technet-library.md)共に読むことをお勧めします。
+米国の公的機関の固有の要件および進化する要件に対応して、Microsoft では、公的機関のお客様に特定の Microsoft 365 Government 環境を作成しました。 このサービスの説明には、環境の概要と、購入方法に関する詳細情報が記載されています。 このサービスの説明は、他の [Microsoft 365 および Office 365 サービス](../../office-365-service-descriptions-technet-library.md)の説明と共に読むことをお勧めします。
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 Government とは
 
-Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けに特化した、生産性、セキュリティ、モビリティの各クラウドソフトウェア機能のセットです。 Microsoft 365 Government は、最も厳格なコンプライアンス要件を満たす固有の環境を通じて提供されています。 Microsoft Government は、Microsoft の商用クラウドエンタープライズ製品の機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。 
+Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けにカスタマイズされた、生産性、セキュリティ、モビリティのクラウドソフトウェア機能のセットです。 Microsoft 365 Government は、最も厳格なコンプライアンス要件を満たす固有の環境を通じて提供されています。 Microsoft Government は、Microsoft の商用クラウドエンタープライズ製品の機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 Government の価値
 
-Microsoft 365 Government は、政府機関が法令データの法令遵守の要件を効果的に管理できるようにすることで、お客様によるモバイル生産性とセキュリティで保護されたコラボレーションをいつでも利用できるようにしています。 次の表に、主な自治体の役割についての例を示します。
-
+Microsoft 365 Government は、政府機関が法令データの法令遵守要件を効果的に管理できるようにすることで、お客様のモバイル生産性とセキュリティで保護されたコラボレーションをいつでも利用できるようにしています。 次の表に、主な自治体の役割についての例を示します。<br><br>
  
-||||||
+| 行政機関のリーダー | 政府機関の従業員は、... | フィールドの担当者は |
 |:-----|:-----|:-----|:-----|:-----|
-|行政機関のリーダー <br/> | 政府機関の従業員は、... <br/> |フィールドの担当者は <br/>  |||||
 |コミュニケーションと透明性の向上によって、パブリック信頼を向上させる  <br/> |より優れたコラボレーションを通じて市民サービスを向上させる <br/> | 必要なときに必要な情報フィールドへのモバイルアクセスを通じてサービスの品質を向上させる  |
 |サイトのポリシーおよび予算の決定に役立つ、洞察へのアクセスを向上させる  <br/> |エージェンシー間の通信を強化します。  <br/> |コラボレーションと知識の共有を有効にして、問題を特定して解決する  <br/> |
 |オフィスまたは外出先で、スタッフと市民に情報を伝え、連絡を取り続ける  <br/> |従業員の保持率を向上させるために、民事 servants を使用してより深い契約を作成する  <br/> | 省庁の場所でより強力なコミュニティを構築する  <br/> |
-|コストの削減とアジリティの向上に役立つ米国政府準拠のソリューションを確保する  <br/> | <br/> |
+|コストの削減とアジリティの向上に役立つ米国政府準拠のソリューションを確保する  <br/> |||
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-enterprise-offerings"></a>Microsoft 365 Government と Microsoft 365 enterprise のサービスとではどのような違いがありますか?
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 Government と Microsoft 365 は、エンタープライズ向けの製品とはどのようなものですか?
 
 Microsoft 365 Government は、以下の4つの主要な分野において米国政府機関のコンプライアンス要件に対応するように独自に設計されています。
 
@@ -44,14 +43,13 @@ Microsoft 365 Government は、以下の4つの主要な分野において米国
 **スクリーン担当者。** 組織の顧客コンテンツへのアクセスは、自分の市民で、必要なバックグラウンドチェックに合格した Microsoft の担当者に制限されています。
 サードパーティの監査。 すべてのインフラストラクチャは、認定されたサードパーティの監査者によって監査されており、連邦機関が運用の承認を発行するために使用するセキュリティ評価レポートまたは構成可能なレター (ATO) を提供します。 
 
-**コンテンツストレージ。** データは、準拠インフラストラクチャを使用した大陸の米国内に格納されます。 次の表に、米国政府機関の環境およびコミットメントに関する Microsoft 365 の概要を示します。
+**コンテンツストレージ。** データは、準拠インフラストラクチャを使用した大陸の米国内に格納されます。 次の表に、米国政府機関の環境およびコミットメントに関する Microsoft 365 の概要を示します。<br><br>
 
-|||
-|:----------|:----------------------------------|:---------|
-|**製品** <br/> |**対する** <br/> |
-|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |はい  <br/> |
-|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |はい  <br/> |
-|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |はい  <br/> |
+| 製品 | 対する |
+|:----------|:----------------------------------|
+|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |
+|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |
+|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
 Microsoft セキュリティおよびコンプライアンス認定の詳細については、 [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx)にアクセスしてください。  
 
@@ -63,11 +61,11 @@ Microsoft Government Cloud の対象となっているお客様は、GCC と GCC
 
 適格な政府機関のお客様は、以下のいずれかによって定義されます。
 
-- 官庁、事務所、代理店、department または米国政府機関のその他のエンティティとして定義された連邦機関
+- 米国政府機関、事務所、エージェンシー、部署、または米国政府機関のその他のエンティティとして定義された連邦機関
 - 次のいずれかとして定義された、都道府県/ローカルエンティティ。
-    1. 米国の州または地方自治体のいずれかのエージェンシー
-    2. 米国の米国郡、borough、ペンシルバニア州、市町村、municipality、市街、township、特殊な目的の学区、または顧客の州の法律によって確立され、顧客の州および地理的な境界内にある、その他の類似する種類の政府機関 instrumentality
-    3. コロンビアの地区、プエルトリコ、グアム、米領サモア、米国領バージン諸島、北マリアナ諸島の地区。
+    - 米国の州または地方自治体のいずれかのエージェンシー
+    - 米国の米国郡、borough、ペンシルバニア州、市町村、municipality、市街、township、特殊な目的の学区、または顧客の州の法律によって確立され、顧客の州および地理的な境界内にある、その他の類似する種類の政府機関 instrumentality
+    - コロンビアの地区、プエルトリコ、グアム、米領サモア、米国領バージン諸島、北マリアナ諸島の地区。
 - エスニックエンティティ。 federally として定義されており、米国内部の米国部署からの資金およびサービスの対象として定義されています。これは、その状態をインドの tribe として、または、アラスカ州またはアラスカ州の地域のネイティブ企業で使用します。
 
 次の種類のデータを保持し、Microsoft Government Cloud validation プロセスについて一覧表示されている校正を提供できる、米国以外の組織。
@@ -103,19 +101,18 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 ## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government で利用可能な販売チャネル
 
-次の表に、各セグメントのニーズに対応できるオプションを示します。 
+次の表に、各セグメントのニーズに対応できるオプションを示します。<br><br> 
 
-||||||
-|:-----|:-----|:-----|:-----|:-----|
-| <br/> |**GCC** <br/> | <br/> |**GCC High** <br/> |**DoD** <br/> |
-|**番** <br/> |Gov 用の政府機関向け、GOVCON (商用)||GCC-High|DOD| 
-|**チャネル**   <br/> |EA (LSP)、AOS-G、MPSA、Web Direct、CSP <br/> |  |EA (LSP)、AOS-G     <br/> |EA <br/> |
+| アイテム | GCC | GCC High | DoD |
+|:-----|:-----|:-----|:-----|
+|**番** |Gov 用の政府機関向け、GOVCON (商用) |GCC-High |DOD | 
+|**チャネル** |EA (LSP)、AOS-G、MPSA、Web Direct、CSP |EA (LSP)、AOS-G |EA |
 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 Government を購入するにはどうすればよいですか?
 
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
 
-1. [フォームを完成](https://products.office.com/government/eligibility-validation)させて送信し、組織の適格性を検証します。
+1. [フォームを完成](https://products.office.com/government/eligibility-validation) させて送信し、組織の適格性を検証します。
 2. Microsoft アカウントチームまたは認定パートナーと協力して、注文を行います。 お客様は、セレクトパートナーを通じてのみ Microsoft 365 を米国政府ライセンスで購入できます。
 
 **Lsp GCC および GCC 高 (+ 500 座席)**
@@ -146,13 +143,13 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 
 **注:** 前のリストに記載されているすべての Microsoft licensing solution providers (Lsp) は、エンタープライズアグリーメント (EA) を使用して、顧客の価格シート (CPS) を作成することにより、GCC と GCC の両方を使用することができます。 EA に対応していない組織では、リストされた AOS パートナーまたは CSP パートナープログラムを使用して GCC ライセンスを購入できます。
 
-**CSP パートナーと協力している場合は、それらのユーザーに連絡するか[、csp を検索](https://www.microsoft.com/solution-providers/home)してください。**
+**CSP パートナーと連携する場合は、それらのユーザーに連絡するか、 [csp を検索](https://www.microsoft.com/solution-providers/home)します。**
 
 ## <a name="what-trials-are-available"></a>どのような試用版が用意されていますか?
 
 - [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) お客様は、EMS ページの右上にある [今すぐ試行] ボタンを選択して、Office commerce ポータルでゲートのサインアップ処理を実行することができます。これは、Azure Active Directory (AAD) ポータルにルーティングされます。
-- [Office 365](https://aka.ms/gcctrial)   無料の1か月の試用版は米国政府機関でのみ利用可能です。これは、GCC のみを対象としており、政府請負業者を除外します。  
-- Microsoft では、コマーシャル版のお客様に Office 365 GCC の試用版を提供していません。また、GCC High または DoD の試用版はありません。
+- [Office 365](https://aka.ms/gcctrial) 無料の1か月の試用版は米国政府機関に対してのみ利用可能です。 これは GCC のみを対象としており、政府請負業者は除外します。  
+- Microsoft では、Office 365 GCC の試用版を市販のお客様に提供しておらず、GCC High または DoD の試用版はありません。
 
 ## <a name="where-can-i-learn-more"></a>関連情報
 
