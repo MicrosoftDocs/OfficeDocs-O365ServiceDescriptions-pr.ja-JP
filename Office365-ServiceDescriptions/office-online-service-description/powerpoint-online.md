@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機能を web ブラウザーにまで拡張します。これにより、プレゼンテーションが保存されている web サイト上で直接プレゼンテーションを操作できます。 Microsoft 365 のお客様は、web 用 Office を使用して、移動中のファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131321"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294084"
 ---
 # <a name="powerpoint-for-the-web"></a>Web 用 PowerPoint
 
@@ -26,9 +26,9 @@ PowerPoint for web (旧称 PowerPoint Web App) は、Microsoft PowerPoint の機
   
 PowerPoint エディターは、ブラウザーベースの編集画面を作成する web フロントエンドコンポーネントです。これにより、ユーザーは忠実になくドキュメントを操作できます。
   
-[Web] ツールバーの PowerPoint の [ **powerpoint で開く**] ボタンを選択すると、powerpoint デスクトップアプリでプレゼンテーションが開きます (Microsoft PowerPoint 2010 以降がコンピューターにインストールされている場合)。
+[Web] ツールバーの PowerPoint の [ **powerpoint で開く** ] ボタンを選択すると、powerpoint デスクトップアプリでプレゼンテーションが開きます (Microsoft PowerPoint 2010 以降がコンピューターにインストールされている場合)。
   
-[PC で Microsoft 365 for business を使用して Office をダウンロードしてインストール](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)する方法について説明します。
+[PC で Microsoft 365 for business を使用して Office をダウンロードしてインストール](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)する方法について説明します。
   
 ## <a name="alignment-bullets-numbers"></a>位置揃え、箇条書き、番号
 
@@ -56,7 +56,7 @@ Web 上の PowerPoint で、図形とテキストボックスの移動、サイ�
   
 ## <a name="broadcast-slide-show"></a>スライド ショーのブロードキャスト
 
-Powerpoint デスクトップアプリは、web 用の PowerPoint を使用して、リモートの対象ユーザーにスライドショーをブロードキャストする必要があります。 閲覧者は、powerpoint デスクトップアプリがインストールされているかどうかにかかわらず、PowerPoint を使用して、プレゼンテーションのプレゼンテーションを見ることができます。 詳細については、「[ブロードキャストスライドショー」を](https://go.microsoft.com/fwlink/?LinkId=272765)参照してください。
+Powerpoint デスクトップアプリは、web 用の PowerPoint を使用して、リモートの対象ユーザーにスライドショーをブロードキャストする必要があります。 閲覧者は、powerpoint デスクトップアプリがインストールされているかどうかにかかわらず、PowerPoint を使用して、プレゼンテーションのプレゼンテーションを見ることができます。 詳細については、「 [ブロードキャストスライドショー」を](https://go.microsoft.com/fwlink/?LinkId=272765)参照してください。
   
 ## <a name="clipboard"></a>クリップボード
 

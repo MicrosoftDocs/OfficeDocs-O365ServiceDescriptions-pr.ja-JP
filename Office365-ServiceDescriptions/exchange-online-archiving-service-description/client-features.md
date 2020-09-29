@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online アーカイブを使用すると、ユーザーはさまざまなデバイスやプラットフォームから自分のアーカイブメールボックスに接続することができます。 ユーザーのアーカイブへのすべてのネットワーク接続はインターネット経由で行われるため、仮想プライベートネットワーク (VPN) 接続は必要ありません。 組織は、社内のクライアント アクセス サーバーを公開して、VPN 接続がなくてもユーザーが Outlook Anywhere を使用してプライマリ メールボックスにアクセスできるようにできます。 社内サーバーに配置されたユーザーのプライマリ メールボックスにアクセスするのに VPN アクセスが必要な場合も、この要件に変わりはありません。
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: この記事では、Microsoft Exchange Online アーカイブで使用可能なクライアント機能について説明します。
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255904"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293643"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのクライアント機能
 
@@ -29,8 +29,8 @@ Microsoft Exchange Online アーカイブを使用すると、ユーザーはさ
 
 Microsoft Outlook は、予定表作成、連絡先、タスクのサポートを含む多機能の電子メール プログラムです。Exchange Online Archiving は、Outlook 2013、Outlook 2010、Outlook 2007 をサポートします。主な機能には以下のものがあります。
   
-- **Outlook Anywhere** Outlook Anywhere を使用すると、Outlook ユーザーは、VPN 接続を必要とせずに、インターネット経由で Exchange Server に接続し、Exchange Online アーカイブを使用することができます。 Outlook と Exchange Online Archiving 間の通信は、RPC-over-HTTP Windows ネットワーク コンポーネントを使用し、SSL で保護されたトンネルを介して行われます。    
-- **自動検出** Exchange 自動検出サービスは、Exchange Online Archiving と連動するように Outlook を自動的に構成します。 自動検出を使用すると、Outlook ユーザーは、必要なプロファイル設定を Exchange から直接 (かつ固定した間隔で) 自分のメールアドレスとパスワードで受信することができます。 
+- Outlook **anywhere** -outlook anywhere を使用すると、outlook ユーザーは、VPN 接続を必要とせずに、インターネット経由で exchange Server に接続し、Exchange Online アーカイブを使用することができます。 Outlook と Exchange Online Archiving 間の通信は、RPC-over-HTTP Windows ネットワーク コンポーネントを使用し、SSL で保護されたトンネルを介して行われます。    
+- **自動検出** -Exchange 自動検出サービスは、Exchange Online アーカイブと連携するように Outlook を自動的に構成します。 自動検出を使用すると、Outlook ユーザーは、必要なプロファイル設定を Exchange から直接 (かつ固定した間隔で) 自分のメールアドレスとパスワードで受信することができます。 
 
 Outlook 2010 以降および web 上の Outlook では、アーカイブのすべての機能に加えて、保持ポリシーやアーカイブポリシーなどの関連機能をユーザーに提供します。
   
@@ -41,13 +41,13 @@ Outlook 2007 はアーカイブの基本的なサポートを提供しますが�
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online Archiving でサポートされているクライアント
 
-下の表に、Exchange Online Archiving でサポートされているクライアントを列挙します。
+下の表に、Exchange Online Archiving でサポートされているクライアントを列挙します。<br><br>
   
-|**クライアント**|**EOA サポート**|
+| クライアント | EOA サポート |
 |:-----|:-----|
 |Outlook 2013 以降  <br/> |Exchange Online Archiving の最新機能をサポートします。<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |は、2020年10月13日まで Exchange Online アーカイブの最新機能をサポートします。|
-|Outlook 2007  <br/> |非サポート |
+|Outlook 2007  <br/> |サポート対象外 |
 |Outlook 2003  <br/> |サポート対象外  <br/> |
 |Outlook for Mac 2011  <br/> |サポート対象外  <br/> |
 |Outlook for Mac  <br/> |サポート対象外 Exchange Online Archiving<sup>3</sup> <br/> |

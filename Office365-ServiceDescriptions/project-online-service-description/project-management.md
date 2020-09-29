@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online では次のプロジェクト管理機能が利用可能です。
-ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131221"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294109"
 ---
 # <a name="project-management"></a>プロジェクト管理
 
@@ -42,6 +42,6 @@ Microsoft PPM ソリューションには、レポートの表示と作成、お
 
 時間レポートとタスク管理に集中化された共通アプローチを使用します。給与計算のための稼働時間と非稼働時間、請求書、およびその他の事業目的をキャプチャします。プロジェクトや日常業務の状態および臨時の要求を効率的に伝達することにより、稼働状況の山と谷、タスクの進行状況を測定します。これは、計画での工数、費用、およびタイムフレームの効率を予測するのに役立ちます。詳細については、「[時間とタスクの進捗状況を管理する](https://go.microsoft.com/fwlink/p/?LinkId=271321)」を参照してください。
 
-## <a name="project-home"></a>プロジェクトのホーム
+## <a name="project-home"></a>Project ホーム
 
-プロジェクトホームは、最近携わったプロジェクトや重要なプロジェクトにすばやく簡単にアクセスできるようにする開始点です。 これらのプロジェクトを使いやすいコントロールでお気に入りとしてマークすることにより、プロジェクトのホームで目立つように表示できます。 詳細については、「 [Project Home の概要](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US)」を参照してください。
+プロジェクトホームは、最近携わったプロジェクトや重要なプロジェクトにすばやく簡単にアクセスできるようにする開始点です。 これらのプロジェクトを使いやすいコントロールでお気に入りとしてマークすることにより、プロジェクトのホームで目立つように表示できます。 詳細については、「 [Project Home の概要](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)」を参照してください。

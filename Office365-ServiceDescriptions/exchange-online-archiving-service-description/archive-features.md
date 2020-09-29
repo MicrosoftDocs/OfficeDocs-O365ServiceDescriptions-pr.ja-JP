@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: 次のセクションでは、Microsoft Exchange Online アーカイブのアーカイブ機能について説明します。
-ms.openlocfilehash: 7f6b5863d94862644fb90d1d0d85c3765ad05e9b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Exchange Online アーカイブで利用可能なアーカイブ機能について説明します。
+ms.openlocfilehash: da7b9fd7583904424300dff010117e50a6193552
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131531"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293653"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのアーカイブ機能
 
@@ -57,7 +57,7 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
 
 ユーザーは、アーカイブ内の任意の電子メール フォルダーから削除されたアイテムを復元できます。削除されたアイテムは、アーカイブの [削除済みアイテム] フォルダーに移動されます。このアイテムは、ユーザーが手動で削除するか、保持ポリシーによって自動的に削除されるまで、[削除済みアイテム] フォルダーに残ります。
   
-アーカイブの [削除済みアイテム] フォルダーからアイテムが削除されると、さらに 14 日間アーカイブの回復可能なアイテム フォルダー内に保存されてから、完全に削除されます。 ユーザーは、Microsoft Outlook または web 上の Outlook の [**削除済みアイテムを復元**する機能を使用してこれらのアイテムを回復できます。 
+アーカイブの [削除済みアイテム] フォルダーからアイテムが削除されると、さらに 14 日間アーカイブの回復可能なアイテム フォルダー内に保存されてから、完全に削除されます。 ユーザーは、Microsoft Outlook または web 上の Outlook の [ **削除済みアイテムを復元** する機能を使用してこれらのアイテムを回復できます。 
   
 ユーザーが回復可能なアイテム フォルダーからアイテムを手動で削除した場合、管理者は単一アイテムの回復と呼ばれる機能を使って同じ 14 日間の期間内にアイテムを回復できます。管理者は、この機能を使用して、複数のメールボックスを検索して削除されたアイテムを検索してから、 `Search-Mailbox` Windows PowerShell コマンドレットを使用してそれらのアイテムを探索メールボックスからユーザーのメールボックスに移動できます。詳細については、「 [メールボックスの単一アイテムの回復を有効または無効にする](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)」を参照してください。
   

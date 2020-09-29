@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: f90f8a029307eb7c8d240a5038c3142516320cee
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 1be74377907ed36f2ef5738bb2002abf2844e603
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261589"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293953"
 ---
 # <a name="office-365-plan-options"></a>Office 365 プランのオプション
 
@@ -48,18 +48,18 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
   
 | サービス | Microsoft 365 Business Basic | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3  | Office 365 Enterprise E5<sup>4、</sup><sup>16</sup> | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Office 365 プラットフォーム  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Office 365 プラットフォーム  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |はい<sup>6</sup> <br/> |いいえ  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |はい (<sup>9</sup> ) <br/> |
-|SharePoint Online  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|SharePoint Online  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |OneDrive for Business  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>5</sup> <br/> |
 |Skype for Business Online <sup>15</sup> <br/> |はい (<sup>10</sup> ) <br/> |いいえ  <br/> |はい (<sup>10</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>11</sup> <br/> |はい<sup>13</sup> <br/> |はい<sup>14</sup> <br/> |
 |Webアプリ上の Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office アプリケーション  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Project Online  <br/> |いいえ<sup>1</sup> <br/> |いいえ  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |
 |Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Yammer エンタープライズ  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Yammer エンタープライズ  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection<sup>3</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |必要 <br/> |いいえ  <br/> |はい <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |はい <br/> |いいえ  <br/> |はい <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |
    
 <sup>1</sup> Project Online は含まれていませんが、個別のアドオンサービスとして購入するか、Office 365 エデュケーションプランに無料で追加することができます。<br/>
 <sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、microsoft 365 App for enterprise のサブスクリプションが必要です。これは、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise E1、Office 365 エデュケーション、または Office 365 Enterprise F3 に含まれていません。<br/>
@@ -120,7 +120,7 @@ Microsoft Office 365 には、組織のニーズを満たすさまざまなプ�
 |ビジネス インテリジェンス サービス  <br/> |[Power BI](https://products.office.com/business/analytics-and-intelligence/home) <br/> |
 |オンライン ダイアグラム ソフトウェア  <br/> |[Visio Pro for Office 365](https://products.office.com/visio/visio-online-plan-2) <br/> |
 |Information Rights Management  <br/> |[Azure Information Protection](https://signup.microsoft.com/signup?OfferId=9DF77AF9-DAAE-4d51-8E0E-EEEADD4866B8&dl=RIGHTSMANAGEMENT&ali=1) <br/> |
-|Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
+|Kaizala  <br/> |[Microsoft Kaizala Pro](https://docs.microsoft.com/Office365/Kaizala/migrate-kaizala-pro) <br/> |
    
 ## <a name="feature-availability"></a>機能の可用性
 

@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: e722bec332e67e93647b10bbbf4916e7e059c1b7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Exchange Online の計画と展開について説明します。
+ms.openlocfilehash: 446d73f0fddcbdfe1795bbb97b6394ae6f05fef4
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132661"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293843"
 ---
 # <a name="planning-and-deployment"></a>計画と展開
 
@@ -25,9 +26,9 @@ ms.locfileid: "45132661"
   
 ## <a name="deployment-options"></a>展開オプション
 
-- **クラウドのみの展開** お客様の組織では、すべてのユーザー メールボックスを Exchange Online でホストします。 
+- **クラウドのみの展開** -組織には、Exchange Online でホストされているすべてのユーザーメールボックスがあります。 
     
-- **Exchange ハイブリッド展開** お客様の組織では、一部のユーザー メールボックスを社内 Exchange 組織でホストし、他のユーザー メールボックスを Exchange Online でホストします。 
+- **Exchange ハイブリッド展開** -組織には、オンプレミスの exchange 組織でホストされるユーザーメールボックスと、Exchange Online でホストされるユーザーメールボックスがあります。 
     
 ### <a name="cloud-only"></a>クラウド専用
 
@@ -46,15 +47,15 @@ Microsoft Exchange 2003、Exchange 2007、Exchange 2010 および Exchange 2013 
 
 組織は、送信元の電子メール システム、希望する最終的な状態 (完全なホスティングか、あるいは部分的なホスティングか)、移行するユーザーの数、またどの程度の期間で最終的な状態を実現しなければならないのかに基づいて、移行オプションを選択する必要があります。実行可能な移行オプションは次のとおりです。
   
-- **IMAP 移行** メールボックスのデータを IMAP ベースの電子メール システムから Exchange Online に移行します。 
+- **Imap 移行** -imap ベースの電子メールシステムから Exchange Online にメールボックスデータを移行します。 
     
-- **Exchange の一括移行** メールボックスを、Exchange Server 2003、Exchange Server 2007、Exchange Server 2010、Exchange 2013 およびホストされる Exchange システムから、1 回の一括移行で Exchange Online に移行します。 
+- **Exchange** の一括移行-メールボックスを、exchange server 2003、exchange server 2007、exchange server 2010、exchange 2013 およびホストされている exchange システムから、1回の一括移行で exchange Online に移行します。 
     
-- **段階的な Exchange の移行** メールボックスを、Exchange Server 2003 または Exchange Server 2007 から、Web ベースの移行ツールを使用して、最小限の変更で社内インフラストラクチャに段階的に移行します。 
+- **段階的な exchange の移行** -メールボックスを exchange server 2003 または exchange server 2007 から、web ベースの移行ツールを使用して、最小限の変更で社内インフラストラクチャに移行するために、段階的な移行を実行します。 
     
-- **リモート移動移行** Exchange のハイブリッド展開で社内の Exchange メールボックスを Exchange Online に移行します。リモート移動移行を使用するには Exchange ハイブリッド展開を実装しておく必要があります。 
+- **リモート移動移行** -exchange ハイブリッド展開でオンプレミスの exchange メールボックスを exchange Online に移行します。 リモート移動移行を使用するには Exchange ハイブリッド展開を実装しておく必要があります。 
     
-Exchange Online への電子メールおよびメールボックスの移行の詳細については、「[Exchange Online へのメールボックスの移行](https://support.office.com/en-us/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)」を参照してください。
+Exchange Online への電子メールおよびメールボックスの移行の詳細については、「[Exchange Online へのメールボックスの移行](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)」を参照してください。
   
 ### <a name="imap-migration"></a>IMAP 移行
 
@@ -87,7 +88,7 @@ Exchange Online は、社内の Exchange Server 2003、Exchange Server 2007、�
     
 ユーザーをクラウドメールボックスに切り替えるには、管理者が Microsoft をポイントするように MX レコードを構成し、Outlook でユーザーのプロファイルを再構成します。 ユーザーがクラウド メールボックスに切り替わると、ローカルのオフライン フォルダー (OST ファイル) が再同期され、移行されたメールがクライアント ワークステーションにダウンロードされます。 移行が完了すると、ユーザーはメールボックス内の古いメッセージに返信できます。
   
-Exchange の一括移行の詳細については、「[Office 365 への一括メール移行について知っておくべきこと](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da)」を参照してください。
+Exchange の一括移行の詳細については、「[Office 365 への一括メール移行について知っておくべきこと](https://support.office.com/article/365-961978ef-f434-472d-a811-1801733869da)」を参照してください。
   
 > [!IMPORTANT]
 > 組織が Exchange の一括移行を使用してクラウドに移行できる Exchange 2003、Exchange 2007、Exchange 2010、または Exchange 2013 のメールボックスの最大数は 2,000 です。 > Exchange Online は社内の Exchange Server に接続しなければならないため、社内サーバーには、信頼できる証明機関の発行する証明書とパブリック IP アドレスが必要です。 
@@ -98,7 +99,7 @@ Exchange の一括移行の詳細については、「[Office 365 への一括�
   
 段階的な Exchange の移行では、管理者が Online Services のディレクトリ同期ツールを使用する必要があります。このツールは、オンライン環境と社内環境が継続的に同期される統合グローバル アドレス一覧 (GAL) をユーザーに提供します。
   
-Exchange での段階的な移行の詳細については、「[Office 365 への段階的メール移行について知っておくべきこと](https://support.office.com/en-ie/article/What-you-need-to-know-about-a-staged-email-migration-to-Office-365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207)」を参照してください。
+Exchange での段階的な移行の詳細については、「[Office 365 への段階的メール移行について知っておくべきこと](https://support.office.com/en-ie/article/365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207)」を参照してください。
   
 > [!IMPORTANT]
 > Exchange の段階的な移行では、Exchange 2010 および Exchange 2013 のメールボックスは移行できません。組織内の Exchange 2010 または Exchange 2013 メールボックスが 2,000 未満である場合は、Exchange の一括移行を使用できます。Exchange 2010 または Exchange 2013 メールボックスが 2,000 を超える場合は、ハイブリッド展開を実装することができます。 > 移行の際、管理者は、Online Services のディレクトリ同期ツールを使用して、オンライン環境と社内環境が継続的に同期される統合グローバル アドレス一覧 (GAL) をユーザーに提供する必要があります。 
@@ -107,23 +108,23 @@ Exchange での段階的な移行の詳細については、「[Office 365 へ�
 
 Microsoft は、既存の電子メール環境を Exchange Online に移行するのに役立ついくつかのツールを提供しています。どのツールが適切かは、組織の現在の環境と展開目標によって異なります。
   
-- **移行ダッシュボード** 管理者は、Exchange 管理センターで移行ダッシュボードを使用して、Exchange の一括移行または段階的な移行で、メールボックスの Exchange Online への移行を管理できます。管理者は、移行ダッシュボードを使用して、ユーザーのメールボックスのコンテンツを社内 IMAP サーバーから既存の Exchange Online メールボックスに移行することもできます。管理者は移行ダッシュボードにより、次のことが行えます。 
+- **移行ダッシュボード** -管理者は、exchange 管理センターの移行ダッシュボードを使用して、exchange の一括移行または段階的移行で exchange Online へのメールボックスの移行を管理できます。 管理者は、移行ダッシュボードを使用して、ユーザーのメールボックスのコンテンツを社内 IMAP サーバーから既存の Exchange Online メールボックスに移行することもできます。 管理者は移行ダッシュボードにより、次のことが行えます。 
     
-  - **複数の移行バッチを作成し、開始する** 管理者は、最大 100 個の移行バッチを作成して、キューに入れることができます。一度に実行できる移行バッチは 1 つのみですが、管理者は複数のバッチをキューに入れることができるため、1 つの移行バッチの実行が完了すると、キュー内の次のバッチが開始されます。 
+  - **複数の移行バッチを作成して開始** する-管理者は最大100の移行バッチを作成し、キューに入れます。 一度に実行できる移行バッチは 1 つのみですが、管理者は複数のバッチをキューに入れることができるため、1 つの移行バッチの実行が完了すると、キュー内の次のバッチが開始されます。 
     
-  - **エラーを含む移行バッチの再開** 移行バッチに対する最初の同期の後、社内メールボックスから各ユーザーのクラウド メールボックスに移行バッチでアイテムがコピーされますが、一部のメールボックスの同期が失敗する場合があります。このとき管理者は、その移行バッチを再開して、失敗したメールボックスの同期を試行できます。 
+  - **エラーが発生した移行バッチを再起動** する-移行バッチの初期同期が完了すると、アイテムがオンプレミスのメールボックスから移行バッチ内の各ユーザーのクラウドメールボックスにコピーされるため、一部のメールボックスが同期に失敗する場合があります。 このとき管理者は、その移行バッチを再開して、失敗したメールボックスの同期を試行できます。 
     
-  - **スキップされたアイテムの詳細情報を取得する** IMAP 移行、一括移行、および段階的な移行の場合、移行ダッシュボードには、スキップされたアイテムの情報が表示されます。この情報には、アイテムがユーザーのメールボックス内に置かれた理由と場所が含まれます。 
+  - **スキップ** されたアイテムの詳細を取得する-IMAP の移行、一括移行、段階的な移行の場合、移行ダッシュボードには、スキップされた特定のアイテムに関する情報が表示されます。これには、アイテムがユーザーのメールボックス内に配置されている理由や場所が含まれます。 
     
-  - **移行レポートを開く** 管理者は、移行バッチの移行統計情報または移行エラー レポートをダッシュボードから開くことができます。 
+  - 移行**レポートを開く**-管理者は、移行バッチの移行の統計情報または移行エラーレポートをダッシュボードから開くことができます。 
     
-  - **移行バッチを編集する** 段階的な Exchange の移行または IMAP 移行のための移行バッチが移行キューに含まれているものの現時点で実行されていない場合、管理者は移行バッチを編集することができます。 
+  - **移行バッチを編集** する-段階的な Exchange の移行または IMAP 移行の移行バッチが移行キューにあり、現在は実行されていない場合、管理者は移行バッチを編集できます。 
     
-- **Azure Active Directory 同期ツール** この Azure Active Directory 同期ツール は、移行の際に、Exchange Online と社内 Exchange Server の両方を利用する電子メール シナリオをハイブリッド化する重要な役割を果たします。このツールは、社内 Active Directory から Exchange Online への一方向の同期を実行します。管理者は、移行が完了した後、Exchange Online のみを使用して Active Directory ユーザーおよびグループを管理できます。また、このツールは、オンライン環境と社内環境が継続的に同期される統合グローバル アドレス一覧をユーザーに提供します。 
+- **Azure Active Directory 同期ツール** -Azure Active directory 同期ツールは、exchange Online とオンプレミスの exchange サーバーの両方を利用するハイブリッド電子メールシナリオへの移行で重要な役割を果たします。 このツールは、社内 Active Directory から Exchange Online への一方向の同期を実行します。 管理者は、移行が完了した後、Exchange Online のみを使用して Active Directory ユーザーおよびグループを管理できます。 また、このツールは、オンライン環境と社内環境が継続的に同期される統合グローバル アドレス一覧をユーザーに提供します。 
     
     Azure Active Directory 同期ツール の詳細については、「[オンプレミス ID と Azure Active Directory の統合](https://go.microsoft.com/fwlink/p/?LinkId=287034)」を参照してください。
     
-- **ハイブリッド構成ウィザード** ハイブリッド構成ウィザードは、社内および Exchange Online 構成の機能とサービスを簡素化することにより、ハイブリッド展開プロセスを効率化します。Exchange Server 2010 Service Pack 2 の一部として導入されたハイブリッド構成ウィザードは、社内組織でのみ実行され、次のコンポーネントを備えています。 
+- **ハイブリッド構成ウィザード** -ハイブリッド構成ウィザードは、機能とサービスの社内および Exchange Online 構成を簡略化することによって、ハイブリッド展開プロセスを簡素化します。 Exchange Server 2010 Service Pack 2 の一部として導入されたハイブリッド構成ウィザードは、社内組織でのみ実行され、次のコンポーネントを備えています。 
     
   - 管理者によるハイブリッド展開の構成をエンドツーエンドのプロセスでサポートする Exchange 管理センター (EAC) のウィザード。
     
@@ -131,7 +132,7 @@ Microsoft は、既存の電子メール環境を Exchange Online に移行す�
     
     ハイブリッド構成ウィザードの詳細については、「[ハイブリッド構成ウィザード](https://go.microsoft.com/fwlink/p/?LinkId=271734)」を参照してください。
     
-- **リモート Windows PowerShell** リモート Windows PowerShell は、Exchange Online 2011 Service Update の一部として、移行エラーのトラブルシューティングに使用できます。たとえば管理者は、移行バッチの診断情報や、プライマリ SMTP アドレスに基づくユーザーの移行統計情報および診断情報を表示できます。 
+- **リモート Windows powershell** -Exchange Online のサービス更新プログラム (2011) の一部として、リモート windows powershell を使用して移行エラーのトラブルシューティングに役立てることができます。 たとえば管理者は、移行バッチの診断情報や、プライマリ SMTP アドレスに基づくユーザーの移行統計情報および診断情報を表示できます。 
     
 ## <a name="feature-availability"></a>機能の可用性
 

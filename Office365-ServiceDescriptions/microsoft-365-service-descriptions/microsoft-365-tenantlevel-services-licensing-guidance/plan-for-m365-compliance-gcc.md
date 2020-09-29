@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962136"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293873"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
@@ -50,7 +50,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 - *Microsoft 365 Government-GCC が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2.  Microsoft 365 Government-GCC への適用
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2. Microsoft 365 Government-GCC への適用
 
 このサービスが組織に適していると判断した場合は、 [このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
 
@@ -62,9 +62,9 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>手順 4. Microsoft 365 Government – GCC<sup>1</sup>では、現在どの機能が使用できないか、または無効になっているかを理解する
 
-政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。
+政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。<br><br>
 
-|                                         | **機能**                                     | **GCC の状態**         |
+| 分野 | 機能 | GCC の状態 |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **情報保護**              | 統合されたラベルと機密ラベル         | Available              |
 |                                         | Sharepoint Online、Office グループのコンテナーラベル          | ロール アウト              |
@@ -106,7 +106,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | ラベル アクティビティ エクスプローラー | エンジニアリングバックログの場合 |
 |                                         | トレーニング可能な分類子 | エンジニアリングバックログの場合 |
 |                                         | 統合されたラベルと機密ラベル         | エンジニアリングバックログの場合 |
-| **インサイダー リスクの管理**             | 顧客ロックボックス                                | Available            |
+| **Insider リスク管理**             | 顧客ロックボックス                                | Available            |
 |                                         | Teams、SharePoint サイト、電子メールメッセージングの Office インジケーター                         | ロール アウト |
 |                                         | ユーザーが出発したデータの盗難                        | ロール アウト |
 |                                         | 一般的なデータリーク                                | ロール アウト              |
@@ -126,7 +126,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 高度な電子情報開示のための通信コンプライアンス (監督ポリシーを含む) のエスカレーション | ロール アウト |
 |                                         | コミュニケーションコンプライアンス (監督ポリシーを含む) による成人向けコンテンツの検出 | ロール アウト |
 |                                         | 情報バリア | エンジニアリングバックログの場合 |
-|                                         | 特権アクセス管理                    | エンジニアリングバックログの場合 |
+|                                         | 特権アクセスの管理                    | エンジニアリングバックログの場合 |
 | **& 応答の検出**                  | コア電子情報開示: インプレース保持                            | Available              |
 |                                         | コア電子情報開示: ケース管理                                 | Available              |
 |                                         | コア電子情報開示: 検索                                          | Available              |

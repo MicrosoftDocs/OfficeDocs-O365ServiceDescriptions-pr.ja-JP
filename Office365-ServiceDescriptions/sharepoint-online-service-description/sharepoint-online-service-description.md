@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300511"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294113"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -90,7 +90,7 @@ Microsoft Graph の可用性の詳細については、「 [microsoft 365 And Of
 - [アプリの使用状況とエラーの監視](/sharepoint/monitor-apps)
 - [SharePoint](/office365/admin/activity-reports/sharepoint-activity)および[OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)のアクティビティと使用状況レポート
 - [サイトの URL を変更する](/sharepoint/change-site-address)
-- [OneDrive の既定の保存と保存の設定](/en-us/onedrive/set-default-storage-space)
+- [OneDrive の既定の保存と保存の設定](/onedrive/set-default-storage-space)
 - [SharePoint Server のハイブリッド](/sharepoint/hybrid/hybrid)。 Firstline ワーカーは、SharePoint Server にアクセスするためにクライアントアクセスライセンス (CAL) を必要とします。
 - [サイト作成設定の管理](/sharepoint/manage-site-creation)
 - [サイト記憶域の制限の管理](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Microsoft Graph の可用性の詳細については、「 [microsoft 365 And Of
 - [削除されたサイトを復元する](/sharepoint/restore-deleted-site-collection)
 - [SharePoint 管理センター](/sharepoint/get-started-new-admin-center)。 Firstline ワーカーを使用する組織には、管理センターにアクセスするためのエンタープライズユーザーが1人以上必要です。
 - [SharePoint モダン化スキャナー](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online 管理シェル](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)。 Firstline ワーカーを使用する組織には、管理センターにアクセスするためのエンタープライズユーザーが1人以上必要です。
+- [SharePoint Online 管理シェル](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true)。 Firstline ワーカーを使用する組織には、管理センターにアクセスするためのエンタープライズユーザーが1人以上必要です。
 - [サイトガバナンス](/sharepoint/governance-overview) 
 - [用語ストアで管理されたメタデータ](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [組織のアセットライブラリ](/sharepoint/organization-assets-library)
 - [組織のニュース](/sharepoint/organization-news-site)
 - [ページの承認](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [ページ](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - レコード管理
 - [ごみ箱](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint モバイルアプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

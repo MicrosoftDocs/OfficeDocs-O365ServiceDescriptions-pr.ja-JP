@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online では次のコア機能が利用可能です。
-ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131271"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294043"
 ---
 # <a name="core-functionality"></a>コア機能
 
@@ -30,7 +30,7 @@ Project Online では次のコア機能が利用可能です。
   
 ## <a name="backstage"></a>Backstage
 
-Backstage の機能を使用するには、[**ファイル**] を選択します。プロジェクトファイルとそのデータを管理できます。 Backstage を使用して、ファイルでは実行しないプロジェクトファイルに対して、非表示のメタデータや個人情報を作成、保存、検査、オプションの設定を行います。 
+Backstage の機能を使用するには、[ **ファイル** ] を選択します。プロジェクトファイルとそのデータを管理できます。 Backstage を使用して、ファイルでは実行しないプロジェクトファイルに対して、非表示のメタデータや個人情報を作成、保存、検査、オプションの設定を行います。 
   
 ## <a name="click-to-run"></a>クイック実行
 
@@ -42,7 +42,7 @@ Backstage の機能を使用するには、[**ファイル**] を選択します
   
 ## <a name="custom-fields"></a>カスタム フィールド
 
-Project に含まれるフィールドに加え、組織のニーズに合わせてカスタム フィールドを使用することもできます。詳細については、「[利用可能なフィールド リファレンス](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)」を参照してください。
+Project に含まれるフィールドに加え、組織のニーズに合わせてカスタム フィールドを使用することもできます。詳細については、「[利用可能なフィールド リファレンス](https://support.office.com/article/615a4563-1cc3-40f4-b66f-1b17e793a460)」を参照してください。
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
@@ -70,11 +70,11 @@ Project の活用を支援するアプリケーションが必要ですか? Offi
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-プロジェクトヘルプは、Office.com で、または「project で直接作業の開始に関するガイド ([**ファイル**] [ \> **新規作成**]) で参照できます。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+プロジェクトヘルプは、Office.com で、または「project で直接作業の開始に関するガイド ([ **ファイル**] [ \> **新規作成**]) で参照できます。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
-## <a name="pdf-and-xps-output"></a>PDF and XPS output
+## <a name="pdf-and-xps-output"></a>PDF および XPS 出力
 
-プロジェクトファイルを PDF または XPS ファイルとして保存します。 「[プロジェクト ファイルを PDF 形式で保存する](https://go.microsoft.com/fwlink/p/?LinkId=271350)」を参照してください。
+プロジェクト ファイルを PDF または XPS ファイルとして保存します。 「[プロジェクト ファイルを PDF 形式で保存する](https://go.microsoft.com/fwlink/p/?LinkId=271350)」を参照してください。
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 次のコアサービス機能は、Project Online で利用できます。
-ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131241"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294092"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 
@@ -32,7 +32,7 @@ Project Online および Project Server 2013 は、管理者が Project の計�
   
 ## <a name="getting-started"></a>はじめに
 
-作業の開始コンテンツは、Project Online で利用できます。 「[Project Online の使用を開始する](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。
+作業の開始コンテンツは、Project Online で利用できます。 「[Project Online の使用を開始する](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)」を参照してください。
   
 ## <a name="issues-and-risk-management-for-team-members"></a>問題とリスクの管理 (チーム メンバー向け)
 
@@ -48,15 +48,15 @@ Microsoft PPM ソリューションは、PPM コンピテンシーを獲得し�
   
 ## <a name="service-reliability"></a>サービスの信頼性
 
-当社は、お客様にとって業界をリードする財務保証を使用して、99.9% のアップタイムを約束しました。 「[サービス継続性](https://go.microsoft.com/fwlink/?LinkId=402653)」を参照してください。
+当社は、お客様にとって業界をリードする財務保証を使用して、99.9% のアップタイムを約束しました。 「 [サービス継続性](https://go.microsoft.com/fwlink/?LinkId=402653)」を参照してください。
   
 ## <a name="service-updates"></a>サービス更新
 
-Microsoft サービスは、新しい機能で定期的に更新されています。 「[サービスの更新](../office-365-platform-service-description/service-updates.md)」を参照してください。
+Microsoft サービスは、新しい機能で定期的に更新されています。 「 [サービスの更新](../office-365-platform-service-description/service-updates.md)」を参照してください。
   
 ## <a name="team-member-collaboration"></a>チーム メンバーのコラボレーション
 
-チーム コラボレーションは、プロジェクト全体の成功と効率性をサポートおよび促進します。 Project Server 2013 を使用して組織がプロジェクトを共同作業する方法については、「[ビデオ: チームと共同作業](https://go.microsoft.com/fwlink/?LinkId=402628)を行う」を参照してください。
+チーム コラボレーションは、プロジェクト全体の成功と効率性をサポートおよび促進します。 Project Server 2013 を使用して組織がプロジェクトを共同作業する方法については、「 [ビデオ: チームと共同作業](https://go.microsoft.com/fwlink/?LinkId=402628)を行う」を参照してください。
   
 ## <a name="time-and-task-management-for-team-members"></a>時間とタスクの管理 (チーム メンバー向け)
 

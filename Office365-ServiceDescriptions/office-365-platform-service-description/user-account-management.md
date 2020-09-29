@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft は、ユーザーを作成、管理、および認証するための以下の方法をサポートしています。
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261549"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294213"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ Microsoft は、ユーザーを作成、管理、および認証するための�
 
 ヘルプを表示する: サインインして office[を](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [インストールまたはアンインストールする](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)(office をキャンセルする)  |  [365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-その他の問題については、 [Microsoft サポートセンター](https://support.microsoft.com/contactus/)を参照してください。 中国の 21Vianet が運用している Office 365 に対するサポートを受けるには、[21Vianet サポート チーム](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)にお問い合わせください。 Office 365 Germany の場合、[Office 365 Germany サポート チーム](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)にお問い合わせください。 
+その他の問題については、 [Microsoft サポートセンター](https://support.microsoft.com/contactus/)を参照してください。 中国の 21Vianet が運用している Office 365 に対するサポートを受けるには、[21Vianet サポート チーム](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)にお問い合わせください。 Office 365 Germany の場合、[Office 365 Germany サポート チーム](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9)にお問い合わせください。 
   
 ## <a name="sign-in-options"></a>サインイン オプション
 
@@ -87,7 +87,7 @@ Microsoft Office デスクトップ アプリケーションなどのリッチ �
     
 - **Ssl 経由の基本/プロキシ認証** -Outlook クライアントは、ssl を介して基本認証の資格情報を Exchange Online に渡します。 Exchange Online は、認証要求を id プラットフォームに、次にオンプレミスの Active Directory フェデレーションサーバー (SSO の場合) にプロキシします。 
     
-Microsoft サービスを適切に検出して認証するために、管理者は、リッチクライアント (Microsoft Office 2010 など) を使用する各ワークステーションに一連のコンポーネントと更新プログラムを適用し、Office 365 に接続する必要があります。 デスクトップのセットアップは、必要な更新プログラムを備えたワークステーションを構成するための自動ツールです。 詳細については、「 [現在の Office デスクトップアプリを使用する](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US)」を参照してください。
+Microsoft サービスを適切に検出して認証するために、管理者は、リッチクライアント (Microsoft Office 2010 など) を使用する各ワークステーションに一連のコンポーネントと更新プログラムを適用し、Office 365 に接続する必要があります。 デスクトップのセットアップは、必要な更新プログラムを備えたワークステーションを構成するための自動ツールです。 詳細については、「 [現在の Office デスクトップアプリを使用する](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7)」を参照してください。
   
 ### <a name="sign-in-experience"></a>サインイン方法
 
@@ -114,7 +114,7 @@ Microsoft サービスを適切に検出して認証するために、管理者�
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-ユーザーを追加する方法は複数あります。 詳細については、「ユーザーを個別に追加する」、 [または](https://docs.microsoft.com/office365/admin/add-users/add-users) 「 [Microsoft 365 管理センタープレビューでユーザーを追加、削除、管理](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)する」を参照してください。 中国で運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でユーザー アカウントを作成または編集する - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
+ユーザーを追加する方法は複数あります。 詳細については、「ユーザーを個別に追加する」、 [または](https://docs.microsoft.com/office365/admin/add-users/add-users) 「 [Microsoft 365 管理センタープレビューでユーザーを追加、削除、管理](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)する」を参照してください。 中国で運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 でユーザー アカウントを作成または編集する - 管理者向けヘルプ](https://docs.microsoft.com/office365/admin/add-users/add-users)」を参照してください。
   
 ## <a name="delete-user-accounts"></a>ユーザーアカウントの削除
 
@@ -181,7 +181,7 @@ SharePoint Online では、セキュリティ グループを使用してサイ�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory サービス
 
-Azure Active Directory (AD) は、Office 365 に対して包括的な ID およびアクセス管理の機能を提供します。開発者のために、ディレクトリ サービス、高度な ID ガバナンス、アプリケーション アクセス管理、機能豊富な標準ベースのプラットフォームを組み合わせています。Office 365 における AD 機能について詳しくは、「[サインイン ページのブランド化とクラウド ユーザーのセルフサービスによるパスワードのリセット](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)」をご覧ください。[Azure Active Directory のエディション](https://msdn.microsoft.com/library/azure/dn532272.aspx)の詳細をご確認ください。 
+Azure Active Directory (AD) は、Office 365 に対して包括的な ID およびアクセス管理の機能を提供します。 開発者のために、ディレクトリ サービス、高度な ID ガバナンス、アプリケーション アクセス管理、機能豊富な標準ベースのプラットフォームを組み合わせています。 Office 365 の AD 機能の詳細については、「[サインインページのブランド化とクラウドユーザーのセルフサービスのパスワードのリセット]()」を参照してください https://go.microsoft.com/fwlink/?linkid=2144147 。 [Azure Active Directory の Free、Basic、Premium の各エディション](https://msdn.microsoft.com/library/azure/dn532272.aspx)の詳細について説明します。 
   
 ## <a name="feature-availability"></a>機能の可用性
 

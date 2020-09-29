@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616913"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294053"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 
@@ -40,7 +40,7 @@ Office ストアから Word 用アドインを入手できます。 Office ア�
 
 Word では、変更を加えたときに文書が自動的に保存されます。
   
-## <a name="autotext"></a>AutoText
+## <a name="autotext"></a>定型句
 
 定型句ギャラリーからの定型句を使用して、書式設定済みのテキストのブロックを挿入することができます。これは、たとえば、同じ内容の大きなテキスト ブロックを繰り返し入力する必要があり、そのテキストに書式設定がたくさん含まれている場合に便利です。選択したテキストを定型句ギャラリーに追加することにより、定型句エントリを作成できます。詳細については、「[テキストを自動的に挿入する](https://go.microsoft.com/fwlink/?linkid=846739)」を参照してください。
   
@@ -50,7 +50,7 @@ Web 用 Word では使用できません。 Office.com にあるプロがデザ�
   
 ## <a name="bullets-and-numbering"></a>箇条書きと段落番号
 
-Web 用の Word では、3つの箇条書きスタイルまたは5つの番号スタイルの選択肢を適用できます。 文書内の既存の箇条書きと段落番号、および Word デスクトップアプリで作成された箇条書きのレベルを変更するには、[**インデント**] および [**インデント**解除] ボタンをクリックします。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Web 用の Word では、3つの箇条書きスタイルまたは5つの番号スタイルの選択肢を適用できます。 文書内の既存の箇条書きと段落番号、および Word デスクトップアプリで作成された箇条書きのレベルを変更するには、[ **インデント** ] および [ **インデント** 解除] ボタンをクリックします。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="captions"></a>図表番号
 
@@ -142,7 +142,7 @@ Web 用の Word では、ローカルハードドライブに保存されてい�
   
 ## <a name="lists"></a>リスト
 
-Web 用の Word では、既存の段落番号の下に直接入力すると、次の行が自動的にリストの一部になります。 詳細については[、「web 用の Word でリストを作成する」](https://go.microsoft.com/fwlink/p/?LinkId=397307)を参照してください。
+Web 用の Word では、既存の段落番号の下に直接入力すると、次の行が自動的にリストの一部になります。 詳細については [、「web 用の Word でリストを作成する」](https://go.microsoft.com/fwlink/p/?LinkId=397307)を参照してください。
   
 ## <a name="mail-merge"></a>差し込み印刷
 
@@ -160,7 +160,7 @@ Web および Word デスクトップアプリ用の両方の Word に改ペー�
 
 Web に Word を使用すると、余白、用紙サイズ、および文書内で垂直方向または水平方向にページをレイアウトするかどうかを調整できます。 Word for the web では、ルーラーとグリッド線は表示されません。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。 
   
-[Word で web 用の空白のページを削除](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1)する方法について説明します。
+[Word で web 用の空白のページを削除](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)する方法について説明します。
   
 ## <a name="page-layout-tools-advanced"></a>ページレイアウトツール、詳細設定
 
@@ -204,7 +204,7 @@ Web 用 Word では使用できません。 スペル チェック辞書への�
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
 
-複数の人が同時に 1 つの文書で作業できます。 Word for the web and Word 2016 では、リアルタイムプレゼンスを使用すると、共同編集者が文書内で作業している場所を確認することができ、編集時に競合が発生しないようにしたり、変更内容を表示することができます。 Word 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。 リアルタイム共同編集の詳細については、「 [word の新機能](https://go.microsoft.com/fwlink/?LinkId=389520)」を参照してください。また、 [word ドキュメントでリアルタイム共同編集を使用して共同作業](https://go.microsoft.com/fwlink/?linkid=798760)を行うことができます。
+複数の人が同時に 1 つの文書で作業できます。 Word for the web and Word 2016 では、リアルタイムプレゼンスを使用すると、共同編集者が文書内で作業している場所を確認することができ、編集時に競合が発生しないようにしたり、変更内容を表示することができます。 Word 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。 リアルタイム共同編集の詳細については、「 [word の新機能](https://go.microsoft.com/fwlink/?LinkId=389520) 」を参照してください。また、 [word ドキュメントでリアルタイム共同編集を使用して共同作業](https://go.microsoft.com/fwlink/?linkid=798760)を行うことができます。
   
 ## <a name="reference-tools"></a>参照ツール
 
@@ -284,11 +284,11 @@ Web 用の Word では、編集モードでコメントを挿入、編集、ま�
   
 ## <a name="word-count"></a>文字カウント
 
-Word では、文書内の単語数についての大まかな語句が提供されます。 Word の word の単語数の詳細について[は、「web」](https://go.microsoft.com/fwlink/p/?LinkId=271864)を参照してください。
+Word では、文書内の単語数についての大まかな語句が提供されます。 Word の word の単語数の詳細について [は、「web」](https://go.microsoft.com/fwlink/p/?LinkId=271864)を参照してください。
   
 ## <a name="zoom"></a>拡大/縮小
 
-拡大/縮小は表示モードで利用できます。 Web 用の Word の場合、ブラウザーの表示設定を使用して、編集モードで拡大または縮小します。 Word の word の単語数の詳細について[は、「web」](https://go.microsoft.com/fwlink/p/?LinkId=271864)を参照してください。
+拡大/縮小は表示モードで利用できます。 Web 用の Word の場合、ブラウザーの表示設定を使用して、編集モードで拡大または縮小します。 Word の word の単語数の詳細について [は、「web」](https://go.microsoft.com/fwlink/p/?LinkId=271864)を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 
@@ -296,5 +296,5 @@ Word では、文書内の単語数についての大まかな語句が提供さ
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>オペレーティングパラメーターの制限と仕様
 
-オペレーティングパラメーターの制限については、「[オペレーティングパラメーターの制限と仕様 (Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation))」を参照してください。
+オペレーティングパラメーターの制限については、「 [オペレーティングパラメーターの制限と仕様 (Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation))」を参照してください。
   

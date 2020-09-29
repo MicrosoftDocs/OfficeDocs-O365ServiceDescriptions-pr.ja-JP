@@ -1,5 +1,5 @@
 ---
-title: メッセージングのポリシーと準拠
+title: Exchange Online Protection のメッセージングポリシーとコンプライアンス
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: この記事では、Microsoft Exchange Online Protection (EOP) のメッセージングポリシーとコンプライアンス機能について説明します。
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132791"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293803"
 ---
-# <a name="messaging-policy-and-compliance"></a>メッセージング ポリシーとコンプライアンス
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection のメッセージングポリシーとコンプライアンス
 
 Microsoft Exchange Online Protection (EOP) は、電子メールデータの管理に役立つメッセージングポリシーとコンプライアンス機能を提供します。
 
@@ -65,7 +65,7 @@ Office 365 Message Encryption は、Azure Information Protection の一部で、
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP オプション間のメッセージング ポリシーとコンプライアンス機能
 
-|**機能**|**EOP スタンドアロン**|**Exchange Online の EOP 機能 <br/>**|**Exchange Enterprise <br/> CAL とサービス**|
+| 機能 | EOP スタンドアロン | EOP の機能 <br/> Exchange Online | Exchange Enterprise <br/> サービスを使用した CAL |
 |:-----|:-----|:-----|:-----|
 |メール フロー ルール|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1、3</sup>|
 |監査ログ|はい<sup>2</sup>|はい|はい|

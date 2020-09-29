@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131421"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294105"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -30,11 +30,11 @@ Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブ�
 > [!NOTE]
 > この記事に記載されている高度な機能には、Office スイートのみで利用できる Excel デスクトップアプリ機能 (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise など) があります。 Web 用の Word、web 用の PowerPoint など、web 機能を使用するすべての Office のリストについては、「 [web 上の office の機能の利用状況](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)」を参照してください。
 
-Excel でサポートされているファイルの種類を確認するには、「web 用に[Office でサポート](office-online-service-description.md#supported-file-types-for-office-for-the-web)されているファイルの種類」を参照してください。 Excel と excel デスクトップアプリの相違点の詳細については、「[ブラウザーと excel でのブックの使用の相違点](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)」を参照してください。
+Excel でサポートされているファイルの種類を確認するには、「web 用に [Office でサポート](office-online-service-description.md#supported-file-types-for-office-for-the-web)されているファイルの種類」を参照してください。 Excel と excel デスクトップアプリの相違点の詳細については、「 [ブラウザーと excel でのブックの使用の相違点](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)」を参照してください。
   
 ## <a name="add-background-color-to-sheet-tabs"></a>シート見出しに背景色を追加する 
 
-背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「[シート見出しに背景色を追加](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。
+背景の塗りつぶしの色をブックの下部にあるシートのタブに追加して、それらを目立たせます。詳細については、「 [シート見出しに背景色を追加](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59)する」を参照してください。
 
 ## <a name="add-hyperlinks"></a>ハイパーリンクの追加
 
@@ -78,22 +78,22 @@ Excel を使用して、さまざまな自動、手動、反復計算を実行�
 
 ## <a name="cell-references-in-formulas"></a>数式内のセル参照
 
-数式ではセル参照を使用できます。 [数式でセルまたは範囲を参照](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「[数式でセル参照を使用する](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)」を参照してください。
+数式ではセル参照を使用できます。 [数式でセルまたは範囲を参照](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)すると、参照されているセルまたはセル範囲が色で強調表示されます。 詳細については、「 [数式でセル参照を使用する](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)」を参照してください。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>新しいデータに合わせたグラフ アニメーション
 高度なグラフ機能は、Microsoft Excel デスクトップ アプリのみでサポートされます。 [SmartArt グラフィックをアニメーション化する方法の](https://go.microsoft.com/fwlink/p/?LinkId=271668)詳細については、「」を参照してください。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>ピボットグラフ レポートとピボットテーブル レポートを含む、グラフとテーブル
 
-Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。 詳細については、「 [Create and format tables](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) 」、および「[ピボットテーブルとピボットグラフレポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
+Excel のグラフとテーブルを使えば、データの書式設定と情報の管理を簡単に行うことができます。 詳細については、「 [Create and format tables](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) 」、および「 [ピボットテーブルとピボットグラフレポートの概要](https://go.microsoft.com/fwlink/?linkid=55417)」を参照してください。
 
 ## <a name="check-spelling"></a>スペルチェックを行う
 
-ワークシート上のテキストのスペルチェックを行うには、[校正のスペル**チェックを行う] を選択し**  >  **Proofing**  >  **Spelling**ます。 詳細については、「[スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
+ワークシート上のテキストのスペルチェックを行うには、[校正のスペル**チェックを行う] を選択し**  >  **Proofing**  >  **Spelling**ます。 詳細については、「 [スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
 
 ## <a name="comment-creation"></a>Comment creation
 
-Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 [コメントで @mentions を使用](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online)して、伝えた人物に電子メールを送信します。 詳細について[は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
+Web 用の Excel でコメントを挿入、編集、および削除することができます。 コメントスレッドを解決することもできます。このスレッドは、編集と新しいコメントに対して閉じますが、そのままにしておきます。 これにより、必要に応じて、コメントにスレッドを再度開くことができます。 [コメントで @mentions を使用](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) して、伝えた人物に電子メールを送信します。 詳細について [は、「Excel にコメントを追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271670)参照してください。
 
 ## <a name="convert-a-table-to-a-range"></a>テーブルを範囲に変換する
 
@@ -109,7 +109,7 @@ Excel を web に使用してデータ接続を表示することはできます
   
 ## <a name="create-tables"></a>テーブルの作成
 
-テーブルを作成して関連データの整理と分析を行います。 テーブルを作成することで、データの並べ替え、フィルター処理、および書式設定が容易になります。 スタイルギャラリーを含む、[表の書式設定オプション](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)を使用して、一部のポーランド語を追加します。
+テーブルを作成して関連データの整理と分析を行います。 テーブルを作成することで、データの並べ替え、フィルター処理、および書式設定が容易になります。 スタイルギャラリーを含む、 [表の書式設定オプション](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)を使用して、一部のポーランド語を追加します。
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>高度な分析ビュー (Power View、Power Pivot、スライサー) の作成
 
@@ -117,7 +117,7 @@ Power Pivot や Power View などの高度な分析機能は、Excel デスク�
   
 ## <a name="data-validation"></a>データ検証
 
-データ検証を使うと、ユーザーがセルに入力するデータや値の種類を制限することができます。 詳細については、「[セルにデータの入力規則を適用](https://go.microsoft.com/fwlink/?linkid=844735)する」を参照してください。
+データ検証を使うと、ユーザーがセルに入力するデータや値の種類を制限することができます。 詳細については、「 [セルにデータの入力規則を適用](https://go.microsoft.com/fwlink/?linkid=844735)する」を参照してください。
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
@@ -161,7 +161,7 @@ OneDrive.com に Excel ブックを保存すると、ブログや Web サイト�
   
 ## <a name="formula-tools-advanced"></a>数式ツール、詳細
 
-Microsoft Excel デスクトップアプリには、3D 参照スタイルなど、最も高度な数式ツールが用意されています。 Excel for the web では、[動的配列数式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)などの高度な excel 数式がサポートされています。 [数式](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US)の詳細については、こちらを参照してください。
+Microsoft Excel デスクトップアプリには、3D 参照スタイルなど、最も高度な数式ツールが用意されています。 Excel for the web では、 [動的配列数式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)などの高度な excel 数式がサポートされています。 [数式](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173)の詳細については、こちらを参照してください。
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -171,7 +171,7 @@ Microsoft Excel デスクトップアプリには、3D 参照スタイルなど�
 
 編集表示でブラウザーのブックに表示できるものはすべて、閲覧表示でも表示できます。
   
-## <a name="functions"></a>= (式) フィールドで使用できる関数
+## <a name="functions"></a>関数
 
 [フィルター関数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)などの[動的配列数式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)で使用される関数を含む、web 用の excel の数式では、最大400の excel ワークシート関数を使用できます。
   
@@ -189,7 +189,7 @@ Excel で web 用のブックの行、列、およびシートを表示または
 
 ## <a name="ideas"></a>アイデア
 
-Excel のアイデアは、高度な視覚的な概要、傾向、パターンによってデータを理解するのに便利です。 データ範囲のセルを選択し、[**ホーム**] タブの [**アイデア**] ボタンを選択するだけです。 Excel でのアイデアは、データを分析し、それに関する興味深い視覚効果を作業ウィンドウに表示します。 詳細について[は、「Excel のアイデア」を](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)参照してください。
+Excel のアイデアは、高度な視覚的な概要、傾向、パターンによってデータを理解するのに便利です。 データ範囲のセルを選択し、[**ホーム**] タブの [**アイデア**] ボタンを選択するだけです。Excel でのアイデアは、データを分析し、それに関する興味のあるビジュアルを作業ウィンドウで返します。 詳細について [は、「Excel のアイデア」を](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)参照してください。
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -201,7 +201,7 @@ Excel のアイデアは、高度な視覚的な概要、傾向、パターン�
 
 ## <a name="insert-pictures"></a>画像を挿入する
 
-画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について[は、「Excel での画像の挿入](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3)について」を参照してください。
+画像をスプレッドシートに挿入して、視覚的な関心を追加します。 詳細について [は、「Excel での画像の挿入](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3)について」を参照してください。
 
 ## <a name="insert-shapes"></a>図形の挿入
 
@@ -249,7 +249,7 @@ Excel for the web を使用すると、Power Pivot テーブルおよびグラ�
   
 ## <a name="print"></a>印刷
 
-Web 用 Excel の [印刷] コマンドを使用して、ワークシート全体または現在の選択範囲をプリンターに送信します。 詳細について[は、「Excel で web 用に印刷する」を](https://go.microsoft.com/fwlink/p/?LinkId=271676)参照してください。
+Web 用 Excel の [印刷] コマンドを使用して、ワークシート全体または現在の選択範囲をプリンターに送信します。 詳細について [は、「Excel で web 用に印刷する」を](https://go.microsoft.com/fwlink/p/?LinkId=271676)参照してください。
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
 
@@ -277,7 +277,7 @@ Web 用の Excel では、ヘッダーでファイル名を選択し、新しい
   
 ## <a name="replace"></a>置換
 
-Web 用 Excel では使用できません。 お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。 詳細につい[ては、「Excel で検索と置換を使用する」を](https://go.microsoft.com/fwlink/p/?LinkId=282333)参照してください。
+Web 用 Excel では使用できません。 お使いのコンピューターに Excel デスクトップ アプリがインストールされている場合は、Excel を使用してドキュメントの内容の検索と置換を行うことができます。 詳細につい [ては、「Excel で検索と置換を使用する」を](https://go.microsoft.com/fwlink/p/?LinkId=282333)参照してください。
   
 ## <a name="rights-management-irm-and-password-security"></a>アクセス権管理:IRM とパスワード セキュリティ
 
@@ -293,7 +293,7 @@ Web 用 Excel では使用できません。 お使いのコンピューター�
   
 ## <a name="share"></a>共有
 
-他のユーザーがドキュメントを表示または編集できるように、ワンクリックでリンクを送付できます。 Office の使用についての詳細[は、「office 365 での共同作業」](https://go.microsoft.com/fwlink/p/?linkid=272770)を参照してください。
+他のユーザーがドキュメントを表示または編集できるように、ワンクリックでリンクを送付できます。 Office の使用についての詳細 [は、「office 365 での共同作業」](https://go.microsoft.com/fwlink/p/?linkid=272770)を参照してください。
   
 ## <a name="sheet-protection"></a>シートの保護
 
@@ -301,7 +301,7 @@ Excel ファイルを他のユーザーと共有する場合、ワークシー�
 
 ## <a name="sheet-views"></a>シートビュー
 
-[シートビュー](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)を使用すると、他のユーザーによって中断されることなく、Excel ワークシートのカスタマイズしたビューを作成できます。 たとえば、ユーザーにとって重要なレコードのみを表示するフィルターを設定できます。ドキュメント内の他のユーザーの並べ替えやフィルター処理による影響を受けません。 同じワークシートに複数のシートビューを設定することもできます。
+[シートビュー](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) を使用すると、他のユーザーによって中断されることなく、Excel ワークシートのカスタマイズしたビューを作成できます。 たとえば、ユーザーにとって重要なレコードのみを表示するフィルターを設定できます。ドキュメント内の他のユーザーの並べ替えやフィルター処理による影響を受けません。 同じワークシートに複数のシートビューを設定することもできます。
   
 ## <a name="slicers"></a>スライサー
 
@@ -353,7 +353,7 @@ Web 用 Excel では使用できません。 必要に応じて、Excel での "
 
 ## <a name="workbook-statistics"></a>ブックの統計情報
 
-ブックの統計情報機能は、ブックの要素を数えて識別し、そのすべてのコンテンツを検出するのに役立ちます。 [**校閲**] タブが表示されます。
+ブックの統計情報機能は、ブックの要素を数えて識別し、そのすべてのコンテンツを検出するのに役立ちます。 [ **校閲** ] タブが表示されます。
   
 ## <a name="feature-availability"></a>機能の可用性
 

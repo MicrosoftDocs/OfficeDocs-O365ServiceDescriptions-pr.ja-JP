@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Exchange Online のメッセージポリシーとコンプライアンスについて説明します。
+ms.openlocfilehash: d723d686e3e939753e8007d41b0fdaf0d0363524
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132701"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293833"
 ---
 # <a name="message-policy-and-compliance"></a>メッセージ ポリシーとコンプライアンス
 
@@ -44,7 +45,7 @@ Exchange Online には、ユーザーが古い電子メールメッセージを�
 > [!IMPORTANT]
 > - ジャーナリング、トランスポート ルール、または自動転送ルールを使用してアーカイブの目的のため、Exchange Online メールボックスにメッセージをコピーすることは許可されていません。 Microsoft は、メールボックスアーカイブが個人のシナリオで使用されていない場合や不適切な使用がある場合に、無制限のアーカイブを拒否する権利を留保します。
 > - インプレース アーカイブには、Outlook ユーザーに対する特定のライセンス要件があります。Outlook 2007 ユーザーが個人用アーカイブにアクセスするためには、Office 2007 の 2011 年 2 月の累積的な更新プログラムが必要です。 
-> - Exchange Online では、管理者が作成した .pst ファイルを個人用アーカイブにインポートするために、Exchange Server 2010 Service Pack 1 以降の_New-mailboximportrequest_ Windows PowerShell コマンドレットをサポートしていません。 ユーザーのプライマリ メールボックスとアーカイブの両方が Exchange Online にある場合、管理者は PST Capture (無料ツール) を使用してユーザーのプライマリ メールボックスまたはアーカイブに .pst ファイルのデータをインポートすることができます。
+> - Exchange Online では、管理者が作成した .pst ファイルを個人用アーカイブにインポートするために、Exchange Server 2010 Service Pack 1 以降の  _New-mailboximportrequest_ Windows PowerShell コマンドレットをサポートしていません。 ユーザーのプライマリ メールボックスとアーカイブの両方が Exchange Online にある場合、管理者は PST Capture (無料ツール) を使用してユーザーのプライマリ メールボックスまたはアーカイブに .pst ファイルのデータをインポートすることができます。
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>社内メールボックスのクラウドベースのアーカイブ
 
@@ -72,7 +73,7 @@ Exchange Online で利用できるアイテム保持ポリシーの機能は、E
   
 ## <a name="encryption-of-data-at-rest"></a>保管中データの暗号化
 
-保存されている顧客データの暗号化は、BitLocker、DKM、Azure Storage Service の暗号化、Exchange Online、Skype for business、OneDrive for Business、および SharePoint Online のサービス暗号化など、複数のサービス側テクノロジによって提供されます。 Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。 この顧客管理キーオプション ( [Customer キー](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)と呼ばれる) は、Exchange Online、SharePoint Online、OneDrive for business で使用できます。 
+保存されている顧客データの暗号化は、BitLocker、DKM、Azure Storage Service の暗号化、Exchange Online、Skype for business、OneDrive for Business、および SharePoint Online のサービス暗号化など、複数のサービス側テクノロジによって提供されます。 Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。 この顧客管理キーオプション ( [Customer キー](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)と呼ばれる) は、Exchange Online、SharePoint Online、OneDrive for business で使用できます。 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -84,7 +85,7 @@ BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロ�
   
 ## <a name="customer-key"></a>顧客キー
 
-顧客キーを使用して、組織の暗号化キーを制御し、Microsoft のデータセンターで保存されているデータを暗号化するように構成します。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 詳細については、「顧客キーを[使用してデータを管理する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」および「[顧客キーの FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)」を参照してください。
+顧客キーを使用して、組織の暗号化キーを制御し、Microsoft のデータセンターで保存されているデータを暗号化するように構成します。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 詳細については、「顧客キーを [使用してデータを管理する](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) 」および「 [顧客キーの FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)」を参照してください。
   
 ## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
 
@@ -96,7 +97,7 @@ Office 365 Advanced Message Encryption では、メッセージの有効期限�
 
 S/MIME を使用すれば、組織内で署名して暗号化した電子メールを送信することにより、機密情報を保護することができます。管理者は、PKI 証明書を設定してユーザーに発行した後で、リモート Windows PowerShell を使用して S/MIME をセットアップすることができます。この証明書は、社内の Active Directory 証明書サービスから同期する必要があります。
   
-S/MIME は Microsoft Edge および Internet Explorer 11 でサポートされています。 現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。 詳細については、「[S/MIME によるメッセージの署名と暗号化](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)」を参照してください。
+S/MIME は Microsoft Edge および Internet Explorer 11 でサポートされています。 現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。 詳細については、「[S/MIME によるメッセージの署名と暗号化](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019&preserve-view=true)」を参照してください。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>インプレース保持と訴訟ホールド
 
@@ -170,7 +171,7 @@ Exchange Online では、権限のあるユーザーがインプレース電子�
 > [!IMPORTANT]
 > 電子メール サーバー上にサードパーティの iFilter をインストールする必要のある添付ファイルの種類 (Adobe .pdf など) では、適切な iFilter をインストールしない限りメール フロー ルールを使用して検査できません。メール フロー ルールでサポートされているファイルの種類の詳細については、「[Office 365 で、メール フロー ルールを使用してメッセージの添付ファイルを検査する](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)」を参照してください。
   
-メール フロー ルールの詳細については、「[Exchange 2016 でのメール フロー ルール](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)」をご覧ください。
+メール フロー ルールの詳細については、「[Exchange 2016 でのメール フロー ルール](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019&preserve-view=true)」をご覧ください。
   
 ## <a name="data-loss-prevention"></a>データ損失防止
 

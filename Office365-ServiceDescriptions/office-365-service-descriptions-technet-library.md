@@ -13,20 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131461"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294183"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 および Office 365 サービスの説明 
 
 Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
-このライブラリのトピックでは、Microsoft 365 および Office 365 で利用可能なサービスと機能の詳細について説明します。 プランの機能を比較するには、次の一覧にある、エンタープライズまたは関連するサービスの説明を[サポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)を参照してください。 
+このライブラリのトピックでは、Microsoft 365 および Office 365 で利用可能なサービスと機能の詳細について説明します。 プランの機能を比較するには、次の一覧にある、エンタープライズまたは関連するサービスの説明を [サポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) を参照してください。 
   
-サポート記事および情報については、「 [Office Help & トレーニング](https://support.office.com/)」、「[管理者と it プロフェッショナル向けの office ドキュメント](https://docs.microsoft.com/office/)」、および「 [Microsoft 365 Help center FOR admins](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)」および「it プロフェッショナル」を参照してください。
+サポート記事および情報については、「 [Office Help & トレーニング](https://support.office.com/)」、「 [管理者と it プロフェッショナル向けの office ドキュメント](https://docs.microsoft.com/office/)」、および「 [Microsoft 365 Help center FOR admins](https://docs.microsoft.com/microsoft-365/)」および「it プロフェッショナル」を参照してください。
   
 > [!NOTE]
 > サービスの説明の比較スプレッドシートを探している場合は、廃止されました。 各サービスの説明ページにある製品機能の可用性表が更新され、ニーズに合った Office 365 のバージョンを選択するのに役立ちます。 
@@ -86,5 +86,5 @@ Microsoft では、対象となるプランに含まれるサービスのため�
   
 ## <a name="disclaimer"></a>免責事項
 
-&copy;2018 Microsoft Corporation All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft またはお客様をコミットしません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。
+&copy; 2018 Microsoft Corporation All rights reserved。 Microsoft、Office 365、その他の製品およびサービスの名前は、米国およびその他の国における登録商標または商標、あるいはその両方に含まれている場合があります。 ここで提供されている情報は情報提供のみを目的としており、最新の文書またはこのドキュメントの改訂日付の時点での Microsoft Corporation の現在のビューを表しています。 これは、サービス契約の対象ではなく、ここに記載されている機能、機能、または責任に対して Microsoft やお客様をコミットすることはありません。 MICROSOFT は、このドキュメントに記載されている情報については、明示的、黙示的、または法律上で、一切の保証を行いません。
  

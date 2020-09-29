@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: feb7ce1db3b904218a0a4a9df994cb8500cfd2ca
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214376"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293883"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -202,7 +202,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |[脅威の管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)(メールフィルタリング、マルウェア対策など)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度な脅威の管理](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)(フィッシングキャンペーン用の脅威エクスプローラーなど) <sup>5</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[カスタマー ロックボックス](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|[モバイル デバイス管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|[モバイル デバイス管理](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ損失防止](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[データ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[高度なデータ ガバナンス](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -426,7 +426,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
   
 > [!NOTE]
 > タスクのサポートが必要な場合、または問題のトラブルシューティングを行う場合、以下の記事が役立ちます。<br/> 
-> - [メールの](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) 作成と送信に関するヘルプを提供します。 
+> - [メールの](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) 作成と送信に関するヘルプを提供します。 
 >- [一般法人向け Office 365 のメール - 管理者向けヘルプ](https://docs.microsoft.com/microsoft-365/admin/email/)
 >- [メッセージ サイズの制限](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [Microsoft Office 365 サポート/回復アシスタントで Outlook と Office 365 の問題を解決する](https://diagnostics.office.com/)
@@ -574,7 +574,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 #### <a name="message-limits"></a>メッセージの制限
 
-- **メッセージサイズの制限** -メッセージサイズの制限は、サイズの大きいメッセージが他のメッセージの配信をブロックしたり、すべてのユーザーのサービスのパフォーマンスに影響を与えないようにするために必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。
+- **メッセージサイズの制限** -メッセージサイズの制限は、サイズの大きいメッセージが他のメッセージの配信をブロックしたり、すべてのユーザーのサービスのパフォーマンスに影響を与えないようにするために必要です。 これらの制限には添付ファイルも含まれ、組織全体のすべてのメッセージ (受信、送信、および内部) に対して適用されます。 この制限値を上回るメッセージは配信されず、送信者に配信不能レポート (NDR) が送られます。 メッセージ サイズの制限値を増減したり、ユーザー単位で構成したりできますが、管理者もトランスポート ルールを作成して、個々の添付ファイルの最大サイズを制限できます。 詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://go.microsoft.com/fwlink/?linkid=2144144)する」を参照してください。
     
    > [!NOTE]
     > 電子メール クライアントによっては、メッセージ サイズの制限が低くなるか、個々の添付ファイルのサイズが Exchange Online のメッセージ サイズ制限より小さい値に制限される場合があります。 
@@ -609,11 +609,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |埋め込みメッセージの深さの制限  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |30 の埋め込みメッセージ  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft 管理者は、1 mb と 150 MB の間でカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織で許可される最大メッセージサイズのカスタマイズの詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)する」を参照してください。<br/> 
+> <sup>1</sup> Microsoft 管理者は、1 mb と 150 MB の間でカスタムの制限を指定できます。 ただし、送信または受信できるメッセージのサイズは、電子メール クライアントまたはソリューション サポートにも依存します。 組織で許可される最大メッセージサイズのカスタマイズの詳細については、「 [Microsoft が大規模なメールメッセージをサポート](https://go.microsoft.com/fwlink/?linkid=2144144)する」を参照してください。<br/> 
 <sup>2</sup> ユーザー間で最大 150 MB のメッセージを送受信できます (メッセージが Microsoft データセンターから送信されることはありません)。 Microsoft データセンターの外部にルーティングされるメッセージには、33% の翻訳エンコードの増加が追加されます。この場合、最大メッセージサイズは 112 MB になります。 <br/> 
 <sup>3</sup> OWA ではメッセージ サイズがエンコードで 33% 増加する可能性があるため、ユーザーが送信できるメッセージ サイズを構成されているよりも 25% 低い値に制限されます。 たとえば、100 MB の最大メッセージ サイズの設定にカスタマイズした場合、送信できるメッセージは 75 MB 以下です。 <br/> 
 <sup>4</sup> Exchange Online に移動するメッセージのサイズは Exchange Online によって計算されます。 Exchange Server 2013 より前のバージョンの Exchange では、アイテムのサイズが小さく報告されます。 この制限は、サポート対象の Exchange メールボックス レプリケーション サービスを使用する、移動ベースの移行に適用されます。 その他の移行方法 (一括、段階的な IMAP、PST) およびその他のサード パーティ製ツールは、一般的なメッセージ サイズの制限を受けます。 <br/> 
-<sup>5</sup> 新しい機能を備えた OME については、「 [Azure Information Protection をベースにした新しい Office 365 Message Encryption 機能を構築する](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)」を参照してください。 
+<sup>5</sup> 新しい機能を備えた OME については、「 [Azure Information Protection をベースにした新しい Office 365 Message Encryption 機能を構築する](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)」を参照してください。 
   
 #### <a name="receiving-and-sending-limits"></a>受信および送信の制限
 

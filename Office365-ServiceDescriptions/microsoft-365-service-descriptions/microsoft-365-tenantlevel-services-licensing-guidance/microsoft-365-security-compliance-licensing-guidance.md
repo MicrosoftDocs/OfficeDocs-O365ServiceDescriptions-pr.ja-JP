@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
-ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
+ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48284989"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294163"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -315,11 +315,11 @@ Microsoft のパートナーのいずれかによって提供される M365 セ�
 
 ## <a name="microsoft-graph-apis-for-teams-dlp"></a>Teams DLP の Microsoft Graph Api
 
-今年前半に、 [Teams のメッセージに関する Microsoft Graph 変更通知 API のパブリックプレビューを発表しました](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)。 この API を使用すると、開発者は、Microsoft Teams のメッセージをほぼリアルタイムで聴いて、お客様と Isv の両方の DLP シナリオ実装を有効にできるアプリを構築することができます。 さらに、Microsoft Graph Patch API を使用すると、Teams のメッセージに DLP アクションを適用することができます。
+今年前半に、 [Teams のメッセージに関する Microsoft Graph 変更通知 API のパブリックプレビューを発表しました](https://go.microsoft.com/fwlink/?linkid=2143888)。 この API を使用すると、開発者は、Microsoft Teams のメッセージをほぼリアルタイムで聴いて、お客様と Isv の両方の DLP シナリオ実装を有効にできるアプリを構築することができます。 さらに、Microsoft Graph Patch API を使用すると、Teams のメッセージに DLP アクションを適用することができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-Microsoft Teams では、[データ損失防止 (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide)機能がよく使用されています。これは、組織がリモート作業に移行したためです。 組織に DLP がある場合は、Microsoft Teams チャネルまたはチャットセッションで機密情報を共有できないようにするポリシーを定義できるようになりました。
+Microsoft Teams では、[データ損失防止 (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)機能がよく使用されています。これは、組織がリモート作業に移行したためです。 組織に DLP がある場合は、Microsoft Teams チャネルまたはチャットセッションで機密情報を共有できないようにするポリシーを定義できるようになりました。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 米国政府機関のクラウドのお客様が利用できる SharePoint の機能について説明します。
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175010"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294193"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>米国政府機関向けの SharePoint
 
@@ -22,7 +22,7 @@ ms.locfileid: "42175010"
 
 資格および購入に関する政府機関のクラウドに関する詳細については、「 [Microsoft 365 government-購入方法](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)」を参照してください。 Office 365 Government プランを比較するには、「 [office 365 government プラン](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)」を参照してください。
 
-ネットワーク接続を管理するときに必要なエンドポイントの詳細については、「 [office 365 米国政府用 GCC、高エンドポイント](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)または[Office 365 米国政府の DoD エンドポイント](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)」を参照してください。
+ネットワーク接続を管理するときに必要なエンドポイントの詳細については、「 [office 365 米国政府用 GCC、高エンドポイント](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) または [Office 365 米国政府の DoD エンドポイント](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)」を参照してください。
 
 Office 365 の機能を楽しんだだけでなく、米国政府機関のクラウド環境に固有の次の機能を活用することができます。
 
@@ -40,7 +40,7 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 - アドインのデータソースなどの外部アプリケーションへの接続は、政府機関の環境でサポートされているシステムセキュリティ境界内にあるソースに制限されます。
 - クラウドサービスのセキュリティ境界内でデータソースにアクセスできる接続シナリオでは、Business Connectivity Services (BCS) 機能がサポートされています。
 
-サイトでサードパーティ製アプリケーションを使用する場合は、組織でのこれらのサービスの適切な使用法を評価する際に、サードパーティによって提供されるプライバシーとコンプライアンスのステートメントを確認してください。 サードパーティ製のアプリケーションおよびサービスには、政府機関の外部のシステムで組織の顧客データを保存、送信、および処理することが含まれるため、コンプライアンスとデータ保護の対象にならない場合があります。対する. 
+サイトでサードパーティ製アプリケーションを使用する場合は、組織でのこれらのサービスの適切な使用法を評価する際に、サードパーティによって提供されるプライバシーとコンプライアンスのステートメントを確認してください。 サードパーティ製のアプリケーションおよびサービスでは、政府機関の外部のシステムで組織の顧客データを保存、送信、および処理することによって、コンプライアンスやデータ保護のコミットメントの対象にならない場合があります。 
 
 ## <a name="it-admin-features"></a>IT 管理者向けの機能
 
@@ -63,7 +63,7 @@ FastTrack の移行の詳細については、「 [Office 365 US Government サ�
 - データ損失防止 (DLP)
 - 電子情報開示 (コンテンツ検索、保留、エクスポート)
 - Office 365 Advanced Threat Protection (ATP)
-- 機密ラベル
+- 秘密度ラベル
 
 Government の Azure Active Directory 機能の詳細については、「 [Azure Government Security + Identity ドキュメント](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)」を参照してください。 
 
@@ -85,14 +85,14 @@ Government の Azure Information Protection 機能の詳細については、「
 
 ## <a name="sharing-and-sync"></a>共有と同期
 
-商用クラウド環境と官公庁クラウド環境の機能の違いについては、「[ファイル共有](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)」を参照してください。
+商用クラウド環境と官公庁クラウド環境の機能の違いについては、「 [ファイル共有](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)」を参照してください。
 
 ## <a name="plan-for-governance"></a>ガバナンスを計画する
 
-クラウドへの移行では、組み込みの管理コントロールを使用したプロジェクトエクスペリエンスが提供されます。 ガバナンスの要件と、それに対応する方法を決定します。 詳細については、「[ワークチームを Microsoft 365 に変換するためのガバナンスを計画](https://resources.techcommunity.microsoft.com/teamwork-governance/)する」を参照してください。 Office 365 グループ、SharePoint、Teams などに関するガイダンスが記載されています。
+クラウドへの移行では、組み込みの管理コントロールを使用したプロジェクトエクスペリエンスが提供されます。 ガバナンスの要件と、それに対応する方法を決定します。 詳細については、「 [ワークチームを Microsoft 365 に変換するためのガバナンスを計画](https://resources.techcommunity.microsoft.com/teamwork-governance/) する」を参照してください。 Office 365 グループ、SharePoint、Teams などに関するガイダンスが記載されています。
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>コラボレーションのために SharePoint を展開する
 
 Microsoft US government cloud で組織を設定した後、 [SharePoint 導入リソースセンター](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)で説明されている推奨される展開パスに従います。 導入の際には、管理エキスパートに協力してください。
-また、 [Fasttrack](https://www.microsoft.com/fasttrack)または選択したパートナーと連携して、ユーザーにサービスをロールアウトすることもできます。
-Microsoft のセキュリティ[センター](https://www.microsoft.com/en-us/trust-center)にアクセスすることにより、お客様にサービスを提供するように組織を支援する方法についての基本理念として、microsoft のセキュリティ、プライバシー、法令遵守の方法について知ることができます。
+また、 [Fasttrack](https://www.microsoft.com/fasttrack) または選択したパートナーと連携して、ユーザーにサービスをロールアウトすることもできます。
+Microsoft のセキュリティ [センター](https://www.microsoft.com/trust-center) にアクセスすることにより、お客様にサービスを提供するように組織を支援する方法についての基本理念として、microsoft のセキュリティ、プライバシー、法令遵守の方法について知ることができます。

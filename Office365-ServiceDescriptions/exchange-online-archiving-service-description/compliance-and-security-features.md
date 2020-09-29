@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: この記事では、Microsoft Exchange Online アーカイブで利用できるコンプライアンス機能について説明します。
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132741"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293623"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online アーカイブのコンプライアンス機能とセキュリティ機能
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving のコンプライアンス機能
 
-以下のセクションでは、Microsoft Exchange Online Archiving のコンプライアンス機能について説明します。
+この記事では、Microsoft Exchange Online アーカイブのコンプライアンス機能について説明します。
   
 ### <a name="retention-policies"></a>アイテム保持ポリシー
 
@@ -31,7 +32,7 @@ Exchange Online Archiving は、アーカイブと削除の 2 種類のポリシ
   
 Outlook 2010 以降と web 上の Outlook では、ユーザーはフォルダー、会話、または個々のメッセージにアイテム保持ポリシーを適用し、メッセージに適用されているアイテム保持ポリシーと予期される削除日を表示することもできます。 他の電子メール クライアントのユーザーは、管理者が準備したサーバー側のアイテム保持ポリシーに基づいて電子メールを削除またはアーカイブできますが、同じレベルの表示および管理機能は使用できません。
   
-Exchange Online Archiving で提供されるアイテム保持ポリシー機能は、Exchange Server 2010 Service Pack 2 (SP2) 以降で提供される機能と同じです。管理者は、社内の Exchange Server 2010 以降の環境からアイテム保持ポリシーを管理できます。管理対象フォルダー (Exchange 2007 で導入されたメッセージング レコード管理に対する従来のアプローチ) は Exchange Online Archiving と互換性がないため、利用できません。詳細については、「[Exchange 2016 での保持タグおよびアイテム保持ポリシー](https://go.microsoft.com/fwlink/p/?LinkID=314153)」を参照してください。
+Exchange Online Archiving で提供されるアイテム保持ポリシー機能は、Exchange Server 2010 Service Pack 2 (SP2) 以降で提供される機能と同じです。 管理者は、社内の Exchange Server 2010 以降の環境からアイテム保持ポリシーを管理できます。 管理対象フォルダー (Exchange 2007 で導入されたメッセージング レコード管理に対する従来のアプローチ) は Exchange Online Archiving と互換性がないため、利用できません。 詳細については、「[保持タグおよびアイテム保持ポリシー](https://go.microsoft.com/fwlink/p/?LinkID=314153)」を参照してください。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>インプレース保持と訴訟ホールド
 
@@ -67,7 +68,7 @@ Exchange Online では、次の目標を達成するためにインプレース�
   
 ### <a name="in-place-ediscovery"></a>インプレース電子情報開示 (eDiscovery)
 
-Exchange Online Archiving は、組織内のメールボックスの内容を検索するためのインフレース電子情報開示をサポートしています。社内の Exchange 2013 サーバーから Exchange 管理センターまたはリモート Windows PowerShell を使用している管理者または認定証拠開示管理者は、電子メール メッセージ、添付ファイル、予定、タスク、連絡先などのさまざまなメールボックス アイテムを検索できます。インプレース電子情報開示では、プライマリ メールボックスとアーカイブを同時に検索できます。Keyword Query Language (KQL) 構文に加えて、送信者、受信者、メッセージの種類、送信日、受信日、カーボン コピー、ブラインド カーボン コピーなどの豊富なフィルタリング機能が利用できます。詳細については、「[インプレース電子情報開示 (eDiscovery)](https://go.microsoft.com/fwlink/p/?LinkId=314169)」を参照してください。
+Exchange Online Archiving は、組織内のメールボックスの内容を検索するためのインフレース電子情報開示をサポートしています。 社内の Exchange 2013 サーバーから Exchange 管理センターまたはリモート Windows PowerShell を使用している管理者または認定証拠開示管理者は、電子メール メッセージ、添付ファイル、予定、タスク、連絡先などのさまざまなメールボックス アイテムを検索できます。 インプレース電子情報開示では、プライマリ メールボックスとアーカイブを同時に検索できます。 Keyword Query Language (KQL) 構文に加えて、送信者、受信者、メッセージの種類、送信日、受信日、カーボン コピー、ブラインド カーボン コピーなどの豊富なフィルタリング機能が利用できます。 詳細については、「[インプレース電子情報開示 (eDiscovery)](https://go.microsoft.com/fwlink/p/?LinkId=314169)」を参照してください。
   
 Exchange 管理センターとリモート Windows PowerShell を使用すると、インプレース電子情報開示検索で最大 5,000 個のメールボックスを同時に検索できます。リモート Windows PowerShell を使用してインプレース電子情報開示検索を実行する方法については、「[New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)」を参照してください。 
   
@@ -113,15 +114,15 @@ Exchange Online Archiving はホスト型 Information Rights Management (IRM) �
   
 #### <a name="irm-search"></a>IRM 検索
 
-IRM で保護されたメッセージは、ヘッダー、件名、本文、添付ファイルなどのインデックスが作成され、検索可能になります。 ユーザーは、Outlook と web 上の Outlook で IRM で保護されたアイテムを検索でき、管理者はインプレース電子情報開示または**検索-メールボックス**コマンドレットを使用して irm で保護されたアイテムを検索できます。
+IRM で保護されたメッセージは、ヘッダー、件名、本文、添付ファイルなどのインデックスが作成され、検索可能になります。 ユーザーは、Outlook と web 上の Outlook で IRM で保護されたアイテムを検索でき、管理者はインプレース電子情報開示または **検索-メールボックス** コマンドレットを使用して irm で保護されたアイテムを検索できます。
   
 ### <a name="auditing"></a>監査
 
 Exchange Online Archiving は、2 種類の組み込み監査機能を提供します。
   
-- **管理者監査ログ** 管理者監査ログを使用すると、お客様が、RBAC の役割の変更や Exchange のポリシーと設定の変更などの、Exchange Online Archiving 環境で管理者が行った変更を追跡できます。 
+- **管理者監査ログ** -管理者監査ログを使用すると、ユーザーは、RBAC の役割または exchange のポリシーと設定の変更を含め、exchange Online のアーカイブ環境で管理者によって加えられた変更を追跡できます。 
     
-- **メールボックス監査ログ** メールボックス監査ログを使用すると、お客様が、メールボックス所有者以外のユーザーによるメールボックスへのアクセスを追跡できます。 
+- **メールボックス監査ログ** -メールボックス監査ログを使用すると、メールボックスの所有者以外のユーザーがメールボックスへのアクセスを追跡できます。 
     
 Exchange 管理センターで、管理者の役割の変更、訴訟ホールド、所有者以外のメールボックス アクセスなどのいくつかの定義済みの監査レポートを利用できます。管理者は、日付や役割でレポートをフィルター処理したり、特定のメールボックスに対するすべての監査イベントを XML 形式でエクスポートして長期保存やカスタム レポート作成に利用したりできます。
   

@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Microsoft Exchange Online アーカイブは、microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 (SP2 以降)、または特定の Exchange Online または Microsoft の365プランを購読している組織のための Microsoft 365 クラウドベースのエンタープライズクラスアーカイブソリューションです。 Exchange Online Archiving は、社内インフラストラクチャを簡略化することでコストを削減し、IT 負荷を軽減しながら、アーカイブ、コンプライアンス、規制、電子情報開示の課題を抱えている組織を支援します。
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: Microsoft Exchange Online のアーカイブについては、この記事を参照してください。
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214306"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293639"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
