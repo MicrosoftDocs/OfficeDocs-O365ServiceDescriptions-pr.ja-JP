@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: d2b3639627efbafa91ab5bb45807b83aa1b30a28
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293793"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408243"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -389,7 +389,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 - **迷惑メール フォルダーの保持期間**: 自動的に削除されるまで迷惑メール フォルダーにアイテムを保持できる最大日数。
 
 > [!NOTE]
-> 回復可能な削除によって削除されたユーザーメールボックスは、 &mdash; Microsoft 365 管理センターまたは Exchange Online PowerShell のメールボックスの削除コマンドレットを使用して削除されたメールボックスで、まだ Azure Active Directory のごみ箱にある場合、 &mdash; 30 日以内に回復可能です。
+> 回復可能な削除によって削除されたユーザーメールボックスは、 &mdash; Microsoft 365 管理センターまたは Exchange Online PowerShell の Remove-Mailbox コマンドレットを使用して削除されたメールボックスで、まだ Azure Active Directory のごみ箱にある場合、 &mdash; 30 日以内に回復可能です。
 
 ### <a name="retention-limits"></a>保持の制限
 
@@ -431,7 +431,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|
 |メンバー数 5,000 から 99,999 の配布グループの最大メッセージ サイズ|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |メンバー数 100,000 の配布グループの最大メッセージ サイズ|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|配布グループの所有者の最大数|10 |10 |10 |10 |10 |10 |
+|配布グループの所有者の最大数|10  |10  |10  |10  |10  |10  |
 |ユーザーが作成できるグループの最大数|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +443,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |:-----|:-----|:-----|:-----|:-----|
 |配布グループのメンバーの最大数|100,000 人<sup>1</sup>|100,000 人|100,000 人|100,000 人|
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上<sup>1</sup>|5,000 人以上|5,000 人以上|5,000 人以上|
-|配布グループの所有者の最大数|10 |10 |10 |10 |
+|配布グループの所有者の最大数|10  |10  |10  |10  |
 |ユーザーが作成できるグループの最大数|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -469,7 +469,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **メッセージのリダイレクト**回数: 受信トレイルールに基づいてメッセージが自動的にリダイレクト、転送、または返信された回数。 たとえば、ユーザー A に、送信者に基づいてメッセージをユーザー B にリダイレクトとする受信トレイ ルールが設定されているとします。 ユーザー B には、件名行のキーワードに基づいてメッセージをユーザー C に転送する受信トレイ ルールが設定されています。 リダイレクトが 1 回のみ許可されている場合、これらの条件を両方とも満たすメッセージは、ユーザー B にのみ送信され、ユーザー C には転送されません。 この場合、メッセージがユーザー C に配信されなかったという配信不能レポート (NDR) をユーザー B に送信することなくメッセージは破棄されます。Microsoft では、X-MS-Exchange-Inbox-Rules-Loop ヘッダーを使用して、メッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
 
-- **トランスポートルールによるメッセージのリダイレクト**回数: トランスポートルールに基づいてメッセージがリダイレクトされる回数。 たとえば、Exchange 組織 Tailspin Toys には、ユーザー A に送信されたすべてのメッセージを、Exchange 組織 Contoso にいるユーザー B にリダイレクトするトランスポートルールがあります。 Exchange 組織 Contoso 内には、ユーザー B に送信されたすべてのメッセージを Exchange 組織 A. Datum Corporation にいるユーザー C にリダイレクトするトランスポート ルールがあります。 この場合、メッセージは破棄され、ステータスコードと拒否メッセージ (*550 5.7.128 TRANSPORT.RULES.RejectMessage; Transport rules loop count exceeded and message rejected*) が含まれる配信不能レポート (NDR) がユーザー A に送信されます。Microsoft では、X-MS-Exchange-Transport-Rules-Loop ヘッダーを使用して、トランスポート ルールによりメッセージがリダイレクトされた回数を特定します。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
+- **トランスポートルールによるメッセージのリダイレクト**回数: トランスポートルールに基づいてメッセージがリダイレクトされる回数。 たとえば、Exchange 組織の Tailspin Toys には、ユーザー A に送信されたすべてのメッセージを、Exchange 組織の Contoso にあるユーザー B にリダイレクトするトランスポートルールがあります。 Exchange organization Contoso では、ユーザー B に送信されたすべてのメッセージを、Exchange organization A Datum Corporation にあるユーザー C にリダイレクトするトランスポートルールが用意されています。 この例では、メッセージはドロップされ、配信不能レポート (NDR) は状態コードと拒否メッセージ *550 5.7.128 TRANSPORT を使用しています。ルール.RejectMessageトランスポートルールのループ数が超過し、メッセージが拒否* された場合、ユーザー A に送信されます。Exchange では、トランスポートルールによってメッセージがリダイレクトされた回数を判断するために、--Transport ルールループヘッダーを使用しています。 このヘッダーはまた、Exchange 組織の境界を越えて維持されます。
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>ジャーナル、トランスポート、受信トレイのルール上の制限
 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 各 Yammer プランで利用できる機能を確認します。
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276744"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408253"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
 Yammer は、高性能で安全、かつプライベートなエンタープライズ ソーシャル ネットワークです。 Yammer は、従業員同士の協力を簡単に行えるようにし、迅速に意思決定を行い、チームで自立性を持ってあらゆるビジネスに挑戦できるようにすることで、生産性を高め仕事を成功させるようにします。 ビジネスの整合性と敏捷性を自然に高め、サイクル タイムを削減し、従業員を雇用し、顧客及びパートナーとの関係を向上させる新しいやり方です。
   
-Yammer を含むプランの一覧については、「 [Microsoft サービスファミリとプラン](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)」を参照してください。
+Yammer を含むプランの一覧については、「 [Microsoft サービスファミリとプラン](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)」を参照してください。
   
 プラン間で機能を比較するには、「 [エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)」を参照してください。
   
@@ -53,7 +53,7 @@ Yammer は、 [Microsoft 365 変更管理ポリシー](https://aka.ms/ManageChan
   
 通達に使用されるチャネルは影響の度合いによって異なります。<br><br>
   
-| 変更の種類 | 通信チャネル |
+| 種類を変更する | 通信チャネル |
 |:-----|:-----|
 |**アクションを必要とする変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があり、組織の法令遵守に影響を与える可能性のある更新を行う必要があります。  <br/> |-Office 365 メッセージセンターの電子メールを Yammer 認証済み管理者に直接送信 <br/>-Microsoft 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
 |**認識を必要とする変更 (情報を入手する)**<br/>管理者による操作を必要としない変更、ビジュアルデザインの変更  <br/> |-Office 365 メッセージセンター<br/>-Microsoft 365 ロードマップ<br/>-Yammer サービスの更新プログラム<br/>-外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
@@ -67,7 +67,7 @@ Yammer は、 [Microsoft 365 変更管理ポリシー](https://aka.ms/ManageChan
 |:-----|:-----|:-----|
 |[グループ](group-features-in-yammer.md#groups) <br/> | はい  <br/> |はい  <br/> |
 |[関連グループ](group-features-in-yammer.md#related-groups) <br/> |はい  <br/> |はい  <br/> |
-|[アナウンス](group-features-in-yammer.md#announcements) <br/> |いいえ  <br/> |はい  <br/> |
+|[アナウンス](group-features-in-yammer.md#announcements) <br/> |不要  <br/> |はい  <br/> |
 |[ユーザー プロファイル](profile-features-in-yammer.md#user-profiles) <br/> |はい  <br/> |はい  <br/> |
 |[専門知識](profile-features-in-yammer.md#expertise) <br/> |はい  <br/> |はい  <br/> |
 |[メンバーディレクトリ](profile-features-in-yammer.md#member-directory) <br/> |はい  <br/> |はい  <br/> |
@@ -89,7 +89,7 @@ Yammer は、 [Microsoft 365 変更管理ポリシー](https://aka.ms/ManageChan
 |[フィード](discovery-features-in-yammer.md#feeds) <br/> |はい  <br/> |はい  <br/> |
 |[ティッカー](discovery-features-in-yammer.md#ticker) <br/> |はい  <br/> |はい  <br/> |
 |[トピック](discovery-features-in-yammer.md#topics) <br/> |はい  <br/> |はい  <br/> |
-|[ユニバーサル検索](discovery-features-in-yammer.md#universal-search) <br/> |いいえ  <br/> |はい  <br/> |
+|[ユニバーサル検索](discovery-features-in-yammer.md#universal-search) <br/> |不要  <br/> |はい  <br/> |
 |[即時先行入力](discovery-features-in-yammer.md#instant-type-ahead) <br/> |はい  <br/> |はい  <br/> |
 |[外部ネットワーク](external-network-features-in-yammer.md#external-networks) <br/> |はい  <br/> |はい  <br/> |
 |[高速ネットワークスイッチング](external-network-features-in-yammer.md#fast-network-switching) <br/> |はい  <br/> |はい  <br/> |
@@ -99,18 +99,18 @@ Yammer は、 [Microsoft 365 変更管理ポリシー](https://aka.ms/ManageChan
 |[ブラウザー拡張](yammer-platform-features.md#browser-extension) <br/> |はい  <br/> |はい  <br/> |
 |[アクティビティストリーム API](yammer-platform-features.md#activity-stream-api) <br/> |はい  <br/> |はい  <br/> |
 |[カスタムネットワークブランド](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |いいえ  <br/> |はい  <br/> |
-|[ユーザーの管理](administration-and-security-features-in-yammer.md#user-management) <br/> |いいえ  <br/> |はい  <br/> |
+|[ユーザーの管理](administration-and-security-features-in-yammer.md#user-management) <br/> |不要  <br/> |はい  <br/> |
 |[単一の id](administration-and-security-features-in-yammer.md#single-identity) <br/> |はい  <br/> |はい  <br/> |
-|[ディレクトリ同期](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |いいえ  <br/> |はい  <br/> |
-|[データのエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |いいえ  <br/> |はい  <br/> |
-|[キーワード監視](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |いいえ  <br/> |はい  <br/> |
-|[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |いいえ  <br/> |はい  <br/> |
+|[ディレクトリ同期](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |不要  <br/> |はい  <br/> |
+|[データのエクスポート](administration-and-security-features-in-yammer.md#data-export) <br/> |不要  <br/> |はい  <br/> |
+|[キーワード監視](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |不要  <br/> |はい  <br/> |
+|[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |不要  <br/> |はい  <br/> |
 |[組織のリソース](administration-and-security-features-in-yammer.md#organization-resources) <br/> |はい  <br/> |はい  <br/> |
-|[パスワードポリシー](administration-and-security-features-in-yammer.md#password-policies) <br/> |いいえ  <br/> |はい  <br/> |
-|[セッションの管理](administration-and-security-features-in-yammer.md#session-management) <br/> |いいえ  <br/> |はい  <br/> |
-|[論理ファイアウォール](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |いいえ  <br/> |はい  <br/> |
-|[利用状況ポリシー](administration-and-security-features-in-yammer.md#usage-policy) <br/> |いいえ  <br/> |はい  <br/> |
-|[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |いいえ  <br/> |はい  <br/> |
+|[パスワードポリシー](administration-and-security-features-in-yammer.md#password-policies) <br/> |不要  <br/> |はい  <br/> |
+|[セッションの管理](administration-and-security-features-in-yammer.md#session-management) <br/> |不要  <br/> |はい  <br/> |
+|[論理ファイアウォール](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |不要  <br/> |はい  <br/> |
+|[利用状況ポリシー](administration-and-security-features-in-yammer.md#usage-policy) <br/> |不要  <br/> |はい  <br/> |
+|[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |不要  <br/> |はい  <br/> |
 |[カスタマー サポート](support-features-in-yammer.md#customer-support) <br/> |はい  <br/> |はい  <br/> |
-|[管理者サポート](support-features-in-yammer.md#administrator-support) <br/> |いいえ  <br/> |はい  <br/> |
-|[管理者プライベートコンテンツモード](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |いいえ  <br/> |はい  <br/> |
+|[管理者サポート](support-features-in-yammer.md#administrator-support) <br/> |不要  <br/> |はい  <br/> |
+|[管理者プライベートコンテンツモード](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |不要  <br/> |はい  <br/> |
