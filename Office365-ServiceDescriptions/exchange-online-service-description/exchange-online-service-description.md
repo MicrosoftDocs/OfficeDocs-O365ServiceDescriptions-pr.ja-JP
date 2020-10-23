@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能の比較については、こちらを参照してください。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245692"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661285"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -52,6 +52,9 @@ Microsoft 365 は、組織のニーズを満たすように、さまざまなプ
 Exchange Online サービスにアクセスする各ユーザーは、サブスクリプション プランに割り当てられる必要があります。ユーザーのサブスクリプションごとにメールボックスがあります。これらのメールボックスのフォルダーおよびメッセージは、Microsoft データ センターの Exchange Server が実行されているコンピューター上に格納されます。
   
 ユーザー サブスクリプションは、会議室および共有メールボックスには必要ありません。これらの特殊な種類のメールボックスには、ログイン資格情報がありません。これらの特殊な種類のメールボックスは、ライセンスを持ち、適切なアクセス許可があるユーザーが委任によって管理とアクセスを行います。
+
+**Microsoft 365 F1 ユーザーメールボックスの使用権限** <br/>
+Microsoft 365 F1 には、Exchange メールボックスに対する権限は含まれていません。 完全な Teams 環境を有効にするために、M365 F1 ライセンスには Exchange Online K1 service プランが有効になっている場合があります。 Exchange Online K1 サービスプランによってユーザーのメールボックスがプロビジョニングされますが、M365 F1 ユーザーにはメールボックスを使用する権利がありません。 [これらの手順](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)を使用して Outlook on the web を無効にして、他の方法を使用して Exchange メールボックスにアクセスしないようにユーザーに依頼することをお勧めします。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online のシステム要件
 
@@ -198,7 +201,7 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 <sup>21</sup> 表は、クライアントが関連付けられたプランを使用して動作するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 <br/>
 <sup>22</sup> 詳細については、「 [顧客キーによるサービスの暗号化](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
 <sup>23</sup> お客様の操作による直接接続を介したサードパーティ製 PBX システム向けの EXCHANGE Online UM サポートは、2019年4月に終了します。 詳細については、「exchange [Online ユニファイドメッセージングでのセッションボーダーコントローラーのサポート中止](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) 」を参照してください。 <br/>
-<sup>24</sup> F3 ユーザーが自分のメールボックスに代理人を追加することはできませんが、別のメールボックス (共有メールボックスを含む) にアクセスして、それらに委任された操作を実行することはできます。<br/>
+<sup>24</sup> F3 ユーザーが自分のメールボックスに代理人を追加することはできませんが、別のメールボックス (共有メールボックスを含む) にアクセスして、それらに委任されたアクションを実行することはできます。<br/>
 <sup>25</sup> exchange server 2013 および exchange server 2016 では、Microsoft 365 Apps for enterprise のサブスクリプションも必要です。
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online スタンドアロンの各プランで利用できる機能

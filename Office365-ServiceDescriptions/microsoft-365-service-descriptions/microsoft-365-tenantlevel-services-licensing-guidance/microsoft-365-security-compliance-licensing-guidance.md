@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294163"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661295"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -164,7 +164,7 @@ MCAS の条件付きアクセスアプリコントロール機能を活用する
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E1/A1/E3/A3 および Microsoft 365 E3/A3 ライセンスを持つお客様は、データ保護基準の評価にアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用しているお客様は、データ保護基準、GDPR、NIST 800-53、および ISO 22701 の標準評価にアクセスできます。 カスタム評価機能を使用するには、少なくとも1つの Office 365 E5/A5 または Microsoft 365 E5/A5 ライセンスが必要です。 プレミアム評価は、Office 365 E5/A5 および Microsoft 365 E5/A5 ユーザーに購入できるようになります。
+Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用しているお客様は、データ保護基準、GDPR、NIST 800-53、および ISO 27001 の評価にアクセスできます。また、カスタム評価機能を利用することもできます。 プレミアム評価は、Office 365 E5/A5 および Microsoft 365 E5/A5 ユーザーに購入できるようになります。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -429,7 +429,7 @@ Microsoft 365 の二重キー暗号化により、非常に機密性の高いデ
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-暗号化されたデータをクラウドに移行して、キーがユーザーの制御にとどまる限り、第三者がアクセスできないようにすることで、2つのキー暗号化を利用できるようになります。 エンドユーザーは、他の機密ラベルで保護されたコンテンツと同じように、二重の重要な暗号化コンテンツを保護して使用できます。
+暗号化されたデータをクラウドに移行して、キーがユーザーの制御にとどまる限り、サードパーティからのアクセスを防止することにより、2つのキー暗号化を利用できるようになります。 エンドユーザーは、他の機密ラベルで保護されたコンテンツと同じように、二重の重要な暗号化コンテンツを保護して使用できます。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
@@ -489,7 +489,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:<br><br>
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 次に、例を示します。<br><br>
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:------|:------|:------|
@@ -569,7 +569,7 @@ Office 365 E5/A5、Microsoft 365 E5/a5、Microsoft 365 E5/A5 コンプライア�
 
 管理者は、特定のユーザーまたはグループを選択して、通信コンプライアンスポリシーに含めることができます。 グループを選択するときに、通信コンプライアンスポリシーから除外するグループ内の特定のユーザーを選択することもできます。 通信コンプライアンスポリシーの詳細については、「 [Microsoft 365 の通信コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)」を参照してください。
 
-## <a name="insider-risk-management"></a>インサイダー リスクの管理
+## <a name="insider-risk-management"></a>インサイダー リスク管理
 
 Insider リスク管理は、組織内のリスクのあるアクティビティを検出、調査、処理を実行できるようにすることによって、内部的なリスクを最小限に抑えるために役立つ Microsoft 365 のソリューションです。
 カスタムポリシーを使用すると、必要に応じて Microsoft Advanced eDiscovery にエスカレーションした場合を含めて、組織内の悪意のある、誤ったリスクのあるアクティビティを検出し、アクションを実行できます。 組織内のリスクアナリストは、ユーザーが組織のコンプライアンス標準に準拠していることを確認するために、適切なアクションを迅速に実行できます。

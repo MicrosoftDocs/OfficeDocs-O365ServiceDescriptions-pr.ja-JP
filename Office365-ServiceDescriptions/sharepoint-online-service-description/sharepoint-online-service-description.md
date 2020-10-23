@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294113"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661265"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -42,7 +42,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、知識、および
 
 Microsoft 365 は、組織のニーズを満たすように、さまざまなプランで利用できます。 スタンドアロンプランのオプションや、あるプランから別のプランへの移行に関する情報など、さまざまなプランの詳細については、「 [Microsoft 365 プランのオプション](../office-365-platform-service-description/office-365-plan-options.md)」を参照してください。
   
-SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)の一部としてのみ、スタンドアロンのオファーとしては購入されません。 
+SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランは、 [Office 365 f3](https://www.microsoft.com/microsoft-365/business/office-365-f1)、 [microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) 、 [microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)の一部としてのみ、スタンドアロンのプランとしては販売されません。 
   
 ## <a name="rights-of-guests"></a>ゲストの権限
 
@@ -158,7 +158,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [ドキュメント ライブラリ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [ドキュメントセット](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - ファイルカード (アクティビティ、会話、ビューアー)
-- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [リスト](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [メガメニュー](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms 統合](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 Office 365 を含むサブスクリプションが必要であり、ユーザーにフォームのライセンスを付与する必要があります。
 - [ニュース](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
