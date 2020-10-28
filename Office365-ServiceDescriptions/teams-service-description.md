@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175184"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773441"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -35,11 +35,11 @@ Microsoft は、お客様のデータのセキュリティおよびサービス�
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-製品機能の実装に関する詳細なガイダンスについては、 [Microsoft Teams の管理に関するドキュメント](https://docs.microsoft.com/MicrosoftTeams)を参照してください。 このサービスの説明では、さまざまなクラウドインストールで提供されるサービスの主な違いについて詳しく説明します。 Microsoft Teams のコア機能は、サブスクリプション間では異なります。 コンプライアンス機能を利用できるかどうかは、サブスクリプションレベルによって決まります。 詳細については、「 [Microsoft Teams のセキュリティとコンプライアンス](https://docs.microsoft.com/microsoftteams/security-compliance-overview)」を参照してください。 各サブスクリプションで使用できる機能の詳細な一覧については、「 [Microsoft 365 And Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)」を参照してください。
+製品機能の実装に関する詳細なガイダンスについては、 [Microsoft Teams の管理に関するドキュメント](https://docs.microsoft.com/MicrosoftTeams)を参照してください。 このサービスの説明では、さまざまなクラウドインストールで提供されるサービスの主な違いについて詳しく説明します。 Microsoft Teams のコア機能は、サブスクリプション間では異なります。 コンプライアンス機能を利用できるかどうかは、サブスクリプションレベルによって決まります。 詳細については、「 [Microsoft Teams のセキュリティとコンプライアンス](https://docs.microsoft.com/microsoftteams/security-compliance-overview)」を参照してください。 各サブスクリプションで使用できる機能の詳細な一覧については、「 [Microsoft 365 And Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)」を参照してください。
 
-**クラウド音声機能**: 電話会議では、組織はダイヤルイン会議を設定する各ユーザーに電話会議ライセンスを購入して割り当てる必要があります。 通話プランを必要とする Teams の機能では、各ユーザーに電話システムと国内または国内および国際通話プランが必要です。 詳細については、「 [Microsoft Teams アドオンライセンス](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)」を参照してください。
+**クラウド音声機能** : 電話会議では、組織はダイヤルイン会議を設定する各ユーザーに電話会議ライセンスを購入して割り当てる必要があります。 通話プランを必要とする Teams の機能では、各ユーザーに電話システムと国内または国内および国際通話プランが必要です。 詳細については、「 [Microsoft Teams アドオンライセンス](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)」を参照してください。
 
-**Live Events**: Office 365 のこのオファーリングは、廃止された Skype 会議ブロードキャストを置き換えます。 Live events の機能は、Stream service 内で詳細なライセンスプランで利用できます。 [Microsoft Stream ライセンスの詳細につい](https://docs.microsoft.com/stream/license-overview)ては、こちらを参照してください。 Live Events service には、Stream、Yammer、または Microsoft Teams を使用してアクセスできます。 Live イベントの機能の詳細については、「 [microsoft 365 のライブイベント (Yammer、Microsoft Teams、および Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365))」を参照してください。
+**Live Events** : Office 365 のこのオファーリングは、廃止された Skype 会議ブロードキャストを置き換えます。 Live events の機能は、Stream service 内で詳細なライセンスプランで利用できます。 [Microsoft Stream ライセンスの詳細につい](https://docs.microsoft.com/stream/license-overview)ては、こちらを参照してください。 Live Events service には、Stream、Yammer、または Microsoft Teams を使用してアクセスできます。 Live イベントの機能の詳細については、「 [microsoft 365 のライブイベント (Yammer、Microsoft Teams、および Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365))」を参照してください。
 
 サポートされているすべてのサブスクリプションプランは、Microsoft Teams web クライアント、デスクトップクライアント、モバイルアプリにアクセスする資格があります。
 
@@ -51,21 +51,22 @@ Microsoft Teams は、スタンドアロンサービスとしては利用でき�
 
 | 機能 | 小規模企業 | エンタープライズプラン | GCC | GCC-高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
 |Teams  <br/> |はい <br/> |はい <br/> |はい <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
-|チャネル-標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |はい <br/> |いいえ  <br/> |いいえ <br/> |はい  <br/> |
-|会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|画面共有の PowerPoint 音声/ビデオデスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Apps、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
-|ライブイベント  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ<sup>4</sup>  <br/> |いいえ<sup>4</sup>  <br/> |はい  <br/> |
+|チャネル-標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |必要 <br/> |いいえ  <br/> |いいえ <br/> |はい  <br/> |
+|会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|画面共有の PowerPoint 音声/ビデオデスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|Apps、ボット、& コネクタ  <br/> |はい  <br/> |必要  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい<sup>3、4</sup>  <br/> |必要  <br/> |
+|ライブイベント  <br/> |いいえ  <br/> |はい  <br/> |必要  <br/> |<sup>5</sup>なし  <br/> |<sup>5</sup>なし  <br/> |はい  <br/> |
 
-> <sup>1</sup>  個々のチームの2500メンバーについて、GCC-HIGH および DOD サポートに関する Microsoft Teams。<br/>
+> <sup>1</sup>  個々のチームの2500メンバーについては、GCC-High と DOD サポートに関する Microsoft Teams をサポートしています。<br/>
 > <sup>2</sup> Microsoft Planner は、現在プライベートチャネルではアクセスできません。<br/>
-> <sup>3</sup> Microsoft OneNote は、DOD クラウドでは利用できません。 現時点では、これらのクラウドではアプリケーションとアプリケーションの公開は利用できません。<br/>
-> <sup>4</sup> 現時点では、GCC-High または DOD では、Live イベントは使用できません。<br/>
+> <sup>3</sup> Microsoft OneNote は、DOD クラウドでは利用できません。<br/>
+> この時点では、これらのクラウドで<sup>はアプリケーションとアプリケーションの</sup>公開は利用できません。<br/>
+> この時点で、 <sup>5</sup> Live イベントは GCC-High または DOD では使用できません。<br/>
 
 ## <a name="next-steps"></a>次の手順
 
