@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – DoD を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769979"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793656"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンスの計画 - DoD 展開
 
@@ -59,10 +59,9 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>手順 4. Microsoft 365 Government – DoD<sup>1</sup>で現在利用できない機能、または既定で無効になっている機能について理解する
 
-政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズのプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。
+政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズのプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。<br><br>
 
-
-|                                         | 機能                                         | GCC の状態             |
+| 分野                                    | 機能                                         | GCC の状態             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **情報保護**              | クライアントとスキャナーの統一されたラベル付け         | Available              |
 |                                         | 正確なデータ一致          | Available               |

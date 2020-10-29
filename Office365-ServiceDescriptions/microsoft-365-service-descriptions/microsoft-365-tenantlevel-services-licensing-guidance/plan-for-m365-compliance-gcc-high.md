@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – GCC 高を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: df0d78d40e91c171b2a512de4b7d8371ceb59995
-ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
+ms.openlocfilehash: 3cbe9271b8e23467fc7934e5847d8433ea5a6768
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "48626888"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793668"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 コンプライアンスの計画-GCC 高
 
@@ -36,16 +36,16 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 「 [Office 365 US Government サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 」では、プラットフォームの利点について説明します。これは、米国内での会議のコンプライアンス要件を中心としています。
 
 > [!TIP]
-> サービスの説明の情報の表を Excel ブックに転送して、 **組織の y/n に関連**   し、 **組織のニーズを満たす**2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
+> サービスの説明の情報の表を Excel ブックに転送して、 **組織の y/n に関連** し、 **組織のニーズを満たす** 2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
 
-**判断ポイント**:<br/>
+**判断ポイント** :<br/>
 - *Microsoft 365 Government – GCC-High が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
 > [!NOTE]
 > Microsoft 365 Government-GCC High は米国でのみ利用可能です。 米国以外の政府機関のお客様は、多くの [Office 365 Government プラン](https://products.office.com/government/compare-office-365-government-plans)から選択できます。
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>手順 2。 Microsoft 365 Government への適用-GCC-High
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>手順 2.  Microsoft 365 Government への適用-GCC-High
 
 このサービスが組織に適していると判断した場合は、 [このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
  
@@ -53,14 +53,13 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 
 既定のセキュリティ設定を変更する前に、管理者およびセキュリティ設定を慎重に確認して、コンプライアンスへの影響を考慮することをお勧めします。
 
-**判断ポイント**: *Microsoft 365 Government の既定の GCC-High セキュリティ設定を変更するかどうかを決定し、最初に変更が行われた場合の影響について理解します。*
+**判断ポイント** : *Microsoft 365 Government の既定の GCC-High セキュリティ設定を変更するかどうかを決定し、最初に変更が行われた場合の影響について理解します。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>手順 4. Microsoft 365 Government – GCC-High<sup>1</sup>で現在使用できない機能と無効になっている機能を理解する
 
-政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの相違点があります。 GCC-High とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。
+政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの相違点があります。 GCC-High とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。<br><br>
 
-
-|                                         | 機能                                         | GCC の状態             |
+| 分野                                    | 機能                                         | GCC の状態             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **情報保護**              | クライアントとスキャナーの統一されたラベル付け         | Available              |
 |                                         | 正確なデータ一致          | Available              |
@@ -102,7 +101,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 |                                         | レコード管理: 複数段階の廃棄レビュー | エンジニアリングバックログの場合 |
 |                                         | レコード管理: ラベルアクティビティエクスプローラー | エンジニアリングバックログの場合 |
 |                                         | レコード管理: Trainable 分類子 | エンジニアリングバックログの場合 |
-| **Insider リスク管理**             | 顧客ロックボックス                                | Available            |
+| **インサイダー リスクの管理**             | 顧客ロックボックス                                | Available            |
 |                                         | Insider リスク管理: Teams、SharePoint サイト、電子メールメッセージングの Office インジケーター                         | 開発中 |
 |                                         | Insider リスク管理: ユーザーが出発したデータの盗難                        | 開発中 |
 |                                         | Insider リスク管理: 一般的なデータリーク                                | 開発中              |
@@ -176,4 +175,4 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 <sup>2</sup> ラベルを手動でアプリケーションに適用するには、 [Azure INFORMATION Protection (AIP) クライアントバージョン 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)が必要です。 
 
 
-**判断ポイント**: *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
+**判断ポイント** : *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
