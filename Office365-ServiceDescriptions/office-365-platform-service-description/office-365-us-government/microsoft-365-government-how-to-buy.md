@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: 81ee54c17a4861c44f350f394ccc61a4bd669996
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276769"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818667"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-購入方法
 
@@ -21,7 +21,7 @@ ms.locfileid: "48276769"
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 Government とは
 
-Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けにカスタマイズされた、生産性、セキュリティ、モビリティのクラウドソフトウェア機能のセットです。 Microsoft 365 Government は、最も厳格なコンプライアンス要件を満たす固有の環境を通じて提供されています。 Microsoft Government は、Microsoft の商用クラウドエンタープライズ製品の機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。 
+Microsoft 365 Government は、制御された未分類の情報を保持するためにスポンサーとなっている米国政府機関および請負業者向けにカスタマイズされた、生産性、セキュリティ、モビリティのクラウドソフトウェア機能のセットです。 Microsoft 365 Government は、最も厳格なコンプライアンス要件を満たす固有の環境を通じて提供されています。 Microsoft Government は、Microsoft の商用クラウドエンタープライズ製品の機能を可能な限り一致させるための米国政府機関向けのクラウドサービスです。
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 Government の価値
 
@@ -43,21 +43,21 @@ Microsoft 365 Government は、以下の4つの主要な分野において米国
 **スクリーン担当者。** 組織の顧客コンテンツへのアクセスは、自分の市民で、必要なバックグラウンドチェックに合格した Microsoft の担当者に制限されています。
 サードパーティの監査。 すべてのインフラストラクチャは、認定されたサードパーティの監査者によって監査されており、連邦機関が運用の承認を発行するために使用するセキュリティ評価レポートまたは構成可能なレター (ATO) を提供します。 
 
-**コンテンツストレージ。** データは、準拠インフラストラクチャを使用した大陸の米国内に格納されます。 次の表に、米国政府機関の環境およびコミットメントに関する Microsoft 365 の概要を示します。<br><br>
+**コンテンツストレージ。** データは、準拠インフラストラクチャを使用した大陸の米国内に格納されます。 次の表は、政府機関の環境とコミットメントに関する Microsoft 365 の概要を示しています。<br><br>
 
 | 製品 | 対する |
 |:----------|:----------------------------------|
-|Microsoft 365 Government GCC  <br/> |FedRamp 低、CJIS、IRS 1075、DISA SRG L2  <br/> |
-|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DOD SRG L4 コントロール <br/> |
+|Microsoft 365 Government GCC  <br/> |FedRamp High、CJIS、IRS 1075、DISA SRG L2 <br/> |
+|Microsoft 365 Government GCC 高  <br/> |FedRamp High、ITAR、DFARS DISA SRG L4 コントロール <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
 Microsoft セキュリティおよびコンプライアンス認定の詳細については、 [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx)にアクセスしてください。  
 
-## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>米国政府の資格および検証のための Microsoft 365
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 Government の資格および検証
 
-米国政府機関向けの Microsoft 365 は、対象となる政府機関のお客様と、統制された情報を保持または処理することにより政府機関以外の組織が利用できます。 これらの2つのカテゴリの顧客の適格性条件は、Microsoft Government クラウドで一貫しています。
+Microsoft 365 Government は、対象となる政府機関のお客様と、規制された情報を保持または処理する政府機関以外の組織が利用できます。 これらの2つのカテゴリの顧客の適格性条件は、Microsoft Government クラウドで一貫しています。
 
-Microsoft Government Cloud の対象となっているお客様は、GCC と GCC の両方の高度なオファーリングを利用できます。また、DoD 環境は米国国防総省の排他的使用に適しています。 サービスの可用性と価格に違いがあります。また、すべてのお客様にとって、「FedRAMP High」または「DoD i」の未分類情報 (CUI) を保持していないすべてのお客様にとって、GCC は
+Microsoft Government Cloud の対象となっているお客様は、GCC と GCC の両方の高度なオファーリングを利用できます。また、DoD 環境は米国国防総省の排他的使用に適しています。 サービスの可用性と価格に違いがあります。また、すべてのお客様に対して、FedRAMP High または DoD が統制されていない情報 (CUI) を保持していないすべてのお客様に対して、GCC 製品が
 
 適格な政府機関のお客様は、以下のいずれかによって定義されます。
 
@@ -70,7 +70,7 @@ Microsoft Government Cloud の対象となっているお客様は、GCC と GCC
 
 次の種類のデータを保持し、Microsoft Government Cloud validation プロセスについて一覧表示されている校正を提供できる、米国以外の組織。
 
-規制の対象となるデータを含む民間のプライベートエンティティ。 承認された政府のデータの種類は次のとおりです。 
+規制の対象となるデータを含む民間のプライベートエンティティ。 承認された政府のデータの種類は次のとおりです。
 - 肘掛けされる国際トラフィック (ITAR)
 - 制御されていない未分類の情報 (CUI)
 - 国防総省 (DoD) 未分類の支配される核情報 (UCNI)
@@ -113,7 +113,8 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
 
 1. [フォームを完成](https://products.office.com/government/eligibility-validation) させて送信し、組織の適格性を検証します。
-2. Microsoft アカウントチームまたは認定パートナーと協力して、注文を行います。 お客様は、セレクトパートナーを通じてのみ Microsoft 365 を米国政府ライセンスで購入できます。
+2. Microsoft アカウントチームまたは認定パートナーと協力して、注文を行います。
+お客様は、セレクトパートナーを通じてのみ Microsoft 365 を米国政府ライセンスで購入できます。
 
 **Lsp GCC および GCC 高 (+ 500 座席)**
 

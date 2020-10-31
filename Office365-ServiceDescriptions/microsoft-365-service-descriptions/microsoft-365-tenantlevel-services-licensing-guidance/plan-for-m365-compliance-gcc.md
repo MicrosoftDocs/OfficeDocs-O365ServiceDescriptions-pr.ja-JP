@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
-ms.openlocfilehash: 6abcf5a70307a554661f2eb7ec7b6ca3019dec61
-ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
+ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "48626878"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818647"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
@@ -41,16 +41,16 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 「 [Office 365 US Government サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 」では、プラットフォームの利点について説明します。これは、米国内での会議のコンプライアンス要件を中心としています。
 
 > [!TIP]
-> サービスの説明の情報の表を Excel ブックに転送して、 **組織の y/n に関連**   し、 **組織のニーズを満たす**2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
+> サービスの説明の情報の表を Excel ブックに転送して、 **組織の y/n に関連** し、 **組織のニーズを満たす** 2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
 
 > [!NOTE]
 > Microsoft 365 Government-GCC は米国でのみ利用可能です。 米国以外の政府機関のお客様は、多くの [Office 365 Government プラン](https://products.office.com/government/compare-office-365-government-plans)から選択できます。
 
-**判断ポイント**: <br/>
+**判断ポイント** : <br/>
 - *Microsoft 365 Government-GCC が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2。 Microsoft 365 Government-GCC への適用
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2.  Microsoft 365 Government-GCC への適用
 
 このサービスが組織に適していると判断した場合は、 [このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
 
@@ -58,30 +58,30 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 
 既定のセキュリティ設定を変更する前に、管理者およびセキュリティ設定を慎重に確認して、コンプライアンスへの影響を考慮することをお勧めします。
 
-**判断ポイント**: *既定の Microsoft 365 Government-GCC セキュリティ設定を変更するかどうかを決定します。解決するには、変更による影響を最初に理解する必要があります。*
+**判断ポイント** : *既定の Microsoft 365 Government-GCC セキュリティ設定を変更するかどうかを決定します。解決するには、変更による影響を最初に理解する必要があります。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>手順 4. Microsoft 365 Government – GCC<sup>1</sup>では、現在どの機能が使用できないか、または無効になっているかを理解する
 
-政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。<br><br>
+政府機関のお客様の要件を満たすために、Microsoft 365 Government とエンタープライズプランにはいくつかの違いがあります。 利用可能な機能を確認するには、次の表を参照してください。 Microsoft 365 ロードマップに公開されている最新のコンプライアンス製品更新プログラムについて [は、ここ](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) を参照してください。<br><br>
 
 | 分野 | 機能 | GCC の状態 |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **情報保護**              | クライアントとスキャナーの統一されたラベル付け         | Available              |
 |                                         | 正確なデータ一致          | Available              |
 |                                         | Exchange Online、SharePoint Online、OneDrive の自動分類とラベル付け                      | ロール アウト              |
-|                                         | Office 365 グループでの分類に基づくポリシー            | ロール アウト |
 |                                         | Office アプリ (Word、Excel、PowerPoint、Outlook) をプラットフォーム間で自動的に分類し、ラベルを付ける (web、Android、iOS、Windows、および Mac) |  開発中              |
-|                                         | モバイルの自動分類とラベル付け                                       | エンジニアリングバックログの場合              |
+|                                         | Office クライアントの自動分類とラベル付け (モバイル)                                       | エンジニアリングバックログの場合              |
 |                                         | Teams の自動分類とラベル付け                            | エンジニアリングバックログの場合 |
-|                                         | データ分類: 概要とコンテンツアクティビティエクスプローラー                            | エンジニアリングバックログの場合 |
-|                                         | 自動ラベル付きの Machine learning 分類子                           | エンジニアリングバックログの場合  |
+|                                         | データ分類分析: 概要とコンテンツエクスプローラー                            | エンジニアリングバックログの場合 |
+|                                         | 分析: サービス側の自動ラベル付きコンピューター学習分類子                           | エンジニアリングバックログの場合  |
+|                                         | 分析: Office アプリ/クライアント側の自動ラベル付きコンピューター学習分類子                           | エンジニアリングバックログの場合  |
 |                                         | 基本的な Office 365 メッセージの暗号化 (E3)                            | Available              |
 |                                         | Advanced Office 365 Message Encryption (E5)  | Available              |
 |                                         | Office 365 の顧客キー    | Available |
 |                                         | お客様が管理するキープロビジョニングライフサイクルに独自のキー (BYOK) をもたらす                            | Available |
 |                                         | 厳しい規制シナリオ (プレビュー) に対して Azure Information Protection と Active Directory (AD) Rights Management にまたがる独自のキー (HYOK) を保持する                         | Available |
-|                                         | 二重キー暗号化                           | ロール アウト |
-|                                         | WXP web アプリを使用した暗号化されたドキュメントの共同編集                           | エンジニアリングバックログの場合 |
+|                                         | 二重キー暗号化                           | Available |
+|                                         | 暗号化: WXP web アプリを使用した暗号化されたドキュメントの共同編集                           | エンジニアリングバックログの場合 |
 |                                         | ファイルと電子メールのデータ損失防止 (DLP)         | Available |
 |                                         | Teams チャットおよびチャネル会話の DLP         | 開発中 |
 |                                         | DLP エンドポイント | エンジニアリングバックログの場合 |
@@ -91,9 +91,11 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 情報ガバナンス: 手動による非レコード保持ラベル            | Available |
 |                                         | 情報ガバナンス: SharePoint、OneDrive for Business のライブラリ、フォルダー、およびドキュメントセットの既定の保持ラベル。Exchange の受信トレイ。および Office 365 グループ | Available              |
 |                                         | 情報ガバナンス: 組織全体へのアイテム保持ポリシーの保持。特定の場所またはユーザー。特定の条件 (キーワードや機密情報など) に基づいて自動で行います。イベントに基づく                                       | Available              |
-|                                         | 情報ガバナンス: trainable クラシファイアを使用したアイテム保持ポリシー                            | エンジニアリングバックログの場合 |
-|                                         | 情報ガバナンス: Yammer および Teams のアイテム保持ポリシー                            | エンジニアリングバックログの場合 |
-|                                         | 情報ガバナンス: SharePoint の同期 Tex 分類を使用したアイテム保持ラベル                           | エンジニアリングバックログの場合              |
+|                                         | 情報ガバナンス: Teams のアイテム保持ポリシー                            | Available |
+|                                         | 情報ガバナンス: SharePoint の同期 Tex 分類を使用したアイテム保持ラベル                            | エンジニアリングバックログの場合 |
+|                                         | 情報ガバナンス: trainable 分類子を使用したアイテム保持ポリシー                            | エンジニアリングバックログの場合 |
+|                                         | 情報ガバナンス: Teams 会議レコーディングのアイテム保持ポリシー                            | エンジニアリングバックログの場合 |
+|                                         | 情報ガバナンス: Yammer のアイテム保持ポリシー                            | エンジニアリングバックログの場合 |
 |                                         | レコード管理: レコードラベルの手動分類                           | Available              |
 |                                         | レコード管理: SharePoint、OneDrive for Business のライブラリ、フォルダー、およびドキュメントセットの既定のレコードラベル。および Office 365 グループ                              | Available              |
 |                                         | レコード管理: 特定の条件に基づいた自動レコードポリシー (キーワードや機密情報など)。イベントに基づく                            | Available              |
@@ -102,17 +104,18 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | レコード管理: 廃棄の証明                            | Available |
 |                                         | レコード管理: レコードのバージョン管理                            | Available |
 |                                         | レコード管理: 規制に関するレコード (パブリックプレビュー)                         | 開発中 |
-|                                         | レコード管理: ライセンス執行                           | ロール アウト |
 |                                         | レコード管理: 複数段階の廃棄レビュー | エンジニアリングバックログの場合 |
-|                                         | レコード管理: ラベルアクティビティエクスプローラー | エンジニアリングバックログの場合 |
-|                                         | レコード管理: Trainable 分類子 | エンジニアリングバックログの場合 |
-| **Insider リスク管理**             | 顧客ロックボックス                                | Available            |
+|                                         | レコード管理: SharePoint の Syntex 分類を使用してレコードラベルを適用する | エンジニアリングバックログの場合 |
+| **インサイダー リスクの管理**             | 顧客ロックボックス                                | Available            |
 |                                         | Insider リスク管理: Teams、SharePoint サイト、電子メールメッセージングの Office インジケーター                         | 開発中 |
 |                                         | Insider リスク管理: ユーザーが出発したデータの盗難                        | 開発中 |
 |                                         | Insider リスク管理: 一般的なデータリーク                                | 開発中              |
 |                                         | Insider リスク管理: insider リスク管理警告の調査                                   | 開発中              |
 |                                         | Insider リスク管理: ケースダッシュボード、コンテンツエクスプローラー、およびメモテンプレート | 開発中 |
 |                                         | Insider リスク管理: 高度な電子情報開示の調査のためのエスカレーション | 開発中|
+|                                         | Insider リスク管理: Windows 10 ビルド1809以降のアクティビティのデバイスインジケーター | エンジニアリングバックログの場合|
+|                                         | Insider リスク管理: セキュリティポリシー違反のインジケーター (プレビュー) | エンジニアリングバックログの場合|
+|                                         | Insider リスク管理: Windows Defender ATP 通知のインジケーター (プレビュー) | エンジニアリングバックログの場合|
 |                                         | Insider リスク管理: 優先度の高いユーザーによるデータ漏洩のポリシーテンプレート (プレビュー) | エンジニアリングバックログの場合 |
 |                                         | Insider リスク管理: 不満を持つユーザーがデータをリークするポリシーテンプレート (プレビュー) | エンジニアリングバックログの場合 |
 |                                         | Insider リスク管理: 一般的なセキュリティポリシー違反 (プレビュー) のポリシーテンプレート | エンジニアリングバックログの場合 |
@@ -125,6 +128,15 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 通信コンプライアンス (監督ポリシーを含む): アクセスアラート。メモテンプレートコミュニケーションポリシーダッシュボード | ロール アウト  |
 |                                         | コミュニケーションコンプライアンス (監督ポリシーを含む): 上級電子情報開示の調査のためのエスカレーション | ロール アウト |
 |                                         | 通信コンプライアンス (監督ポリシーを含む): 成人向けコンテンツの検出 | ロール アウト |
+|                                         | 通信のコンプライアンス: 時間の経過とともに行動違反のリピートコードを検出する | ロール アウト |
+|                                         | コミュニケーションコンプライアンス: より詳細なアクセス許可のサポート | ロール アウト |
+|                                         | コミュニケーションコンプライアンス: オンプレミスメールボックスを使用して Teams のユーザーのチャットデータを分析する | ロール アウト |
+|                                         | 通信のコンプライアンス: 利息の一致のテンプレート | エンジニアリングバックログの場合 |
+|                                         | 通信のコンプライアンス: 電子メールの署名または免責事項を無視する機能 | エンジニアリングバックログの場合 |
+|                                         | コミュニケーションコンプライアンス: Insider リスク管理の手動 | エンジニアリングバックログの場合 |
+|                                         | 通信のコンプライアンス: ポリシーの正常性チェックとポリシーを一時停止する機能 | エンジニアリングバックログの場合 |
+|                                         | 通信のコンプライアンス: 調査中に正常性のコンテンツを翻訳する | エンジニアリングバックログの場合 |
+|                                         | コミュニケーションコンプライアンス: 極度および suicide の検出 | エンジニアリングバックログの場合 |
 |                                         | 情報バリア | エンジニアリングバックログの場合 |
 |                                         | 特権アクセス管理                    | エンジニアリングバックログの場合 |
 | **& 応答の検出**                  | コア電子情報開示: インプレース保持                            | Available              |
@@ -151,13 +163,13 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 高度な電子情報開示: 検索用語レポート                        | Available |
 |                                         | 高度な電子情報開示: 単一アイテムエラーの修復                              | Available |
 |                                         | 高度な電子情報開示: PST エクスポートをサポートする                              | Available |
+|                                         | 高度な電子情報開示: OneDrive および SharePoint Online からのリンクされたコンテンツのサポート (モダン添付ファイル)                              | Available |
 |                                         | 高度な電子情報開示: タグ付け                              | Available |
 |                                         | 高度な電子情報開示: テナントレポート                              | Available |
 |                                         | 高度な電子情報開示: テーマ                              | Available |
 |                                         | 高度な電子情報開示: 閲覧者                              | Available |
 |                                         | 高度な電子情報開示: Microsoft コンプライアンスセンターの Yammer Advanced eDiscovery                              | Available |
 |                                         | 高度な電子情報開示: SharePoint および OneDrive for Business のごみ箱のアイテムを検索してエクスポートするためのサポートが拡張された Microsoft コンプライアンスセンター                              | 開発中 |
-|                                         | 高度な電子情報開示: Graph Api                              | 開発中 |
 |                                         | 高度な電子情報開示: Teams の反応のサポート                              | 開発中 |
 |                                         | 基本的な監査                              | Available |
 |                                         | 高度な監査: 重要なイベントへのアクセス (たとえば、mailitemsaccessed アクセス)                              | Available |
@@ -173,12 +185,14 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | コンプライアンス マネージャー (プレビュー)                              | エンジニアリングバックログの場合 |
 |                                         | Microsoft Cloud App Security                              | エンジニアリングバックログの場合 |
 |                                         | 2バイト文字のサポート                              | エンジニアリングバックログの場合 |
+|    **システム**            | 高度な電子情報開示用のグラフ Api                              | 開発中 |
+|                                         | ファーストパーティデータコネクタ                              | エンジニアリングバックログの場合 |
+|                                         | サードパーティのデータ コネクタ                              | エンジニアリングバックログの場合 |
+|                                         | Teams のグラフ Api データをエクスポートする                              | エンジニアリングバックログの場合 |
 
 
 
 
 <sup>1</sup> 特定された状態は、プロジェクト計画と優先度を再評価する際に変更される可能性があります。<br/>
-<sup>2</sup> ラベルを手動でアプリケーションに適用するには、 [Azure INFORMATION Protection (AIP) クライアントバージョン 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)が必要です。
 
-
-**判断ポイント**: *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
+**判断ポイント** : *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
