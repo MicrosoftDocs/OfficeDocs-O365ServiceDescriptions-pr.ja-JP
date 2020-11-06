@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818667"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931037"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-購入方法
 
@@ -133,13 +133,16 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 **AOS-G パートナー GCC および GCC High (500 座席下)**
 
 - アジャイル IT
-- 適用される情報科学 (AIS) 
+- 適用される情報科学 (AIS)
 - C3 統合ソリューション
+- Carahsoft
 - Dox エレクトロニクス、.Inc
 - F1 ソリューション、Inc
+- 4ポイント
 - KTL ソリューション, Inc
 - LiftOff、//
 - 惑星テクノロジ
+- 非表示の専門家
 - サミット7システム
 
 **注:** 前のリストに記載されているすべての Microsoft licensing solution providers (Lsp) は、エンタープライズアグリーメント (EA) を使用して、顧客の価格シート (CPS) を作成することにより、GCC と GCC の両方を使用することができます。 EA に対応していない組織では、リストされた AOS パートナーまたは CSP パートナープログラムを使用して GCC ライセンスを購入できます。
