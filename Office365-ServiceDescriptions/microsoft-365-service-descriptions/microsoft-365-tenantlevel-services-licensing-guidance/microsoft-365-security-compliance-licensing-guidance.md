@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830398"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999720"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -25,7 +25,7 @@ ms.locfileid: "48830398"
 > [!NOTE]
 > 一部のテナントサービスは、現在、特定のユーザーに対する利点を制限することはできません。 ライセンスを付与されたユーザーにサービスのメリットを制限するための取り組みを実施する必要があります。 これにより、ターゲット機能が使用可能になった場合に、サービスが組織に及ぼす影響を回避できます。
 
-ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  | [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -489,7 +489,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:<br><br>
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 以下に例を示します。<br><br>
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:------|:------|:------|
@@ -569,7 +569,7 @@ Office 365 E5/A5、Microsoft 365 E5/a5、Microsoft 365 E5/A5 コンプライア�
 
 管理者は、特定のユーザーまたはグループを選択して、通信コンプライアンスポリシーに含めることができます。 グループを選択するときに、通信コンプライアンスポリシーから除外するグループ内の特定のユーザーを選択することもできます。 通信コンプライアンスポリシーの詳細については、「 [Microsoft 365 の通信コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)」を参照してください。
 
-## <a name="insider-risk-management"></a>インサイダー リスク管理
+## <a name="insider-risk-management"></a>インサイダー リスクの管理
 
 Insider リスク管理は、組織内のリスクのあるアクティビティを検出、調査、処理を実行できるようにすることによって、内部的なリスクを最小限に抑えるために役立つ Microsoft 365 のソリューションです。
 カスタムポリシーを使用すると、必要に応じて Microsoft Advanced eDiscovery にエスカレーションした場合を含めて、組織内の悪意のある、誤ったリスクのあるアクティビティを検出し、アクションを実行できます。 組織内のリスクアナリストは、ユーザーが組織のコンプライアンス標準に準拠していることを確認するために、適切なアクションを迅速に実行できます。

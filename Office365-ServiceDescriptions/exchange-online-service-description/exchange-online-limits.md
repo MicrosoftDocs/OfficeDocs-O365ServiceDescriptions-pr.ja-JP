@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 728dbb670449a941400a3951201413e79895b238
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 784d8c7a6d1e1d87db0982586c63fce73eb3fa33
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830428"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999730"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -268,7 +268,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |メッセージ サイズの制限 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |メッセージ サイズの制限 - 移行|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|150 MB <sup>1、4</sup>|
 |メッセージ サイズの制限 - iOS 版 Outlook および Android 版 Outlook | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|暗号化されたメッセージのサイズ制限 (新しい機能を備えた Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|暗号化されたメッセージのサイズ制限 (新しい機能を備えた Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |暗号化されたメッセージのサイズ制限 (レガシ バージョンの Office 365 Message Encryption を使用するサブスクライバー向け)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |件名の長さの制限|255 文字|255 文字|255 文字|255 文字|255 文字|255 文字|
 |添付ファイルの制限|250 個の添付ファイル|250 個の添付ファイル|250 個の添付ファイル|250 個の添付ファイル|250 個の添付ファイル|250 個の添付ファイル|
