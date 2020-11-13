@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams は、インスタントメッセージング、ファイルとデータのコラボレーション、音声ビデオ通話、豊富なオンライン会議、モバイルエクスペリエンス、広範な web 会議機能を提供します。
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773441"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003950"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -45,29 +45,30 @@ Microsoft は、お客様のデータのセキュリティおよびサービス�
 
 Microsoft Teams は、スタンドアロンサービスとしては利用できません。
 
-## <a name="feature-category-reference"></a>機能カテゴリリファレンス 
+## <a name="feature-category-reference"></a>機能カテゴリリファレンス
 
 次の表に、ライセンスプランまたはクラウドインスタンスで利用できる Microsoft Teams の機能を示します。 特定の注意事項が適用されます。 詳細については、脚注を参照してください。 この表は、予告なしに変更される場合があります。 「Microsoft 365 メッセージセンターからのコアサービス変更メッセージングの通知」および「 [microsoft ライセンス条項リファレンス」ドキュメント](https://www.microsoft.com/licensing/product-licensing/products)を参照してください。<br><br>
 
 | 機能 | 小規模企業 | エンタープライズプラン | GCC | GCC-高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|Teams  <br/> |はい <br/> |はい <br/> |はい <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
-|チャネル-標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|チャット  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |
+|Teams  <br/> |必要 <br/> |必要 <br/> |はい <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
+|チャネル-標準  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |
 |チャネル-プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |必要 <br/> |いいえ  <br/> |いいえ <br/> |はい  <br/> |
-|会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|画面共有の PowerPoint 音声/ビデオデスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|Apps、ボット、& コネクタ  <br/> |はい  <br/> |必要  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい<sup>3、4</sup>  <br/> |必要  <br/> |
-|ライブイベント  <br/> |いいえ  <br/> |はい  <br/> |必要  <br/> |<sup>5</sup>なし  <br/> |<sup>5</sup>なし  <br/> |はい  <br/> |
+|会議  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |
+|画面共有の PowerPoint 音声/ビデオデスクトップ <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |必要  <br/> |
+|音声  <br/> |必要  <br/> |必要  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
+|電話会議  <br/> |必要  <br/> |必要  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
+|Apps、ボット、& コネクタ  <br/> |必要  <br/> |はい  <br/> |はい<sup>5</sup>  <br/> |はい<sup>5</sup>  <br/> |Yes<sup>4、5</sup>  <br/> |必要  <br/> |
+|ライブイベント  <br/> |いいえ  <br/> |必要  <br/> |必要  <br/> |<sup>6</sup>なし  <br/> |<sup>6</sup>なし  <br/> |はい  <br/> |
 
 > <sup>1</sup>  個々のチームの2500メンバーについては、GCC-High と DOD サポートに関する Microsoft Teams をサポートしています。<br/>
 > <sup>2</sup> Microsoft Planner は、現在プライベートチャネルではアクセスできません。<br/>
-> <sup>3</sup> Microsoft OneNote は、DOD クラウドでは利用できません。<br/>
-> この時点では、これらのクラウドで<sup>はアプリケーションとアプリケーションの</sup>公開は利用できません。<br/>
-> この時点で、 <sup>5</sup> Live イベントは GCC-High または DOD では使用できません。<br/>
+> GCCH および DoD で機能するように Microsoft Teams の音声および電話会議を構成するには<sup>、直接ルーティング</sup>を構成する必要があります。<br/>
+> <sup>4</sup> Microsoft OneNote は、DOD クラウドでは利用できません。<br/>
+> 現時点では、これらのクラウドでは<sup>5 つ</sup>のアプリケーションとアプリケーションの公開は利用できません。<br/>
+> <sup>6</sup> 現時点では、Live イベントは GCC-High または DOD では使用できません。<br/>
 
-## <a name="next-steps"></a>次の手順
+## <a name="next-steps"></a>次のステップ
 
 Microsoft teams の [技術ドキュメント](https://aka.ms/SuccessWithTeams)にアクセスして、microsoft teams の展開の計画を開始します。 [コミュニティに参加して Microsoft teams ブログにアクセス](https://aka.ms/TeamsBlog)することで、Teams の機能を最新の状態に保つことができます。
