@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
-ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818647"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072678"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
@@ -50,7 +50,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 - *Microsoft 365 Government-GCC が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2.  Microsoft 365 Government-GCC への適用
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>手順 2。 Microsoft 365 Government-GCC への適用
 
 このサービスが組織に適していると判断した場合は、 [このサービスの適用](https://products.office.com/government/eligibility-validation)プロセスを開始します。
 
@@ -182,7 +182,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 高度な監査: audit insights の処理                               | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: Exchange Online および SharePoint Online の検索用語イベント                              | エンジニアリングバックログの場合 |
 |    **コンプライアンス管理**            | Microsoft 365 セキュリティ/コンプライアンスセンター                              | Available |
-|                                         | コンプライアンス マネージャー (プレビュー)                              | エンジニアリングバックログの場合 |
+|                                         | コンプライアンス マネージャー                              | ロール アウト |
 |                                         | Microsoft Cloud App Security                              | エンジニアリングバックログの場合 |
 |                                         | 2バイト文字のサポート                              | エンジニアリングバックログの場合 |
 |    **システム**            | 高度な電子情報開示用のグラフ Api                              | 開発中 |
