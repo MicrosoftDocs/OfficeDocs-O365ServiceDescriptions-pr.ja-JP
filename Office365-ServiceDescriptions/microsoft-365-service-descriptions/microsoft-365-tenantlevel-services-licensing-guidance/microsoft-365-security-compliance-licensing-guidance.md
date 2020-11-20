@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999720"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330264"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -298,8 +298,8 @@ Microsoft は、Microsoft 365 コンプライアンスセンターで構成で�
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 Info Protection & ガバナンス
 - Microsoft 365 E5/A5 コンプライアンス
-- Microsoft 365 E5/A5 Insider リスク管理 
-- Microsoft 365 E5/A5 電子情報開示と監査 
+- Microsoft 365 E5/A5 Insider リスク管理
+- Microsoft 365 E5/A5 電子情報開示と監査
 - Office 365 E5/A5
 - Office 365 Advanced Compliance
 
@@ -377,11 +377,7 @@ Office 365 顧客キー暗号化キーは、Exchange Online と Skype for busine
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-ライセンスを付与されたユーザーのために Office 365 または Microsoft 365 組織内のデータに暗号化キーを割り当てるには、「顧客キー暗号化キーの展開手順」に従ってください。
-
-- SharePoint Online、OneDrive for Business、Teams の各ファイルでは、顧客キーを使用して1つ以上のサイト上のファイルを暗号化できます。
-
-- Exchange Online と Skype for Business では、顧客キーを使用してメールボックスを暗号化できます。
+Exchange Online と Skype for Business では、顧客キーを使用してメールボックスを暗号化できます。 Office 365 の顧客キーを使用するには、事前に Azure をセットアップする必要があります。 必要な Azure リソースを作成して構成する手順については、「 [Set Up Customer key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) 」および「Office 365 で顧客キーを設定する手順」を参照してください。 Azure のセットアップを完了した後、組織内のメールボックスとファイルに割り当てるポリシーとそのためのキーを決定します。 ポリシーを割り当てていないメールボックスとファイルでは、Microsoft によって制御および管理されている暗号化ポリシーが使用されます。 顧客キーの詳細、または一般的な概要については、「 [Office 2010 での顧客キーを使用したサービスの暗号化 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)」を参照してください。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 カスタマー ロックボックス
 
@@ -461,7 +457,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3、および Office 365 デー
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、 **データ損失防止** の場所の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます  >  **Locations** 。
+管理者は、**データ損失防止** の場所の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます  >  **Locations**。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Teams の通信データ損失防止
 
@@ -481,7 +477,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-管理者は、 **データ損失防止** の場所の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます  >  **Locations** 。
+管理者は、**データ損失防止** の場所の下にあるセキュリティ & コンプライアンスセンターで、場所 (ワークロード)、含めるユーザー、除外ユーザーをカスタマイズできます  >  **Locations**。
 
 ## <a name="information-barriers"></a>情報バリア
 
