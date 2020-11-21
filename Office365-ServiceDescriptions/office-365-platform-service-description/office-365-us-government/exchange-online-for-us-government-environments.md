@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、「Exchange Online サービスの説明」に記載されている米国政府機関クラウドと商用クラウドの機能の違いの概要について説明します。
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988084"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376090"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>米国政府機関向けの Exchange Online
 
@@ -42,109 +42,109 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 | 機能 | GCC | GCC High | DoD | 重要な考慮事項 |
 |:-----|:-----|:-----|:-----|:-----|
 |**[計画と展開](../../exchange-online-service-description/planning-and-deployment.md)**|||||
-|サポートされているハイブリッド展開|必要|必要|必要|オンプレミスの Exchange Server との共存の場合、Microsoft は少なくとも1つの Exchange Server 2013 クライアントアクセスサーバー (または Exchange Server 2016) をインストールする必要があります。 Exchange Server 2010 以前はサポートされていません。|
-|サポートされている IMAP 移行|必要|必要|必要||
-|カット オーバー移行のサポート|必要|必要|必要||
-|サポートされている段階的な移行|必要|必要|必要|GSuite 移行は、GCC High および DoD ではサポートされていません。 詳細については、「 <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">suite 移行を実行する</a>」を参照してください。|
+|サポートされているハイブリッド展開|はい|はい|はい|オンプレミスの Exchange Server との共存の場合、Microsoft は少なくとも1つの Exchange Server 2013 クライアントアクセスサーバー (または Exchange Server 2016) をインストールする必要があります。 Exchange Server 2010 以前はサポートされていません。|
+|サポートされている IMAP 移行|はい|はい|はい||
+|カット オーバー移行のサポート|はい|はい|はい||
+|サポートされている段階的な移行|はい|はい|はい|GSuite 移行は、GCC High および DoD ではサポートされていません。 詳細については、「 <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">suite 移行を実行する</a>」を参照してください。|
 |**[アクセス許可](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|役割に基づくアクセス許可|必要|必要|必要||
-|役割グループ|必要|必要|必要||
-|役割の割り当てポリシー|必要|必要|必要||
+|役割に基づくアクセス許可|はい|はい|はい||
+|役割グループ|はい|はい|はい||
+|役割の割り当てポリシー|はい|はい|はい||
 |**[メッセージ ポリシーとコンプライアンス](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|Exchange Online ベースのメールボックスのアーカイブ|必要|必要|必要||
-|社内メールボックスのクラウドベースのアーカイブ|必要|必要|必要||
-|Messaging Records Management(MRM) |必要|必要|必要||
-|手動のアイテム保持ポリシー、ラベル、タグ |必要|必要|必要||
-|保存中のデータの暗号化 (BitLocker)|必要|必要|必要||
-|Azure Information Protection を使用した IRM|必要|必要|必要|GCC High および DoD での AIP の制限に関する詳細については、「 <a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government サービスの説明</a>」を参照してください。<br><br>Azure Information Protection は、G1/F3 には含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、Office 365 Government G1 または Office 365 Government F3 には含まれていません。|
-|Windows Server AD RMS を使用した IRM|必要|必要|必要| Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。|
-|Office 365 Message Encryption|必要|必要|必要|この記事の「office [365 Message encryption behavior IN Gcc high/dod](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) 」および「 <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">365 office 2010 メッセージ暗号化の特徴</a>」を参照してください。 gcc 高展開では、gcc high/dod および非 gcc 高/dod ユーザーの間でメッセージを送信する場合の office 365 メッセージ暗号化の微妙な違いが文書化されています。|
-|顧客キー|必要|必要|必要|G5 サービスプランが必要です。|
-|S/MIME|必要|必要|必要||
-|インプレース保持と訴訟ホールド|必要|必要|必要|G3 または G5 サービスプランが必要です。|
-|インプレース電子情報開示 (eDiscovery)|必要|必要|必要||
-|メール フロー ルール|必要|必要|必要||
-|Data loss prevention|必要|必要|必要|G3 または G5 サービスプランが必要です。|
-|ジャーナル|必要|必要|必要||
+|Exchange Online ベースのメールボックスのアーカイブ|はい|はい|はい||
+|社内メールボックスのクラウドベースのアーカイブ|はい|はい|はい||
+|Messaging Records Management(MRM) |はい|はい|はい||
+|手動のアイテム保持ポリシー、ラベル、タグ |はい|はい|はい||
+|保存中のデータの暗号化 (BitLocker)|はい|はい|はい||
+|Azure Information Protection を使用した IRM|はい|はい|はい|GCC High および DoD での AIP の制限に関する詳細については、「 <a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government サービスの説明</a>」を参照してください。<br><br>Azure Information Protection は、G1/F3 には含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、office 365 ProPlus へのサブスクリプションが必要です。これは、Office 365 Government G1 または Office 365 Government F3 には含まれていません。|
+|Windows Server AD RMS を使用した IRM|はい|はい|はい| Windows Server AD RMS は、サポートされている IRM 機能を有効にするために別途購入して管理する必要があるオンプレミスのサーバーです。|
+|Office 365 Message Encryption|はい|はい|はい|この記事の「office [365 Message encryption behavior IN Gcc high/dod](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) 」および「 <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">365 office 2010 メッセージ暗号化の特徴</a>」を参照してください。 gcc 高展開では、gcc high/dod および非 gcc 高/dod ユーザーの間でメッセージを送信する場合の office 365 メッセージ暗号化の微妙な違いが文書化されています。|
+|顧客キー|はい|はい|はい|G5 サービスプランが必要です。|
+|S/MIME|はい|はい|はい||
+|インプレース保持と訴訟ホールド|はい|はい|はい|G3 または G5 サービスプランが必要です。|
+|インプレース電子情報開示 (eDiscovery)|はい|はい|はい||
+|メール フロー ルール|はい|はい|はい||
+|Data loss prevention|はい|はい|はい|G3 または G5 サービスプランが必要です。|
+|ジャーナル|はい|はい|はい||
 |**[スパム対策とマルウェア対策の保護](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|組み込みのスパム対策保護|必要|必要|必要||
-|Customize anti-spam policies|必要|必要|必要||
-|組み込みのマルウェア対策保護|必要|必要|必要||
-|Customize anti-malware policies|必要|必要|必要||
-|検疫 - 管理者による管理|必要|必要|必要||
-|検疫 - エンドユーザーによる自己管理|必要|必要|必要||
-|Advanced Threat Protection|必要|必要|必要|G5 Service プラン (またはアドオンの購入) が必要です。<br><br>ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスのフィッシング対策は、GCC High および DoD ではまだ利用できません。|
+|組み込みのスパム対策保護|はい|はい|はい||
+|Customize anti-spam policies|はい|はい|はい||
+|組み込みのマルウェア対策保護|はい|はい|はい||
+|Customize anti-malware policies|はい|はい|はい||
+|検疫 - 管理者による管理|はい|はい|はい||
+|検疫 - エンドユーザーによる自己管理|はい|はい|はい||
+|Advanced Threat Protection|はい|はい|はい|G5 Service プラン (またはアドオンの購入) が必要です。<br><br>ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスのフィッシング対策は、GCC High および DoD ではまだ利用できません。|
 |**[メール フロー](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|送信メールのカスタムルーティング|必要|必要|必要||
-|Secure messaging with a trusted partner|必要|必要|必要||
-|Conditional mail routing|必要|必要|必要||
-|着信セーフリストへのパートナーの追加|必要|必要|必要||
-|ハイブリッド電子メールルーティング|必要|必要|必要||
+|送信メールのカスタムルーティング|はい|はい|はい||
+|Secure messaging with a trusted partner|はい|はい|はい||
+|Conditional mail routing|はい|はい|はい||
+|着信セーフリストへのパートナーの追加|はい|はい|はい||
+|ハイブリッド電子メールルーティング|はい|はい|はい||
 |**[受信者](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|容量のアラート|必要|必要|必要||
-|クラッター機能|必要|必要|必要||
-|メール ヒント|必要|必要|必要||
-|代理人アクセス|必要|必要|必要||
-|受信トレイのルール|必要|必要|必要||
-|接続されているアカウント|必要|いいえ|いいえ|この機能は、サードパーティのサービスへの送信接続に関する制限のため、GCC High または DoD ではサポートされていません。 影響を受ける機能の詳細については、この記事の「 [サードパーティ製サービスとの接続](#connectivity-with-third-party-services) 」を参照してください。|
-|非アクティブなメールボックス|必要|必要|必要|G3 または G5 サービスプランが必要です。|
-|オフライン アドレス帳|必要|必要|必要||
-|アドレス帳ポリシー|必要|必要|必要||
-|階層型アドレス帳|必要|必要|必要||
-|アドレス一覧とグローバルアドレス一覧|必要|必要|必要||
-|Office 365 グループ|必要|必要|必要|Office 365 グループへのゲストアクセスは、GCC High および DoD 環境ではサポートされていません。 詳細については、「 <a href="https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity">Azure Government Security + Identity</a>」を参照してください。|
-|配布グループ|必要|必要|必要||
-|外部連絡先 （グローバル）|必要|必要|必要|GCC High および DoD 環境での組織の関係のコラボレーションの制限に従います。 |
-|ソーシャルネットワークを使用した連絡先リンク|必要|いいえ|いいえ|この機能は、GCC High または DoD ではサポートされていません。|
-|リソース メールボックス|必要|必要|必要||
-|会議室の管理|必要|必要|必要||
-|不在時の返信|必要|必要|必要||
-|インターネット予定表の共有|必要|いいえ|いいえ|GCC High では、インターネット予定表の公開と共有は、GCC のユーザーが共有している予定表への受信接続に対しては機能しますが、gcc 高のユーザーは GCC の外部の共有の予定表への送信に接続します。<br><br>DoD では、インターネット予定表の共有は、その環境での受信/送信接続の許可リストの要件により、サポートされていません。|
+|容量のアラート|はい|はい|はい||
+|クラッター機能|はい|はい|はい||
+|メール ヒント|はい|はい|はい||
+|代理人アクセス|はい|はい|はい||
+|受信トレイのルール|はい|はい|はい||
+|接続されているアカウント|はい|いいえ|いいえ|この機能は、サードパーティのサービスへの送信接続に関する制限のため、GCC High または DoD ではサポートされていません。 影響を受ける機能の詳細については、この記事の「 [サードパーティ製サービスとの接続](#connectivity-with-third-party-services) 」を参照してください。|
+|非アクティブなメールボックス|はい|はい|はい|G3 または G5 サービスプランが必要です。|
+|オフライン アドレス帳|はい|はい|はい||
+|アドレス帳ポリシー|はい|はい|はい||
+|階層型アドレス帳|はい|はい|はい||
+|アドレス一覧とグローバルアドレス一覧|はい|はい|はい||
+|Office 365 グループ|はい|はい|はい|Office 365 グループへのゲストアクセスは、GCC High および DoD 環境ではサポートされていません。 詳細については、「 <a href="https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity">Azure Government Security + Identity</a>」を参照してください。|
+|配布グループ|はい|はい|はい||
+|外部連絡先 （グローバル）|はい|はい|はい|GCC High および DoD 環境での組織の関係のコラボレーションの制限に従います。 |
+|ソーシャルネットワークを使用した連絡先リンク|はい|いいえ|いいえ|この機能は、GCC High または DoD ではサポートされていません。|
+|リソース メールボックス|はい|はい|はい||
+|会議室の管理|はい|はい|はい||
+|不在時の返信|はい|はい|はい||
+|インターネット予定表の共有|はい|いいえ|いいえ|GCC High では、インターネット予定表の公開と共有は、GCC のユーザーが共有している予定表への受信接続に対しては機能しますが、gcc 高のユーザーは GCC の外部の共有の予定表への送信に接続します。<br><br>DoD では、インターネット予定表の共有は、その環境での受信/送信接続の許可リストの要件により、サポートされていません。|
 |**[レポート機能とトラブルシューティング ツール](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|Microsoft 365 管理センターのレポート|必要|必要|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
-|Web サービスレポート|必要|必要|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
-|Message trace|必要|必要|必要||
-|監査レポート|必要|必要|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
-|ユニファイド メッセージングのレポート|必要|いいえ|いいえ||
+|Microsoft 365 管理センターのレポート|はい|はい|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
+|Web サービスレポート|はい|はい|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
+|Message trace|はい|はい|はい||
+|監査レポート|はい|はい|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
+|ユニファイド メッセージングのレポート|はい|いいえ|いいえ||
 |**[共有とコラボレーション](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|フェデレーションの共有 (予定表の公開を含む)|必要|必要|必要|GCC High と DoD の両方に制限があります。 この記事の「 [空き時間情報フェデレーション](#freebusy-federation) 」を参照してください。|
-|サイト メールボックス|必要|必要|必要||
-|パブリック フォルダー|必要|必要|必要||
+|フェデレーションの共有 (予定表の公開を含む)|はい|はい|はい|GCC High と DoD の両方に制限があります。 この記事の「 [空き時間情報フェデレーション](#freebusy-federation) 」を参照してください。|
+|サイト メールボックス|はい|はい|はい||
+|パブリック フォルダー|はい|はい|はい||
 |**[クライアントとモバイル デバイス](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|To Do Web|必要|いいえ|いいえ||
-|Outlook for Windows|必要|必要|必要|GCC の高および米国のコンプライアンス要件を満たすには、少なくともバージョン1803の Office 365 ProPlus を実行している必要があります。 Office 365 ProPlus は、G1 または F3 に含まれていません。|
-|Outlook on the web|必要|必要|必要||
-|Outlook for Mac|必要|必要|必要|GCC の高および米国のコンプライアンス要件を満たすには、少なくともバージョン1803の Office 365 ProPlus を実行している必要があります。 Office 365 ProPlus は、G1 または F3 に含まれていません。|
-|iOS および Android 用の Outlook|必要|必要|必要||
-|Exchange ActiveSync|必要|必要|必要||
-|Microsoft 365 の基本的なモビリティとセキュリティ|必要|いいえ|いいえ||
-|POP と IMAP|必要|必要|必要||
-|SMTP|必要|必要|必要||
-|EWS アプリケーションのサポート|必要|必要|必要||
+|Web 上で作業するには|はい|いいえ|いいえ||
+|Outlook for Windows|はい|はい|はい|GCC の高および米国のコンプライアンス要件を満たすには、少なくともバージョン1803の Office 365 ProPlus を実行している必要があります。 Office 365 ProPlus は、G1 または F3 に含まれていません。|
+|Outlook on the web|はい|はい|はい||
+|Outlook for Mac|はい|はい|はい|GCC の高および米国のコンプライアンス要件を満たすには、少なくともバージョン1803の Office 365 ProPlus を実行している必要があります。 Office 365 ProPlus は、G1 または F3 に含まれていません。|
+|iOS 版および Android 版 Outlook|はい|はい|はい||
+|Exchange ActiveSync|はい|はい|はい||
+|Microsoft 365 の基本的なモビリティとセキュリティ|はい|いいえ|いいえ||
+|POP と IMAP|はい|はい|はい||
+|SMTP|はい|はい|はい||
+|EWS アプリケーションのサポート|はい|はい|はい||
 |**[音声メッセージ サービス](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
 |ボイス メール|いいえ|いいえ|いいえ|Exchange Online ユニファイドメッセージングでのオンプレミスの ip-pbx システムの統合はサポートされていません。|
 |ボイスメールとサードパーティ製 FAX 間の統合|いいえ|いいえ|いいえ|Exchange Online ユニファイドメッセージングでのオンプレミスの ip-pbx システムの統合はサポートされていません。|
 |サードパーティ ボイス メールの相互運用性|いいえ|いいえ|いいえ|Exchange Online ユニファイドメッセージングでのオンプレミスの ip-pbx システムの統合はサポートされていません。|
-|Skype for Business の統合|必要|必要|必要||
+|Skype for Business の統合|はい|はい|はい||
 |**[高可用性とビジネス継続性](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|データセンターでのメールボックスレプリケーション|必要|必要|必要||
-|削除済みメールボックスの回復|必要|必要|必要||
-|削除済みアイテムの回復|必要|必要|必要||
-|単一アイテムの回復|必要|必要|必要||
+|データセンターでのメールボックスレプリケーション|はい|はい|はい||
+|削除済みメールボックスの回復|はい|はい|はい||
+|削除済みアイテムの回復|はい|はい|はい||
+|単一アイテムの回復|はい|はい|はい||
 |**[相互運用性、接続、および互換性](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|OWA および Outlook でのプレゼンス|必要|必要|必要||
-|SharePoint の相互運用性|必要|必要|必要||
-|EWS 接続のサポート|必要|必要|必要||
-|SMTP リレーのサポート|必要|必要|必要||
+|OWA および Outlook でのプレゼンス|はい|はい|はい||
+|SharePoint の相互運用性|はい|はい|はい||
+|EWS 接続のサポート|はい|はい|はい||
+|SMTP リレーのサポート|はい|はい|はい||
 |**[Exchange Online のセットアップと管理](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|Microsoft Office 365 ポータルへのアクセス|必要|必要|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
-|Microsoft 365 管理センターへのアクセス|必要|必要|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
-|Exchange 管理センターへのアクセス|必要|必要|必要||
-|リモート Windows PowerShell へのアクセス|必要|必要|必要||
-|モバイルデバイスの ActiveSync ポリシー|必要|必要|必要||
-|利用状況レポート|必要|必要|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
+|Microsoft Office 365 ポータルへのアクセス|はい|はい|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
+|Microsoft 365 管理センターへのアクセス|はい|はい|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
+|Exchange 管理センターへのアクセス|はい|はい|はい||
+|リモート Windows PowerShell へのアクセス|はい|はい|はい||
+|モバイルデバイスの ActiveSync ポリシー|はい|はい|はい||
+|利用状況レポート|はい|はい|いいえ|レポートは DoD では利用できません。 更新プログラム/現在の可用性については、「Office 365 US Government サービスの説明」の「 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">プラットフォーム機能</a> 」セクションを参照してください。|
 |**[サービスのカスタマイズ、アドイン、およびリソースの拡張](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
-|Outlook アドインと Outlook MAPI|必要|必要|必要|一部の OWA および Outlook アドインは、GCC High および DoD で利用できます。 この記事の「 [outlook および Outlook Web App で](#add-insin-outlook-and-outlook-web-app) のアドイン」を参照してください。|
+|Outlook アドインと Outlook MAPI|はい|はい|はい|一部の OWA および Outlook アドインは、GCC High および DoD で利用できます。 この記事の「 [outlook および Outlook Web App で](#add-insin-outlook-and-outlook-web-app) のアドイン」を参照してください。|
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>GCC High および DoD 環境内の微妙なニュアンス
 
@@ -170,7 +170,7 @@ Azure Active Directory B2B コラボレーションは現在、Azure US Governme
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Office 365 GCC High/DoD 境界にまたがる、メッセージの暗号化の動作
 
-GCC の高環境で Office 365 メッセージの暗号化を使用する場合は、受信者の動作に関する次のような固有の特徴に注意してください。  
+GCC の高環境で Office 365 メッセージの暗号化を使用することを計画している場合は、受信者の動作に関する次のような固有の特性に注意してください。  
 
 - GCC High または DoD から同じ環境内の受信者に暗号化された電子メールを送信する場合:
     
@@ -212,22 +212,22 @@ IOS および Android 用の Outlook は、GCC High および DoD 環境でも�
 
 一部の OWA および Outlook アドインは、GCC High および DoD で利用できます。 マイテンプレートと提案された会議が利用可能で、機能する必要があります。 既定の5つの OWA アドインのみがサポートされます。 サードパーティ製のアプリケーションとの統合は可能ですが、これらの統合は、GCC High または DoD の Microsoft コンプライアンスの約束によって対象となるものではありません。 お客様は、組織のためにアドオンを構成する前に、サードパーティのデータ処理方法とコンプライアンスの約束を熟知している必要があります。
 
-## <a name="feature-nuances-within-gcc-environments"></a>GCC 環境内の微妙ニュアンス
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Microsoft が実行する GCC 環境内の微妙なニュアンス
 
 | 機能 | 説明 | PROPLUS.WW | GCC での利用可能性 |
 |:-----|:-----|:-----|:-----|
 |サポートされるプラットフォーム|Web、Android、iOS、Mac、Windows|すべて|Web のみ|
 |M365 hub でサポートされている|Outlook、Teams、Planner との統合|すべて|Outlook、Planner (Teams タスクアプリで利用できる Teams)|
-|Wunderlist 移行|Wunderlist ユーザーがデータを移行できるようにする|必要|いいえ|
-|プッシュ通知|エンドユーザーに対して、事前通知などのプッシュ通知を送信します。|必要|いいえ|
-|Helpshift サポート|Helpshift インターフェイスを使用してサポート要求を作成する|必要|いいえ|
-|自分の一日|自分の日を計画する|必要|必要|
-|計画されたリスト|期限があるすべてのタスクを表示する|必要|必要|
-|自分のリストに割り当てられている|共有リスト、Planner、または WXP で自分に割り当てられているすべてのタスク (未来)|必要|必要|
-|フラグ付きメール|Outlook で [タスクとしてメールフラグを設定する」を参照|必要|必要|
-|複数アカウントのサポート|1つのウィンドウで自宅および会社のアカウントを使用する|必要|必要|
-|リスト共有|同じ組織内の仕事仲間とリストを共有する|必要|必要|
-|クロステナントの共有|組織外のタスクリストを共有する|必要|いいえ|
-|アラームと定期的なアイテム|タスクのアラームを設定する |必要|必要|
+|Wunderlist 移行|Wunderlist ユーザーが Web 上でデータを移行できるようにする|はい|いいえ|
+|プッシュ通知|エンドユーザーに対して、事前通知などのプッシュ通知を送信します。|はい|いいえ|
+|Helpshift サポート|Helpshift インターフェイスを使用してサポート要求を作成する|はい|いいえ|
+|自分の一日|自分の日を計画する|はい|はい|
+|計画されたリスト|期限があるすべてのタスクを表示する|はい|はい|
+|自分のリストに割り当てられている|共有リスト、Planner、または WXP で自分に割り当てられているすべてのタスク (未来)|はい|はい|
+|フラグ付きメール|Outlook で [タスクとしてメールフラグを設定する」を参照|はい|はい|
+|複数アカウントのサポート|1つのウィンドウで自宅および会社のアカウントを使用する|はい|はい|
+|リスト共有|同じ組織内の仕事仲間とリストを共有する|はい|はい|
+|クロステナントの共有|組織外のタスクリストを共有する|はい|いいえ|
+|アラームと定期的なアイテム|タスクのアラームを設定する |はい|はい|
 
 * 上記以外のすべての機能は、両方の環境で使用できます。
