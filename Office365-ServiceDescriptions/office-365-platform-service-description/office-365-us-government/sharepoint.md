@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 米国政府機関のクラウドのお客様が利用できる SharePoint の機能について説明します。
-ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294193"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411606"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>米国政府機関向けの SharePoint
 
@@ -58,12 +58,7 @@ FastTrack の移行の詳細については、「 [Office 365 US Government サ�
 
 商用のお客様や政府機関のお客様のためのセキュリティとコンプライアンスの機能には、既知の違いはありません。
 
-次の機能の詳細については、 [Office 365 US Government サービスの説明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)を参照してください。
-- 顧客ロックボックス
-- データ損失防止 (DLP)
-- 電子情報開示 (コンテンツ検索、保留、エクスポート)
-- Office 365 Advanced Threat Protection (ATP)
-- 秘密度ラベル
+セキュリティとコンプライアンスの機能の詳細については、「 [セキュリティ & コンプライアンスセンター](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)」を参照してください。
 
 Government の Azure Active Directory 機能の詳細については、「 [Azure Government Security + Identity ドキュメント](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)」を参照してください。 
 

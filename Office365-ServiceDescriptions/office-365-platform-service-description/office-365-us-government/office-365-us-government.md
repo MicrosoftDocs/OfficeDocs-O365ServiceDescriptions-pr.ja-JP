@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公的機関の独自性と進化する要件に対応して、Microsoft は Office 365 US Government プラン (または Office 365 Government) を作成しています。 この記事では、Office 365 Government US 環境に固有の機能の概要について説明します。
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830414"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411616"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -209,9 +209,9 @@ Office 365 US Government プランのシステム要件については、[office
 |最大 900 のカスタム ドメインの追加|はい|はい|はい|はい|
 |カスタム ドメインに必要なドメイン所有権の検証|はい|はい|はい|はい|
 |**[サービスの正常性および継続性](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
-|[ **サービス正常性** ] または [ **サービスの状態** ] ページで利用可能な状態に関する情報|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|
+|[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|
 |Microsoft 365 管理センターダッシュボードで利用可能な個々のアラートの状態|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|Yes<sup>9、15</sup>|
-|[ **サービスの正常性** ] RSS フィード|はい|はい|はい|はい|
+|[ **サービスの正常性**] RSS フィード|はい|はい|はい|はい|
 |**[レポート](../../office-365-platform-service-description/reports.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |アクティブおよび非アクティブ メールボックス|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
 |新規メールボックスおよび削除済みメールボックス|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
@@ -237,7 +237,7 @@ Office 365 US Government プランのシステム要件については、[office
 |使用されるブラウザー|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
 |使用されるオペレーティング システム|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
-|**[サービス更新](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
+|**[サービスの更新情報](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|
 |アクションが必要な場合にメッセージ センターに通知を送信|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|はい (<sup>15</sup> )|
 |一部のサービス更新のための Roadmap.office.com|いいえ<sup>10、13</sup>|いいえ<sup>10、13</sup>|いいえ<sup>10、13</sup>|いいえ<sup>10、13</sup>|
@@ -446,6 +446,7 @@ Office 365 US Government プランのシステム要件については、[office
 |共同編集者とのコンテキストに応じたチャット: ドキュメント内の共同編集者とのチャット|いいえ|いいえ|いいえ|
 |ディクテーション|いいえ<sup>1</sup>|いいえ<sup>1</sup>|いいえ<sup>1</sup>|
 
+GCC/GCC High/DoD 内の Microsoft Teams で利用できる機能については、「 [Microsoft teams サービスの説明](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description)」を参照してください。
 > <sup>1 つ</sup> の利用可能時間。
 <br/><sup>2</sup> ローカル Surface Hub での可用性 (サインインしていない場合)。
 <br/><sup>3 つ</sup> の外部共有が GCC 環境で使用できます。 組織で [Microsoft Forms をオンまたは](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) オフにする方法について説明します。 GCC High および DOD 環境では、外部共有は無効になっています。組織内のユーザーは、フォームを完成させ、応答を送信したり、フォーム [をテンプレートとして複製および共有](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)したり、 [フォームで共同編集または共同作業](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)を行ったり、 [フォームの結果にアクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)したりすることがあります。

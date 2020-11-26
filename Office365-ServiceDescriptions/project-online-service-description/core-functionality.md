@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online では次のコア機能が利用可能です。
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294043"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411586"
 ---
 # <a name="core-functionality"></a>コア機能
 
@@ -52,13 +52,13 @@ Word などの Office アプリケーション間でスケジュールの詳細�
 
 ガントチャート、ネットワークダイアグラム、グラフ、シート、使用状況、およびフォームビューを使用して、プロジェクト情報をグラフィカルに表示します。 「[プロジェクト スケジュールの適切なビューを選ぶ](https://go.microsoft.com/fwlink/?LinkId=402905)」を参照してください。
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
+## <a name="user-interface-the-ribbon"></a>ユーザーインターフェイス、リボン
 
-リボンを使用して生産性を向上します。リボンは、Project 機能とコントロールを迅速に検出して使用するために使用できるタブ インターフェイスです。[リボン](https://go.microsoft.com/fwlink/p/?LinkId=271325)の詳細情報を参照してください。
-  
+リボンを使用して生産性を向上します。
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-[元に戻す] メニューを使用して、一度に複数の変更を元に戻すことができます。 
+[元に戻す] メニューを使用して、一度に複数の変更を元に戻すことができます。
   
 ## <a name="network-diagram-view"></a>ネットワーク ダイアグラムのビュー
 
@@ -103,5 +103,3 @@ Project 2013 では、空のプロジェクトを表示することなく、プ�
 ## <a name="feature-availability"></a>機能の可用性
 
 プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
-  
-

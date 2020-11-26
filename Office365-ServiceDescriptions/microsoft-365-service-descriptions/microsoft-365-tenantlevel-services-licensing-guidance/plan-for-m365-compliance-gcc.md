@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072678"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411646"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
@@ -46,7 +46,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 > [!NOTE]
 > Microsoft 365 Government-GCC は米国でのみ利用可能です。 米国以外の政府機関のお客様は、多くの [Office 365 Government プラン](https://products.office.com/government/compare-office-365-government-plans)から選択できます。
 
-**判断ポイント** : <br/>
+**判断ポイント**: <br/>
 - *Microsoft 365 Government-GCC が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
@@ -58,7 +58,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 
 既定のセキュリティ設定を変更する前に、管理者およびセキュリティ設定を慎重に確認して、コンプライアンスへの影響を考慮することをお勧めします。
 
-**判断ポイント** : *既定の Microsoft 365 Government-GCC セキュリティ設定を変更するかどうかを決定します。解決するには、変更による影響を最初に理解する必要があります。*
+**判断ポイント**: *既定の Microsoft 365 Government-GCC セキュリティ設定を変更するかどうかを決定します。解決するには、変更による影響を最初に理解する必要があります。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>手順 4. Microsoft 365 Government – GCC<sup>1</sup>では、現在どの機能が使用できないか、または無効になっているかを理解する
 
@@ -182,7 +182,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 高度な監査: audit insights の処理                               | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: Exchange Online および SharePoint Online の検索用語イベント                              | エンジニアリングバックログの場合 |
 |    **コンプライアンス管理**            | Microsoft 365 セキュリティ/コンプライアンスセンター                              | Available |
-|                                         | コンプライアンス マネージャー                              | ロール アウト |
+|                                         | コンプライアンス マネージャー                              | Available |
 |                                         | Microsoft Cloud App Security                              | エンジニアリングバックログの場合 |
 |                                         | 2バイト文字のサポート                              | エンジニアリングバックログの場合 |
 |    **システム**            | 高度な電子情報開示用のグラフ Api                              | 開発中 |
@@ -195,4 +195,4 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 
 <sup>1</sup> 特定された状態は、プロジェクト計画と優先度を再評価する際に変更される可能性があります。<br/>
 
-**判断ポイント** : *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
+**判断ポイント**: *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*

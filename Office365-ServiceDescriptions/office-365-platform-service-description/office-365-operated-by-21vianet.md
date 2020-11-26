@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet が運用している Office 365 は、中国のセキュリティで保護された信頼性と拡張性の高いクラウドサービスのニーズを満たすように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294133"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411656"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -151,7 +151,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |使用されるブラウザー|はい|はい|はい|はい|はい|はい|はい|
 |使用されるオペレーティング システム|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する|はい|はい|はい|はい|はい|はい|はい|
-|**[サービス更新](service-updates.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 365 Enterprise F3 が21Vianet が運用している**|
+|**[サービスの更新情報](service-updates.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 365 Enterprise F3 が21Vianet が運用している**|
 |すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|はい|はい|はい|
 |メッセージセンターへの通知の送信アクションが必要な場合、問題が解決された場合、機能が展開された場合、またはサービスが変更された場合|はい|はい|はい|はい|はい|はい|はい|
 |一部のサービス更新の[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)|はい|--|はい|はい|はい|はい|はい|
@@ -1070,7 +1070,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 - "LinkedIn" & "のデータを People Card のデータに報告する
 - 使う
 - 自分のメールを再生する
-- アドイン
+- Add-Ins
 - スマートリプライ
 - Office フィード
 - 休暇期間
@@ -1099,7 +1099,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |[カスタム フィールド](../project-online-service-description/core-functionality.md#custom-fields)|いいえ|はい|はい|はい|いいえ|
 |[Microsoft Office アプリケーション間でのコピー アンド ペースト機能の強化](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|いいえ|はい|はい|はい|いいえ|
 |[ガント チャート、カレンダー、タスク シート ビュー](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|いいえ|はい|はい|はい|いいえ|
-|[Microsoft Fluent ユーザー インターフェイス、リボン](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|いいえ|はい|はい|はい|いいえ|
+|[ユーザーインターフェイス、リボン](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|いいえ|はい|はい|はい|いいえ|
 |[複数レベルの取り消し](../project-online-service-description/core-functionality.md#multiple-level-undo)|いいえ|はい|はい|はい|いいえ|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|いいえ|はい|はい|はい|いいえ|
 |[Office ストア](../project-online-service-description/core-functionality.md#office-store)|いいえ|いいえ|いいえ|いいえ|いいえ|
