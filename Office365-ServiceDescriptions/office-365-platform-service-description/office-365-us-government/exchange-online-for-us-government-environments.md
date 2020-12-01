@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、「Exchange Online サービスの説明」に記載されている米国政府機関クラウドと商用クラウドの機能の違いの概要について説明します。
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376090"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519098"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>米国政府機関向けの Exchange Online
 
@@ -73,7 +73,7 @@ Office 365 の機能を楽しんだだけでなく、米国政府機関のクラ
 |Customize anti-malware policies|はい|はい|はい||
 |検疫 - 管理者による管理|はい|はい|はい||
 |検疫 - エンドユーザーによる自己管理|はい|はい|はい||
-|Advanced Threat Protection|はい|はい|はい|G5 Service プラン (またはアドオンの購入) が必要です。<br><br>ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスのフィッシング対策は、GCC High および DoD ではまだ利用できません。|
+|Microsoft Defender for Office 365|はい|はい|はい|G5 Service プラン (またはアドオンの購入) が必要です。<br><br>ユーザーおよびドメインの偽装およびスプーフィングインテリジェンスのフィッシング対策は、GCC High および DoD ではまだ利用できません。|
 |**[メール フロー](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**重要な考慮事項**|
 |送信メールのカスタムルーティング|はい|はい|はい||
 |Secure messaging with a trusted partner|はい|はい|はい||

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131671"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519058"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透明性
 
@@ -47,15 +47,14 @@ Microsoft が Office 365 サービスを安全かつ確実に提供する方法�
   
 ## <a name="customer-lockbox"></a>顧客ロックボックス
 
-Microsoft 管理者は、カスタマーロックボックスを使用して、Microsoft サポートエンジニアがヘルプセッション中にデータにアクセスする方法を制御できます。 問題をトラブルシューティングして解決するために、エンジニアがデータへのアクセスを要求した場合、カスタマー ロックボックスを使用してアクセス権の要求を承認または拒否することができます。 承認すると、エンジニアはデータにアクセスできるようになります。 各要求には有効期限があり、問題が解決されると、要求は閉じられ、アクセスは取り消されます。
+Microsoft 管理者は、カスタマーロックボックスを使用して、Microsoft サポートエンジニアがヘルプセッション中にデータにアクセスする方法を制御できます。 エンジニアが、トラブルシューティングや問題解決のためにデータにアクセスする必要がある場合は、カスタマー ロック ボックスを使用してアクセス要求を承認または拒否することができます。 承認すると、エンジニアはデータにアクセスできるようになります。 各要求には有効期限があり、問題が解決されると、要求は閉じられ、アクセスは取り消されます。
   
 カスタマー ロックボックスは Office 365 Enterprise 5 プランに含まれています。または、その他の Office 365 Enterprise プランで個別のサブスクリプションを購入することもできます。詳細については、「[Office 365 カスタマー ロックボックス要求](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)」をご覧ください。
   
-## <a name="advanced-threat-protection"></a>Advanced Threat Protection
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Office 365 Advanced Threat Protection を使用すると、マルウェアやウイルスから組織を保護することができます。 ATP には、[安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[フィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)、および[スプーフィングインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)機能が含まれます。 安全なリンクは、メッセージ内の悪意のあるハイパーリンクからユーザーを事前に保護し、リンクが選択されるたびに保護を提供します。 安全な添付ファイルは、不明なマルウェアやウイルスから保護され、既知のウイルスまたはマルウェアの署名を持たないすべてのメッセージと添付ファイルを、ATP が悪意のある目的を検出できる特別な環境にルーティングします。 ATP の詳細については、「 [Office 365 Advanced Threat Protection サービスの説明](../office-365-advanced-threat-protection-service-description.md)」を参照してください。
+Office 365 の Defender を使用すると、マルウェアやウイルスから組織を保護することができます。 Office 365 の Defender には、 [安全なリンク](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、 [安全な添付ファイル](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、 [フィッシング対策](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)、および [スプーフィングインテリジェンス](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) 機能が含まれています。 安全なリンクは、メッセージ内の悪意のあるハイパーリンクからユーザーを事前に保護し、リンクが選択されるたびに保護を提供します。 安全な添付ファイルは、既知のマルウェアやウイルスから保護され、既知のウイルス/マルウェアの署名を持たないすべてのメッセージと添付ファイルを、Office 365 が悪意のある目的を検出する特別な環境にルーティングします。 Office 365 の Defender の詳細については、「 [Microsoft defender For office 365 service description](../office-365-advanced-threat-protection-service-description.md)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 
 プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
-  

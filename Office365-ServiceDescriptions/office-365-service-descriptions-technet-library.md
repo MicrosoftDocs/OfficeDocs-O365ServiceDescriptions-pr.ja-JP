@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294183"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518718"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 および Office 365 サービスの説明 
 
@@ -47,7 +47,7 @@ Microsoft では、対象となるプランに含まれるサービスのため�
 
 - [Exchange Online Archiving サービスの説明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Office 365 Advanced Threat Protection サービスの説明](office-365-advanced-threat-protection-service-description.md)
+- [Microsoft Defender for Office 365 サービスの説明](office-365-advanced-threat-protection-service-description.md)
 
 - [Microsoft Teams サービスのサービスの説明](teams-service-description.md)
 

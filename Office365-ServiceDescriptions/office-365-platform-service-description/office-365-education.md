@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。 Office 365 エデュケーションプラン間の相違点については、この記事に記載されている各機能を参照してください。 Office 365 は、使い慣れた Microsoft Office デスクトップスイートを、microsoft の &mdash; Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype For Business online などの、クラウドベースの microsoft の次世代コミュニケーションおよびコラボレーションサービスと組み合わせて、 &mdash; インターネットを介してユーザーが実質的に生産性を向上させることができます。
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293883"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518878"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -102,7 +102,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |最大 900 のカスタム ドメインの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 によって管理された DNS レコード (完全な再委託)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |DNS ホスティング プロバイダーで管理される DNS レコード (部分的な再委託)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.com**ドメインまたはカスタム ドメイン名を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.com** ドメインまたはカスタム ドメイン名を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイト用に **name.sharepoint.com** を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイトのカスタム ドメイン名の使用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |別のプロバイダーを使用してパブリック Web サイトをホストする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -138,7 +138,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[サービスの更新情報](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -153,7 +153,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |**信頼** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[プライバシー、セキュリティ、および透明性](privacy-security-and-transparency.md) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Advanced Security Management  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|Microsoft Defender for Office 365  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |高度な電子情報開示<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -220,7 +220,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 <sup>2</sup> 高度なデータガバナンスにより、重要な情報を保持したり、重要でない情報を削除したりできます。保持ポリシーまたは削除ポリシーに基づいて情報を分類することができます。 これには、ポリシーの推奨などのインテリジェント/自動アクションが含まれます。データにラベルを自動的に適用する。機密データの種類またはクエリに基づいてラベルを適用する。スマートインポートフィルターの使用。 また、セキュリティおよびコンプライアンスの目的で従業員の通信を確認するための監督機能も含まれています。 <br/> 
 <sup>3</sup> 無制限。 <br/> 
 <sup>4</sup> 高度な電子情報開示は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。) <br/> 
-<sup>5</sup> Advanced Threat Protection は、Office 365 A5、および Office 365 A1 および Office 365 A3 のスタンドアロンサービスとして使用できます。<br/>
+<sup>5</sup> office 365 の Microsoft Defender は Office 365 A5 で利用でき、Office 365 A1 および Office 365 A3 のスタンドアロンサービスとして利用できます。<br/>
 <sup>6</sup> [Office 365 Management Activity API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) を使用して、統合された監査ログからイベントを取得することもできます。 <br/>
   
 ## <a name="office-application-features"></a>Office アプリケーション機能  
@@ -336,7 +336,7 @@ web バージョンに<sup>4 つ</sup>の Office が含まれています。 詳
 |Customize anti-malware policies  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検疫 - 管理者による管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |検疫 - エンドユーザーによる自己管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|Microsoft Defender for Office 365  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |**[メール フロー](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |送信メールのカスタムルーティング  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Secure messaging with a trusted partner  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -517,7 +517,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **送信禁止** -メールボックスのサイズ制限に達したときに、ユーザーは禁止通知メールを受信します。 ユーザーは、十分な電子メールが削除され、メールボックスのサイズが制限値を下回るまで、新しいメッセージを送信できません。 
     
-- [**送受信を禁止**する] メールボックスのサイズ制限に達した場合、Exchange Online は受信メールを拒否し、配信不能レポート (NDR) を送信者に送信します。 送信者には後でメールを再送信するオプションがあります。 ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
+- [**送受信を禁止** する] メールボックスのサイズ制限に達した場合、Exchange Online は受信メールを拒否し、配信不能レポート (NDR) を送信者に送信します。 送信者には後でメールを再送信するオプションがあります。 ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
     
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -583,7 +583,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **添付ファイルの制限** -電子メールメッセージで許可される添付ファイルの最大数。 添付ファイルすべての合計サイズがメッセージ サイズの制限に違反しない場合でも、メッセージに添付できる添付ファイルの数には制限があります。 この制限はマルチパート メッセージの制限によって制御されます。 
     
-- 添付**ファイルのサイズ制限**-1 つの添付ファイルの最大ファイルサイズです。 
+- 添付 **ファイルのサイズ制限**-1 つの添付ファイルの最大ファイルサイズです。 
     
     > [!NOTE] 
     > これは、1 つの添付ファイルの最大ファイル サイズです。 Outlook on the web を含む個々のクライアント プログラムでは、添付ファイルのサイズ制限がこの最大値より小さい場合があります。 Exchange ActiveSync は、添付ファイルのサイズ制限を個別の添付ファイルごとには実装しません。 Exchange ActiveSync メッセージに添付されるすべてのファイルの合計サイズは、メッセージのサイズ制限よりも小さい必要があります。 
@@ -691,7 +691,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |配布グループ メンバーの最大数<sup>1</sup> <br/> |100,000 人  <br/> |100,000 人  <br/> |100,000 人  <br/> |
 |大きな配布グループへのメッセージ送信の制限  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |5,000 人以上  <br/> |
 |大きな配布グループへの最大メッセージ サイズ  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|配布グループの所有者の最大数  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|配布グループの所有者の最大数  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |ユーザーが作成できるグループの最大数  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

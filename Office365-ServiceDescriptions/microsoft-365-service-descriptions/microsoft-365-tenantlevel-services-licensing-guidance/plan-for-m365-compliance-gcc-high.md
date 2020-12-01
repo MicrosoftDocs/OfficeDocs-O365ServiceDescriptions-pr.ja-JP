@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – GCC 高を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072668"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518909"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 コンプライアンスの計画-GCC 高
 
@@ -38,7 +38,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 > [!TIP]
 > サービスの説明の情報の表を Excel ブックに転送して、 **組織の y/n に関連** し、 **組織のニーズを満たす** 2 つの列を追加することをお勧めします。 その後、このリストを同僚と共に確認して、このサービスが組織のニーズに適合していることを確認できます。
 
-**判断ポイント** :<br/>
+**判断ポイント**:<br/>
 - *Microsoft 365 Government – GCC-High が組織に適しているかどうかを決定します。*
 - *組織が資格要件を満たしていることを確認します。*
 
@@ -53,7 +53,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 
 既定のセキュリティ設定を変更する前に、管理者およびセキュリティ設定を慎重に確認して、コンプライアンスへの影響を考慮することをお勧めします。
 
-**判断ポイント** : *Microsoft 365 Government の既定の GCC-High セキュリティ設定を変更するかどうかを決定し、最初に変更が行われた場合の影響について理解します。*
+**判断ポイント**: *Microsoft 365 Government の既定の GCC-High セキュリティ設定を変更するかどうかを決定し、最初に変更が行われた場合の影響について理解します。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>手順 4. Microsoft 365 Government – GCC-High<sup>1</sup>で現在使用できない機能と無効になっている機能を理解する
 
@@ -110,7 +110,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 |                                         | Insider リスク管理: 高度な電子情報開示の調査のためのエスカレーション | 開発中|
 |                                         | Insider リスク管理: Windows 10 ビルド1809以降のアクティビティのデバイスインジケーター | エンジニアリングバックログの場合|
 |                                         | Insider リスク管理: セキュリティポリシー違反のインジケーター (プレビュー) | エンジニアリングバックログの場合|
-|                                         | Insider リスク管理: Windows Defender ATP 通知のインジケーター (プレビュー) | エンジニアリングバックログの場合|
+|                                         | Insider リスク管理: エンドポイント通知に関する Microsoft Defender のインジケーター (プレビュー) | エンジニアリングバックログの場合|
 |                                         | Insider リスク管理: 優先度の高いユーザーによるデータ漏洩のポリシーテンプレート (プレビュー) | エンジニアリングバックログの場合 |
 |                                         | Insider リスク管理: 不満を持つユーザーがデータをリークするポリシーテンプレート (プレビュー) | エンジニアリングバックログの場合 |
 |                                         | Insider リスク管理: 一般的なセキュリティポリシー違反 (プレビュー) のポリシーテンプレート | エンジニアリングバックログの場合 |
@@ -191,4 +191,4 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 
 <sup>1</sup> 特定された状態は、プロジェクト計画と優先度を再評価する際に変更される可能性があります。<br/>
 
-**判断ポイント** : *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*
+**判断ポイント**: *コンプライアンス機能が組織のニーズを満たすかどうかを決定します。*

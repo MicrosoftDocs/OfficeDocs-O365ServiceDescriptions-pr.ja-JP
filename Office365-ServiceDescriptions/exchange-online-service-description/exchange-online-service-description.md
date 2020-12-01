@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能の比較については、こちらを参照してください。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661285"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518898"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 |Customize anti-malware policies|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
-|Advanced Threat Protection|いいえ|はい|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|Microsoft Defender for Office 365|いいえ|はい|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |送信メールのカスタムルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: どの SharePoint 機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661265"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519158"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -135,7 +135,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [データ損失防止 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [電子情報開示](/microsoft-365/compliance/ediscovery-cases) (コンテンツ検索、保留、エクスポート)
 - [情報障壁](/microsoft-365/compliance/information-barriers)
-- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保持ラベルおよびポリシー](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [機密ラベル](/microsoft-365/compliance/sensitivity-labels)
 - [統合](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) された監査 (SharePoint ユーザーおよび管理者のアクティビティの監査)

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 および Office 365 は、組織のニーズを満たすために最適なさまざまなプランで利用できます。 Exchange Online プランを含むプラン間の相違点をお探しの場合は、この記事で各プランに含まれる機能について説明します。
-ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293823"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519128"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
@@ -133,7 +133,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |最大 900 のカスタム ドメインの追加  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 によって管理された DNS レコード (完全な再委託)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |DNS ホスティング プロバイダーで管理される DNS レコード (部分的な再委託)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.com**ドメインまたはカスタム ドメイン名を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|電子メール アドレスと Skype for Business Online 用に **name.onmicrosoft.com** ドメインまたはカスタム ドメイン名を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイト用に **name.sharepoint.com** を使用する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |チーム サイトのカスタム ドメイン名の使用  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |別のプロバイダーを使用してパブリック Web サイトをホストする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -168,7 +168,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 reporting web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|**[サービス更新](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[サービスの更新情報](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |一部のサービス更新の Roadmap.office.com  <br/> |はい  <br/> |--  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -183,7 +183,7 @@ Microsoft 365 と Office 365 のシステム要件については、ビジネス
 |**信頼** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[プライバシー、セキュリティ、および透明性](privacy-security-and-transparency.md)** <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Office 365 Cloud App Security  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|Advanced Threat Protection  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
+|Microsoft Defender for Office 365  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |顧客キー<sup>14</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |高度な電子情報開示<sup>15</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |

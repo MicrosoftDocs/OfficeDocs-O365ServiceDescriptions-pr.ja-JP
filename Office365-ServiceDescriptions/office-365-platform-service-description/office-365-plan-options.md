@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773451"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519148"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 および Office 365 プランのオプション
 
@@ -48,18 +48,18 @@ Microsoft 365 および Office 365 は、組織のニーズを満たすために
   
 | サービス | Microsoft 365 アプリ | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3、</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Office 365 プラットフォーム  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|Office 365 プラットフォーム  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange Online  <br/> |いいえ  <br/> |はい<sup>5</sup> <br/> |はい<sup>5</sup> <br/> |はい<sup>5</sup> <br/> |はい<sup>5</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>8</sup> <br/> |<sup>16</sup>なし <br/> |
-|SharePoint Online  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |Yes<sup>17</sup> <br/> |
-|OneDrive  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
+|SharePoint Online  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |Yes<sup>17</sup> <br/> |
+|OneDrive  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>4</sup> <br/> |はい<sup>4</sup> <br/> |
 |Skype for Business Online <sup>14</sup> <br/> |いいえ  <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>9</sup> ) <br/> |はい (<sup>10</sup> ) <br/> |はい<sup>12</sup> <br/> |はい<sup>13</sup> <br/> |はい<sup>13</sup> <br/> |
-|Webアプリ上の Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |<sup>18</sup> <br/> |
-|Office アプリケーション  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |必要  <br/> |いいえ  <br/> |はい  <br/> |必要  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Webアプリ上の Office  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |<sup>18</sup> <br/> |
+|Office アプリケーション  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
 |Project  <br/> |いいえ  <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ <br/> |いいえ  <br/> |
-|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |必要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|Yammer エンタープライズ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|Azure Information Protection<sup>2</sup> <br/> |いいえ  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |必要  <br/> |いいえ<sup>1</sup> <br/> |いいえ  <br/> |
-|Microsoft Kaizala <br/> |いいえ <br/> |はい  <br/> |はい <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |必要  <br/> |いいえ  <br/> |
+|Power BI  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |
+|Yammer エンタープライズ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Azure Information Protection<sup>2</sup> <br/> |いいえ  <br/> |いいえ<sup>1</sup> <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |いいえ<sup>1</sup> <br/> |はい  <br/> |はい  <br/> |いいえ<sup>1</sup> <br/> |いいえ  <br/> |
+|Microsoft Kaizala <br/> |いいえ <br/> |はい  <br/> |はい <br/> |はい <br/> |はい  <br/> |はい  <br/> |はい <br/> |はい  <br/> |いいえ  <br/> |
    
 <sup>1</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入し、サポートされている Information Rights MANAGEMENT (IRM) 機能を有効にすることができます。 Azure Information Protection の一部の機能には、microsoft 365 App for enterprise のサブスクリプションが必要です。これは、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Microsoft 365 F1、Microsoft 365 F3、Office 365 E1、Office 365 A1、または Office 365 F3 に含まれていません。<br/>
 <sup>2</sup> Microsoft 365 および Office 365 プランに含まれている Azure information protection 機能の詳細については、「 [azure information protection](https://azure.microsoft.com/services/information-protection/)」を参照してください。<br/>
@@ -75,7 +75,7 @@ Microsoft 365 および Office 365 は、組織のニーズを満たすために
 <sup>12</sup> 音声サポートを備えた Skype For Business Online プラン2が含まれており、クライアントの制限はありません。  <br/>
 <sup>13</sup> Skype For Business Online プラン1が含まれています。<br>
 <sup>14</sup> microsoft Teams は、microsoft 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1で、500の席を持つ新しいお客様は、Microsoft Teams に利用、Skype for Business Online にアクセスできません。 既に Skype for Business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) 続行できます。<br>
-<sup>15</sup> には、Microsoft 365 E5 コンプライアンスが含まれています。これにより、自動分類と保持期間、顧客キー、高度なメッセージ暗号化、Insider リスク管理、通信コンプライアンス、情報障壁、顧客ロックボックス、特権アクセス管理、高度な監査、レコード管理、および高度な電子情報開示機能が提供されます。Office 365 Advanced Threat Protection (ATP) プラン2、Microsoft Defender ATP、Azure Active Directory Plan 2、Azure ATP、Microsoft Cloud App Security、および安全なドキュメントを含む、Microsoft 365 E5 セキュリティ。<br>
+<sup>15</sup> には、Microsoft 365 E5 コンプライアンスが含まれています。これにより、自動分類と保持期間、顧客キー、高度なメッセージ暗号化、Insider リスク管理、通信コンプライアンス、情報障壁、顧客ロックボックス、特権アクセス管理、高度な監査、レコード管理、および高度な電子情報開示機能が提供されます。microsoft 365 E5 Security (Microsoft Defender for Office 365 Plan 2、エンドポイントの MMicrosoft Defender、Azure Active Directory プラン2、Id 用 microsoft Defender、Microsoft Cloud App Security、および安全なドキュメント) が含まれています。<br>
 <sup>16</sup> Microsoft 365 F1 には、Exchange メールボックスに対する権限は含まれていません。 完全な Teams 環境を有効にするために、M365 F1 ライセンスには Exchange Online K1 service プランが有効になっている場合があります。 Exchange Online K1 サービスプランによってユーザーのメールボックスがプロビジョニングされますが、M365 F1 ユーザーにはメールボックスを使用する権利がありません。 [これらの手順](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)を使用して web 上の Outlook を無効にし、他の方法で Exchange メールボックスにアクセスしないようにユーザーに要求することをお勧めします。<br>
 <sup>17</sup> SharePoint Online キオスクを含みます。 管理者になることはできません。 サイトメールボックスがありません。 個人用サイトはありません。<br>
 <sup>18</sup> Microsoft 365 F1 ユーザーは、web 用に Office を使用してファイルを読み取ることができますが、作成/編集/保存権限はありません。 
@@ -110,7 +110,7 @@ Microsoft 365 および Office 365 は、組織のニーズを満たすために
   
 | サービス | プラン |
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online プラン 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online プラン 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Office 365 Advanced Threat Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Exchange Online Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
+|Exchange Online  <br/> |[Exchange Online プラン 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online プラン 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Office 365 Advanced Threat Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Microsoft Defender for Office 365](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online プラン 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online プラン 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business プラン 1](https://onedrive.live.com/about/business/) <br/> [OneDrive for Business プラン 2](https://onedrive.live.com/about/business/) <br/> |
 |Office アプリケーション  <br/> |[Microsoft 365 Apps for enterprise](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps for business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> |

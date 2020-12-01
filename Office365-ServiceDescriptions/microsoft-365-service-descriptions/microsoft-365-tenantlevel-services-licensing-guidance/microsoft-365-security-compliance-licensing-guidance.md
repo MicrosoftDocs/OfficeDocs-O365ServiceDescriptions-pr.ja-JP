@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
-ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
+ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49330264"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518938"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -47,49 +47,49 @@ Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5
 
 管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することにより、Azure AD Id 保護を適用できます。 Azure AD Identity Protection の展開の範囲を設定する方法については、「 [サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
 
-## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
-Azure Advanced Threat Protection (ATP) は、複数の種類の高度なターゲット化されたサイバー攻撃および insider の脅威からエンタープライズハイブリッド環境を保護するために役立つクラウドサービスです。
+Microsoft Defender for Identity は、複数の種類の高度なターゲット化されたサイバー攻撃と内部の脅威からエンタープライズハイブリッド環境を保護するために役立つクラウドサービスです。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-SecOp アナリストおよびセキュリティ担当者は、Azure ATP の機能を利用して、高度な脅威、侵害された id、および悪意のある insider 操作を検出し、調査することができます。 Azure ATP がデータを監視することにより、エンドユーザーはメリットを得ることができます。
+SecOp アナリストおよびセキュリティ担当者は、Microsoft Defender の Id に関する、高度な脅威、侵害された id、および悪意のある insider アクションを検出して調査することができます。 エンドユーザーは、Microsoft Defender によって Id 用にデータを監視することによりメリットを得られます。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、および Azure Advanced Threat Protection を使用することで、Azure ATP からメリットを得ることができます。
+Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、およびユーザーの Id に対する Microsoft Defender は、Id に対して Microsoft Defender からメリットを得るための権限を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、Azure ATP 機能がテナントレベルで有効になっています。 Azure ATP の構成の詳細については、「 [AZURE atp インスタンスを作成](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)する」を参照してください。
+既定では、Id 機能のための Microsoft Defender は、テナント内のすべてのユーザーのテナントレベルで有効になっています。 Id 用に Microsoft Defender を構成する方法については、「 [id インスタンス用の Microsoft defender を作成](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)する」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-現時点では、Azure ATP サービスは、特定のユーザーに対して機能を制限することはできません。 利点を得るには、すべてのユーザーにライセンスを付与する必要があります。
+Id サービスの Microsoft Defender は、現在、特定のユーザーに対して機能を制限することはできません。 利点を得るには、すべてのユーザーにライセンスを付与する必要があります。
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Advanced Threat Protection (ATP) は、フィッシングやゼロデイマルウェアなどの高度な攻撃から組織を保護します。 また、ATP は、潜在的な脅威に対処する方法について特定し、優先度を設定し、推奨事項を提供することにより、さまざまなデータの信号を関連付けて、実用的な洞察を提供します。
+Office 365 の Defender を使用すると、フィッシングやゼロデイマルウェアなどの高度な攻撃から組織を保護することができます。 また、Office 365 の Defender は、潜在的な脅威に対処する方法について特定し、優先度を設定し、推奨事項を提供することによって、実用的な洞察を提供します。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ATP は、フィッシングやゼロデイマルウェアなどの高度な攻撃からユーザーを保護します。 プラン1およびプラン2で提供されるサービスの完全な一覧については、「 [Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection)」を参照してください。
+Office 365 の Defender は、フィッシングやゼロデイマルウェアなどの高度な攻撃からユーザーを保護します。 プラン1およびプラン2で提供されるサービスの完全な一覧については、「 [Microsoft Defender For Office 365](https://products.office.com/exchange/advance-threat-protection)」を参照してください。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
 
-Office 365 Advanced Threat Protection、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 Business Premium、および Office 365 ATP プラン1および2は、高度な脅威保護からメリットを得るためのユーザーの権利を提供します。
+Microsoft Defender for Office 365、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 Security、microsoft 365 Business Premium、および Microsoft Defender for office 365 プラン1および2では、ユーザーが Office の365の防御を利用できるようにする権利を付与します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、テナント内のすべてのユーザーについて、テナントレベルで ATP 機能が有効になっています。 ライセンス供与されたユーザーに対して ATP ポリシーを構成する方法については、「 [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)」を参照してください。
+既定では、Microsoft Defender for Office 365 機能は、テナント内のすべてのユーザーのテナントレベルで有効になっています。 ライセンスを付与されたユーザーに対して Office 365 ポリシーの Defender を構成する方法については、「 [Microsoft defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-ATP の範囲を適用するには、安全なリンクと安全な添付ファイルの展開ポリシーに従います。
+Office 365 の Microsoft Defender を対象範囲とするには、「安全なリンク」と「安全な添付ファイル」の展開ポリシーに従います。
 
-- ライセンスを持つユーザーに対して安全なリンクを構成する方法については、「 [Office 365 ATP セーフリンクポリシー](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)をセットアップする」を参照してください。
+- ライセンスを持つユーザーに対して安全なリンクを構成する方法については、「 [Set Up Safe links policies In office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)」を参照してください。
 
-- ライセンスユーザーに対して安全な添付ファイルを構成する方法については、「 [Office 365 ATP の安全な添付ファイルのポリシー](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)をセットアップする」を参照してください。
+- ライセンスを持つユーザーに対して安全な添付ファイルを構成する方法については、「 [office 365 用に Microsoft Defender の安全な添付ファイルポリシーをセットアップ](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)する」を参照してください。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -174,25 +174,25 @@ Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用してい
 
 コンプライアンスマネージャーへのアクセスは、ユーザーのアクセス許可の設定と役割の割り当てによって制御されます。 詳細については、「コンプライアンスマネージャーの使用を開始する」を参照してください [。ユーザーの権限を設定し、役割を割り当て](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)ます。
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
-Microsoft Defender ATP は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。
+エンドポイントの Microsoft Defender は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft Defender エンドポイント](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 
-Windows 10 Enterprise E5 のライセンスユーザー、windows 10 エデュケーション A5、Microsoft 365 E5 (M365 E5) (Windows 10 Enterprise E5 を含む)、microsoft 365 E5 セキュリティ、Microsoft 365 A5 (M365 A5) は Microsoft Defender ATP から恩恵を受けます。
+Windows 10 Enterprise E5 のライセンスユーザー、windows 10 エデュケーション A5、Microsoft 365 E5 (M365 E5) を含む Windows 10 Enterprise E5、microsoft 365 E5 セキュリティ、Microsoft 365 A5 (M365 A5) は、エンドポイントの Microsoft Defender から恩恵を受けることができます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-SecOps アナリストおよびセキュリティ担当者は、Microsoft Defender ATP のエンドポイントのセキュリティ機能を利用して、予防的保護、ブリーチ後の検出、自動調査、高度な脅威への対応を行うことができます。 Microsoft Defender ATP では、悪意のあるイベントを監視することにより、エンドユーザーにメリットをもたらすことができます。
+SecOps アナリストおよびセキュリティ担当者は、エンドポイントの Microsoft Defender のエンドポイントセキュリティ機能を利用して、予防的な保護、ブリーチ後の検出、自動調査、高度な脅威への対応を行うことができます。 エンドユーザーには、エンドポイントの Microsoft Defender によって監視される悪意のあるイベントがあります。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Microsoft Defender ATP 機能はテナント内のすべてのユーザーに対してテナントレベルで有効になっています。 展開の詳細については、「 [deployment guide](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)」を参照してください。
+既定では、エンドポイント機能のための Microsoft Defender は、テナント内のすべてのユーザーに対してテナントレベルで有効になっています。 展開の詳細については、「 [deployment guide](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Microsoft Defender ATP 管理者は、 [役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
+エンドポイント管理者のための microsoft Defender は、 [役割ベースのアクセス制御 (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) を利用して、Microsoft Defender セキュリティセンターへの適切なアクセス権を付与するために、セキュリティ運用チーム内で役割とグループを作成できます。
 
 ## <a name="information-protection"></a>情報保護
 
@@ -377,7 +377,7 @@ Office 365 顧客キー暗号化キーは、Exchange Online と Skype for busine
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
-Exchange Online と Skype for Business では、顧客キーを使用してメールボックスを暗号化できます。 Office 365 の顧客キーを使用するには、事前に Azure をセットアップする必要があります。 必要な Azure リソースを作成して構成する手順については、「 [Set Up Customer key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) 」および「Office 365 で顧客キーを設定する手順」を参照してください。 Azure のセットアップを完了した後、組織内のメールボックスとファイルに割り当てるポリシーとそのためのキーを決定します。 ポリシーを割り当てていないメールボックスとファイルでは、Microsoft によって制御および管理されている暗号化ポリシーが使用されます。 顧客キーの詳細、または一般的な概要については、「 [Office 2010 での顧客キーを使用したサービスの暗号化 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)」を参照してください。
+Exchange Online と Skype for Business では、顧客キーを使用してメールボックスを暗号化できます。 Office 365 の顧客キーを使用するには、事前に Azure をセットアップする必要があります。 必要な Azure リソースを作成して構成する手順については、「 [Set Up Customer key](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) 」および「Office 365 で顧客キーを設定する手順」を参照してください。 Azure のセットアップを完了した後、組織内のメールボックスとファイルに割り当てるポリシーとそのためのキーを決定します。 ポリシーを割り当てていないメールボックスとファイルでは、Microsoft によって制御および管理されている暗号化ポリシーが使用されます。 顧客キーの詳細、または一般的な概要については、「 [Office 2010 での顧客キーを使用したサービスの暗号化 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)」を参照してください。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 カスタマー ロックボックス
 
@@ -485,7 +485,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 以下に例を示します。<br><br>
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:<br><br>
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:------|:------|:------|

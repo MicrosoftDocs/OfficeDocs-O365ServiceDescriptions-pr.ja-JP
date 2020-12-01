@@ -1,5 +1,5 @@
 ---
-title: Office 365 Advanced Threat Protection サービスの説明
+title: Microsoft Defender for Office 365 サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,31 +10,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 9a735338dc1cf99c35058ec7f1ae829d2c081936
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: Microsoft Defender for Office 365 は、保護されたゼロ日の保護を提供することによって、不明なマルウェアやウイルスから組織を保護するクラウドベースの電子メールフィルター処理サービスであり、リアルタイムで有害なリンクから組織を保護する機能を備えています。
+ms.openlocfilehash: 1d99b59e089ecb351d436c49a4f4e3986aefa6cd
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214366"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519028"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection サービスの説明
+# <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 サービスの説明
 
-Microsoft Office 365 Advanced Threat Protection (ATP) は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。ATP には多機能なレポート機能と URL トレース機能があるので、管理者は組織内で発生する攻撃の種類を見極めることができます。
+Microsoft Defender for Office 365 は、保護されたゼロ日の保護を提供することによって、不明なマルウェアやウイルスから組織を保護するクラウドベースの電子メールフィルター処理サービスであり、リアルタイムで有害なリンクから組織を保護する機能を備えています。 Defender for Office 365 には、組織で発生している攻撃の種類について管理者が洞察できる豊富なレポートおよび URL 追跡機能が用意されています。
 
-メッセージ保護に ATP を使用できる基本的な方法として、次のようなものがあります。
+次に示すのは、メッセージ保護のために Defender for Office 365 を使用する主な方法です。
 
-- Office 365 ATP のフィルタリングのみのシナリオでは、ATP はオンプレミスの Exchange Server 環境、その他のオンプレミス SMTP メール ソリューションにクラウドベースのメール保護を提供します。
+- Defender for Office 365 filtering のみのシナリオでは、Defender for Office 365 は、社内の Exchange Server 環境または他の社内 SMTP 電子メールソリューションにクラウドベースの電子メール保護を提供します。
 
-- Office 365 ATP は、Exchange Online クラウドにホストされているメールボックスを保護することができます。 Exchange Online の詳細については、「 [Exchange online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
+- Exchange Online のクラウドホスト型メールボックスを保護するために、Defender for Office 365 を有効にすることができます。 Exchange Online の詳細については、「 [Exchange online サービスの説明](exchange-online-service-description/exchange-online-service-description.md)」を参照してください。
 
-- ハイブリッド展開でオンプレミスのメールボックスとクラウドのメールボックスが混在している場合は、受信電子メール フィルタリングに Exchange Online Protection を併用するように ATP を構成し、メッセージング環境の保護やメール ルーティングの制御が行えます。
+- ハイブリッド展開では、受信メールフィルター用の Exchange Online Protection でオンプレミスとクラウドメールボックスが混在している場合に、メッセージング環境を保護し、メールルーティングを制御するように、Office 365 の Defender を構成できます。
 
-## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 Advanced Threat Protection (ATP) の可用性
+## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender for Office 365 の可用性
 
-Office 365 ATP プラン 2 は、Office 365 E5、Office 365 A5、および Microsoft 365 E5 に含まれています。 Office 365 ATP プラン 1 は、Microsoft 365 Business Premium に含まれています。
+Office 365 プラン2は Office 365 E5、Office 365 A5、および Microsoft 365 E5 に含まれています。 Office 用 Defender 365 プラン1は、Microsoft 365 Business Premium に含まれています。
 
-ATP は、次の Exchange および Microsoft 365 のサブスクリプションプランに追加できます。
+Office 365 の Defender は、次の Exchange および Microsoft 365 サブスクリプションプランに追加できます。
 
 - Exchange Online プラン 1
 
@@ -58,27 +58,27 @@ ATP は、次の Exchange および Microsoft 365 のサブスクリプション
 
 - Office 365 A3
 
-Office 365 Advanced Threat Protection を購入するには、「[Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)」を参照してください。
+Office 365 の Microsoft Defender を購入するには、「 [Microsoft defender For office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)」を参照してください。
 
 プラン間で機能を比較するには、「 [エンタープライズをサポートするための強力なツール](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 」と「 [Microsoft 365 を使用](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)して企業を変換する」を参照してください。
 
-## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の新機能
+## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 の新機能
 
-引き続き Office 365 ATP に新機能を追加しています。 ATP (または Microsoft 365 全般) に出てくる新機能の詳細については、以下のリソースを参照してください。
+Office 365 用の Defender に新機能を追加し続けます。 Office 365 (または Microsoft 365 general) 用に Defender に届く新機能の詳細については、次のリソースを参照してください。
 
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Office 365 ATP の新機能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Microsoft Defender for Office 365 の新機能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
-## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP) の要件
+## <a name="requirements-for-microsoft-defender-for-office-365"></a>Office 365 の Microsoft Defender の要件
 
-ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エージェントで使用できます。 ATP でサポートされているオペレーティングシステム、web ブラウザー、および言語の詳細については、「exchange [Online Protection の exchange 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=282381)」の「サポートされるブラウザー」と「サポートされる言語」のセクションを参照してください。
+Microsoft Exchange Server などの任意の SMTP メール転送エージェントと共に、Office 365 の Defender を使用できます。 Office 365 の Defender でサポートされているオペレーティングシステム、web ブラウザー、および言語の詳細については、「exchange [Online Protection の exchange 管理センター](https://go.microsoft.com/fwlink/p/?LinkId=282381)」の「サポートされるブラウザー」と「サポートされる言語」のセクションを参照してください。
 
-## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Advanced Threat Protection (ATP) の各プランで利用できる機能
+## <a name="feature-availability-across-defender-for-office-365-plans"></a>Office 365 プランの Defender で利用できる機能
 
-各機能を以下に列挙します。Exchange Online という記述は、主に、Office 365 Enterprise サービス ファミリを指しています。
+各機能を以下に列挙します。Exchange Online という記述は、主に、Office 365 Enterprise サービス ファミリを指しています。<br><br>
 
-|**機能**|**ATP プラン1**<br>(旧称 ATP スタンドアロン)|**ATP プラン2**<br>(以前の脅威インテリジェンス <br>スタンドアロン| Microsoft 365 E5/E5 セキュリティ|
+| 機能 | Office 用 Defender 365 プラン1 | Office 用 Defender 365 プラン2 | Microsoft 365 E5/E5 セキュリティ|
 |:-----|:-----|:-----|:-----|
 |*構成、保護、および検出*|
 |[添付ファイル保護](#safe-attachments)|はい|はい|はい|
@@ -94,23 +94,23 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 |脅威調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[インシデント対応の自動化](#automated-incident-response)|いいえ|はい|はい|
 |[攻撃シミュレータ](#attack-simulator)|いいえ|はい|はい|
-|*Microsoft の脅威保護との統合*|いいえ|いいえ|はい|
+|*Microsoft 365 Defender との統合*|いいえ|いいえ|はい|
 
 > [!TIP]
-> Office 365 ATP Plan 1 と Plan 2 の間で、ダウンロード可能な違いの一覧が必要ですか。 [PDF を取得](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)します。 
+> Office 365 プラン1およびプラン2の Defender の間で、ダウンロード可能な違いの一覧が必要ですか。 [PDF を取得](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)します。 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>Advanced Threat Protection (ATP) の機能
+## <a name="defender-for-office-365-capabilities"></a>Office 365 のための Defender の機能
 
 ### <a name="safe-attachments"></a>安全な添付ファイル
 
-[ATP の安全な添付ファイル](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) は、不明なマルウェアやウイルスから保護され、メッセージングシステムを保護するためのゼロ日の保護を提供します。 既知のウイルス/マルウェア署名がないすべてのメッセージと添付ファイルは、ATP がさまざまな機械学習および分析テクノロジを使用して悪意を検出する特別な環境にルーティングされます。 不審な動作が検出されないと、メッセージが解放されてメールボックスに配信されます。
+[安全な添付ファイル](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) は、不明なマルウェアやウイルスから保護し、メッセージングシステムを保護するためのゼロ日の保護を提供します。 既知のウイルスまたはマルウェアの署名を持たないすべてのメッセージと添付ファイルは、特定の環境にルーティングされます。この場合、Defender for Office 365 は、さまざまな machine learning および分析手法を使用して悪意のある目的を検出します。 不審な動作が検出されないと、メッセージが解放されてメールボックスに配信されます。
 
 > [!NOTE]
-> ATP の安全な添付ファイルのスキャンは、Office 365 データが存在する地域と同じ地域で行われます。 データセンター地理の詳細については、「[データの保存場所](https://products.office.com/where-is-your-data-located?geo=All)」を参照してください。
+> 安全な添付ファイルのスキャンは、Office 365 データが存在する地域と同じ地域で行われます。 データセンター地理の詳細については、「[データの保存場所](https://products.office.com/where-is-your-data-located?geo=All)」を参照してください。
 
 ### <a name="safe-links"></a>安全なリンク
 
-[ATP の安全なリンク](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)機能は、メッセージまたは Office ドキュメント内の悪意のある url からユーザーを予防的に保護します。 リンクを選択した後も保護は毎回継続し、悪意のあるリンクは動的にブロックされ、適切なリンクにはアクセスできます。
+[安全なリンク](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)機能は、メッセージまたは Office ドキュメント内の悪意のある url からユーザーを事前に保護します。 リンクを選択した後も保護は毎回継続し、悪意のあるリンクは動的にブロックされ、適切なリンクにはアクセスできます。
 
 セーフリンクは、次のアプリのURLで使用できます。
 
@@ -123,38 +123,38 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 - Microsoft Teams チャンネルおよびチャット
 
 > [!NOTE]
-> ユーザーが ATP のライセンスを持っている必要があり <sup>\*</sup> 、atp の安全なリンクポリシーに含まれている必要があります。また、保護のためにデバイス上でサインインする必要があります。
+> ユーザーが Office 365 の Defender のライセンスを持っている必要があり <sup>\*</sup> ます。安全なリンクポリシーに含める必要があります。また、保護のためには、デバイス上で署名する必要があります。
 >
-> <sup>\*</sup> 組織全体にわたる ATP のライセンス (ATP_ENTERPRISE_FACULTY など) については、個々のユーザーに ATP ライセンスを割り当てる必要はありません。
+> <sup>\*</sup> 組織全体の Defender for Office 365 ライセンス (ATP_ENTERPRISE_FACULTY など) の場合は、Office 365 のライセンスの Defender を個々のユーザーに割り当てる必要はありません。
 >
-> ATP の安全なリンク保護の詳細については、「 [Office ドキュメントの url で atp の安全なリンクが機能する方法](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents)」を参照してください。
+> 安全リンク保護の詳細については、「 [Microsoft Defender For Office 365」](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)の「安全なリンク」を参照してください。
 
 ### <a name="safe-documents"></a>安全なドキュメント
 
-[ATP Safe Documents](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)機能は、 [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を使用して、[保護ビュー](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)で開かれたドキュメントやファイルをスキャンします。
+[安全なドキュメント](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)機能は、[エンドポイントに Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)を使用して、[保護さ](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)れたビューで開かれたドキュメントやファイルをスキャンします。
 
 はじめに把握しておくべき情報
 
 - Office バージョン 2004 (12730) を使用しているユーザーが、安全なドキュメントを使用できるようになりました。 この機能は既定でオフになっており、セキュリティ管理者が有効にする必要があります。
 
-- この機能は、Microsoft 365 E5 または Microsoft 365 E5 セキュリティライセンスを持つユーザーのみが使用できます (Office 365 ATP プランには含まれていません)。
+- この機能は、Microsoft 365 E5 または Microsoft 365 E5 (Office 365 プランに含まれていない) セキュリティライセンスを持つユーザーのみが使用できます。
 
 - Windows 上の Word、Excel、および PowerPoint
 
 - Microsoft Teams チャンネルおよびチャット
 
 > [!NOTE]
-> ユーザーは、Microsoft 365 E5 または Microsoft 365 E5 セキュリティのライセンスを持っている必要があり、 <sup>\*</sup> ATP の安全なドキュメントポリシーに含める必要があります。また、保護のためには、デバイスでサインインする必要があります。
+> ユーザーは、Microsoft 365 E5 または Microsoft 365 E5 セキュリティのライセンスを持っている必要があり <sup>\*</sup> ます。また、安全なドキュメントポリシーに含める必要があります。また、保護するためには、デバイスでサインインする必要があります。
 >
-> ATP の安全なドキュメント保護の詳細については、「 [Microsoft 365 E5 の安全なドキュメント](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)」を参照してください。
+> 安全なドキュメントの保護の詳細については、「 [Microsoft 365 E5 の安全なドキュメント](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)」を参照してください。
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams 用の ATP
 
-[SharePoint、OneDrive、Microsoft Teams 用の ATP は、](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  チームサイトやドキュメントライブラリで悪意のあるものとして識別されたファイルを検出してブロックするのに便利です。 さらに、Microsoft Teams のチャネルとチャットでは、ATP の安全なリンク保護が利用可能になりました。
+[SharePoint、OneDrive、Microsoft Teams 用の ATP は、](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  チームサイトやドキュメントライブラリで悪意のあるものとして識別されたファイルを検出してブロックするのに便利です。 さらに、「安全なリンクの保護」が Microsoft Teams のチャネルとチャットで利用できるようになりました。
 
-### <a name="anti-phishing-policies"></a>フィッシング詐欺対策ポリシー
+### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
 
-[ATP のフィッシング対策](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) は、メッセージがフィッシングである可能性があることを示すインジケーターの受信メッセージをチェックします。 ユーザーが ATP ポリシー (安全な添付ファイル、安全なリンク、またはフィッシング詐欺対策) に含まれる場合、受信メッセージは、構成されたポリシーに基づいてメッセージを分析し、適切なアクションを実行する複数の機械学習モデルによって評価されます。
+フィッシング[対策](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)は、メッセージがフィッシングである可能性があることを示すインジケーターの受信メッセージをチェックします。 ユーザーが Office 365 ポリシー (安全な添付ファイル、安全なリンク、またはフィッシング対策) に従っている場合、受信メッセージは、メッセージを分析し、構成されたポリシーに基づいて適切なアクションを実行する複数のコンピューター学習モデルによって評価されます。
 
 ### <a name="real-time-reports"></a>リアルタイム レポート
 
@@ -166,7 +166,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 エクスプローラーには、マルウェア (電子メールとコンテンツなど)、送信、フィッシング、すべての電子メールなどのビューが含まれています。 エクスプローラーがリアルタイム検出と比較されることを確認するには、 [この PDF をダウンロード](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)してください。
 
-エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「 [脅威エクスプローラー」および「リアルタイム検出](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
+エクスプローラー (Microsoft Defender for Office 365 プラン 2) およびリアルタイム検出 (Microsoft Defender for Office 365 プラン 1) の詳細については、「 [脅威エクスプローラー」および「リアルタイム検出](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
 
 ### <a name="real-time-detections"></a>リアルタイムの検出
 
@@ -174,7 +174,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 リアルタイム検出には、マルウェア (電子メールとコンテンツなど)、送信、およびフィッシングなどのビューが含まれます。 リアルタイム検出の違いをエクスプローラーと比較するには、 [この PDF をダウンロード](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)してください。
 
-エクスプローラー (Office 365 Advanced Threat Protection プラン 2) およびリアルタイム検出 (Office 365 Advanced Threat Protection プラン 1) の詳細については、「 [脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
+エクスプローラー (Microsoft Defender for Office 365 プラン 2) およびリアルタイム検出 (Microsoft Defender for Office 365 プラン 1) の詳細については、「 [脅威エクスプローラー (およびリアルタイム検出)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)」を参照してください。
 
 ### <a name="threat-trackers"></a>脅威トラッカー
 
@@ -182,7 +182,7 @@ ATP は、Microsoft Exchange Server などの任意の SMTP メール転送エ�
 
 ### <a name="automated-incident-response"></a>インシデント対応の自動化
 
-Office 365 ATP Plan 2 で利用できる[自動インシデント対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air)(エア) 機能により、現在存在している既知の脅威への対応として、自動化された調査プロセスを実行することができます。 自動化された特定の調査タスクによって、セキュリティ運用チームはより効率的かつ効果的に操作できるようになります。 ウイルス対策アクション (悪意のある電子メールメッセージの削除など) は、セキュリティ運用チームによる承認に基づいて行われます。 詳細については、「 [Office 365 での空気の仕組み](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)」を参照してください。
+Defender for Office 365 プラン2で利用できる[自動インシデント対応](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air)(エア) 機能により、現在存在している既知の脅威への対応として、自動化された調査プロセスを実行することができます。 自動化された特定の調査タスクによって、セキュリティ運用チームはより効率的かつ効果的に操作できるようになります。 ウイルス対策アクション (悪意のある電子メールメッセージの削除など) は、セキュリティ運用チームによる承認に基づいて行われます。 詳細については、「 [Office 365 での空気の仕組み](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)」を参照してください。
 
 ### <a name="attack-simulator"></a>攻撃シミュレータ
 

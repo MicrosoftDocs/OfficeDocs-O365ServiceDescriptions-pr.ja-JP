@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ &amp; コンプライアンスセンターは、組織の Office 365 間でコンプライアンス機能を管理するのに役立つように設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261599"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519118"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -67,7 +67,7 @@ ms.locfileid: "48261599"
 
 <sup>5</sup> Advanced EDiscovery は米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。)
 
-<sup>6</sup> Advanced Threat Protection は、Office 365 E5 および Office 365 E1 および Office 365 E3 のスタンドアロンサービスとして提供されています。
+<sup>6</sup> office 365 の Microsoft Defender は Office 365 E5 で利用でき、Office 365 E1 および Office 365 E3 のスタンドアロンサービスとして利用できます。
 
 <sup>7</sup> Microsoft Teams リポジトリに格納されているファイルが含まれます。
 

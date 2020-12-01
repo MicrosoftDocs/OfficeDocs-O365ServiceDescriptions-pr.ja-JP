@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
-ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
+ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48931037"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519138"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-購入方法
 
@@ -89,7 +89,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 - [Office 365 Government サービスの説明](office-365-us-government.md)
 - [米国政府機関向けサービスの説明のための Enterprise Mobility + Security](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [米国政府機関向けの Microsoft Defender ATP (高お客様向け)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [米国政府機関向けの Microsoft Defender エンドポイント (高お客様向け)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Government-GCC 展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Government-GCC 高展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [米国国防総省の展開のための Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
@@ -161,7 +161,7 @@ Microsoft 365 Government の詳細については、以下のリソースを参�
 
 - [Office 365 Government サービスの説明](office-365-us-government.md)
 - [米国政府機関向けサービスの説明のための Enterprise Mobility + Security](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [米国政府機関向けの Microsoft Defender ATP (高お客様向け)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [米国政府機関向けの Microsoft Defender エンドポイント (高お客様向け)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Government-GCC 展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Government-GCC 高展開の Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [米国国防総省の展開のための Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
