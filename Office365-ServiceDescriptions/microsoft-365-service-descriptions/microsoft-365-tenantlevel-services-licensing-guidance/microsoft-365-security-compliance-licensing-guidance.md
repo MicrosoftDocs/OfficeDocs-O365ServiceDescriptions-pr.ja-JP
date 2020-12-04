@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518938"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566669"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -37,7 +37,7 @@ SecOps アナリストおよびセキュリティ担当者は、コンピュー�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、および Azure Active Directory Premium プラン2は、Azure Active Directory Id 保護からメリットを得るための権限をユーザーに提供します。
+E1 および E3 ライセンスを持つお客様は、既定のデータ保護基準の評価にのみアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンス (法令遵守、情報保護 & ガバナンス、電子情報開示および監査 Sku を含む) は、データ保護基準、GDPR、NIST 800-53、および ISO 27001 の標準の評価にアクセスできます。 カスタム評価機能とプレミアム評価は、Office 365 E5/A5 および Microsoft 365 E5/A5 お客様のために予約されています。 プレミアム評価は、2021の前半で VL、CSP、WebDirect から購入できるようになります。 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
@@ -47,7 +47,7 @@ Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5
 
 管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することにより、Azure AD Id 保護を適用できます。 Azure AD Identity Protection の展開の範囲を設定する方法については、「 [サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
+## <a name="microsoft-defender-for-identity"></a>Id の Microsoft Defender
 
 Microsoft Defender for Identity は、複数の種類の高度なターゲット化されたサイバー攻撃と内部の脅威からエンタープライズハイブリッド環境を保護するために役立つクラウドサービスです。
 
@@ -174,7 +174,7 @@ Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用してい
 
 コンプライアンスマネージャーへのアクセスは、ユーザーのアクセス許可の設定と役割の割り当てによって制御されます。 詳細については、「コンプライアンスマネージャーの使用を開始する」を参照してください [。ユーザーの権限を設定し、役割を割り当て](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)ます。
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
+## <a name="microsoft-defender-for-endpoint"></a>エンドポイントの Microsoft Defender
 
 エンドポイントの Microsoft Defender は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft Defender エンドポイント](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。
 

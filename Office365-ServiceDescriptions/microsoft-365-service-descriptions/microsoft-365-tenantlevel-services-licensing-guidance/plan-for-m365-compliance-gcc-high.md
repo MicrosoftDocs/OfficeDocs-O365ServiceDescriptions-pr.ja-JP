@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – GCC 高を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518909"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566649"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 コンプライアンスの計画-GCC 高
 
@@ -181,7 +181,7 @@ Microsoft 365 Government の詳細については、「特典の要件を含む 
 |                                         | 高度な監査: audit insights の処理                              | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: Exchange Online および SharePoint Online の検索用語イベント                              | エンジニアリングバックログの場合 |
 |    **コンプライアンス管理**            | Microsoft 365 セキュリティ/コンプライアンスセンター                              | Available |
-|                                         | コンプライアンス マネージャー                                 | ロール アウト              |
+|                                         | コンプライアンス マネージャー                                 | Available              |
 |                                         | Microsoft Cloud App Security                                 | Available              |
 |                                         | 2バイト文字のサポート                                 | エンジニアリングバックログの場合              |
 |    **システム**            | 高度な電子情報開示用のグラフ Api                              | 開発中 |
