@@ -1,22 +1,22 @@
 ---
 title: セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
-ms.author: v-trscho
-author: vtrscho
+ms.author: v-smandalika
+author: v-smandalika
 audience: ITPro
 ms.topic: reference
-ms.date: 7/13/2020
+ms.date: 12/01/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566669"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576014"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -47,9 +47,33 @@ E1 および E3 ライセンスを持つお客様は、既定のデータ保護�
 
 管理者は、パスワードのリセットのレベルを定義するリスクポリシーを割り当て、ライセンスされたユーザーのみにアクセスを許可することにより、Azure AD Id 保護を適用できます。 Azure AD Identity Protection の展開の範囲を設定する方法については、「 [サインインリスクポリシーを構成](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)する」を参照してください。
 
+## <a name="azure-active-directory-identity-governance"></a>Azure Active Directory Id ガバナンス
+
+Azure Active Directory Id ガバナンスを使用すると、セキュリティと従業員の生産性に関するニーズと、適切なプロセスや可視性とのバランスを取ることができます。 資格情報管理、アクセスレビュー、特権 id 管理、使用条件ポリシーを使用して、適切な人物が適切なリソースに適切にアクセスできるようにします。
+
+### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
+
+Azure Active Directory Identity ガバナンスは、1つの access パッケージ内のアプリ、グループ、および Microsoft Teams へのアクセスを簡単に要求できるようにすることで、ユーザーの生産性を向上させます。 ユーザーは、管理者に関係なく、承認者として構成することもできます。 アクセスのレビューの場合、ユーザーは、スマートの推奨事項を使用して、グループのメンバーシップを定期的に確認できます。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
+
+Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 セキュリティ、および Azure Active Directory Premium プラン2は、Azure Active Directory Id ガバナンスからメリットを得るための権限をユーザーに提供します。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
+
+Azure AD Identity ガバナンス機能は、テナントレベルで有効になっていますが、ユーザーごとに実装されています。 Azure AD Identity ガバナンスの詳細については、「 [Azure Active Directory Id ガバナンスとは](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)」を参照してください。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
+
+管理者は、ライセンスが付与されたユーザーのみにアクセスパッケージ、アクセスレビュー、または特権 id 管理を割り当てることによって、Azure AD Id ガバナンスを適用できます。 Azure AD Identity ガバナンス展開の範囲を管理する方法については、以下を参照してください。
+
+- [Azure AD 受給管理ライセンスの要件](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview#license-requirements)
+- [Azure AD アクセスのレビューライセンス要件](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
+- [特権 Id 管理を使用するためのライセンス要件](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
+
 ## <a name="microsoft-defender-for-identity"></a>Id の Microsoft Defender
 
-Microsoft Defender for Identity は、複数の種類の高度なターゲット化されたサイバー攻撃と内部の脅威からエンタープライズハイブリッド環境を保護するために役立つクラウドサービスです。
+Microsoft Defender for Identity (旧称 Azure Advanced Threat Protection) は、複数の種類の高度な対象となるサイバー攻撃および insider の脅威からエンタープライズハイブリッド環境を保護するために役立つクラウドサービスです。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
@@ -61,7 +85,7 @@ Enterprise Mobility + Security E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Id 機能のための Microsoft Defender は、テナント内のすべてのユーザーのテナントレベルで有効になっています。 Id 用に Microsoft Defender を構成する方法については、「 [id インスタンス用の Microsoft defender を作成](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)する」を参照してください。
+既定では、Id 機能のための Microsoft Defender は、テナント内のすべてのユーザーのテナントレベルで有効になっています。 Azure ATP の構成の詳細については、「 [Create Your Microsoft Defender For Identity instance](https://docs.microsoft.com/defender-for-identity/install-step1)」を参照してください。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
@@ -69,27 +93,28 @@ Id サービスの Microsoft Defender は、現在、特定のユーザーに対
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Office 365 の Defender を使用すると、フィッシングやゼロデイマルウェアなどの高度な攻撃から組織を保護することができます。 また、Office 365 の Defender は、潜在的な脅威に対処する方法について特定し、優先度を設定し、推奨事項を提供することによって、実用的な洞察を提供します。
+Microsoft Defender for Office 365 (旧称 Office 365 Advanced Threat Protection) は、フィッシングやゼロ日のマルウェアなどの高度な攻撃から組織を保護するのに役立ちます。 また、Microsoft Defender for Office 365 では、潜在的な脅威に対処する方法について特定し、優先度を設定し、推奨事項を提供することによって、実用的な洞察を提供しています。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-Office 365 の Defender は、フィッシングやゼロデイマルウェアなどの高度な攻撃からユーザーを保護します。 プラン1およびプラン2で提供されるサービスの完全な一覧については、「 [Microsoft Defender For Office 365](https://products.office.com/exchange/advance-threat-protection)」を参照してください。
+Microsoft Defender for Office 365 は、フィッシングやゼロ日のマルウェアなどの高度な攻撃からユーザーを保護します。 プラン1およびプラン2で提供されるサービスの完全な一覧については、「 [Microsoft Defender For Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true)」を参照してください。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。 
 
-Microsoft Defender for Office 365、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/a5/G5 Security、microsoft 365 Business Premium、および Microsoft Defender for office 365 プラン1および2では、ユーザーが Office の365の防御を利用できるようにする権利を付与します。
+Microsoft Defender for Office 365 プラン1および2、Office 365 E5/A5/G5、Microsoft 365 E5/a5/G5、microsoft 365 E5/A5/G5 Security、および Microsoft 365 Business Premium は、Microsoft Defender for Office 365 を利用するためのユーザーの権利を提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
 
-既定では、Microsoft Defender for Office 365 機能は、テナント内のすべてのユーザーのテナントレベルで有効になっています。 ライセンスを付与されたユーザーに対して Office 365 ポリシーの Defender を構成する方法については、「 [Microsoft defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)」を参照してください。
+既定では、Microsoft Defender for Office 365 機能は、テナント内のすべてのユーザーのテナントレベルで有効になっています。 ライセンスユーザーの Microsoft Defender for Office 365 ポリシーの構成の詳細については、「 [Microsoft defender For office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true)」を参照してください。
+
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスが付与されているテナント内のユーザーにのみ、サービスを適用することができますか。
 
 Office 365 の Microsoft Defender を対象範囲とするには、「安全なリンク」と「安全な添付ファイル」の展開ポリシーに従います。
 
-- ライセンスを持つユーザーに対して安全なリンクを構成する方法については、「 [Set Up Safe links policies In office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)」を参照してください。
+- ライセンスを持つユーザーに対して安全なリンクを構成する方法については、「 [Set Up Microsoft Defender For Office 365 安全なリンクポリシー](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links?view=o365-worldwide&preserve-view=true)」を参照してください。
 
-- ライセンスを持つユーザーに対して安全な添付ファイルを構成する方法については、「 [office 365 用に Microsoft Defender の安全な添付ファイルポリシーをセットアップ](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)する」を参照してください。
+- ライセンスを持つユーザーに対して安全な添付ファイルを構成する方法については、「 [office 365 の安全な添付ファイルのポリシーを](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide&preserve-view=true)セットアップする」を参照してください。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -105,7 +130,7 @@ OCAS 検出シャドウ IT は、Office 365 全体での脅威保護を提供し
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>ユーザーがサービスを利用するための権限を提供するライセンスはどれですか。
 
-Office 365 E5/A5/G5 は、ユーザーが OCAS の恩恵を受けるための権限を提供します。
+Office 365 E5/A3/A5/G5 ユーザーが OCAS から恩恵を受けるための権限を提供します。
 詳細については、「 [Microsoft Cloud App Security Licensing Datasheet](https://www.aka.ms/mcaslicensing)」を参照してください。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニング/展開方法
@@ -176,7 +201,7 @@ Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用してい
 
 ## <a name="microsoft-defender-for-endpoint"></a>エンドポイントの Microsoft Defender
 
-エンドポイントの Microsoft Defender は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft Defender エンドポイント](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 」ページを参照してください。
+エンドポイントの microsoft Defender (旧称 Microsoft Defender ATP) は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft Defender エンドポイント](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 」ページを参照してください。
 
 ### <a name="which-users-benefit-from-the-service"></a>サービスからメリットを得られるのはどのユーザーか。
 

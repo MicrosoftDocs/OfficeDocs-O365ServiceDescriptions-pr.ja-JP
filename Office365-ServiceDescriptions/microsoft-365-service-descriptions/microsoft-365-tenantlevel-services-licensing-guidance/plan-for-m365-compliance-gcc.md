@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦、州、地方、エスニック、または territorial government の各エンティティまたは政府の規制と要件に従うデータを処理する IT 担当365者を対象としており、Microsoft 365 Government-GCC を使用してこれらの要件を満たすのに適しています。
-ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519038"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576017"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 コンプライアンス (GCC) の計画
 
@@ -175,9 +175,9 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 高度な監査: 重要なイベントへのアクセス (たとえば、mailitemsaccessed アクセス)                              | Available |
 |                                         | 高度な監査: 管理アクティビティ API に対する帯域幅の増加                              | Available |
 |                                         | 高度な監査: Teams の法務ホールドメッセージの公開チャネル                               | Available |
-|                                         | 高度な監査: ログの保存期間 (1 年)                               | Available |
+|                                         | 高度な監査: ログの保存期間 (1 年)                               | ロール アウト |
 |                                         | 高度な監査: セキュリティ/コンプライアンスセンター                               | Available |
-|                                         | 高度な監査: 監査ログに長期間保存                               | エンジニアリングバックログの場合 |
+|                                         | 高度な監査: 監査ログに長期間保存する (10 年)                               | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: メールの転送とメールの送信イベント                               | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: audit insights の処理                               | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: Exchange Online および SharePoint Online の検索用語イベント                              | エンジニアリングバックログの場合 |
