@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (旧称 Excel Web App) は、Microsoft Excel の操作を web ブラウザーにまで拡張します。これにより、ブックが保存されている web サイト上で直接ブックを操作できます。 すべてのお客様は、office を使用して web 用の Office ファイルを表示し、軽く編集することができます。
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294105"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586640"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -54,7 +54,7 @@ Excel で株および地理データを取得することができます。 こ�
   
 ## <a name="apply-conditional-formatting"></a>条件付き書式の適用
 
-条件付き書式を使用すると、データを視覚的に調査および分析したり、重大な問題を検出したり、パターンや傾向を特定したりするのに役立ちます。 [Web 用の Excel で条件付き書式を使用](https://go.microsoft.com/fwlink/p/?LinkId=282326)する方法について説明します。
+条件付き書式を使用すると、データを視覚的に調査および分析したり、重大な問題を検出したり、パターンや傾向を特定したりするのに役立ちます。 [Web 用の Excel で条件付き書式を使用](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?)する方法について説明します。
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -89,7 +89,7 @@ Excel のグラフとテーブルを使えば、データの書式設定と情�
 
 ## <a name="check-spelling"></a>スペルチェックを行う
 
-ワークシート上のテキストのスペルチェックを行うには、[校正のスペル**チェックを行う] を選択し**  >  **Proofing**  >  **Spelling**ます。 詳細については、「 [スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
+ワークシート上のテキストのスペルチェックを行うには、[校正のスペル **チェックを行う] を選択し**  >  **Proofing**  >  **Spelling** ます。 詳細については、「 [スペルチェック](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)」を参照してください。
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -149,7 +149,7 @@ OneDrive.com に Excel ブックを保存すると、ブログや Web サイト�
   
 ## <a name="find"></a>検索
 
-作業中のワークシートでセルの内容を検索します。 使いやすいダイアログボックスを使用すると、ワークシートの現在の選択範囲を上方向または下方向に検索することができます。 検索用語の**すべて**のインスタンスを強調表示することができます。
+作業中のワークシートでセルの内容を検索します。 使いやすいダイアログボックスを使用すると、ワークシートの現在の選択範囲を上方向または下方向に検索することができます。 検索用語の **すべて** のインスタンスを強調表示することができます。
   
 ## <a name="font-and-cell-formatting"></a>フォントおよびセルの書式設定
 
