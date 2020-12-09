@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能の比較については、こちらを参照してください。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518898"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601752"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -116,7 +116,7 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 |クラッター機能|はい|いいえ|はい|はい|はい|はい|はい|はい|
 |メール ヒント|はい|はい|はい|はい|はい|はい|はい|はい|
 |代理人アクセス|はい|はい|はい|はい|はい|はい|はい|<sup>24</sup>|
-|受信トレイのルール|はい|はい|はい|はい|はい|はい|はい|いいえ|
+|受信トレイのルール|はい|はい|はい|はい|はい|はい|はい|はい|
 |接続されているアカウント|はい|はい|はい|はい|Yes<sup>17</sup>|Yes<sup>17</sup>|Yes<sup>17</sup>|Yes<sup>17</sup>|
 |非アクティブなメールボックス|いいえ|いいえ|いいえ<sup>9</sup>|いいえ<sup>9</sup>|いいえ<sup>9</sup>|はい|はい|いいえ <sup>9</sup>|
 |オフライン アドレス帳|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -200,7 +200,7 @@ Microsoft 365 Business Premium で利用できる機能については、「 [mi
 <sup>20</sup> 電子情報開示では、オンプレミスとクラウドの間に別のクエリが必要になります。 <br/>
 <sup>21</sup> 表は、クライアントが関連付けられたプランを使用して動作するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 <br/>
 <sup>22</sup> 詳細については、「 [顧客キーによるサービスの暗号化](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)」を参照してください。 <br/>
-<sup>23</sup> お客様の操作による直接接続を介したサードパーティ製 PBX システム向けの EXCHANGE Online UM サポートは、2019年4月に終了します。 詳細については、「exchange [Online ユニファイドメッセージングでのセッションボーダーコントローラーのサポート中止](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) 」を参照してください。 <br/>
+<sup>23</sup> お客様の操作による直接接続を介したサードパーティ製 PBX システム向けの EXCHANGE Online UM サポートは、2019年4月に終了します。 詳細については、「exchange [Online ユニファイドメッセージングでのセッションボーダーコントローラーのサポート中止](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)」を参照してください。 <br/>
 <sup>24</sup> F3 ユーザーが自分のメールボックスに代理人を追加することはできませんが、別のメールボックス (共有メールボックスを含む) にアクセスして、それらに委任されたアクションを実行することはできます。<br/>
 <sup>25</sup> exchange server 2013 および exchange server 2016 では、Microsoft 365 Apps for enterprise のサブスクリプションも必要です。
 

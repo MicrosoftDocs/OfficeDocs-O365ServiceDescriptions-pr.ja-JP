@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、米国連邦政府機関のエンティティに Office 365 の展開を推進する IT 担当者、または政府の規制および要件を満たすデータを処理するその他のエンティティに対して使用されています。これは、Microsoft 365 Government – DoD を使用してこれらの要件を満たすことが適切な場合です。
-ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: a619943b5eed63007b78613ab9b6715a52ef467d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519048"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601722"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンスの計画 - DoD 展開
 
@@ -169,7 +169,7 @@ Office 365 の機能を楽しんだだけでなく、組織は Microsoft 365 Gov
 |                                         | 高度な監査: 管理アクティビティ API に対する帯域幅の増加                              | ロール アウト |
 |                                         | 高度な監査: ログの保存期間 (1 年)                              | ロール アウト |
 |                                         | 高度な監査: セキュリティとコンプライアンスセンターの可用性                              | Available |
-|                                         | 高度な監査: 監査ログに長期間保存                              | エンジニアリングバックログの場合 |
+|                                         | 高度な監査: 監査ログに長期間保存する (10 年)                              | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: メールの転送とメールの送信イベント                              | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: audit insights の処理                              | エンジニアリングバックログの場合 |
 |                                         | 高度な監査: Exchange Online および SharePoint Online の検索用語イベント                              | エンジニアリングバックログの場合 |

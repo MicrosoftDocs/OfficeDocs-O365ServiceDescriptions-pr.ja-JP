@@ -9,20 +9,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話に使用することを可能にするアドインサービスです。 これにより、電話システム、国内通話プラン、SMS、電話会議が統合されます。
-ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
-ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
+ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410217"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605335"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 音声サービスの説明
 
-Microsoft 365 Business Voice は、電話システムの機能 (コールパーク、着信転送、自動応答、通話キュー、電話会議、通話プランなど) を提供するクラウドベースのテレフォニーソリューションです。 ビジネス音声は、Microsoft Teams (最大300ライセンス) を含む Office 365 および Microsoft 365 サブスクリプションに追加できます。 ビジネス音声サービスの詳細については、「 [Microsoft 365 Business voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice)」を参照してください。
+Microsoft 365 Business Voice は、Microsoft Teams のクラウドベースのテレフォニーソリューションであり、通話パーク、着信の転送、自動応答、通話キュー、電話会議、通話プランなどの電話システムの機能を提供します。 ビジネス音声は、Microsoft Teams (最大300ライセンス) を含む Office 365 および Microsoft 365 サブスクリプションに追加できます。 ビジネス音声サービスの詳細については、「 [Microsoft 365 Business voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice)」を参照してください。
 
 2つの Microsoft 365 ビジネス音声オプションから選択できます。
 
-- Microsoft 365 企業向け音声
+- Microsoft 365 Business Voice
 - Microsoft 365 ビジネス音声 (通話プランなし)
 
 Microsoft 365 Business Voice は、最大300のライセンスを持つ次のサブスクリプションで利用できます。
@@ -42,7 +42,7 @@ Microsoft 365 Business Voice は、最大300のライセンスを持つ次のサ
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 ビジネス Voip 機能
 
-| **機能**                                            | **Microsoft 365 企業向け音声** | **Microsoft 365 ビジネス音声 (通話プランなし)** |
+| **機能**                                            | **Microsoft 365 Business Voice** | **Microsoft 365 ビジネス音声 (通話プランなし)** |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | 市内番号                                          | はい                              | はい                                                   |
 | VoIP 通話                                           | はい                              | はい                                                   |
@@ -62,9 +62,11 @@ Microsoft 365 Business Voice は、最大300のライセンスを持つ次のサ
 | 共有ボイスメールへの自動応答/通話キューの転送 | はい                              | はい                                                   |
 | 多言語対話音声応答 (IVR)          | はい                              | はい                                                   |
 | 通話ポリシー                                         | はい                              | はい                                                   |
-| 国内通話プラン                                  | はい                              | いいえ                                                    |
-| フリーダイヤル\*                                    | はい                              | いいえ                                                    |
-| 国際通話プラン\*                           | はい                              | いいえ                                                    |
-| 電話会議                                     | はい                              | はい                                                   |
- 
-\*無料ダイヤルおよび国際通話プランは、[コミュニケーションクレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)を使用して追加料金で利用できます。 詳細については、「[無料ダイヤル](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)および[国際通話料金](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)」を参照してください。
+| 国内通話プラン                                  | はい                              | はい                                                    |
+| フリーダイヤル\*                                    | はい                              | はい                                                    |
+| 国際通話プラン\*                           | はい                              | はい                                                    |
+| 電話会議                                     | はい                              | いいえ<sup>1</sup>                                                   |
+
+<sup>1</sup>サードパーティ提供の通話プランで利用できます。
+
+\* 無料ダイヤルおよび国際通話プランは、 [コミュニケーションクレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)を使用して追加料金で利用できます。 詳細については、「 [無料ダイヤル](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) および [国際通話料金](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)」を参照してください。

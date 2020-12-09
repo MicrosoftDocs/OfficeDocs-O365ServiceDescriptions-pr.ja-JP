@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 には、組織のニーズを満たすさまざまなプランが用意されています。
-ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 9e5b88d623052d43f361c3b6c554ff7e928d42b4
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519148"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605352"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 および Office 365 プランのオプション
 
@@ -75,7 +75,7 @@ Microsoft 365 および Office 365 は、組織のニーズを満たすために
 <sup>12</sup> 音声サポートを備えた Skype For Business Online プラン2が含まれており、クライアントの制限はありません。  <br/>
 <sup>13</sup> Skype For Business Online プラン1が含まれています。<br>
 <sup>14</sup> microsoft Teams は、microsoft 365 でのメッセージング、会議、通話の主要なクライアントになりました。 2018年10月1で、500の席を持つ新しいお客様は、Microsoft Teams に利用、Skype for Business Online にアクセスできません。 既に Skype for Business Online を使用しているテナントは、Microsoft Teams への移行を完了するまで、(新規ユーザーのプロビジョニングを含む) 続行できます。<br>
-<sup>15</sup> には、Microsoft 365 E5 コンプライアンスが含まれています。これにより、自動分類と保持期間、顧客キー、高度なメッセージ暗号化、Insider リスク管理、通信コンプライアンス、情報障壁、顧客ロックボックス、特権アクセス管理、高度な監査、レコード管理、および高度な電子情報開示機能が提供されます。microsoft 365 E5 Security (Microsoft Defender for Office 365 Plan 2、エンドポイントの MMicrosoft Defender、Azure Active Directory プラン2、Id 用 microsoft Defender、Microsoft Cloud App Security、および安全なドキュメント) が含まれています。<br>
+<sup>15</sup> には、Microsoft 365 E5 コンプライアンスが含まれています。これにより、自動分類と保持期間、顧客キー、高度なメッセージ暗号化、Insider リスク管理、通信コンプライアンス、情報障壁、顧客ロックボックス、特権アクセス管理、高度な監査、レコード管理、および高度な電子情報開示機能が提供されます。microsoft 365 E5 Security (Microsoft Defender for Office 365 Plan 2、エンドポイントの Microsoft Defender、Azure Active Directory Plan 2、Id 用 microsoft Defender、Microsoft Cloud App Security、および安全なドキュメント) が含まれています。<br>
 <sup>16</sup> Microsoft 365 F1 には、Exchange メールボックスに対する権限は含まれていません。 完全な Teams 環境を有効にするために、M365 F1 ライセンスには Exchange Online K1 service プランが有効になっている場合があります。 Exchange Online K1 サービスプランによってユーザーのメールボックスがプロビジョニングされますが、M365 F1 ユーザーにはメールボックスを使用する権利がありません。 [これらの手順](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)を使用して web 上の Outlook を無効にし、他の方法で Exchange メールボックスにアクセスしないようにユーザーに要求することをお勧めします。<br>
 <sup>17</sup> SharePoint Online キオスクを含みます。 管理者になることはできません。 サイトメールボックスがありません。 個人用サイトはありません。<br>
 <sup>18</sup> Microsoft 365 F1 ユーザーは、web 用に Office を使用してファイルを読み取ることができますが、作成/編集/保存権限はありません。 

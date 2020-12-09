@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 コンプライアンスのライセンスに関するガイダンスを提供します。これは、ライセンスのないアクセスによるサービスの停止の可能性を回避するのに役立ちます。
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576014"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601771"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>セキュリティ & コンプライアンスのための Microsoft 365 ライセンスガイダンス
 
@@ -25,7 +25,7 @@ ms.locfileid: "49576014"
 > [!NOTE]
 > 一部のテナントサービスは、現在、特定のユーザーに対する利点を制限することはできません。 ライセンスを付与されたユーザーにサービスのメリットを制限するための取り組みを実施する必要があります。 これにより、ターゲット機能が使用可能になった場合に、サービスが組織に及ぼす影響を回避できます。
 
-ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  | [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
+ユーザーにライセンスを付与するためのオプションを確認するには、2020年4月1日現在、Microsoft 365 のコンプライアンス機能を利用できるようにするため、詳細な Microsoft 365 コンプライアンスライセンスの比較をダウンロードしてください。 [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  | [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -199,7 +199,7 @@ Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンスを使用してい
 
 コンプライアンスマネージャーへのアクセスは、ユーザーのアクセス許可の設定と役割の割り当てによって制御されます。 詳細については、「コンプライアンスマネージャーの使用を開始する」を参照してください [。ユーザーの権限を設定し、役割を割り当て](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)ます。
 
-## <a name="microsoft-defender-for-endpoint"></a>エンドポイントの Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
 エンドポイントの microsoft Defender (旧称 Microsoft Defender ATP) は、リスクベースの脆弱性管理と評価を含むエンドポイントセキュリティソリューションです。攻撃対象領域の削減機能。動作ベースの、クラウドを利用した次世代の保護。エンドポイントの検出と応答 (EDR)、自動調査と修復。および管理対象のお探しのサービス。 詳細については、「 [Microsoft Defender エンドポイント](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 」ページを参照してください。
 
@@ -510,7 +510,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 情報保護とガバナ�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスを利用するにはどうすればよいですか?
 
-ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 例:<br><br>
+ユーザーが他のユーザーとの通信を制限されている場合は、情報バリアの高度なコンプライアンス機能を利用できます。 以下に例を示します。<br><br>
 
 | シナリオ | ライセンスを必要とするのはだれですか? |
 |:------|:------|:------|
