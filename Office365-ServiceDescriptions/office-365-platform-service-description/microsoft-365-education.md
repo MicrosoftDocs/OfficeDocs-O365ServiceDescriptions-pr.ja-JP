@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 と Office 365 教育機関のプランの違いについて説明します。
-ms.openlocfilehash: 013442afe663aa162428194777593d7c35b1c872
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
+ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072688"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49611259"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -28,80 +28,81 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 
 | サービス | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 A3 の学生使用の利点 | Office 365 A5 Student の利点 | Microsoft 365 エデュケーション A3 学生使用特典 | Microsoft 365 エデュケーション A5 学生使用特典 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Office 365 プラットフォーム|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Webアプリ上の Office|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Microsoft 365 Apps for enterprise|いいえ|必要|必要|必要|必要|必要|必要|必要|必要|
+|Office 365 プラットフォーム|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Webアプリ上の Office|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft 365 Apps for enterprise|いいえ|はい|はい|はい|はい|はい|はい|はい|はい|
 |Exchange Online|はい<sup>1</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|
 |SharePoint Online|はい<sup>3</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|
-|OneDrive for Business|はい|必要|必要|必要|必要|必要|必要|必要|必要|
-|Microsoft Teams|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Skype for Business Online|必要|必要|必要|必要|必要|必要|必要|必要|必要|
+|OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft Teams|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Skype for Business Online|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Project|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|<sup>5</sup>なし|
-|Yammer アカデミック版|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Microsoft Stream|必要|必要|必要|必要|必要|必要|必要|必要|必要|
+|Yammer アカデミック版|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft Stream|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft Planner|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |**教室ツール**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Microsoft Teams での教室のエクスペリエンス|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|OneNote Class Notebook|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Microsoft Sway|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Microsoft Forms|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|学習ツール|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|アクセシビリティ チェック|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Office Lens|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|コード ビルダーを備えた Minecraft Education Edition|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|必要|必要|
-|テスト アプリ|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|学校用 PC のセットアップ アプリ|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
+|Microsoft Teams での教室のエクスペリエンス|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|OneNote Class Notebook|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft Sway|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Microsoft Forms|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|学習ツール|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|アクセシビリティ チェック|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Office Lens|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|コード ビルダーを備えた Minecraft Education Edition|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
+|テスト アプリ|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|学校用 PC のセットアップ アプリ|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |**音声ビデオと会議**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 エデュケーション A56**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Skype 会議メディア|いいえ|必要|必要|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|Microsoft の予約|いいえ|必要|必要|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|電話会議|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|電話システム|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
+|Skype 会議メディア|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|Microsoft の予約|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|電話会議|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|電話システム|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |**分析**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Delve|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Power BI Pro|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|My Analytics|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
+|Delve|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Power BI Pro|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|My Analytics|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |**Azure Active Directory**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Azure Active Directory Basic|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Azure Active Directory プラン 1|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|必要|必要|
-|Azure Active Directory プラン 2|いいえ|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|必要|
+|Azure Active Directory Basic|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Azure Active Directory プラン 1|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|はい|
+|Azure Active Directory プラン 2|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|
 |**コンプライアンス**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Office 365 Rights Management|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Azure Information Protection プラン 1|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|いいえ|いいえ|
-|Azure Information Protection プラン 2|いいえ|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|訴訟ホールド|いいえ|必要|必要|必要|必要|必要|必要|必要|必要|
-|コンテンツ検索|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|コア電子情報開示 (保留とエクスポートを含む)|いいえ|必要|必要|必要|必要|必要|必要|必要|必要|
-|詳細な電子情報開示|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|電子メールとファイルのデータ損失防止 (DLP)|いいえ|必要|必要|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|エンドポイント DLP|いいえ|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|コミュニケーション DLP (Teams チャット)|いいえ|必要|必要|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|通信コンプライアンス|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|顧客キー|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|基本的な監査|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|詳細な監査|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|基本的な Office 365 メッセージの暗号化|はい (<sup>9</sup> )|必要|必要|必要|必要|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|
-|高度な Office 365 メッセージの暗号化|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|顧客ロックボックス|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|インサイダー リスクの管理|いいえ|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
-|特権アクセス管理|いいえ|いいえ|必要|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
+|Office 365 Rights Management|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Azure Information Protection プラン 1|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|いいえ|
+|Azure Information Protection プラン 2|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|訴訟ホールド|いいえ|はい|はい|はい|はい|はい|はい|はい|はい|
+|コンテンツ検索|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|コア電子情報開示 (保留とエクスポートを含む)|いいえ|はい|はい|はい|はい|はい|はい|はい|はい|
+|詳細な電子情報開示|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|電子メールとファイルのデータ損失防止 (DLP)|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|エンドポイント DLP|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|コミュニケーション DLP (Teams チャット)|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|通信コンプライアンス|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|顧客キー|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|基本的な監査|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|詳細な監査|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|基本的な Office 365 メッセージの暗号化|はい (<sup>9</sup> )|はい|はい|はい|はい|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|はい (<sup>9</sup> )|
+|高度な Office 365 メッセージの暗号化|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|顧客ロックボックス|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|インサイダー リスクの管理|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
+|特権アクセス管理|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |**管理とセキュリティ**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Microsoft Defender for Office 365<sup>10</sup> プラン2|いいえ|いいえ|いいえ|いいえ|必要|いいえ|必要|いいえ|必要|
-|School Data Sync|必要|必要|必要|必要|必要|必要|必要|必要|必要|
-|Advanced Security Management|いいえ|必要|必要|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|教育機関向け Intune<sup>6</sup>|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|必要|必要|
-|Advanced Threat Analytics|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|必要|必要|
-|Microsoft Defender ウイルス対策|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|Microsoft Defender Device Guard|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|Id<sup>11</sup>の Microsoft Defender|いいえ|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|必要|
-|Office 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|必要|必要|必要|必要|必要|
-|Microsoft 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|必要|必要|
-|エンドポイント<sup>12</sup>の Microsoft Defender|いいえ|いいえ|いいえ|いいえ|必要|いいえ|いいえ|いいえ|いいえ|
+|Microsoft Defender for Office 365<sup>10</sup> プラン2|いいえ|いいえ|いいえ|いいえ|はい|いいえ|はい|いいえ|はい|
+|School Data Sync|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|Advanced Security Management|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|教育機関向け Intune<sup>6</sup>|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
+|Advanced Threat Analytics|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
+|Microsoft Defender ウイルス対策|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|Microsoft Defender Device Guard|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|Id<sup>11</sup>の Microsoft Defender|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|
+|Office 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|はい|はい|
+|Microsoft 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|はい|
+|エンドポイント<sup>12</sup>の Microsoft Defender|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |**サーバーと CAL の利点**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 の学生使用の利点**|**Office 365 A5 Student の利点**|**Microsoft 365 エデュケーション A3 学生使用特典**|**Microsoft 365 エデュケーション A5 学生使用特典**|
-|Exchange<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|必要|いいえ|いいえ|いいえ|いいえ|
-|SharePoint<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|必要|いいえ|いいえ|いいえ|いいえ|
-|Skype for Business<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|必要|いいえ|いいえ|いいえ|いいえ|
-|Windows Server CAL|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|Microsoft Endpoint Configuration Manager|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
-|System Center Endpoint Protection|いいえ|いいえ|いいえ|必要|必要|いいえ|いいえ|いいえ|いいえ|
+|Exchange<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|はい|いいえ|いいえ|いいえ|いいえ|
+|SharePoint<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|はい|いいえ|いいえ|いいえ|いいえ|
+|Skype for Business<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|はい|いいえ|いいえ|いいえ|いいえ|
+|Windows Server CAL|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|Microsoft Endpoint Configuration Manager|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|System Center Endpoint Protection|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 
 > [!NOTE]
 > <sup>1</sup> Exchange Online プラン1と補足機能が含まれています。 <br/>
