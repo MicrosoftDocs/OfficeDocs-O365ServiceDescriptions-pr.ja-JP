@@ -1,93 +1,93 @@
 ---
-title: 米国政府機関向けの SharePoint
-ms.author: mkashman
-author: kaarins
-manager: mkashman
+title: 米国政府機関向け SharePoint 環境
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 米国政府機関のクラウドのお客様が利用できる SharePoint の機能について説明します。
-ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: 米国政府機関向けクラウドのお客様向け SharePoint 機能の可用性について説明します。
+ms.openlocfilehash: c8297aaf0b33e55dab1d3babe307736de57e2066
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411606"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624518"
 ---
-# <a name="sharepoint-for-us-government-environments"></a>米国政府機関向けの SharePoint
+# <a name="sharepoint-for-us-government-environments"></a>米国政府機関向け SharePoint 環境
 
-この記事では、 [SharePoint サービスの説明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)に記載されているように、米国政府機関クラウドと商用クラウドの機能の相違点の概要について説明します。 SharePoint は、Government Community Cloud (GCC)、GCC High、DoD 環境で利用できます。 
+この記事では、SharePoint サービスの説明に記載されている米国政府機関向けクラウドと商用クラウドの機能の違いの概要 [を説明します](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)。 SharePoint は、Government Community Cloud (GCC)、GCC High、DoD 環境で使用できます。 
 
-資格および購入に関する政府機関のクラウドに関する詳細については、「 [Microsoft 365 government-購入方法](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)」を参照してください。 Office 365 Government プランを比較するには、「 [office 365 government プラン](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)」を参照してください。
+適格性や購入など、政府機関向けクラウドについて詳しくは [、Microsoft 365 Government の購入方法に関するページをご覧ください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 365 Officeプランと比較するには [、365 政府機関向Officeプランを参照してください](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
-ネットワーク接続を管理するときに必要なエンドポイントの詳細については、「 [office 365 米国政府用 GCC、高エンドポイント](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) または [Office 365 米国政府の DoD エンドポイント](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)」を参照してください。
+ネットワーク接続を管理する際に必要なエンドポイントについては [、Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) エンドポイントまたは [Office 365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)エンドポイントを参照してください。
 
-Office 365 の機能を楽しんだだけでなく、米国政府機関のクラウド環境に固有の次の機能を活用することができます。
+Office 365 の機能を活用できるだけでなく、組織は米国政府機関のクラウド環境に固有の次の機能を活用できます。
 
--   組織の顧客コンテンツは、Microsoft の商用 Office 365 サービスの顧客コンテンツと論理的に分離されています。
+-   組織の顧客コンテンツは、Microsoft の商用サービスまたは 365 サービスOfficeコンテンツから論理的に分離されています。
 -   組織の顧客コンテンツは、米国内に格納されます。
 -   組織の顧客コンテンツへのアクセスは、審査された Microsoft の担当者にのみ制限されます。
--   政府機関のクラウド環境は、米国の公的機関のお客様に必要な認定および認定に準拠しています。
+-   政府機関向けクラウド環境は、米国公的機関のお客様に必要な認定と認定に準拠しています。
 
-この記事では、すべての SharePoint の商用機能を政府機関のクラウド環境に提供することを目標としています。 政府機関のクラウドのお客様の要件により、一部の機能は使用できません。 その他の機能は政府機関の環境に送られますが、まだ利用できません。 政府機関のクラウド環境で利用できる機能については、以下のセクションを参照してください。
+すべての SharePoint の商用機能を政府機関向けクラウド環境に提供する目標です。 政府機関向けクラウドのお客様の要件のため、一部の機能は利用できません。 他の機能は政府機関の環境に提供されますが、まだ利用できません。 政府機関のクラウド環境での機能の可用性については、以下のセクションを参照してください。
 
 ## <a name="developer-features"></a>開発者向けの機能
 
-市販のお客様向けの開発者向け機能と、政府機関のお客様にとっては、既知の違いはありません。
+商用顧客向けの開発者向け機能と政府機関向けクラウドのお客様向けの機能には、既知の違いはありません。
 
-- アドインのデータソースなどの外部アプリケーションへの接続は、政府機関の環境でサポートされているシステムセキュリティ境界内にあるソースに制限されます。
-- クラウドサービスのセキュリティ境界内でデータソースにアクセスできる接続シナリオでは、Business Connectivity Services (BCS) 機能がサポートされています。
+- アドインのデータ ソースなどの外部アプリケーションへの接続は、政府機関の環境でサポートされているシステム セキュリティの境界内にあるソースに限定されます。
+- Business Connectivity Services (BCS) 機能は、クラウド サービスのセキュリティ境界内でデータ ソースに到達可能なままである接続シナリオでサポートされています。
 
-サイトでサードパーティ製アプリケーションを使用する場合は、組織でのこれらのサービスの適切な使用法を評価する際に、サードパーティによって提供されるプライバシーとコンプライアンスのステートメントを確認してください。 サードパーティ製のアプリケーションおよびサービスでは、政府機関の外部のシステムで組織の顧客データを保存、送信、および処理することによって、コンプライアンスやデータ保護のコミットメントの対象にならない場合があります。 
+サイトでサードパーティアプリケーションを使用する場合は、組織に対するこれらのサービスの適切な使用を評価する際に、サード パーティが提供するプライバシーおよびコンプライアンスに関する声明を確認してください。 サードパーティのアプリケーションおよびサービスには、政府機関向けクラウドの外部にあるため、コンプライアンスとデータ保護のコミットメントの対象となされていないサードパーティ システム上で、組織の顧客データを保存、送信、処理する必要があります。 
 
-## <a name="it-admin-features"></a>IT 管理者向けの機能
+## <a name="it-admin-features"></a>IT 管理者向け機能
 
-ここでは、商用のお客様向けの IT 管理者向けの機能と、行政機関のお客様向けの相違点を示します。
+以下に、商用顧客向け IT 管理者機能と政府機関向けクラウドのお客様向け機能の違いを示します。
 
-- GCC High お客様はサイトアドレスを変更できない
-- ハイブリッド SharePoint サーバーは、すべての政府機関のお客様が利用できるわけではありません
-- SharePoint 移行ツールおよび移行マネージャーは、構成の変更を必要とします。 詳細については、「 [Spmt government cloud support](/sharepointmigration/spmt-install-issues#government-cloud-support)」を参照してください。
-- Mover.io はまだサポートされていません
-- 複数地域は、すべての政府機関のお客様が利用できるわけではありません。
+- GCC High のお客様はサイト アドレスを変更できません
+- ハイブリッド SharePoint Server は、すべての政府機関向けクラウドのお客様が利用できるとは言え
+- SharePoint 移行ツールと移行マネージャーでは、構成を変更する必要があります。 詳しくは [、SPMT 政府機関向けクラウド サポートに関するページをご覧ください](/sharepointmigration/spmt-install-issues#government-cloud-support)。
+- Mover.ioはまだサポートされていません
+- 複数地域は、すべての政府機関向けクラウドのお客様が利用できるとは言え
 
-FastTrack の移行の詳細については、「 [Office 365 US Government サービスの説明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)」を参照してください。
+FastTrack の移行について詳しくは、米国政府機関向け Office [365 のサービス](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)の説明をご覧ください。
 
 ## <a name="security-and-compliance-features"></a>セキュリティとコンプライアンスの機能
 
-商用のお客様や政府機関のお客様のためのセキュリティとコンプライアンスの機能には、既知の違いはありません。
+商用顧客と政府機関向けクラウドのお客様のセキュリティとコンプライアンスの機能には、既知の違いはありません。
 
-セキュリティとコンプライアンスの機能の詳細については、「 [セキュリティ & コンプライアンスセンター](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)」を参照してください。
+セキュリティおよびコンプライアンス機能の詳細については、セキュリティ/コンプライアンス センター [&参照してください](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
 
-Government の Azure Active Directory 機能の詳細については、「 [Azure Government Security + Identity ドキュメント](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)」を参照してください。 
+政府機関向け Azure Active Directory 機能の詳細については、Azure Government のセキュリティと ID に関する [ドキュメントを参照してください](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
-Government の Azure Information Protection 機能の詳細については、「 [Azure Information Protection Premium Government サービスの説明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)」を参照してください。 
+政府機関向け Azure Information Protection 機能の詳細については [、Azure Information Protection Premium Government サービスの説明を参照してください](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。 
 
 ## <a name="sites-and-content"></a>サイトおよびコンテンツ
 
-以下は、商用のお客様向けのサイトとコンテンツ機能の相違点と、政府機関のお客様のためのものです。
+以下に、商用顧客向けと政府機関向けクラウドのお客様向けサイトとコンテンツ機能の違いを示します。
 
-- Amazon Kindle、Bing Maps、Twitter、YouTube web パーツなどのインターネットサービスへの接続に依存する web パーツは、期待どおりに機能しません。
-- 組織のアセットライブラリは使用できません
-- リストとページを Teams に追加することは、GCC High および DoD のお客様には使用できません。
+- Amazon Kindle、Bing Maps、Twitter、YouTube の各 Web パーツなど、インターネット サービスへの接続に依存する Web パーツは期待通りに動作しません。
+- 組織のアセット ライブラリは使用できません
+- Teams へのリストとページの追加は、GCC High および DoD のお客様は利用できません。
 
 ## <a name="search-features"></a>検索機能
 
-以下に、商用のお客様向けの検索機能と、政府機関のお客様のための相違点を示します。
+以下に、商用顧客向け検索機能と政府機関向けクラウドのお客様向け検索機能の違いを示します。
 
-- Microsoft 検索統合は使用できません。
+- Microsoft Search 統合は使用できません。
 
 ## <a name="sharing-and-sync"></a>共有と同期
 
-商用クラウド環境と官公庁クラウド環境の機能の違いについては、「 [ファイル共有](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)」を参照してください。
+商用クラウドと政府機関向けクラウド環境の機能の違いについては、「ファイル共有」を [参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)。
 
 ## <a name="plan-for-governance"></a>ガバナンスを計画する
 
-クラウドへの移行では、組み込みの管理コントロールを使用したプロジェクトエクスペリエンスが提供されます。 ガバナンスの要件と、それに対応する方法を決定します。 詳細については、「 [ワークチームを Microsoft 365 に変換するためのガバナンスを計画](https://resources.techcommunity.microsoft.com/teamwork-governance/) する」を参照してください。 Office 365 グループ、SharePoint、Teams などに関するガイダンスが記載されています。
+クラウドへの移行では、組み込みの管理コントロールを使用して、変換的なエクスペリエンスを提供できます。 ガバナンスの要件とそれらを満たす方法を決定します。 詳細については [、「Microsoft 365 でチームワークを](https://resources.techcommunity.microsoft.com/teamwork-governance/) 変革するガバナンスを計画する」を参照してください。 365 グループ、SharePoint、Teams Officeに関するガイダンスが表示されます。
 
-## <a name="deploy-sharepoint-for-collaboration"></a>コラボレーションのために SharePoint を展開する
+## <a name="deploy-sharepoint-for-collaboration"></a>共同作業用に SharePoint を展開する
 
-Microsoft US government cloud で組織を設定した後、 [SharePoint 導入リソースセンター](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)で説明されている推奨される展開パスに従います。 導入の際には、管理エキスパートに協力してください。
-また、 [Fasttrack](https://www.microsoft.com/fasttrack) または選択したパートナーと連携して、ユーザーにサービスをロールアウトすることもできます。
-Microsoft のセキュリティ [センター](https://www.microsoft.com/trust-center) にアクセスすることにより、お客様にサービスを提供するように組織を支援する方法についての基本理念として、microsoft のセキュリティ、プライバシー、法令遵守の方法について知ることができます。
+Microsoft US Government Cloud で組織をセットアップした後、SharePoint 導入リソース センターに示されている推奨される展開パス [に従います](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)。 必ず導入および変更管理のチャンピオンと一緒に取り組む必要があります。
+FastTrack または選択した [パートナーと](https://www.microsoft.com/fasttrack) 一緒に作業して、ユーザーにサービスをロールアウトできます。
+Microsoft がセキュリティ、プライバシー、コンプライアンスに取り組む方法、組織が顧客にサービスを提供する方法に関する主要なテネトについて詳しくは [、Microsoft](https://www.microsoft.com/trust-center) セキュリティ センターをご覧ください。
