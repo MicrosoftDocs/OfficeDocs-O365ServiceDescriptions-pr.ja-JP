@@ -8,10 +8,10 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Microsoft 365 およびスタンドアロンプランの SharePoint の制限について説明します。
+description: Office 365 およびスタンドアロン プランの SharePoint の制限について説明します。
 ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
 ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/13/2020
 ms.locfileid: "48447344"
@@ -22,7 +22,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
   
 ## <a name="limits-by-plan"></a>プラン別制限 
 
-| 機能 | Microsoft 365 Business Basic、Business Standard、Business Premium | Microsoft 365 E3 または E5、Office 365 E1、E3、E5、または SharePoint プラン1または2 | Microsoft 365 F1 または F3、Office 365 F3 |
+| 機能 | Microsoft 365 Business Basic、Business Standard、Business Premium | Microsoft 365 E3 または E5、 Office 365 E1、 E3, または E5 または SharePoint Plan 1 または 2 | Microsoft 365 F1 または F3、Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |組織あたりの合計ストレージ <sup>1、2、6</sup> <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup>  <br/> |1 TB および購入ライセンスあたり 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |サイト (サイト コレクション) あたりの最大ストレージ <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
@@ -31,11 +31,11 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
    
 <sup>1</sup> [組織の合計と使用可能なストレージを検索する方法について説明します](/sharepoint/manage-site-collection-storage-limits)。 SharePoint のストレージを追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を変更する](/office365/admin/subscriptions-and-billing/add-storage-space)」を参照してください。 
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用されるストレージは、組織の合計ストレージの上限に含まれます。 
-<br/> <sup>3</sup> Microsoft 365 サブスクリプションと Office 365 追加のファイル記憶域アドオンがある場合は、ストレージ容量が追加されます。 
-<br/> <sup>4</sup> これは単一のサイトのストレージ (以前の「サイト コレクション」) の*制限*であり、各サイトに*提供*されるストレージの量ではありません。 この制限は、Office 365 グループ接続のチーム サイトと OneDrive を含むすべての種類のサイトに適用されます。 SharePoint 管理者は、[手動でストレージの下限を設定](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)することができます。 
-<br/> 第<sup>5</sup>行のワーカーは SharePoint サイトを管理できません。 
+<br/> <sup>3</sup> Office 365 サブスクリプション、および Office 365 Extra File Storage アドオンを持っている場合は、ストレージの量が追加されます。 
+<br/> <sup>4</sup> これは単一のサイトのストレージ (以前の「サイト コレクション」) の *制限* であり、各サイトに *提供* されるストレージの量ではありません。 この制限は、Office 365 グループ接続のチーム サイトと OneDrive を含むすべての種類のサイトに適用されます。 SharePoint 管理者は、[手動でストレージの下限を設定](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)することができます。 
+<br/> <sup>5</sup> 現場担当者は、SharePoint サイトを管理できません。 
 <br/> <sup>6</sup> ライセンス ユーザーごとの OneDrive は含まれません。 
-<br/> <sup>7</sup> ユーザー数が50万を超える場合は、Microsoft の担当者にお問い合わせください。 
+<br/> <sup>7</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
   
 ## <a name="service-limits-for-all-plans"></a>すべてのプランのサービスの制限
 
@@ -48,9 +48,9 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>リストまたはライブラリ内のアイテムに対する固有の権限
 
-許可される制限は5万一意に権限アイテムですが、推奨される一般的な制限は5000です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
+サポートされる上限は、固有の権限のアイテムについて 50,000 ですが、一般的な推奨上限は 5,000 です。 一度に 5,000 を超える固有の権限のアイテムに変更を加えると、時間がかかります。 大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計します。
 
-もう1つの制限は、一意の権限 item ごとに5000の役割の割り当てです。 
+別の制限は、固有の権限のアイテムにつき、5000 ロールの割り当てです。 
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 
@@ -60,15 +60,15 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 1回の操作で複数のファイルをコピーまたは移動するには、次の3つの要件があります。 
 
-- ファイルサイズの合計は 100 GB 以下 
-- 3万を超えるファイル
+- ファイルの合計サイズで 100 GB を超えることはできない 
+- 30,000 ファイル未満。
 - 各ファイルは 2 GB 未満である必要があります。
 
 ### <a name="sync"></a>同期
 
-**Current OneDrive sync app (OneDrive.exe)** -最適なパフォーマンスを実現するために、ファイルを必要に応じて使用している場合や、ライブラリ内の一部のフォルダーのみを選択して同期する場合でも、すべての同期されたドキュメントライブラリで、ユーザーごとに30万を超えるファイルを保存しないことをお勧めします。
+**現在の OneDrive 同期アプリ (OneDrive.exe)** - ファイル オンデマンドを使用して、またはライブラリ内で特定のフォルダーのみを選択して同期を行っている場合であっても、パフォーマンスを最適化するには、同期されているすべてのドキュメント ライブラリ全体で 各ユーザーにつき300,000 アイテム以上のファイルを格納しないようにすることをお勧めします。
 
-**以前の OneDrive For business 同期アプリ (Groove.exe は、古いオンプレミスの SharePoint 環境で使用され** ています)-すべての同期されたライブラリで最大2万個のアイテムを同期することができます。 これには、OneDrive ライブラリ、チーム サイト ライブラリ、またはその両方が含まれます。 全体での同期制限とは別に、ライブラリの種類ごとに同期できるアイテムの数に制限があります。
+**以前の OneDrive for Business 同期アプリ (Groove.exe - 従来のオンプレミス SharePoint 環境で使用)** - 同期されているすべてのライブラリ全体で、最大 20,000 アイテムを同期できます。 これには、OneDrive ライブラリ、チーム サイト ライブラリ、またはその両方が含まれます。 全体での同期制限とは別に、ライブラリの種類ごとに同期できるアイテムの数に制限があります。
 
    - OneDrive ライブラリで同期できるのは、最大で 20,000 アイテムです。 これには、フォルダーとファイルが含まれます。 
    - SharePoint ライブラリで同期できるのは、最大で 5,000 アイテムです。 これには、フォルダーとファイルが含まれます。 これらはさまざまな SharePoint サイトにあるライブラリで、チーム サイトやコミュニティ サイト、他のユーザーが作成したライブラリ、またはサイト ページから作成したライブラリなどが含まれます。 複数の SharePoint ライブラリを同期することができます。 同期するチーム サイトはすべて、同期されるすべてのライブラリ全体での 20,000 アイテムの制限にカウントされます。
@@ -82,7 +82,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="sharepoint-groups"></a>SharePoint グループ
 
-ユーザーは、サイト (サイトコレクション) ごとに5000グループに属することができ、各グループは最大で5000ユーザーを持つことができます。 サイト (サイト コレクション) あたり最大 10,000 グループを含めることができます。
+ユーザーはサイトごとに (サイト コレクション) 5,000 のグループに所属でき、各グループには最大 5,000 のユーザーを含めることができます。 サイト (サイト コレクション) あたり最大 10,000 グループを含めることができます。
 
 > [!NOTE]
 > Azure AD グループの制限は、パブリック グループ サイトとプライベート グループ サイトのメンバーシップの管理に影響する可能性がありますので、「[Azure AD サービスの制限と制約](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)」を参照してください。 
@@ -91,16 +91,16 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 用語ストアに 200,000 語、1000 グローバル用語セット、1000 グループ。
 
-### <a name="overall-site-metadata"></a>サイト全体のメタデータ
+### <a name="overall-site-metadata"></a>全体的なサイトのメタデータ
 
-サイトごとに 1000 GB (メタデータがこのサイズに達することはほとんどありません)。
+サイトあたり 1000 GB (メタデータはこのサイズに達することがめったにありません)。
 
 ### <a name="subsites"></a>サブサイト 
 
 サイト (サイト コレクション) ごとに 2,000 個。 サブサイトを作成するのではなく、サイトを作成してハブに整理することをお勧めします。 サブサイトを使用する場合は、そのサブサイトの数を制限することをお勧めします (特にトラフィックの多いサイト)。
 
 > [!NOTE] 
-> 組織は2000のハブサイトに制限されています。 すべての機能にハブサイトは必要ない場合があります。ハブを作成する前に、いくつかの計画を行うことが重要です。 詳細については、「 [SharePoint ハブサイトの計画](https://docs.microsoft.com/sharepoint/planning-hub-sites)」を参照してください。
+> 組織は、2000 hub サイト数に制限されています。 あらゆる機能にハブサイトは必要ないかもしれません。また、ハブを作成する前にいくらか計画することが重要です。 詳細については、「[SharePoint hub のサイトを計画する](https://docs.microsoft.com/sharepoint/planning-hub-sites)」を参照してください。
 
 ### <a name="sharepoint-hosted-applications"></a>SharePoint ホスト型アプリケーション
 
