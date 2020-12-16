@@ -65,7 +65,7 @@
 ### [クライアント機能](exchange-online-archiving-service-description/client-features.md)
 ### [コンプライアンス機能とセキュリティ機能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Microsoft Defende for Office 365 サービス説明書](office-365-advanced-threat-protection-service-description.md)
-## [Microsoft Teams サービスの説明](teams-service-description.md)
+## [Microsoft Teams サービスのサービスの説明](teams-service-description.md)
 ## [OneDrive サービスの説明](onedrive-for-business-service-description.md)
 ## [SharePoint サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint の制限](sharepoint-online-service-description/sharepoint-online-limits.md)
@@ -110,4 +110,3 @@
 #### [Microsoft 365 コンプライアンスの計画 - GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Microsoft 365 コンプライアンスの計画 - GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Microsoft Bookings サービスの説明](microsoft-bookings-service-description.md)
-## [Microsoft Dynamics 365 サービス説明](microsoft-dynamics-365-online-service-description.md)
