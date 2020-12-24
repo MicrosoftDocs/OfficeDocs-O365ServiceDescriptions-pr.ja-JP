@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話に使用できるアドイン サービスです。 これは、電話システム、国内通話プラン、SMS、電話会議を組み合わせた機能です。
-ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b1b547e7b02865136774e555f33be8e5750de4d4
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624548"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730745"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 音声サービスの説明
 
@@ -43,30 +43,30 @@ Microsoft 365 Business Voice は、最大 300 ライセンスの次のサブス�
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 Business Voice の機能
 
 | 機能 | Microsoft 365 Business Voice | 通話プランなしの Microsoft 365 Business Voice |
-|--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| 電話番号                                          | はい                              | はい                                                   |
-| VoIP 通話                                           | はい                              | はい                                                   |
-| 自動応答                                        | はい                              | はい                                                   |
-| コール キュー                                             | はい                              | はい                                                   |
-| 発信者番号                                              | はい                              | はい                                                   |
-| 通話ルーティング                                           | はい                              | はい                                                   |
-| 緊急通話                                      | はい                              | はい                                                   |
-| 動的な場所での緊急通話                | はい                              | はい                                                   |
-| ボイス メール                                             | はい                              | はい                                                   |
-| コール パーク                                              | はい                              | はい                                                   |
-| 呼び出し転送                                        | はい                              | はい                                                   |
-| 通話委任 (代理人と電話回線を共有)   | はい                              | はい                                                   |
-| 保留音                                          | はい                              | はい                                                   |
-| 通話ブロック                                             | はい                              | はい                                                   |
-| 自動応答の内線ダイヤル                       | はい                              | はい                                                   |
-| 自動応答/通話キューの共有ボイスメールへの転送 | はい                              | はい                                                   |
-| 多言語対話型音声応答 (IVR)          | はい                              | はい                                                   |
-| 通話ポリシー                                         | はい                              | はい                                                   |
-| 国内通話プラン                                  | はい                              | はい                                                    |
-| フリーダイヤル\*                                    | はい                              | はい                                                    |
-| 国際通話プラン\*                           | はい                              | はい                                                    |
-| 電話会議                                     | はい                              | いいえ<sup>1</sup>                                                   |
+|--------------------------------------------------------|------------------------------|---------------------------------------------------|
+| 電話番号 | 必要 | うん<sup>*</sup> |
+| VoIP 通話 | 必要 | うん<sup>*</sup> |
+| 自動応答 | 必要 | うん<sup>*</sup> |
+| コール キュー | 必要 | うん<sup>*</sup> |
+| 発信者番号 | はい | うん<sup>*</sup> |
+| 通話ルーティング | 必要 | うん<sup>*</sup> |
+| 緊急通話 | 必要 | うん<sup>*</sup> |
+| 動的な場所での緊急通話 | 必要 | うん<sup>*</sup> |
+| ボイス メール | はい | うん<sup>*</sup> |
+| コール パーク | はい | うん<sup>*</sup> |
+| 呼び出し転送 | 必要 | うん<sup>*</sup> |
+| 通話委任 (代理人と電話回線を共有) | 必要 | うん<sup>*</sup> |
+| 保留音 | 必要 | うん<sup>*</sup> |
+| 通話ブロック | 必要 | うん<sup>*</sup> |
+| 自動応答の内線ダイヤル | 必要 | うん<sup>*</sup> |
+| 自動応答/通話キューの共有ボイスメールへの転送 | 必要 | うん<sup>*</sup> |
+| 多言語対話型音声応答 (IVR) | 必要 | うん<sup>*</sup> |
+| 通話ポリシー | 必要 | うん<sup>*</sup> |
+| 国内通話プラン | 必要 | サードパーティの通話プランが必要 |
+| フリーダイヤル<sup>**</sup> | 必要 | サードパーティの通話プランが必要 |
+| 国際通話プラン<sup>**</sup> | 必要 | サードパーティの通話プランが必要 |
+| 電話会議 | はい | 必要 |
 
-<sup>1</sup>サードパーティが提供する通話プランで利用できます。
+<sup>*</sup> サードパーティが提供する通話プランで利用できます。
 
-\* 無料ダイヤルと国際通話プランは、コミュニケーション クレジットを使用して追加料金で [利用できます](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)。 詳細については、「フリーダイヤル[と国際通話料金」](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)[を参照してください](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。
+<sup>**</sup> 無料ダイヤルと国際通話プランは、コミュニケーション クレジットを使用して追加料金で [利用できます](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)。 詳細については、「フリーダイヤル[と国際通話料金」](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions)[を参照してください](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。
