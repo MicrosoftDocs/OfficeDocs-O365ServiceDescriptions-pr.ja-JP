@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 によって提供される Project Online は、プロジェクトとプロジェクトポートフォリオへの投資を計画、優先順位付け、および管理するための強力なプロジェクト管理機能を、ほとんどすべてのデバイスで利用できます。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 を通じて提供される Project Online は、ほぼすべてのデバイスのほぼどこからでも、プロジェクトとプロジェクト ポートフォリオ投資を計画、優先順位付け、および管理するための強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
+ms.openlocfilehash: af4e8aa7a7ea7adcabb2e4e6b9b8ad8040f5d03c
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411596"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780031"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -36,7 +36,7 @@ Microsoft Project は、組織のプロジェクトおよび作業管理のニ�
 
 Project for the web は、クラウドベースの作業とプロジェクト管理のための Microsoft の最新の製品です。 Project for the web は、ほとんどのニーズと役割を満たすためのシンプルで強力な作業管理機能を提供します。 プロジェクト マネージャーとチーム メンバーは、Project for the web を使用して、あらゆる規模の作業を計画および管理できます。
 
-Project for the web は、Microsoft Power Platform 上に構築されています。 Power Platform は、PowerApps、Power Automate、Power BI、および Common Data Service (CDS) で構成されています。 Project for the web のデータは CDS に保存されます。 
+Project for the web は、Microsoft Power Platform 上に構築されています。 Power プラットフォームは、PowerApps、Power Automate、Power BI、および Microsoft Dataverse で構成されます。 Web データ用のプロジェクトは、Microsoft Dataverse に保存されます。 
 
 Project for the web は、Project Plan 1、Project Plan 3、および Project Plan 5 の 3 つのサブスクリプションを通じて利用できます。 「[Project for the web の機能](#project-for-the-web-features)」セクションにリストされている機能は、Project for the web のデータ ストアのデータとのみ相互作用します。
 
@@ -48,16 +48,16 @@ Project Online は SharePoint プラットフォーム上に構築されてお�
 
 Project Online は、Project Plan 3 と Project Plan 5 の 2 つのサブスクリプションを通じて利用できます。 「[Project Onlineの機能](#project-online-features)」セクションに記載されている機能は、Project Online SharePoint データ ストアのデータとのみ相互作用します。
 
-Project Online のチーム メンバー機能は、Project Online Essentials サブスクリプションを通じて利用できます。 Project Online Essentials は、Project Plan 3 または Project Plan 5 のサブスクリプションを持つお客様向けのチーム メンバーの *アドオン*  サブスクリプションです。 チーム メンバーに、Project Online で管理されているプロジェクトのタスクと時間の更新を実行するための Web インターフェイスを提供します。
+Project Online のチーム メンバー機能は、Project Online Essentials または Project Plan 1 サブスクリプションを通じて利用できます。 Project Online Essentials は、Project Plan 3 または Project Plan 5 サブスクリプションをお持ちのお客様向けチーム メンバー アドオン サブスクリプションです。 Project Online Essentials および Project Plan 1 サブスクリプションは、Project Online で管理されているプロジェクトに対してタスクと時間の更新を実行するための Web インターフェイスをチーム メンバーに提供します。
 
-Project Online Essentials を持つチーム メンバーは、次の Project Online 機能を実行できます。
+Project Online Essentials または Project Plan 1 サブスクリプションを持つチーム メンバーは、次の Project Online 機能を実行できます。
 
 - Web ベースのインターフェースを使用する
 - タスク、懸案事項、およびリスクの更新
 - タイムシートの送信
 - ドキュメントを共有し、Microsoft Teams または Skype for Business ユーザーと共同作業する
 
-Project Online Essentials には、Project for the web は含まれていません。
+Project Online Essentials には、Project for the web は含まれていません。 Project Plan 1 には Project for the web が含まれています。
 
 ### <a name="project-online-desktop-client"></a>Project Online デスクトップ クライアント
 
@@ -65,9 +65,9 @@ Microsoft Project Online デスクトップ クライアントは、自動スケ
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Project for the web と Project Online を一緒に使用する
 
-Web および Project Online の Project は独立したアプリケーションですが、それらを並行して使用することができます。 Project ホームでは、両方のアプリケーションのすべてのプロジェクトを表示できます。 Project ロードマップ機能を使用して、両方のアプリケーションのプロジェクトを含むロードマップを作成できます。 また、Power BI と Project for the Web Power BI のコンテンツ パックを使用して、2 つのアプリケーションにわたるプロジェクトとリソースに関する分析情報を得ることができます。<sup>3</sup>
+Project for the web と Project Online は別のアプリケーションですが、それらを並べて使用できます。 Project ホームでは、両方のアプリケーションのすべてのプロジェクトを表示できます。 Project ロードマップ機能を使用して、両方のアプリケーションのプロジェクトを含むロードマップを作成できます。 また、Power BI と Project for the Web Power BI のコンテンツ パックを使用して、2 つのアプリケーションにわたるプロジェクトとリソースに関する分析情報を得ることができます。<sup>3</sup>
 
-この図は、アプリケーションが並行して連携する方法を示しています。
+次の図は、アプリケーションが並べて動作する方法を示しています。
 
 ![Project on the web と Project Online を一緒に示した図](../media/project-online-applications.png)
 
@@ -80,10 +80,10 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |製品 | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project for the web |**x**  | **x x** | **x x** |
-|Project Online | |**x x**| **x x x** |
+|Project Online |**x** |**x x**| **x x x** |
 |Project Online デスクトップ クライアント | |**x**|**x**|
 
-上の表のチェック数 (**x**) は、Plan によって提供される機能の一般的なレベルを示しています。 たとえば、Project Online の場合、プラン5はプラン3よりも多くの機能を提供します。
+上の表のチェック数 (**x**) は、Plan によって提供される機能の一般的なレベルを示しています。 たとえば、Project Online の場合、プラン 5 はプラン 3 よりも多くの機能を提供します。
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>各アプリケーションとサブスクリプションで利用可能な機能
 
@@ -102,29 +102,29 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |タスクのスケジュール設定 | 最近取り組んだプロジェクトや、注意深く監視する必要のある重要なプロジェクトの全体像を把握できます。| 表示のみ | はい | はい | はい |
 |タイムライン ビュー (ガント チャート)  | 階層タイムライン ビューでプロジェクトの日付、依存関係、割り当てを視覚的に追跡して理解します。|表示のみ | はい | はい | はい |
 |サマリー タスク | サマリー タスクを使用して、成果物とフェーズを計画、管理、追跡します。| 表示のみ | はい | はい | はい |
-|タスクユーザー設定フィールドを作成して使用する | プロジェクト内のタスクにローカルユーザー設定フィールドを追加したり、これらのフィールドにデータを追加したり、これらのフィールドのデータを更新したりします。| 表示のみ | はい | はい | はい |
+|タスク ユーザー設定フィールドを作成して使用する | プロジェクトのタスクにローカル ユーザー設定フィールドを追加したり、これらのフィールドにデータを追加したり、これらのフィールドのデータを更新したりします。| 表示のみ | はい | はい | はい |
 |**共同作業** ||||||
 |Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup> | はい | はい | はい | はい |
 |**リソースとプログラムの管理** ||||||
 |プロジェクト チームのセットアップ | メンバーの追加と削除、および作業予定表の設定により、プロジェクト チームを管理します。 | いいえ | はい | はい | はい |
-|ロードマップ | Microsoft Project Online、Microsoft Project for web、および Azure ボードプロジェクトから、プロジェクト間でビジュアルな対話型ロードマップを構築します。<sup>2</sup> プロジェクト計画1では、ロードマップへの読み取り専用アクセス権を取得します。 プロジェクト計画3またはプロジェクト計画5では、ロードマップを作成することもできます。 | 表示のみ | 表示のみ | はい | はい |
+|ロードマップ | Microsoft Project Online、Web 用 Microsoft Project、および Azure ボード プロジェクトから、プロジェクト間で視覚的でインタラクティブなロードマップを作成します。<sup>2</sup> プロジェクト計画 1 では、ロードマップへの読み取り専用アクセスを取得します。 Project Plan 3 または Project Plan 5 を使用すると、ロードマップを作成できます。 | 表示のみ | 表示のみ | はい | はい |
 |**レポート**<sup>3</sup> ||||||
-|Project からの *web データの* レポートの読み取り | プロジェクト、プログラム、ポートフォリオ、およびリソースデータを理解するための、すぐに、またはカスタムの Power BI レポート、ダッシュボード、およびポータルを表示します。 | いいえ | いいえ | はい | はい |
-|Project を使用して *web データに* レポートを作成する | すぐに使用できるレポートまたは最初から、カスタムの Power BI レポートを構築することによって、組織にとって重要なデータについて理解します。<br> 特定の組織のニーズを満たすために役立つカスタムの Power BI ダッシュボードとポータルを作成します。 | いいえ | いいえ | はい | はい |
+|Project から Web データ *のレポートを読み取* る | Power BI のレポート、ダッシュボード、ポータルを表示して、プロジェクト、プログラム、ポートフォリオ、およびリソースのデータを理解します。 | いいえ | いいえ | はい | はい |
+|Project for the web データ *を使用してレポートを作成* する | 既定のレポートに基づいて、または最初からカスタム Power BI レポートを作成することにより、組織にとって重要なデータを理解します。<br> 特定の組織のニーズを満たすために役立つカスタム Power BI ダッシュボードとポータルを構築します。 | いいえ | いいえ | はい | はい |
 |**使いやすさ** ||||||
 |共同編集 | タスク リストやプロジェクト スケジュールなどを同時に作成、編集、更新するために、関係者やチーム メンバーと協力して作業します。| 表示のみ | はい | はい | はい |
 |グラフィカル インジケーター | グラフィカル インジケーターでタスクの状態、割り当てなどを理解します。| 表示のみ | はい | はい | はい |
 |**モビリティ** ||||||
 |モバイル アプリケーション | PowerApps でカスタム モバイル アプリケーションを構築します。<sup>4</sup> |いいえ | いいえ | はい | はい |
 |**カスタマイズと統合**||||||
-|すぐに使用できるプロジェクトアプリケーションを使用する | 標準のプロジェクトアプリケーションを使用して、プロジェクトの表示、新しいプロジェクトの作成、新しいデータのプロジェクトへの追加、または既存のプロジェクトデータの更新を行います。 | 表示のみ | はい | はい | はい |
-|ビューとフォームをカスタマイズする <sup>4</sup> | [標準] プロジェクトアプリケーションでは、ビューとフォームのみをカスタマイズします。 | 表示のみ | はい | はい | はい |
-|ユーザー設定の列を使用する | テーブルに追加された列のデータを表示、追加、更新、または削除します。 | 表示のみ | 表示のみ | はい | はい |
-|ユーザー設定の表<sup>5</sup>を使用する | プロジェクト、ポートフォリオなどに必要な追加のデータを保持するためのカスタムテーブルを作成および定義します。 | いいえ | 表示のみ | はい | はい |
+|Out-of-the-box Project アプリケーションを使用する | 既存の Project アプリケーションを使用して、プロジェクトの表示、新しいプロジェクトの作成、プロジェクトへの新しいデータの追加、または既存のプロジェクト データの更新を行います。 | 表示のみ | はい | はい | はい |
+|ビューとフォームをカスタマイズ <sup>する 4</sup> | Out-of-the-box Project アプリケーションのビューとフォームのみをカスタマイズします。 | 表示のみ | はい | はい | はい |
+|カスタム列を使用する | テーブルに追加された列のデータを表示、追加、更新、または削除します。 | 表示のみ | 表示のみ | はい | はい |
+|カスタム テーブルの <sup>使用 5</sup> | プロジェクトやポートフォリオなどに必要な追加データを保持するカスタム テーブルを作成および定義します。 | いいえ | 表示のみ | はい | はい |
 |**セキュリティとユーザー管理**||||||
 |Office モダン グループ | チーム メンバーが共有するリソースのコレクションを共同で簡単にセットアップできるプロジェクト チームを構築します。 | はい | はい | はい | はい |
-|**サードパーティ製アプリ**||||||
-|サードパーティ製アプリを使用 *して web のプロジェクト* に接続する <sup>4</sup> | カスタムまたはサードパーティのアプリケーションを使用して、任意のネイティブまたはカスタムのプロジェクトテーブルでプロジェクトデータを表示、作成、更新、または削除します。<br> Web データのプロジェクトに基づいて、サードパーティのアプリケーションでレポートを作成します。 | いいえ | いいえ | はい | はい |
+|**サード パーティ製アプリ**||||||
+|サード パーティ *製アプリを使用して Project for the web* に接続する <sup>4</sup> | カスタム またはサード パーティ製のアプリケーションを使用して、ネイティブまたはカスタムの Project テーブル内の Project データを表示、作成、更新、または削除します。<br> Web データ用の Project に基づいてサードパーティ アプリケーションでレポートを作成します。 | いいえ | いいえ | はい | はい |
 
 ### <a name="project-online-features"></a>Project Online の機能
 
@@ -167,7 +167,7 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |プロジェクト チームのセットアップ | メンバーの追加と削除、割り当てレベルの設定、外部メンバーの追加により、プロジェクト チームを管理します。 | はい | はい |
 |リソース容量ビュー | プロジェクト、チーム、および組織レベルでリソース容量を追跡および管理します。 | はい | はい |
 |リソースのコスト | プロジェクトのリソースのコストを追跡および管理します。 | はい | はい |
-|リソース管理 (予約) | プロジェクト マネージャーは、役割、スキル、または名前でリソースの要求を送信できます。 リソース マネージャーは要求を確認し、利用可能な最良のリソースを割り当てることができます。 |はい<sup>8</sup> | はい (<sup>9</sup> ) |
+|リソース管理 (予約) | プロジェクト マネージャーは、役割、スキル、または名前でリソースの要求を送信できます。 リソース マネージャーは要求を確認し、利用可能な最良のリソースを割り当てることができます。 |はい<sup>8</sup> | は<sup>い 9</sup> |
 |リソースの容量の計画 | プロジェクト、チーム、および組織レベルでリソース容量を追跡および管理します。 | いいえ | はい |
 |ロードマップ | Microsoft Project Online、Microsoft Project for the web、Azure Boards プロジェクトのプロジェクト間で、視覚的でインタラクティブなロードマップを作成します。<sup>2</sup> | はい | はい |
 |ポートフォリオ分析と優先度設定 | 組織の事業戦略に最適なプロジェクト ポートフォリオを特定、選択、および遂行し、投資回収率 (ROI) を最大化します。 | いいえ | はい |
@@ -182,7 +182,7 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |カスタム フィールド | プロジェクト、タスク、リソース レベルでカスタム フィールドを追加して、組織やプロジェクトにとって重要なデータを追跡します。 | はい | はい |
 |数式 | タスクやプロジェクト全体の数式を使用して、重要なデータを計算およびキャプチャします。 | はい | はい |
 |PowerApps | PowerApps を使用して (OData を介して) Web およびモバイル向けのソリューションを構築および利用します。<sup>4</sup> | はい | はい |
-|ワークフロー | Power 自動化を使用して (OData を介して) ビジネスプロセスを自動化および統合します。<sup>7</sup> | はい | はい |
+|ワークフロー | (OData を使用して) ビジネス プロセスを自動化し、Power Automate と統合します。<sup>7</sup> | はい | はい |
 |Microsoft 365 の統合 | 使い慣れた Microsoft のツールとアプリケーションを使用して、ドキュメントの共同作業や管理などを行います。<sup>1</sup> | はい | はい |
 |Microsoft Planner の統合 | プロジェクト タスクを Planner の計画に関連付け、Planner で詳細な作業を追跡します。<sup>1</sup> | はい | はい |
 |**セキュリティ、ユーザー、サービス管理**||||
@@ -195,13 +195,13 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 <sup>1</sup> Office または Microsoft 365 の商用サブスクリプションが必要です。</br>
 <sup>2</sup> Azure Boards は別途取得されます。</br>
 <sup>3</sup> Project for the web および Project Online のレポートは、Power BI を使用して利用できます。 Power BI ライセンスが必要です。</br>
-<sup>4</sup> web または project Online の顧客データの project にアクセスする標準のプロジェクトアプリケーション以外の個別の電源アプリを構築して使用するには、個別の電源アプリサブスクリプションが必要です。</br>
-<sup>5</sup> ユーザー設定テーブルが5つに制限されています。</br>
+<sup>4</sup> Web 用 Project または Project Online の顧客データにアクセスする、新しい Project アプリケーションを超えて別の Power Apps を構築して使用するには、別の Power Apps サブスクリプションが必要です。</br>
+<sup>5</sup> カスタム テーブルは 5 つまでです。</br>
 <sup>6</sup> Project Online の外部ユーザー用のライセンスは、内部ユーザー用と同じポリシーに準じます。 Project Online サイトでのやり取りには、Project Plan 3 または Project Plan 5 のサブスクリプションが必要です。</br>
-<sup>7</sup> power オートメーションでのビジネスプロセスの自動化と統合 web データの project では、power オートメーションサブスクリプションとプロジェクト計画3またはプロジェクト計画5のサブスクリプションが必要です。</br>
-<sup>8</sup> プロジェクト計画3またはプロジェクト計画5のサブスクリプションを持つユーザーは、リソース契約要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
-<sup>9</sup> プロジェクト計画5のサブスクリプションを使用するユーザーは、リソース契約要求のレビュー、履行、承認を行うことができます。</br>
-<sup>10</sup> Active Directory では、別のサブスクリプションが必要です。 </br>
+<sup>7</sup> Power Automate と Project for the web データを使用してビジネス プロセスを自動化および統合するには、Power Automate サブスクリプションと Project プラン 3 または Project Plan 5 サブスクリプションが必要です。</br>
+<sup>8</sup> Project Plan 3 または Project Plan 5 サブスクリプションを持つユーザーは、リソースエンゲージメント要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
+<sup>9</sup> Project Plan 5 サブスクリプションを持つユーザーは、リソースエンゲージメント要求を確認、履行、および承認できます。</br>
+<sup>10</sup> Active Directory には個別のサブスクリプションが必要です。 </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online デスクトップ クライアントの機能
 
@@ -255,10 +255,11 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 
 ### <a name="licensing-considerations"></a>ライセンスに関する考慮事項
 
-- Project Online サイトでのやり取りには、Project Plan 3 または Project Plan 5 のサブスクリプションが必要です。
-- 最後の Project Plan 1、Project Plan 3、または Project Plan 5 のサブスクリプションが期限切れになると、Project for the web のインスタンスは 120 日後に削除されます。
+- Project Online サイトでの操作には、テナント内で少なくとも Project Plan 3 または Project Plan 5 サブスクリプションが必要です。
+- 最後の Project Plan 1、Project Plan 3、または Project Plan 5 サブスクリプションの有効期限が切れると、Microsoft Dataverse に依存するアクティブなサブスクリプションがない場合、Web インスタンス用の Project は自動的に削除されません。
 - 最後の Project Plan 3、または Project Plan 5 のサブスクリプションが期限切れになると、Project Online のインスタンスは 120 日後に削除されます。
-- Project for the web および Project Online 試用版のサブスクリプションの場合、試用期間が終了してから 30 日後に試用インスタンスが削除されます。
+- Project Online 試用版サブスクリプションの場合、試用版インスタンスは試用期間が終了した 30 日後に削除されます。
+- Project for the web 試用版サブスクリプションの場合、Microsoft Dataverse に依存するアクティブなサブスクリプションがない場合、試用版インスタンスは削除されません。
 
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online の使用
 
@@ -268,9 +269,9 @@ Project Online では、Project Online の一部としてプロビジョニン�
 
 Project ロードマップでは、Power Automate の使用が必要です。これは、Project サブスクリプションの一部としてプロビジョニングされます。 Power Automate 機能の権利は、Project ロードマップで必要な Power Automate 機能に限定されます。 Project ロードマップに必要な Power Automate 機能は、Microsoft 365 管理センターの「**アプリ**」セクションの「**フローを使用し Project のデータ統合**」サービス プランとして表示されます。
 
-### <a name="project-for-the-web-and-common-data-service"></a>Project for the web と Common Data Service
+### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project for the web と Microsoft Dataverse
 
-Project for the web では、データを保存するために Common Data Service (CDS) を使用する必要があります。 CDS は、Project サブスクリプションの一部としてプロビジョニングされます。 CDS 機能に対する権利は、Project for the web をサポートするためのデータの保存とアクセスに限定されています。 Project に必要な CDS 機能は、Microsoft 365 管理センターの「**アプリ**」セクションに「**Project の Common Data Service**」のサービス プランとして表示されます。
+Web 用 Project では、Microsoft Dataverse を使用してデータを保存する必要があります。 Microsoft Dataverse データベースは、Project サブスクリプションの一部として準備されます。 Microsoft Dataverse の機能に対する権限は、Web 用 Project をサポートするためのデータの保存とアクセスに限定されます。 Project に必要な Microsoft Dataverse 機能は、Microsoft 365管理センターの [アプリ] セクションに **Project** の共通データ サービス プランとして表示されます。
 
 ### <a name="data-backup-and-retention"></a>データのバックアップと保持
 
@@ -284,7 +285,7 @@ Project for the web には、次の表で説明するいくつかの制限があ
 |-------------|-------|
 |**タスク** ||
 |最大 タスクの階層レベル | 10 レベル |
-|最大 タスクのリンク (後続タスクと先行タスク) | 1280 |
+|最大 タスクのリンク (後続タスクと先行タスク) | 20 |
 |最大 リーフ タスクの期間 | 1250 日間 |
 |最大 サマリー タスクの期間 | 3650 日 (10 年) |
 |最大 タスクに割り当てることができるリソース | 20 リソース |
