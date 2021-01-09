@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: microsoft Defender for Office 365 は、堅牢なゼロデイ保護を提供することで未知のマルウェアやウイルスから組織を保護するクラウドベースの電子メール フィルタリング サービスであり、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
+ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780011"
+ms.lasthandoff: 01/09/2021
+ms.locfileid: "49790441"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defende for Office 365 サービス説明書
 
@@ -24,7 +24,7 @@ microsoft Defender for Office 365 は、堅牢なゼロデイ保護を提供す�
 
 メッセージ保護のために Defender を Office 365 に使用する主な方法を次に示します。
 
-- Office 365 フィルタリング専用の Defender では、Defender for Office 365 は、オンプレミスの Exchange Server 環境または他のオンプレミス SMTP 電子メール ソリューションにクラウドベースの電子メール保護を提供します。
+- Office 365 フィルター専用の Defender シナリオでは、Defender for Office 365 は、オンプレミスの Exchange Server 環境または他のオンプレミス SMTP 電子メール ソリューションにクラウドベースの電子メール保護を提供します。
 
 - Defender for Office 365 を有効にすると、Exchange Online のクラウド ホスト型メールボックスを保護できます。 Exchange Online の詳細については、Exchange Online サービスの [説明を参照してください](exchange-online-service-description/exchange-online-service-description.md)。
 
@@ -32,7 +32,7 @@ microsoft Defender for Office 365 は、堅牢なゼロデイ保護を提供す�
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender for Office 365 可用性
 
-Office 365 プラン 2 の Defender は、Office 365 E5、Office 365 A5、および Microsoft 365 E5 に含まれています。 Defender for Office 365 プラン 1 は、Microsoft 365 Business Premium に含まれています。
+Office 365 プラン 2 用の Microsoft Defender は、Office 365 E5、Office 365 A5、Microsoft 365 E5 Security、および Microsoft 365 E5 に含まれています。 [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) Defender for Office 365 プラン 1 は、Microsoft 365 Business Premium に含まれています。
 
 Defender for Office 365 を次の Exchange および Microsoft 365 サブスクリプション プランに追加できます。
 
@@ -64,7 +64,7 @@ Microsoft Defender for Office 365 を購入するには、Microsoft Defender で
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 の新機能
 
-Office 365 では、Defender に新機能を継続的に追加しています。 Office 365 (または Microsoft 365 全般) 向け Defender に追加される新機能の詳細については、次のリソースを参照してください。
+Office 365 では、引き続き Defender に新機能を追加しています。 Office 365 (または Microsoft 365 全般) の Defender に追加される新機能の詳細については、次のリソースを参照してください。
 
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
@@ -80,7 +80,7 @@ Defender for Office 365 は、メール送信エージェントなどの SMTP �
 
 | 機能 | Defender for Office 365 プラン 1 | Defender for Office 365 プラン 2 | Microsoft 365 E5 / E5 Security|
 |:-----|:-----|:-----|:-----|
-|*構成、保護、および検出*|
+|*構成、保護、検出*|
 |[添付ファイル保護](#safe-attachments)|はい|はい|はい|
 |Teams の安全な添付ファイル|はい|はい|はい|
 |[リンク保護](#safe-links)|はい|はい|はい|
@@ -94,13 +94,10 @@ Defender for Office 365 は、メール送信エージェントなどの SMTP �
 |脅威の調査 (高度な脅威の調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[自動インシデント対応](#automated-incident-response)|いいえ|はい|はい|
 |[攻撃シミュレータ](#attack-simulator)|いいえ|はい|はい|
-|*Microsoft 365 Defender との統合*|いいえ|はい|はい|
-
-> [!TIP]
-> Office 365 プラン 1 とプラン 2 の Defender の相違点のダウンロード可能なリストが必要ですか? [PDF を取得します](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
+|*Microsoft [365 Defender との統合](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|いいえ|はい|はい|
 
 > [!NOTE]
-> テナントが ATP P2 試用版ライセンスまたは Office 365 E5 試用版ライセンスのみを持っている場合、Microsoft Threat Protection のその他の対象となるライセンスがない場合、Microsoft Threat Protection にアクセスできません。 Office MTP ライセンスの詳細については、以下を参照してください。 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
+> テナントが Office 365 プラン 2 試用版ライセンスまたは Microsoft 365 E5 試用版ライセンスのみを持ち、Microsoft 365 Defender のその他の対象となるライセンスがない場合、Microsoft 365 Defender にアクセスできません。 詳しくは [、Microsoft 365 Defender の要件に関するページをご覧ください](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)。
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender for Office 365 の機能
 
@@ -161,11 +158,11 @@ Defender for Office 365 は、メール送信エージェントなどの SMTP �
 
 ### <a name="real-time-reports"></a>リアルタイム レポート
 
-セキュリティ & コンプライアンス センターで使用できる監視機能には、[](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)セキュリティとコンプライアンスの管理者が、セキュリティ攻撃や疑わしいアクティビティの増加など、優先度の高い問題に集中できるリアルタイムのレポートと分析情報が含まれます。 スマート レポートと分析情報には、問題領域の強調表示に加えて、推奨事項や、データを表示および探索するためのリンクが含まれており、迅速なアクションも実行できます。
+セキュリティ & コンプライアンス センター ( ) で使用できる監視機能には、セキュリティとコンプライアンスの管理者が、セキュリティ攻撃や疑わしいアクティビティの増加など、優先度の高い問題に集中できるリアルタイムのレポートと分析情報が含まれます。 [https://protection.office.com](https://protection.office.com) [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) スマート レポートと分析情報には、問題領域の強調表示に加えて、推奨事項や、データを表示および探索するためのリンクが含まれており、迅速なアクションも実行できます。
 
 ### <a name="explorer"></a>Explorer
 
-エクスプローラー (脅威エクスプローラーとも呼ばれます) は、許可されたユーザーが最近発生した脅威を特定して分析できるリアルタイムのレポートです。 既定では、このレポートには、過去7日間のデータが表示されますが、過去30日間のデータを表示するようにビューを変更できます。
+エクスプローラー (脅威エクスプローラーとも呼ばれます) は、許可されたユーザーが最近発生した脅威を特定して分析できるリアルタイムのレポートです。 既定では、このレポートには過去 7 日間のデータが表示されます。ただし、ビューを変更して過去 30 日間のデータを表示できます。
 
 エクスプローラーには、マルウェア (メールとコンテンツ用)、送信、フィッシング、すべての電子メールなどのビューが含まれる。 エクスプローラーとリアルタイムの検出の比較を確認するには、この [PDF をダウンロードしてください](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
@@ -173,7 +170,7 @@ Defender for Office 365 は、メール送信エージェントなどの SMTP �
 
 ### <a name="real-time-detections"></a>リアルタイムの検出
 
-リアルタイムの検出は、許可されたユーザーが最近発生した脅威を特定して分析できるリアルタイム レポートです。 既定では、このレポートには、エクスプローラーと同様に過去7日間のデータが表示されます。
+リアルタイムの検出は、許可されたユーザーが最近発生した脅威を特定して分析できるリアルタイム レポートです。 エクスプローラーと同様、既定では、このレポートには過去 7 日間のデータが表示されます。
 
 リアルタイム検出には、マルウェア (メールとコンテンツの場合)、送信、フィッシングなどのビューが含まれる。 リアルタイム検出とエクスプローラーの比較を確認するには、この [PDF をダウンロードしてください](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
