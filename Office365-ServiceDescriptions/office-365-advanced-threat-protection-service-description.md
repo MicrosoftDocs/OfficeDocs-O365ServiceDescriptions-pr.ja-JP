@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: microsoft Defender for Office 365 は、堅牢なゼロデイ保護を提供することで未知のマルウェアやウイルスから組織を保護するクラウドベースの電子メール フィルタリング サービスであり、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790441"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794963"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defende for Office 365 サービス説明書
 
@@ -81,23 +81,23 @@ Defender for Office 365 は、メール送信エージェントなどの SMTP �
 | 機能 | Defender for Office 365 プラン 1 | Defender for Office 365 プラン 2 | Microsoft 365 E5 / E5 Security|
 |:-----|:-----|:-----|:-----|
 |*構成、保護、検出*|
-|[添付ファイル保護](#safe-attachments)|はい|はい|はい|
-|Teams の安全な添付ファイル|はい|はい|はい|
-|[リンク保護](#safe-links)|はい|はい|はい|
+|[添付ファイル保護](#safe-attachments)|はい|はい|必要|
+|Teams の安全な添付ファイル|はい|はい|必要|
+|[リンク保護](#safe-links)|はい|はい|必要|
 |[安全なドキュメント](#safe-documents)|いいえ|いいえ|はい|
-|Teams の安全なリンク|はい|はい|はい|
-|[SharePoint、OneDrive、Microsoft Teams 用の ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|はい|はい|はい|
-|[フィッシング詐欺対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
-|[リアルタイム レポート](#real-time-reports)|はい|はい|はい|
+|Teams の安全なリンク|はい|はい|必要|
+|[SharePoint、OneDrive、Microsoft Teams 用の ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|はい|はい|必要|
+|[フィッシング詐欺対策ポリシー](#anti-phishing-policies)|はい|はい|必要|
+|[リアルタイム レポート](#real-time-reports)|はい|はい|必要|
 |*自動化、調査、修復、教育*|
-|[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
+|[脅威トラッカー](#threat-trackers)|いいえ|はい|必要|
 |脅威の調査 (高度な脅威の調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
-|[自動インシデント対応](#automated-incident-response)|いいえ|はい|はい|
-|[攻撃シミュレータ](#attack-simulator)|いいえ|はい|はい|
-|*Microsoft [365 Defender との統合](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|いいえ|はい|はい|
+|[自動インシデント対応](#automated-incident-response)|いいえ|はい|必要|
+|[攻撃シミュレータ](#attack-simulator)|いいえ|はい|必要|
+|*Microsoft [365 Defender との統合](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|いいえ|はい|必要|
 
 > [!NOTE]
-> テナントが Office 365 プラン 2 試用版ライセンスまたは Microsoft 365 E5 試用版ライセンスのみを持ち、Microsoft 365 Defender のその他の対象となるライセンスがない場合、Microsoft 365 Defender にアクセスできません。 詳しくは [、Microsoft 365 Defender の要件に関するページをご覧ください](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)。
+> テナントが atp P2 試用版ライセンスまたは Office Office 365 E5 試用版ライセンスのみを持ち、Microsoft Threat Protection のその他の対象となるライセンスがない場合、Microsoft Threat Protection にアクセスできません。 MTP ライセンスの詳細については、以下を参照してください <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> 。
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender for Office 365 の機能
 
