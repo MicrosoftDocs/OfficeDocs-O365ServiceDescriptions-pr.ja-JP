@@ -13,20 +13,22 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザー生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
-ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
+ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49687888"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871160"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 および Office 365 サービスの説明 
 
 Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザー生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
-このライブラリのトピックでは、Microsoft 365 および Office 365 で使用できるサービスと機能の詳細について説明します。 プラン全体で機能を比較するには、企業 [をサポートする強力](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) なツール、または以下の一覧にある関連するサービスの説明を参照してください。 
+このライブラリの記事では、Microsoft 365 および Office 365 で利用できるサービスと機能の詳細について説明します。 Microsoft Dynamics 365 ビジネス アプリケーションの詳細については [、Microsoft Dynamics 365 のドキュメントを参照してください](https://docs.microsoft.com/dynamics365/)。
+
+プラン全体で機能を比較するには、企業をサポート [する強力](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) なツール、または以下の一覧にある関連するサービスの説明を参照してください。 
   
-サポート記事と情報については [、「Office Help & Training](https://support.office.com/) [,Office documentation for admins and IT professionals,](https://docs.microsoft.com/office/)and [Microsoft 365 help center for admins and IT pros](https://docs.microsoft.com/microsoft-365/).
+サポート記事と情報については [、「Office Help & Training](https://support.office.com/), [Office documentation for admins and IT professionals,](https://docs.microsoft.com/office/)and [Microsoft 365 help center for admins and IT pros](https://docs.microsoft.com/microsoft-365/).
   
 > [!NOTE]
 > サービスの説明の比較スプレッドシートをお探しの場合は、廃止されました。 各サービスの説明ページの製品機能の可用性テーブルが更新され、ニーズに合った Office 365 のバージョンを選択するのに役立ちます。 
@@ -47,7 +49,7 @@ Microsoft では、対象となるプランの対象となるOffice 365 向け F
 
 - [Exchange Online Archiving サービスの説明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Microsoft Defender for Office 365 サービスの説明](office-365-advanced-threat-protection-service-description.md)
+- [Microsoft Defende for Office 365 サービス説明書](office-365-advanced-threat-protection-service-description.md)
 
 - [Microsoft Teams サービスのサービスの説明](teams-service-description.md)
 
@@ -79,12 +81,9 @@ Microsoft では、対象となるプランの対象となるOffice 365 向け F
 
 - [セキュリティとコンプライアンスのための Microsoft 365 ライセンス ガイダンス](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
-- [Microsoft Dynamics 365 (オンライン) サービスの説明](microsoft-dynamics-365-online-service-description.md)
 
 > [!NOTE]
 > <sup>1</sup> Office Delve、Microsoft MyAnalytics、Microsoft Sway、Microsoft Teams などの [スイート機能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)の可用性が含まれます。
->
-> Microsoft 365 Dynamics Business Apps の詳細については、以下を参照してください <https://docs.microsoft.com/dynamics365/> 。
   
 ## <a name="disclaimer"></a>免責事項
 
