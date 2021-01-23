@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
+ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919760"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49939202"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 購入方法
 
@@ -28,7 +28,7 @@ Microsoft 365 Government は、管理された未分類の情報を保持する�
 Microsoft 365 Government は、政府機関が規制データコンプライアンス要件を効果的に管理するのを支援することで、モバイルの生産性とコンプライアンスとの安全なコラボレーションを可能にすることで、いつでも、米国政府機関のリーダーや作業員の生産性を向上させることができます。 次の表に、政府の主要な役割の例を示します。<br><br>
  
 | 政府機関のリーダーは.... | 政府機関の従業員は... | フィールド担当者は... |
-|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|
 |コミュニケーションと透明性の向上による一般の信頼の向上  <br/> |グループ作業を改善して市民サービスを改善する <br/> | 必要に応じて、情報フィールドの担当者が必要とする情報フィールドへのモバイル アクセスを通じてサービスの品質を向上させる  |
 |ポリシーと予算の決定を形成するのに役立つインサイトへのアクセスを向上させる  <br/> |機関間通信を強化します。  <br/> |共同作業と知識の共有を有効にして、問題をすばやく特定して解決する  <br/> |
 |オフィスや道路で、スタッフや市民と情報を提供し、連絡を取り合う  <br/> |従業員の保持率向上に役立つ市民団体とのエンゲージメントを深める  <br/> | 機関の場所間でコミュニティのより強力な感覚を構築する  <br/> |
@@ -66,7 +66,7 @@ GCC と GCC High の両方のサービスは、Microsoft Government Cloud の対
     - 米国内の州または地方政府の機関。
     - お客様の州の法律によって確立され、お客様の州の管轄および地理的境界内に位置する、米国の郡、地方、都市、郡、町、行政区、特別目的の地区、その他の同様の種類の行政手段
     - コロンビア特別区、プエルトリコ連邦、ベトナム、米領サモア、米領、北マリアナ諸島
-- 米国内務省からの資金およびサービスの対象となる、連邦で認識される部下エンティティとして定義される部下エンティティ。インドの州の部下としての地位を生かしたり、地方の地方または地方ネイティブ企業である地方で、米国内務省から資金やサービスを受けることができます。
+- 米国内務省からの資金提供およびサービスの対象となる連邦で認識される部下エンティティとして定義されている部下エンティティ。インドの州警察としての地位を生み出して、または、地方の地方または地方ネイティブ企業である地方の地方で、米国内務省から受け入れたものとして定義されます。
 
 次の種類のデータを保持し、記載されている証明を提供できる政府機関以外の組織は、Microsoft Government Cloud 検証プロセスの対象となります。
 
@@ -99,7 +99,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 - [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government で利用できる販売チャネルは何ですか?
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government で利用できる販売チャネル
 
 次の表に、各セグメントのニーズに対応できるオプションを示します。<br><br> 
 
@@ -112,9 +112,8 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
 
-1. [フォームに記入して送信し](https://products.office.com/government/eligibility-validation) 、組織の適格性を検証します。
-2. Microsoft アカウント チームまたは認定パートナーと一緒に注文を行います。
-お客様は、一部のパートナーを通じてのみ、米国政府機関向け Microsoft 365 ライセンスを購入できます。
+1. 組織の適格性を [検証するために、GCC](https://www.microsoft.com/en-us/microsoft-365/government/eligibility-validation) または [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/) のフォームに記入して提出します。
+2. Microsoft アカウント チームまたは認定パートナーと一緒に注文を行います。 お客様は、一部のパートナーを通じてのみ、米国政府機関向け Microsoft 365 ライセンスを購入できます。
 
 **LSP GCC および GCC High (+500 シート)**
 
@@ -152,7 +151,7 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 - ノベガ
 - Planet Technologies, Inc.
 - Quiet Professionals,LLC
-- レッド リバー
+- 赤いリバー
 - SAIC
 - Smart最も近い
 - 7 つ前のサービス
@@ -166,7 +165,7 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 ## <a name="what-trials-are-available"></a>利用可能な試用版は何ですか?
 
 - [EMS。](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) お客様は、EMS ページの右上にある [今すぐ試す] ボタンを選択して、Office 商取引ポータルのゲート サインアップ プロセスを実行し、Azure Active Directory (AAD) ポータルにルーティングできます。
-- [Office 365。](https://aka.ms/gcctrial) 無料の 1 か月間の試用版は、米国政府機関専用です。 これは GCC 専用であり、政府機関の請負業者は除外されます。  
+- [Office 365。](https://aka.ms/gcctrial) 無料の 1 か月間の試用版は、GCC でのみ利用できます。  
 - Microsoft は、商用のお客様に Office 365 GCC の試用版を提供するのではなく、GCC High または DoD の試用版はありません。
 
 ## <a name="where-can-i-learn-more"></a>関連情報
