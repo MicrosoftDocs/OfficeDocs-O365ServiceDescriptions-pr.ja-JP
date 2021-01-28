@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
-ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
+ms.openlocfilehash: b099adfdd4f392bcdf1f9aa383601a49026cb5c1
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49939202"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031251"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 購入方法
 
@@ -66,7 +66,7 @@ GCC と GCC High の両方のサービスは、Microsoft Government Cloud の対
     - 米国内の州または地方政府の機関。
     - お客様の州の法律によって確立され、お客様の州の管轄および地理的境界内に位置する、米国の郡、地方、都市、郡、町、行政区、特別目的の地区、その他の同様の種類の行政手段
     - コロンビア特別区、プエルトリコ連邦、ベトナム、米領サモア、米領、北マリアナ諸島
-- 米国内務省からの資金提供およびサービスの対象となる連邦で認識される部下エンティティとして定義されている部下エンティティ。インドの州警察としての地位を生み出して、または、地方の地方または地方ネイティブ企業である地方の地方で、米国内務省から受け入れたものとして定義されます。
+- 米国内務省からの資金およびサービスの対象となる、連邦で認識される部下エンティティとして定義される部下エンティティ。インドの州の部下としての地位を生かしたり、地方の地方または地方ネイティブ企業である地方で、米国内務省から資金やサービスを受けることができます。
 
 次の種類のデータを保持し、記載されている証明を提供できる政府機関以外の組織は、Microsoft Government Cloud 検証プロセスの対象となります。
 
@@ -99,7 +99,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 - [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government で利用できる販売チャネル
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government で利用できる販売チャネルは何ですか?
 
 次の表に、各セグメントのニーズに対応できるオプションを示します。<br><br> 
 
@@ -151,10 +151,10 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 - ノベガ
 - Planet Technologies, Inc.
 - Quiet Professionals,LLC
-- 赤いリバー
+- レッド リバー
 - SAIC
 - Smart最も近い
-- 7 つ前のサービス
+- インドル 7
 - TechTrend, Inc.
 - Vexcel
 
