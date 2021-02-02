@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online を含むサブスクリプションの機能比較をお探しの場合 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 7b43af4d2938eea638670f15d807cef53d963d1e
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 43ee44473f69fd2d5183be8b481a58329d0bf23d
+ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780021"
+ms.lasthandoff: 02/01/2021
+ms.locfileid: "50069262"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -66,9 +66,9 @@ Exchange Online サブスクリプション プランで使用可能なストレ
   
 ## <a name="feature-availability"></a>機能の可用性
 
-現在、組織が Office 365 Small Business、Office 365 Small Business Premium、または Office 365 Midsize Business のサブスクリプションを持っている場合は、Microsoft 365 管理センターのメッセージ センターにアクセスするか、新しい Microsoft 365 Apps プランがユーザーに与える影響の詳細についてプロバイダーに問い合わせください。 新しい Microsoft 365 Apps プラン ファミリの詳細については、中小企業向けの新しいプラン [を参照してください](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
+現在、組織が Office 365 Small Business、Office 365 Small Business Premium、または Office 365 Midsize Business のサブスクリプションを持っている場合は、Microsoft 365 管理センターのメッセージ センターにアクセスするか、新しい Microsoft 365 Apps プランがユーザーに与える影響の詳細についてプロバイダーにお問い合わせください。 新しい Microsoft 365 Apps プラン ファミリの詳細については、中小企業向けの新しいプラン [を参照してください](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
 
-Microsoft 365 Business Premium の機能の可用性については [、Microsoft 365 Business Premium](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)サービスの説明を参照してください。<br/><br/>
+Microsoft 365 Business Premium の機能の可用性については [、Microsoft 365 Business Premium サービスの説明を参照してください](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)。<br/><br/>
   
 | 機能 | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium の機能の可用性については [、Microsof
 |Customize anti-malware policies|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - 管理者による管理|はい|はい|はい|はい|はい|はい|はい|はい <sup>7</sup>|
 |検疫 - エンドユーザーによる自己管理|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
-|Microsoft Defender for Office 365|いいえ|はい|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|Microsoft Defender for Office 365|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
 |**[メール フロー](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |送信メールのカスタム ルーティング|はい|はい|はい|はい|はい|はい|はい|はい|
 |Secure messaging with a trusted partner|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -192,7 +192,7 @@ Microsoft 365 Business Premium の機能の可用性については [、Microsof
 <sup>12</sup> POP がサポートされますが、IMAP はサポートされていません。 <br/>
 <sup>13</sup> Azure Information Protection Exchange Server 2013 オンプレミスのお客様がサポートされます。 Office 365 Message Encryption では、オンプレミスのお客様が Exchange Online 経由で電子メールをルーティングする必要があります。電子メール フィルター処理に Exchange Online Protection を使用するか、ハイブリッド メール フローを確立します。 <br/>
 <sup>14</sup> Exchange Server 2013 のお客様は、OWA およびデバイス用 OWA のドキュメント フィンガープリントとポリシー ヒントにアクセスするために SP1 をダウンロードしてインストールする必要があります。 <br/>
-<sup>2013</sup> 年 15 月の BitLocker ドライブ暗号化Exchange Serverサポートされますが、管理者は機能を有効にする必要があります。 <br/>
+<sup>15</sup> BitLocker ドライブ暗号化は 2013 Exchange Serverサポートされますが、管理者は機能を有効にする必要があります。 <br/>
 <sup>16</sup> Microsoft 365 Business Basic、Microsoft 365 Business Standard、および Office 365 Enterprise F3 は、オンプレミス サーバーでの使用に関するアクセス権を提供しません。 準拠するには、お客様は該当する CAL を購入するか、既に購入しているか、この種のアクセス権を提供する Enterprise SKU にアップグレードする必要があります。 <br/>
 POP IMAP アカウントでは<sup>17</sup>の接続済みアカウントがサポートされますが、Outlook.com &amp; (Hotmail)。 <br/>
 <sup>18</sup> Exchange Online PowerShell のコマンドレットを使用して既定のアドレス一覧をカスタマイズし、既定のグローバル アドレス一覧 (GAL) はサポートされていません。 <br/>
@@ -203,7 +203,7 @@ POP IMAP アカウントでは<sup>17</sup>の接続済みアカウントがサ�
 <sup>23</sup> お客様が運用する SPC からの直接接続によるサードパーティ PBX システムの Exchange Online UM サポートは、2019 年 4 月に終了します。 詳細については、Exchange Online ユニファイド メッセージングでのセッション ボーダー コントローラーのサポートの中止に関する Exchange チーム ブログ [を参照してください](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> F3 ユーザーは自分のメールボックスに代理人を追加できませんが、別のメールボックス (共有メールボックスを含む) にアクセスして、委任された操作を実行できます。<br/>
 <sup>2013</sup> 年および 2016 年 12 月には、Microsoft 365 Apps for enterprise Exchange ServerサブスクリプションExchange Server必要です。<br/>
-<sup>26</sup> EWS アプリケーションのサポートが EWS アプリケーションの偽装に適用されます。
+<sup>26</sup> EWS アプリケーションのサポートが EWS アプリケーション偽装に適用されます。
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online スタンドアロンの各プランで利用できる機能
 
@@ -313,26 +313,26 @@ POP IMAP アカウントでは<sup>17</sup>の接続済みアカウントがサ�
 |Outlook アドインと Outlook MAPI|はい|はい|は<sup>い 21</sup>|は<sup>い 21</sup>|いいえ|
 
 <sup>1</sup> トランスポート ルールは柔軟な条件で構成され、条件と例外を定義し、条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 <br/>
-<sup>2</sup> オンプレミス製品に対する Exchange ホスト型スパム フィルターの利点については、「Exchange [Online Protection over Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)」を参照してください。 <br/>
+<sup>2</sup> オンプレミス製品に対する Exchange ホスト型スパム フィルターの利点については、「Exchange [Online Protection Over Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)」を参照してください。 <br/>
 <sup>3</sup> つの SharePoint をオンプレミスの Exchange 組織に展開する必要があります。 <br/>
 <sup>4</sup> つの SharePoint Online がサブスクリプション プランに含まれている必要があります。 <br/>
 <sup>5</sup> クラウドベースのExchange Online Archivingを持つ各オンプレミス メールボックス ユーザーのサブスクリプションが必要です。 <br/>
 <sup>6</sup> 非Exchange Online Archiving機能を必要とするメールボックスごとに、1 つのサブスクリプションを個別に購入できます。 <br/>
-<sup>7 Exchange Server</sup> 2013 では、Microsoft マルウェア対策エンジンのみを使用します。 Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 <br/>
+<sup>7 Exchange Server</sup> 2013 では、Microsoft マルウェア対策エンジンのみを使用しています。 Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 <br/>
 <sup>8</sup> Exchange 管理センター (EAC) 管理インターフェイスへの直接アクセスによってのみアクセス可能。 <br/>
 <sup>9</sup> IMAP はサポートされていません。 <br/>
 <sup>10</sup> For Exchange 2013 or later, DLP requires an Exchange Enterprise Client Access License (CAL). CALs とサーバー ライセンスの詳細については、Exchange ライセンスに関する [FAQ を参照してください](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。 <br/>
 <sup>11</sup> Azure Information Protection は含まれていませんが、個別のアドオンとして購入できます。また、サポートされる Information Rights Management (IRM) 機能を有効にできます。 一部の Azure Information Protection 機能には、Microsoft 365 Apps for enterprise のサブスクリプションが必要です。Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise E1、Office 365 Education、または Office 365 Enterprise F3 には含まれていません。 Office 365 Message Encryption は Azure Information Protection に依存します。 <br/>
-<sup>12</sup> 台の Windows Server AD RMS は、サポートされている IRM 機能を有効にするには、別途購入して管理する必要があるオンプレミス サーバーです。 <br/>
-<sup>13</sup> Azure Information Protection を購入した Exchange Server 2013 以降を実行しているお客様に対してサポートされます。 Office 365 Message Encryption では、オンプレミスのお客様が Exchange Online 経由で電子メールをルーティングする必要があります。電子メール フィルター処理に Exchange Online Protection を使用するか、ハイブリッド メール フローを確立します。 <br/>
+<sup>12</sup> 台の Windows Server AD RMS は、サポートされる IRM 機能を有効にするには、別途購入して管理する必要があるオンプレミスサーバーです。 <br/>
+<sup>13</sup> Azure Information Protection を購入した Exchange Server 2013 以降を実行しているお客様がサポートされます。 Office 365 Message Encryption では、オンプレミスのお客様が Exchange Online 経由で電子メールをルーティングする必要があります。電子メール フィルター処理に Exchange Online Protection を使用するか、ハイブリッド メール フローを確立します。 <br/>
 <sup>14</sup> Exchange Server 2013 以降を実行しているお客様は、OWA およびデバイス用 OWA のドキュメント フィンガープリントとポリシー ヒントにアクセスするには、最新の累積的な更新プログラム (CU) または前の CU をダウンロードしてインストールする必要があります。 <br/>
-<sup>15 2013</sup> 以降をExchange Serverのお客様が利用できます。 <br/>
+<sup>15</sup> 2013 以降をExchange Serverのお客様が利用できます。 <br/>
 <sup>16</sup> BitLocker ドライブ暗号化は 2013 年 10 月 2013 Exchange Serverサポートされますが、管理者は機能を有効にする必要があります。 <br/>
 <sup>17</sup> Exchange Online プラン 1 には、メールボックス [とアーカイブのサイズ制限があります](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)。 Exchange Online Archiving Exchange Online アドオンの場合、無制限のクラウドベースのアーカイブと [イン Place Hold が追加されます](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)。 <br/>
 <sup>18</sup> Exchange Online Kiosk OWA 経由でのみアクセスまたは共有できます。 <br/>
 POP IMAP アカウントでは<sup>19</sup>の接続済みアカウントがサポートされますが、Outlook.com &amp; (Hotmail)。 <br/>
 <sup>20</sup> Exchange Online PowerShell のコマンドレットを使用して既定のアドレス一覧をカスタマイズし、既定のグローバル アドレス一覧 (GAL) はサポートされていません。 <br/>
-<sup>21</sup> 一部のサード パーティ製 Web パーツとアドインは使用できない場合があります。 <br/>
+<sup>21</sup> 一部のサードパーティの Web パーツとアドインは使用できない場合があります。 <br/>
 <sup>22</sup> 電子情報開示の場合は、オンプレミスとクラウドのクエリを個別に実行する必要があります。 <br/>
 <sup>23</sup> Exchange Online Kioskは、オンプレミス サーバーでの使用に関するアクセス権を提供しません。 準拠するには、お客様は該当する CAL を購入するか、既に購入しているか、この種のアクセス権を提供する Enterprise SKU にアップグレードする必要があります。 <br/>
 <sup>機能が制限された 24</sup> の Microsoft 365 グループを利用できます。<br/>
