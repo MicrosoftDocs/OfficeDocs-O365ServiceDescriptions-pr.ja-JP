@@ -7,24 +7,24 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 の SharePoint Syntex では、高度な人工知能 (AI) と機械学習を使用して、人間の専門知識を活用し、コンテンツ処理を自動化し、コンテンツを知識に変換します。
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072445"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084730"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex サービスの説明 
 
 Microsoft 365 の SharePoint Syntex では、高度な人工知能 (AI) と機械学習を使用して、人間の専門知識を活用し、コンテンツ処理を自動化し、コンテンツを知識に変換します。
 
-Syntex は SharePoint 上に構築され、高ボリューム のコンテンツ処理、プロセス自動化のためのメタデータの抽出、セキュリティとコンプライアンスの向上のためのプレミアム機能を提供します。 また、Microsoft Graph コネクタへのリンクを含む Microsoft Search の [インテリジェンスを基に構築されています](/microsoftsearch/connectors-overview)。
+Syntex は SharePoint 上に構築され、高ボリューム のコンテンツ処理、プロセス自動化のためのメタデータの抽出、セキュリティとコンプライアンスの向上のためのプレミアム機能を提供します。 また、Microsoft Graph コネクタへのリンクを含む Microsoft Search の [インテリジェンス上に構築されています](/microsoftsearch/connectors-overview)。
 
 詳細な概要と追加の製品の詳細については [、SharePoint Syntex 製品ページを参照してください](https://aka.ms/sharepointsyntex)。
 
 ## <a name="available-plans"></a>使用できるプラン
 
-Syntex は、組織のニーズに最適な複数のサブスクリプション プランで利用できます。 各プランは、同じ機能セットを提供します。
+Syntex は、組織のニーズに最適な複数のサブスクリプション プランで利用できます。 各プランには、同じ機能セットが用意されています。
 
 Syntex ライセンスで Syntex を使用Officeするには、ユーザーは 365、Microsoft 365、または SharePoint Online の有効なライセンスを持っている必要があります。
 
@@ -53,12 +53,12 @@ Microsoft PowerApps AI Builder フォーム処理では、Syntex の 300 以上�
 
 | 機能 | 小規模ビジネス プラン | エンタープライズ プラン | 教育プラン |
 |--|--|--|--|
-| [Syntex コンテンツ センター](sharepoint-syntex-features.md#syntex-content-center) | はい | はい | はい |
-| [オブジェクト認識](sharepoint-syntex-features.md#object-recognition) | はい | はい | はい |
-| [ドキュメントの理解](sharepoint-syntex-features.md#document-understanding) | はい | はい | はい |
-| [フォーム処理](sharepoint-syntex-features.md#form-processing) | はい | はい | はい |
-| [Microsoft Graph コンテンツ コネクタ](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | はい | はい | はい |
-| [高度な分類サービス](sharepoint-syntex-features.md#advanced-taxonomy-services) | はい | はい | はい |
+| [Syntex コンテンツ センター](sharepoint-syntex-features.md#syntex-content-center) | はい | はい | 必要 |
+| [オブジェクト認識](sharepoint-syntex-features.md#object-recognition) | はい | はい | 必要 |
+| [ドキュメントの理解](sharepoint-syntex-features.md#document-understanding) | はい | はい | 必要 |
+| [フォーム処理](sharepoint-syntex-features.md#form-processing) | はい | はい | 必要 |
+| [Microsoft Graph コンテンツ コネクタ](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | はい | はい | 必要 |
+| [高度な分類サービス](sharepoint-syntex-features.md#advanced-taxonomy-services) | はい | はい | 必要 |
 
 ## <a name="learn-more"></a>詳細情報
 
