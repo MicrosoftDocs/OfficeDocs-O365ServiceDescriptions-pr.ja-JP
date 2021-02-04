@@ -1,7 +1,7 @@
 
 # [Microsoft 365 および Office 365 サービスの説明](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365 および Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md)
-### [Office 365 プランのオプション](office-365-platform-service-description/office-365-plan-options.md)
+### [Microsoft 365 および Office 365 のプラン オプション](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 のシステム要件](office-365-platform-service-description/office-365-system-requirements.md)
 ### [セキュリティ/コンプライアンス センター](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Microsoft 365 スイート機能](office-365-platform-service-description/office-365-suite-features.md)
@@ -69,6 +69,8 @@
 ## [OneDrive サービスの説明](onedrive-for-business-service-description.md)
 ## [SharePoint サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint の制限](sharepoint-online-service-description/sharepoint-online-limits.md)
+## [SharePoint サービスの説明](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
+### [SharePoint Syntex の機能](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Skype for Business Online サービスの説明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online の機能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online の制限](skype-for-business-online-service-description/skype-for-business-online-limits.md)
