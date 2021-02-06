@@ -10,65 +10,66 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 1964e342d53589d2b180b5e5dbe6dddc9eaedd00
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: このトピックに記載されている機能は、多数のデバイスと複数の Office 365 サービスで安全に共同作業および通信を行うのに役立つ Web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
+ms.openlocfilehash: 17c6c5eca7023bc0fc1e43671841f7a6c716629e
+ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293813"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50122187"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 スイート機能
 
-このトピックに記載されている機能は、多くのデバイスと複数の Office 365 サービス間で安全に共同作業し、通信するのに役立つ web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
+このトピックに記載されている機能は、多数のデバイスと複数の Office 365 サービスで安全に共同作業および通信を行うのに役立つ Web ベースのツールのコレクションです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
   
-## <a name="microsoft-bookings"></a>Microsoft の予約
+## <a name="delve"></a>Delve
 
-Microsoft の予約は、お客様にサービスを提供する予定の企業向けのオンラインおよびモバイルアプリです。 このような企業の例には、ヘア salons、歯科事務所、spas、法律事務所、金融サービスプロバイダー、コンサルタント、医療専門スタッフ、教育機関、および自動ショップがあります。 Microsoft の予約は、Microsoft 365 for business のサブスクリプションを所有する米国およびカナダのお客様が利用できます。
+Delve を使用すると、ユーザーはパーソナライズされた洞察に基づいて、Microsoft 365 全体のコンテンツを検索して検出できます。 Delve は、Office Graph を利用する最初のエクスペリエンスとなります。 Delve の詳細については、「Delve とは」 [を参照してください](https://go.microsoft.com/fwlink/?LinkId=511463)。
+
+## <a name="microsoft-bookings"></a>Microsoft Bookings
+
+Microsoft Bookings は、予約ベースで顧客にサービスを提供するビジネス向けオンラインおよびモバイル アプリです。 このような企業の例としては、医療施設、病院、spa、金融機関、金融サービス プロバイダー、コンサルタント、医療施設、教育機関、自動車店があります。 Microsoft Bookings は、一ビジネス向け Microsoft 365 サブスクリプションを持っている米国およびカナダのお客様が利用できます。
   
-Microsoft 予約の詳細については、「 [Microsoft 予約でビジネス予定表をオンラインで公開](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)する」を参照してください。
+Microsoft Bookings の詳細については、「Microsoft Bookings を使用してオンラインでビジネス カレンダーを [公開する」を参照してください](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)。
 
-## <a name="microsoft-briefing-email"></a>Microsoft ブリーフィング電子メール
+## <a name="microsoft-briefing-email"></a>Microsoft の説明メール
 
-ブリーフィングメールは、ユーザーが次のことを支援することによって、各日を最大限に活用するのに役立ちます。
+ユーザーは、次の支援を受けて、1 日を最も多く利用できます。
 
-* 関連するタスクまたは関連するドキュメントを表示することにより、会議を準備します。
-* 保留中の可能性がある電子メールから特定されたタスクを管理します。
-* 予定表に時間を記帳し、通知をミュートすることによって、フォーカス時間を最大限にします。
+* 関連するタスクまたは関連するドキュメントを表示して、会議を準備します。
+* 保留中の可能性があるメールから識別されたタスクを管理します。
+* 予定表の予約時間とミュート通知により、フォーカス時間を最も有効にします。
 
-ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「 [ブリーフィングメールの概要](https://docs.microsoft.com/Briefing/be-overview)」を参照してください。
+Exchange Online のすべてのユーザーに対して、説明用メールが自動的に提供されます。 詳細については、説明のメールの [概要を参照してください](https://docs.microsoft.com/Briefing/be-overview)。
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft Power オートメーションを使用すると、アプリケーション間でワークフローを自動化することができます。 Flow を使用して、電子メールと IM のアラートを接続したり、アプリケーション間でファイルを同期したり、1 つのサービスから別のサービスにファイルをコピーしたり、1 つのアプリから収集したデータを別のアプリに格納したりできます。 開始するためのテンプレートを利用できます。 フロー機能とその使用方法の詳細については、「 [パワー自動化 web サイト](https://preview.flow.microsoft.com/)」を参照してください。
+Microsoft Power Automate を使用すると、アプリケーション間でワークフローを自動化できます。 Flow を使用して、電子メールと IM のアラートを接続したり、アプリケーション間でファイルを同期したり、1 つのサービスから別のサービスにファイルをコピーしたり、1 つのアプリから収集したデータを別のアプリに格納したりできます。 開始するためのテンプレートを利用できます。 Flow の機能と、その使い方について詳しくは、Power Automate Web [サイトをご覧ください](https://preview.flow.microsoft.com/)。
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms では、カスタムのクイズ、調査、アンケート、登録などをすばやく簡単に作成することができます。 クイズやフォームを作成する場合、どの Web ブラウザー (モバイル デバイス上でも) を使用している人にも回答してもらうように招待できます。 回答が提出されたら、組み込みの分析機能を使用して応答を評価することができます。 クイズ回答などのフォーム データは、さらに分析したりランク付けしたりするために Excel にエクスポートできます。 詳細については、「[Microsoft Forms とは](https://support.office.com/forms)」を参照してください。
+Microsoft Forms を使用すると、カスタムクイズ、アンケート、アンケート、登録などを迅速かつ簡単に作成できます。 クイズやフォームを作成する場合、どの Web ブラウザー (モバイル デバイス上でも) を使用している人にも回答してもらうように招待できます。 回答が提出されたら、組み込みの分析機能を使用して応答を評価することができます。 クイズ回答などのフォーム データは、さらに分析したりランク付けしたりするために Excel にエクスポートできます。 詳細については、「[Microsoft Forms とは](https://support.office.com/forms)」を参照してください。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
 Microsoft Graph API を使用すると、豊富なリソース、リレーションシップ、インテリジェンスに接続するアプリを、すべて 1 つのエンドポイントを介して迅速に構築できます: https://graph.microsoft.com。たとえば、組織のためにデータを取得するカスタムのダッシュボード、ワークフロー、アプリを構築することができます。詳細については、「[Microsoft Graph の概要](https://go.microsoft.com/fwlink/?linkid=849595)」を参照してください。
   
-## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
+## <a name="microsoft-lists"></a>Microsoft リスト
 
-MyAnalytics では、個人の生産性における主な要因として、お客様の時間とその支出をどのように使用しているかについて洞察を提供しています。 MyAnalytics は、日常の作業パターンを調べて、注意してメリットが得られる領域を検出し、時間をより慎重に使用できるようにするツールを提供します。 詳細については、「 [Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics) 」および「 [microsoft myanalytics for admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)」を参照してください。
-  
+Microsoft Lists は、情報の追跡と作業の整理に役立つ Microsoft 365 アプリです。 リストはシンプルで、スマートで柔軟なので、チームにとって最も重要な事柄を見つめ合う必要があります。 カスタマイズ可能なビューとスマート ルールを使用して、問題、資産、ルーチン、連絡先、インベントリを追跡し、全員に通知と同期を維持します。既製のテンプレートを使用すると、オンライン、新しいモバイル アプリ、または Microsoft Teams 内でリストをすばやく開始できます。 Microsoft 365 の一部として、エンタープライズ対応のセキュリティとコンプライアンスを利用できます。
+
+詳細については、以下を参照してください。
+
+* [パブリック **Microsoft Lists リソース センター**](https://aka.ms/MSLists)
+* [パブリック **Microsoft リスト導入センター**](https://aka.ms/ListsAdoption)
+
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
 Microsoft Planner とは、ユーザーが視覚的にチームワークを編成するためのツールです。チームは、新しい計画の作成、タスクの編成および割り当て、ファイルの共有、現在の作業に関するチャット、期限の設定、状態の更新を行うことができます。また、Microsoft Planner にはドキュメントを特定のタスクに関連付け、それをまとめて編集し、タスクに関連する会話を行う機能が備わっています。詳細については、「[Microsoft Planner の概要](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)」をご覧ください。Planner は、[Office 365 Germany](office-365-germany.md) においては現時点では利用できません。
   
-## <a name="microsoft-powerapps"></a>Microsoft PowerApps
+## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft PowerApps は、各デバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 PowerApps では、組み込み接続、または会社によって構築されたものを使用して、Microsoft 365 と Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなど、アプリをクラウドとオンプレミスサービスに接続できます。 メール アドレスを入力するだけで、同僚と PowerApps を簡単に共有できます。 詳細は、[PowerApps の Web サイト](https://powerapps.microsoft.com/)を参照してください。
-
-## <a name="microsoft-project-for-the-web"></a>Web 用 Microsoft Project
-
-Web 用 Project は、クラウドベースの作業およびプロジェクト管理のための最新の Microsoft オファーリングです。 Project for the web は、ほとんどのニーズと役割を満たすためのシンプルで強力な作業管理機能を提供します。 プロジェクト マネージャーとチーム メンバーは、Project for the web を使用して、あらゆる規模の作業を計画および管理できます。 詳細については、「 [Microsoft Project web サイト](https://aka.ms/MicrosoftProject)」を参照してください。
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Microsoft StaffHub は、スタッフとマネージャーが自分のモバイル デバイスを使用して、スケジュールを管理し、コミュニケーションを取ることを可能にするクラウドベースのアプリケーションです。 従業員は StaffHub を使用して休暇を申請したり、シフトを交代したり、他の従業員と連絡をとったりすることができます。 従業員はまた、お互いに直接に、あるいはチーム全体に対してメッセージを送信できます。 マネージャーは StaffHub を使用してメッセージを送信したり、スケジュールを作成したり、チームのニュースや会社のお知らせを送信したりすることができます。 StaffHub の詳細については、Microsoft [StaffHub web サイト](https://staffhub.office.com/) と [microsoft 365 チームブログ](https://go.microsoft.com/fwlink/?linkid=2143889)を参照してください。
+Microsoft Power Apps は、任意のデバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 Power Apps を使用すると、組み込みの接続や会社によって構築された接続を使用して、Microsoft 365 および Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなど、クラウドとオンプレミスのサービスにアプリを接続できます。 電子メール アドレスを入力するだけで、Power Apps を同僚と簡単に共有できます。 詳細については、Microsoft Power Apps の Web [サイトを参照してください](https://powerapps.microsoft.com/)。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -76,34 +77,54 @@ Microsoft Stream は、組織内のユーザーが動画を安全にアップロ
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway は、お客様と仕事仲間が対話的な web ベースのキャンバスを使用してアイデアを表現するのに役立つ、本格的なデジタル storytelling アプリです。 Microsoft Sway の組み込みのデザインエンジンを使用すると、豊富な書式設定や追加のトレーニングを必要とせずに、本格的で視覚的に説得力のあるレポートやプレゼンテーションを作成することができます。 また、結果を変更して、目的の外観を得ることもできます。 Microsoft Sway を使用すると、任意の画面で任意のブラウザーを使用して作成できます。また、リンクを送信するだけで同僚や顧客と共有できます。 Microsoft Sway では、アプリから離れずにあらゆる種類のコンテンツを検索して取得することができます。そのため、画像、テキスト、ビデオ、グラフをすぐにキャンバスにドラッグアンドドロップすることができます。 詳細については、「 [Sway](https://sway.com)」を参照してください。 Microsoft Sway は [Office 365 ドイツ](office-365-germany.md)ではまだ利用できません。
+Microsoft Sway は、対話型の Web ベースのキャンバスを使用してアイデアを表現するのに役立つ、ビジネス向けプロフェッショナルなデジタル ストーリーテリング アプリです。 Microsoft Sway の組み込みのデザイン エンジンを使用すると、広範な書式設定や追加のトレーニングを必要とせずに、プロフェッショナルで視覚的に魅力的なレポートやプレゼンテーションを作成できます。 また、結果を変更して、必要な外観を一意に設定できます。 Microsoft Sway を使用すると、任意の画面の任意のブラウザーで作成が最適に表示され、リンクを送信するだけで同僚や顧客と共有できます。 Microsoft Sway は、アプリを離れることなく、すべての種類のコンテンツを見つけてまとめるのを助けるので、画像、テキスト、ビデオ、グラフをキャンバスにドラッグ アンド ドロップできます。 詳細については [、「Sway」を参照してください](https://sway.com)。 Microsoft Sway is not yet available in [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for Enterprise
 
-Microsoft Teams は、チームメンバーがより多くのことを実現するのに役立つチャット中心のワークスペースです。 Microsoft Teams は、チームワークのハブとしての役割を果たし、チャット会話、コンテンツ、およびツールを1つのワークスペースに瞬時にアクセスできるようにします。 SharePoint と OneNote が組み込まれており、チーム メンバーは、アプリ内の Office ドキュメント上ですぐに作業できます。 チャットとは別に、Microsoft Teams もビデオ通話と会議をサポートしているため、必要に応じて、またはスケジュールされたときに Teams が live をミーティングできるようになります。 チーム メンバーは簡単に複数のチームと共同作業し、連絡先、チャット、ファイル間における検索をいつでも実行できます。 Microsoft Teams は、Windows、Mac、web、Android、iOS の各プラットフォームで動作します。 詳細については、「 [Microsoft teams サービスの説明](../teams-service-description.md) 」および「 [Microsoft Teams のオンラインヘルプ](https://go.microsoft.com/fwlink/?linkid=834413)」を参照してください。 現時点で、Teams は [Office 365 Germany](office-365-germany.md) では利用可能ではありません。
-  
-## <a name="office-delve"></a>Office Delve
+Microsoft 365 Apps for enterprise は、サブスクリプションとして利用できる、既に知っているデスクトップ アプリ (Word、PowerPoint、Excel、Outlook、Teams など) の常に最新のスイートです。 Microsoft 365 Apps for enterprise には [**、Excel**](https://go.microsoft.com/fwlink/p/?linkid=2109915)のアイデア [**、Word**](https://go.microsoft.com/fwlink/p/?linkid=2109916)の [](https://go.microsoft.com/fwlink/p/?linkid=2109917)リサーチ ツール、リアルタイム コラボレーション、チームワークのハブとしての Teams、高度なセキュリティ機能などの排他的なインテリジェント機能が含まれています。 ユーザー ベースのライセンスとして、最大 5 Office PC または Mac、5 つのタブレット、および 5 つのモバイル デバイスに展開できます。 1 TB の OneDrive クラウド ストレージを使用すると、どこからでもファイルにアクセスして共同作業を行うことができます。
 
-Office Delve を使用すると、ユーザーは、カスタマイズされた洞察に基づいて Microsoft 365 全体のコンテンツを検索して検出することができます。 Delve は、Office Graph を利用する最初のエクスペリエンスとなります。 Office Delve の詳細については、「[Office Delve とは](https://go.microsoft.com/fwlink/?LinkId=511463)」を参照してください。 
-  
+詳細については、以下を参照してください。
+
+* [概要ページ](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
+* [製品ページ (購入)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
+
 ## <a name="microsoft-365-groups"></a>Microsoft 365 グループ
 
-Microsoft 365 のグループでは、より多くの作業を行うために必要な仕事仲間、情報、およびアプリケーションがユーザーによって接続されます。 グループは、既定では、発見可能性や共有生を促進するためにオープンなものとなっていますが、機密性の高いコンテンツについてはプライベート グループを作ることもできます。 グループの詳細については、「 [Microsoft 365 のグループ](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)」を参照してください。 グループの制限の詳細については、「 [Microsoft 365 グループについて](https://go.microsoft.com/fwlink/?linkid=846714)」の「グループを管理する方法」を参照してください。
-  
+Microsoft 365 のグループは、より多くのことを一緒に行う必要がある仕事仲間、情報、アプリケーションとユーザーを結び付けられます。 グループは、既定では、発見可能性や共有生を促進するためにオープンなものとなっていますが、機密性の高いコンテンツについてはプライベート グループを作ることもできます。 グループの詳細については [、「Microsoft 365 のグループ」を参照してください](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。 グループの制限の詳細については [、「Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714)グループについて」の「グループを管理する方法」を参照してください。
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリで、Microsoft 365 に独自の機能を提供し、契約社員、ベンダー、パートナー、サプライヤー、顧客、市民など、組織のディレクトリの内部と外部の両方のユーザーを接続および関与する機能を備えています。大規模で柔軟なグループの種類を使用[します。](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Kaizala のオープン ディレクトリ モデルを使用すると、電話番号ベースの ID を使用して簡単にオンボーディングを行い、メッセージングと作業管理のためのシンプルなユーザー エクスペリエンスを提供できます。 Kaizala モバイル アプリを使用すると、ユーザーは画像、ドキュメント、ビデオ、オーディオ ファイルなどのインスタント メッセージや添付ファイルを送信できるだけでなく、アンケート、投票、ジョブ割り当て、お知らせ、トレーニングなどのアクション カードを使用できます。 [Kaizala は](https://products.office.com/en/business/microsoft-kaizala) iPhone と Android で動作します。 詳細については [、Kaizala Web サイトにアクセスしてください](https://products.office.com/en/business/microsoft-kaizala)。
+
 ## <a name="office-365-video"></a>Office 365 ビデオ
 
-Office 365 Video は、安全な全社的な移動先であり、Microsoft Azure メディアサービスによって提供されるデバイスでビデオをアップロード、共有、および検出することができます。 Office 365 のビデオは、閲覧者が参加および通知を受けたままにしたり、アイデアを幅広く伝達したり、組織を連携させたりするのに役立ちます。 詳細については、「 [Office 365 Video の概要](https://go.microsoft.com/fwlink/?linkid=2144056)」を参照してください。
-  
+Office 365 ビデオは、Microsoft Azure Media Services を利用して、デバイス間でビデオをアップロード、共有、および検出できる、会社全体にわたる安全な目的地です。 Office 365 ビデオは、閲覧者の関与と情報提供を維持し、アイデアを広く伝え、組織が一員になじむのに役立ちます。 詳細については [、「365 ビデオ Office紹介」を参照してください](https://go.microsoft.com/fwlink/?linkid=2144056)。
+
 ## <a name="onenote-class-notebook"></a>OneNote Class Notebook
 
 Class Notebook は OneNote の一部となっていて、Office 365 Education および Office 365 E5 Education で利用できます。各ノートブックには、教師たちがコースの内容を共有できるコンテンツ ライブラリ、教師と学生が共同で作業できるコラボレーション空間、そして生徒ごとのプライベート ノートブックが含まれています。Class Notebook を作成した後、教師と学生はどのデバイスからでも、OneNote アプリを使ってその Class Notebook にアクセスできます。
 
-## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+## <a name="to-do"></a>To Do
 
-Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリであり、Microsoft 365 に固有の機能を提供します。これには、契約者、ベンダー、パートナー、サプライヤー、顧客、および市民を含む、組織のディレクトリの内部と外部の両方のユーザーに接続して関与すること [ができます](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala のオープンディレクトリモデルを使用すると、簡単にオンボードするための電話番号ベースの id と、メッセージングおよび作業管理のための簡単なユーザー操作を行うことができます。 Kaizala モバイルアプリを使用すると、ユーザーは、インスタントメッセージと添付ファイル (画像、ドキュメント、ビデオ、オーディオファイルなど) を送信したり、アンケート、投票、ジョブ割り当て、アナウンス、トレーニングなどのアクションカードを使用したりできます。 [Kaizala](https://products.office.com/en/business/microsoft-kaizala) は、IPhone と Android で機能します。 詳細については、 [Kaizala web サイト](https://products.office.com/en/business/microsoft-kaizala)を参照してください。
-  
+Microsoft To Do は、お客様が任意のデバイスから 1 日を計画し、仕事と生活の間でタスクを管理できるタスク管理アプリケーションです。
+
+Microsoft To Do を使用すると、お客様は次の操作を実行できます。
+
+* Outlook、Teams、Planner など間でタスクを同期する
+* 自分の日に焦点を当て、提案されたタスクを含むパーソナライズされた毎日のプランナー
+* 任意のデバイスまたはプラットフォーム上の任意の場所でリストを取得する
+* リストを共有し、仕事仲間、友人、家族とタスクを割り当てる
+
+詳細については [、「To Do」を参照してください。](https://to-do.microsoft.com/)
+
+## <a name="whiteboard"></a>Whiteboard
+
+Microsoft Whiteboard は、ユーザー、コンテンツ、アイデアが集うフリーフォームのデジタル キャンバスです。 Whiteboard を使用してチームと共同作業を行い、チームが同じ場所にあるか複数の場所にあるかなど、多くのアクティビティを実行できます。 チーム メンバーは、自分のデバイスを使用して共同作業を行えます。
+
+Microsoft Whiteboard の詳細については [、「Digital Online Whiteboard App - Microsoft Whiteboard](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)」を参照してください。
+
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+複数のプランで利用できる機能を表示するには [、Microsoft 365 および Office 365 プラットフォーム](office-365-platform-service-description.md)サービスの説明を参照してください。
   
 
