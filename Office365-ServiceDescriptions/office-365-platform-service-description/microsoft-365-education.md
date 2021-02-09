@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 と Office 365 Education プランの違いについて説明します。
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069272"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50146004"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -72,7 +72,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |コンテンツ検索|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |コア電子情報開示 (保留とエクスポートを含む)|いいえ|はい|はい|はい|はい|はい|はい|はい|はい|
 |詳細な電子情報開示|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
-|電子メールとファイルのデータ損失防止 (DLP)|はい|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
+|電子メールとファイルのデータ損失防止 (DLP)|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |エンドポイント DLP|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |Communications DLP (Teams チャット)|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |通信コンプライアンス|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
