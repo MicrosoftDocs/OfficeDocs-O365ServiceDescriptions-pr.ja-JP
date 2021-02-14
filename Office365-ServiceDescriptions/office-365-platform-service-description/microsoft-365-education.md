@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 と Office 365 Education プランの違いについて説明します。
-ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50146004"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241043"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 には、組織のニーズに最適なさまざまなプランが用意されています。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
   
-Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。 次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。 ビジネスプランとエンタープライズ プラン全体で機能を比較するには [、「Microsoft 365 for business プラン](https://go.microsoft.com/fwlink/?linkid=799177)を比較する」を参照するか、機能の詳細な一覧については [、Microsoft 365 および Office 365](../office-365-service-descriptions-technet-library.md)サービスの説明の下にある関連するサービスの説明を参照してください。 サポート記事と情報を検索するには、ヘルプ トレーニングOffice [参照 &amp; してください](https://support.office.com/)。
+Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。 次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。 ビジネス プランとエンタープライズ プランの機能を比較するには、「ビジネス 向け [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)プランを比較する」を参照するか、機能の詳細な一覧については [、Microsoft 365 および Office 365](../office-365-service-descriptions-technet-library.md)サービスの説明の下にある関連するサービスの説明を参照してください。 サポート記事と情報を検索するには、ヘルプ トレーニングOffice [参照 &amp; してください](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>サービスと機能
 
@@ -51,7 +51,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |コード ビルダーを備えた Minecraft Education Edition|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|はい|はい|
 |テスト アプリ|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |学校用 PC のセットアップ アプリ|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
-|**音声ビデオと会議**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A56**|**Office 365 A3 学生用特典**|**Office 365 A5 学生用特典**|**Microsoft 365 Education A3 Student Use Benefit**|**Microsoft 365 Education A5 Student Use Benefit**|
+|**音声ビデオと会議**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 学生用特典**|**Office 365 A5 学生用特典**|**Microsoft 365 Education A3 Student Use Benefit**|**Microsoft 365 Education A5 Student Use Benefit**|
 |Skype 会議メディア|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Microsoft の予約|いいえ|はい|はい|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |電話会議|いいえ|いいえ|はい|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
@@ -109,7 +109,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 > <sup>2 には</sup> Exchange Online プラン 2 が含まれます。 <br/>
 > <sup>3 SharePoint</sup> Online プラン 1 と補足機能が含まれます。 <br/>
 > <sup>4 SharePoint</sup> Online プラン 2 が含まれます。 <br/>
-> <sup>5</sup> Microsoft Project は Office 365 に含まれていませんが、個別に取得できます。 Project Online Essentials は無料です。 学生または教育機関の場合、Project プラン 3 およびプラン 5 を教育機関向け価格で購入できる場合があります。 <br/>
+> <sup>5</sup> Microsoft Project は Office 365 に含まれていませんが、個別に取得できます。 Project Online Essentials は無料です。 学生または教育機関の場合は、Project プラン 3 およびプラン 5 を教育機関向け価格で購入できます。 <br/>
 > <sup>6 Intune</sup> が含まれます。 <br/>
 > Exchange、SharePoint、Skype for Business には<sup>7</sup>つのサーバーと CA が含まれています。 <br/>
 > <sup>8</sup> ECAL または Core CAL。購入した A3 のバージョンに応じて、A5 では ECAL 権限が含まれます。 <br/>
