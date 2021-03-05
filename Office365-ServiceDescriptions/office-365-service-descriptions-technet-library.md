@@ -12,28 +12,28 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザー生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+description: Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に関する組織のニーズを満たすために設計されたクラウドベースのサービスです。
+ms.openlocfilehash: 174d30152a56e799e053d117808e566a08346ffb
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871160"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460296"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 および Office 365 サービスの説明 
 
-Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザー生産性に対する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
+Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に関する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
-このライブラリの記事では、Microsoft 365 および Office 365 で利用できるサービスと機能の詳細について説明します。 Microsoft Dynamics 365 ビジネス アプリケーションの詳細については [、Microsoft Dynamics 365 のドキュメントを参照してください](https://docs.microsoft.com/dynamics365/)。
+このライブラリの記事では、Microsoft 365 および Office 365 で利用できるサービスと機能の詳細Officeします。 Microsoft Dynamics 365 ビジネス アプリケーションの詳細については [、Microsoft Dynamics 365 のドキュメントを参照してください](https://docs.microsoft.com/dynamics365/)。
 
-プラン全体で機能を比較するには、企業をサポート [する強力](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) なツール、または以下の一覧にある関連するサービスの説明を参照してください。 
+プラン間で機能を比較するには、 [以下のリスト](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) の「エンタープライズをサポートするための強力なツール」または関連するサービスの説明を参照してください。 
   
-サポート記事と情報については [、「Office Help & Training](https://support.office.com/), [Office documentation for admins and IT professionals,](https://docs.microsoft.com/office/)and [Microsoft 365 help center for admins and IT pros](https://docs.microsoft.com/microsoft-365/).
+サポート記事と情報については [、「Office ヘルプ & トレーニング](https://support.office.com/)」、管理者と [IT](https://docs.microsoft.com/office/)担当者向け Office ドキュメント、および管理者と IT 担当者向け [Microsoft 365](https://docs.microsoft.com/microsoft-365/)ヘルプ センターを参照してください。
   
 > [!NOTE]
-> サービスの説明の比較スプレッドシートをお探しの場合は、廃止されました。 各サービスの説明ページの製品機能の可用性テーブルが更新され、ニーズに合った Office 365 のバージョンを選択するのに役立ちます。 
+> サービス説明比較スプレッドシートを探している場合は、廃止されました。 各サービスの説明ページの製品機能の可用性テーブルが更新され、ニーズに合ったバージョンの Office 365 を選ぶのに役立ちます。 
   
-Microsoft では、対象となるプランの対象となるOffice 365 向け FastTrack Center 特典を提供しています。 この特典により、Microsoft のスペシャリストとリモートで作業し、Office 365 環境を使用できる状態にできます。 詳細については、「[Office 365 用 FastTrack Center 特典](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
+Microsoft は、対象となるプランの対象サービスOffice 365 に対して FastTrack センター特典を提供しています。 この利点により、Microsoft のスペシャリストとリモートで作業して、365 環境Officeすぐに使用できます。 詳細については、「[Office 365 用 FastTrack Center 特典](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
   
 まず、次のサービスの説明を参照してください。
   
@@ -58,8 +58,6 @@ Microsoft では、対象となるプランの対象となるOffice 365 向け F
 - [SharePoint サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [Skype for Business Online サービスの説明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
-
-- [ブリーフィング メール サービスの説明](briefing-service-description.md)
 
 - [Workplace Analytics サービスの説明](workplace-analytics-service-description.md)
 
@@ -87,5 +85,5 @@ Microsoft では、対象となるプランの対象となるOffice 365 向け F
   
 ## <a name="disclaimer"></a>免責事項
 
-&copy; 2018 Microsoft Corporation. All rights reserved。 Microsoft、Office 365、およびその他の製品およびサービス名は、米国およびその他の国における登録商標または商標である場合があります。 ここで提供される情報は情報提供のみを目的とし、このドキュメントの最新の公開日または改訂日時点での Microsoft Corporation の現在のビューを表します。 サービス契約を意図したのではなく、Microsoft またはお客様を、ここに記載されている機能、または責任にコミットする意図はありません。 マイクロソフトは、このドキュメントの情報に関して、明示、黙示、または法的な保証を一切行いません。
+&copy; 2018 Microsoft Corporation. All rights reserved。 Microsoft、Office 365、およびその他の製品およびサービス名は、米国およびその他の国における登録商標または商標である場合があります。 ここで提供される情報は、情報提供のみを目的とし、このドキュメントの最新の公開日または改訂日に関する Microsoft Corporation の現在のビューを表します。 サービス契約を意図したものではなく、Microsoft またはお客様を、ここに記載されている機能、機能、または責任にコミットしないものとします。 MICROSOFT は、このドキュメントの情報に関して、明示的、黙示的、または法的な保証を行いません。
  
