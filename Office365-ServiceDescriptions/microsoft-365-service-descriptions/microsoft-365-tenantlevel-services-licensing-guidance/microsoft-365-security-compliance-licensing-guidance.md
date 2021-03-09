@@ -2,7 +2,6 @@
 title: セキュリティとコンプライアンスに関する Microsoft 365 &ガイダンス
 ms.author: office365servicedesc
 author: pamelaar
-manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、ライセンスのないアクセスによるサービスの中断を回避するために、Microsoft 365 コンプライアンスのライセンス ガイダンスを提供します。
-ms.openlocfilehash: f21b4f5651a79e4cc890090406694ffea4d03e2f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 68bbb37734f1fc708e0b05ef3b152cf878757b48
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460256"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572723"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>セキュリティコンプライアンスに関する Microsoft 365 ライセンス &amp; ガイダンス
 
@@ -248,7 +247,7 @@ Microsoft 365 E3/A3/G3 および Office 365 E3/A3/G3 を使用すると、ユー
 
 この機能は、Microsoft 365 コンプライアンス ポータル内でソリューションを積極的に使用するユーザーの範囲を指定する必要があります。
 
-## <a name="information-protection"></a>情報の保護
+## <a name="information-protection"></a>情報保護
 
 情報保護は、組織が機密性の高いドキュメントや電子メールを検出、分類、ラベル付け、保護するのに役立ちます。 管理者は、ラベルを自動的に適用するルールと条件を定義したり、ユーザーが手動でラベルを適用したり、2 つの組み合わせを使用したりできます。ユーザーにはラベルの適用に関する推奨事項が表示されます。
 

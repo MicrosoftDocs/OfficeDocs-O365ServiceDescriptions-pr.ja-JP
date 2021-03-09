@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: 4949989b9c5f7b46e53e8958e88d466f58dd216f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460266"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572713"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 購入方法
 
@@ -112,7 +112,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
 
-1. GCC または[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/)のフォームを入力して提出し、組織の適格性を検証します。 [](https://azure.microsoft.com/global-infrastructure/government/request/)
+1. GCC または[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)のフォームを入力して提出し、組織の適格性を検証します。 [](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)
 2. Microsoft アカウント チームまたは認定パートナーと一緒に作業し、注文を行います。 お客様は、Microsoft 365 for US Government ライセンスを購入できるのは、一部のパートナーを通じてのみです。
 
 **LSP GCC と GCC High (+500 シート)**

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 21Vianet が運用する 365 は、中国のセキュリティで保護され、信頼性が高く、拡張性の高いクラウド サービスのニーズに対応するように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460306"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572743"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -131,7 +131,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 |カスタム ドメイン名を使用した複数の SharePoint Online パブリック Web サイトをホストする<sup>5</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |カスタム ドメインに必要なドメイン所有権の検証|はい|はい|はい|はい|はい|はい|はい|
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|**[サービス正常性および継続性](service-health-and-continuity.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
+|**[サービスの正常性および継続性](service-health-and-continuity.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 管理センター ダッシュボードで利用できる個々のアラートの状態|はい|はい|はい|はい|はい|はい|はい|
 |[ **サービスの正常性**] RSS フィード|はい|はい|はい|はい|はい|はい|はい|
@@ -163,7 +163,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 |**[サービスの更新情報](service-updates.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
 |すべてのカスタマーに提供される定期的な更新プログラム|はい|はい|はい|はい|はい|はい|はい|
 |アクションが必要なときにメッセージ センターに送信される通知、問題の解決、機能の展開、またはサービスの変更|はい|はい|はい|はい|はい|はい|はい|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 更新プログラムの詳細|いいえ|--|いいえ|いいえ|いいえ|いいえ|いいえ|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 更新プログラムの詳細|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |対象のリリースを有効にするオプション|いいえ|--|いいえ|いいえ|はい|はい|はい|
 |**[ヘルプとトレーニング](help-and-training.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
 |オンライン ヘルプ|はい|はい|はい|はい|はい|はい|はい|
@@ -800,7 +800,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |ユーザー、サイト、ドキュメントの推奨事項|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |個人用サイト|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |写真とプレゼンス|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|プロフィール|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|プロファイル|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Ratings|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[私と共有]|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |サイト フィード (SharePoint ソーシャルを使用する従来のチーム サイト)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
