@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 およびスタンドアロン プランの SharePoint の制限について説明します。
-ms.openlocfilehash: 8e8931c77f7ceda2b1aed90d4804f98355fd6caa
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878700"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726762"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -43,13 +43,13 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 リストには最大 3,000 万個のアイテムを含めることができ、ライブラリには最大 3,000 万個のファイルとフォルダーを含めることができます。 リスト、ライブラリ、またはフォルダーに 100,000 を超えるアイテムが含まれている場合、リスト、ライブラリ、またはフォルダーの権限の継承を解除することはできません。 また、権限を再び継承することはできません。 ただし、リスト、ライブラリ、またはフォルダー内の個々のアイテムの継承は、リストまたはライブラリの固有権限の最大数まで解除できます (次のセクションを参照)。 大規模なリストを表示する場合のその他の制限の詳細については、「[Office 365 で大規模なリストとライブラリを管理する](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)」を参照してください。
 
-### <a name="unique-security-scopes-per-list-or-library"></a>リストまたはライブラリごとに一意のセキュリティ スコープ
+### <a name="unique-security-scopes-per-list-or-library"></a>リストまたはライブラリごとの一意のセキュリティ スコープ
 
-大きなリストの場合は、できる限り少ない固有のアクセス許可を持ち、合計で 5,000 を下回る必要があります。
+大規模なリストの場合、一意のアクセス許可をできる限り少なくし、合計で 5,000 を下回るままに設計します。
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 
-100 GB 新しい OneDrive 同期アプリ (OneDrive.exe) を使用する際の制限事項の詳細については、「[無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
+250 GB。 新しい OneDrive 同期アプリ (OneDrive.exe) を使用する際の制限事項の詳細については、「[無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
 
 ### <a name="moving-and-copying-across-sites"></a>サイト間の移動とコピー
 
@@ -57,11 +57,11 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 - ファイルの合計サイズで 100 GB を超えることはできない
 - 30,000 ファイル未満。
-- 各ファイルは 15 GB 未満である必要があります。
+- 各ファイルは 15 GB 未満である必要があります
 
 ### <a name="sync"></a>同期
 
-最適なパフォーマンスを得る場合は、1 つの OneDrive またはチーム サイト ライブラリに 300,000 以下のファイルを保存することをお勧めします。 SharePoint Online では、ライブラリごとに 3,000 万個のドキュメントを保存できますが、最適なパフォーマンスを得るには、すべてのドキュメント ライブラリで同期するファイルを 300,000 個以下にすることをお勧めします。 また、そのようなライブラリのすべてのアイテムを同期していなくても、同期しているライブラリ全体で 300,000 個以上のアイテムがあれば、同様のパフォーマンスの問題が発生する可能性があります。 以前の OneDrive for Business 同期クライアント (Groove.exe) を使用している場合、ライブラリあたりの同期制限は 20,000 アイテム (チーム サイトあたり 5,000 アイテムを含む) です。
+最適なパフォーマンスを得る場合は、1 つの OneDrive またはチーム サイト ライブラリに 300,000 を超えるファイルを保存することをお勧めします。 SharePoint Online では、ライブラリごとに 3,000 万個のドキュメントを保存できますが、最適なパフォーマンスを得るには、すべてのドキュメント ライブラリで同期するファイルを 300,000 個以下にすることをお勧めします。 また、そのようなライブラリのすべてのアイテムを同期していなくても、同期しているライブラリ全体で 300,000 個以上のアイテムがあれば、同様のパフォーマンスの問題が発生する可能性があります。 以前の OneDrive for Business 同期クライアント (Groove.exe) を使用している場合、ライブラリあたりの同期制限は 20,000 アイテム (チーム サイトあたり 5,000 アイテムを含む) です。
 
 ### <a name="versions"></a>バージョン
 
@@ -95,7 +95,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="users"></a>ユーザー
 
-サイト コレクションごとに 200 万。
+サイト コレクションあたり 200 万。
 
 > [!NOTE]
 > SharePoint サイトに招待できるゲストの数に明確な制限はありません。 外部共有に関する詳細については、「[外部共有の概要](https://docs.microsoft.com/sharepoint/external-sharing-overview)」を参照してください。
