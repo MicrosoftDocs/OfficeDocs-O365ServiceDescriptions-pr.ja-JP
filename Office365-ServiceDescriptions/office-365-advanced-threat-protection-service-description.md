@@ -13,7 +13,7 @@ ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
 ms.openlocfilehash: cc8d16f4a0a1058799ee3f5b0873ed6e9bf7f182
 ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/11/2021
 ms.locfileid: "50726742"
@@ -60,7 +60,7 @@ Defender for Office 365 は、以下の Exchange と Microsoft 365 サブスク�
 
 Microsoft Defender for Office 365 を購入するには、「[Microsoft Defender for Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)」を参照してください。
 
-Microsoft Defender for microsoft Defender for Office 365 のサブスクリプションの詳細な計画情報については、完全なサブスクリプション比較表を [参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Microsoft Defender for Office 365 のユーザーを有効にするサブスクリプションの詳細なプラン情報については、[完全なサブスクリプション比較表](https://go.microsoft.com/fwlink/?linkid=2139145)を参照してください。
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 の新機能
 
