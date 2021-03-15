@@ -112,7 +112,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 [安全なリンク](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)機能は、メッセージまたは Office ドキュメント内の悪質な URL から予防的にユーザーを保護します。 リンクを選択した後も保護は毎回継続し、悪意のあるリンクは動的にブロックされ、適切なリンクにはアクセスできます。
 
-セーフリンクは、次のアプリのURLで使用できます。
+ 安全なリンクは、次のアプリのURLで使用できます。
 
 - Windows または Mac 上のエンタープライズ向け Microsoft 365 アプリ
 
