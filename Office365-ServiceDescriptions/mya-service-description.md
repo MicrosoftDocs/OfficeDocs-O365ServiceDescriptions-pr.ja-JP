@@ -8,33 +8,37 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics の機能、配布、プライバシー、および前提条件
-ms.openlocfilehash: dc92292e5211324a761714544abe381e48c05418
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 204c16b82ce93a0660259c64bf5e283ba4837005
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134024"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902052"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics サービスの説明
 
 MyAnalytics は、業務時間中の時間の使い方を要約し、仕事を効率化する方法を提案します。 MyAnalytics は、Microsoft Outlook または Web ブラウザーでアクセスできる[要素](#elements)により、これらの分析を提供します。
 
-MyAnalytics の要素の一部は、さまざまな Office 365 プランのユーザーに自動的に提供されます。 Office 365 プランおよび Microsoft 365 プランに含まれる要素については、「 [Myanalytics のプランと環境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)」を参照してください。  
+MyAnalytics の要素の一部は、さまざまな Office 365 プランのユーザーに自動的に提供されます。 365 プランと Microsoft 365 プランOffice含まれる要素については [、「MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)プランと環境」を参照してください。  
 
 MyAnalytics は、従業員のプライバシーを保護する方法で情報を処理します。 詳細については、「[データ プライバシー](#data-privacy)」を参照してください。
+
+## <a name="available-plans"></a>使用できるプラン
+
+MyAnalytics のユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較表 [を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
 
 ## <a name="elements"></a>要素
 
 MyAnalytics は次の要素で構成されています。
 
-* [Dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): 作業時間、会議やメールの慣行、ネットワークなどの作業パターンに関する情報を反映するのに役立つ情報が表示されます。
+* [ダッシュボード](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): 集中した作業時間、会議と電子メールのプラクティス、ネットワークなど、作業パターンを反映するのに役立ちます。
 * [Outlook アドイン](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): Outlook で実践的な洞察を提供し、タスクをうまくやりこなし生産性を高めることができるように助けます。
-* [電子メールダイジェスト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2): 毎週の電子メールでは、作業パターンに関する重要なハイライトが提供されます。
-* [インラインの提案](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): これらの簡単なデータと AI を使用した推奨事項は、電子メールまたは会議出席依頼を閲覧または作成している間、Outlook に表示されます。
+* [メール ダイジェスト](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2): 週 1 回のメールで作業パターンに関する重要なハイライトを提供します。
+* [インライン提案](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): 電子メールまたは会議の招待を読んでいる間、または作成している間に、これらの簡潔な、データ、および AI 駆動型の提案が Outlook に表示されます。
 
 ## <a name="data-privacy"></a>データのプライバシー
 
-次のガイドラインに従うことにより、MyAnalytics は従業員のプライバシーを保護し、地域規制へのコンプライアンスをサポートします。
+MyAnalytics は、以下のガイドラインに従って、従業員のプライバシーを保護し、現地の規制への準拠をサポートします。
 
 * MyAnalytics は、従業員の評価、進捗管理、自動化された適切な意思決定、プロファイル、監視を行うようには設計されていません。
 * MyAnalytics では、従業員は同僚個人を特定できる新しい情報へのアクセスは許可されません。
@@ -44,9 +48,9 @@ MyAnalytics は次の要素で構成されています。
 * MyAnalytics と Delve は、依存関係がない別のアプリケーションです。
 * MyAnalytics は、各人に自分のデータがプライベートなものであり保護されていることを通知します。
 
-詳細については、「 [Myanalytics のプライバシーガイド](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)」を参照してください。
+詳細については [、「MyAnalytics プライバシー ガイド」を参照してください](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)。
 
-[MyAnalytics がより効率的に作業するために役立つ方法について説明](https://products.office.com/business/myanalytics-personal-analytics)します。
+[MyAnalytics がスマートな作業に役立つ方法について詳しくは、以下を参照してください](https://products.office.com/business/myanalytics-personal-analytics)。
 
 ## <a name="prerequisites"></a>前提条件
 

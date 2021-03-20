@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップ アプリケーションの最新バージョンを提供するサブスクリプション サービスです。
-ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241013"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902037"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
 Microsoft 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップ アプリケーションの最新バージョンを提供するサブスクリプション サービスです。
   
-クラウド Officeはクラウド ベースのサービスですが、Officeアプリケーションはクラウドで実行されません。代わりに、ユーザーは Office 365 ポータルからOfficeアプリケーションをダウンロードし、ローカル コンピューターにインストールします。Microsoft はクイック実行テクノロジを使用して、クイック実行アプリケーションのダウンロードOfficeインストールを高速かつ簡単に行います。クリック実行では、仮想化テクノロジを使用してローカル コンピューター上の自己格納環境で Office アプリケーションを実行します。これにより、ユーザーは以前のバージョンの Office と並べて Office アプリケーションを実行できます。
+クラウド Officeサービスですが、Officeアプリケーションはクラウドで実行されません。 代わりに、ユーザーは Office 365 ポータルからOfficeアプリケーションをダウンロードし、ローカル コンピューターにインストールします。 Microsoft では、クイック実行テクノロジを使用して、アプリケーションのダウンロードとインストールを迅速かつOffice簡単に行います。 クイック実行は仮想化テクノロジを使用して、Office アプリケーションをローカル コンピューター上の自己格納環境で実行します。これにより、ユーザーは Office アプリケーションを以前のバージョンの Office と並べて実行できます。
   
 Office アプリケーションは、32 ビットおよび 64 ビット版で利用可能です。
   
-プラン全体で機能を比較するには、エンタープライズ [をサポートするための強力なツールを参照してください](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+ユーザーがアプリケーション サービスの説明を使用できるサブスクリプションの詳細な計画Office、完全なサブスクリプション比較表 [を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
   
 ## <a name="feature-availability-across-plans"></a>プランで利用できる機能
 
-次の表を使用して、2016 年 12 月および 2016 年 12 月のプランおよびボリューム ライセンス エディションMicrosoft Office 2013の機能Officeします。
+次の表を使用して、2016 年と 2016 年のプランとボリューム ライセンスエディションの機能Microsoft Office 2013比較Officeします。
   
-一部の Microsoft 365 for business プランには、サブスクリプション用に購入できるアドオンがあります。アドオンは、サブスクリプションに追加の機能を提供します。詳細については、「アドオンを [購入または編集する」を参照してください](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。<br><br>
+一部の Microsoft 365 for business プランには、サブスクリプション用に購入できるアドオンがあります。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「アドオンを [購入または編集する」を参照してください](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。<br><br>
 
-| アプリケーション/機能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps for enterprise | Microsoft 365 Apps for business | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| アプリケーション/機能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | エンタープライズ向け Microsoft  365 アプリ | Microsoft 365 Apps for business | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office アプリケーション** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -88,25 +88,25 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 |Volume activation (KMS/MAK)  <br/> |はい  <br/> |はい  <br/> |はい  <br/>|いいえ<sup>9</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ <br> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > [!NOTE]
-><sup>+</sup> Office 365 または Office 2019 をインストールすると、既定で OneNote for Windows 10 が表示されます。 詳細については [、OneNote についてよく寄せられる質問を参照してください](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
+><sup>+</sup> 365 または Office 2019 Officeインストールすると、既定で OneNote for Windows 10 が表示されます。 詳細については [、「OneNote に関するよく寄せられる質問」を参照してください](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
 ><sup>++</sup> OneNote アプリから SharePoint Server、SharePoint Online、OneDrive for Business、Office 365 上のノートブックへのアクセス。 <br/>
 ><sup>+++</sup> BHO のサポートは、Internet Explorer 用の拡張機能技術です。 <br/>
 ><sup>1</sup> アーカイブ機能とコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online プランと SharePoint Online プランは含まれていないため、これらのプランを個別に購入するか、またはサポートされているオンプレミスのサーバーの同等の機能と共に使用する必要があります。<br/>
-<sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 一部の Azure Information Protection 機能では、Microsoft 365 Apps for enterprise へのサブスクリプションが必要です。Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 E1、Office 365 Education、または Office 365 F3 には含まれていません。<br/>
+<sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 一部の Azure Information Protection 機能では、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 E1、Office 365 Education、または Office 365 F3 には含まれていない Microsoft 365 Apps for enterprise へのサブスクリプションが必要です。<br/>
 <sup>3</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするためには別途購入して管理する必要があるオンプレミスのサーバーです。<br/>
-<sup>4</sup> Office 2013 Professional Plus またはスタンドアロン バージョンの Excel 2013 を使用している場合は、Power Map Preview for Excel 2013 を使用できます。これはサポートされていないアドインです。 以前のバージョンの Power Map Preview の有効期限が切れているので、どのバージョンの Excel でも動作しません。 以前のバージョンをインストールした場合は、コントロール パネルからアンインストールし、Power Map Preview の現在のバージョンをダウンロードしてインストールします。 このバージョンには、Microsoft 365 SP1 でリリースされた Power Map のバージョンと同じ機能があります。<br/> 
-<sup>5</sup> Skype for Business Basic はすべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供する、ローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise および Office 365 E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 機能の比較の詳細については、「[Lync Server 2013 用デスクトップ クライアント比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。<br/> 
-<sup>6</sup> 一部の学校は、Microsoft 365 Apps for enterprise を含む Education Plus の対象であり、学生と教職員は、最大 5 台の PC または Mac コンピューター、および Windows タブレットや iPad などの他のモバイル デバイスに最新バージョンの Office をインストールできます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/>
+<sup>4</sup> Office 2013 Professional Plus またはスタンドアロン バージョンの Excel 2013 がある場合は、サポートされていないアドインである Excel 2013 の Power Map Preview を使用できます。 以前のバージョンの Power Map Preview は期限切れであり、どのバージョンの Excel でも動作しません。 以前のバージョンをインストールした場合は、コントロール パネルからアンインストールし、現在のバージョンの Power Map Preview をダウンロードしてインストールします。 このバージョンには、Microsoft 365 SP1 でリリースされた Power Map のバージョンと同じ機能があります。<br/> 
+<sup>5</sup> Skype for Business Basic はすべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 機能の比較の詳細については、「[Lync Server 2013 用デスクトップ クライアント比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。<br/> 
+<sup>6</sup> 一部の学校は、Microsoft 365 Apps for enterprise を含む Education Plus の対象であり、学生、教職員は、最大 5 台の PC または Mac コンピューター、および Windows タブレットや iPad を含む他のモバイル デバイスに最新バージョンの Office をインストールできます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/>
 <sup>7</sup> Office for Mac 2011 は、インストールはできますがライセンス認証はできません。 <br/>
-<sup>8</sup> つの Microsoft 365 Apps for enterprise は、ユーザー専用の仮想デスクトップ インフラストラクチャ (VDI) でサポートされています。 Microsoft 365 Apps for enterprise は、ボリューム ライセンス プログラムを通じて購入した場合にのみ、リモート デスクトップ サービス (RDS) をサポートします。<br/>
-<sup>9</sup> Office 365 E3 および Microsoft 365 Apps for enterprise のボリューム ライセンス認証は、RDS の役割が有効な Windows Server 2008 R2 以降または Windows To Go インストールでのインストールに制限されています。 どちらの場合も、これらのインストールにアクセスするユーザーには、Office 365 E3 または Microsoft 365 Apps for enterprise のライセンス ユーザーが必要です。<br/> 
-Office 365 F3 の<sup>10</sup> Skype for Business 機能には、Skype for Business プラン 1 が含まれます (デスクトップ共有なし、アプリ共有なし、マルチパーティのオーディオ、ビデオ、または Web 会議を開始できない、会議をスケジュールできない)。<br/> 
-<sup>11</sup> Access は現在、Current Channel のユーザー、または Deferred Channel のターゲット リリースのユーザーのみが利用できます。 Deferred Channel のユーザーは、2017 年 6 月以降に Access を利用できるようになります。 詳細については [、Microsoft 365 および 365](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)サブスクリプションの一部として含Office参照してください。<br/> 
+<sup>8</sup> Microsoft 365 Apps for enterprise は、ユーザー専用の仮想デスクトップ インフラストラクチャ (VDI) でサポートされています。 Microsoft 365 Apps for enterprise は、ボリューム ライセンス プログラムを通じて購入した場合にのみリモート デスクトップ サービス (RDS) をサポートします。<br/>
+<sup>9</sup> Office 365 E3 および Microsoft 365 Apps for enterprise のボリューム ライセンス認証は、RDS の役割が有効な Windows Server 2008 R2 以降のインストールまたは Windows To Go インストールに制限されます。 いずれの場合も、これらのインストールにアクセスするユーザーは、エンタープライズ向け microsoft 365 E3 または Microsoft 365 Apps のライセンスOfficeユーザーである必要があります。<br/> 
+Office 365 F3 の<sup>10</sup> Skype for Business 機能には、Skype for Business Plan 1 が含まれます (デスクトップ共有なし、アプリ共有なし、マルチパーティオーディオ、ビデオ、または Web 会議を開始できない、会議をスケジュールできない)。<br/> 
+<sup>11</sup> Access は現在、Current Channel のユーザー、または Deferred Channel のターゲット リリースのユーザーのみが利用できます。 Deferred Channel のユーザーは、2017 年 6 月以降に Access を利用できるようになります。 詳細については、「Access included [as part as Microsoft 365 and Office 365 サブスクリプション」を参照してください](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)。<br/> 
 <sup>12</sup> Infopath 2013 は引き続きサポートされており、Office Professional Plus 2016 のインストールに付属しますが、Office 2016 用の新しいバージョンはありません。<br/> 
-<sup>13</sup> 10.1 インチ以下の斜めを測定する統合された画面を備えたデバイスに限定されます。<br/> 
-<sup>14</sup> Power Query は、Microsoft Power Query for Excel からダウンロードできる無料 [のアドインです](https://www.microsoft.com/download/details.aspx?id=39379)。 有効にすると、Power Query 機能はリボンの [Power Query] タブから使用できるようになります。<br/> 
-<sup>15</sup> Web アプリのポリシーとクライアント アプリのプライバシー ポリシーに制限されます。<br/> 
-<sup>16</sup> Web アプリのポリシーに制限されます。
+<sup>13</sup> 10.1 インチ以下の画面が統合されているデバイスに限定されます。<br/> 
+<sup>14</sup> Power Query は、Microsoft Power Query for Excel をダウンロードできる無料 [のアドインです](https://www.microsoft.com/download/details.aspx?id=39379)。 有効にすると、Power Query 機能はリボンの [Power Query] タブから使用できるようになります。<br/> 
+<sup>15</sup> Web アプリのポリシーとクライアント アプリのプライバシー ポリシーに制限されています。<br/> 
+<sup>16</sup> Web アプリのポリシーに制限されています。
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Officeプランでのアプリケーションの可用性Office for Macする
 
@@ -122,7 +122,7 @@ Office 365 F3 の<sup>10</sup> Skype for Business 機能には、Skype for Busin
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |はい  <br/> |はい  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |いいえ  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> Office 2016 for Mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については [、「Microsoft 365」と「Microsoft 365 Office Resources」を参照してください](https://products.office.com/office-system-requirements)。<br/>
+> <sup>1</sup> Office 2016 for Mac には Mac OS X 10.10 以降が必要です。 Outlook for Mac から Exchange に接続するお客様は、Microsoft Exchange Server 2010 Service Pack 2 以降に対する接続が必要です。 詳細については [、「Microsoft 365 and Office」を参照してください](https://products.office.com/office-system-requirements)。<br/>
 <sup>2</sup> App Store から別途ダウンロードできます。 詳細については、「[OneNote for Mac](https://aka.ms/OneNoteforMac)」を参照してください。<br/> 
 <sup>3</sup> Office for Mac 2011 は、インストールはできますがライセンス認証はできません。
 
@@ -130,14 +130,14 @@ Office 365 F3 の<sup>10</sup> Skype for Business 機能には、Skype for Busin
 
 政府機関向けクラウドで利用できる Office アプリケーションは次のとおりです。ただし、表で、表に示されるとおり、一部のクラウドベース機能は現在利用できない可能性があります。<br><br>
 
-| Officeアプリケーション/機能 | GCC | GCC High | DOD |
+| Office/機能 | GCC | GCC High | DOD |
 |-----|-----|-----|-----|
 |**[Microsoft Excel](office-applications.md#microsoft-excel)** は政府機関向けクラウドで完全に利用可能ですが、次の機能は現時点では利用できません。| はい | はい | はい |
 |3D 埋め込みアニメーションと 3D モデル | いいえ | いいえ | いいえ |
 |データ型 | いいえ | いいえ | いいえ |
 |フラッシュ フィル  | いいえ | いいえ | いいえ |
 |Ideas (Insight サービス) | いいえ | いいえ | いいえ |
-|Power BI との統合の強化 (カスタム ビジュアル、Excel から直接 PBI グラフを作成) | いいえ | いいえ | いいえ |
+|Power BI との統合の強化 (カスタム ビジュアル、Excel から直接 PBI グラフを作成する) | いいえ | いいえ | いいえ |
 |Intelligent Digital Ink | いいえ | いいえ | いいえ |
 |Office 365 グループ | いいえ | いいえ | いいえ |
 |ピボットテーブルに接続されたピボットグラフ データ | いいえ | いいえ | いいえ |

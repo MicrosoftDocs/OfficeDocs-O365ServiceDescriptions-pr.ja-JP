@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: " Microsoft 365 と Office 365 Education プランの間の相違について説明します。"
-ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
-ms.translationtype: HT
+ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460226"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902046"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -93,8 +93,8 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Microsoft Defender ウイルス対策|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Defender Device Guard|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 |Microsoft Defender for Identity<sup>11</sup>|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|
-|Office 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|はい|はい|はい|はい|はい|
-|Microsoft 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|
+|Office 365 Cloud App Security|いいえ|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
+|Microsoft 365 Cloud App Security|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|はい|
 |Microsoft Defender for Endpoint<sup>12</sup>|いいえ|いいえ|いいえ|いいえ|はい|いいえ|いいえ|いいえ|いいえ|
 |**サーバーと CAL の利点**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 学生使用特典**|**Office 365 A5 学生使用特典**|**Microsoft 365 A3 学生使用特典**|**Microsoft 365 A5 学生使用特典**|
 |Exchange<sup>7</sup>|いいえ|いいえ|いいえ|はい<sup>8</sup>|はい|いいえ|いいえ|いいえ|いいえ|
@@ -105,15 +105,15 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |System Center Endpoint Protection|いいえ|いいえ|いいえ|はい|はい|いいえ|いいえ|いいえ|いいえ|
 
 > [!NOTE]
-> <sup>1</sup> Exchange Online プラン 1 と補足機能が含まれます。 <br/>
-> <sup>2</sup> Exchange Online プラン 2 が含まれます。 <br/>
-> <sup>3</sup> SharePoint Online プラン 1 と補足機能が含まれます。 <br/>
-> <sup>4</sup> SharePoint Online プラン 2 が含まれます。 <br/>
+> <sup>1</sup> Exchange Online プラン 1 と補足機能が含まれます。<br/>
+> <sup>2</sup> Exchange Online プラン 2 が含まれます。<br/>
+> <sup>3</sup> SharePoint Online プラン 1 と補足機能が含まれます。<br/>
+> <sup>4</sup> SharePoint Online プラン 2 が含まれます。<br/>
 > <sup>5</sup> Microsoft Projectは Office 365 に含まれませんが、個別に取得できます。 Project Online Essentials は無料です。 学生または教育機関に所属している場合は、Project Plan 3 および Project Plan 5 を教育機関向け価格で購入することができます。 <br/>
-> <sup>6</sup> Intune が含まれます。 <br/>
-> <sup>7</sup> Exchange、SharePoint、Skype for Business にサーバーと CAL が含まれます。 <br/>
-> <sup>8</sup> 購入した A3 のバージョンに応じて、ECAL または Core CAL が含まれます。A5 の場合は ECAL 権限が含まれます。 <br/>
-> <sup>9</sup> Outlook Desktop での保護の適用、および保護されたメールの送信には、Microsoft 365 Apps が必要です。 <br/>
-> <sup>10</sup> 以前の Office 365 Advanced Threat Protection。 <br/>
-> <sup>11</sup> 以前の Azure Advanced Threat Protection。 <br/>
-> <sup>12</sup> 以前の Microsoft Defender Advanced Threat Protection。 <br/>
+> <sup>6</sup> Intune が含まれます。<br/>
+> <sup>7</sup> Exchange、SharePoint、Skype for Business にサーバーと CAL が含まれます。<br/>
+> <sup>8</sup> 購入した A3 のバージョンに応じて、ECAL または Core CAL が含まれます。A5 の場合は ECAL 権限が含まれます。<br/>
+> <sup>9</sup> Outlook Desktop での保護の適用、および保護されたメールの送信には、Microsoft 365 Apps が必要です。<br/>
+> <sup>10</sup> 以前の Office 365 Advanced Threat Protection。<br/>
+> <sup>11</sup> 以前の Azure Advanced Threat Protection。<br/>
+> <sup>12</sup> 以前の Microsoft Defender Advanced Threat Protection。<br/>

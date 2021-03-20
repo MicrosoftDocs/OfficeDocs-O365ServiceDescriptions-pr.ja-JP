@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: プランで使用できる SharePoint 機能を確認します。
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726702"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901937"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -30,7 +30,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、ナレッジ、お
 
 簡単な概要については [、「SharePoint とは」を参照してください。](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-SharePoint、エンタープライズをサポートするための強力なツールを含 [むプランを確認するには](https://products.office.com/business/compare-more-office-365-for-business-plans)。 Microsoft 365 のシステム要件については [、「Microsoft 365」および「Officeリソース」を参照してください](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
+SharePoint でユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較 [表を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 Microsoft 365 のシステム要件については [、「Microsoft 365」および「Officeリソース」を参照してください](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
 米国政府機関のクラウド顧客向け SharePoint 機能の違いについては [、「SharePoint for US Government environments」を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   
