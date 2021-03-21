@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154405"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901952"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -26,7 +26,7 @@ ms.locfileid: "45154405"
   
 OneDrive は Microsoft 365 および Office 365 プラン、SharePoint プランに含まれています。スタンドアロン プランとしてもご購入いただけます。 
     
-プランを比較するには、「[パワフルなツールでエンタープライズをサポート](https://go.microsoft.com/fwlink/?linkid=799177)」と「[OneDrive のプランを比較 - 一般法人向け](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)」を参照してください。 
+OneDrive のユーザーを有効にするサブスクリプションの詳細なプラン情報については、「[完全なサブスクリプション比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)」および「[OneDrive for Business プランを比較する](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2)」を参照してください。
   
 > [!NOTE]
 > OneDrive スタンドアロン プランには Web 用 Office が含まれます。 
@@ -133,7 +133,7 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
 特に明記されていない限り、次の機能は OneDrive を含むすべてのプラン、およびすべての OneDrive スタンドアロン プランで利用できます。
 
 - [アクセス権の要求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [「すべてのユーザー」リンク](/Office365/Enterprise/best-practices-anonymous-sharing) (有効期限を要求するように設定できます) 
+- [「すべてのユーザー」リンク](/Office365/Enterprise/best-practices-anonymous-sharing) (有効期限を要求するように設定できます) 
 - [コメントでの @メンション](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 Office 365 for the web または Office 365 デスクトップ アプリを含むプランが必要です。
 - [ファイル要求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 既定の共有リンクを管理する ([組織レベル](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) および [サイトごと](/sharepoint/change-default-sharing-link))

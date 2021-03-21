@@ -7,18 +7,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: High
+localization_priority: Priority
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: アドレス帳の制限、メールボックスの格納域の制限、およびレポートの作成とメッセージの追跡の制限などのさまざまなサービス領域については、Exchange Online の制限事項を確認してください。
-ms.openlocfilehash: 325396d0046e857d1c7812f9d8640a95018c248b
-ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
-ms.translationtype: MT
+ms.openlocfilehash: 8b4b888b3b8830092095c710d82579daf5f6ee32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080293"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901912"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -360,7 +360,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 > [!NOTE]
 > <sup>1</sup> 受信者数の制限に達すると、過去 24 時間以内にメッセージを送信した受信者の数が制限を下回るまでメール ボックスからメッセージを送信できなくなります。 たとえば、ユーザーが午前 9:00 に 5,000 人の受信者にメール メッセージを送信し、次に午前 10:00 に別のメッセージを 2,500 人の受信者に送信し、次に午前 11:00 に別のメッセージを 2,500 人の受信者に送信したことから、上限である 10,000 メッセージに達したとします。 ユーザーは、翌日午前 9:00 までメッセージを送信できません。  
 > <sup>2</sup> 既存のメールボックスと、今後作成される新しいメールボックスで受信者の1000制限をカスタマイズできます。 Exchange 管理センターを使用して、既存のメールボックスの受信者の制限を個別に、または一括して編集し、リモート PowerShell を使用して新しいメールボックスの既定の設定をカスタマイズします。 詳細については、「[Office 365でカスタマイズ可能な受信者の制限](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)」を参照してください。  
-> <sup>3</sup> 送信メッセージ のボリュームがメッセージレート制限を超えた場合、メッセージ送信の超過分は調整され、後続の処理は次の分に引き継がれされます。 これは通常、送信者のアカウントをブロックしませんが、Exchange Online はバルクメールのシナリオに対応するために適しません。 この使用例では、代わりに 2 と [3](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) のオプションをお勧めします。
+> <sup>3</sup> 送信メッセージの量がメッセージ数の制限を超えると、メッセージ送信の超過は抑制され、次の数分に引き継がれます。 これは通常、送信者のアカウントをブロックしませんが、Exchange Online はバルク メールのシナリオに対応するのには適していません。 このユース ケースでは、代わりに[ここの](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)オプション 2 と 3 をお勧めします。
 
 #### <a name="sending-limits-across-standalone-options"></a>スタンドアロンの各オプションでの送信の制限
 
@@ -432,7 +432,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|5,000 人以上|
 |メンバー数 5,000 から 99,999 の配布グループの最大メッセージ サイズ|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |メンバー数 100,000 の配布グループの最大メッセージ サイズ|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|配布グループの所有者の最大数|10 |10 |10 |10 |10 |10 |
+|配布グループの所有者の最大数|10|10|10|10|10|10|
 |ユーザーが作成できるグループの最大数|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -444,7 +444,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 |:-----|:-----|:-----|:-----|:-----|
 |配布グループのメンバーの最大数|100,000 人<sup>1</sup>|100,000 人|100,000 人|100,000 人|
 |大きな配布グループへのメッセージ送信の制限|5,000 人以上<sup>1</sup>|5,000 人以上|5,000 人以上|5,000 人以上|
-|配布グループの所有者の最大数|10 |10 |10 |10 |
+|配布グループの所有者の最大数|10|10|10|10|
 |ユーザーが作成できるグループの最大数|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
