@@ -8,57 +8,57 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 US Government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
-ms.openlocfilehash: 5c6c139272b4c13a91894174986b55cd993b2e54
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+description: 米国連邦政府、州政府、地方政府、部族政府、および米国政府に代わってデータを保持または処理する請負業者の固有の要件を満たすために、Microsoft は Office 365 US Government Community (GCC) サービスを提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
+ms.openlocfilehash: 0c283631baa613e83619efff4423609ae8a3a59f
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818657"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173042"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-米国連邦、州、地方、およびエスニックの政府機関、および米国政府の代理としてデータを保持または処理する請負業者については、Microsoft が Office 365 Government GCC 環境を提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
+米国連邦政府、州政府、地方政府、部族政府、および米国政府に代わってデータを保持または処理する請負業者の固有の要件を満たすために、Microsoft は Office 365 Government GCC 環境を提供しています。 これはボリューム ライセンスを含む複数のチャネルから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。 現時点で試用版は米国政府の機関のみが使用可能です。
   
-詳細を確認したり、検証プロセスを開始したりするには、アカウントチームや優先パートナーに連絡してください。 詳細については、「[政府機関向け Office 365 のプラン](https://products.office.com/government/compare-office-365-government-plans)」ページをご覧ください。
+アカウント チームまたは優先パートナーに参加して、詳細を確認したり、検証プロセスを開始したりします。 詳細については、「[政府機関向け Office 365 のプラン](https://products.office.com/government/compare-office-365-government-plans)」ページをご覧ください。
   
 ## <a name="how-to-use-this-service-description"></a>このサービスの説明を使用する方法
 
-Office 365 Government GCC サービスの説明は、一般的な Office 365 サービスの説明へのオーバーレイとして機能するように設計されています。 エンタープライズ向け Office 365 と比較して、固有のコミットメントと相違点を定義します。
+365 Office GCC サービスの説明は、365 サービスの一般的な説明Officeとして機能するように設計されています。 企業向け 365 のサービスに対する固有のコミットメントOffice違いを定義します。
   
-## <a name="us-government-community-compliance"></a>米国政府機関のコミュニティコンプライアンス
+## <a name="us-government-community-compliance"></a>米国政府のコミュニティコンプライアンス
 
-Office 365 Government は、高影響レベルでの連邦リスクおよび承認管理プログラム (FedRAMP) の認定をサポートしています。 Fedramp のアーティファクトは、FedRAMP に準拠する必要があるお客様が確認できます。 連邦政府機関は、レビューをサポートしてこれらの成果物を確認して、運用のための権限 (ATO) を発行することができます。
+Office 365 Government は、連邦リスクおよび承認管理プログラム (FedRAMP) の認定を高い影響レベルでサポートしています。 FedRAMP アーティファクトは、FedRAMP に準拠する必要があるお客様が確認できます。 連邦政府機関は、レビューをサポートしてこれらの成果物を確認して、運用機関 (ATO) を発行できます。
   
 ## <a name="office-365-government-gcc-environment-screened-personnel"></a>Office 365 Government GCC 環境のスクリーン担当者
 
-Office 365 のスタッフには、Office 365 Government GCC 環境でホストされている顧客コンテンツへの継続的なアクセス権はありません。 顧客コンテンツへのアクセスを許可する、一時的なアクセス許可昇格を要求するスタッフは、まず、次のバックグラウンドチェックに合格している必要があります。<br><br> 
+Office 365 のスタッフは、365 Government GCC 環境でホストされている顧客Officeアクセス権を持つ必要があります。 顧客コンテンツへのアクセスを許可する一時的なアクセス許可の昇格を要求するスタッフは、まず次のバックグラウンド チェックに合格している必要があります。<br><br> 
   
-| Microsoft の人事審査と背景のチェック<sup>1</sup> | 説明 |
+| Microsoft の担当者によるスクリーニングとバックグラウンド チェック<sup>1</sup> | 説明 |
 |:-----|:-----|
-|米国市民権  <br/> |アメリカ国籍の確認  <br/> |
+|米国の市民権  <br/> |アメリカ国籍の確認  <br/> |
 |雇用履歴チェック  <br/> |過去 7 年間の職歴の確認  <br/> |
-|教育機関の確認  <br/> |最終学歴の検証  <br/> |
-|社会保障番号 (SSN) の検索  <br/> |提供された SSN が有効であるかどうかの確認  <br/> |
+|教育の検証  <br/> |最終学歴の検証  <br/> |
+|社会保障番号 (SSN) 検索  <br/> |提供された SSN が有効であるかどうかの確認  <br/> |
 |犯罪歴のチェック  <br/> |州、郡、地域レベル、さらに連邦レベルにおける、過去 7 年間の重犯罪および軽犯罪の記録のチェック  <br/> |
 |米国財務省外国資産管理局 (OFAC) のリスト  <br/> |米国人が貿易や金融取引の相手とすることを禁じられているグループが記載された財務省のリストの照合  <br/> |
 |米国産業安全保障局 (BIS) のリスト  <br/> |輸出活動が禁じられた個人または事業体が記載された米国商務省のリストの照合  <br/> |
 |国防貿易管理局 (DDTC) の禁止対象者リスト  <br/> |軍需産業に関連する輸出活動が禁じられた個人または事業体が記載された米国国務省のリストの照合  <br/> |
 |指紋チェック  <br/> |FBI データベースに照らして行う指紋の身元調査  <br/> |
-|CJIS の背景審査  <br/> |州の判断による、連邦および州の犯罪履歴の確認。Microsoft CJIS IA プログラムにサインアップしている各州内の、州の CSA が指定した機関が行う。  <br/> |
+|CJIS バックグラウンド スクリーニング  <br/> |州の判断による、連邦および州の犯罪履歴の確認。Microsoft CJIS IA プログラムにサインアップしている各州内の、州の CSA が指定した機関が行う。  <br/> |
 
-<sup>1</sup> は、Office 365 Government GCC 環境でホストされている顧客コンテンツへの一時的または永続的なアクセス権を持つ人員にのみ適用されます。
+<sup>1</sup> 365 Government GCC 環境でホストされている顧客コンテンツに一時的または永続的にアクセスできるOfficeにのみ適用されます。
   
-## <a name="office-365-government-gcc-and-yammer"></a>Office 365 Government GCC および Yammer
+## <a name="office-365-government-gcc-and-yammer"></a>Office 365 Government GCC と Yammer
 
-エンタープライズ版 Yammer は Office 365 Government のコンポーネントではありませんが、Office 365 Government プラン E1 と E3 の各ユーザーにライセンスされている各ユーザーについてスタンドアロンのサービスとして購入することはできません。 このオファーは現在、エンタープライズアグリーメントおよびエンタープライズサブスクリプション契約で Office 365 Government を購入したお客様に限定されています。
+Yammerは Office 365 Government のコンポーネントではなく、Office 365 Government Plan E1 および E3 のライセンスを取得した各ユーザーのスタンドアロン オファーとして無料で取得できます。 このオファーは現在、365 Government Office契約およびエンタープライズ サブスクリプション契約マイクロソフトエンタープライズ契約に限定されています。
   
-現在、Yammer では、アプリケーション層で顧客データを論理的に分離しています。 ただし、Yammer は、Office 365 Government と同じデータの場所とデータアクセス機能を提供しません。また、FedRAMP 認定をサポートしておらず、Office 365 サービスからのさまざまな契約条項の対象となります。 組織にとって適切な Yammer の使用を評価する際に、 [yammer サービスの説明](../../yammer-service-description/yammer-service-description.md) とプライバシーに関する用語を確認することをお勧めします。 Yammer を含む Office 365 Government プランについては、「 [office 365 government](office-365-us-government.md)」を参照してください。
+現在、Yammerは、アプリケーション層で顧客データを論理的に分離します。 ただし、Yammer は Office 365 Government と同じデータの場所とデータ アクセス機能を提供していないので、FedRAMP 認定はサポートされていません。また、Office 365 サービスとは異なる契約条件の対象となります。 組織のサービスの適切な使用Yammer [評価](../../yammer-service-description/yammer-service-description.md) する際には、サービスの説明とプライバシーに関するYammerお勧めします。 365 政府機関Officeプランに含まれるYammerについては、「Office [365 Government」を参照してください](office-365-us-government.md)。
   
-Office 365 Government のサブスクリプションの一部として、Yammer の使用が組織に適していると判断した場合は、エンタープライズ登録の下で、yammer を含む上記のプランのいずれかを購入した場合は、「エンタープライズサブスクリプションで Yammer を有効にする」修正を要求できます。
+Yammer の使用が Office 365 Government サブスクリプションの一部として組織に適していると判断し、エンタープライズ登録の下で Yammer を含む上記のプランのいずれかを購入した場合は、エンタープライズ サブスクリプションに対して Yammer を有効にするための修正を要求できます。
   
-## <a name="office-365-government-gcc-customer-support"></a>Office 365 Government GCC カスタマサポート
+## <a name="office-365-government-gcc-customer-support"></a>Office 365 Government GCC カスタマー サポート
 
-Office 365 GCC カスタマーサポートは、 [365 office 2010 の全世界バージョン](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/support)に提供されているものと同じ条件下で提供されます。これには、サポートエージェントの物理的な場所や市民権の保証は含まれません。 Office 365 GCC は Azure パブリッククラウドと連携して動作しますが、以下の[条項および条件](https://azure.microsoft.com/support/plans/)でサポートされています。
+Office 365 GCC カスタマー サポートは、サポート エージェントの物理的な場所や市民権の保証を含め、ワールドワイド バージョン [の Office 365](../support.md)に提供されるのと同じ条件の下で提供されます。 Office 365 GCC は Azure Public Cloud と連携して動作します。これは、以下の条件で [サポートされています。](https://azure.microsoft.com/support/plans/)
 
-Microsoft では、管理対象の機密情報や機密情報を Office 365 GCC 関連サポートインシデントの一部として共有しないようにして、そのようなデータを表示またはアクセスすることを確認する必要があります。 Microsoft は [、プライバシーの保護](https://privacy.microsoft.com/privacystatement)に努めています。 Office 365 GCC カスタマーサポートは、サービスの認定境界には含まれておらず、FedRAMP、SRG、ITAR、IRS 1075、または CJIS のデータ処理やコンプライアンスの保証は提供されません。
+Microsoft は、Office 365 GCC 関連のサポート インシデントの一部として、制御された、機密性の高い、または機密情報をサポート担当者と共有し、そのようなデータを表示またはアクセスするための承認を確認するまで、お客様に通知します。 Microsoft は、プライバシーの[保護に取り組む。](https://privacy.microsoft.com/privacystatement) Office 365 GCC カスタマー サポートはサービス認定の境界に含まれていないので、FedRAMP、SRG、ITAR、IRS 1075、または CJIS のデータ処理および/またはコンプライアンスの保証は提供しません。

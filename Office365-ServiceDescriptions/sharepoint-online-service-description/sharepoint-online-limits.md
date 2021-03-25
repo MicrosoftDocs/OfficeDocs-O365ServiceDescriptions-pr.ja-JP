@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 およびスタンドアロン プランの SharePoint の制限について説明します。
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726762"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172612"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -72,7 +72,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 ユーザーはサイトごとに (サイト コレクション) 5,000 のグループに所属でき、各グループには最大 5,000 のユーザーを含めることができます。 サイト (サイト コレクション) あたり最大 10,000 グループを含めることができます。
 
 > [!NOTE]
-> Azure AD グループの制限は、パブリック グループ サイトとプライベート グループ サイトのメンバーシップの管理に影響する可能性がありますので、「[Azure AD サービスの制限と制約](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)」を参照してください。
+> Azure AD グループの制限は、パブリック グループ サイトとプライベート グループ サイトのメンバーシップの管理に影響する可能性がありますので、「[Azure AD サービスの制限と制約](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)」を参照してください。
 
 ### <a name="managed-metadata"></a>管理メタデータ
 
@@ -87,19 +87,19 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 サイト (サイト コレクション) ごとに 2,000 個。 サブサイトを作成するのではなく、サイトを作成してハブに整理することをお勧めします。 サブサイトを使用する場合は、そのサブサイトの数を制限することをお勧めします (特にトラフィックの多いサイト)。
 
 > [!NOTE]
-> 組織は、2000 hub サイト数に制限されています。 あらゆる機能にハブサイトは必要ないかもしれません。また、ハブを作成する前にいくらか計画することが重要です。 詳細については、「[SharePoint hub のサイトを計画する](https://docs.microsoft.com/sharepoint/planning-hub-sites)」を参照してください。
+> 組織は、2000 hub サイト数に制限されています。 あらゆる機能にハブサイトは必要ないかもしれません。また、ハブを作成する前にいくらか計画することが重要です。 詳細については、「[SharePoint hub のサイトを計画する](/sharepoint/planning-hub-sites)」を参照してください。
 
 ### <a name="sharepoint-hosted-applications"></a>SharePoint ホスト型アプリケーション
 
 1 組織につき 20,000 インスタンス
 
-### <a name="users"></a>ユーザー
+### <a name="users"></a>Users
 
 サイト コレクションあたり 200 万。
 
 > [!NOTE]
-> SharePoint サイトに招待できるゲストの数に明確な制限はありません。 外部共有に関する詳細については、「[外部共有の概要](https://docs.microsoft.com/sharepoint/external-sharing-overview)」を参照してください。
+> SharePoint サイトに招待できるゲストの数に明確な制限はありません。 外部共有に関する詳細については、「[外部共有の概要](/sharepoint/external-sharing-overview)」を参照してください。
 
 ## <a name="see-also"></a>関連項目
 
-[SharePoint の検索制限](https://docs.microsoft.com/sharepoint/search-limits)
+[SharePoint の検索制限](/sharepoint/search-limits)

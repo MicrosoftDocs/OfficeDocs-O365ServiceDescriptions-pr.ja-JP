@@ -13,27 +13,27 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に関する組織のニーズを満たすために設計されたクラウドベースのサービスです。
-ms.openlocfilehash: 174d30152a56e799e053d117808e566a08346ffb
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 79b4eaf46edf1e43d8e350e7da2ac044dc5f0526
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460296"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172772"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 および Office 365 サービスの説明 
 
 Microsoft 365 および Office 365 は、堅牢なセキュリティ、信頼性、およびユーザーの生産性に関する組織のニーズを満たすために設計されたクラウドベースのサービスです。 
   
-このライブラリの記事では、Microsoft 365 および Office 365 で利用できるサービスと機能の詳細Officeします。 Microsoft Dynamics 365 ビジネス アプリケーションの詳細については [、Microsoft Dynamics 365 のドキュメントを参照してください](https://docs.microsoft.com/dynamics365/)。
+このライブラリの記事では、Microsoft 365 および Office 365 で利用できるサービスと機能の詳細Officeします。 Microsoft Dynamics 365 ビジネス アプリケーションの詳細については [、Microsoft Dynamics 365 のドキュメントを参照してください](/dynamics365/)。
 
 プラン間で機能を比較するには、 [以下のリスト](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) の「エンタープライズをサポートするための強力なツール」または関連するサービスの説明を参照してください。 
   
-サポート記事と情報については [、「Office ヘルプ & トレーニング](https://support.office.com/)」、管理者と [IT](https://docs.microsoft.com/office/)担当者向け Office ドキュメント、および管理者と IT 担当者向け [Microsoft 365](https://docs.microsoft.com/microsoft-365/)ヘルプ センターを参照してください。
+サポート記事と情報については [、「Office ヘルプ & トレーニング](https://support.office.com/)」、管理者と [IT](/office/)担当者向け Office ドキュメント、および管理者と IT 担当者向け [Microsoft 365](/microsoft-365/)ヘルプ センターを参照してください。
   
 > [!NOTE]
 > サービス説明比較スプレッドシートを探している場合は、廃止されました。 各サービスの説明ページの製品機能の可用性テーブルが更新され、ニーズに合ったバージョンの Office 365 を選ぶのに役立ちます。 
   
-Microsoft は、対象となるプランの対象サービスOffice 365 に対して FastTrack センター特典を提供しています。 この利点により、Microsoft のスペシャリストとリモートで作業して、365 環境Officeすぐに使用できます。 詳細については、「[Office 365 用 FastTrack Center 特典](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
+Microsoft は、対象となるプランの対象サービスOffice 365 に対して FastTrack センター特典を提供しています。 この利点により、Microsoft のスペシャリストとリモートで作業して、365 環境Officeすぐに使用できます。 詳細については、「[Office 365 用 FastTrack Center 特典](/fasttrack/O365-fasttrack-benefit-for-office-365)」を参照してください。
   
 まず、次のサービスの説明を参照してください。
   
@@ -81,9 +81,8 @@ Microsoft は、対象となるプランの対象サービスOffice 365 に対�
 
 
 > [!NOTE]
-> <sup>1</sup> Office Delve、Microsoft MyAnalytics、Microsoft Sway、Microsoft Teams などの [スイート機能](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)の可用性が含まれます。
+> <sup>1</sup> Office Delve、Microsoft MyAnalytics、Microsoft Sway、Microsoft Teams などの [スイート機能](./office-365-platform-service-description/office-365-suite-features.md)の可用性が含まれます。
   
 ## <a name="disclaimer"></a>免責事項
 
 &copy; 2018 Microsoft Corporation. All rights reserved。 Microsoft、Office 365、およびその他の製品およびサービス名は、米国およびその他の国における登録商標または商標である場合があります。 ここで提供される情報は、情報提供のみを目的とし、このドキュメントの最新の公開日または改訂日に関する Microsoft Corporation の現在のビューを表します。 サービス契約を意図したものではなく、Microsoft またはお客様を、ここに記載されている機能、機能、または責任にコミットしないものとします。 MICROSOFT は、このドキュメントの情報に関して、明示的、黙示的、または法的な保証を行いません。
- 

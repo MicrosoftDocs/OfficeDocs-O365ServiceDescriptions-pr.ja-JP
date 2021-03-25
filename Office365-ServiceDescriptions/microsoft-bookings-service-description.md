@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Bookings で利用できるプランのオプションと機能について説明します。
-ms.openlocfilehash: 70ae22991cc017acc65f47805d3361365906b982
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460236"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173032"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings サービスの説明
 
@@ -26,7 +26,7 @@ Microsoft Bookings のユーザーを有効にするサブスクリプション�
 
 次の表に、プラン間で利用可能な Microsoft Bookings の主な機能を示します。 特定の注意点が適用されます。 詳細については、脚注を参照してください。 この表は、予告なしに変更される場合があります。
 
-| 主な機能 | Small Business | エンタープライズ プラン | GCC | GCC-High | DOD | Education |
+| 主な機能 | Small Business | エンタープライズ プラン | GCC | GCC-High | DOD | 教育 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Web ベースのスケジュール ページ (予約ページ) | はい | はい | はい | いいえ | いいえ | はい |
 | 予約ページ アクセス制御 (テナントのみ) | はい | はい | はい | いいえ | いいえ | はい |
@@ -42,12 +42,12 @@ Microsoft Bookings のユーザーを有効にするサブスクリプション�
 <sup>1</sup> オンライン会議では、予約されているスタッフ メンバーが、会議の作成を可能にする Microsoft Teams または Skype for Business ライセンスを持っている必要があります。
 <br/><sup>2</sup> つの SMS 通知は現在ベータ版で、北米でのみ利用できます。
 
-## <a name="learn-more"></a>詳細情報
+## <a name="learn-more"></a>詳細情報 
 
 Microsoft Bookings の技術情報については、次のリソースを参照してください。
 
-- [Microsoft Docs に関する Microsoft Bookings のドキュメント](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [Microsoft Graph の Microsoft Bookings API](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Microsoft Docs に関する Microsoft Bookings のドキュメント](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
+- [Microsoft Graph の Microsoft Bookings API](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Bookings 製品ページ](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
 - [Microsoft Tech コミュニティの Bookings Blog](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
@@ -57,7 +57,7 @@ Microsoft 商用ボリューム ライセンス プログラムを通じて購�
 
 ### <a name="messaging"></a>メッセージング 
 
-新機能や変更された機能、計画メンテナンス、その他の重要なアナウンスなど、今後の変更を追跡するには、メッセージ センターにアクセスしてください。 詳細については、「メッセージ センター」 [を参照してください](https://docs.microsoft.com/microsoft-365/admin/manage/message-center)。
+新機能や変更された機能、計画メンテナンス、その他の重要なアナウンスなど、今後の変更を追跡するには、メッセージ センターにアクセスしてください。 詳細については、「メッセージ センター」 [を参照してください](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>アクセシビリティ
 

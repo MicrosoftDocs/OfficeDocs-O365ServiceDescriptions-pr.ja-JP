@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online では次のコア機能が利用可能です。
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Project Online では、次の主要な機能機能を利用できます。
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411586"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172712"
 ---
 # <a name="core-functionality"></a>コア機能
 
-Project Online では次のコア機能が利用可能です。
+Project Online では、次の主要な機能機能を利用できます。
   
-すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>列の追加
 
@@ -30,11 +30,11 @@ Project Online では次のコア機能が利用可能です。
   
 ## <a name="backstage"></a>Backstage
 
-Backstage の機能を使用するには、[ **ファイル** ] を選択します。プロジェクトファイルとそのデータを管理できます。 Backstage を使用して、ファイルでは実行しないプロジェクトファイルに対して、非表示のメタデータや個人情報を作成、保存、検査、オプションの設定を行います。 
+[ **ファイル]** を選択して Backstage の機能を使用し、プロジェクト ファイルとプロジェクト ファイルに関するデータを管理できます。 Backstage は、ファイルで実行しないプロジェクト ファイルに対して行うすべての操作 (作成、保存、非表示のメタデータや個人情報の検査、オプションの設定など) に使用します。 
   
 ## <a name="click-to-run"></a>クイック実行
 
-インターネット、内部ネットワーク、ローカルファイルシステム、またはオフラインメディアから Project Online をすばやくインストールして、最新バージョンの Project デスクトップアプリケーションで最新の状態になっていることを確認します。 詳細については、「[クイック実行](https://go.microsoft.com/fwlink/p/?LinkId=271596)」を参照してください。
+インターネット、内部ネットワーク、ローカル ファイル システム、またはオフライン メディアから Project Online をすばやくインストールして、最新バージョンの Project デスクトップ アプリケーションを最新の状態に更新します。 詳細については、「[クイック実行](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))」を参照してください。
   
 ## <a name="contextual-right-click-menus"></a>コンテキスト メニュー (右クリック メニュー)
 
@@ -50,15 +50,15 @@ Word などの Office アプリケーション間でスケジュールの詳細�
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
-ガントチャート、ネットワークダイアグラム、グラフ、シート、使用状況、およびフォームビューを使用して、プロジェクト情報をグラフィカルに表示します。 「[プロジェクト スケジュールの適切なビューを選ぶ](https://go.microsoft.com/fwlink/?LinkId=402905)」を参照してください。
+ガント チャート、ネットワーク ダイアグラム、グラフ、シート、使用状況、フォーム ビューを使用して、プロジェクト情報をグラフィカルに表示します。 「[プロジェクト スケジュールの適切なビューを選ぶ](https://go.microsoft.com/fwlink/?LinkId=402905)」を参照してください。
   
-## <a name="user-interface-the-ribbon"></a>ユーザーインターフェイス、リボン
+## <a name="user-interface-the-ribbon"></a>ユーザー インターフェイス、リボン
 
 リボンを使用して生産性を向上します。
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-[元に戻す] メニューを使用して、一度に複数の変更を元に戻すことができます。
+[元に戻す] メニューを使用すると、複数の変更を同時に元に戻すことができます。
   
 ## <a name="network-diagram-view"></a>ネットワーク ダイアグラムのビュー
 
@@ -66,11 +66,11 @@ Word などの Office アプリケーション間でスケジュールの詳細�
   
 ## <a name="office-store"></a>Office ストア
 
-Project の活用を支援するアプリケーションが必要ですか? Office ストアで Project の新しいアプリケーションを検索します。 「[Project 用アドイン](https://go.microsoft.com/fwlink/?LinkId=273883)」を参照してください。
+Project の活用を支援するアプリケーションが必要ですか? Project の新しいアプリケーションを、Officeします。 「[Project 用アドイン](https://go.microsoft.com/fwlink/?LinkId=273883)」を参照してください。
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-プロジェクトヘルプは、Office.com で、または「project で直接作業の開始に関するガイド ([ **ファイル**] [ \> **新規作成**]) で参照できます。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Project ヘルプは、プロジェクトの Office.com、または Project で直接 [開始ガイド] ([ファイルの新規] を選択) **で使用** \> **できます**。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF および XPS 出力
 
@@ -102,4 +102,4 @@ Project 2013 では、空のプロジェクトを表示することなく、プ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Project Online サービスの説明 [」を参照してください](project-online-service-description.md)。

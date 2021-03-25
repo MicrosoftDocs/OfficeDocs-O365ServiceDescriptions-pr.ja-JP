@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-description: Microsoft Exchange Online の計画と展開について説明します。
-ms.openlocfilehash: 446d73f0fddcbdfe1795bbb97b6394ae6f05fef4
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 計画と展開の詳細については、Microsoft Exchange Online。
+ms.openlocfilehash: fb9a63fecd0a64e8b896fb63acfffeb873a56281
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293843"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173342"
 ---
 # <a name="planning-and-deployment"></a>計画と展開
 
@@ -26,9 +26,9 @@ ms.locfileid: "48293843"
   
 ## <a name="deployment-options"></a>展開オプション
 
-- **クラウドのみの展開** -組織には、Exchange Online でホストされているすべてのユーザーメールボックスがあります。 
+- **クラウド専用展開** - 組織には、Exchange Online でホストされているすべてのユーザー メールボックスがあります。 
     
-- **Exchange ハイブリッド展開** -組織には、オンプレミスの exchange 組織でホストされるユーザーメールボックスと、Exchange Online でホストされるユーザーメールボックスがあります。 
+- **Exchange ハイブリッド展開** - 組織には、一部のユーザー メールボックスがオンプレミスの Exchange 組織でホストされ、一部のユーザー メールボックスが Exchange Online でホストされています。 
     
 ### <a name="cloud-only"></a>クラウド専用
 
@@ -38,22 +38,22 @@ ms.locfileid: "48293843"
 
 Microsoft Exchange 2003、Exchange 2007、Exchange 2010 および Exchange 2013 社内組織で利用可能なハイブリッド展開は、社内でホストされる一部のメールボックスと、Exchange Online でホストされる他のメールボックスが長期にわたって共存する構成か、すべてのユーザー メールボックスを Exchange Online でホストするための移行パスを提供します。ハイブリッド展開によって、充実した機能の利用、および既存の社内 Microsoft Exchange 組織に対する管理制御をクラウドにまで拡張することができます。ハイブリッド展開の機能には、安全なメール トランスポート、共有予定表の空き時間情報、および社内組織と Exchange Online 組織間のメッセージ追跡が含まれます。
   
-ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://go.microsoft.com/fwlink/p/?LinkId=287035)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 を使用して Exchange ハイブリッド展開機能を構成する](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)」をご覧ください。
+ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](/exchange/exchange-hybrid)」を参照してください。21Vianet が運用している Office 365 を使用している場合は、「[21Vianet が運用している Office 365 を使用して Exchange ハイブリッド展開機能を構成する](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)」をご覧ください。
   
 > [!IMPORTANT]
-> オンプレミスの Exchange 2003 組織は、Exchange Online でハイブリッド展開を構成する場合、少なくとも 1 台の Exchange 2010 クライアント アクセス/メールボックス サーバーをインストールする必要があります。オンプレミスの Exchange 2007 組織は、Exchange Online でハイブリッド展開を構成する場合、少なくとも 1 台の Exchange 2010 または Exchange 2013 のクライアント アクセス/メールボックス サーバーをインストールする必要があります。オンプレミスの Exchange 2010 および Exchange 2013 組織は、Exchange Online でのハイブリッド展開をネイティブでサポートします。ハイブリッド展開における Exchange サーバーの互換性の詳細については、「[ハイブリッド展開の前提条件](https://go.microsoft.com/fwlink/p/?LinkId=243541)」を参照してください。 > オンプレミスの Exchange 組織では、組織をハイブリッド展開用に構成する必要があります。管理者が Exchange Server 展開アシスタントおよびハイブリッド構成ウィザードを使用してハイブリッド展開を構成することを強くお勧めします。詳細については、「[Microsoft Exchange Server 展開アシスタント](https://go.microsoft.com/fwlink/p/?LinkId=287036)」を参照してください。
+> オンプレミスの Exchange 2003 組織は、Exchange Online でハイブリッド展開を構成する場合、少なくとも 1 台の Exchange 2010 クライアント アクセス/メールボックス サーバーをインストールする必要があります。オンプレミスの Exchange 2007 組織は、Exchange Online でハイブリッド展開を構成する場合、少なくとも 1 台の Exchange 2010 または Exchange 2013 のクライアント アクセス/メールボックス サーバーをインストールする必要があります。オンプレミスの Exchange 2010 および Exchange 2013 組織は、Exchange Online でのハイブリッド展開をネイティブでサポートします。ハイブリッド展開における Exchange サーバーの互換性の詳細については、「[ハイブリッド展開の前提条件](/exchange/hybrid-deployment-prerequisites)」を参照してください。 > オンプレミスの Exchange 組織では、組織をハイブリッド展開用に構成する必要があります。管理者が Exchange Server 展開アシスタントおよびハイブリッド構成ウィザードを使用してハイブリッド展開を構成することを強くお勧めします。詳細については、「[Microsoft Exchange Server 展開アシスタント](/exchange/exchange-deployment-assistant)」を参照してください。
   
 ## <a name="migration-options"></a>移行オプション
 
 組織は、送信元の電子メール システム、希望する最終的な状態 (完全なホスティングか、あるいは部分的なホスティングか)、移行するユーザーの数、またどの程度の期間で最終的な状態を実現しなければならないのかに基づいて、移行オプションを選択する必要があります。実行可能な移行オプションは次のとおりです。
   
-- **Imap 移行** -imap ベースの電子メールシステムから Exchange Online にメールボックスデータを移行します。 
+- **IMAP 移行** - IMAP ベースの電子メール システムから Exchange Online にメールボックス データを移行します。 
     
-- **Exchange** の一括移行-メールボックスを、exchange server 2003、exchange server 2007、exchange server 2010、exchange 2013 およびホストされている exchange システムから、1回の一括移行で exchange Online に移行します。 
+- カット **オーバー Exchange** の移行 - 1 回のカットオーバー移行で、メールボックスを Exchange Server 2003、Exchange Server 2007、Exchange Server 2010、Exchange 2013、および Hosted Exchange システムから Exchange Online に移行します。 
     
-- **段階的な exchange の移行** -メールボックスを exchange server 2003 または exchange server 2007 から、web ベースの移行ツールを使用して、最小限の変更で社内インフラストラクチャに移行するために、段階的な移行を実行します。 
+- **Exchange** のステージ移行 - web ベースの移行ツールを使用して、Exchange Server 2003 または Exchange Server 2007 からメールボックスを移行し、オンプレミス インフラストラクチャへの変更を最小限に抑える、段階移行を実行します。 
     
-- **リモート移動移行** -exchange ハイブリッド展開でオンプレミスの exchange メールボックスを exchange Online に移行します。 リモート移動移行を使用するには Exchange ハイブリッド展開を実装しておく必要があります。 
+- **リモート移動の移行** - Exchange ハイブリッド展開でオンプレミスの Exchange メールボックスを Exchange Online に移行します。 リモート移動移行を使用するには Exchange ハイブリッド展開を実装しておく必要があります。 
     
 Exchange Online への電子メールおよびメールボックスの移行の詳細については、「[Exchange Online へのメールボックスの移行](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)」を参照してください。
   
@@ -86,7 +86,7 @@ Exchange Online は、社内の Exchange Server 2003、Exchange Server 2007、�
     
 4. 最初の移行が完了した後、管理者が移行バッチを停止または削除するまで、すべての変更は 24 時間ごとにクラウドに同期されます。
     
-ユーザーをクラウドメールボックスに切り替えるには、管理者が Microsoft をポイントするように MX レコードを構成し、Outlook でユーザーのプロファイルを再構成します。 ユーザーがクラウド メールボックスに切り替わると、ローカルのオフライン フォルダー (OST ファイル) が再同期され、移行されたメールがクライアント ワークステーションにダウンロードされます。 移行が完了すると、ユーザーはメールボックス内の古いメッセージに返信できます。
+ユーザーをクラウド メールボックスに切り替える場合、管理者は MX レコードを構成して Microsoft をポイントし、Outlook でユーザーのプロファイルを再構成します。 ユーザーがクラウド メールボックスに切り替わると、ローカルのオフライン フォルダー (OST ファイル) が再同期され、移行されたメールがクライアント ワークステーションにダウンロードされます。 移行が完了すると、ユーザーはメールボックス内の古いメッセージに返信できます。
   
 Exchange の一括移行の詳細については、「[Office 365 への一括メール移行について知っておくべきこと](https://support.office.com/article/365-961978ef-f434-472d-a811-1801733869da)」を参照してください。
   
@@ -108,34 +108,32 @@ Exchange での段階的な移行の詳細については、「[Office 365 へ�
 
 Microsoft は、既存の電子メール環境を Exchange Online に移行するのに役立ついくつかのツールを提供しています。どのツールが適切かは、組織の現在の環境と展開目標によって異なります。
   
-- **移行ダッシュボード** -管理者は、exchange 管理センターの移行ダッシュボードを使用して、exchange の一括移行または段階的移行で exchange Online へのメールボックスの移行を管理できます。 管理者は、移行ダッシュボードを使用して、ユーザーのメールボックスのコンテンツを社内 IMAP サーバーから既存の Exchange Online メールボックスに移行することもできます。 管理者は移行ダッシュボードにより、次のことが行えます。 
+- **移行ダッシュボード** - 管理者は、Exchange 管理センターの移行ダッシュボードを使用して、Exchange Online へのメールボックス移行を一切切り取りまたは段階移行で管理できます。 管理者は、移行ダッシュボードを使用して、ユーザーのメールボックスのコンテンツを社内 IMAP サーバーから既存の Exchange Online メールボックスに移行することもできます。 管理者は移行ダッシュボードにより、次のことが行えます。 
     
-  - **複数の移行バッチを作成して開始** する-管理者は最大100の移行バッチを作成し、キューに入れます。 一度に実行できる移行バッチは 1 つのみですが、管理者は複数のバッチをキューに入れることができるため、1 つの移行バッチの実行が完了すると、キュー内の次のバッチが開始されます。 
+  - **複数の移行バッチを作成して開始する** - 管理者は最大 100 の移行バッチを作成してキューに入れられます。 一度に実行できる移行バッチは 1 つのみですが、管理者は複数のバッチをキューに入れることができるため、1 つの移行バッチの実行が完了すると、キュー内の次のバッチが開始されます。 
     
-  - **エラーが発生した移行バッチを再起動** する-移行バッチの初期同期が完了すると、アイテムがオンプレミスのメールボックスから移行バッチ内の各ユーザーのクラウドメールボックスにコピーされるため、一部のメールボックスが同期に失敗する場合があります。 このとき管理者は、その移行バッチを再開して、失敗したメールボックスの同期を試行できます。 
+  - **失敗した** 移行バッチを再起動する - 移行バッチの初期同期の後、アイテムが移行バッチ内の各ユーザーのクラウド メールボックスにオンプレミスメールボックスからコピーされた後、一部のメールボックスは同期に失敗する可能性があります。 このとき管理者は、その移行バッチを再開して、失敗したメールボックスの同期を試行できます。 
     
-  - **スキップ** されたアイテムの詳細を取得する-IMAP の移行、一括移行、段階的な移行の場合、移行ダッシュボードには、スキップされた特定のアイテムに関する情報が表示されます。これには、アイテムがユーザーのメールボックス内に配置されている理由や場所が含まれます。 
+  - **スキップ** されたアイテムの詳細を取得する - IMAP 移行、カットオーバー移行、およびステージ移行の場合、移行ダッシュボードには、スキップされた特定のアイテムに関する情報 (アイテムがユーザーのメールボックス内にある理由と場所など) が表示されます。 
     
-  - 移行**レポートを開く**-管理者は、移行バッチの移行の統計情報または移行エラーレポートをダッシュボードから開くことができます。 
+  - **[移行レポートを開** く] - 管理者は、ダッシュボードから移行バッチの移行統計または移行エラー レポートを開きます。 
     
-  - **移行バッチを編集** する-段階的な Exchange の移行または IMAP 移行の移行バッチが移行キューにあり、現在は実行されていない場合、管理者は移行バッチを編集できます。 
+  - **移行バッチの編集** - Exchange の段階移行または IMAP 移行の移行バッチが移行キューに含み、現在実行中ではない場合、管理者は移行バッチを編集できます。 
     
-- **Azure Active Directory 同期ツール** -Azure Active directory 同期ツールは、exchange Online とオンプレミスの exchange サーバーの両方を利用するハイブリッド電子メールシナリオへの移行で重要な役割を果たします。 このツールは、社内 Active Directory から Exchange Online への一方向の同期を実行します。 管理者は、移行が完了した後、Exchange Online のみを使用して Active Directory ユーザーおよびグループを管理できます。 また、このツールは、オンライン環境と社内環境が継続的に同期される統合グローバル アドレス一覧をユーザーに提供します。 
+- **Azure Active Directory 同期ツール** - Azure Active Directory 同期ツールは、Exchange Online とオンプレミスの両方のサーバーを利用するハイブリッド 電子メール シナリオへの移行において重要な役割をExchange Server。 このツールは、社内 Active Directory から Exchange Online への一方向の同期を実行します。 管理者は、移行が完了した後、Exchange Online のみを使用して Active Directory ユーザーおよびグループを管理できます。 また、このツールは、オンライン環境と社内環境が継続的に同期される統合グローバル アドレス一覧をユーザーに提供します。 
     
-    Azure Active Directory 同期ツール の詳細については、「[オンプレミス ID と Azure Active Directory の統合](https://go.microsoft.com/fwlink/p/?LinkId=287034)」を参照してください。
+    Azure Active Directory 同期ツール の詳細については、「[オンプレミス ID と Azure Active Directory の統合](/azure/active-directory/hybrid/whatis-hybrid-identity)」を参照してください。
     
-- **ハイブリッド構成ウィザード** -ハイブリッド構成ウィザードは、機能とサービスの社内および Exchange Online 構成を簡略化することによって、ハイブリッド展開プロセスを簡素化します。 Exchange Server 2010 Service Pack 2 の一部として導入されたハイブリッド構成ウィザードは、社内組織でのみ実行され、次のコンポーネントを備えています。 
+- **ハイブリッド構成ウィザード** - ハイブリッド構成ウィザードは、機能とサービスのオンプレミス構成と Exchange Online 構成を簡素化することにより、ハイブリッド展開プロセスを合理化します。 Exchange Server 2010 Service Pack 2 の一部として導入されたハイブリッド構成ウィザードは、社内組織でのみ実行され、次のコンポーネントを備えています。 
     
   - 管理者によるハイブリッド展開の構成をエンドツーエンドのプロセスでサポートする Exchange 管理センター (EAC) のウィザード。
     
   - 構成プロセスを調整する一連の Exchange 管理シェル (EMS) コマンド。
     
-    ハイブリッド構成ウィザードの詳細については、「[ハイブリッド構成ウィザード](https://go.microsoft.com/fwlink/p/?LinkId=271734)」を参照してください。
+    ハイブリッド構成ウィザードの詳細については、「[ハイブリッド構成ウィザード](/exchange/hybrid-configuration-wizard)」を参照してください。
     
-- **リモート Windows powershell** -Exchange Online のサービス更新プログラム (2011) の一部として、リモート windows powershell を使用して移行エラーのトラブルシューティングに役立てることができます。 たとえば管理者は、移行バッチの診断情報や、プライマリ SMTP アドレスに基づくユーザーの移行統計情報および診断情報を表示できます。 
+- **リモート Windows PowerShell** - Exchange Online 2011 年 12 月のサービス更新プログラムの一部として、リモート Windows PowerShellを使用して移行エラーのトラブルシューティングに役立ちます。 たとえば管理者は、移行バッチの診断情報や、プライマリ SMTP アドレスに基づくユーザーの移行統計情報および診断情報を表示できます。 
     
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
-  
-
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには [、「Exchange Online サービスの説明」を参照してください](exchange-online-service-description.md)。

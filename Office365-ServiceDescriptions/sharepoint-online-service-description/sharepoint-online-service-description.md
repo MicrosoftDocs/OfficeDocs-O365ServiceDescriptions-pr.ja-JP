@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: プランで使用できる SharePoint 機能を確認します。
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901937"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174102"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -32,7 +32,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、ナレッジ、お
   
 SharePoint でユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較 [表を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 Microsoft 365 のシステム要件については [、「Microsoft 365」および「Officeリソース」を参照してください](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
-米国政府機関のクラウド顧客向け SharePoint 機能の違いについては [、「SharePoint for US Government environments」を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
+米国政府機関のクラウド顧客向け SharePoint 機能の違いについては [、「SharePoint for US Government environments」を参照してください](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
 ## <a name="whats-new"></a>新機能
 
@@ -54,7 +54,7 @@ Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラ�
 
 ## <a name="apps"></a>アプリ
 
-コンピューター上の SharePoint ファイルを同期するには、ユーザーは Windows または Mac 用 [の OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) を使用できます。 同期アプリでの機能の可用性の詳細については [、「OneDrive サービスの説明」を参照してください](/office365/servicedescriptions/onedrive-for-business-service-description)。 
+コンピューター上の SharePoint ファイルを同期するには、ユーザーは Windows または Mac 用 [の OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) を使用できます。 同期アプリでの機能の可用性の詳細については [、「OneDrive サービスの説明」を参照してください](../onedrive-for-business-service-description.md)。 
 
 モバイル デバイス上の SharePoint サイトを使用するには [、iOS、Android、](https://products.office.com/sharepoint/mobile-app)または Windows 用の SharePoint モバイル アプリをインストールできます。 
   
@@ -81,7 +81,7 @@ Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラ�
 
 Microsoft Power Apps と Power Automate の可用性の詳細については、「Power Apps と Power Automate のライセンスに関する FAQ」 [を参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-Microsoft Graph の可用性の詳細については [、「Microsoft 365 および Office 365 プラットフォーム サービスの説明」を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)。
+Microsoft Graph の可用性の詳細については [、「Microsoft 365 および Office 365 プラットフォーム サービスの説明」を参照してください](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)。
 
 ## <a name="it-admin-features"></a>IT 管理者の機能
 
@@ -110,7 +110,7 @@ Microsoft Graph の可用性の詳細については [、「Microsoft 365 およ
 
 FastTrack 移行サービスの可用性の詳細については、「対象となるサービスとプラン [」を参照してください](/fasttrack/m365-eligible-services-and-plans)。 
 
-共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](/office365/servicedescriptions/onedrive-for-business-service-description)。
+共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md)。
 
 SharePoint の管理者向けヘルプについては [、「SharePoint Online 管理者」を参照してください](/sharepoint/sharepoint-online)。
 
@@ -127,9 +127,9 @@ SharePoint の管理者向けヘルプについては [、「SharePoint Online �
 - [ドキュメント ライブラリを以前の時点に復元する](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [ウイルススキャン](/office365/securitycompliance/virus-detection-in-spo)
 
-共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](/office365/servicedescriptions/onedrive-for-business-service-description)。
+共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md)。
 
-SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプライアンス機能と統合されます。 次の機能の可用性の詳細については [、「Security &コンプライアンス サービスの説明」を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
+SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプライアンス機能と統合されます。 次の機能の可用性の詳細については [、「Security &コンプライアンス サービスの説明」を参照してください](../office-365-platform-service-description/office-365-securitycompliance-center.md)。
 
 - [カスタマー ロックボックス](/microsoft-365/compliance/customer-lockbox-requests)
 - [データ損失防止 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ Azure Information [Protection の詳細については、「Azure](/microsoft-36
 
 Microsoft Power Apps と Power Automate の可用性の詳細については、「Power Apps と Power Automate のライセンスに関する FAQ」 [を参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)。
+共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)。
 
 ## <a name="search-features"></a>検索機能
 
@@ -202,6 +202,4 @@ Microsoft Power Apps と Power Automate の可用性の詳細については、�
 - [検索センター (クラシック検索)](/sharepoint/manage-search-center)
 - [検索スキーマ (クラシック検索とモダン検索)](/sharepoint/manage-search-schema)
 
-Delve の詳細については [、「Microsoft 365 および Office 365 プラットフォーム](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)サービスの説明」を参照してください。 
-
-
+Delve の詳細については [、「Microsoft 365 および Office 365 プラットフォーム](../office-365-platform-service-description/office-365-platform-service-description.md)サービスの説明」を参照してください。

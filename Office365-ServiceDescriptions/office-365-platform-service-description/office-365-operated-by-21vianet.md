@@ -9,26 +9,26 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 21Vianet が運用する 365 は、中国のセキュリティで保護され、信頼性が高く、拡張性の高いクラウド サービスのニーズに対応するように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7fe18fd929dbfa5410eed49ff8a4c6df72ae5b6a
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902062"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174062"
 ---
-# <a name="office-365-operated-by-21vianet"></a>21 Vianet が運用している Office 365
+# <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
 Office 21Vianet が運用する 365 は、中国のセキュリティで保護され、信頼性が高く、拡張性の高いクラウド サービスのニーズに対応するように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
 
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
-Microsoft はサービス自体を運用しません。 21Vianet は、サービスの配信を運用、提供、および管理します。 21Vianet は、ホスティング、管理ネットワーク サービス、クラウド コンピューティング インフラストラクチャ サービスを提供する、中国最大のキャリアニュートラルなインターネット データセンター サービス プロバイダーです。 Microsoft テクノロジをライセンスすることで、21Vianet はローカル Office 365 データ センターを運用し、Office 365 サービスを使用しながら中国内でデータを保持する機能を提供します。 21Vianet は、サブスクリプション [サービスと課金サービス、およびサポートも提供します](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
+Microsoft はサービス自体を運用しません。 21Vianet は、サービスの配信を運用、提供、および管理します。 21Vianet は、ホスティング、管理ネットワーク サービス、クラウド コンピューティング インフラストラクチャ サービスを提供する、中国最大のキャリアニュートラルなインターネット データセンター サービス プロバイダーです。 Microsoft テクノロジをライセンスすることで、21Vianet はローカル Office 365 データ センターを運用し、Office 365 サービスを使用しながら中国内でデータを保持する機能を提供します。 21Vianet は、サブスクリプション [サービスと課金サービス、およびサポートも提供します](/Office365/Admin/contact-support-for-business-products?preserve-view=true&tabs=phone&view=o365-21vianet)。
 
 > [!NOTE]
 > これらのサービスは中国の法律に従います。
 
-中国内のデータ センターのパートナーが運営する中国サービスの固有の性質により、まだ有効になっていない機能がいくつか存在します。 お客様は、段階的にサービスの完全な機能をご利用いただけるようになります。 相違点については、サービス説明の脚注を参照してください。 より詳細なレベルの相違点の概要については、「[21Vianet が運用している Office 365 の詳細](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)」を参照してください。
+中国内のデータ センターのパートナーが運営する中国サービスの固有の性質により、まだ有効になっていない機能がいくつか存在します。 お客様は、段階的にサービスの完全な機能をご利用いただけるようになります。 相違点については、サービス説明の脚注を参照してください。 より詳細なレベルの相違点の概要については、「[21Vianet が運用している Office 365 の詳細](/office365/admin/services-in-china/services-in-china)」を参照してください。
 
 ## <a name="service-availability-within-each-plan"></a>それぞれのプランのサービスの可用性
 
@@ -55,7 +55,7 @@ Microsoft はサービス自体を運用しません。 21Vianet は、サービ
 <sup>1</sup> Office 365 管理、Office 365 スイート アプリ、ユーザー アカウント管理、ドメイン、サービス正常性と継続性、レポート作成、サービスの更新、ヘルプとトレーニング、ネットワーキングなどの機能が含まれます。 詳しくは、 [プラットフォーム機能](office-365-operated-by-21vianet.md#platform-features)表をご覧ください。
 <br/><sup>2</sup> Project Online は含まれていませんが、個別のアドオン サービスとして購入するか、Office 365 A1 プランに無料で追加することができます。
 <br/><sup>3</sup> Web 消費用の Visio (表示機能) は無料で利用できます。 Web の Visio の作成および編集機能には、ライセンスが必要です。 Visio for the web の詳細については [、「Visio for the Web サービスの説明」を参照してください](../visio-online-service-description/visio-online-service-description.md)。
-<br/><sup>4</sup> AIP は、21Vianet Office 365 で部分的にサポートされています。 詳細については [、「21Vianet](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)が運営する Azure Information Protection for Office 365 と商用製品のパリティ」を参照してください。
+<br/><sup>4</sup> AIP は、21Vianet Office 365 で部分的にサポートされています。 詳細については [、「21Vianet](/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?preserve-view=true&view=o365-21vianet)が運営する Azure Information Protection for Office 365 と商用製品のパリティ」を参照してください。
 
 ## <a name="system-requirements"></a>システム要件
 
@@ -81,9 +81,9 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
 
-| 特徴 | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
+| 機能 | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Office 365 の管理機能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
+|**[Office 365 の管理機能](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-21vianet#admin-center-features-and-settings)**||||||||
 |Microsoft 365 Office管理センターまたは管理者アカウントを使用して、365 を管理Windows PowerShell|はい|はい|はい|はい|はい|はい|はい|
 |AIP を使用してコンテンツを保護する|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |機械翻訳によるメッセージ センター投稿の手動翻訳|はい|はい|はい|はい|はい|はい|はい|
@@ -111,7 +111,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 |Exchange のシンプルな (一括) 移行|はい|はい|はい|はい|はい|はい|はい|
 |Office 365 からまたは Windows PowerShell を使用してアカウントの削除とユーザー パスワードのリセットを行う<sup>3</sup>|はい|はい|はい|はい|はい|はい|はい|
 |ユーザーが自分のパスワードを変更できる|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|ライセンスの管理|は<sup>い 6</sup>|は<sup>い 6</sup>|は<sup>い 6</sup>|はい<sup>6、7</sup>|はい<sup>6、7</sup>|はい<sup>6、7</sup>|はい<sup>6、7</sup>|
+|ライセンスの管理|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6、7</sup>|はい<sup>6、7</sup>|はい<sup>6、7</sup>|はい<sup>6、7</sup>|
 |Office 365 からのセキュリティ グループの管理|はい|はい|はい|はい|はい|はい|はい|
 |複数の管理者役割を使用できる|はい|はい|はい|はい|はい|はい|はい|
 |パートナーに Office 365 の管理を許可する|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -186,7 +186,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 |脅威インテリジェンス|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |情報ガバナンス – アイテム保持ポリシー|は<sup>い 16</sup>|は<sup>い 16</sup>|は<sup>い 16</sup>|いいえ|は<sup>い 16</sup>|は<sup>い 16</sup>|はい|
 |情報ガバナンス (アイテム保持ポリシーを除く)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
+|**[コンプライアンス](/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70/SSAE16 の評価|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |ISO 27001 認定|はい|はい|はい|はい|はい|はい|はい|
 |EU モデル条項|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
@@ -220,8 +220,8 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 <sup>13 エクスペリエンス</sup> の低下。 組織が Internet Explorer 8 または Internet Explorer 9 に依存して古い Web アプリやサービスにアクセスする場合は、Internet Explorer 11 へのアップグレードと、Internet Explorer 11 のエンタープライズ モードの評価を検討してください。 この更新プログラムは、従来の Web アプリの下位互換性を向上するのに役立ちます。 <br/>
 <sup>14</sup> 多要素認証は、Outlook モバイル (iOS および Android) では現在サポートされていません。 <br/>
 <sup>15</sup> OneNote クラス ノートブックは 21Vianet 経由で使用できますが、OneNote クラス ノートブック ツールバーは Windows 10 アプリ、iPad、または OneNote for the web では使用できません。 <br/>
-<sup>16 Office</sup> 365 が 21Vianet によって運用されている場合は、保持ポリシーのみをサポートします。 ユーザーと Teams の場所の保持ラベルYammer保持ポリシーはサポートされていません。 詳細については、「アイテム保持ポリシー [の使用を開始する」を参照してください](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
-<sup>17</sup> Microsoft 365 の監査では、組織は Microsoft 365 の異なるサービス全体でさまざまな種類の監査アクティビティを可視化できます。 セキュリティ コンプライアンス [センター &amp; の監査ログ](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 検索を使用して、組織内のユーザーと管理者のアクティビティを表示します。 また [、365 管理](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) Office API を使用して、統合監査ログからイベントを取得することもできます。 監査アクティビティがユーザーまたは管理者によって実行されると、監査レコードが生成され、顧客組織の監査ログに保存されます。 監査レコードが保持される時間 (および監査ログで検索可能) の長さは、お客様の Office 365 または Microsoft 365 Enterprise サブスクリプション、および特定のユーザーに割り当てられたライセンスの種類によって異なります。
+<sup>16 Office</sup> 365 が 21Vianet によって運用されている場合は、保持ポリシーのみをサポートします。 ユーザーと Teams の場所の保持ラベルYammer保持ポリシーはサポートされていません。 詳細については、「アイテム保持ポリシー [の使用を開始する」を参照してください](/microsoft-365/compliance/get-started-with-retention)。 <br/>
+<sup>17</sup> Microsoft 365 の監査では、組織は Microsoft 365 の異なるサービス全体でさまざまな種類の監査アクティビティを可視化できます。 セキュリティ コンプライアンス [センター &amp; の監査ログ](./office-365-securitycompliance-center.md) 検索を使用して、組織内のユーザーと管理者のアクティビティを表示します。 また [、365 管理](/office/office-365-management-api/office-365-management-activity-api-reference) Office API を使用して、統合監査ログからイベントを取得することもできます。 監査アクティビティがユーザーまたは管理者によって実行されると、監査レコードが生成され、顧客組織の監査ログに保存されます。 監査レコードが保持される時間 (および監査ログで検索可能) の長さは、お客様の Office 365 または Microsoft 365 Enterprise サブスクリプション、および特定のユーザーに割り当てられたライセンスの種類によって異なります。
 
 ## <a name="office-365-application-features"></a>Office 365 アプリケーション機能
 
@@ -230,7 +230,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
-| 特徴 | 21Vianet が運用している Office Professional Plus 2013 | 21Vianet が運用している Office Professional Plus 2016 | Office 365 ProPlus 21Vianet が運用している | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
+| 機能 | 21Vianet が運用している Office Professional Plus 2013 | 21Vianet が運用している Office Professional Plus 2016 | Office 365 ProPlus 21Vianet が運用している | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office アプリケーション**|||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|はい|はい|はい|はい|いいえ|はい|No<sup>5</sup>|いいえ|はい|いいえ|
@@ -254,7 +254,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|いいえ|はい|いいえ|いいえ|いいえ|はい|No<sup>5</sup>|いいえ|はい|いいえ|
 |Outlook for Android|いいえ|はい|はい|はい|いいえ|はい|No<sup>5</sup>|いいえ|はい|いいえ|
 |**企業にとっての利点**|**21Vianet が運用している Office Professional Plus 2013**|**21Vianet が運用している Office Professional Plus 2016**|**Office 365 ProPlus 21Vianet が運用している**|**Office 365 Business 21Vianet が運用している**|**Office 365 Business Essentials 21Vianet が運用している**|**Office 365 Business Premium 21Vianet が運用している**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
-|PC または Mac 上のユーザーごとに 5 個のインストール|いいえ|はい|は<sup>い 6</sup>|は<sup>い 6</sup>|いいえ|はい|No<sup>5</sup>|いいえ|はい|いいえ|
+|PC または Mac 上のユーザーごとに 5 個のインストール|いいえ|はい|はい<sup>6</sup>|はい<sup>6</sup>|いいえ|はい|No<sup>5</sup>|いいえ|はい|いいえ|
 |自動化されたユーザー アカウント プロビジョニング|該当なし|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |多言語ユーザー インターフェイス|はい|はい|はい|いいえ|いいえ|はい|いいえ|いいえ|はい|いいえ|
 |クライアント プッシュ展開|はい|はい|はい|はい|はい|はい|いいえ|いいえ|はい|いいえ|
@@ -288,7 +288,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 <sup>1</sup> アーカイブ機能とコンプライアンス機能はこのバージョンの Office でサポートされていますが、Exchange Online プランと SharePoint Online プランは含まれていないため、これらのプランを個別に購入するか、またはサポートされているオンプレミスのサーバーの同等の機能と共に使用する必要があります。
 <br/><sup>2</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするには、別途購入および管理する必要があるオンプレミス サーバーです。
 <br/><sup>3</sup> Excel 2013 の Office Professional Plus 2013 またはスタンドアロン バージョンがある場合は、サポートされていないアドインとして [Power Map Preview for Excel 2013](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409) をダウンロードして使用できます。
-<br/><sup>4</sup> Skype for Business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Office 365 ProPlus と Office 365 Enterprise E3 には完全な Skype アプリケーションが含まれています。これには、高度なテレフォニー サポート、アーカイブ、コンプライアンスの機能などの追加機能が含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<br/><sup>4</sup> Skype for Business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Office 365 ProPlus と Office 365 Enterprise E3 には完全な Skype アプリケーションが含まれています。これには、高度なテレフォニー サポート、アーカイブ、コンプライアンスの機能などの追加機能が含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>5</sup> 一部の学校は、Office 365 ProPlus を含む Education Plus の対象であり、学生、教職員、およびスタッフが最大 5 台の PC または Mac コンピューター、および Windows タブレットや iPad を含む他のモバイル デバイスに最新バージョンの Office をインストールできます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。
 <br/><sup>Mac 用 6</sup> Office 2011インストールできますが、アクティブ化できません。
 <br/><sup>7</sup> Office 365 ProPlus は、ユーザー専用の仮想デスクトップ インフラストラクチャ (VDI) でサポートされています。 Office 365 ProPlus でリモート デスクトップ サービス (RDS) がサポートされるのは、ボリューム ライセンス プログラムを通して購入した場合のみです。
@@ -324,10 +324,10 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
-| 特徴 | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
+| 機能 | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[計画と展開](../exchange-online-service-description/planning-and-deployment.md)**||||||||
-|サポートされているハイブリッド展開|はい<sup>9、10</sup>|は<sup>い 10</sup>|はい<sup>9、10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|
+|サポートされているハイブリッド展開|はい<sup>9、10</sup>|はい<sup>10</sup>|はい<sup>9、10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|
 |サポートされている IMAP 移行|はい|はい|はい|はい|はい|はい|はい|
 |カット オーバー移行のサポート|はい|はい|はい|はい|はい|はい|はい|
 |サポートされている段階的な移行|はい|はい|はい|はい|はい|はい|はい|
@@ -424,7 +424,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 |リモート Windows PowerShell へのアクセス|はい|はい|はい|はい|はい|はい|はい|
 |モバイル デバイスの ActiveSync ポリシー|はい|はい|はい|はい|はい|はい|はい|
 |利用状況レポート|はい|はい|はい|はい|はい|はい|はい|
-|**[サービスの拡張 - カスタマイズ、アドイン、およびリソース](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
+|**[サービスの拡張 - カスタマイズ、アドイン、およびリソース](../exchange-online-service-description/exchange-online-service-description.md)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
 |Outlook アドインと Outlook MAPI|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|いいえ|
 
 <sup>1</sup> 一部のサード パーティ製 Web パーツとアドインを使用できない場合があります。
@@ -436,12 +436,12 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 <br/><sup>7</sup> 電子情報開示の場合は、オンプレミスとクラウドに対する個別のクエリが必要です。
 <br/><sup>8</sup> POP はサポートされますが、IMAP はサポートされていません。
 <br/><sup>9</sup> Office 365 Business Essentials および Business Premium では、オンプレミス サーバーでの使用に関するアクセス権は提供されません。 準拠するには、お客様は適切な DLL を購入するか、以前に購入するか、エンタープライズ SKU にアップグレードする必要があります。このアクセス権を提供します。
-<br/><sup>10</sup> ハイブリッド構成ウィザードは、Exchange 2013 CU5 およびより多くのオンプレミス展開で使用できます。 ただし、一部のハイブリッド機能には制限があります 。ヘルプ トピックを参照してください。 詳細については [、「21Vianet Office 365」を参照してください](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)。
+<br/><sup>10</sup> ハイブリッド構成ウィザードは、Exchange 2013 CU5 およびより多くのオンプレミス展開で使用できます。 ただし、一部のハイブリッド機能には制限があります 。ヘルプ トピックを参照してください。 詳細については [、「21Vianet Office 365」を参照してください](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)。
 <br/><sup>11 21Vianet</sup> Office 365 の場合、LinkedIn は利用できますが、Facebook は使用できません。
-<br/><sup>12</sup> ハイブリッド展開セットアップは、Exchange 2013 CU5 のハイブリッド構成ウィザードを使用するか、Exchange 2013 SP1 を使用している場合は手動でセットアップできます。 ヘルプ トピックを参照してください。詳細については [、「21Vianet Office 365」を参照してください](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)。
+<br/><sup>12</sup> ハイブリッド展開セットアップは、Exchange 2013 CU5 のハイブリッド構成ウィザードを使用するか、Exchange 2013 SP1 を使用している場合は手動でセットアップできます。 ヘルプ トピックを参照してください。詳細については [、「21Vianet Office 365」を参照してください](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)。
 <br/><sup>13 接続</sup> 済みアカウントは POP IMAP アカウントでサポートされますが、このアカウントでは無効 Outlook.com &amp; (Hotmail)。
 <br/><sup>14</sup> コマンドレットを使用してアドレス一覧とグローバル アドレス一覧を処理する方法はサポートされていません。
-<br/><sup>15</sup> 現在Office 365 Message Encryption (OME) 機能は、現在の Information Rights Management (IRM) および以前の OME ソリューションの進化です。 OME の詳細については [、「365 message Encryption FAQ Office」を参照してください](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)。
+<br/><sup>15</sup> 現在Office 365 Message Encryption (OME) 機能は、現在の Information Rights Management (IRM) および以前の OME ソリューションの進化です。 OME の詳細については [、「365 message Encryption FAQ Office」を参照してください](/microsoft-365/compliance/ome-faq)。
 
 ### <a name="exchange-online-limits"></a>Exchange Online の制限
 
@@ -482,7 +482,7 @@ Exchange Online の制限の詳細については、次のトピックを参照�
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
-| 特徴 | 21Vianet が運用している Office 365 向け EOP スタンドアロン | 21Vianet が運用している Exchange Online for Office 365 の EOP 機能 |
+| 機能 | 21Vianet が運用している Office 365 向け EOP スタンドアロン | 21Vianet が運用している Exchange Online for Office 365 の EOP 機能 |
 |:-----|:-----|:-----|
 |[メールの受信者](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|はい<sup>1</sup>|はい<sup>1</sup>|
 |[管理役割グループのアクセス許可](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|はい|
@@ -494,13 +494,13 @@ Exchange Online の制限の詳細については、次のトピックを参照�
 |[データ損失防止 (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|いいえ|
 |[Office 365 Message Encryption](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|はい<sup>13</sup>|はい<sup>13</sup>|
 |[スパム対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|はい|はい|
-|[スパム対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|は<sup>い 6</sup>|はい|
-|[マルウェア対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|は<sup>い 10</sup>|はい|
+|[スパム対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|はい<sup>6</sup>|はい|
+|[マルウェア対策保護](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい<sup>10</sup>|はい|
 |[マルウェア対策ポリシーのカスタマイズ](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|はい|はい|
 |[検疫](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|はい|はい|
 |[検疫](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|はい|はい|
-|[Outlook のレポート メッセージ アドイン](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|はい|はい|
-|[Outlook on the web での迷惑メールレポート](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|No<sup>7</sup>|No<sup>7</sup>|
+|[Outlook のレポート メッセージ アドイン](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|はい|はい|
+|[Outlook on the web での迷惑メールレポート](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|No<sup>7</sup>|No<sup>7</sup>|
 |[Microsoft と独自の電子メール サーバー間の電子メールのルーティング](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|はい|はい|
 |[信頼できるパートナーとのセキュリティで保護されたメッセージング](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|はい|はい|
 |[パートナーの IP アドレスのセーフ リスト](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|はい|はい|
@@ -516,17 +516,17 @@ Exchange Online の制限の詳細については、次のトピックを参照�
 <sup>1</sup> メール ユーザーは "メールボックス" として定義され、外部メール連絡先と共に、Exchange 管理センター (EAC) で直接追加、削除、および管理できます。 <br/>
 <sup>2</sup> RBAC のカスタマイズはありません。 管理者の役割のみ。 <br/>
 <sup>3</sup> つの管理対象ドメインを表示し、EAC でドメインの種類を編集できます。 その他のすべてのドメイン管理は、Microsoft 365 管理センターで行う必要があります。 <br/>
-<sup>EOP の 4</sup> つのメール フロー ルール (トランスポート ルールとも呼ばれる) については、Exchange Online Protection のメール フロー ルール (トランスポート ルール [) で説明されています](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 使用可能なメール フロー ルールの条件、例外、およびアクションは、EOP と Exchange Online の間で若干異なります。 これらの違いは [、Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) のメール フロー ルールの条件と例外 (述語) および Exchange Online のメール フロー [ルール アクションで説明されています](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
+<sup>EOP の 4</sup> つのメール フロー ルール (トランスポート ルールとも呼ばれる) については、Exchange Online Protection のメール フロー ルール (トランスポート ルール [) で説明されています](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 使用可能なメール フロー ルールの条件、例外、およびアクションは、EOP と Exchange Online の間で若干異なります。 これらの違いは [、Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) のメール フロー ルールの条件と例外 (述語) および Exchange Online のメール フロー [ルール アクションで説明されています](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
 <sup>5</sup> EOP 監査レポートは、メールボックスに関する情報を除外する Exchange Online 監査レポートのサブセットです。 <br/>
 <sup>5</sup> EOP 監査レポートは、メールボックスに関する情報を除外する Exchange Online 監査レポートのサブセットです。<br/>
-<sup>6</sup> 既定のコンテンツ フィルターアクションは、スパム メッセージを受信者の迷惑メール フォルダーに移動します。 これをオンプレミスの Exchange メールボックスで使用するには、EOP によって追加されたスパム ヘッダーを検出するために、オンプレミスの Exchange 組織で 2 つのトランスポート ルールを構成する必要もあります。 詳細については、「スパムが各ユーザーの迷惑メール フォルダーにルーティングされる」 [を参照してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。<br/>
+<sup>6</sup> 既定のコンテンツ フィルターアクションは、スパム メッセージを受信者の迷惑メール フォルダーに移動します。 これをオンプレミスの Exchange メールボックスで使用するには、EOP によって追加されたスパム ヘッダーを検出するために、オンプレミスの Exchange 組織で 2 つのトランスポート ルールを構成する必要もあります。 詳細については、「スパムが各ユーザーの迷惑メール フォルダーにルーティングされる」 [を参照してください](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。<br/>
 <sup>7</sup> この機能は、メールボックスが EOP によってフィルター処理されている Exchange Server 2013 Service Pack 1 (SP1) のお客様が利用できます。すぐに Exchange Online のお客様が利用できます。 <br/>
 <sup>8</sup> EOP レポートは、メールボックスに関する情報を除外する Exchange Online レポートのサブセットです。 <br/>
 <sup>9</sup> DLP レポートが含まれます。 <br/>
 <sup>10</sup> 受信メッセージと送信メッセージをスキャンしますが、組織内の送信者から組織内の受信者に送信された内部メッセージはスキャンしません。 <br/>
 <sup>11 使用可能</sup> な述語とアクションは、EOP と Exchange Online で異なります。 <br/>
 <sup>12</sup> ハイブリッド セットアップはハイブリッド ウィザードでは使用できませんが、Exchange SP1 を使用している場合は手動でセットアップできます。
-<br/><sup>13</sup> 現在Office 365 Message Encryption (OME) 機能は、現在の Information Rights Management (IRM) および以前の OME ソリューションの進化です。 OME の詳細については [、「365 message Encryption FAQ Office」を参照してください](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)。
+<br/><sup>13</sup> 現在Office 365 Message Encryption (OME) 機能は、現在の Information Rights Management (IRM) および以前の OME ソリューションの進化です。 OME の詳細については [、「365 message Encryption FAQ Office」を参照してください](/microsoft-365/compliance/ome-faq)。
 
 ## <a name="exchange-online-archiving-features"></a>Exchange Online Archiving 機能
 
@@ -537,12 +537,12 @@ Exchange Online Archiving は以下のプランを通して使用できます。
 
 | プラン | 説明 |
 |:-----|:-----|
-|**21Vianet が運用している Exchange Server for Office 365 用の Exchange Online Archiving**|Exchange Server 2013 または Exchange 2010 (SP2 以降) 内のプライマリ メールボックスを使用しているユーザー用のクラウド ベースのアーカイブ。  <br/> 社内の Exchange サーバー上にあるプライマリ メールボックスにクラウド ベースのアーカイブを追加する場合は、ハイブリッド展開を構成する必要があります。 ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](https://docs.microsoft.com/exchange/exchange-hybrid)」を参照してください。|
-|**21Vianet が運用している Exchange Online for Office 365 用の Exchange Online Archiving**| 以下のプランには、既にアーカイブが含まれており、アドオンとしての Exchange Online Archiving は必要ありません。  <br/>  Office 365 A1 21Vianet が運用している  <br/>  Office 365 Enterprise E3 21Vianet が運用している  <br/>  21Vianet が運用している、Office 365 用の Exchange Online プラン 2  <br/>  Exchange Online メールボックスのアーカイブ機能について詳しくは、「 [Exchange Online のアーカイブ メールボックス](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)」をご覧ください。|
+|**21Vianet が運用している Exchange Server for Office 365 用の Exchange Online Archiving**|Exchange Server 2013 または Exchange 2010 (SP2 以降) 内のプライマリ メールボックスを使用しているユーザー用のクラウド ベースのアーカイブ。  <br/> 社内の Exchange サーバー上にあるプライマリ メールボックスにクラウド ベースのアーカイブを追加する場合は、ハイブリッド展開を構成する必要があります。 ハイブリッド展開の詳細については、「[Exchange Server のハイブリッド展開](/exchange/exchange-hybrid)」を参照してください。|
+|**21Vianet が運用している Exchange Online for Office 365 用の Exchange Online Archiving**| 以下のプランには、既にアーカイブが含まれており、アドオンとしての Exchange Online Archiving は必要ありません。  <br/>  Office 365 A1 21Vianet が運用している  <br/>  Office 365 Enterprise E3 21Vianet が運用している  <br/>  21Vianet が運用している、Office 365 用の Exchange Online プラン 2  <br/>  Exchange Online メールボックスのアーカイブ機能について詳しくは、「 [Exchange Online のアーカイブ メールボックス](/office365/securitycompliance/eop/exchange-online-protection-overview)」をご覧ください。|
 
 次の表では、21Vianet が運用している Office 365 で利用可能な Exchange Online Archiving 機能を示します。<br><br>
 
-| 特徴 | Exchange Online Archiving for Exchange Server<sup>1</sup> | Exchange Online Archiving for Exchange Online<sup>2</sup> |
+| 機能 | Exchange Online Archiving for Exchange Server<sup>1</sup> | Exchange Online Archiving for Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[アーカイブ機能をExchange Online Archiving](../exchange-online-archiving-service-description/archive-features.md)**|||
 |アーカイブ メールボックス|いいえ|はい|
@@ -661,12 +661,12 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Design Manager|はい|いいえ|はい|はい|はい|はい|はい|
 |ドキュメント セット|はい|はい|はい|はい|はい|はい|はい|
 |Word for the web でのドキュメント変換|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|電子情報開示検索|は<sup>い 6</sup>|はい|は<sup>い 6</sup>|は<sup>い 6</sup>|は<sup>い 6</sup>|は<sup>い 6</sup>|は<sup>い 6</sup>|
-|電子情報開示の保留|No<sup>6</sup>|いいえ|No<sup>6</sup>|No<sup>6</sup>|No<sup>6</sup>|は<sup>い 6</sup>|No<sup>6</sup>|
-|電子情報開示のエクスポート|No<sup>6</sup>|いいえ|No<sup>6</sup>|いいえ|No<sup>6</sup>|は<sup>い 6</sup>|No<sup>6</sup>|
+|電子情報開示検索|はい<sup>6</sup>|はい|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|はい<sup>6</sup>|
+|電子情報開示の保留|No<sup>6</sup>|いいえ|No<sup>6</sup>|No<sup>6</sup>|No<sup>6</sup>|はい<sup>6</sup>|No<sup>6</sup>|
+|電子情報開示のエクスポート|No<sup>6</sup>|いいえ|No<sup>6</sup>|いいえ|No<sup>6</sup>|はい<sup>6</sup>|No<sup>6</sup>|
 |メールが有効なリストとライブラリ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|外部共有: 外部アクセス|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|
-|外部共有: ゲスト リンク|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|は<sup>い 10</sup>|
+|外部共有: 外部アクセス|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|
+|外部共有: ゲスト リンク|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|はい<sup>10</sup>|
 |フォルダーの同期|はい<sup>1、10</sup>|はい|はい<sup>1、10</sup>|はい<sup>1、10</sup>|はい<sup>1</sup>|はい|は<sup>い 2、11</sup>|
 |ハイブリッドの監査|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |ハイブリッド分類とコンテンツ タイプ|はい|はい|はい|はい|はい|はい|は<sup>い 15</sup>|
@@ -836,10 +836,10 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 次の表は、21Vianet が運用している Office 365 プランで利用可能な Skype for Business Online 機能の一覧です。
 
 > [!NOTE]
-> - この表は、各 Office 365 オプションのクライアントとサービスの有無を示しています。 Skype for Business デスクトップ クライアント、Web クライアント、およびモバイル クライアント間で個々の機能を比較する場合は、「 [デスクトップ](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) クライアント比較テーブル」および「Mobile Client Comparison [Tables」を参照してください](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)。
+> - この表は、各 Office 365 オプションのクライアントとサービスの有無を示しています。 Skype for Business デスクトップ クライアント、Web クライアント、およびモバイル クライアント間で個々の機能を比較する場合は、「 [デスクトップ](/lyncserver/lync-server-2013-desktop-client-comparison-tables) クライアント比較テーブル」および「Mobile Client Comparison [Tables」を参照してください](/lyncserver/lync-server-2013-mobile-client-comparison-tables)。
 > - Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
-| 特徴 | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
+| 機能 | 21Vianet が運用している Office 365 Business Essentials | 21Vianet が運用している Office 365 Business | 21Vianet が運用している Office 365 Business Premium | Office 365 A1 21Vianet が運用している | 21Vianet が運用している Office 365 Enterprise E1 | Office 365 Enterprise E3 21Vianet が運用している | Office 21Vianet が運用する 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1、4</sup>|はい<sup>1、4</sup>|はい|いいえ|
@@ -937,7 +937,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |ボイスメール|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (国内通話プラン、必要なアドオン購入)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |[通話プラン](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (国際通話プラン、必要なアドオン購入)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
-|[コミュニケーション クレジット](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
+|[コミュニケーション クレジット](/microsoftteams/what-are-communications-credits)|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |Skype for Business 音声|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|
 |**[セキュリティとアーカイブ](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**21Vianet が運用している Office 365 Business Essentials**|**21Vianet が運用している Office 365 Business**|**21Vianet が運用している Office 365 Business Premium**|**Office 365 A1 21Vianet が運用している**|**21Vianet が運用している Office 365 Enterprise E1**|**21Vianet が運用している Office 365 Enterprise E3**|**Office 21Vianet が運用する 365 Enterprise F3**|
 |IM とメディアの暗号化|はい|はい|はい|はい|はい|はい|いいえ|
@@ -965,7 +965,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Windows PowerShell|はい|はい|はい|はい|はい|はい|いいえ|
 |Microsoft 365 管理センターでの Skype for Business Online レポート|はい|はい|はい|はい|はい|はい|いいえ|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus、Office 365 Enterprise E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus、Office 365 Enterprise E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>3</sup> Only accessible through the Skype for Business admin center management interface.
 <br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus.
@@ -977,9 +977,9 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 
 > [!NOTE]
 > - Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
-> - Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。Skype for Business クライアントをユーザーに展開するには、「[Office 365 に Skype for Business クライアントを展開する](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)」をご覧ください。
+> - Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。Skype for Business クライアントをユーザーに展開するには、「[Office 365 に Skype for Business クライアントを展開する](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)」をご覧ください。
 
-| 特徴 | 21Vianet が運用している Office 365 向け Skype for Business Online スタンドアロン プラン 1 | 21Vianet が運用している Office 365 向け Skype for Business Online スタンドアロン プラン 2 |
+| 機能 | 21Vianet が運用している Office 365 向け Skype for Business Online スタンドアロン プラン 1 | 21Vianet が運用している Office 365 向け Skype for Business Online スタンドアロン プラン 2 |
 |:-----|:-----|:-----|
 |**[Skype for Business Online のクライアント](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**|||
 |Skype for Business|いいえ<sup>1</sup>|いいえ<sup>1</sup>|
@@ -1066,7 +1066,7 @@ Office 365 の 21Vianet が運用している Office 365 バージョンは、�
 |Windows PowerShell|はい|はい|
 |Microsoft 365 管理センターでの Skype for Business Online レポート|いいえ<sup>4</sup>|いいえ<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus および Office 365 Enterprise E3 には、高度なテレフォニー サポート、アーカイブ コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 &amp; Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus および Office 365 Enterprise E3 には、高度なテレフォニー サポート、アーカイブ コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 &amp; Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1103,12 +1103,12 @@ Office 21Vianet が運用する 365 は、Outlook for iOS と Outlook for Androi
 > [!NOTE]
 > Office 365 の 21Vianet が運用している Office 365 バージョンは、中国に固有です。
 
-| 特徴 | Project Online 21Vianet が運用している Essentials for Office 365 | Project Online 21Vianet が運用している Professional for Office 365 | Project Online 21Vianet が運用している Premium for Office 365 | 21Vianet が運用している Project Professional 2016 for Office 365 | 21Vianet が運用している Project Server 2016 for Office 365 |
+| 機能 | Project Online 21Vianet が運用している Essentials for Office 365 | Project Online 21Vianet が運用している Professional for Office 365 | Project Online 21Vianet が運用している Premium for Office 365 | 21Vianet が運用している Project Professional 2016 for Office 365 | 21Vianet が運用している Project Server 2016 for Office 365 |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**コア機能 (デスクトップ クライアント)**||||||
 |[列の追加](../project-online-service-description/core-functionality.md#add-columns)|いいえ|はい|はい|はい|いいえ|
 |[Backstage](../project-online-service-description/core-functionality.md#backstage)|いいえ|はい|はい|はい|いいえ|
-|[クリックして実行する](../project-online-service-description/core-functionality.md#click-to-run)|いいえ|はい|はい|はい|いいえ|
+|[クイック実行](../project-online-service-description/core-functionality.md#click-to-run)|いいえ|はい|はい|はい|いいえ|
 |[コンテキスト メニュー (右クリック メニュー)](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|いいえ|はい|はい|はい|いいえ|
 |[カスタム フィールド](../project-online-service-description/core-functionality.md#custom-fields)|いいえ|はい|はい|はい|いいえ|
 |[Microsoft Office アプリケーション間でのコピー アンド ペースト機能の強化](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|いいえ|はい|はい|はい|いいえ|

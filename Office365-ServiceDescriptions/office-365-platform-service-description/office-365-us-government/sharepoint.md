@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 米国政府機関向けクラウドのお客様向け SharePoint 機能の可用性について説明します。
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902027"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172932"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>米国政府機関環境向け SharePoint
 
-この記事では、SharePoint サービスの説明に記載されている米国政府機関クラウドと商用クラウドの機能の違いの概要 [について説明します](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)。 SharePoint は、Government Community Cloud (GCC)、GCC High、DoD 環境で使用できます。 
+この記事では、SharePoint サービスの説明に記載されている米国政府機関クラウドと商用クラウドの機能の違いの概要 [について説明します](../../sharepoint-online-service-description/sharepoint-online-service-description.md)。 SharePoint は、Government Community Cloud (GCC)、GCC High、DoD 環境で使用できます。 
 
-適格性や購入を含む政府機関のクラウドの詳細については [、「Microsoft 365 Government - How to buy」を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 365 Officeプランと比較するには、「365 Government プラン [Officeを参照してください](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+適格性や購入を含む政府機関のクラウドの詳細については [、「Microsoft 365 Government - How to buy」を参照してください](./microsoft-365-government-how-to-buy.md)。 365 Officeプランと比較するには、「365 Government プラン [Officeを参照してください](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
 ネットワーク接続を管理する際に必要なエンドポイントについては [、「Office 365 米国政府機関 GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) エンドポイント」または [「Office 365](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)米国政府機関の DoD エンドポイント」を参照してください。
 
@@ -52,13 +52,13 @@ ms.locfileid: "50902027"
 - Mover.io はまだサポートされていません
 - 複数地域は、すべての政府機関向けクラウドのお客様が利用できるとは言え
 
-FastTrack 移行の詳細については [、「365 US Government service description Office 365」を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)。
+FastTrack 移行の詳細については [、「365 US Government service description Office 365」を参照してください](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
 
 ## <a name="security-and-compliance-features"></a>セキュリティとコンプライアンスの機能
 
 商用顧客のセキュリティ機能とコンプライアンス機能と、政府機関向けクラウド顧客のセキュリティ機能とコンプライアンス機能の間には、既知の違いはありません。
 
-セキュリティおよびコンプライアンス機能の詳細については [、「Security &コンプライアンス センター」を参照してください](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
+セキュリティおよびコンプライアンス機能の詳細については [、「Security &コンプライアンス センター」を参照してください](../office-365-securitycompliance-center.md)。
 
 政府機関向け Azure Active Directory 機能の詳細については [、「Azure Government Security + Identity」のドキュメントを参照してください](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
@@ -83,7 +83,7 @@ FastTrack 移行の詳細については [、「365 US Government service descri
 
 ## <a name="sharing-and-sync"></a>共有と同期
 
-商用クラウドと政府機関のクラウド環境の機能の違いについては、「ファイル共有」 [を参照してください](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)。
+商用クラウドと政府機関のクラウド環境の機能の違いについては、「ファイル共有」 [を参照してください](./gcc-high-and-dod.md#file-sharing)。
 
 ## <a name="plan-for-governance"></a>ガバナンスの計画
 

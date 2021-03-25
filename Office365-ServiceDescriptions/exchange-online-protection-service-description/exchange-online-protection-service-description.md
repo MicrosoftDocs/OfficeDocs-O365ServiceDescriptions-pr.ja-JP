@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection の機能と要件に関する情報を取得します。 含まれているのは、Exchange Online Protection を提供するプランの一覧と、それらのプラン全体の機能の比較です。
-ms.openlocfilehash: 187ec7cee1b045a9e859e1157cddef29059cac2b
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901941"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173812"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection サービスの説明
 
@@ -65,14 +65,14 @@ Microsoft Exchange Enterprise CAL with Services には、EOP の電子メール�
 
 Exchange Enterprise CAL with Services ライセンスの詳細については、「Exchange ライセンスに [関するよくある質問」を参照してください](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。
 
-Exchange Enterprise CAL with Services ライセンスを持ち、EOP をプロビジョニングする場合は、「EOP サービスのセットアップ」の手順 [に従います](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)。 セットアップ手順は EOP スタンドアロンのセットアップ手順と同じです。
+Exchange Enterprise CAL with Services ライセンスを持ち、EOP をプロビジョニングする場合は、「EOP サービスのセットアップ」の手順 [に従います](/microsoft-365/security/office-365-security/set-up-your-eop-service)。 セットアップ手順は EOP スタンドアロンのセットアップ手順と同じです。
 
 > [!NOTE]
 > Exchange Enterprise CAL with Services の新機能は Exchange Online と同時に展開され、EOP スタンドアロンと同時には展開されません。EOP スタンドアロンと Exchange Online/Exchange Enterprise CAL with Services の展開スケジュールは、多少異なる場合があります。
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) の要件
 
-EOP は、SMTP メール転送エージェント (メール転送エージェントなど) とMicrosoft Exchange Server。 EOP でサポートされているオペレーティング システム、Web ブラウザー、および言語の詳細については [、Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)の Exchange 管理センターの「サポートされているブラウザー」および「サポートされている言語」セクションを参照してください。
+EOP は、SMTP メール転送エージェント (メール転送エージェントなど) とMicrosoft Exchange Server。 EOP でサポートされているオペレーティング システム、Web ブラウザー、および言語の詳細については [、Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)の Exchange 管理センターの「サポートされているブラウザー」および「サポートされている言語」セクションを参照してください。
 
 ## <a name="limits"></a>制限
 
@@ -82,7 +82,7 @@ EOP の制限については [、「Exchange Online Protection の制限」を�
 
 各機能を以下に列挙します。EOP 機能の詳細については、表内のリンクをクリックしてください。Exchange Online という記述は、主に、Office 365 Enterprise サービス ファミリを指しています。<br><br>
 
-| 特徴 | EOP スタンドアロン | Exchange Online の EOP 機能 | Exchange Enterprise CAL (サービス付き)|
+| 機能 | EOP スタンドアロン | Exchange Online の EOP 機能 | Exchange Enterprise CAL (サービス付き)|
 |:-----|:-----|:-----|:-----|
 |[メールの受信者](recipient-domain-and-company-management.md#mail-recipients)|はい<sup>1</sup>|はい<sup>1</sup>|はい|
 |[管理役割グループのアクセス許可](recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|はい|はい|
@@ -91,7 +91,7 @@ EOP の制限については [、「Exchange Online Protection の制限」を�
 |[ディレクトリ ベースのエッジ ブロック (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|はい|はい|はい|
 |[メール フロー ルール](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|はい<sup>4</sup>|は<sup>い 4、6</sup>|はい|
 |[監査ログ](messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい<sup>5</sup>|はい|はい|
-|[データ損失防止 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|はい|は<sup>い 6</sup>|
+|[データ損失防止 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|はい|はい<sup>6</sup>|
 |[Office 365 Message Encryption](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|はい<sup>12</sup>|はい|はい<sup>12</sup>|
 |[スパム対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|はい|はい|はい|
 |[スパム対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|はい<sup>7</sup>|はい|はい|
@@ -100,14 +100,14 @@ EOP の制限については [、「Exchange Online Protection の制限」を�
 |[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|はい|はい|はい|
 |[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|はい|はい|はい|
 |[申請](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|いいえ|はい|いいえ|
-|[Outlook のレポート メッセージ アドイン](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|はい|はい|はい|
-|[Outlook on the web での迷惑メールレポート](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|はい|はい|はい|
+|[Outlook のレポート メッセージ アドイン](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|はい|はい|はい|
+|[Outlook on the web での迷惑メールレポート](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|はい|はい|はい|
 |[Microsoft と独自の電子メール サーバー間の電子メールのルーティング](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|はい|はい|はい|
 |[信頼できるパートナーとのセキュリティで保護されたメッセージング](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|はい|はい|はい|
 |[パートナーの IP アドレスのセーフ リスト](mail-flow-eop.md#safe-listing-a-partners-ip-address)|はい|はい|はい|
 |[条件付きメール ルーティング](mail-flow-eop.md#conditional-mail-routing)|はい|はい|はい|
 |[ハイブリッド メール ルーティング](mail-flow-eop.md#hybrid-mail-routing)|はい|はい|はい|
-|[Microsoft 365 管理センターレポート](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |はい<sup>9</sup>|は<sup>い 10</sup>|はい <sup>9、10</sup>|
+|[Microsoft 365 管理センターレポート](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |はい<sup>9</sup>|はい<sup>10</sup>|はい <sup>9、10</sup>|
 |[Web サービスを使用したレポート作成](reporting-and-message-trace.md#reporting-using-web-services)|いいえ|はい|はい|
 |[メッセージの追跡](reporting-and-message-trace.md#message-trace)|は<sup>い 15</sup>|は<sup>い 15</sup>|はい|
 |[Microsoft 365 管理センターへのアクセス](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|はい|はい|はい|
@@ -117,10 +117,10 @@ EOP の制限については [、「Exchange Online Protection の制限」を�
 <sup>1</sup> メール ユーザーは "メールボックス" として定義され、外部メール連絡先と共に、Exchange 管理センター (EAC) で直接追加、削除、および管理できます。 <br/>
 <sup>2</sup> RBAC のカスタマイズはありません。 管理者の役割のみ。 <br/>
 <sup>3</sup> つの管理対象ドメインを表示し、EAC でドメインの種類を編集できます。 その他のすべてのドメイン管理は、Microsoft 365 管理センターで行う必要があります。<br/>
-<sup>EOP の 4</sup> つのメール フロー ルール (トランスポート ルールとも呼ばれる) については、Exchange Online Protection のメール フロー ルール (トランスポート ルール [) で説明されています](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 使用可能なメール フロー ルールの条件、例外、およびアクションは、EOP と Exchange Online の間で若干異なります。 これらの違いは [、Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) のメール フロー ルールの条件と例外 (述語) および Exchange Online のメール フロー [ルール アクションで説明されています](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
+<sup>EOP の 4</sup> つのメール フロー ルール (トランスポート ルールとも呼ばれる) については、Exchange Online Protection のメール フロー ルール (トランスポート ルール [) で説明されています](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 使用可能なメール フロー ルールの条件、例外、およびアクションは、EOP と Exchange Online の間で若干異なります。 これらの違いは [、Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) のメール フロー ルールの条件と例外 (述語) および Exchange Online のメール フロー [ルール アクションで説明されています](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
 <sup>5</sup> EOP 監査レポートは、メールボックスに関する情報を除外する Exchange Online 監査レポートのサブセットです。 <br/>
 Exchange Enterprise CAL with Services のお客様には<sup>、6</sup>つの DLP ポリシー ヒントを使用できません。  <br/>
-<sup>7</sup> 既定のコンテンツ フィルターアクションは、スパム メッセージを受信者の迷惑メール フォルダーに移動します。 これをオンプレミスの Exchange メールボックスで使用するには、EOP によって追加されたスパム ヘッダーを検出するために、オンプレミスの Exchange 組織で 2 つのトランスポート ルールを構成する必要もあります。 詳細については、「スタンドアロン EOP を構成してハイブリッド環境の迷惑メール フォルダーにスパムを配信 [する」を参照してください](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
+<sup>7</sup> 既定のコンテンツ フィルターアクションは、スパム メッセージを受信者の迷惑メール フォルダーに移動します。 これをオンプレミスの Exchange メールボックスで使用するには、EOP によって追加されたスパム ヘッダーを検出するために、オンプレミスの Exchange 組織で 2 つのトランスポート ルールを構成する必要もあります。 詳細については、「スタンドアロン EOP を構成してハイブリッド環境の迷惑メール フォルダーにスパムを配信 [する」を参照してください](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
 <sup>9</sup> EOP レポートは、メールボックスに関する情報を除外する Exchange Online レポートのサブセットです。<br/>
 <sup>10</sup> DLP レポートが含まれます。 <br/>
 <sup>12</sup> Azure Information Protection を購入し、Exchange Online Protection を使用して Exchange Online を経由してメールをルーティングするオンプレミスのお客様に対してサポートされます。 <br/>

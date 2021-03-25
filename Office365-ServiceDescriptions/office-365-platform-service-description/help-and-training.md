@@ -10,21 +10,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
-ms.openlocfilehash: 7c34c20d9f2231f278442137f1b615be4201d4c8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Office 365 には、次のヘルプとトレーニング リソースが含まれます。
+ms.openlocfilehash: 0de5b5d18f2744799db7db0595db78a27f39992b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132321"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173482"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365 では、次のヘルプとトレーニングリソースが提供されています。
+Microsoft Office 365 には、次のヘルプとトレーニング リソースが含まれます。
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-ヘルプ記事およびビデオは、Office 365 ポータルおよび Microsoft 365 管理センターのトップナビゲーションバーの [ヘルプ] アイコンを含む、サービスのインラインヘルプリンクから入手できます。 すべての Office 365 ヘルプを検索することもでき [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) ます。 
+ヘルプ記事とビデオは、Office 365 ポータルと Microsoft 365 管理センターのトップ ナビゲーション バーのヘルプ アイコンなど、サービス内の任意のインライン ヘルプ リンクから利用できます。 また、365 ヘルプOffice検索できます [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 。 
   
 ## <a name="training"></a>トレーニング
 
@@ -45,7 +45,7 @@ Microsoft Office 365 では、次のヘルプとトレーニングリソース�
 ## <a name="community"></a>コミュニティ
 
 > [!NOTE]
-> コミュニティ リソースは、Office 365 の各国版に当てはまります。21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
+> コミュニティ リソースは、Office 365 の各国版に当てはまります。21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](/microsoft-365/admin/contact-support-for-business-products)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
   
 Office 365 コミュニティを通じて、さまざまなセルフヘルプ サポート情報を利用できます。コミュニティには、お客様がサポート フォーラム、Wiki、およびブログを通じて、技術、課金、サービスに関するさまざまな質問の答えを見つけられるように、最新の情報が掲載されています。サポート フォーラムは、Microsoft サポート代理人によってスタッフが配置され運営されています。
   
@@ -89,23 +89,23 @@ Office 365 コミュニティのホーム ページから次のリソースに�
     
 詳細については、[Office 365 コミュニティ](https://techcommunity.microsoft.com/)をご覧ください。
   
-## <a name="manage-office-365-guidance"></a>Office 365 ガイダンスを管理する
+## <a name="manage-office-365-guidance"></a>365 Officeの管理
 
-大規模な組織の IT 担当者は、「Manage Office 365 documentation home page」を参照してください。 このページでは、大規模な組織向けの複雑な展開ガイダンスへのリンクを示します。
+大規模な組織の IT 担当者は、[管理] Office 365 ドキュメントのホーム ページにアクセスできます。 このページでは、大規模な組織を対象とした複雑な展開ガイダンスへのリンクを提供します。
   
-詳細については、「 [Manage Office 365](https://docs.microsoft.com/Office365/)」を参照してください。
+詳細については、「Manage [Office 365」を参照してください](/Office365/)。
   
 ## <a name="other-self-help-resources"></a>その他のセルフヘルプ リソース
 
-Office 365 のコミュニティとオンラインヘルプに加えて、Office 365 には次のセルフヘルプリソースが含まれています。
+365 コミュニティとオンライン Officeに加えて、Office 365 には次のセルフ ヘルプ リソースが含まれています。
   
 - **Office 365 のトラブルシューティング ツール** Office 365 のトラブルシューティング ツールは、ユーザーが問題に関する一連の短い質問に回答した後、その回答に基づいて有用なツールと情報を提示します。ツールを使用するには、Office 365 コミュニティの [Office 365 のトラブルシューティング ツール](https://go.microsoft.com/fwlink/?LinkId=272113)に関するページへ移動してください。 
     
-- **テクニカル サポート ビデオ** 英語版の教育用トラブルシューティング ビデオは、よくあるユーザーからの質問に基づいて開発されています。35 種類以上の個々のビデオがあり、毎週さらに追加されています。トピックは、BlackBerry® 管理センターの概要からディレクトリ同期のアクティブ化および移行まで広範にわたっています。これらのビデオを視聴するには、Office 365 コミュニティ サイトでビデオを検索してください。コミュニティ ポータルを通じてビデオのリクエストを送信することをお勧めします。また、 [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) および [ショーケース](https://go.microsoft.com/fwlink/?LinkId=272060) チャンネルでもビデオを検索できます。 
+- **テクニカル サポート ビデオ** 英語版の教育用トラブルシューティング ビデオは、よくあるユーザーからの質問に基づいて開発されています。35 種類以上の個々のビデオがあり、毎週さらに追加されています。トピックは、BlackBerry® 管理センターの概要からディレクトリ同期のアクティブ化および移行まで広範にわたっています。これらのビデオを視聴するには、Office 365 コミュニティ サイトでビデオを検索してください。コミュニティ ポータルを通じてビデオのリクエストを送信することをお勧めします。また、 [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) および [ショーケース](../office-365-service-descriptions-technet-library.md) チャンネルでもビデオを検索できます。 
     
 - **ソーシャル メディア**[Facebook](https://go.microsoft.com/fwlink/?LinkId=272061)、[Twitter](https://go.microsoft.com/fwlink/?LinkId=272062)、および [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) で Office 365 をフォローすることで、お客様とパートナーは Office 365 についてより多くのことを学習する、さらなる手段を得ることができます。この Office 365 についてすばやく簡単に学習する方法によって、他のユーザーの意見を聞き、自分のコメントを追加してツイートできます。Microsoft サポート プロフェッショナルが、Microsoft 関連の Facebook および Twitter のアクティビティをモニターし、サポート関連の問い合わせについて支援しています。最新のツイートと最新の Facebook フィードを検索するには、Office 365 コミュニティ ホームページの下部に移動し、お客様とパートナーの日々のディスカッションを確認してください。 
     
-    21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
+    21Vianet によって運用される Office 365 を使用する場合には、WeChat を使用できます。「[21Vianet が運用している Office 365 での技術情報、課金情報、サブスクリプションのサポートを取得する](/microsoft-365/admin/contact-support-for-business-products)」を参照し、ページ下部にある QR コードまでスクロールしてください。 
     
 ## <a name="languages"></a>言語
 
@@ -113,32 +113,32 @@ Office 365 のコミュニティとオンラインヘルプに加えて、Office
   
 |**言語**|**オンライン ヘルプ記事**|**Wiki とブログ**|**フォーラム**|**Tech Center**|**トラブルシューティング ツール**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|アラビア語  <br/> |いいえ  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ブルガリア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|アラビア語  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ブルガリア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |簡体字中国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |繁体字中国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チェコ語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|デンマーク語  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|オランダ語  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
-|エストニア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|フィンランド語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|チェコ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|デンマーク語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|オランダ語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|エストニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|フィンランド語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |フランス語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ドイツ語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ギリシャ語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ハンガリー語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ギリシャ語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ハンガリー語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |イタリア語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |日本語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |韓国語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ラトビア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|リトアニア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|ノルウェー語  <br/> |はい  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ラトビア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|リトアニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ノルウェー語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ポーランド語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |
-|ポルトガル語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ポルトガル語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ポルトガル語 - ブラジル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ルーマニア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|ルーマニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ロシア語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|セルビア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|スロバキア語  <br/> |はい  <br/> |不要  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|セルビア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
+|スロバキア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |スロベニア語  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |スペイン語  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |スウェーデン語  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -148,4 +148,4 @@ Office 365 のコミュニティとオンラインヘルプに加えて、Office
    
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには [、「Microsoft 365 および Office 365](office-365-platform-service-description.md)プラットフォーム サービスの説明」を参照してください。

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: さまざまな Microsoft 365 プランと 365 プラン内で利用できる Skype for Business Online Office確認します。
-ms.openlocfilehash: 861521c0a99fefe0b4709ea540fb659ba845debd
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 86ccb740ec0b9ffc8e83c88636df98ebefaf9e2c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726720"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172662"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online サービスの説明
 
@@ -28,7 +28,7 @@ ms.locfileid: "50726720"
 > [!NOTE]
 > Skype for Business Online Plan 2 は、2019 年 7 月 1 日に販売を終了しました。 つまり、インスタント メッセージング、プレゼンス、会議、ピアツーピアの音声およびビデオ用の Skype for Business Online プラン 2 を取得できなくなりました。 これらの機能は、365 スイートを含む Teams を含むOfficeサポートされます。 現在の期間の最後にプランの有効期限が切れると、これらの機能に引き続きアクセスするには、別のプランに切り替える必要があります。 現在 Skype for Business Online プラン 2 が割り当てられているユーザーの Microsoft 365 Business Basic、Business Premium、または他の Office スイートを評価することをお勧めします。 
 
- **特定の Skype for Business 機能を取得するために購入する必要があるライセンスを知りたがっていますか?「Skype [for Business アドオン のライセンス」を参照してください](https://go.microsoft.com/fwlink/?LinkID=799524)。**
+ **特定の Skype for Business 機能を取得するために購入する必要があるライセンスを知りたがっていますか?「Skype [for Business アドオン のライセンス」を参照してください](/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing)。**
   
 Skype for Business Online は、いつでもどこからでも、会議や会話にユーザーを接続するコミュニケーション サービスです。 ユーザーはプレゼンスに関する情報にアクセスし、インスタント メッセージ、音声とビデオの通話、豊富なオンライン会議、さまざまな Web 会議機能を使用できます。 
   
@@ -42,13 +42,13 @@ Skype for Business Online の新機能については、「[Skype for Business �
 
 簡単な比較ページを使用して、Skype for Business Online のバージョンを選択することをお勧めします。 「 [ビジネスに適切な Microsoft Teams を検索する」を参照してください](https://go.microsoft.com/fwlink/?linkid=798291)。 さらに詳細に比較する場合は、以下の機能の表をご覧ください。 追加のヘルプが必要な場合は、サポートにお電話 [ください](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 ドロップダウン リストからロケールを選択すると、現地の番号が見つかります。
   
-Skype for Business Online のユーザーを有効にするサブスクリプションの詳細な計画情報については、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。 詳細な比較については [、「Microsoft 365 プラン オプション」を参照してください](https://go.microsoft.com/fwlink/?linkid=846972)。
+Skype for Business Online のユーザーを有効にするサブスクリプションの詳細な計画情報については、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。 詳細な比較については [、「Microsoft 365 プラン オプション」を参照してください](../office-365-platform-service-description/office-365-plan-options.md)。
   
- Skype for Business デスクトップクライアントと Web クライアント間で個々の機能を比較するには [、「Skype for Business Server 2015](https://go.microsoft.com/fwlink/?linkid=829754)のデスクトップ クライアント機能の比較」を参照してください。 Skype for Business モバイル クライアントの詳細な比較については、「Skype for Business のモバイル クライアント機能 [の比較」を参照してください。](https://go.microsoft.com/fwlink/?linkid=846932)
+ Skype for Business デスクトップクライアントと Web クライアント間で個々の機能を比較するには [、「Skype for Business Server 2015](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)のデスクトップ クライアント機能の比較」を参照してください。 Skype for Business モバイル クライアントの詳細な比較については、「Skype for Business のモバイル クライアント機能 [の比較」を参照してください。](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)
   
 さらに詳細な比較については、次の表を参照してください。<br><br>
   
-| 特徴 | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| 機能 | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Skype for Business Online のクライアント](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype for Business Full  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -148,7 +148,7 @@ Skype for Business Online のユーザーを有効にするサブスクリプシ
 |ボイスメール  <br/> |はい  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |[通話プラン](skype-for-business-online-features.md#calling-plans) (国内通話プラン、必要なアドオン購入)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |いいえ  <br/> |
 |[通話プラン](skype-for-business-online-features.md#calling-plans) (国際通話プラン、必要なアドオン購入)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい<sup>3</sup> <br/> |はい<sup>3</sup> <br/> |はい  <br/> |いいえ  <br/> |
-|[コミュニケーション クレジット](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |いいえ  <br/> |いいえ  <br/> |No<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
+|[コミュニケーション クレジット](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) <br/> |いいえ  <br/> |いいえ  <br/> |No<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |Skype for Business Voice  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
 |**[セキュリティとアーカイブ](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |IM とメディアの暗号化  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -177,23 +177,23 @@ Skype for Business Online のユーザーを有効にするサブスクリプシ
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 管理センターでの Skype for Business Online レポート  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「Lync [Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)のデスクトップ クライアント比較テーブル」を参照してください。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「Lync [Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables)のデスクトップ クライアント比較テーブル」を参照してください。 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>3</sup> ボイス メールを持つExchange Online (プラン 2)に、ユーザープランを割り当てる必要があります。 Exchange Online (プラン &nbsp; ) プランをボイス メールに使用できません。 
 <br/><sup>4</sup> 365 F3 Office Skype for Business Online プラン 2 またはエンタープライズ プラン ユーザーが招待した場合、共有セッションに参加できます。 
 <br/> <sup>5</sup> 電話会議は、Microsoft 365 Business Standard、Office 365 E1、Office 365 E3 サブスクリプション プランにアドオンとして追加できます。 
 <br/> <sup>6</sup> コミュニケーション クレジットは、電話会議のみをサポートするアドオンとして Microsoft 365 Business Standard サブスクリプション プランに追加できます。 
 <br/><sup>7</sup>緊急通話は、Mac およびモバイル クライアントでは利用できません。 
-<br/> <sup>8</sup> 顧客キーを使用すると、組織の暗号化キーを制御し、Microsoft データ センターで保存されているデータを暗号化するためにそれらを使用する Microsoft を構成できます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 顧客キーは、Microsoft がデータの暗号化解除に使用する暗号化キーを制御するために、コンプライアンスの義務を満たすのに役立ちます。 詳細については、「顧客キーによる [サービス暗号化」を参照してください](https://go.microsoft.com/fwlink/?linkid=862702)。 
+<br/> <sup>8</sup> 顧客キーを使用すると、組織の暗号化キーを制御し、Microsoft データ センターで保存されているデータを暗号化するためにそれらを使用する Microsoft を構成できます。 保存データには、メールボックスに保存されている Exchange Online および Skype for Business からのデータと、SharePoint Online および OneDrive for Business に保存されているファイルが含まれます。 顧客キーは、Microsoft がデータの暗号化解除に使用する暗号化キーを制御するために、コンプライアンスの義務を満たすのに役立ちます。 詳細については、「顧客キーによる [サービス暗号化」を参照してください](/microsoft-365/compliance/customer-key-overview)。 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>Skype for Business Online スタンドアロン プランで利用できる機能
 
 次の表は、さまざまなスタンドアロン プランで Skype for Business Online の機能が利用できるかどうかを示しています。これらの機能の説明については、[Skype for Business Online の機能](skype-for-business-online-features.md) をご覧ください。
   
 > [!NOTE]
-> Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。 ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。 Skype for Business クライアントをユーザーに展開するには [、「Deploy the Skype for Business client in Microsoft 365 or Office 365」](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)を参照してください。 
+> Skype for Business Online スタンドアロン プラン 2 のライセンスが付与されたユーザーは、完全な Skype for Business クライアントではなく、Skype for Business Basic クライアントを取得します。 ユーザーに Skype for Business クライアントを持たせる場合は、それを含むライセンス (Enterprise ベースのライセンスなど) にユーザーをアップグレードする必要があります。 Skype for Business クライアントをユーザーに展開するには [、「Deploy the Skype for Business client in Microsoft 365 or Office 365」](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)を参照してください。 
   
-| 特徴 | Skype for Business Server 2015 | Skype for Business Online スタンドアロン プラン &nbsp; 1 | Skype for Business Online スタンドアロン プラン &nbsp; 2 |
+| 機能 | Skype for Business Server 2015 | Skype for Business Online スタンドアロン プラン &nbsp; 1 | Skype for Business Online スタンドアロン プラン &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |**[Skype for Business Online のクライアント](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for Business Full  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -281,7 +281,7 @@ Skype for Business Online のユーザーを有効にするサブスクリプシ
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft 365 管理センターでの Skype for Business Online レポート  <br/> |いいえ  <br/> |いいえ<sup>4</sup> <br/> |いいえ<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise および Office 365 E3 には、高度なテレフォニー サポート、アーカイブ コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれます。 &amp; Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「Lync [Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)のデスクトップ クライアント比較テーブル」を参照してください。
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise および Office 365 E3 には、高度なテレフォニー サポート、アーカイブ コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれます。 &amp; Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic 機能の詳細については、「Lync [Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables)のデスクトップ クライアント比較テーブル」を参照してください。
 <br/><sup>2</sup> Skype for Business Online プラン 1 ユーザーは、Skype for Business Online プラン 2 ユーザーから招待された場合、共有セッションに参加できます。 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 

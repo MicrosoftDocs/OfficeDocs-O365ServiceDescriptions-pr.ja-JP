@@ -8,23 +8,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: Project Online では次のプロジェクト管理機能が利用可能です。
-ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Project Online では、次のプロジェクト管理機能を使用できます。
+ms.openlocfilehash: 358d6b3889917e98015b2c4d03838a38e915ef72
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294109"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174122"
 ---
 # <a name="project-management"></a>プロジェクト管理
 
-Project Online では次のプロジェクト管理機能が利用可能です。
+Project Online では、次のプロジェクト管理機能を使用できます。
   
-すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
   
 ## <a name="issues-and-risk-management"></a>問題とリスク管理
 
-Project Online および Project Server 2013 には、潜在的な事業関連またはプロジェクト関連のリスクや問題を防止、特定、および軽減するための機能が含まれます。詳細については、「[Project Web App での懸案事項、リスク、およびドキュメントの管理](https://go.microsoft.com/fwlink/?LinkId=402634)」を参照してください。
+Project Online および Project Server 2013 には、潜在的な事業関連またはプロジェクト関連のリスクや問題を防止、特定、および軽減するための機能が含まれます。詳細については、「[Project Web App での懸案事項、リスク、およびドキュメントの管理](/previous-versions/office/project-server-2010/hh767484(v=office.14))」を参照してください。
   
 ## <a name="manage-project-resources"></a>プロジェクト リソース管理
 
@@ -32,7 +32,7 @@ Project Online および Project Server 2013 には、潜在的な事業関連�
   
 ## <a name="reporting-and-business-intelligence"></a>レポートとビジネス インテリジェンス
 
-Microsoft PPM ソリューションには、レポートの表示と作成、および Project Server 2013 データの処理のためのいくつかのオプションがあります。一部のレポートは自動的に入手できます。また、多くのレポート作成ツールを使用して、独自のレポートを簡単に作成することもできます。詳細については、「[プロジェクト データで使用できるレポート作成ツール](https://go.microsoft.com/fwlink/?LinkId=402642)」を参照してください。
+Microsoft PPM ソリューションには、レポートの表示と作成、および Project Server 2013 データの処理のためのいくつかのオプションがあります。一部のレポートは自動的に入手できます。また、多くのレポート作成ツールを使用して、独自のレポートを簡単に作成することもできます。詳細については、「[プロジェクト データで使用できるレポート作成ツール](/ProjectOnline/what-reporting-tools-can-i-use-with-project-data)」を参照してください。
   
 ## <a name="schedule-management"></a>スケジュール管理
 
@@ -44,4 +44,4 @@ Microsoft PPM ソリューションには、レポートの表示と作成、お
 
 ## <a name="project-home"></a>Project ホーム
 
-プロジェクトホームは、最近携わったプロジェクトや重要なプロジェクトにすばやく簡単にアクセスできるようにする開始点です。 これらのプロジェクトを使いやすいコントロールでお気に入りとしてマークすることにより、プロジェクトのホームで目立つように表示できます。 詳細については、「 [Project Home の概要](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)」を参照してください。
+Project Home は、最近作業したプロジェクトや重要なトップオブマインド プロジェクトにすばやく簡単にアクセスできる開始点です。 これらのプロジェクトは、使いやすいコントロールを使用してお気に入りとしてマークし、Project Home に目立つようにすることができます。 詳細については、「Project [Home の使用を開始する」を参照してください](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。

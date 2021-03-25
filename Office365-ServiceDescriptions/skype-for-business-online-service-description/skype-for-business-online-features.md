@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 管理者の場合は、「Skype for Business Online のセットアップ」の「Skype for Business Online の機能をセットアップする」の詳細な手順を確認できます。
-ms.openlocfilehash: 0ed4c057ba8421a14a4848993159587506abeeac
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572703"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172672"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 
@@ -29,7 +29,7 @@ ms.locfileid: "50572703"
     
 - モバイル デバイスでの Skype for Business のオプションを確認するには、「[モバイル デバイス、Macintosh に Skype for Business をインストールする](https://go.microsoft.com/fwlink/?linkid=847564)」を参照してください。
     
-- Skype for Business のデスクトップと Web クライアントの詳細な比較については、「[Skype for Business のデスクトップ クライアントの比較表](https://go.microsoft.com/fwlink/?linkid=829754)」を参照してください。Skype for Business のモバイル クライアントの詳細な比較については、「[Skype for Business のモバイル クライアントの比較表](https://go.microsoft.com/fwlink/?linkid=846932)」を参照してください。
+- Skype for Business のデスクトップと Web クライアントの詳細な比較については、「[Skype for Business のデスクトップ クライアントの比較表](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)」を参照してください。Skype for Business のモバイル クライアントの詳細な比較については、「[Skype for Business のモバイル クライアントの比較表](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)」を参照してください。
     
 モバイル デバイス、PC、または Mac 用のクライアントをダウンロードするには、[すべてのデバイスで Skype for Business をダウンロードする [] に移動します](https://go.microsoft.com/fwlink/?linkid=846929)。
   
@@ -57,7 +57,7 @@ Skype for Business [でオーディオ デバイス オプションを](https://
 
 Skype for Business 外部接続 (フェデレーション) を使用すると、Skype for Business ユーザーは、Skype for Business を使用する他の組織のユーザーや、オンプレミスで独自の Skype for Business Server をホストするユーザーと接続できます。 フェデレーションの連絡先では、プレゼンスを表示したり、IM を使用して通信したり、Skype 間の音声通話とビデオ通話を行ったりすることができます。 フェデレーションのすべての通信は、アクセス プロキシ サーバーを使用して IM システム間で暗号化されます。 Microsoft は、メッセージがフェデレーション パートナーのネットワークに渡された後は、暗号化を制御しません (パートナーがオンプレミスの Skype for Business Server またはサードパーティ ネットワークとフェデレーションを行っている場合)。
   
-Skype for Business 外部接続では、フェデレーション関係の両当事者が同意して、適切に構成する必要があります。 フェデレーションが両側の管理者によって設定された後、各組織のユーザーはプレゼンスを確認し、他の組織のユーザーと通信できます。 フェデレーションは、適切に構成されたアクセス プロキシまたはエッジ サーバーを使用して、他の Skype for Business 環境間でのみサポートされます。 エッジ サーバー構成の詳細については [、「Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)の外部ユーザー アクセスに必要なコンポーネント」を参照してください。
+Skype for Business 外部接続では、フェデレーション関係の両当事者が同意して、適切に構成する必要があります。 フェデレーションが両側の管理者によって設定された後、各組織のユーザーはプレゼンスを確認し、他の組織のユーザーと通信できます。 フェデレーションは、適切に構成されたアクセス プロキシまたはエッジ サーバーを使用して、他の Skype for Business 環境間でのみサポートされます。 エッジ サーバー構成の詳細については [、「Lync Server 2013](/lyncserver/lync-server-2013-components-required-for-external-user-access)の外部ユーザー アクセスに必要なコンポーネント」を参照してください。
   
 ## <a name="skype-for-business-online-meetings"></a>Skype for Business Online 会議
 
@@ -112,15 +112,15 @@ Microsoft は、すべての Skype for Business Online データ センターを
 
 電話会議とは、少なくとも 1 人の参加者が電話を使用して、音声部分にダイヤルインする会議のことを指します。電話を使用して会議にアクセスする機能は、ユーザーが外出先にいるときや、モバイル デバイスまたは PC を使用して会議に参加できないときに役立ちます。電話を使用することが最適なオプションとなるシナリオには、インターネット接続が制限されている場合や、会議が音声のみである場合などがあります。
   
-電話会議では、組織内のユーザーは、ダイヤルインの電話番号が含まれる会議をホストまたは作成できます。発信者は、これらの電話番号を使用して、自分の電話で会議にコールインすることができます (会議にダイヤルインしているユーザーは、音声しか聞けず、インスタント メッセージ、共有デスクトップ、または会議で共有されているファイルを取得することはできません)。ダイヤルイン会議をセットアップする必要があるのは、会議をスケジュールまたは進行するユーザーに対してのみです。開催者が会議をロックした場合を除き、ダイヤルイン電話番号と会議 ID を持つユーザーは、誰でも会議に参加できます。詳細については、「[電話会議とプランの呼び出しのサポートされている国/地域](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」および「[電話会議のダイヤルイン電話番号](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)」をご覧ください。
+電話会議では、組織内のユーザーは、ダイヤルインの電話番号が含まれる会議をホストまたは作成できます。発信者は、これらの電話番号を使用して、自分の電話で会議にコールインすることができます (会議にダイヤルインしているユーザーは、音声しか聞けず、インスタント メッセージ、共有デスクトップ、または会議で共有されているファイルを取得することはできません)。ダイヤルイン会議をセットアップする必要があるのは、会議をスケジュールまたは進行するユーザーに対してのみです。開催者が会議をロックした場合を除き、ダイヤルイン電話番号と会議 ID を持つユーザーは、誰でも会議に参加できます。詳細については、「[電話会議とプランの呼び出しのサポートされている国/地域](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json)」および「[電話会議のダイヤルイン電話番号](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)」をご覧ください。
   
 ダイヤルイン会議は、Microsoft をダイヤルイン会議プロバイダーとして使用するか、サードパーティのダイヤルイン会議プロバイダー (電話会議プロバイダーまたは ACP とも呼ばれる) を使用して有効にできます。
   
-一部の国または地域では電話会議は使用できません。電話会議機能を購入できる国と地域の一覧については、「[電話会議とプランの呼び出しのサポートされている国/地域](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)」をご覧ください。
+一部の国または地域では電話会議は使用できません。電話会議機能を購入できる国と地域の一覧については、「[電話会議とプランの呼び出しのサポートされている国/地域](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json)」をご覧ください。
   
 ## <a name="calling-plans"></a>通話プラン
 
-Skype for Business には、公衆交換電話網 (PSTN) で見つかった通話機能が含まれます。 通話プランは電話システムのアドオンであり、[](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365)組織内のユーザーに電話番号を検索、取得、割り当て、Office 365 から直接、組織内外のユーザーに電話を発信および受信できます。 電話番号が割り当てられているユーザーは、VoIP 電話、PC、モバイル デバイスなど、すべての Skype for Business デバイスで音声通話を行えます。 また、ミュート/ミュート解除、保留/再開、通話転送、通話転送機能を使用して通話を制御し、必要に応じて緊急通話を行います。 
+Skype for Business には、公衆交換電話網 (PSTN) で見つかった通話機能が含まれます。 通話プランは電話システムのアドオンであり、[](#phone-system-in-office-365)組織内のユーザーに電話番号を検索、取得、割り当て、Office 365 から直接、組織内外のユーザーに電話を発信および受信できます。 電話番号が割り当てられているユーザーは、VoIP 電話、PC、モバイル デバイスなど、すべての Skype for Business デバイスで音声通話を行えます。 また、ミュート/ミュート解除、保留/再開、通話転送、通話転送機能を使用して通話を制御し、必要に応じて緊急通話を行います。 
   
 使用できる通話プランの詳細については、「[Office 365 向けの通話プラン](https://products.office.com/skype-for-business/pstn-calling-plans)」を参照してください。 通話プランの詳細と設定については、「どの通話プランが適切 [か」を参照してください。](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

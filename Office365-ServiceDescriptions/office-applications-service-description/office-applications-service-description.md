@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 は、Word、Excel、PowerPoint など、既に使い慣れた Office デスクトップ アプリケーションの最新バージョンを提供するサブスクリプション サービスです。
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902037"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173902"
 ---
 # <a name="office-applications-service-description"></a>Office アプリケーション サービスの説明
 
@@ -36,7 +36,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
   
 一部の Microsoft 365 for business プランには、サブスクリプション用に購入できるアドオンがあります。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「アドオンを [購入または編集する」を参照してください](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。<br><br>
 
-| アプリケーション/機能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | エンタープライズ向け Microsoft  365 アプリ | Microsoft 365 Apps for business | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| アプリケーション/機能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | Microsoft 365 Apps for enterprise | Microsoft 365 Apps for business | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office アプリケーション** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ  <br/> |
@@ -95,7 +95,7 @@ Office アプリケーションは、32 ビットおよび 64 ビット版で利
 <sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 一部の Azure Information Protection 機能では、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 E1、Office 365 Education、または Office 365 F3 には含まれていない Microsoft 365 Apps for enterprise へのサブスクリプションが必要です。<br/>
 <sup>3</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするためには別途購入して管理する必要があるオンプレミスのサーバーです。<br/>
 <sup>4</sup> Office 2013 Professional Plus またはスタンドアロン バージョンの Excel 2013 がある場合は、サポートされていないアドインである Excel 2013 の Power Map Preview を使用できます。 以前のバージョンの Power Map Preview は期限切れであり、どのバージョンの Excel でも動作しません。 以前のバージョンをインストールした場合は、コントロール パネルからアンインストールし、現在のバージョンの Power Map Preview をダウンロードしてインストールします。 このバージョンには、Microsoft 365 SP1 でリリースされた Power Map のバージョンと同じ機能があります。<br/> 
-<sup>5</sup> Skype for Business Basic はすべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 機能の比較の詳細については、「[Lync Server 2013 用デスクトップ クライアント比較表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。<br/> 
+<sup>5</sup> Skype for Business Basic はすべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise、Office 365 E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 機能の比較の詳細については、「[Lync Server 2013 用デスクトップ クライアント比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)」を参照してください。<br/> 
 <sup>6</sup> 一部の学校は、Microsoft 365 Apps for enterprise を含む Education Plus の対象であり、学生、教職員は、最大 5 台の PC または Mac コンピューター、および Windows タブレットや iPad を含む他のモバイル デバイスに最新バージョンの Office をインストールできます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/>
 <sup>7</sup> Office for Mac 2011 は、インストールはできますがライセンス認証はできません。 <br/>
 <sup>8</sup> Microsoft 365 Apps for enterprise は、ユーザー専用の仮想デスクトップ インフラストラクチャ (VDI) でサポートされています。 Microsoft 365 Apps for enterprise は、ボリューム ライセンス プログラムを通じて購入した場合にのみリモート デスクトップ サービス (RDS) をサポートします。<br/>

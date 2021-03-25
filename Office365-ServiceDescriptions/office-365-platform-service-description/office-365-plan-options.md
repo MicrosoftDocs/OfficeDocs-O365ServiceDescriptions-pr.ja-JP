@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。
-ms.openlocfilehash: 6bd5bacf9f3f6b65120c33bde38ea125dec80ea9
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
-ms.translationtype: HT
+ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072300"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174022"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 および Office 365 プラン オプション
 
@@ -33,11 +33,11 @@ Microsoft 365 および Office 365 では、組織のニーズを満たすのに
 | Office 365 サービス ファミリー | プラン |
 |:-----|:-----|
 |**ビジネス (ユーザー数は 300 以下)** <br/>     |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) (旧称 Office 365 Business Essentials) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) (旧称 Office 365 Business Premium) <br/> [Microsoft 365 Business Premium](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) (旧称 Microsoft 365 Business) <br/> [Microsoft 365 Apps for business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) (旧称 Office 365 Business) <br/> |
-|**エンタープライズ (無制限の数のユーザー)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software??) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (Office 365 F3 を含む)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (Office 365 E3 を含む)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (Office 365 E5 を含む)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [Microsoft 365 Apps for enterprise](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (旧称 Office 365 ProPlus) <br/> |
-|**教育機関向け (無制限の数のユーザー)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (1 回のデバイス ライセンスと無料の Office 365 A1 ユーザー ライセンスの組み合わせ)](https://www.microsoft.com/ja-JP/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (Office 365 A3 を含む) ](https://www.microsoft.com/ja-JP/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (Office 365 A5 を含む) ](https://www.microsoft.com/ja-JP/education/buy-license/microsoft365/default.aspx) <br/> |
+|**エンタープライズ (無制限の数のユーザー)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (Office 365 F3 を含む)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (Office 365 E3 を含む)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (Office 365 E5 を含む)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [Microsoft 365 Apps for enterprise](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (旧称 Office 365 ProPlus) <br/> |
+|**教育機関向け (無制限の数のユーザー)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (1 回のデバイス ライセンスと無料の Office 365 A1 ユーザー ライセンスの組み合わせ)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (Office 365 A3 を含む) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (Office 365 A5 を含む) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
 |**行政機関向け (無制限の数のユーザー)** <br/> |[利用可能なすべてのプランを参照する](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**中国の 21Vianet が運用している Office 365** <br/> |[利用可能なすべてのプランを参照する](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Office 365 Germany の詳細](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
+|**Office 365 Germany** <br/> |[Office 365 Germany の詳細](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>Microsoft 365 および Office 365 の各プランのサービスの可用性
 
@@ -77,7 +77,7 @@ Microsoft 365 または Office 365 の各プランには、Exchange Online や S
 <sup>13</sup> Skype for Business Online プラン 1 が含まれます。<br>
 <sup>14</sup> Microsoft Teams が Microsoft 365 のメッセージング、会議、通話機能のプライマリ クライアントになりました。 2018 年 10 月 1 日現在、シートが 500 以下の新規ユーザーは Microsoft Teams にオンボードされ、Skype for Business Online にはアクセスできません。 既に Skype for Business Online を使用しているテナントは、Microsoft Teams への移行が完了するまで、(新規ユーザーのプロビジョニングも含めて) 利用を継続することができます。<br>
 <sup>15</sup> Microsoft 365 E5 Compliance が含まれます。これは、自動的な分類と保持、カスタマー キー、Advanced Message Encryption、インサイダー リスク管理、コミュニケーション コンプライアンス、情報バリア、カスタマー ロックボックス、Privileged Access Management、高度な監査、レコード管理、高度な電子情報開示機能および Microsoft 365 E5 Security を提供します。Microsoft 365 E5 Security には、Microsoft Defender for Office 365 プラン 2、Microsoft Defender for Endpoint、Azure Active Directory プラン 2、Microsoft Defender for Identity、Microsoft Cloud App Security および安全なドキュメントが含まれます。<br>
-<sup>16</sup> Microsoft 365 F1 には Exchange メールボックスへの権限が含まれません。 Teams のすべての機能を利用可能にするため、有効な Exchange Online K1 サービス プランが M365 F1 ライセンスに付属している場合があります。 Exchange Online K1 サービス プランはユーザー向けのメールボックスをプロビジョニングしますが、M365 F1 ユーザーにはメールボックスを使用する権利が与えられません。 顧客が[これらの手順](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)で Outlook on the Web を無効にして、他のいかなる方法によっても Exchange メールボックスにアクセスしないようにユーザーに依頼することをお勧めします。<br>
+<sup>16</sup> Microsoft 365 F1 には Exchange メールボックスへの権限が含まれません。 Teams のすべての機能を利用可能にするため、有効な Exchange Online K1 サービス プランが M365 F1 ライセンスに付属している場合があります。 Exchange Online K1 サービス プランはユーザー向けのメールボックスをプロビジョニングしますが、M365 F1 ユーザーにはメールボックスを使用する権利が与えられません。 顧客が[これらの手順](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)で Outlook on the Web を無効にして、他のいかなる方法によっても Exchange メールボックスにアクセスしないようにユーザーに依頼することをお勧めします。<br>
 <sup>17</sup> SharePoint Online Kiosk が含まれます。 管理者にすることはできません。 サイト メールボックスなし。 個人用サイトなし。<br>
 <sup>18</sup> Microsoft 365 F1 ユーザーは Office for the Web を使用してファイルを読み取ることができますが、作成/編集/保存する権限はありません。 
   

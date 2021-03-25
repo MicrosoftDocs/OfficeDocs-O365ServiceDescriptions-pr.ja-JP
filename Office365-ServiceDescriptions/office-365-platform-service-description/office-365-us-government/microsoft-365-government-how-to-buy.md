@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572713"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173002"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 購入方法
 
@@ -88,14 +88,14 @@ Microsoft 365 Government 製品へのアクセスには、上記のいずれか�
 Microsoft 365 Government で利用可能なサービスの詳細については、次のリソースを参照してください。
 
 - [Office 365 Government サービスの説明](office-365-us-government.md)
-- [Enterprise Mobility + Security for US Government service description](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [米国政府機関のお客様向けエンドポイント向け Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Teams for Government - GCC 展開](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government - GCC High deployments](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Teams for Government - DoD 展開](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [政府機関コミュニティ クラウドの iOS と Android 用の Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 米国政府機関](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise Mobility + Security for US Government service description](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [米国政府機関のお客様向けエンドポイント向け Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Teams for Government - GCC 展開](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams for Government - DoD 展開](/MicrosoftTeams/plan-for-government-dod)
+- [政府機関コミュニティ クラウドの iOS と Android 用の Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps 米国政府機関](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -173,14 +173,14 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 Microsoft 365 Government の詳細については、以下のリソースを参照してください。
 
 - [Office 365 Government サービスの説明](office-365-us-government.md)
-- [Enterprise Mobility + Security for US Government service description](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [米国政府機関のお客様向けエンドポイント向け Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Teams for Government - GCC 展開](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government - GCC High deployments](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Teams for Government - DoD 展開](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [政府機関コミュニティ クラウドの iOS と Android 用の Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 米国政府機関](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise Mobility + Security for US Government service description](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [米国政府機関のお客様向けエンドポイント向け Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Teams for Government - GCC 展開](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams for Government - DoD 展開](/MicrosoftTeams/plan-for-government-dod)
+- [政府機関コミュニティ クラウドの iOS と Android 用の Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps 米国政府機関](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 Government 製品ページ](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft Government Industry ページ](https://www.microsoft.com/enterprise/government)

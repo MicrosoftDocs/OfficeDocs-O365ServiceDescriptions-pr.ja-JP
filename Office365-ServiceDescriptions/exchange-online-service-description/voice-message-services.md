@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: a6245acdeaeda173f1a675d1ce34d9086e3f077a
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe1d1f5a58012498e5b0f71c9a4299e61a4456ad
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132551"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173392"
 ---
 # <a name="voice-message-services"></a>音声メッセージ サービス
 
@@ -39,15 +39,15 @@ Exchange Online で使用可能な音声メッセージング サービス機能
     
 - 発信者番号通知 (グローバル アドレス一覧、ユーザーの個人用連絡先、カスタム連絡先フォルダー、および外部ソーシャル ネットワークの連絡先の情報を使用)
     
-- Outlook on the web および Outlook からボイス メール PIN をリセットする (「[ボイス メール PIN のリセット](https://go.microsoft.com/fwlink/p/?LinkId=286328)」を参照してください)。
+- Outlook on the web および Outlook からボイス メール PIN をリセットする (「[ボイス メール PIN のリセット](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)」を参照してください)。
     
-- メッセージ待機インジケーター (詳細については「[Exchange Online の MWI](https://go.microsoft.com/fwlink/p/?LinkId=271794)」を参照してください)。 
+- メッセージ待機インジケーター (詳細については「[Exchange Online の MWI](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/mwi-in-exchange-online)」を参照してください)。 
     
-- 通話応答ルール (詳細については、「[ボイスメールユーザーが通話を転送できるように](https://go.microsoft.com/fwlink/p/?LinkId=271795)する」を参照してください)。
+- 通話応答ルール (詳細については、「 [ボイス メール ユーザーによる通話の転送を許可する」を](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) 参照)。
     
-- Exchange Online の保護されたボイスメール (詳細については、「 [Exchange online のボイスメールを保護](https://go.microsoft.com/fwlink/p/?LinkId=271796)する」を参照してください)。
+- Exchange Online で保護されたボイス メール (詳細については [、「Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) でボイス メールを保護する」を参照してください)。
     
-- ボイスメールプレビュー (サポートされている言語の一覧については、「[ユーザーがボイスメールのトランスクリプトを表示できる」を](https://go.microsoft.com/fwlink/p/?LinkId=271797)参照してください)。
+- ボイス メール プレビュー (サポートされている言語の [一覧については](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) 、「ユーザーにボイス メールトランスクリプトの表示を許可する」を参照してください)。
     
 - 電子メール、ボイス メール、連絡先、個人用連絡先、および個人用連絡先グループへの音声アクセス
     
@@ -55,16 +55,16 @@ Exchange Online で使用可能な音声メッセージング サービス機能
     
 - 管理者は Exchange 管理センター (EAC) を使用して、音声メッセージング サービスの相互運用性を構成して管理できます。
     
-ボイスメール機能の詳細については、「 [Exchange Online のボイスメール](https://go.microsoft.com/fwlink/p/?LinkId=271798)」を参照してください。
+ボイス メール機能の詳細については [、「Exchange Online のボイス メール」を参照してください](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)。
   
 > [!IMPORTANT]
 > 自動音声認識 (ASR) 機能は、音声コマンドを使用したメニュー ナビゲーションまたは Outlook Voice Access ユーザーや自動応答の発信者のディレクトリ検索では使用できません。 
 >
-> お客様は、VoIP ゲートウェイと PBX、IP PBX、または Skype for Business Server 2015 を使用して、公衆交換電話網 (PSTN) からテレフォニー接続を提供する必要があります。 
+> 顧客は、VoIP ゲートウェイと PBX、IP PBX、または Skype for Business Server 2015 を使用して、公衆交換電話網 (PSTN) からのテレフォニー接続を提供する必要があります。 
 >
 > カスタマーは、社内 SBC ハードウェア デバイスを用意し、オンライン ボイス メール サービスに接続するように SBC を構成する必要があります。これには、証明書とパブリックおよびプライベート IP インターフェイスを使用し、社内ファイアウォール経由による正しい TCP ポートを有効にすることによる、適切なレベルのセキュリティを構成することが含まれます。 
 >
-> ホストボイスメールは、Exchange Online プラン2および Office 365 Enterprise E3 サブスクライバーに対してのみ使用できます。 
+> ホストされたボイス メールは、Exchange Online プラン 2 および 365 Enterprise E3 サブスクライバー Officeでのみ使用できます。 
   
 ## <a name="third-party-voice-mail-interoperability"></a>サードパーティ ボイス メールの相互運用性
 
@@ -75,10 +75,8 @@ Exchange Online で使用可能な音声メッセージング サービス機能
   
 ## <a name="skype-for-business-integration"></a>Skype for Business 統合
 
-スタンドアロン サービスとして、または Microsoft Office 365 の一部として、Skype for Business Online を購入することができます。 オンプレミスの Skype for Business 2015 もサポートされます。 Skype for business Online の詳細については、「 [skype For Business online サービスの説明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)」を参照してください。
+スタンドアロン サービスとして、または Microsoft Office 365 の一部として、Skype for Business Online を購入することができます。 オンプレミスの Skype for Business 2015 もサポートされます。 Skype for Business Online の詳細については、「Skype for Business Online サービスの説明 [」を参照してください](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Exchange Online サービスの説明](exchange-online-service-description.md)」を参照してください。
-  
-
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。

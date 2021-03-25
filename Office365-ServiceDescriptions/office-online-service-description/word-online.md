@@ -12,33 +12,33 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。
-ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Word for the web (旧Word Web App) は、Microsoft Word エクスペリエンスを Web ブラウザーに拡張し、ドキュメントが保存されている Web サイトでドキュメントを直接使用できます。
+ms.openlocfilehash: 50d1e7ceeff9e6b117e127a0d62b208e9b1b325c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294053"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174152"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 
-Word for web (旧称 Word Web App) は、Microsoft Word の操作を web ブラウザーにまで拡張します。これにより、ドキュメントが保存されている web サイト上で直接作業することができます。 
+Word for the web (旧Word Web App) は、Microsoft Word エクスペリエンスを Web ブラウザーに拡張し、ドキュメントが保存されている Web サイトでドキュメントを直接使用できます。 
   
 ## <a name="alignment-guides-and-live-layout"></a>位置揃えガイドと忠実なレイアウト
 
-Word for the web では、ルーラーとグリッド線は使用できません。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+ルーラーとグリッド線は、Web 用の Word では使用できません。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="apply-styles"></a>スタイルの適用
 
-文書に保存されている段落スタイルと文字スタイルは、Word の web 上のテキストに適用することができます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+文書に保存されている段落と文字のスタイルは、Web 用 Word のテキストに適用できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="office-add-ins"></a>Office アドイン
 
-Office ストアから Word 用アドインを入手できます。 Office アドインは、Word デスクトップアプリでのみ動作し、Word では使用できません。 手順については、「[Word 用アドインを取得する](https://go.microsoft.com/fwlink/?LinkId=391443)」を参照してください。
+Office ストアから Word 用アドインを入手できます。 Officeアドインは Word デスクトップ アプリでのみ動作し、Word for the Web では使用できません。 手順については、「[Word 用アドインを取得する](https://go.microsoft.com/fwlink/?LinkId=391443)」を参照してください。
   
 ## <a name="autosave"></a>自動保存
 
-Word では、変更を加えたときに文書が自動的に保存されます。
+Word for the web は、変更を加えたときにドキュメントを自動的に保存します。
   
 ## <a name="autotext"></a>定型句
 
@@ -46,27 +46,27 @@ Word では、変更を加えたときに文書が自動的に保存されます
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>プロがデザインしたテンプレートの参照と利用
 
-Web 用 Word では使用できません。 Office.com にあるプロがデザインした数多くのテンプレートを利用してドキュメントを作成するといった高度なデザイン機能は、Word デスクトップ アプリのみで利用できます。 ただし、ユーザーが新しいドキュメントを作成するときに、カスタムテンプレートを起動するようにドキュメントライブラリを構成できます。 詳細については、「[リストまたはライブラリにコンテンツ タイプを追加する](https://go.microsoft.com/fwlink/p/?LinkId=391446)」を参照してください。
+Word for the web では使用できません。 Office.com にあるプロがデザインした数多くのテンプレートを利用してドキュメントを作成するといった高度なデザイン機能は、Word デスクトップ アプリのみで利用できます。 ただし、ユーザーが新しいドキュメントを作成するときにカスタム テンプレートを起動するドキュメント ライブラリを構成できます。 詳細については、「[リストまたはライブラリにコンテンツ タイプを追加する](https://go.microsoft.com/fwlink/p/?LinkId=391446)」を参照してください。
   
 ## <a name="bullets-and-numbering"></a>箇条書きと段落番号
 
-Web 用の Word では、3つの箇条書きスタイルまたは5つの番号スタイルの選択肢を適用できます。 文書内の既存の箇条書きと段落番号、および Word デスクトップアプリで作成された箇条書きのレベルを変更するには、[ **インデント** ] および [ **インデント** 解除] ボタンをクリックします。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Web 用 Word を使用すると、3 つの箇条書きスタイルまたは 5 つの番号付けスタイルから選択できます。 [インデント **の増加]** ボタンと [インデントの減少] ボタンをクリックして、文書内の既存の箇条書きリストと番号付きリスト、および Word デスクトップ アプリで作成されたリスト レベルを変更します。  詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="captions"></a>図表番号
 
-Web 用 Word では使用できません。 お使いのコンピューターに Word デスクトップ アプリがインストールされている場合は、Word を使用して文書に図表番号を追加できます。 詳細については、「[Word 2013 で図表番号を追加する](https://go.microsoft.com/fwlink/p/?LinkId=282312) の詳細情報を参照してください。
+Word for the web では使用できません。 お使いのコンピューターに Word デスクトップ アプリがインストールされている場合は、Word を使用して文書に図表番号を追加できます。 詳細については、「[Word 2013 で図表番号を追加する](https://go.microsoft.com/fwlink/p/?LinkId=282312) の詳細情報を参照してください。
   
 ## <a name="citations-and-bibliography"></a>引用文献と資料文献
 
-Web 用 Word では使用できません。 Web 用の Word で既存の引用文献を表示することはできますが、引用文献を追加することはできません。 お使いのコンピューターに Word デスクトップ アプリがインストールされている場合は、Word を使用して文書に引用文献と資料文献を追加できます。 詳細については、「[Word 2013 での文献目録の作成](https://go.microsoft.com/fwlink/p/?LinkId=282314)」を参照してください。 
+Word for the web では使用できません。 Word for the web で既存の引用文献を表示できますが、引用文献を追加する方法は使用できます。 お使いのコンピューターに Word デスクトップ アプリがインストールされている場合は、Word を使用して文書に引用文献と資料文献を追加できます。 詳細については、「[Word 2013 での文献目録の作成](https://go.microsoft.com/fwlink/p/?LinkId=282314)」を参照してください。 
   
 ## <a name="clipboard"></a>クリップボード
 
-Web ブラウザーテクノロジには制限があるため、Office のテキストを web にコピーして貼り付けることは、Office デスクトップアプリケーションでテキストをコピーして貼り付けることとは異なります。 [Office のコピーと貼り付けの詳細については、「web」](https://go.microsoft.com/fwlink/p/?LinkId=282321)を参照してください。
+web ブラウザー テクノロジの制限により、Office for the web のテキストのコピーと貼り付けは、Office デスクトップ アプリケーションでのテキストのコピーと貼り付けとは異なります。 Web のコピー [と貼り付Office詳細を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
   
 ## <a name="collaboration-advanced"></a>コラボレーション、高度
 
-Web 用 Word では使用できません。 変更履歴や文書の結合、比較、組み込みなどの高度な共同作業機能は、Word デスクトップ アプリでのみ利用できます。 表示モードでは、予想どおりに web 用の Word に変更履歴が表示されます。
+Word for the web では使用できません。 変更履歴や文書の結合、比較、組み込みなどの高度な共同作業機能は、Word デスクトップ アプリでのみ利用できます。 予想通り、変更の追跡は、表示モードの間、Web 用の Word に表示されます。
   
 ## <a name="content-controls"></a>コンテンツ コントロール
 
@@ -78,11 +78,11 @@ Microsoft Word では、便利なデザイン済み送付状のギャラリー�
   
 ## <a name="creation-of-advanced-document-elements"></a>高度な文書要素の作成
 
-Web 用 Word では使用できません。 定型句、送付状、文献目録、目次、索引、数式、透かしなどの高度な文書要素は、Word デスクトップ アプリでのみ利用できます。 
+Word for the web では使用できません。 定型句、送付状、文献目録、目次、索引、数式、透かしなどの高度な文書要素は、Word デスクトップ アプリでのみ利用できます。 
   
 ## <a name="document-parts-and-themes"></a>文書パーツとテーマ
 
-Web 用 Word では使用できません。 コンテンツ コントロールや書式設定済みの配色、フォント パターン、グラフィック効果のプリセットなどの文書パーツとテーマは、Word デスクトップ アプリのみで利用できます。 
+Word for the web では使用できません。 コンテンツ コントロールや書式設定済みの配色、フォント パターン、グラフィック効果のプリセットなどの文書パーツとテーマは、Word デスクトップ アプリのみで利用できます。 
   
 ## <a name="document-translation"></a>ドキュメントの翻訳
 
@@ -98,19 +98,19 @@ Microsoft Word には、数式の作成や編集のための組み込みサポ�
   
 ## <a name="find-and-replace"></a>検索と置換
 
-Web および Word デスクトップアプリの両方の Word で検索と置換ツールを使用して、文書内のテキストを検索して置換します。 Word での検索と置換の使用の詳細については、「 [find and replace text](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)」を参照してください。
+Word for the Web と Word デスクトップ アプリの両方で[検索と置換] ツールを使用して、ドキュメント内のテキストを検索して置き換える。 Word for the Web で検索と置換を使用する方法の詳細については、「テキストの検索と置換 [」を参照してください](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)。
   
 ## <a name="font-formatting"></a>フォントの書式設定
 
-Web 用の Word では、フォント、フォントサイズ、およびいくつかのフォント書式設定属性 ( &mdash; 太字、斜体、下線、上付き文字など) を適用できます。 テキストの強調表示やフォント色の変更を行い、選択したテキストの書式設定をオフにすることもできます。 Word では、文書のテーマの書式設定を使用して、web でテキストを書式設定できます。 フォント ギャラリー上部でアクティブなテーマのフォントを確認し、フォントの色のギャラリーでテーマの色を確認します。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Word for the web では、フォント、フォント サイズ、および太字、斜体、下線、上付き文字を含むいくつかのフォント書式設定属性を &mdash; 適用できます。 テキストの強調表示やフォント色の変更を行い、選択したテキストの書式設定をオフにすることもできます。 文書テーマの書式設定は、Word for the web のテキストの書式設定に使用できます。 フォント ギャラリー上部でアクティブなテーマのフォントを確認し、フォントの色のギャラリーでテーマの色を確認します。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="footnotes-and-endnotes"></a>脚注と文末脚注
 
-Word の web 上のドキュメントに脚注と文末脚注を追加することができます。 [Word の web に脚注と文末脚注を追加する](https://go.microsoft.com/fwlink/p/?LinkId=397306)方法については、こちらを参照してください。
+Word for the web では、文書に脚注と文末脚注を追加できます。 Word [for the web での脚注と文末脚注の追加について詳しくは、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=397306)。
   
 ## <a name="full-fidelity-reading-view"></a>忠実な閲覧表示
 
-OneDrive または SharePoint でドキュメントを開くと、web 用の Word がブラウザーでドキュメントを開きます。 ドキュメントを Word デスクトップ アプリの印刷レイアウト表示で開くと、レイアウトと書式設定が表示されます。
+OneDrive または SharePoint でドキュメントを開くと、Word for the web はブラウザーでドキュメントを開きます。 ドキュメントを Word デスクトップ アプリの印刷レイアウト表示で開くと、レイアウトと書式設定が表示されます。
   
 ## <a name="graphic-effect-presets"></a>グラフィック効果のプリセット
 
@@ -118,23 +118,23 @@ OneDrive または SharePoint でドキュメントを開くと、web 用の Wor
   
 ## <a name="headers-and-footers"></a>ヘッダーとフッター
 
-Web 用の Word と Word デスクトップアプリの両方で、ドキュメントにヘッダーとフッターを挿入します。 ヘッダーとフッターを文書の最初のページ以外のすべてのページに適用することもできます。 Word でのヘッダーとフッターの使用の詳細については、「 [web 用の word の新機能](https://go.microsoft.com/fwlink/?LinkId=389520)」を参照してください。
+Word for the Web と Word デスクトップ アプリの両方で、ヘッダーとフッターをドキュメントに挿入します。 ヘッダーとフッターを文書の最初のページ以外のすべてのページに適用することもできます。 Word for the web でのヘッダーとフッターの使用の詳細については [、「What's New in Word for the web」を参照してください](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-Web 用の Word では、ドキュメント内のブックマークへのリンクを簡単に作成でき、カーソルがリンクをポイントしたときに表示される画面ヒントを設定することができます。 [Web 用の Word のハイパーリンク](https://go.microsoft.com/fwlink/p/?LinkId=271863)の詳細については、こちらを参照してください。
+Web 用 Word を使用すると、ドキュメント内のブックマークへのリンクを簡単に作成し、カーソルがリンクをポイントするときに表示される画面ヒントを設定できます。 Word for [the web のハイパーリンクの詳細については、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
   
-## <a name="index"></a>インデックス
+## <a name="index"></a>Index
 
 索引には、文書内で扱われている用語やトピックと、それらが出現するページが一覧表示されます。索引を作成するには、メイン項目の名前と文書内での相互参照を指定することによって索引項目をマークしてから、索引を作成します。
   
 ## <a name="insert-online-pictures"></a>オンライン画像の挿入
 
-Web 用の Word では、ローカルハードドライブに保存されているファイルまたは Bing 画像から画像を挿入できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Web 用 Word を使用すると、ローカル ハード ドライブに保存されたファイルまたは Bing Images から画像を挿入できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="irm-and-password-protection"></a>IRM とパスワード保護
 
-[Web 用の Word] は、Information Rights Management (IRM) で保護されているドキュメントを表示します。 ただし、これらのドキュメントをブラウザーで編集することはできません。また、web 用の Word で IRM で保護されたドキュメントを作成することはできません。 Web 用 Word は、パスワードで暗号化された文書を開くことはできません。 IRM で保護されたドキュメントの作成やパスワード保護の適用など、高度なドキュメント保護機能は、Word デスクトップアプリでのみ利用できます。
+Web 用 Word には、Information Rights Management (IRM) で保護されているドキュメントが表示されます。 ただし、これらのドキュメントはブラウザーで編集できません。また、Word for the Web では IRM で保護されたドキュメントを作成できません。 Word for the web では、パスワードで暗号化されたドキュメントを開くことができません。 IRM で保護されたドキュメントの作成やパスワード保護の適用などの高度なドキュメント保護機能は、Word デスクトップ アプリでのみ使用できます。
   
 ## <a name="learning-tools"></a>学習ツール
 
@@ -142,41 +142,41 @@ Web 用の Word では、ローカルハードドライブに保存されてい�
   
 ## <a name="lists"></a>リスト
 
-Web 用の Word では、既存の段落番号の下に直接入力すると、次の行が自動的にリストの一部になります。 詳細については [、「web 用の Word でリストを作成する」](https://go.microsoft.com/fwlink/p/?LinkId=397307)を参照してください。
+Word for the web で、既存の番号付きリストの下に直接入力を開始すると、次の行が自動的にリストの一部になります。 Word for [the web でリストを作成する方法について詳しくは、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=397307)。
   
 ## <a name="mail-merge"></a>差し込み印刷
 
-Web 用 Word では使用できません。 Excel スプレッドシートを使用した差し込み印刷などの高度なデータ統合機能は、Word デスクトップ アプリのみで使用できます。 
+Word for the web では使用できません。 Excel スプレッドシートを使用した差し込み印刷などの高度なデータ統合機能は、Word デスクトップ アプリのみで使用できます。 
   
 ## <a name="offline-viewing-and-authoring"></a>オフラインでの表示と編集
 
-Web 用 Word では使用できません。 Web 用 Office には、インターネット接続とインターネットブラウザーが必要です。 インターネットに接続していない状態でドキュメントを表示および編集するには、コンピューターに Word デスクトップアプリがインストールされている必要があります。または、組織のオンプレミスの Office Web Apps サーバー。 Word デスクトップ アプリがインストールされている場合は、Word のすべての機能を使用してドキュメントを表示して編集できます。 保存時に、変更内容がオンライン ドキュメントに反映されます。 ドキュメントをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 Office Web Apps Server については、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](https://go.microsoft.com/fwlink/p/?LinkId=282318)」を参照してください。
+Word for the web では使用できません。 Officeには、インターネット接続とインターネット ブラウザーが必要です。 インターネットから切断されている間、または Web Apps Server から組織のオンプレミスサイトからドキュメントを表示および編集するには、コンピューターに Word デスクトップ アプリがインストールOffice必要です。 Word デスクトップ アプリがインストールされている場合は、Word のすべての機能を使用してドキュメントを表示して編集できます。 保存時に、変更内容がオンライン ドキュメントに反映されます。 ドキュメントをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 Office Web Apps Server については、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)」を参照してください。
   
 ## <a name="page-breaks"></a>改ページ
 
-Web および Word デスクトップアプリ用の両方の Word に改ページを挿入します。
+Web 用 Word と Word デスクトップ アプリの両方に改ページを挿入します。
   
 ## <a name="page-layout-tools"></a>ページ レイアウト ツール
 
-Web に Word を使用すると、余白、用紙サイズ、および文書内で垂直方向または水平方向にページをレイアウトするかどうかを調整できます。 Word for the web では、ルーラーとグリッド線は表示されません。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。 
+Web 用 Word を使用すると、余白、用紙のサイズ、およびページがドキュメント内で垂直方向または水平方向にレイアウトされるかどうかを調整できます。 Web 用の Word では、ルーラーと枠線は表示されません。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。 
   
-[Word で web 用の空白のページを削除](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)する方法について説明します。
+Word for [the web で空白のページを削除する方法について説明します](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)。
   
-## <a name="page-layout-tools-advanced"></a>ページレイアウトツール、詳細設定
+## <a name="page-layout-tools-advanced"></a>ページ レイアウト ツール(高度)
 
-Web 用 Word では使用できません。 ページ罫線や行番号などの高度なページ レイアウト機能は、Word デスクトップ アプリでしか使用できません。
+Word for the web では使用できません。 ページ罫線や行番号などの高度なページ レイアウト機能は、Word デスクトップ アプリでしか使用できません。
   
 ## <a name="page-numbers"></a>ページ番号
 
-Web と Word デスクトップアプリの両方で、ドキュメントにページ番号を挿入します。 ページ番号を文書の最初のページ以外のすべてのページに適用することもできます。 Web 用の Word でページ番号を使用する方法の詳細については、「 [word の新機能 (web](https://go.microsoft.com/fwlink/?LinkId=389520))」を参照してください。
+Web 用 Word と Word デスクトップ アプリの両方で、ページ番号をドキュメントに挿入します。 ページ番号を文書の最初のページ以外のすべてのページに適用することもできます。 Word for the web でのページ番号の使用の詳細については、「Word for the Web の新機能 [」を参照してください](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="paragraph-formatting"></a>段落の書式設定
 
-Web 用の Word では、段落を左揃え、右揃え、または中央揃えで配置できます。テキストを右から左に実行します。インデントを拡大または縮小します。段落の書式を設定して、箇条書きまたは段落番号の付いた箇条書きにします。 また、書式設定をオフすることもできます。 Word では、web の行間を調整することはできません。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Web 用 Word を使用すると、段落を左、右、中央揃えに配置できます。テキストを右から左へ実行します。インデントを増減する。段落を箇条書きまたは番号付きリストとして書式設定します。 また、書式設定をオフすることもできます。 Word for the web では行間を調整できない。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="picture-tools"></a>画像ツール
 
-Web 用の Word では、画像のサイズを変更したり、代替テキストをドキュメントに追加したりすることができます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Web 用 Word を使用すると、画像のサイズを変更し、ドキュメントに代替テキストを追加できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="preformatted-font-and-color-schemes"></a>書式設定済みのフォントと配色
 
@@ -184,27 +184,27 @@ Web 用の Word では、画像のサイズを変更したり、代替テキス�
   
 ## <a name="present-online"></a>オンライン プレゼンテーション
 
-Web 用 Word では使用できません。 Word 2013 デスクトップアプリでは、Office Presentation Service または Skype for Business Online を使用してオンライン会議中にドキュメントを表示することができます。これにより、仕事仲間がリンクをフォローして、ドキュメントのページを見ながら閲覧することができます。 
+Word for the web では使用できません。 Word 2013 デスクトップ アプリを使用すると、Office プレゼンテーション サービスまたは Skype for Business Online を使用して、オンライン会議中にドキュメントを表示し、同僚がドキュメントのページを見ながらリンクをフォローできます。 
   
 ## <a name="print-to-pdf"></a>PDF に印刷
 
-Web に Word を使用すると、PDF を生成して [印刷] ダイアログボックスを表示するワンクリックプロセスが得られます。 [Web 用の Word でドキュメントを印刷する](https://go.microsoft.com/fwlink/p/?LinkId=271860)方法について説明します。
+Word for the web を使用すると、PDF を生成し、[印刷] ダイアログ ボックスを表示するための 1 回のクリックプロセスを取得します。 Word for [the web でドキュメントを印刷する方法の詳細については、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271860)。
   
-## <a name="printing-advanced"></a>印刷、詳細設定
+## <a name="printing-advanced"></a>印刷、高度
 
-Web 用 Word では使用できません。 マークアップや文書のプロパティの印刷などの高度な印刷機能は、Word デスクトップ アプリでのみ利用できます。 
+Word for the web では使用できません。 マークアップや文書のプロパティの印刷などの高度な印刷機能は、Word デスクトップ アプリでのみ利用できます。 
   
 ## <a name="proofing-tools"></a>校正ツール
 
-[スペルチェック時にスペルチェックを行う] をオンにすると、スペルミスのテキストに赤い波線が表示されます。 一般的なスペルミスの訂正や文字の記号への変換などの、オートコレクトの一般的な機能が含まれています。 また、校正言語を設定したり、選択したテキストのスペル チェックをオフにしたりすることもできます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Word for the web は、入力時にスペルチェックを自動的に行い、波状の赤い下線をスペルミステキストに適用します。 一般的なスペルミスの訂正や文字の記号への変換などの、オートコレクトの一般的な機能が含まれています。 また、校正言語を設定したり、選択したテキストのスペル チェックをオフにしたりすることもできます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
-## <a name="proofing-tools-advanced"></a>校正ツール、詳細設定
+## <a name="proofing-tools-advanced"></a>校正ツール、高度
 
-Web 用 Word では使用できません。 スペル チェック辞書への単語の追加、カスタム辞書、言語ツールや翻訳ツールの利用といった高度な校正ツールは、Word デスクトップ アプリのみで利用できます。 
+Word for the web では使用できません。 スペル チェック辞書への単語の追加、カスタム辞書、言語ツールや翻訳ツールの利用といった高度な校正ツールは、Word デスクトップ アプリのみで利用できます。 
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
 
-複数の人が同時に 1 つの文書で作業できます。 Word for the web and Word 2016 では、リアルタイムプレゼンスを使用すると、共同編集者が文書内で作業している場所を確認することができ、編集時に競合が発生しないようにしたり、変更内容を表示することができます。 Word 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。 リアルタイム共同編集の詳細については、「 [word の新機能](https://go.microsoft.com/fwlink/?LinkId=389520) 」を参照してください。また、 [word ドキュメントでリアルタイム共同編集を使用して共同作業](https://go.microsoft.com/fwlink/?linkid=798760)を行うことができます。
+複数の人が同時に 1 つの文書で作業できます。 Word for the web および Word 2016 では、リアルタイムプレゼンスを使用すると、編集中に競合が発生しないので、ドキュメント内で共同作成者が作業している場所を確認し、変更を行っている間に確認できます。 Word 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。 リアルタイム共同編集の詳細については [、「Word for the web](https://go.microsoft.com/fwlink/?LinkId=389520) の新機能」および「リアルタイム共同編集を使用した Word ドキュメントでの共同作業」を [参照してください](https://go.microsoft.com/fwlink/?linkid=798760)。
   
 ## <a name="reference-tools"></a>参照ツール
 
@@ -220,39 +220,39 @@ Web 用 Word では使用できません。 スペル チェック辞書への�
   
 ## <a name="rich-media"></a>リッチ メディア
 
-Web 用 Word では使用できません。 オンライン ビデオや PowerPoint ビデオの Word 文書への挿入などの高度なリッチ メディア機能は、Word デスクトップ アプリのみで利用できます。 
+Word for the web では使用できません。 オンライン ビデオや PowerPoint ビデオの Word 文書への挿入などの高度なリッチ メディア機能は、Word デスクトップ アプリのみで利用できます。 
   
 ## <a name="rich-table-formatting"></a>リッチ テーブルの書式設定
 
-高度な表書式 (事前設定された表スタイルの選択、ヘッダー行と列のオプションの設定、網かけおよび枠線のオプション設定など) は、web と Word デスクトップアプリの両方で使用できます。 Word での表の書式設定の詳細については、「 [web 用の word の新機能](https://go.microsoft.com/fwlink/?LinkId=389520)」を参照してください。
+事前設定された表のスタイルの選択、ヘッダー行と列のオプションの設定、網かけと罫線の設定オプションなどの高度なテーブルの書式設定は、Word for the web と Word デスクトップ アプリの両方で使用できます。 Word for the web でのテーブルの書式設定の詳細については、「Word for the web の新機能 [」を参照してください](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="save-as-and-download-a-copy"></a>名前を付けて保存し、コピーをダウンロードする
 
-Web 用の Word では、ドキュメントのコピーをローカルに保存することができます。
+Web 用 Word を使用すると、ドキュメントのコピーをローカルに保存できます。
   
 ## <a name="save-as-pdf"></a>PDF として保存
 
-Web で Word を使用すると、ファイルを Pdf に保存または変換して、それらを共有したり、商用プリンターで印刷したりすることができます。 また、その他のソフトウェアまたはアドインも必要ありません。
+Word for the web を使用すると、ファイルを保存または PDF に変換して、それらを共有したり、商用プリンターを使用して印刷したりすることができます。 また、他のソフトウェアやアドインは不要です。
   
 ## <a name="share"></a>共有
 
-Web 用の Word の場合、これは、他のユーザーがドキュメントを表示または編集するために使用できるリンクを送信するワンクリックプロセスです。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Word for the web では、他のユーザーがドキュメントの表示や編集に使用できるリンクを送信する 1 回のクリックプロセスです。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="simple-table-creation"></a>単純なテーブルの作成
 
-Web 用の Word では、テーブルの挿入、テーブルテキストの編集、および基本的なテーブル構造 (行や列の追加や削除など) を簡単に編集できます。 カスタム テーブルのスタイル、セルのサイズ、テキストの向き、並べ替え順序などの高度なテーブル機能は、Word デスクトップ アプリのみで利用できます。
+Web 用 Word を使用すると、テーブルを挿入したり、テーブル テキストを編集したり、行や列の追加や削除などの基本的なテーブル構造を簡単に編集できます。 カスタム テーブルのスタイル、セルのサイズ、テキストの向き、並べ替え順序などの高度なテーブル機能は、Word デスクトップ アプリのみで利用できます。
   
 ## <a name="smartart"></a>SmartArt
 
-Web 用の Word では、SmartArt がある既存のドキュメントが表示モードで適切に表示されます。 編集モードの場合、これらはプレースホルダーとして表示され、削除することはできますが、編集を行うことはできません。 Word では、これらを web に移動したり、サイズを変更したりすることはできません。 図形、グラフ、テキスト ボックス、SmartArt、ワードアートの挿入などの高度なアート機能は、Word デスクトップ アプリでのみ利用できます。
+Word for the web では、SmartArt を使用した既存のドキュメントがビュー モードで適切に表示されます。 編集モードの場合、これらはプレースホルダーとして表示され、削除することはできますが、編集を行うことはできません。 Word for the web では、移動やサイズ変更を行う事ができない。 図形、グラフ、テキスト ボックス、SmartArt、ワードアートの挿入などの高度なアート機能は、Word デスクトップ アプリでのみ利用できます。
   
 ## <a name="table-of-contents"></a>目次
 
-Web 用 Word では使用できません。 既存の目次は表示できますが、web に Word を使用して作成することはできません。 お使いのコンピューターに Word デスクトップ アプリがインストールされている場合は、Word を使用して文書内に目次を作成できます。 詳細については、「[目次を作成する](https://go.microsoft.com/fwlink/p/?LinkId=324414)」を参照してください。 
+Word for the web では使用できません。 既存の目次を表示できますが、Word for the web を使用して作成は行いません。 お使いのコンピューターに Word デスクトップ アプリがインストールされている場合は、Word を使用して文書内に目次を作成できます。 詳細については、「[目次を作成する](https://go.microsoft.com/fwlink/p/?LinkId=324414)」を参照してください。 
   
 ## <a name="table-of-authority"></a>権限の表
 
-Web 用 Word では使用できません。 既存の引用文献一覧を表示することはできますが、web 用の Word を使用して作成することはできません。
+Word for the web では使用できません。 既存の権限テーブルを表示できますが、Web 用 Word を使用して作成する方法は使用できます。
   
 ## <a name="tap"></a>タップ
 
@@ -260,23 +260,23 @@ Web 用 Word では使用できません。 既存の引用文献一覧を表示
   
 ## <a name="tell-me"></a>操作アシスト
 
-Web 用の Word で何らかの操作を実行する必要があり、その方法がわからない場合は、[検索] 検索機能を使用して、探しているものをすばやく見つけることができます。 「教えて」を利用すればさまざまな機能について詳しく知ることができ、作業時間短縮のためのヒントが得られます。
+Word for the web で何かを実行する必要があるが、その方法が分からない場合は、Tell Me 検索機能を使用して、探しているコンテンツをすばやく見つける。 「教えて」を利用すればさまざまな機能について詳しく知ることができ、作業時間短縮のためのヒントが得られます。
   
 ## <a name="translation-service"></a>変換サービス
 
-Word の web で利用可能な翻訳ツールを使用して、ファイル全体、語句の選択した語句、個別の単語などのテキストを翻訳することができます。 
+Word for the web で使用できる翻訳ツールを使用して、ファイル全体、選択した語句、または個々の単語を含むテキストを翻訳できます。 
   
 ## <a name="undo-and-redo"></a>元に戻す/やり直し
 
 一連の操作を元に戻したり、特定の操作を再度実行したりすることができます。
   
-## <a name="vba-and-forms-scripts"></a>VBA およびフォームスクリプト
+## <a name="vba-and-forms-scripts"></a>VBA スクリプトとフォーム スクリプト
 
-表示モードの場合、Active X コントロール、埋め込まれた OLR オブジェクト、および署名欄は文書内で期待どおりに表示されます。 編集モードの場合、これらはプレースホルダーとして表示され、削除することはできますが、編集を行うことはできません。 Word では、これらを web に移動したり、サイズを変更したりすることはできません。 高度なコントロールとマクロは、Word デスクトップ アプリのみで利用できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+表示モードの場合、Active X コントロール、埋め込まれた OLR オブジェクト、および署名欄は文書内で期待どおりに表示されます。 編集モードの場合、これらはプレースホルダーとして表示され、削除することはできますが、編集を行うことはできません。 Word for the web では、移動やサイズ変更を行う事ができない。 高度なコントロールとマクロは、Word デスクトップ アプリのみで利用できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="view-and-add-comments"></a>コメントの表示と追加
 
-Web 用の Word では、編集モードでコメントを挿入、編集、または削除することができます。 また、デスクトップ上の Word で行うのと同じように、コメントに返信したり、完了としてマークしたりすることもできます。
+Web 用 Word を使用すると、編集モードでコメントを挿入、編集、または削除できます。 また、デスクトップ上の Word で行うのと同じように、コメントに返信したり、完了としてマークしたりすることもできます。
   
 ## <a name="watermarks"></a>透かし
 
@@ -284,17 +284,16 @@ Web 用の Word では、編集モードでコメントを挿入、編集、ま�
   
 ## <a name="word-count"></a>文字カウント
 
-Word では、文書内の単語数についての大まかな語句が提供されます。 Word の word の単語数の詳細について [は、「web」](https://go.microsoft.com/fwlink/p/?LinkId=271864)を参照してください。
+Web 用の Word は、ドキュメント内の単語の大まかな単語数を示します。 Word for [the Web での単語数の詳細については、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271864)。
   
 ## <a name="zoom"></a>拡大/縮小
 
-拡大/縮小は表示モードで利用できます。 Web 用の Word の場合、ブラウザーの表示設定を使用して、編集モードで拡大または縮小します。 Word の word の単語数の詳細について [は、「web」](https://go.microsoft.com/fwlink/p/?LinkId=271864)を参照してください。
+拡大/縮小は表示モードで利用できます。 Web 用 Word では、ブラウザーの表示設定を使用して、編集モードで拡大または縮小します。 Word for [the Web での単語数の詳細については、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271864)。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Office for the web service description](office-online-service-description.md)」を参照してください。 
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「web サービスのOfficeを [参照してください](office-online-service-description.md)。 
 
-## <a name="operating-parameter-limitations-and-specifications"></a>オペレーティングパラメーターの制限と仕様
+## <a name="operating-parameter-limitations-and-specifications"></a>操作パラメーターの制限と仕様
 
-オペレーティングパラメーターの制限については、「 [オペレーティングパラメーターの制限と仕様 (Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation))」を参照してください。
-  
+操作パラメーターの制限の詳細については、「Word のオペレーティング パラメーターの制限と [仕様」を参照してください](/office/troubleshoot/word/operating-parameter-limitation)。

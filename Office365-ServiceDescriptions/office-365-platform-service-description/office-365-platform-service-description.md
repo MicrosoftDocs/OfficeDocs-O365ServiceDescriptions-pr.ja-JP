@@ -12,21 +12,21 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft 365 および Office 365 は、組織のニーズを最適に満たすさまざまなプランで利用できます。 プランの違い (Exchange Online プランを含む) を探している場合は、各プランに含まれる機能について説明します。
-ms.openlocfilehash: 52c443bec7620caaf77c722f485ddc435d728c48
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+description: Microsoft 365 および Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 プランの違い (Exchange Online プランを含む) を探している場合は、各プランに含まれる機能について説明します。
+ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901922"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174012"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 および Office 365 プラットフォーム サービスの説明
 
-Microsoft 365 および Office 365 は、組織のニーズを最適に満たすさまざまなプランで利用できます。 プランの違い (Exchange Online プランを含む) を探している場合は、各プランに含まれる機能について説明します。
+Microsoft 365 および Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 プランの違い (Exchange Online プランを含む) を探している場合は、各プランに含まれる機能について説明します。
   
 Microsoft 365 および Office 365 は、クラウドの生産性をすべてのサイズの企業に提供し、時間、コストの節約、価値の高いリソースの解放に役立ちます。 Microsoft 365 および Office 365 プランは、使い慣れた Microsoft Office デスクトップ スイートと、Microsoft Exchange Online、Microsoft SharePoint Online、Office for the web、Microsoft Skype for Business Online など、Microsoft の次世代コミュニケーションおよびコラボレーション サービスのクラウドベースバージョンを組み合わせて、ユーザーがインターネットを通じて事実上どこからでも生産性を向上させることができます。
   
-Microsoft 365 および Office 365 プラットフォームのユーザーを有効にするサブスクリプションに関する詳細な計画情報については、完全なサブスクリプション比較表を [参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 機能の詳細な一覧については [、「Microsoft 365 および Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)サービスの説明」の下にある関連するサービスの説明を参照してください。
+Microsoft 365 および Office 365 プラットフォームのユーザーを有効にするサブスクリプションに関する詳細な計画情報については、完全なサブスクリプション比較表を [参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 機能の詳細な一覧については [、「Microsoft 365 および Office 365](../office-365-service-descriptions-technet-library.md)サービスの説明」の下にある関連するサービスの説明を参照してください。
   
 - Office 365 Education プランについては、最初に [教育機関向け Office 365](office-365-education.md) ページをご覧ください。 
     
@@ -52,7 +52,7 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
-サービス レベル契約については、[サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=843153)をご覧ください。 365 の最新のアップタイムのOffice、サービスの正常性と継続性 [を参照してください](https://go.microsoft.com/fwlink/?linkid=848695)。
+サービス レベル契約については、[サービス レベル契約](./service-level-agreement.md)をご覧ください。 365 の最新のアップタイムのOffice、サービスの正常性と継続性 [を参照してください](./service-health-and-continuity.md)。
   
 ## <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -60,7 +60,7 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
   
 ## <a name="data-storage-location"></a>データの保存場所
 
-データの保存場所については、「顧客データの保存 [場所」を参照してください](https://docs.microsoft.com/office365/enterprise/o365-data-locations)。 
+データの保存場所については、「顧客データの保存 [場所」を参照してください](/office365/enterprise/o365-data-locations)。 
   
 ## <a name="multi-geo-capabilities"></a>複数地域の機能 
 
@@ -86,12 +86,12 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
 
 - Office 365 Germany:[Office 365 Germany のプラン](https://go.microsoft.com/fwlink/?linkid=839016)
     
-一部の Microsoft 365 for business プランには、サブスクリプション用に購入できるアドオンがあります。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「アドオンを [購入または管理する」を参照してください](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)。
+一部の Microsoft 365 for business プランには、サブスクリプション用に購入できるアドオンがあります。 アドオンにより、サブスクリプションに追加機能が提供されます。 詳細については、「アドオンを [購入または管理する」を参照してください](/microsoft-365/commerce/buy-or-edit-an-add-on)。
 <br><br>
   
 | 機能 | Microsoft 365 Business Basic | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Microsoft 365 の管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
+|**[Microsoft 365 の管理](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
 |Microsoft 365 Office管理センターまたは管理者アカウントを使用して、365 を管理Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |いいえ<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |いいえ<sup>2</sup> <br/> |
 |**[Microsoft 365 スイート機能](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
@@ -123,7 +123,7 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
 |Exchange のシンプルな (一括) 移行  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アカウントを削除し、Microsoft 365 からユーザー パスワードをリセットする、またはユーザー パスワード<sup>3</sup>をWindows PowerShellする <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ユーザーが自分のパスワードを変更できる<sup>4</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|ライセンスの管理  <br/> |は<sup>い 6</sup> <br/> |は<sup>い 6</sup> <br/> |は<sup>い 6</sup> <br/> |は<sup>い 6</sup> <br/> |は<sup>い 6</sup> <br/> |は<sup>い 6</sup> <br/> |は<sup>い 6</sup> <br/> |
+|ライセンスの管理  <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |はい<sup>6</sup> <br/> |
 |Microsoft 365 からのセキュリティ グループの管理  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |複数の管理者役割を使用できる  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |パートナーによる Microsoft 365 の管理を許可する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -192,7 +192,7 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
 |Advanced Audit<sup>22</sup> <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
 |Microsoft Secure Score<sup>7</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |いいえ  <br/> |
-|**[コンプライアンス](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
+|**[コンプライアンス](/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70/SSAE16 の評価  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ISO 27001 認定  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EU モデル条項  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -212,9 +212,9 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
 > <sup>1</sup> Microsoft 365 および Office 365 は、製造元がサポートしていないオペレーティング システムのサポートを提供していない。 
 <br/><sup>2</sup> Azure Information Protection は含まれていませんが、アドオンとして別途購入し、サポートされている Information Rights Management (IRM) 機能を有効にすることができます。 一部の Azure Information Protection 機能では、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise E1、Office 365 Education、または Office 365 Enterprise F3 には含まれていない Microsoft 365 Apps for enterprise へのサブスクリプションが必要です。 Microsoft 365 apps for business にOfficeするクライアント アプリは、Azure Information Protection (プラン 1) の完全な機能もサポートしています。
 <br/><sup>3</sup> ローカル Active Directory とディレクトリ同期を使用する場合は、Microsoft 365 ポータルではなく、Microsoft 365 ポータルを使用して、Windows PowerShell の Azure Active Directory モジュールを使用してアカウントを削除するか、ローカル Active Directory を使用してパスワードを変更する必要があります。 
-<br/><sup>4 ユーザー</sup> のセルフサービス パスワード管理ポリシーを設定する方法については、「セキュリティ情報を使用して仕事または学校のパスワードをリセットする」 [を参照してください](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 
+<br/><sup>4 ユーザー</sup> のセルフサービス パスワード管理ポリシーを設定する方法については、「セキュリティ情報を使用して仕事または学校のパスワードをリセットする」 [を参照してください](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)。 
 <br/><sup>6</sup> 期間割引で購入したシートを減らすには、早期終了料金が適用される場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 
-<br/><sup>7</sup> Microsoft [Secure Score セキュリティ ページで](https://securescore.office.com) 利用できます。 管理者のアクセス許可が必要です。 詳細については [、「Microsoft Secure Score」を参照してください](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
+<br/><sup>7</sup> Microsoft [Secure Score セキュリティ ページで](https://securescore.office.com) 利用できます。 管理者のアクセス許可が必要です。 詳細については [、「Microsoft Secure Score」を参照してください](/microsoft-365/security/mtp/microsoft-secure-score)。 
 <br/><sup>8</sup> Microsoft Sway は現在、特定の地域のお客様には利用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 
 <br/><sup>9 エクスペリエンス</sup> の低下。 組織が Internet Explorer 8 または Internet Explorer 9 に依存して古い Web アプリやサービスにアクセスする場合は、Internet Explorer 11 へのアップグレードと、Internet Explorer 11 のエンタープライズ モードの評価を検討してください。 この更新プログラムは、従来の Web アプリの下位互換性を向上するのに役立ちます。 
 <br/><sup>10</sup> Microsoft Teams は、Microsoft 365 Business Basic、Microsoft 365 Business Standard、Office 365 Enterprise (E1、E3、E5、F3)、および Office 365 Education プランで利用できます。 
@@ -225,8 +225,8 @@ Microsoft 365 および Office 365 のシステム要件については、「Mic
 <br/><sup>15</sup> Advanced eDiscovery は、米国および西ヨーロッパ (オランダ) 地域でサポートされています (カナダとアジア太平洋地域のお客様のデータは、米国にエクスポートされます。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。
 <br/><sup>16</sup> Microsoft Stream の使用のみ: 発行または共有なし。
 <br/><sup>17</sup> 2019 年 5 月から、Office 365 および Microsoft 365 の既存の適格 SKU は Kaizala Pro でバックフィルされます。 2019 年 6 月 1 日から、Kaizala Pro は 365 および Microsoft 365 SKU のすべてのOffice含まれます。
-<br/><sup>18 詳細</sup> については [、「MyAnalytics プランと環境」を参照してください](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
+<br/><sup>18 詳細</sup> については [、「MyAnalytics プランと環境」を参照してください](/workplace-analytics/myanalytics/overview/plans-environments)。
 <br/><sup>19</sup> Azure Active Directory の価格ページの [Office **365 Apps]** 列に記載されている Azure Active Directory 機能 [が含](https://azure.microsoft.com/pricing/details/active-directory/) まれています。 Azure Active Directory プラン 1 またはプラン 2、Enterprise Mobile Security、または Microsoft 365 E3 または E5 を追加して、Azure のプレミアム 機能をADがあります。<br/>
-<sup>20</sup> ブリーフィング 電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「Configure [Briefing email 」を参照してください](https://docs.microsoft.com/Briefing/be-admin)。<br>
+<sup>20</sup> ブリーフィング 電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「Configure [Briefing email 」を参照してください](/Briefing/be-admin)。<br>
 <sup>21</sup> ユーザーには、Web 用 Project へのビュー専用アクセス権が提供されます。 これらの権限は、Web アプリケーションの Project でのみ、Project Plan 1、Project Plan 3、または Project Plan 5 ライセンスを持つテナントでのみ使用できます。 これらの権限は、Power Platform アプリケーションまたは他のデータ セット、Project Online デスクトップ クライアント、または Project Online へのアクセスを許可しない。 機能の詳細については [、Microsoft Project サービスの説明を参照してください](../project-online-service-description/project-online-service-description.md)。<br/>
-<sup>22</sup> Microsoft 365 の監査では、組織は Microsoft 365 のさまざまなサービスでさまざまな種類の監査アクティビティを可視化できます。 セキュリティ コンプライアンス [センター &amp; の監査ログ](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 検索を使用して、組織内のユーザーと管理者のアクティビティを表示します。 また [、365 管理](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) Office API を使用して、統合監査ログからイベントを取得することもできます。 監査アクティビティがユーザーまたは管理者によって実行されると、監査レコードが生成され、顧客組織の監査ログに保存されます。 監査レコードが保持される時間 (および監査ログで検索可能) の長さは、お客様の Office 365 または Microsoft 365 Enterprise サブスクリプション、および特定のユーザーに割り当てられたライセンスの種類によって異なります。
+<sup>22</sup> Microsoft 365 の監査では、組織は Microsoft 365 のさまざまなサービスでさまざまな種類の監査アクティビティを可視化できます。 セキュリティ コンプライアンス [センター &amp; の監査ログ](./office-365-securitycompliance-center.md) 検索を使用して、組織内のユーザーと管理者のアクティビティを表示します。 また [、365 管理](/office/office-365-management-api/office-365-management-activity-api-reference) Office API を使用して、統合監査ログからイベントを取得することもできます。 監査アクティビティがユーザーまたは管理者によって実行されると、監査レコードが生成され、顧客組織の監査ログに保存されます。 監査レコードが保持される時間 (および監査ログで検索可能) の長さは、お客様の Office 365 または Microsoft 365 Enterprise サブスクリプション、および特定のユーザーに割り当てられたライセンスの種類によって異なります。

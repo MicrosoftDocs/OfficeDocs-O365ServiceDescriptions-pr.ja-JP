@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901952"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172732"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -85,7 +85,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 > [!NOTE]
 > 既定の OneDrive ストレージ スペースを増やす場合、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。 
   
-個々のユーザーに最初に 5 TB を超えるクラウド ストレージが必要になる場合は、管理者は[Microsoft テクニカル サポート](https://go.microsoft.com/fwlink/?linkid=869559)に追加の要求をしてください。 追加のクラウド ストレージは次のように付与されます。 
+個々のユーザーに最初に 5 TB を超えるクラウド ストレージが必要になる場合は、管理者は[Microsoft テクニカル サポート](/microsoft-365/admin/contact-support-for-business-products)に追加の要求をしてください。 追加のクラウド ストレージは次のように付与されます。 
   
 - ユーザーが OneDrive の 5 TB ストレージを 90% 以上使用すると、Microsoft は OneDrive の既定のストレージ スペースをユーザー 1 人あたり 25 TB まで増やします (管理者は、ユーザー 1 人あたりの制限を必要に応じてこれより低く設定できます)。 
     
@@ -101,7 +101,7 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
   
 ## <a name="onedrive-limits"></a>OneDrive の制限
 
-ファイルと同期の制限については、[SharePoint の制限](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) および [無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)を参照してください。
+ファイルと同期の制限については、[SharePoint の制限](./sharepoint-online-service-description/sharepoint-online-limits.md) および [無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)を参照してください。
   
 無制限の個人ユーザー用クラウド ストレージを含むプランについては、ストレージ機能が制限される場合があります。 
 
@@ -185,5 +185,4 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 管理者、セキュリティ、およびコンプライアンスの機能
 
-これらの機能の詳細については、「[SharePoint サービスの説明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)」を参照してください。
-
+これらの機能の詳細については、「[SharePoint サービスの説明](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features)」を参照してください。
