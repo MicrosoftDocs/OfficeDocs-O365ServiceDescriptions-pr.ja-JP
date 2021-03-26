@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: この記事では、アーカイブの詳細Microsoft Exchange Onlineしてください。
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173372"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215770"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving サービスの説明
 
@@ -30,7 +30,7 @@ Microsoft オンラインサービスとして、Exchange Online のアーカイ
   
 ## <a name="available-plans"></a>使用できるプラン
 
-ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画Exchange Online Archiving、完全なサブスクリプション比較表 [を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画Exchange Online Archiving、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 > [!TIP]
 > サービスの説明でページをエクスポート、保存、印刷できます。 コンテンツ検索結果を [エクスポートする方法について学習します](/office365/securitycompliance/export-search-results)。 
@@ -80,25 +80,25 @@ Exchange Online Archiving サービスにアクセスするユーザーは、Exc
 | 機能 | Exchange Online Archiving for Exchange Server<sup>1</sup> | Exchange Online Archiving for Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
 |**[アーカイブ機能をExchange Online Archiving](archive-features.md)** <br/> |||
-|アーカイブ メールボックス  <br/> |はい  <br/> |はい  <br/> |
-|アーカイブ ポリシーを使用してメッセージを移動する  <br/> |はい  <br/> |はい  <br/> |
-|アーカイブへのデータのインポート  <br/> |はい  <br/> |はい  <br/> |
-|削除済みアイテムの回復  <br/> |はい  <br/> |はい  <br/> |
-|削除済みメールボックスの回復  <br/> |はい  <br/> |はい  <br/> |
-|メールボックスのバックアップ  <br/> |はい  <br/> |はい  <br/> |
+|アーカイブ メールボックス  <br/> |はい  <br/> |必要  <br/> |
+|アーカイブ ポリシーを使用してメッセージを移動する  <br/> |はい  <br/> |必要  <br/> |
+|アーカイブへのデータのインポート  <br/> |はい  <br/> |必要  <br/> |
+|削除済みアイテムの回復  <br/> |はい  <br/> |必要  <br/> |
+|削除済みメールボックスの回復  <br/> |はい  <br/> |必要  <br/> |
+|メールボックスのバックアップ  <br/> |はい  <br/> |必要  <br/> |
 |**[クライアント機能のExchange Online Archiving](client-features.md)** <br/> |||
-|Outlook<sup>3</sup> <br/> |はい  <br/> |はい  <br/> |
-|Outlook on the web  <br/> |はい  <br/> |はい  <br/> |
+|Outlook<sup>3</sup> <br/> |はい  <br/> |必要  <br/> |
+|Outlook on the web  <br/> |はい  <br/> |必要  <br/> |
 |**[コンプライアンスとセキュリティ機能 (Exchange Online Archiving](compliance-and-security-features.md)** <br/> |||
-|アイテム保持ポリシー  <br/> |はい  <br/> |はい  <br/> |
-|インプレース保持と訴訟ホールド<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |
-|インプレース電子情報開示 (eDiscovery)  <br/> |はい  <br/> |はい  <br/> |
-|社内サーバーと Exchange Online Archiving 間の暗号化  <br/> |はい  <br/> |はい  <br/> |
-|クライアントと Exchange Online Archiving 間の暗号化  <br/> |はい  <br/> |はい  <br/> |
-|暗号化: S/MIME と PGP  <br/> |はい  <br/> |はい  <br/> |
+|アイテム保持ポリシー  <br/> |はい  <br/> |必要  <br/> |
+|インプレース保持と訴訟ホールド<sup>6</sup> <br/> |はい  <br/> |必要  <br/> |
+|インプレース電子情報開示 (eDiscovery)  <br/> |はい  <br/> |必要  <br/> |
+|社内サーバーと Exchange Online Archiving 間の暗号化  <br/> |はい  <br/> |必要  <br/> |
+|クライアントと Exchange Online Archiving 間の暗号化  <br/> |はい  <br/> |必要  <br/> |
+|暗号化: S/MIME と PGP  <br/> |はい  <br/> |必要  <br/> |
 |Azure Information Protection を使用した IRM  <br/> |いいえ  <br/> |いいえ<sup>4</sup> <br/> |
 |Windows Server AD RMS を使用した IRM  <br/> |はい<sup>5</sup> <br/> |はい<sup>5</sup> <br/> |
-|監査  <br/> |はい  <br/> |はい  <br/> |
+|監査  <br/> |はい  <br/> |必要  <br/> |
    
 
 <sup>1</sup> ユーザー メールボックスが Exchange 2010 SP2 以降に存在する必要があります。

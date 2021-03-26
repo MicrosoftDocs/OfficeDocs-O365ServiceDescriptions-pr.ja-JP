@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9bdf54b8fa59601a46fb4dae3a0265444fe7727a
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172732"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215800"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -26,7 +26,7 @@ ms.locfileid: "51172732"
   
 OneDrive は Microsoft 365 および Office 365 プラン、SharePoint プランに含まれています。スタンドアロン プランとしてもご購入いただけます。 
     
-OneDrive のユーザーを有効にするサブスクリプションの詳細なプラン情報については、「[完全なサブスクリプション比較表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)」および「[OneDrive for Business プランを比較する](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2)」を参照してください。
+OneDrive のユーザーを有効にするサブスクリプションの詳細なプラン情報については、「[完全なサブスクリプション比較表](https://go.microsoft.com/fwlink/?linkid=2139145)」および「[OneDrive for Business プランを比較する](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2)」を参照してください。
   
 > [!NOTE]
 > OneDrive スタンドアロン プランには Web 用 Office が含まれます。 

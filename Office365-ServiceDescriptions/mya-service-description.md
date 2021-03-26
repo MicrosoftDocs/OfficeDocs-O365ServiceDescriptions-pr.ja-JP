@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics の機能、配布、プライバシー、および前提条件
-ms.openlocfilehash: 9b19dfd5eb40ab136f8491fc87fab02434b88d98
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3b573c4e675830bb2c7b5d9101c9793b493c4d11
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173492"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215866"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics サービスの説明
 
@@ -25,7 +25,7 @@ MyAnalytics は、従業員のプライバシーを保護する方法で情報�
 
 ## <a name="available-plans"></a>使用できるプラン
 
-MyAnalytics のユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較表 [を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+MyAnalytics のユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="elements"></a>要素
 

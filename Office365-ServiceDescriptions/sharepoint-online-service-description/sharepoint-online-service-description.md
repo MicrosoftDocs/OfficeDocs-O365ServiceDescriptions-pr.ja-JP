@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: プランで使用できる SharePoint 機能を確認します。
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174102"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215740"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -30,7 +30,7 @@ Microsoft 365 の SharePoint は、組織がコンテンツ、ナレッジ、お
 
 簡単な概要については [、「SharePoint とは」を参照してください。](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-SharePoint でユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較 [表を参照してください](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 Microsoft 365 のシステム要件については [、「Microsoft 365」および「Officeリソース」を参照してください](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
+SharePoint でユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較 [表を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。 Microsoft 365 のシステム要件については [、「Microsoft 365」および「Officeリソース」を参照してください](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
 米国政府機関のクラウド顧客向け SharePoint 機能の違いについては [、「SharePoint for US Government environments」を参照してください](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
@@ -81,7 +81,7 @@ Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラ�
 
 Microsoft Power Apps と Power Automate の可用性の詳細については、「Power Apps と Power Automate のライセンスに関する FAQ」 [を参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-Microsoft Graph の可用性の詳細については [、「Microsoft 365 および Office 365 プラットフォーム サービスの説明」を参照してください](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)。
+Microsoft Graph の可用性の詳細については [、「Microsoft 365 および Office 365 プラットフォーム サービスの説明」を参照してください](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
 
 ## <a name="it-admin-features"></a>IT 管理者の機能
 
