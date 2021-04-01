@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium は、クラス最高の生産性と高度なセキュリティ機能とデバイス管理機能を組み合わせて、ビジネスの保護に役立つ統合ソリューションです。 このサービスの説明では、プランのオプションと機能について説明します。
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173542"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484820"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium サービスの説明
 
@@ -43,7 +43,7 @@ Microsoft 365 Business Premium には、基本的に Microsoft 365 Business Stan
 |Microsoft Stream  <br/> |はい<sup>6</sup>  <br/> |はい<sup>6</sup>  <br/> |
 |[Microsoft 365 の管理](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Azure AD接続同期ツール<br/> |はい  <br/> |はい  <br/> |
-|共有コンピューターのライセンス認証 <br/> |いいえ <br/> |はい  <br/> |
+|[共有コンピューターのライセンス認証](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |いいえ <br/> |はい  <br/> |
 |[メッセージ ポリシーとコンプライアンス](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Exchange Online ベースのメールボックスの長期アーカイブ  <br/> |いいえ  <br/> |はい<sup>3</sup> <br/> |
 |Azure Information Protection プラン 1 |いいえ <br/>|はい<sup>2</sup> </br>|

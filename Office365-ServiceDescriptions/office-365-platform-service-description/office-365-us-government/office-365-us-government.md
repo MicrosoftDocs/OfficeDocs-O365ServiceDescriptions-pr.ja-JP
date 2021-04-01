@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公共部門の独自の要件と進化する要件に応じて、Microsoft は Office 365 US Government プラン (または 365 Government Office) を作成しました。 この記事では、365 Government US 環境に固有の機能Office説明します。
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172962"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484830"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -256,7 +256,7 @@ Office 365 US Government プランのシステム要件については、[office
 |すばやく GDPR データを検出する|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
 |Cloud App Security|No<sup>12, 15, 19</sup>|No<sup>12, 15, 19</sup>|は<sup>い 15、19</sup>|No<sup>12, 15, 19</sup>|
 |Microsoft Defender for Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|は<sup>い 18</sup>|No<sup>12, 18</sup>|
-|カスタマー ロックボックス|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
+|顧客ロックボックス|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
 |Advanced eDiscovery|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
 |セキュリティ スコア<sup>14</sup>|は<sup>い 9、15</sup>|はい<sup>9</sup>|は<sup>い 9、15</sup>|は<sup>い 9、15</sup>|
 |Officeメッセージの暗号化|いいえ|はい|はい|いいえ|
@@ -348,7 +348,7 @@ Office 365 US Government プランのシステム要件については、[office
 |Office テレメトリ|いいえ|はい<sup>4</sup>|はい<sup>4</sup>|いいえ|
 |クライアント アプリケーションのオフライン サポート|いいえ|はい|はい|いいえ|
 |最適化されたサイド バイ サイド クライアント インストール|いいえ|はい|はい|いいえ|
-|Power Map for Excel|いいえ|はい<sup>4</sup>|はい<sup>4</sup>|いいえ|
+|Power Map for Excel|いいえ|いいえ|いいえ|いいえ|
 |Power Pivot for Excel|いいえ|はい<sup>4</sup>|はい<sup>4</sup>|いいえ|
 |Power Query for Excel|いいえ|はい<sup>4</sup>|はい<sup>4</sup>|いいえ|
 |Power View for Excel|いいえ|はい<sup>4</sup>|はい<sup>4</sup>|いいえ|

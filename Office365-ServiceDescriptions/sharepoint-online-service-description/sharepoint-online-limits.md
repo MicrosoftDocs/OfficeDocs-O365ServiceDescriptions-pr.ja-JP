@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 およびスタンドアロン プランの SharePoint の制限について説明します。
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172612"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484780"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -29,7 +29,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
 |ユーザー数  <br/> |最大 300  <br/> |1 から 500,000<sup>7</sup> <br/> |1 から 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> [組織の合計と使用可能なストレージを検索する方法について説明します](/sharepoint/manage-site-collection-storage-limits)。 SharePoint のストレージを追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を変更する](/office365/admin/subscriptions-and-billing/add-storage-space)」を参照してください。 
+<sup>1</sup> [組織の合計と使用可能なストレージを検索する方法について説明します](/sharepoint/manage-site-collection-storage-limits)。 SharePoint のストレージを追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を追加する」を参照してください](/office365/admin/subscriptions-and-billing/add-storage-space)。 
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用されるストレージは、組織の合計ストレージの上限に含まれます。 
 <br/> <sup>3</sup> Office 365 サブスクリプション、および Office 365 Extra File Storage アドオンを持っている場合は、ストレージの量が追加されます。 
 <br/> <sup>4</sup> これは単一のサイトのストレージ (以前の「サイト コレクション」) の *制限* であり、各サイトに *提供* されるストレージの量ではありません。 この制限は、Office 365 グループ接続のチーム サイトと OneDrive を含むすべての種類のサイトに適用されます。 SharePoint 管理者は、[手動でストレージの下限を設定](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)することができます。 
@@ -93,7 +93,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 1 組織につき 20,000 インスタンス
 
-### <a name="users"></a>Users
+### <a name="users"></a>ユーザー
 
 サイト コレクションあたり 200 万。
 

@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams のサービスと機能の可用性について、Microsoft 365 プランおよび 365 プランOffice説明します。
-ms.openlocfilehash: 59eaee9a36eaff8dd79d5ff9690bf04e966f3dfe
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215730"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484860"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -42,23 +42,22 @@ Microsoft Teams はスタンドアロン サービスとして使用できませ
 
 | 機能 | 中小企業向けプラン | エンタープライズ プラン | GCC | GCC - 高 | DOD | 教育計画 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Teams  <br/> |はい <br/> |はい <br/> |はい <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
-|チャネル - 標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|チャネル - プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |必要 <br/> |いいえ  <br/> |いいえ <br/> |はい  <br/> |
-|会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
-|画面共有 PowerPoint オーディオ/ビデオ デスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |必要  <br/> |
+|チャネル - 標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|チャネル - プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |はい <br/> |いいえ  <br/> |いいえ <br/> |はい  <br/> |
+|会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|画面共有 PowerPoint オーディオ/ビデオ デスクトップ <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
 |電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
-|アプリ、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>5</sup>  <br/> |はい<sup>5</sup>  <br/> |は<sup>い 4,5</sup>  <br/> |必要  <br/> |
-|ライブ イベント  <br/> |いいえ  <br/> |はい  <br/> |必要  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |はい  <br/> |
+|アプリ、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい<sup>4</sup>  <br/> |はい  <br/> |
+|ライブ イベント  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |いいえ<sup>5</sup>  <br/> |No<sup>5</sup>  <br/> |はい  <br/> |
 
 <sup>1</sup> Microsoft Teams GCC-High DOD は、個々のチームの 2500 人のメンバーをサポートします。<br/>
 <sup>2</sup> Microsoft Planner は現在、プライベート チャネルでアクセスできません。<br/>
 <sup>3</sup> GcCH と DoD で動作するには、Microsoft Teams 音声および電話会議用に直接ルーティングを構成する必要があります。<br/>
-<sup>4</sup> Microsoft OneNote は DOD クラウドでは使用できません。<br/>
-<sup>5</sup> サードパーティ 製のアプリケーションとアプリケーション発行は、現時点ではこれらのクラウドでは使用できません。<br/>
-<sup>6</sup> ライブ イベントは、現時点GCC-High DOD では使用できません。<br/>
+<sup>4</sup> サードパーティ 製のアプリケーションとアプリケーション発行は、現時点ではこれらのクラウドでは使用できません。<br/>
+<sup>5</sup> ライブ イベントは、現時点では GCC-High DOD では使用できません。<br/>
 
 ### <a name="cloud-voice-features"></a>クラウド音声機能
 
