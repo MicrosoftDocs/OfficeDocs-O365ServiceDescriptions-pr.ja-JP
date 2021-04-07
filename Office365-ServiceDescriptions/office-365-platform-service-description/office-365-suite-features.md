@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多数のデバイスと複数の 365 サービス間で安全に共同作業と通信を行うのに役立つ web ベースのツールのコレクションOfficeです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173982"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599049"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 スイート機能
 
@@ -25,12 +25,6 @@ ms.locfileid: "51173982"
 ## <a name="delve"></a>Delve
 
 Delve を使用すると、ユーザーは個別の分析情報に基づいて Microsoft 365 全体のコンテンツを検索および検出できます。 Delve は、Office Graph を利用する最初のエクスペリエンスとなります。 Delve の詳細については、「What [is Delve? 」を参照してください](https://go.microsoft.com/fwlink/?LinkId=511463)。
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft Bookings は、予約ベースで顧客にサービスを提供する企業向けオンラインおよびモバイル アプリです。 そのようなビジネスの例としては、ヘアサロン、歯科事務所、スパ、法律事務所、金融サービス プロバイダー、コンサルタント、医療従事者、教育機関、自動車ショップがあります。 Microsoft Bookings は、Microsoft 365 for business サブスクリプションを持つ米国およびカナダのお客様が利用できます。
-  
-Microsoft Bookings の詳細については、「Microsoft Bookings でビジネス カレンダーをオンラインで発行 [する」を参照してください](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft ブリーフィングメール
 
@@ -69,7 +63,7 @@ Microsoft Planner とは、ユーザーが視覚的にチームワークを編�
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps は、任意のデバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 Power Apps を使用すると、組み込みの接続や会社が構築した接続を使用して、Microsoft 365 および Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなどのクラウドおよびオンプレミス サービスにアプリを接続できます。 メール アドレスを入力するだけで、Power Apps を同僚と簡単に共有できます。 詳細については、Microsoft Power Apps Web サイト [を参照してください](https://powerapps.microsoft.com/)。
+Microsoft Power Apps は、任意のデバイスで動作するアプリをすばやく構築、統合、共有するのに役立つエンタープライズ サービスです。 Power Apps を使用すると、組み込みの接続や会社が構築した接続を使用して、Microsoft 365 および Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle データベースなどのクラウドおよびオンプレミス サービスにアプリを接続できます。 Power Apps を同僚と簡単に共有するには、メール アドレスを入力します。 詳細については、Microsoft Power Apps Web サイト [を参照してください](https://powerapps.microsoft.com/)。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,7 +71,7 @@ Microsoft Stream は、組織内のユーザーが動画を安全にアップロ
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway は、インタラクティブな Web ベースのキャンバスを使用してアイデアを表現するのに役立つ、ビジネス向けプロフェッショナルなデジタル ストーリーテリング アプリです。 Microsoft Sway の組み込みのデザイン エンジンは、広範囲の書式設定や追加のトレーニングを必要とせずに、プロフェッショナルで視覚的に魅力的なレポート、プレゼンテーションを作成するのに役立ちます。 また、結果を変更して、必要な一意の外観を取得できます。 Microsoft Sway を使用すると、任意の画面の任意のブラウザーで作成が最適に表示され、リンクを送信するだけで同僚や顧客と共有できます。 Microsoft Sway を使用すると、アプリを離れることなく、すべての種類のコンテンツを見つけてまとめ、キャンバスに画像、テキスト、ビデオ、グラフをドラッグ アンド ドロップできます。 詳細については [、「Sway」を参照してください](https://sway.com)。 Microsoft Sway は [、365 ドイツではOffice使用できません](office-365-germany.md)。
+Microsoft Sway は、インタラクティブな Web ベースのキャンバスを使用してアイデアを表現するのに役立つ、ビジネス向けプロフェッショナルなデジタル ストーリーテリング アプリです。 Microsoft Sway の組み込みのデザイン エンジンは、広範囲の書式設定や追加のトレーニングを必要とせずに、プロフェッショナルで視覚的に魅力的なレポート、プレゼンテーションを作成するのに役立ちます。 また、結果を変更して、必要な一意の外観を取得できます。 Microsoft Sway を使用すると、任意の画面の任意のブラウザーで作成が最適に表示され、リンクを送信することで同僚や顧客と共有できます。 Microsoft Sway を使用すると、アプリを離れることなく、すべての種類のコンテンツを見つけてまとめ、キャンバスに画像、テキスト、ビデオ、グラフをドラッグ アンド ドロップできます。 詳細については [、「Sway」を参照してください](https://sway.com)。 Microsoft Sway は [、365 ドイツではOffice使用できません](office-365-germany.md)。
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for Enterprise
 
