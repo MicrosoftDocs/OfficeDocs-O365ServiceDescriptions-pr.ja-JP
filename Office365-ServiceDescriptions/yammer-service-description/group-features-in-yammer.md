@@ -2,6 +2,7 @@
 title: Yammer のグループ機能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,30 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer では次のグループ機能が利用可能です。
-ms.openlocfilehash: 28600b37cab0d1ceb106b0628bad8c6b3b7b097c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: c4ac4005f21bd5ce06b8babec0163c367e9a9d4f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132071"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653019"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="dc3bc-103">Yammer のグループ機能</span><span class="sxs-lookup"><span data-stu-id="dc3bc-103">Group features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="a1239-103">Yammer のグループ機能</span><span class="sxs-lookup"><span data-stu-id="a1239-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="dc3bc-104">Yammer では次のグループ機能が利用可能です。</span><span class="sxs-lookup"><span data-stu-id="dc3bc-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="a1239-104">Yammer では次のグループ機能が利用可能です。</span><span class="sxs-lookup"><span data-stu-id="a1239-104">The following group features are available in Yammer.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="dc3bc-105">お知らせ</span><span class="sxs-lookup"><span data-stu-id="dc3bc-105">Announcements</span></span>
+## <a name="announcements"></a><span data-ttu-id="a1239-105">お知らせ</span><span class="sxs-lookup"><span data-stu-id="a1239-105">Announcements</span></span>
 
-<span data-ttu-id="dc3bc-106">アナウンスをグループと共有して、重要な更新をメンバーに直ちに通知します。</span><span class="sxs-lookup"><span data-stu-id="dc3bc-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="dc3bc-107">管理者は、簡単に検出できるように、アナウンスをグループにピン留めすることができます。</span><span class="sxs-lookup"><span data-stu-id="dc3bc-107">Administrators can pin announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="a1239-106">アナウンスをグループと共有して、重要な更新をメンバーに直ちに通知します。</span><span class="sxs-lookup"><span data-stu-id="a1239-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="a1239-107">管理者は、簡単に検出するためにグループにアナウンスをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="a1239-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="dc3bc-108">グループ</span><span class="sxs-lookup"><span data-stu-id="dc3bc-108">Groups</span></span>
+## <a name="groups"></a><span data-ttu-id="a1239-108">グループ</span><span class="sxs-lookup"><span data-stu-id="a1239-108">Groups</span></span>
 
-<span data-ttu-id="dc3bc-109">部署間通信から、次のキャンペーン開始または組織イベントに、チーム、プロジェクト、または利息に対してグループを数秒で設定します。</span><span class="sxs-lookup"><span data-stu-id="dc3bc-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
+<span data-ttu-id="a1239-109">部門のコミュニケーションから次のキャンペーンの開始または組織イベントまで、チーム、プロジェクト、または関心のあるグループを数秒で設定します。</span><span class="sxs-lookup"><span data-stu-id="a1239-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="dc3bc-110">関連グループ</span><span class="sxs-lookup"><span data-stu-id="dc3bc-110">Related groups</span></span>
+## <a name="related-groups"></a><span data-ttu-id="a1239-110">関連するグループ</span><span class="sxs-lookup"><span data-stu-id="a1239-110">Related groups</span></span>
 
-<span data-ttu-id="dc3bc-111">参加済みのグループに関連するグループを追加して優先度を設定します。これにより、同僚は、より関連性の高い人、コンテンツ、会話を見つけ出すことができます。</span><span class="sxs-lookup"><span data-stu-id="dc3bc-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="a1239-111">既に参加しているグループに関連するグループを追加して優先順位を付け、同僚がさらに関連性の高いユーザー、コンテンツ、会話を見つけられます。</span><span class="sxs-lookup"><span data-stu-id="a1239-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="dc3bc-112">機能の可用性</span><span class="sxs-lookup"><span data-stu-id="dc3bc-112">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="a1239-112">機能の可用性</span><span class="sxs-lookup"><span data-stu-id="a1239-112">Feature availability</span></span>
 
-<span data-ttu-id="dc3bc-113">プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dc3bc-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="a1239-113">プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Yammer [参照してください](yammer-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="a1239-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
