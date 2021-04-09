@@ -2,6 +2,7 @@
 title: Office for the web サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel、OneNote、および PowerPoint ドキュメントを開きます。 Officeを使用すると、ほとんどすべてのデバイスから、インターネット接続Officeファイルを簡単に使用して共有できます。 Word、Excel、OneNote、または PowerPoint を使用している Microsoft 365 のお客様は、移動中にファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 199568d34f9d30d507ee9635b6f30b29f463baf4
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726692"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652371"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 

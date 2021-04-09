@@ -2,17 +2,18 @@
 title: ユニバーサル印刷サービスの説明
 ms.author: office365servicedesc
 author: Benzicald
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 クラウド印刷サービスであるユニバーサル 印刷では、オンプレミスの印刷サーバーが不要になります。
-ms.openlocfilehash: da911d3beedfcafc8fad85a4d2d273cd3e858e41
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599029"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653609"
 ---
 # <a name="universal-print-service-description"></a>ユニバーサル印刷サービスの説明
 

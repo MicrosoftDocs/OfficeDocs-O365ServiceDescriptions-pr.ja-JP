@@ -2,6 +2,7 @@
 title: 教育機関向け Office 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 Office 365 の教育プランの違いを探している場合は、それぞれの機能が含まれているかについて説明します。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートと、Microsoft Exchange Online、Microsoft SharePoint Online、Office for the &mdash; web、Microsoft Skype for Business Online などの Microsoft の次世代コミュニケーションおよびコラボレーション サービスのクラウドベースのバージョンを組み合わせ、ユーザーがインターネットを通じて事実上どこからでも生産性を向上させることができます。 &mdash;
-ms.openlocfilehash: 62f8c255d7e86f597140765b0ab0909ec45f3871
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173852"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653219"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -292,7 +293,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 > - Microsoft Microsoft 365 Apps for enterprise は、最新のデスクトップ スイートOfficeサブスクリプションです。 <br/>
 > - Microsoft Office Online Server オンプレミスのお客様は、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise ライセンスなど) を購入した場合、web 編集ライセンスの Office を取得します。 
   
-| アプリケーション | Web 用 Office | 詳細な機能比較へのリンク |
+| アプリケーション | Webアプリ上の Office | 詳細な機能比較へのリンク |
 |:-----|:-----|:-----|
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |

@@ -2,6 +2,7 @@
 title: プロジェクト リソース管理
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Project Online では、次のリソース管理機能が利用可能です。
-ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online では、次のリソース管理機能を使用できます。
+ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131111"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651207"
 ---
 # <a name="project-resource-management"></a>プロジェクト リソース管理
 
-Project Online では、次のリソース管理機能が利用可能です。
+Project Online では、次のリソース管理機能を使用できます。
   
-すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
   
 ## <a name="cost-resources"></a>コスト型リソース
 
@@ -32,7 +33,7 @@ Project Online では、次のリソース管理機能が利用可能です。
 
 休日、祝日、医療休暇、その他の非稼働時間を自分のプロジェクト スケジュールに追加します。[プロジェクトに休日と祝日を追加する方法](https://go.microsoft.com/fwlink/p/?LinkId=271337)について詳細情報を参照してください。
   
-## <a name="resource-leveling"></a>Resource leveling
+## <a name="resource-leveling"></a>リソースの平準化
 
 プロジェクト内のユーザーが同時に処理する割り当てが多すぎる場合、それらの割り当てを自動的に調整することができます。これはリソース レベルと呼ばれます。「[リソース割り当ての平準化](https://go.microsoft.com/fwlink/p/?LinkId=271348)」を参照してください。
   
@@ -46,14 +47,14 @@ Project Online では、次のリソース管理機能が利用可能です。
   
 ## <a name="team-resources"></a>Team resources
 
-チームのプロジェクトにリソースを追加します。たとえば、コンピューターやコンクリートなどの数量単価型リソースがあります。 詳細について[は、「プロジェクトに人を追加する」を](https://go.microsoft.com/fwlink/p/?LinkId=271347)参照してください。
+コンピューターやセメントなどのマテリアル リソースなど、チームのプロジェクトにリソースを追加します。 プロジェクトにユーザー [を追加する方法の詳細を確認します](https://go.microsoft.com/fwlink/p/?LinkId=271347)。
   
-## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
+## <a name="work-generic-and-material-resources"></a>時間単価型リソース、標準リソース、数量単価型リソース
 
 人などの時間単価型リソース、建築職人などの特定のスキルを持つ標準リソース、コンピューターやセメントなどの数量単価型リソースなどの各リソースをプロジェクトに追加します。「[機器のコストとその他のコスト リソースを入力する](https://go.microsoft.com/fwlink/?LinkId=402922)」を参照してください。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Project Online サービスの説明 [」を参照してください](project-online-service-description.md)。
   
 

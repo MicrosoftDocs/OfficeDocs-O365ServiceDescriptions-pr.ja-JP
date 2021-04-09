@@ -2,6 +2,7 @@
 title: Skype for Business Online の制限
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: この記事では、Skype for Business Online で適用される制限について説明します。
-ms.openlocfilehash: 5c11586661e822f666096659b114f727c2df89e5
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cd21b8b1feb3547c529c4bcdaa73832e2e48e3f8
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174082"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653369"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 

@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 ドイツは、ヨーロッパで既に利用可能Office 365 サービスとは差別化されたオプションです。 ドイツのデータ センターから、ドイツのデータ レジデンシー、ドイツ法に準拠した固有のデータ受託モデルによる厳格なデータ アクセスと制御手段を使用し、デジタル作業における業界最先端の仕事効率化サービスを提供することにより、ドイツ、欧州連合 (EU)、および欧州自由貿易連合 (EFTA) の最も規制された顧客のニーズに応えます。
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173862"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653499"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -332,7 +333,7 @@ Office 365 Germany は、Office 365 のクラウド セキュリティとコン�
 > - Microsoft Office Web Apps Server 2013 オンプレミスのお客様は、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Office 365 ProPlus ライセンスなど) を購入した場合、web 編集ライセンスの Office を取得します。 <br/>
 > - 365 ドイツのOffice、まだ有効になっていない機能があります。 グローバル サービスにより、段階的にサービスの完全な機能をご利用いただけるようになります。
 
-| アプリケーション | Web 用 Office | 詳細な機能比較へのリンク |
+| アプリケーション | Webアプリ上の Office | 詳細な機能比較へのリンク |
 |:-----|:-----|:-----|
 |Word|Web 用 Word|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Web 用 Excel|[Excel](../office-online-service-description/office-online-service-description.md#excel)|

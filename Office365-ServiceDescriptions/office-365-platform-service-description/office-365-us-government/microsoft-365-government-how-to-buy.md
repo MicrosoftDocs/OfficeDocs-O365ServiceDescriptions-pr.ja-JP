@@ -2,18 +2,19 @@
 title: Microsoft 365 政府機関向けの購入方法
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173002"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653449"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 購入方法
 
@@ -89,7 +90,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 - [Office 365 Government サービスの説明](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government service description](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [米国政府機関のお客様向けエンドポイント向け Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [米国政府のお客様向けの Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government - GCC 展開](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government - DoD 展開](/MicrosoftTeams/plan-for-government-dod)
@@ -103,7 +104,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 次の表に、各セグメントのニーズに対応できるオプションを示します。<br><br> 
 
-| アイテム | GCC | GCC High | DoD |
+| Item | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |政府向け Gov、商用向け GOVCON |GCC-High |DOD | 
 |**チャネル** |EA (LSP)、AOS-G、MPSA、Web Direct、CSP |EA (LSP)、AOS-G |EA |
@@ -174,7 +175,7 @@ Microsoft 365 Government の詳細については、以下のリソースを参�
 
 - [Office 365 Government サービスの説明](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government service description](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [米国政府機関のお客様向けエンドポイント向け Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [米国政府のお客様向けの Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government - GCC 展開](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government - GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government - DoD 展開](/MicrosoftTeams/plan-for-government-dod)

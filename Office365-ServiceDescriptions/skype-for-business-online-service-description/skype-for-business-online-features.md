@@ -2,6 +2,7 @@
 title: Skype for Business Online の機能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 管理者の場合は、「Skype for Business Online のセットアップ」の「Skype for Business Online の機能をセットアップする」の詳細な手順を確認できます。
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172672"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651022"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 
@@ -120,7 +121,7 @@ Microsoft は、すべての Skype for Business Online データ センターを
   
 ## <a name="calling-plans"></a>通話プラン
 
-Skype for Business には、公衆交換電話網 (PSTN) で見つかった通話機能が含まれます。 通話プランは電話システムのアドオンであり、[](#phone-system-in-office-365)組織内のユーザーに電話番号を検索、取得、割り当て、Office 365 から直接、組織内外のユーザーに電話を発信および受信できます。 電話番号が割り当てられているユーザーは、VoIP 電話、PC、モバイル デバイスなど、すべての Skype for Business デバイスで音声通話を行えます。 また、ミュート/ミュート解除、保留/再開、通話転送、通話転送機能を使用して通話を制御し、必要に応じて緊急通話を行います。 
+Skype for Business には、公衆交換電話網 (PSTN) で見つかった通話機能が含まれます。 通話プランは電話システムのアドオンであり、[](#phone-system)組織内のユーザーに電話番号を検索、取得、割り当て、Office 365 から直接、組織内外のユーザーに電話を発信および受信できます。 電話番号が割り当てられているユーザーは、VoIP 電話、PC、モバイル デバイスなど、すべての Skype for Business デバイスで音声通話を行えます。 また、ミュート/ミュート解除、保留/再開、通話転送、通話転送機能を使用して通話を制御し、必要に応じて緊急通話を行います。 
   
 使用できる通話プランの詳細については、「[Office 365 向けの通話プラン](https://products.office.com/skype-for-business/pstn-calling-plans)」を参照してください。 通話プランの詳細と設定については、「どの通話プランが適切 [か」を参照してください。](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

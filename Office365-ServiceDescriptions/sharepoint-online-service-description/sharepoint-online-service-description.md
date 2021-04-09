@@ -2,6 +2,7 @@
 title: SharePoint サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: プランで使用できる SharePoint 機能を確認します。
-ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 929156fe985764615dc3e7a7797e87f5d97cdd3b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215740"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651170"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
@@ -158,7 +159,7 @@ Azure Information [Protection の詳細については、「Azure](/microsoft-36
 - [ドキュメント ライブラリ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [ドキュメント セット](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - ファイル カード (アクティビティ、会話、閲覧者)
-- [リスト](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [メガ メニュー](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms の統合](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). 365 を含むサブスクリプションOffice、ユーザーに Forms のライセンスが必要です。
 - [ニュース](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)

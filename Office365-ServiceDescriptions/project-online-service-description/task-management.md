@@ -2,6 +2,7 @@
 title: タスク管理
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Project Online では、次のタスク管理機能が利用可能です。
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online では、次のタスク管理機能を使用できます。
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131071"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651062"
 ---
 # <a name="task-management"></a>タスク管理
 
-Project Online では、次のタスク管理機能が利用可能です。
+Project Online では、次のタスク管理機能を使用できます。
   
-すべての Project Online 機能に関する情報をお探しですか? 「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -34,7 +35,7 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="automatic-scheduling"></a>自動スケジュール
 
-自動スケジュール モードを使用して、タスクを自動的にスケジュールに設定します。 [Project がタスクをスケジュールする方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)について説明します。 
+自動スケジュール モードを使用して、タスクを自動的にスケジュールに設定します。 Project がタスク [をスケジュールする方法の詳細については、以下を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271331)。 
   
 ## <a name="calendar-date-extended-to-2149"></a>2149 年まで延長されたカレンダー
 
@@ -48,13 +49,13 @@ Project Online では、次のタスク管理機能が利用可能です。
 
 変更された開始日やエラー メッセージなどのタスクのスケジューリングに影響する要因を表示します。
   
-## <a name="task-path-analysis"></a>タスクパス分析
+## <a name="task-path-analysis"></a>タスク パス解析
 
 タスクと他のタスクとの関係を確認するため、プロジェクト全体のタスクのタスク パスを強調表示します。[タスク間のリンクを強調表示する方法](https://go.microsoft.com/fwlink/p/?LinkId=271345)について詳細情報を参照してください。
   
 ## <a name="top-down-summary-tasks"></a>トップダウン サマリー タスク
 
-サマリー タスクへのリソース割り当てを作成します。 [トップダウンプランニング](https://go.microsoft.com/fwlink/p/?LinkId=271333)の詳細について説明します。
+サマリー タスクへのリソース割り当てを作成します。 トップダウン計画 [の詳細を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
   
 ## <a name="update-progress"></a>進行状況の更新
 
@@ -62,9 +63,9 @@ Project Online では、次のタスク管理機能が利用可能です。
   
 ## <a name="user-controlled-and-manual-scheduling"></a>ユーザーが制御する手動スケジュール
 
-手動スケジュール モードを使用して、タスクを手動でスケジュールに設定します。 「 [Project がタスクをスケジュールする方法](https://go.microsoft.com/fwlink/p/?LinkId=271331)」を参照してください。
+手動スケジュール モードを使用して、タスクを手動でスケジュールに設定します。 「Project [がタスクをスケジュールする方法」を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=271331)。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Project Online サービスの説明](project-online-service-description.md)」を参照してください。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Project Online サービスの説明 [」を参照してください](project-online-service-description.md)。
   

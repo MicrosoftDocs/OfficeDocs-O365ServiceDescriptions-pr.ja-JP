@@ -2,6 +2,7 @@
 title: パートナー
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Microsoft Office 365 は正規の Microsoft パートナーとして、カスタマーの基盤を発展させ、カスタマーとの持続的な関係を築く機会を提供します。カスタマーは月会費または年会費を支払うことでクラウドベースのサービスを使用することができ、データのバックアップ、サーバー ハードウェア、サーバーのアップデートなどの管理をする必要がなくなります。利用可能なサービスは、提供することを承認されたサービスの種類に左右されます。
-ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131691"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653429"
 ---
 # <a name="partners"></a>パートナー
 
@@ -40,7 +41,7 @@ Microsoft Office 365 は正規の Microsoft パートナーとして、カスタ
   
 カスタマーのアカウント管理を開始する前に、カスタマーが代理管理者として承認する必要があります。カスタマーの承認を得るには、代理管理のオファーをカスタマーに送信します。このオファーは試用版への招待または購入プランに含むことができます。カスタマーはパートナーの招待用電子メールに返信することにより、代理管理パートナーを承認します。
   
-各お客様には、1人の委任された管理パートナーを付与する資格があります。 このパートナーはカスタマーの登録パートナー (POR) にすることもできますが、必須ではありません。 登録パートナーと代理管理パートナーの役割は分離されており、カスタマーはそれぞれを別に指定します。 これにより、カスタマーは購入のアドバイスを得るためにあるパートナーを選択し、実装や管理されたサービスのために別のパートナーを選択することができます。 また、パートナーもこれらの役割の一方または両方を専門としてビジネスを構築するかどうかを選択することができます。
+各顧客は、委任された管理パートナーを 1 つ持つ権利があります。 このパートナーはカスタマーの登録パートナー (POR) にすることもできますが、必須ではありません。 登録パートナーと代理管理パートナーの役割は分離されており、カスタマーはそれぞれを別に指定します。 これにより、カスタマーは購入のアドバイスを得るためにあるパートナーを選択し、実装や管理されたサービスのために別のパートナーを選択することができます。 また、パートナーもこれらの役割の一方または両方を専門としてビジネスを構築するかどうかを選択することができます。
   
 カスタマーが代理として管理タスクを実行するパートナーを承認した場合にも、そのカスタマーは直接 Microsoft サポートに連絡を取ってサービス要求を送信することができます。
   
@@ -52,5 +53,5 @@ Office 365 Marketplace は、カスタマーがパートナー サービスや�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-Microsoft 365 および Office 365 プラン全体の機能の可用性を表示するには、「 [microsoft 365 And office 365 platform service description](office-365-platform-service-description.md)」を参照してください。
+Microsoft 365 および Office 365 プランで利用できる機能を確認するには、「[Microsoft 365 および Office 365 プラットフォーム サービスの説明](office-365-platform-service-description.md)」を参照してください。
   

@@ -2,18 +2,19 @@
 title: Microsoft 365 コンプライアンスの計画 - DoD 展開
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、Microsoft 365 Government – DoD の使用がこれらの要件を満たすのに適した、米国連邦政府機関または政府の規制および要件の対象となるデータを処理する他のエンティティで Office 365 の展開を推進している IT プロ向けです。
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173532"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652621"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 コンプライアンスの計画 - DoD 展開
 
@@ -100,7 +101,7 @@ Office 365 の機能を利用できるだけでなく、組織は Microsoft 365 
 |                                         | レコード管理: 規制レコード | エンジニアリング バックログについて |
 |                                         | レコード管理: 複数ステージの廃棄レビュー | エンジニアリング バックログについて |
 |                                         | レコード管理: SharePoint Syntex 分類を使用してレコード ラベルを適用する         | エンジニアリング バックログについて |
-| **インサイダー リスクの管理**             | カスタマー ロックボックス                                | Available            |
+| **インサイダー リスクの管理**             | 顧客ロックボックス                                | Available            |
 |                                         | Insider リスク管理: Teams Office SharePoint サイト、電子メール メッセージングのインジケーター                         | エンジニアリング バックログについて |
 |                                         | Insider リスク管理: ユーザーを退出してデータを盗む                        | エンジニアリング バックログについて |
 |                                         | Insider リスク管理: 一般的なデータ 漏洩                                | エンジニアリング バックログについて              |

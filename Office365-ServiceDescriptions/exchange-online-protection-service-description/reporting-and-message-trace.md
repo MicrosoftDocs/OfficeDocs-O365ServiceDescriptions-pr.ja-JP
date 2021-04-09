@@ -2,6 +2,7 @@
 title: Exchange Online Protection でのレポート作成とメッセージ追跡
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: この記事では、EOP (セキュリティ保護) のレポートとメッセージMicrosoft Exchange Onlineを参照してください。
-ms.openlocfilehash: e07b7b9f6f7bee2715314021d9a7e96a29af8b21
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 383c222563e76d4a5613c9faac5b68417fa64b8a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173332"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653129"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Exchange Online Protection でのレポート作成とメッセージ追跡
 

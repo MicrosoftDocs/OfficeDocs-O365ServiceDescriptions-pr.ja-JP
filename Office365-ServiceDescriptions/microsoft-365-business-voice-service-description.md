@@ -2,6 +2,7 @@
 title: Microsoft 365 Business 音声サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
@@ -9,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice は、Microsoft Teams を電話で使用できるアドイン サービスです。 電話システム、国内通話プラン、SMS、電話会議を組み合わせたもの。
-ms.openlocfilehash: 6c9c118b5786a8919f1156e650dbc9a82ddcd590
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e47d794ba1fe2790603908f0e7b9c4a0ef93132c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173552"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653269"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 音声サービスの説明
 
@@ -54,7 +55,7 @@ Microsoft 365 Business Voice は、最大 300 ライセンスの次のサブス�
 | 動的な場所での緊急通話 | はい | うん<sup>*</sup> |
 | ボイス メール | はい | うん<sup>*</sup> |
 | コール パーク | はい | うん<sup>*</sup> |
-| 通話転送 | はい | うん<sup>*</sup> |
+| 着信転送 | はい | うん<sup>*</sup> |
 | 通話委任 (代理人と電話回線を共有する) | はい | うん<sup>*</sup> |
 | 保留音 | はい | うん<sup>*</sup> |
 | 呼び出しブロック | はい | うん<sup>*</sup> |

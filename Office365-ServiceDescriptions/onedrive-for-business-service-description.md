@@ -2,6 +2,7 @@
 title: OneDrive サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: 9bdf54b8fa59601a46fb4dae3a0265444fe7727a
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215800"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652321"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 

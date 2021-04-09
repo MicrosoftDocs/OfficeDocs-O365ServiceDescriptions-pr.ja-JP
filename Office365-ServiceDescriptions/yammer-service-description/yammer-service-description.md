@@ -2,6 +2,7 @@
 title: Yammer サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: さまざまなプランで使用できる機能Yammerします。
-ms.openlocfilehash: a09ab0e57d5f79355b5e89f22362a6647b285fca
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726732"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653509"
 ---
 # <a name="yammer-service-description"></a>Yammer サービスの説明
 
@@ -53,7 +54,7 @@ Yammer [は Microsoft 365 の](https://aka.ms/ManageChange)変更管理ポリシ
   
 通達に使用されるチャネルは影響の度合いによって異なります。<br><br>
   
-| 種類を変更する | 通信チャネル |
+| 変更の種類 | 通信チャネル |
 |:-----|:-----|
 |**アクションが必要な変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があります。組織のコンプライアンスに影響を与える可能性がある更新プログラム  <br/> |- Officeされた管理者に直接 365 Yammerメールを送信する <br/>- Microsoft 365 ロードマップ<br/>- Yammer更新プログラム<br/>- 外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
 |**認識が必要な変更 (通知を受け取る)**<br/>管理アクション、ビジュアル デザインの変更を必要としない変更  <br/> |- Office 365 メッセージ センター<br/>- Microsoft 365 ロードマップ<br/>- Yammer更新プログラム<br/>- 外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
@@ -63,7 +64,7 @@ Yammer [は Microsoft 365 の](https://aka.ms/ManageChange)変更管理ポリシ
 
 組織のニーズに最適な Yammer プランをお探しですか？ 各プランで利用できる機能を次の表でご確認ください。 機能名を選択して、その機能の機能の概要をYammer。<br><br>
   
-| 特徴 | Yammer ベーシック | Yammer エンタープライズ |
+| 機能 | Yammer ベーシック | Yammer エンタープライズ |
 |:-----|:-----|:-----|
 |[グループ](group-features-in-yammer.md#groups) <br/> | はい  <br/> |はい  <br/> |
 |[関連するグループ](group-features-in-yammer.md#related-groups) <br/> |はい  <br/> |はい  <br/> |

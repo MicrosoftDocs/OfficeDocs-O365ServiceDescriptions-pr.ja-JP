@@ -2,6 +2,7 @@
 title: プライバシー、セキュリティ、および透明性
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft は、お客様とのパートナーシップを尊重し、お客様のデータのプライバシーとセキュリティの保護を重視しています。 詳細については、「Microsoft Trust Center」をご覧ください。
-ms.openlocfilehash: d08c31797737381b6ff01a42bb9dc1630d692711
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172922"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652531"
 ---
 # <a name="privacy-security-and-transparency"></a>プライバシー、セキュリティ、および透明性
 
@@ -45,7 +46,7 @@ Microsoft が Office 365 サービスを安全かつ確実に提供する方法�
 
 電子情報開示 (eDiscovery) とは、訴訟で証拠として使用できる電子的情報を特定および提供するプロセスです。 高度な電子情報開示は、Office 365 の既存の電子情報開示機能セットに基いて構築され、大規模で構造化されていないデータ セットを分析し、法的ケースに関連するデータ量を削減できます。 Office 365 コンプライアンス センターの検索機能を使用して、組織内のすべてのコンテンツ ソースの初回検索を実行し、特定の訴訟に関連する可能性のあるデータを識別および収集できます。 次に、高度な電子情報開示のテキスト分析機能、マシン学習機能、関連/予測コーディング機能を適用することによって、そのデータを分析できます。 詳細については、「Advanced [eDiscovery 」を参照してください](/microsoft-365/compliance/overview-ediscovery-20)。
   
-## <a name="customer-lockbox"></a>カスタマー ロックボックス
+## <a name="customer-lockbox"></a>顧客ロックボックス
 
 Microsoft 管理者は、カスタマー ロックボックスを使用して、ヘルプ セッション中に Microsoft サポート エンジニアがデータにアクセスする方法を制御できます。 エンジニアが、トラブルシューティングや問題解決のためにデータにアクセスする必要がある場合は、カスタマー ロック ボックスを使用してアクセス要求を承認または拒否することができます。 承認すると、エンジニアはデータにアクセスできるようになります。 各要求には有効期限があり、問題が解決されると、要求は閉じられ、アクセスは取り消されます。
   

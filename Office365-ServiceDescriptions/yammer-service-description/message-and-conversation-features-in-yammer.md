@@ -2,6 +2,7 @@
 title: Yammer のメッセージ機能と会話機能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer では次のメッセージおよび会話機能を使用できます。
-ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133041"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653599"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer のメッセージ機能と会話機能
 
@@ -28,11 +29,11 @@ Yammer では次のメッセージおよび会話機能を使用できます。
 
 ## <a name="events"></a>イベント
 
-会議とイベントを整理し、それらを同僚と共有し、出席を追跡します。 イベントは、Outlook、Google、Yahoo!、iCal の予定表に追加できます。
+会議やイベントを整理し、同僚と共有し、出席を追跡します。 イベントは、Outlook、Google、Yahoo!、および iCal カレンダーに追加できます。
   
-## <a name="office-for-the-web-support"></a>Office for web サポート
+## <a name="office-for-the-web-support"></a>Officeサポートの詳細
 
-Yammer の web サポート用 Office を使用すると、yammer にアップロードされたドキュメントを、yammer で直接 web 上の Office を使用して表示および編集できます。 これにより、ドキュメントを美しいで web 用 Office と共にレンダリングし、さまざまなユーザーによる共同編集が可能になり、ブラウザーに適切な Yammer の会話が表示されるようになります。
+Yammer の web サポート用のOffice を使用すると、Yammer にアップロードされたドキュメントを、Office で直接 web 用の Office で表示および編集Yammer。 これにより、ドキュメントを web 用の Office で美しくレンダリングし、異なるユーザーによる共同編集を同時に可能にし、関連する Yammer 会話をブラウザーに表示できます。
 
 ## <a name="online-now"></a>今すぐオンライン
 
@@ -42,19 +43,19 @@ Yammer の web サポート用 Office を使用すると、yammer にアップ�
 
 同僚の調査を実行するために簡単に投票を作成し、意思決定を通知する他のユーザーからフィードバックを収集します。
   
-## <a name="private-messages"></a>プライベートメッセージ
+## <a name="private-messages"></a>プライベート メッセージ
 
 1 人以上の同僚とプライベートな対話を開始します。 いつでも参加者を追加できます。
 
 ## <a name="publisher"></a>Publisher
 
-パブリッシャーを使用して、更新プログラムを共有したり、ドキュメントを追加したり、投票を投稿したり、ユーザーを称賛したり、イベントを投稿したりします。
+発行元を使用して、更新プログラムの共有、ドキュメントの追加、ポーリングの投稿、他のユーザーの称賛、イベントの投稿を行います。
     
-## <a name="share-conversations"></a>会話の共有
+## <a name="share-conversations"></a>会話を共有する
 
-別のグループのフィードまたはプライベートメッセージを介して会話を共有し、情報や重要なメッセージを中継します。
+別のグループのフィードまたはプライベート メッセージを介して会話を共有し、情報と重要なメッセージを中継します。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-機能の可用性プラン、スタンドアロンのオプション、オンプレミスソリューションを表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+機能の可用性プラン、スタンドアロン オプション、およびオンプレミス ソリューションを表示するには、「サービスの説明Yammer [参照してください](yammer-service-description.md)。
   

@@ -2,17 +2,18 @@
 title: SharePoint サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 の SharePoint Syntex は、高度な人工知能 (AI) と機械学習を使用して、人間の専門知識を増幅し、コンテンツ処理を自動化し、コンテンツを知識に変換します。
-ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174092"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653399"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint サービスの説明 
 
@@ -60,7 +61,7 @@ Microsoft PowerApps AI Builder フォーム処理の場合、Syntex のライセ
 | [Microsoft Graph コンテンツ コネクタ](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | はい | はい | はい |
 | [高度な分類サービス](sharepoint-syntex-features.md#advanced-taxonomy-services) | はい | はい | はい |
 
-## <a name="learn-more"></a>詳細情報 
+## <a name="learn-more"></a>詳細情報
 
 Syntex の詳細については、次のリソースを参照してください。
 

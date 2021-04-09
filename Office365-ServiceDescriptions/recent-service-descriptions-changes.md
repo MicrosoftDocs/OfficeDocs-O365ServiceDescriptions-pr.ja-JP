@@ -2,6 +2,7 @@
 title: サービスの説明の最近の変更
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 次の表は、サービスの説明の内容に最近加えられた変更の一覧です。
-ms.openlocfilehash: c4f8635af11b41bcd9e12e147d5fe04b394dbe12
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174112"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651042"
 ---
 # <a name="recent-service-descriptions-changes"></a>サービスの説明の最近の変更
 
@@ -51,7 +52,7 @@ ms.locfileid: "51174112"
 ||[Office 365 プラットフォーム サービスの説明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft 365 Business を追加しました。  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Microsoft 365 Business Basic および Microsoft 365 Business Standard のアーカイブ制限エントリを "Yes" に変更しました。  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |「Advanced Security Management」を「Office 365 Cloud App Security」に変更しました。  <br/> |
-|Web 用 Office  <br/> |[Excel for the web](office-online-service-description/excel-online.md) <br/> |トピックの最初のメモを「Microsoft SharePoint Online 内から Excel for the web で表示できない 30 メガバイト (MB) を超えるブック」に変更しました。 以前の注記では、10 MB となっていました。  <br/> |
+|Webアプリ上の Office  <br/> |[Excel for the web](office-online-service-description/excel-online.md) <br/> |トピックの最初のメモを「Microsoft SharePoint Online 内から Excel for the web で表示できない 30 メガバイト (MB) を超えるブック」に変更しました。 以前の注記では、10 MB となっていました。  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business サービスの説明](onedrive-for-business-service-description.md) <br/> |OneDrive for Business サービスの説明を大幅に更新しました。  <br/> |
    
 ## <a name="march-2018"></a>2018 年 3 月
@@ -61,7 +62,7 @@ ms.locfileid: "51174112"
 |**サービスの説明** <br/> |**トピック** <br/> |**変更** <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |Office 365 Message Encryption (OME) およびデータ センター内の保存データ暗号化に関して更新しました。  <br/> |
 ||[メッセージ ポリシーと準拠](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Office 365 Message Encryption (OME) およびデータ センター内の保存データ暗号化に関して更新しました。  <br/> |
-|Web 用 Office  <br/> |[Excel for the web](office-online-service-description/excel-online.md) <br/> |Web の Excel でウィンドウのサポートをフリーズするために更新します。  <br/> |
+|Webアプリ上の Office  <br/> |[Excel for the web](office-online-service-description/excel-online.md) <br/> |Web の Excel でウィンドウのサポートをフリーズするために更新します。  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |複数の更新と再構成を行いました。  <br/> |
 ||[SharePoint Online の制限](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |複数の更新を行いました。  <br/> |
 |Yammer  <br/> |[Yammer の管理とセキュリティ機能](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |注記とアクティビティ ストリーム キーを削除しました。  <br/> |
@@ -180,7 +181,7 @@ ms.locfileid: "51174112"
 ||[21Vianet が運用している Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Windows Server AD RMS を使用した Information Rights Management (IRM) を更新しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |[ユーザー アカウントの管理] の下に [アプリパスワードの作成] 行を追加しました。  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
-|Web 用 Office  <br/> |[Office for the web サービスの説明](office-online-service-description/office-online-service-description.md) <br/> |Visio を追加しました。  <br/> |
+|Webアプリ上の Office  <br/> |[Office for the web サービスの説明](office-online-service-description/office-online-service-description.md) <br/> |Visio を追加しました。  <br/> |
 |Exchange Online  <br/> |[Exchange Online サービスの説明](exchange-online-service-description/exchange-online-service-description.md) <br/> |「保持タグおよびアイテム保持ポリシー」を「メッセージング レコード管理 (MRM) 保持タグとアイテム保持ポリシー」に変更しました。  <br/> |
 ||[ボイス メッセージ サービス](exchange-online-service-description/voice-message-services.md) <br/> |SBC を介した Exchange Online ユニファイド メッセージングの終了に関するお知らせを含むように更新しました。  <br/> |
 | Workplace Analytics  <br/> |[Workplace Analytics サービスの説明](workplace-analytics-service-description.md) <br/> |新しいサービスの説明を追加しました  <br/> |

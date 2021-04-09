@@ -2,6 +2,7 @@
 title: Yammer のサポート機能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,21 +12,21 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer では次のサポート機能が利用可能です。
-ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132001"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653519"
 ---
 # <a name="support-features-in-yammer"></a>Yammer のサポート機能
 
 Yammer では次のサポート機能が利用可能です。
   
 > [!IMPORTANT]
-> Yammer では、外部ネットワーク、ユーザー、メッセージ、グループ、ファイルなどの削除されたコンテンツを回復することはサポートされません &mdash; &mdash; 。ネットワーク管理者によって誤って削除されたコンテンツが含まれます。
+> Yammer、外部ネットワーク、ユーザー、メッセージ、グループ、およびネットワーク管理者が誤って削除したコンテンツを含むファイルなどの削除済みコンテンツの回復は &mdash; &mdash; サポートされていません。
 >
-> Microsoft では、Yammer で使用可能な分析機能以外の、カスタムまたはアドホック レポートを提供していません 。 Microsoft では、サポート要求の過程でカスタムレポートを提供することがありますが、ほとんどの場合、データに対する直接の要求に対応することはできません。
+> Microsoft では、Yammer で使用可能な分析機能以外の、カスタムまたはアドホック レポートを提供していません 。 サポート要求の過程でカスタム レポートを提供できる場合がありますが、ほとんどの場合、データに対する直接要求に対応できません。
 
 ## <a name="administrator-support"></a>Administrator support
 
@@ -33,11 +34,11 @@ Yammer エンタープライズ の管理者はアカウントの保守を担当
 
 ## <a name="customer-support"></a>カスタマー サポート
 
-テクニカル サポートはお客様の質問に答えたり、問題を迅速に解決したりします。 Yammer のお客様は、公開サポートフォーラムに投稿することによってサポートを受けることができます。これは、1日24時間、週7日間、サポートエージェントによって監視されます。 サポートを必要としている Yammer のお客様は、「[Yammer サポートへようこそ](https://go.microsoft.com/fwlink/p/?LinkId=330921)」を参照してください。
+テクニカル サポートはお客様の質問に答えたり、問題を迅速に解決したりします。 Yammerは、サポート エージェントによって週 7 日 24 時間監視されるパブリック サポート フォーラムに投稿することで、サポートを受け取ります。 サポートを必要としている Yammer のお客様は、「[Yammer サポートへようこそ](https://go.microsoft.com/fwlink/p/?LinkId=330921)」を参照してください。
    
 ## <a name="fasttrack-center"></a>FastTrack センター
 
-Microsoft FastTrack サービスは、すべての手順でヘルプを提供することにより、組織を Microsoft クラウドに移行するのに役立ちます。 FastTrack を使用すると、展開の計画を立てることができます。 詳細については、「[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)」を参照してください。 リリース前、起動、サポートのドキュメントとアクティビティを含む Yammer ネットワークの作成に関する詳細については、「 [Envision: [シナリオの識別](https://fasttrack.microsoft.com/office/envision/identify-scenarios)」ページに移動して、[組織を**まとめる**] を選択します。
+Microsoft FastTrack サービスは、あらゆる段階でヘルプを提供することで、組織が Microsoft Cloud に移行するのに役立ちます。 FastTrack を使用すると、ロールアウトを戦略的に計画し、新しいサービスをすばやく立ち上げ、新しいユーザーをオンボードできます。 詳細については、「[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)」を参照してください。 Yammer ネットワークの作成 (事前起動、起動、サポート ドキュメントやアクティビティなど) の詳細については [、「Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) page」を参照し、[組織をまとめる] を選択 **します**。
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer プランのサポート機能
 
@@ -55,7 +56,7 @@ Microsoft サポートでは、テクニカル サポート ケースを開く�
   
 |**重大度レベル**|**説明**|**例**|
 |:-----|:-----|:-----|
-|重大度 A (重大)  <br/> |サービスは、大多数のエンドユーザーには使用できません。  <br/> |Yammer プラットフォームがダウンしています。  <br/> |
+|重大度 A (重大)  <br/> |サービスは、大部分のエンド ユーザーでは使用できません。  <br/> |プラットフォームYammerがダウンしています。  <br/> |
 |重大度 B (高)  <br/> |サービスは利用できますが、重大な障害があります。  <br/> |フィード投稿が正しく動作しません。  <br/> |
 |重大度 C (中)  <br/> |サービスが正しく機能しませんが、回避策を利用できます。  <br/> |ファイル プレビューが正しく表示されません。  <br/> |
 

@@ -2,6 +2,7 @@
 title: Yammer のプロフィール機能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer では次のプロファイル機能が利用可能です。
-ms.openlocfilehash: 4a3b0dc2a73a7d05b1acbee27ad23e732c127e02
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ac686eccca1536c3c06b3211c401b6f1822a8703
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133031"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653009"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer のプロフィール機能
 
@@ -24,30 +25,30 @@ Yammer では次のプロファイル機能が利用可能です。
  
 ## <a name="expertise"></a>専門知識
 
-組織全体を対象にして、必要な専門家を見つけます。 専門知識はすぐに検索できるため、必要に応じて有用な情報を見つけることができます。
+組織全体にリーチして、必要な専門家を見つける。 専門知識は即座に検索可能なので、必要に応じて有用な情報を見つけることができます。
 
 ## <a name="leaderboards"></a>ランキング
 
 ネットワーク内の影響力のある同僚を識別します。ランキングには、メッセージ、返信メッセージ、「いいね！」メッセージが最も多い人が表示されます。
 
-## <a name="member-directory"></a>メンバーディレクトリ
+## <a name="member-directory"></a>メンバー ディレクトリ
 
-メンバーディレクトリを参照して、組織全体からチームや同僚の人を検索します。
+メンバー ディレクトリを参照して、組織全体からチームと同僚のユーザーを検索します。
   
 ## <a name="org-chart"></a>組織図
 
-上司とレポートを追加して、同僚と共に組織図を作成します。 組織図の情報はプロファイルに自動的に表示されます。
+管理者とレポートを追加して、同僚と一緒に組織図を作成します。 組織グラフの情報は、プロファイルに自動的に表示されます。
   
 ## <a name="praise"></a>称賛
 
-上手くこなした仕事を評価したり、評価を受けたりします。 **称賛**タブのプロファイルに、実績とバッジが表示されます。
+上手くこなした仕事を評価したり、評価を受けたりします。 [評価] タブのプロファイルに実績とバッジ **が表示** されます。
  
 ## <a name="user-profiles"></a>ユーザー プロファイル
 
-画像をアップロードし、連絡先の詳細を記入して、専門知識をリストします。 プロファイルには会話やファイルなどの情報がすべて集約されます。
+画像をアップロードし、連絡先の詳細を入力し、専門知識を一覧表示します。 プロファイルには会話やファイルなどの情報がすべて集約されます。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロンのオプション、オンプレミスソリューション全体の機能の可用性を表示するには、「 [Yammer サービスの説明](yammer-service-description.md)」を参照してください。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Yammer [参照してください](yammer-service-description.md)。
   
 

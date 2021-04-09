@@ -2,17 +2,18 @@
 title: SharePoint Syntex の機能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 対象となる Microsoft 365、Office 365、および SharePoint Online プランで利用できる主要な SharePoint Syntex 機能について説明します。
-ms.openlocfilehash: 2f3d30a1d2eddaa3cdfe420eb10840b10da4da6d
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172632"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651032"
 ---
 # <a name="sharepoint-syntex-features"></a>SharePoint Syntex の機能 
 

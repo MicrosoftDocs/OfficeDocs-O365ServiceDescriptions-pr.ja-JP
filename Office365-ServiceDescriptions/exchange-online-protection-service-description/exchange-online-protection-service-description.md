@@ -2,6 +2,7 @@
 title: Exchange Online Protection サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection の機能と要件に関する情報を取得します。 含まれているのは、Exchange Online Protection を提供するプランの一覧と、それらのプラン全体の機能の比較です。
-ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 172e07db12590e51720c2446974418244f3234e4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215780"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653039"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection サービスの説明
 
@@ -85,34 +86,34 @@ EOP の制限については [、「Exchange Online Protection の制限」を�
 | 機能 | EOP スタンドアロン | Exchange Online の EOP 機能 | Exchange Enterprise CAL (サービス付き)|
 |:-----|:-----|:-----|:-----|
 |[メールの受信者](recipient-domain-and-company-management.md#mail-recipients)|はい<sup>1</sup>|はい<sup>1</sup>|はい|
-|[管理役割グループのアクセス許可](recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|はい|必要|
+|[管理役割グループのアクセス許可](recipient-domain-and-company-management.md#admin-role-group-permissions)|はい<sup>2</sup>|はい|はい|
 |[ドメインの管理](recipient-domain-and-company-management.md#domain-management)|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|
-|[一致サブドメイン](recipient-domain-and-company-management.md#match-subdomains)|はい|必要|いいえ|
-|[ディレクトリ ベースのエッジ ブロック (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|はい|はい|必要|
+|[一致サブドメイン](recipient-domain-and-company-management.md#match-subdomains)|はい|はい|いいえ|
+|[ディレクトリ ベースのエッジ ブロック (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|はい|はい|はい|
 |[メール フロー ルール](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|はい<sup>4</sup>|は<sup>い 4、6</sup>|はい|
-|[監査ログ](messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい<sup>5</sup>|はい|必要|
+|[監査ログ](messaging-policy-and-compliance-servicedesc.md#audit-logging)|はい<sup>5</sup>|はい|はい|
 |[データ損失防止 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|いいえ|はい|はい<sup>6</sup>|
 |[Office 365 Message Encryption](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|はい<sup>12</sup>|はい|はい<sup>12</sup>|
-|[スパム対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|はい|はい|必要|
-|[スパム対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|はい<sup>7</sup>|はい|必要|
-|[マルウェア対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい<sup>13</sup>|はい|必要|
-|[マルウェア対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|はい|はい|必要|
-|[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|はい|はい|必要|
-|[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|はい|はい|必要|
+|[スパム対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (組み込み)|はい|はい|はい|
+|[スパム対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|はい<sup>7</sup>|はい|はい|
+|[マルウェア対策保護](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (組み込み)|はい<sup>13</sup>|はい|はい|
+|[マルウェア対策ポリシーのカスタマイズ](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|はい|はい|はい|
+|[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): 管理者による管理|はい|はい|はい|
+|[検疫](anti-spam-and-anti-malware-protection-eop.md#quarantine): エンドユーザーによる自己管理|はい|はい|はい|
 |[申請](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|いいえ|はい|いいえ|
-|[Outlook のレポート メッセージ アドイン](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|はい|はい|必要|
-|[Outlook on the web での迷惑メールレポート](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|はい|はい|必要|
-|[Microsoft と独自の電子メール サーバー間の電子メールのルーティング](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|はい|はい|必要|
-|[信頼できるパートナーとのセキュリティで保護されたメッセージング](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|はい|はい|必要|
-|[パートナーの IP アドレスのセーフ リスト](mail-flow-eop.md#safe-listing-a-partners-ip-address)|はい|はい|必要|
-|[条件付きメール ルーティング](mail-flow-eop.md#conditional-mail-routing)|はい|はい|必要|
-|[ハイブリッド メール ルーティング](mail-flow-eop.md#hybrid-mail-routing)|はい|はい|必要|
+|[Outlook のレポート メッセージ アドイン](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|はい|はい|はい|
+|[Outlook on the web での迷惑メールレポート](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|はい|はい|はい|
+|[Microsoft と独自の電子メール サーバー間の電子メールのルーティング](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|はい|はい|はい|
+|[信頼できるパートナーとのセキュリティで保護されたメッセージング](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|はい|はい|はい|
+|[パートナーの IP アドレスのセーフ リスト](mail-flow-eop.md#safe-listing-a-partners-ip-address)|はい|はい|はい|
+|[条件付きメール ルーティング](mail-flow-eop.md#conditional-mail-routing)|はい|はい|はい|
+|[ハイブリッド メール ルーティング](mail-flow-eop.md#hybrid-mail-routing)|はい|はい|はい|
 |[Microsoft 365 管理センターレポート](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |はい<sup>9</sup>|はい<sup>10</sup>|はい <sup>9、10</sup>|
-|[Web サービスを使用したレポート作成](reporting-and-message-trace.md#reporting-using-web-services)|いいえ|はい|必要|
+|[Web サービスを使用したレポート作成](reporting-and-message-trace.md#reporting-using-web-services)|いいえ|はい|はい|
 |[メッセージの追跡](reporting-and-message-trace.md#message-trace)|は<sup>い 15</sup>|は<sup>い 15</sup>|はい|
-|[Microsoft 365 管理センターへのアクセス](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|はい|はい|必要|
-|[Exchange 管理センターへのアクセス](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|はい|はい|必要|
-|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|はい|はい|必要|
+|[Microsoft 365 管理センターへのアクセス](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|はい|はい|はい|
+|[Exchange 管理センターへのアクセス](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|はい|はい|はい|
+|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|はい|はい|はい|
 
 <sup>1</sup> メール ユーザーは "メールボックス" として定義され、外部メール連絡先と共に、Exchange 管理センター (EAC) で直接追加、削除、および管理できます。 <br/>
 <sup>2</sup> RBAC のカスタマイズはありません。 管理者の役割のみ。 <br/>

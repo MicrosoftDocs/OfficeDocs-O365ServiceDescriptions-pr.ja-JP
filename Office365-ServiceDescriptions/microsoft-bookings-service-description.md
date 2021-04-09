@@ -2,17 +2,18 @@
 title: Microsoft Bookings サービスの説明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Bookings で利用できるプランのオプションと機能について説明します。
-ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173032"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653379"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings サービスの説明
 
@@ -42,7 +43,7 @@ Microsoft Bookings のユーザーを有効にするサブスクリプション�
 <sup>1</sup> オンライン会議では、予約されているスタッフ メンバーが、会議の作成を可能にする Microsoft Teams または Skype for Business ライセンスを持っている必要があります。
 <br/><sup>2</sup> つの SMS 通知は現在ベータ版で、北米でのみ利用できます。
 
-## <a name="learn-more"></a>詳細情報 
+## <a name="learn-more"></a>詳細情報
 
 Microsoft Bookings の技術情報については、次のリソースを参照してください。
 

@@ -2,6 +2,7 @@
 title: Web 用 OneNote
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: OneNote for the web (以前は OneNote Web App) を使用して、どこからでも追加して他のユーザーと簡単に共有できる OneNote ノートブックでオンラインでメモを取ることができます。 すべてのお客様は、Web 用のアプリを使用OfficeファイルOffice簡単に編集できます。
-ms.openlocfilehash: c23edcb6107fd097bc6a72d173f96a451db1a6cd
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173892"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652351"
 ---
 # <a name="onenote-for-the-web"></a>Web 用 OneNote
 

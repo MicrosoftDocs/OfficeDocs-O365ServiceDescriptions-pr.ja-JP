@@ -2,6 +2,7 @@
 title: ドメイン
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: ドメインを追加する場合、ユーザーを追加し、電子メール アドレスや他のサービスをビジネス名に変換する手順を実行します。 ウィザードを完了すると、現在のメール プロバイダーにアクセスする代わりに、ビジネス 用メールが Microsoft に送信されます。 詳細については、「Add your users and domains to Microsoft」を参照してください。 21Vianet が運用している Office 365 を使用する場合は、「ドメインを確認する」を参照してください。
-ms.openlocfilehash: 57df3e7fb22e8a576099432b8cdc7c84a8462bad
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172992"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652571"
 ---
 # <a name="domains"></a>ドメイン
 

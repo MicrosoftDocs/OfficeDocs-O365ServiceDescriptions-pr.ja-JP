@@ -2,6 +2,7 @@
 title: 21Vianet が運用している Office 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 21Vianet が運用する 365 は、中国のセキュリティで保護され、信頼性が高く、拡張性の高いクラウド サービスのニーズに対応するように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: 7fe18fd929dbfa5410eed49ff8a4c6df72ae5b6a
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174062"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653209"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -1108,7 +1109,7 @@ Office 21Vianet が運用する 365 は、Outlook for iOS と Outlook for Androi
 |**コア機能 (デスクトップ クライアント)**||||||
 |[列の追加](../project-online-service-description/core-functionality.md#add-columns)|いいえ|はい|はい|はい|いいえ|
 |[Backstage](../project-online-service-description/core-functionality.md#backstage)|いいえ|はい|はい|はい|いいえ|
-|[クイック実行](../project-online-service-description/core-functionality.md#click-to-run)|いいえ|はい|はい|はい|いいえ|
+|[クリックして実行する](../project-online-service-description/core-functionality.md#click-to-run)|いいえ|はい|はい|はい|いいえ|
 |[コンテキスト メニュー (右クリック メニュー)](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|いいえ|はい|はい|はい|いいえ|
 |[カスタム フィールド](../project-online-service-description/core-functionality.md#custom-fields)|いいえ|はい|はい|はい|いいえ|
 |[Microsoft Office アプリケーション間でのコピー アンド ペースト機能の強化](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|いいえ|はい|はい|はい|いいえ|

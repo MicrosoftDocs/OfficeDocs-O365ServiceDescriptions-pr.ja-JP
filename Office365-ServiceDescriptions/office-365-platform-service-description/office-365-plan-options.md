@@ -2,6 +2,7 @@
 title: Microsoft 365 および Office 365 プラン オプション
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。
-ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174022"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653489"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 および Office 365 プラン オプション
 

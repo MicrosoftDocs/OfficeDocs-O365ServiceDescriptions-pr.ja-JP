@@ -2,18 +2,19 @@
 title: Microsoft 365 コンプライアンスの計画 - GCC High
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: このガイダンスは、microsoft 365 Government – GCC High の使用がこれらの要件を満たすのに適した、米国連邦政府機関または政府の規制および要件の対象となるデータを処理する他のエンティティで Office 365 の展開を推進している IT プロ向けです。
-ms.openlocfilehash: 14c92229fa5ec147ff995d0cebe991cfdce0de70
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 016b3596829337cffb2c5a14813c5927f010e432
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173082"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652611"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 コンプライアンスの計画 – GCC High
 
@@ -101,7 +102,7 @@ Microsoft 365 Government - GCC High 環境は、クラウド サービスに関�
 |                                         | レコード管理: 規制レコード                         | エンジニアリング バックログについて |
 |                                         | レコード管理: 複数ステージの廃棄レビュー | エンジニアリング バックログについて |
 |                                         | レコード管理: SharePoint Syntex 分類を使用してレコード ラベルを適用する | エンジニアリング バックログについて |
-| **インサイダー リスクの管理**             | カスタマー ロックボックス                                | Available            |
+| **インサイダー リスクの管理**             | 顧客ロックボックス                                | Available            |
 |                                         | Insider リスク管理: Teams Office SharePoint サイト、電子メール メッセージングのインジケーター                         | 開発中 |
 |                                         | Insider リスク管理: ユーザーを退出してデータを盗む                        | 開発中 |
 |                                         | Insider リスク管理: 一般的なデータ 漏洩                                | 開発中              |
