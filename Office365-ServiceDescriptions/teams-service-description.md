@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams のサービスと機能の可用性について、Microsoft 365 プランおよび 365 プランOffice説明します。
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653569"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767457"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -22,6 +22,8 @@ Microsoft Teams は、Microsoft 365 のチームワークのハブです。 Team
 Skype for Business Online は、2019 年 7[](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)月 30 日に発表された 2021 年 7 月 31 日に廃止されます。 Microsoft Teams は、Azure や Microsoft の他のサービスイノベーションを活用して、クラウド用に構築された完全に新しいサービスです。 Microsoft Teams は、Microsoft 365 グループ、Microsoft Graph、および 365 の残りの部分と同じエンタープライズ レベルのセキュリティ、コンプライアンス、および管理性を備Officeされています。 Teams は、Azure Active Directory (Azure Active Directory) に格納されている id を活用AD。 これらのサービスは、Microsoft のデータ センターから配信され、企業ネットワーク内から、またはインターネットを通して、さまざまなデバイス上のユーザーがアクセスできます。 詳細については [、「Microsoft Teams IT アーキテクチャとテレフォニー ソリューションのポスター」を参照してください](/microsoftteams/teams-architecture-solutions-posters)。
 
 このサービスの説明では、さまざまなクラウド インストールで提供されるサービスの主な違いについて説明します。 Microsoft Teams の主要な機能は、サブスクリプション間で異なっている必要があります。 コンプライアンス機能の可用性は、サブスクリプション レベルによって異なります。 Teams のセキュリティとコンプライアンスの詳細については [、「Microsoft Teams のセキュリティとコンプライアンス」を参照してください](/microsoftteams/security-compliance-overview)。
+
+ユーザーが完全にオンラインで移行されている場合、Skype for Business Online を使用しない場合でも、Teams の完全な機能に対してチームと Skype for Business Online の両方のライセンスが必要です。
 
 ## <a name="available-plans"></a>使用できるプラン
 

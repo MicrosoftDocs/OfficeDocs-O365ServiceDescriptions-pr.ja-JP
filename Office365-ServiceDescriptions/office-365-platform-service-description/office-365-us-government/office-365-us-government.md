@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公共部門の独自の要件と進化する要件に応じて、Microsoft は Office 365 US Government プラン (または 365 Government Office) を作成しました。 この記事では、365 Government US 環境に固有の機能Office説明します。
-ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653159"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767487"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -255,7 +255,7 @@ Office 365 US Government プランのシステム要件については、[office
 |**信頼**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |**[プライバシー、セキュリティ、および透明性](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |すばやく GDPR データを検出する|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
-|Cloud App Security|No<sup>12, 15, 19</sup>|No<sup>12, 15, 19</sup>|は<sup>い 15、19</sup>|No<sup>12, 15, 19</sup>|
+|Cloud App Security|No<sup>12, 19</sup>|No<sup>12, 19</sup>|は<sup>い 19</sup>|No<sup>12, 19</sup>|
 |Microsoft Defender for Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|は<sup>い 18</sup>|No<sup>12, 18</sup>|
 |顧客ロックボックス|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
 |Advanced eDiscovery|No<sup>12</sup>|No<sup>12</sup>|はい|No<sup>12</sup>|
