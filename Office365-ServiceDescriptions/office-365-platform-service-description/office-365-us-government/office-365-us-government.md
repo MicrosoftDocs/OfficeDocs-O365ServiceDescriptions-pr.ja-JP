@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公共部門の独自の要件と進化する要件に応じて、Microsoft は Office 365 US Government プラン (または 365 Government Office) を作成しました。 この記事では、365 Government US 環境に固有の機能Office説明します。
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767487"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857827"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -401,11 +401,11 @@ Office 365 US Government プランのシステム要件については、[office
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) は、現時点では使用できない次の機能を除き、政府機関の **クラウドで完全** に利用できます。|**GCC**|**GCC High**|**DOD**|
 |リサーチ ツール|いいえ|いいえ|いいえ|
 |Intelligent Digital Ink|いいえ|いいえ|いいえ|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)は、現時点では使用できない次の機能を除き、政府機関のクラウドで完全に利用できます。|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) は、以下の表に示す政府機関クラウドでは利用できない以下の機能を除き、政府機関のクラウドで完全に利用できます。|**GCC**|**GCC High**|**DOD**|
 |Office サウンド (一部)|いいえ|いいえ|いいえ|
 |既定で無効になっている動的データ交換 (DDE)|いいえ|いいえ|いいえ|
-|ディクテーション|いいえ<sup>1</sup>|いいえ<sup>1</sup>|いいえ<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) は、現時点では使用できない次の機能を除き、政府機関の **クラウドで完全** に利用できます。|**GCC**|**GCC High**|**DOD**|
+|ディクテーション|はい|はい|いいえ<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) は、次の表に示す政府機関のクラウドでは使用できない次の機能を除き、政府機関のクラウドで完全に利用できます。|**GCC**|**GCC High**|**DOD**|
 |スマート検索|いいえ|いいえ|いいえ|
 |Office サウンド (一部)|いいえ|いいえ|いいえ|
 |3D モデルと 3D 埋め込みアニメーションと|いいえ|いいえ|いいえ|
@@ -418,7 +418,7 @@ Office 365 US Government プランのシステム要件については、[office
 |バージョン履歴|いいえ|いいえ|いいえ|
 |Office 365 グループ|いいえ|いいえ|いいえ|
 |リアルタイムの共同作業 (プレゼンス, 通常の共同編集, ドキュメント内チャット)|いいえ|いいえ|いいえ|
-|ディクテーション|いいえ<sup>1</sup>|いいえ<sup>1</sup>|いいえ<sup>1</sup>|
+|ディクテーション|はい|はい|いいえ<sup>1</sup>|
 |スライドの再利用|いいえ|いいえ|いいえ|
 |政府機関向けクラウドでの **Microsoft Whiteboard** は、現在 Hub クライアントでのみ利用可能で、デスクトップでは利用できません。|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |付箋、テキスト、画像の挿入|はい<sup>2</sup> <br/>|はい<sup>2</sup> <br/>|はい<sup>2</sup> <br/>|
@@ -431,7 +431,7 @@ Office 365 US Government プランのシステム要件については、[office
 |リアルタイムのプレゼンス|いいえ|いいえ|いいえ|
 |コンテンツへのリアクション|いいえ|いいえ|いいえ|
 |ホワイトボードのボード ギャラリー (自分と共有されたものを含む)|いいえ|いいえ|いいえ|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)は、現時点では使用できない次の機能を除き、政府機関のクラウドで完全に利用できます。|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) は、次の表に示す政府機関クラウドでは使用できない次の機能を除き、政府機関のクラウドで完全に利用できます。|**GCC**|**GCC High**|**DOD**|
 |スマート検索|いいえ|いいえ|いいえ|
 |リサーチ ツール|いいえ|いいえ|いいえ|
 |Office サウンド|いいえ|いいえ|いいえ|
@@ -447,7 +447,7 @@ Office 365 US Government プランのシステム要件については、[office
 |バージョン履歴|いいえ|いいえ|いいえ|
 |Office 365 グループ|いいえ|いいえ|いいえ|
 |共同編集者とのコンテキストに応じたチャット: ドキュメント内の共同編集者とのチャット|いいえ|いいえ|いいえ|
-|ディクテーション|いいえ<sup>1</sup>|いいえ<sup>1</sup>|いいえ<sup>1</sup>|
+|ディクテーション|はい|はい|いいえ<sup>1</sup>|
 
 GCC/GCC High/DoD 内の Microsoft Teams の機能の可用性については、Microsoft Teams サービスの説明 [を参照してください](../../teams-service-description.md)。
 > <sup>1</sup> 今後の可用性。
