@@ -12,7 +12,7 @@ ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: " Microsoft 365 と Office 365 Education プランの間の相違について説明します。"
 ms.openlocfilehash: d9cd436fd006aa72f25c10a485881671b6e1dbb5
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51652583"
