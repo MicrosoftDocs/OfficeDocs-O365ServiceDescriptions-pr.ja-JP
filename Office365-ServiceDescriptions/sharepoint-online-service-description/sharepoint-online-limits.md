@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 およびスタンドアロン プランの SharePoint の制限について説明します。
-ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: MT
+ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653409"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767477"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -30,7 +30,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 |組織あたりのサイト (サイト コレクション)  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
 |ユーザー数  <br/> |最大 300  <br/> |1 から 500,000<sup>7</sup> <br/> |1 から 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> [組織の合計と使用可能なストレージを検索する方法について説明します](/sharepoint/manage-site-collection-storage-limits)。 SharePoint のストレージを追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を追加する」を参照してください](/office365/admin/subscriptions-and-billing/add-storage-space)。 
+<sup>1</sup> [組織の合計と使用可能なストレージを検索する方法について説明します](/sharepoint/manage-site-collection-storage-limits)。 SharePoint のストレージを追加で購入できる量に制限はありません。 「[サブスクリプションの記憶域を追加する](/office365/admin/subscriptions-and-billing/add-storage-space)」を参照してください。 
 <br/><sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用されるストレージは、組織の合計ストレージの上限に含まれます。 
 <br/> <sup>3</sup> Office 365 サブスクリプション、および Office 365 Extra File Storage アドオンを持っている場合は、ストレージの量が追加されます。 
 <br/> <sup>4</sup> これは単一のサイトのストレージ (以前の「サイト コレクション」) の *制限* であり、各サイトに *提供* されるストレージの量ではありません。 この制限は、Office 365 グループ接続のチーム サイトと OneDrive を含むすべての種類のサイトに適用されます。 SharePoint 管理者は、[手動でストレージの下限を設定](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)することができます。 
@@ -44,9 +44,9 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 リストには最大 3,000 万個のアイテムを含めることができ、ライブラリには最大 3,000 万個のファイルとフォルダーを含めることができます。 リスト、ライブラリ、またはフォルダーに 100,000 を超えるアイテムが含まれている場合、リスト、ライブラリ、またはフォルダーの権限の継承を解除することはできません。 また、権限を再び継承することはできません。 ただし、リスト、ライブラリ、またはフォルダー内の個々のアイテムの継承は、リストまたはライブラリの固有権限の最大数まで解除できます (次のセクションを参照)。 大規模なリストを表示する場合のその他の制限の詳細については、「[Office 365 で大規模なリストとライブラリを管理する](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)」を参照してください。
 
-### <a name="unique-security-scopes-per-list-or-library"></a>リストまたはライブラリごとの一意のセキュリティ スコープ
+### <a name="unique-security-scopes-per-list-or-library"></a>リストまたはライブラリあたりの固有のセキュリティ スコープ。
 
-大規模なリストの場合、一意のアクセス許可をできる限り少なくし、合計で 5,000 を下回るままに設計します。
+大きなリストの場合は、固有の権限ができるだけ少なくて済むように設計し、合計で 5,000 未満にとどまるようにします。
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 
@@ -58,11 +58,11 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 - ファイルの合計サイズで 100 GB を超えることはできない
 - 30,000 ファイル未満。
-- 各ファイルは 15 GB 未満である必要があります
+- 各ファイルは 15 GB 未満である必要があります。
 
 ### <a name="sync"></a>同期
 
-最適なパフォーマンスを得る場合は、1 つの OneDrive またはチーム サイト ライブラリに 300,000 を超えるファイルを保存することをお勧めします。 SharePoint Online では、ライブラリごとに 3,000 万個のドキュメントを保存できますが、最適なパフォーマンスを得るには、すべてのドキュメント ライブラリで同期するファイルを 300,000 個以下にすることをお勧めします。 また、そのようなライブラリのすべてのアイテムを同期していなくても、同期しているライブラリ全体で 300,000 個以上のアイテムがあれば、同様のパフォーマンスの問題が発生する可能性があります。 以前の OneDrive for Business 同期クライアント (Groove.exe) を使用している場合、ライブラリあたりの同期制限は 20,000 アイテム (チーム サイトあたり 5,000 アイテムを含む) です。
+最適なパフォーマンスを得るには、1 つの OneDrive またはチーム サイト ライブラリのファイルを 300,000 個以下にすることをお勧めします。 SharePoint Online では、ライブラリごとに 3,000 万個のドキュメントを保存できますが、最適なパフォーマンスを得るには、すべてのドキュメント ライブラリで同期するファイルを 300,000 個以下にすることをお勧めします。 また、そのようなライブラリのすべてのアイテムを同期していなくても、同期しているライブラリ全体で 300,000 個以上のアイテムがあれば、同様のパフォーマンスの問題が発生する可能性があります。 以前の OneDrive for Business 同期クライアント (Groove.exe) を使用している場合、ライブラリあたりの同期制限は 20,000 アイテム (チーム サイトあたり 5,000 アイテムを含む) です。
 
 ### <a name="versions"></a>バージョン
 
@@ -77,7 +77,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="managed-metadata"></a>管理メタデータ
 
-用語ストアに 200,000 語、1000 グローバル用語セット、1000 グループ。
+合計 100 万の用語、合計 200 万の用語ラベルと 100 万の用語プロパティがあります (これらの制限は、グローバル用語とサイトレベルの用語を合わせたものです)。 1,000 のグローバル用語セットと1,000 のグローバル グループ。
 
 ### <a name="overall-site-metadata"></a>全体的なサイトのメタデータ
 
@@ -96,7 +96,7 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="users"></a>ユーザー
 
-サイト コレクションあたり 200 万。
+サイト コレクションごとに 200 万。
 
 > [!NOTE]
 > SharePoint サイトに招待できるゲストの数に明確な制限はありません。 外部共有に関する詳細については、「[外部共有の概要](/sharepoint/external-sharing-overview)」を参照してください。
