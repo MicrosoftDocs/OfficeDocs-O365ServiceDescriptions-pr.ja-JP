@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 米国政府機関向けクラウドのお客様向け SharePoint 機能の可用性について説明します。
-ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653149"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900777"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>米国政府機関環境向け SharePoint
 
@@ -75,6 +75,7 @@ FastTrack 移行の詳細については [、「365 US Government service descri
 - SharePoint Online for GCC High 内のグラフ機能は現在無効になっています。 Microsoft Graph に依存しているサービスは、現在利用できない場合があります。
 - [ストック イメージ] タブなど、インターネット サービスへの接続に依存する機能が期待通りに動作しない
 - ファイルとサイトのアクティビティに関する通知は使用できません
+- ニュース Web パーツは、現在のサイトからのみニュースを取得します。 GCC High および DoD のお客様は、選択したサイトまたは関連サイトからのハブニュースロールアップからのニュースを利用できません。
 
 ## <a name="search-features"></a>検索機能
 

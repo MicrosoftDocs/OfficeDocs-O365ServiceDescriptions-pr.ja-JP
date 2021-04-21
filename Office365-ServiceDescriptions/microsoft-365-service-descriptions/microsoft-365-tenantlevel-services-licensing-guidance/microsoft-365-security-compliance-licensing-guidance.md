@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、ライセンスのないアクセスによるサービスの中断を回避するために、Microsoft 365 コンプライアンスのライセンス ガイダンスを提供します。
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652661"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900767"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>セキュリティコンプライアンスに関する Microsoft 365 ライセンス &amp; ガイダンス
 
@@ -26,7 +26,7 @@ ms.locfileid: "51652661"
 > [!NOTE]
 > 一部のテナント サービスでは、現在、特定のユーザーにメリットを制限できません。 サービスの利点をライセンスユーザーに限定するための取り組みを行う必要があります。 これにより、ターゲット設定機能が利用可能な場合に、組織の潜在的なサービスの中断を回避できます。
 
-2020 年 4 月 1 日の Microsoft 365 コンプライアンス機能のメリットをユーザーにライセンスするためのオプションを確認するには、詳細な Microsoft 365 コンプライアンス ライセンス比較をダウンロードしてください。 [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  | [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Microsoft 365 コンプライアンス機能のメリットをユーザーにライセンスするためのオプションを確認するには、「詳細な Microsoft 365 コンプライアンス ライセンス比較」をダウンロードしてください。 [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  | [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -218,7 +218,7 @@ SecOps アナリストとセキュリティ 専門家は、Microsoft Defender fo
 
 Microsoft Defender for Endpoint 管理者は、役割ベースのアクセス制御 (RBAC) を使用して、セキュリティ運用チーム内に役割とグループを作成し、Microsoft Defender セキュリティ センターへの適切なアクセスを許可できます。 詳細については、「役割ベースのアクセス [制御を使用してポータル アクセスを管理する」を参照してください](/windows/security/threat-protection/microsoft-defender-atp/rbac)。
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 データ分類分析: 概要コンテンツ &amp; アクティビティ エクスプローラー  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 データ分類分析: 概要コンテンツ &amp; アクティビティ エクスプローラー
 
 データ分類分析機能は、Microsoft 365 コンプライアンス センターエクスペリエンス内で利用できます。 概要には、デジタル コンテンツの場所と、最も一般的な機密情報の種類とラベルが表示されます。 コンテンツ エクスプローラーは、機密データの量と種類を表示し、ユーザーがラベルまたは機密の種類でフィルター処理して、機密データが格納されている場所の詳細なビューを取得できます。 アクティビティ エクスプローラーには、機密データやラベルに関連するアクティビティ (ラベルのダウングレードや外部共有など) が表示され、コンテンツがリスクにさらされる可能性があります。
 
