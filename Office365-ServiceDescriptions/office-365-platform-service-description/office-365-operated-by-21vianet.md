@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 21Vianet が運用する 365 は、中国のセキュリティで保護され、信頼性が高く、拡張性の高いクラウド サービスのニーズに対応するように設計されています。 このサービスには、Microsoft が 21Vianet に対してライセンスを与えたテクノロジが搭載されています。
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653209"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001793"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
 
@@ -67,7 +67,7 @@ Microsoft 365 コンプライアンス センターでは、組織のコンプ�
 
 - データ損失防止 (DLP)
 - 保持
-- 監査
+- Azure Active Directory と Exchange からのデータによる監査
 - AIP 統合ラベル クライアントを使用するクライアントOffice Outlook の Microsoft Information Protection (MIP) および感度ラベル
 
 > [!NOTE]
