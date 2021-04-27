@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多数のデバイスと複数の 365 サービス間で安全に共同作業と通信を行うのに役立つ web ベースのツールのコレクションOfficeです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653179"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023572"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 スイート機能
 
@@ -53,7 +53,7 @@ Microsoft Graph API を使用すると、豊富なリソース、リレーショ
 
 Microsoft リストは、情報の追跡と作業の整理に役立つ Microsoft 365 アプリです。 リストはシンプルでスマートで柔軟なので、チームにとって最も重要な事項を確認できます。 カスタマイズ可能なビューとスマート ルールを使用して、問題、資産、ルーチン、連絡先、インベントリを追跡し、全員に通知と同期を維持します。既製のテンプレートを使用すると、オンライン、新しいモバイル アプリ、または Microsoft Teams 内でリストをすばやく開始できます。 Microsoft 365 の一部として、エンタープライズ対応のセキュリティとコンプライアンスを利用できます。
 
-詳細については、以下を参照してください。
+詳しくは、以下を参照してください。
 
 * [パブリック **Microsoft Lists リソース センター**](https://aka.ms/MSLists)
 * [パブリック **Microsoft リスト導入センター**](https://aka.ms/ListsAdoption)
@@ -78,7 +78,7 @@ Microsoft Sway は、インタラクティブな Web ベースのキャンバス
 
 Microsoft 365 Apps for enterprise は、サブスクリプションとして利用できる、既に知っているデスクトップ アプリ (Word、PowerPoint、Excel、Outlook、Teams など) の常に最新のスイートです。 Microsoft 365 Apps for enterprise には [**、Excel**](https://go.microsoft.com/fwlink/p/?linkid=2109915)のアイデア [**、Word**](https://go.microsoft.com/fwlink/p/?linkid=2109916)の [](https://go.microsoft.com/fwlink/p/?linkid=2109917)研究者、リアルタイムコラボレーション、チームワークのハブとしての Teams、高度なセキュリティ機能などの排他的なインテリジェント機能が含まれています。 ユーザー ベースのライセンスとして、最大 5 Office Pc または Mac、5 つのタブレット、および 5 つのモバイル デバイスに展開できます。 1 TB の OneDrive クラウド ストレージを使用すると、どこからでもファイルにアクセスして共同作業できます。
 
-詳細については、以下を参照してください。
+詳しくは、以下を参照してください。
 
 * [概要ページ](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [[製品] ページ (購入する)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -111,6 +111,18 @@ Microsoft To Do を使用すると、お客様は次の操作を実行できま�
 * リストを共有し、同僚、友人、家族とタスクを割り当てる
 
 詳細については、「To [Do」を参照してください。](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>Windows Update for Business の展開  
+
+Windows Update for Business 展開サービスは、Windows Update によって配信されるコンテンツの承認、スケジュール設定、および保護を制御します。 既存の Windows Update for Business ポリシーと組み合わせ、個々の更新プログラムを詳細に制御するように設計されています。 展開サービスによって提供される機能は次のとおりです。
+
+* 特定の日付に開始する機能更新プログラムの展開をスケジュールする
+* 豊富な式を使用して、数日または数週間のステージ展開
+* 事前構成された Windows Update for Business ポリシーをバイパスして、組織全体にセキュリティ更新プログラムを直ちに展開する
+* 独自のデバイスの人口に合わせた展開を通じて、組織内のハードウェアとソフトウェアのカバレッジを確保する
+* デバイスへの展開を自動的に特定して一時停止します。これは、セーフガードホールドの影響を受け可能性 [があります](/windows/deployment/update/safeguard-holds)。
+
+これらの機能は、Microsoft Graph API と Microsoft Endpoint Manager との統合によって利用できます。 詳細については [、「Windows Update for Business 展開サービスの概要」を参照してください](https://aka.ms/wufb/deployment-service)。
 
 ## <a name="whiteboard"></a>Whiteboard
 
