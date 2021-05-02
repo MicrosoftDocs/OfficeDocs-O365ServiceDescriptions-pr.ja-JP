@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams のサービスと機能の可用性について、Microsoft 365 プランおよび 365 プランOffice説明します。
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767457"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074488"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -59,7 +59,7 @@ Microsoft Teams はスタンドアロン サービスとして使用できませ
 <sup>1</sup> Microsoft Teams GCC-High DOD は、個々のチームの 2500 人のメンバーをサポートします。<br/>
 <sup>2</sup> Microsoft Planner は現在、プライベート チャネルでアクセスできません。<br/>
 <sup>3</sup> GcCH と DoD で動作するには、Microsoft Teams 音声および電話会議用に直接ルーティングを構成する必要があります。<br/>
-<sup>4</sup> サードパーティ 製のアプリケーションとアプリケーション発行は、現時点ではこれらのクラウドでは使用できません。<br/>
+<sup>4</sup> サードパーティ 製のアプリケーションとアプリケーション発行は、現時点ではこれらのクラウドでは使用できません。 コネクタは GCCH および DOD ではサポートされていません。<br/>
 <sup>5</sup> ライブ イベントは、現時点では GCC-High DOD では使用できません。<br/>
 
 ### <a name="cloud-voice-features"></a>クラウド音声機能
@@ -68,7 +68,7 @@ Microsoft Teams はスタンドアロン サービスとして使用できませ
 
 ### <a name="live-events"></a>ライブ イベント
 
-このサービスは、Office Skype 会議ブロードキャストに代わる機能です。 ライブ イベント機能は、Stream サービス内で詳細に説明されているライセンス プランで利用できます。 詳細については [、「Microsoft Stream ライセンスの概要」を参照してください](/stream/license-overview)。 ライブ イベント サービスにアクセスするには、Stream、Yammer、または Microsoft Teams を使用します。 ライブ イベント機能の詳細については [、「Microsoft 365 in microsoft 365 in Yammer Microsoft Teams、Microsoft Stream」を参照してください](/stream/live-event-m365)。
+このサービスは、Office Skype 会議ブロードキャストに代わる機能です。 ライブ イベント機能は、Stream サービス内で詳細に説明されているライセンス プランで利用できます。 詳細については [、「Microsoft Stream ライセンスの概要」を参照してください](/stream/license-overview)。 ライブ イベント サービスにアクセスするには、Stream、Yammer、または Microsoft Teams を使用します。 ライブ イベント機能の詳細については [、「Microsoft 365 in microsoft 365 in Yammer Microsoft Teams、Microsoft Stream」を参照してください](/stream/live-event-m365)。 ライセンス要件を含むライブ イベントの計画の詳細については、「Microsoft Teams でのライブ イベントの計画 [」を参照してください](/microsoftteams/teams-live-events/plan-for-teams-live-events)。
 
 ## <a name="learn-more"></a>詳細情報
 

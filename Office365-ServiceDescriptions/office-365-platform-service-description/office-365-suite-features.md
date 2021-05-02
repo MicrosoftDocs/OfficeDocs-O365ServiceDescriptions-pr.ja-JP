@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多数のデバイスと複数の 365 サービス間で安全に共同作業と通信を行うのに役立つ web ベースのツールのコレクションOfficeです。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023572"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074478"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 スイート機能
 
@@ -74,7 +74,7 @@ Microsoft Stream は、組織内のユーザーが動画を安全にアップロ
 
 Microsoft Sway は、インタラクティブな Web ベースのキャンバスを使用してアイデアを表現するのに役立つ、ビジネス向けプロフェッショナルなデジタル ストーリーテリング アプリです。 Microsoft Sway の組み込みのデザイン エンジンは、広範囲の書式設定や追加のトレーニングを必要とせずに、プロフェッショナルで視覚的に魅力的なレポート、プレゼンテーションを作成するのに役立ちます。 また、結果を変更して、必要な一意の外観を取得できます。 Microsoft Sway を使用すると、任意の画面の任意のブラウザーで作成が最適に表示され、リンクを送信することで同僚や顧客と共有できます。 Microsoft Sway を使用すると、アプリを離れることなく、すべての種類のコンテンツを見つけてまとめ、キャンバスに画像、テキスト、ビデオ、グラフをドラッグ アンド ドロップできます。 詳細については [、「Sway」を参照してください](https://sway.com)。 Microsoft Sway は [、365 ドイツではOffice使用できません](office-365-germany.md)。
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for Enterprise
+## <a name="microsoft-365-apps-for-enterprise"></a>エンタープライズ向け Microsoft  365 アプリ
 
 Microsoft 365 Apps for enterprise は、サブスクリプションとして利用できる、既に知っているデスクトップ アプリ (Word、PowerPoint、Excel、Outlook、Teams など) の常に最新のスイートです。 Microsoft 365 Apps for enterprise には [**、Excel**](https://go.microsoft.com/fwlink/p/?linkid=2109915)のアイデア [**、Word**](https://go.microsoft.com/fwlink/p/?linkid=2109916)の [](https://go.microsoft.com/fwlink/p/?linkid=2109917)研究者、リアルタイムコラボレーション、チームワークのハブとしての Teams、高度なセキュリティ機能などの排他的なインテリジェント機能が含まれています。 ユーザー ベースのライセンスとして、最大 5 Office Pc または Mac、5 つのタブレット、および 5 つのモバイル デバイスに展開できます。 1 TB の OneDrive クラウド ストレージを使用すると、どこからでもファイルにアクセスして共同作業できます。
 
@@ -112,7 +112,7 @@ Microsoft To Do を使用すると、お客様は次の操作を実行できま�
 
 詳細については、「To [Do」を参照してください。](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>Windows Update for Business の展開  
+## <a name="windows-update-for-business-deployment-service"></a>Windows Update for Business の展開サービス 
 
 Windows Update for Business 展開サービスは、Windows Update によって配信されるコンテンツの承認、スケジュール設定、および保護を制御します。 既存の Windows Update for Business ポリシーと組み合わせ、個々の更新プログラムを詳細に制御するように設計されています。 展開サービスによって提供される機能は次のとおりです。
 

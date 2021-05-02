@@ -14,7 +14,7 @@ ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
 ms.openlocfilehash: 16d9b5ac54513493c0438009ff772df3073d0dd0
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653419"

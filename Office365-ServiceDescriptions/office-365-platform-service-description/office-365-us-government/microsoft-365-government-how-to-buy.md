@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、Microsoft 365 Government の概要と購入オプションについて説明します。
-ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
-ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
+ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51874977"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074468"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 購入方法
 
@@ -104,7 +104,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 次の表に、各セグメントのニーズに対応できるオプションを示します。<br><br> 
 
-| Item | GCC | GCC High | DoD |
+| アイテム | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |政府向け Gov、商用向け GOVCON |GCC-High |DOD | 
 |**チャネル** |EA (LSP)、AOS-G、MPSA、Web Direct、CSP |EA (LSP)、AOS-G |EA |
@@ -113,7 +113,7 @@ Microsoft 365 Government で利用可能なサービスの詳細については�
 
 Microsoft 365 Government ライセンスを購入するには、次の手順を実行します。
 
-1. GCC または[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)のフォームを入力して提出し、組織の適格性を検証します。 [](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)
+1. GCC または[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)のフォームを入力して提出し、組織の適格性を検証します。 [](https://www.microsoft.com/microsoft-365/government/eligibility-validation)
 2. Microsoft アカウント チームまたは認定パートナーと一緒に作業し、注文を行います。 お客様は、Microsoft 365 for US Government ライセンスを購入できるのは、一部のパートナーを通じてのみです。
 
 **LSP GCC と GCC High (+500 シート)**
@@ -122,7 +122,7 @@ Microsoft 365 Government ライセンスを購入するには、次の手順を�
 - 接続 (以前は PC 接続)
 - Dell
 - Hewlett Packard
-- インサイト
+- 分析情報
 - Minburn テクノロジ グループ
 - PCM (En Pointe Technologies も所有)
 - SHI

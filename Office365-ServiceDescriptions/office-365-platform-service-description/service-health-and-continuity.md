@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理者は、サービスの状態を表示し、メンテナンスがスケジュールされている時間を確認できます。 サービス正常性情報は、サインインすることでいつでも利用できます。
-ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652451"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074498"
 ---
 # <a name="service-health-and-continuity"></a>サービスの正常性および継続性
 
@@ -43,6 +43,14 @@ Microsoft 管理者は、サービスの状態を表示し、メンテナンス�
 ### <a name="recent-worldwide-uptimes"></a>全世界での最近の稼働時間
 
 クラウド サービスへの移行は、何が起こっているのかを知る能力を失うことを意味する必要があります。 365 Officeでは、使用は行わない。 Microsoft が目標としているのは運用における透明性なので、お客様はサービスの状態の監視や問題の追跡を行うことができます。また、サービスの利用状況を過去にさかのぼって確認することもできます。 下の表は、全世界の稼働時間データを示しています。
+
+**2021**
+
+| Q1 | Q2 | Q3 | Q4 |
+|:-----|:-----|:-----|:-----|
+| 99.97% <br/> | | | |
+
+<br>
 
 **2020**
 
