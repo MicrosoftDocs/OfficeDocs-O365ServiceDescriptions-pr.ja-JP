@@ -83,7 +83,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 |:-----|:-----|:-----|:-----|
 |*構成、保護、検出*|
 |[安全な添付ファイル](#safe-attachments)|はい|はい|はい|
-|Teams の安全なリンク|はい|はい|はい|
+|Teams の安全な添付ファイル|はい|はい|はい|
 |[安全なリンク](#safe-links)|はい|はい|はい|
 |[安全なドキュメント](#safe-documents)|いいえ|いいえ|はい|
 |Teams の安全なリンク|はい|はい|はい|
