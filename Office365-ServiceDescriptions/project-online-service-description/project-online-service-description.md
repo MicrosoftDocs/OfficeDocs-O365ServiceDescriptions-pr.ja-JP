@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 Project Online を通じて提供される Project Online は、ほぼすべてのデバイスのほぼすべての場所から、プロジェクトやプロジェクト ポートフォリオへの投資を計画、優先順位付け、管理するための強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247975"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266367"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -122,6 +122,10 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |ビューとフォームのカスタマイズ <sup>4</sup> | アプリケーションで使用できるビューとフォームのみをカスタマイズProjectします。 | 表示のみ | はい | はい | はい |
 |カスタム列の使用 | テーブルに追加された列のデータを表示、追加、更新、または削除します。 | 表示のみ | 表示のみ | はい | はい |
 |カスタム テーブルの <sup>使用 5</sup> | プロジェクト、ポートフォリオなどに必要な追加データを保持するカスタム テーブルを作成および定義します。 | いいえ | 表示のみ | はい | はい |
+|**Power Automateワークフローとビジネス プロセス フロー** <sup>7</sup> ||||||
+| | カスタム テーブルや列Power Automate含むデータをProjectクラウド フローを定義して使用します。 | いいえ | はい | はい | はい |
+| | カスタム Power Automate列を含むデータをProjectビジネス プロセス フローを定義します。 | いいえ | いいえ | はい | はい |
+| | データPower Automate使用するビジネス プロセス フロー Project使用します。 | いいえ | はい | はい | はい |
 |**セキュリティとユーザー管理**||||||
 |Office モダン グループ | チーム メンバーが共有するリソースのコレクションを共同で簡単にセットアップできるプロジェクト チームを構築します。 | はい | はい | はい | はい |
 |**サード パーティ製アプリ**||||||
@@ -199,7 +203,14 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 <sup>4</sup> web または Project Online 顧客データに対して Project にアクセスする、Project アプリケーション以外の個別の Power Apps を構築して使用するには、別の Power Apps サブスクリプションが必要です。</br>
 <sup>5 5</sup> つのカスタム テーブルに制限されています。</br>
 <sup>6</sup> Project Online の外部ユーザー用のライセンスは、内部ユーザー用と同じポリシーに準じます。 Project Online サイトでのやり取りには、Project Plan 3 または Project Plan 5 のサブスクリプションが必要です。</br>
-<sup>7</sup> web データの Power Automate と Project とのビジネス プロセスの自動化と統合には、Power Automate サブスクリプションと Project プラン 3 または Project プラン 5 サブスクリプションが必要です。</br>
+<sup>7</sup> Power Automate内Projectは、アプリケーションのコンテキストにProjectされます。 つまり、トリガーとアクションの両方に対して、トリガーに含まれるフロー Projectできます。
+
+- Connectアプリケーションの使用権限内の任意のデータ ソースにProjectします。
+  - 標準コネクタ経由で使用可能なデータ ソース
+  - Project Microsoft Dataverse コネクタを介してデータを収集する
+- (組み込みのトリガー/アクションProject) アプリケーション内から直接トリガーされる
+
+フローが分離され、Projectアプリケーションとは関係ない場合は、プラットフォーム ライセンスを購入する必要があります。</br>
 <sup>8</sup>プラン 3 またはプラン 5 Projectプラン 5 サブスクリプションProjectユーザーは、リソースエンゲージメント要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
 <sup>9</sup>プラン 5 サブスクリプションProjectユーザーは、リソースエンゲージメント要求を確認、履行、および承認できます。</br>
 <sup>10</sup> Active Directory には、個別のサブスクリプションが必要です。 </br>

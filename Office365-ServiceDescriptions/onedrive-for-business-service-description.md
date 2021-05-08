@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652321"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264795"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -50,6 +50,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 - Microsoft 365 Apps for business
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for enterprise
+- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic for Nonprofits
@@ -61,11 +62,10 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 
 **無制限の 1 TB を超える**
  
-ユーザーが 5 人未満のサブスクリプションは、ユーザー 1 人あたり 1 TB です。 ユーザーが 5 人以上のサブスクリプションでは (対象プランの任意の組み合わせが可能)、Microsoft が最初にユーザー 1 人あたり 1 TB を提供しますが、管理者は 1 人あたり 5 TB まで増やすことができます。  (方法については、「[OneDrive ユーザー向けに既定の記憶領域を設定する](/onedrive/set-default-storage-space)」を参照してください。) 追加の記憶領域をリクエストするには、管理者が Microsoft サポートに連絡する必要があります。
+ユーザーが 5 人未満のサブスクリプションは、ユーザー 1 人あたり 1 TB です。 ユーザーが 5 人以上のサブスクリプションでは (対象プランの任意の組み合わせが可能)、Microsoft が最初にユーザー 1 人あたり 1 TB を提供しますが、管理者は 1 人あたり 5 TB まで増やすことができます。 (方法については、「[OneDrive ユーザー向けに既定の記憶領域を設定する](/onedrive/set-default-storage-space)」を参照してください。) 追加の記憶領域をリクエストするには、管理者が Microsoft サポートに連絡する必要があります。
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
-- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -98,7 +98,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 
 OneDrive ストレージは、ユーザーごとにプロビジョニングされ、個々のユーザーのニーズに対応するよう設計されています。
   
-システム バックアップや、部署レベル、組織レベルのデータを含む個人ユーザーの作業ファイル以外のデータのストレージはサポートされません。ボットや部署、またはその他の人間ではないエンティティへのユーザーごとのライセンスの割り当てもできません。 SharePoint は、ファイル、通信、イントラネット サイトをチームや組織全体で保存し管理するなど、より高度なコンテンツ管理と共同作業を行なうための最適なソリューションです。
+システムのバックアップ、部署や組織レベルのデータなど、個々のユーザーの作業ファイル以外のデータ保存については、サポートされていません。また、ユーザーごとのライセンスをボット、部門、その他の人間ではないエンティティに割り当てることもできません。SharePoint は、ファイル、通信、イントラネット サイトをチームや組織全体で保存し管理するなど、より高度なコンテンツ管理と共同作業を行なうための最適なソリューションです。
   
 ## <a name="onedrive-limits"></a>OneDrive の制限
 
