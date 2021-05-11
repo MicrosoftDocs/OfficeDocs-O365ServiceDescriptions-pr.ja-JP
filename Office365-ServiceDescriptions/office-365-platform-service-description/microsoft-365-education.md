@@ -19,7 +19,7 @@ ms.locfileid: "51652583"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
-Microsoft 365 には、組織のニーズに最適な幅広いプランが用意されています。 Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
+Microsoft 365 には、組織のニーズに最適な幅広いプランが用意されています。Microsoft 365 と Office 365 Education のプラン間の相違点をお探しのお客様向けに、この記事では各プランに含まれる機能について説明します。
   
 Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を含む、完全なシステムを提供します。 次の表は、Office 365 for Education A1、A3、A5 の機能とそれに対応する Microsoft 365 for Education A3、A5 の機能を示します。 Business および Enterprise プランでの機能を比較するには、「[一般法人向け Microsoft 365 の比較](https://go.microsoft.com/fwlink/?linkid=799177)」を参照してください。あるいは、機能の詳細なリストについては、「[Microsoft 365 および Office 365 サービスの説明](../office-365-service-descriptions-technet-library.md)」の関連サービスの説明を参照してください。 サポート記事および情報を検索するには、「[Office のヘルプ &amp; トレーニング](https://support.office.com/)」を参照してください。
   
