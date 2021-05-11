@@ -8,7 +8,7 @@ ms.topic: reference
 f1_keywords:
 - office-365-system-requirements
 keywords:
-- システム要件、ユーザー要件、Office 365 システム要件
+- システム要件、ユーザー要件、Office 365要件
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
@@ -21,8 +21,8 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653469"
 ---
-# <a name="office-365-system-requirements"></a><span data-ttu-id="acc48-104">Office 365 のシステム要件</span><span class="sxs-lookup"><span data-stu-id="acc48-104">Office 365 system requirements</span></span>
+# <a name="office-365-system-requirements"></a><span data-ttu-id="0b08c-104">Office 365 のシステム要件</span><span class="sxs-lookup"><span data-stu-id="0b08c-104">Office 365 system requirements</span></span>
 
-<span data-ttu-id="acc48-105">Office 365 のシステム要件については、「office.com 製品サイトの Office のシステム要件」を参照してください。 [](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) [](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="acc48-105">For system requirements for Office 365, the monthly subscription-based service for business, education, and government organizations, see [System requirements for Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) on the [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) products site.</span></span> 
+<span data-ttu-id="0b08c-105">Office 365 のシステム要件については、ビジネス、教育、政府機関向け月次サブスクリプション ベースのサービスについて、「office.com 製品サイトの[Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409)のシステム要件」[を](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)参照してください。</span><span class="sxs-lookup"><span data-stu-id="0b08c-105">For system requirements for Office 365, the monthly subscription-based service for business, education, and government organizations, see [System requirements for Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) on the [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) products site.</span></span> 
   
 
