@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online では、次の主要な機能機能を利用できます。
+description: 次の主要な機能機能は、Project Online。
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,13 +21,13 @@ ms.locfileid: "51652301"
 ---
 # <a name="core-functionality"></a>コア機能
 
-Project Online では、次の主要な機能機能を利用できます。
+次の主要な機能機能は、Project Online。
   
-Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
+すべての機能に関するProject Online探していますか? サービスのProject Online[を参照してください](project-online-service-description.md)。
   
-## <a name="add-columns"></a>列の追加
+## <a name="add-columns"></a>列を追加する
 
-ビューに列を追加します。 詳細については、「[列の表示/非表示方法](https://go.microsoft.com/fwlink/p/?LinkId=271343)」を参照してください。
+ビューに列を追加します。詳細については、「[列の表示/非表示方法](https://go.microsoft.com/fwlink/p/?LinkId=271343)」を参照してください。
   
 ## <a name="backstage"></a>Backstage
 
@@ -35,7 +35,7 @@ Project Online のすべての機能に関する情報をお探しですか? Pro
   
 ## <a name="click-to-run"></a>クイック実行
 
-インターネット、内部ネットワーク、ローカル ファイル システム、またはオフライン メディアから Project Online をすばやくインストールして、最新バージョンの Project デスクトップ アプリケーションを最新の状態に更新します。 詳細については、「[クイック実行](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))」を参照してください。
+インターネット、Project Onlineネットワーク、ローカル ファイル システム、またはオフライン メディアを使用して、最新バージョンの Project デスクトップ アプリケーションをすぐにインストールできます。 詳細については、「[クイック実行](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))」を参照してください。
   
 ## <a name="contextual-right-click-menus"></a>コンテキスト メニュー (右クリック メニュー)
 
@@ -63,15 +63,15 @@ Word などの Office アプリケーション間でスケジュールの詳細�
   
 ## <a name="network-diagram-view"></a>ネットワーク ダイアグラムのビュー
 
-プロジェクトのタスク、依存関係、およびクリティカル パスをネットワーク ダイアグラムのビューに表示します。 「[ネットワーク ダイアグラムを作成する](https://go.microsoft.com/fwlink/p/?LinkId=271338)」を参照してください。
+プロジェクトのタスク、依存関係、およびクリティカル パスをネットワーク ダイアグラムのビューに表示します。「[ネットワーク ダイアグラムを作成する](https://go.microsoft.com/fwlink/p/?LinkId=271338)」を参照してください。
   
 ## <a name="office-store"></a>Office ストア
 
-Project の活用を支援するアプリケーションが必要ですか? Project の新しいアプリケーションを、Officeします。 「[Project 用アドイン](https://go.microsoft.com/fwlink/?LinkId=273883)」を参照してください。
+Project の活用を支援するアプリケーションが必要ですか? 新しいアプリケーションをProjectストアOfficeします。 「[Project 用アドイン](https://go.microsoft.com/fwlink/?LinkId=273883)」を参照してください。
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-Project ヘルプは、プロジェクトの Office.com、または Project で直接 [開始ガイド] ([ファイルの新規] を選択) **で使用** \> **できます**。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Projectヘルプは、Office.com または [Getting Started Guides] Project ([ファイルの新規] を選択)**で使用** \> **できます**。 [Watch these videos to make the switch to Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF および XPS 出力
 
@@ -91,11 +91,11 @@ Project 2013 では、空のプロジェクトを表示することなく、プ�
   
 ## <a name="text-wrap"></a>文字列の折り返し
 
-タスクまたはリソース名を折り返して 2 行目に表示します。 「[行の高さを変えて文字列を折り返す](https://go.microsoft.com/fwlink/p/?LinkId=271344)」を参照してください。
+タスクまたはリソース名を折り返して 2 行目に表示します。「[行の高さを変えて文字列を折り返す](https://go.microsoft.com/fwlink/p/?LinkId=271344)」を参照してください。
   
-## <a name="timeline-view"></a>タイムライン ビュー
+## <a name="timeline-view"></a>Timeline view
 
-スケジュール詳細を視覚化し関係者に伝達するために、タイムライン ビューを作成しカスタマイズします。 「[ビデオ: タイムラインを作成する](https://go.microsoft.com/fwlink/?LinkId=402912)」を参照してください。
+スケジュール詳細を視覚化し関係者に伝達するために、タイムライン ビューを作成しカスタマイズします。「[ビデオ: タイムラインを作成する](https://go.microsoft.com/fwlink/?LinkId=402912)」を参照してください。
   
 ## <a name="zoom-controls"></a>ズーム コントロール
 
@@ -103,4 +103,4 @@ Project 2013 では、空のプロジェクトを表示することなく、プ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Project Online サービスの説明 [」を参照してください](project-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Project Online[参照してください](project-online-service-description.md)。

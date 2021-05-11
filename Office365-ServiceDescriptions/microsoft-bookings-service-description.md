@@ -17,7 +17,7 @@ ms.locfileid: "51653379"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings サービスの説明
 
-Microsoft Bookings は、予定のスケジュールと管理のプロセスを簡略化します。 予約には、Web ベースの予約カレンダーと Outlook との同期が含まれています。 自動通知メールとリマインダーは、ノーショーを減らし、顧客満足度を高め、組織は繰り返しスケジュールタスクを削減して時間を節約します。 予約は Microsoft Teams と統合され、オンライン会議を介して仮想予定をサポートし、Teams の Bookings アプリを通じて予定表の管理を予約します。
+Microsoft Bookings は、予定のスケジュールと管理のプロセスを簡略化します。 予約には、Web ベースの予約カレンダーと Outlook との同期が含まれています。 自動通知メールとリマインダーは、ノーショーを減らし、顧客満足度を高め、組織は繰り返しスケジュールタスクを削減して時間を節約します。 予約は、オンライン会議Microsoft Teams仮想予定をサポートするサービスと統合され、予約カレンダーの管理は、Teams の Bookings アプリを通じて行Teams。
 
 ## <a name="available-plans"></a>使用できるプラン
 
@@ -27,30 +27,30 @@ Microsoft Bookings のユーザーを有効にするサブスクリプション�
 
 次の表に、プラン間で利用可能な Microsoft Bookings の主な機能を示します。 特定の注意点が適用されます。 詳細については、脚注を参照してください。 この表は、予告なしに変更される場合があります。
 
-| 主な機能 | Small Business | エンタープライズ プラン | GCC | GCC-High | DOD | 教育 |
+| 主な機能 | Small Business | Enterpriseプラン | GCC | GCC-High | DOD | 教育 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Web ベースのスケジュール ページ (予約ページ) | はい | はい | はい | いいえ | いいえ | はい |
 | 予約ページ アクセス制御 (テナントのみ) | はい | はい | はい | いいえ | いいえ | はい |
-| Skype と Teams<sup>1</sup>によるオンライン会議 <br/> | はい | はい | はい | いいえ | いいえ | はい |
+| オンライン会議 (Skypeおよび Teams<sup>1 経由)</sup> <br/> | はい | はい | はい | いいえ | いいえ | はい |
 | グループ予約 (1 人のスタッフ: N 人の顧客) | はい | はい | はい | いいえ | いいえ | はい |
 | 予定通知メール | はい | はい | はい | いいえ | いいえ | はい |
-| 予定通知 SMS | はい<sup>2</sup> <br/> | はい<sup>2</sup> <br/> | はい<sup>2</sup> <br/> | いいえ | いいえ | はい |
+| 予定通知携帯ショートメール | はい<sup>2</sup> <br/> | はい<sup>2</sup> <br/> | はい<sup>2</sup> <br/> | いいえ | いいえ | はい |
 | スタッフ/サービス管理 | はい | はい | はい | いいえ | いいえ | はい |
 | ユーザー データ収集のユーザー設定フィールド | はい | はい | はい | いいえ | いいえ | はい |
-| Microsoft Graph の予約 API | はい | はい | いいえ | いいえ | いいえ | はい |
-| Teams でアプリを予約する | はい | はい | いいえ | いいえ | いいえ | はい |
+| Microsoft の予約 API Graph | はい | はい | いいえ | いいえ | いいえ | はい |
+| アプリを予約Teams | はい | はい | いいえ | いいえ | いいえ | はい |
 
-<sup>1</sup> オンライン会議では、予約されているスタッフ メンバーが、会議の作成を可能にする Microsoft Teams または Skype for Business ライセンスを持っている必要があります。
-<br/><sup>2</sup> つの SMS 通知は現在ベータ版で、北米でのみ利用できます。
+<sup>1</sup>オンライン会議では、予約されているスタッフメンバーに、会議の作成をMicrosoft TeamsまたはSkype for Businessライセンスを持っている必要があります。
+<br/><sup>2 携帯ショートメール</sup>通知は現在ベータ版で、北米でのみ利用可能です。
 
 ## <a name="learn-more"></a>詳細情報
 
 Microsoft Bookings の技術情報については、次のリソースを参照してください。
 
 - [Microsoft Docs に関する Microsoft Bookings のドキュメント](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [Microsoft Graph の Microsoft Bookings API](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Microsoft Bookings API in Microsoft Graph](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Bookings 製品ページ](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
-- [Microsoft Tech コミュニティの Bookings Blog](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
+- [Microsoft Tech の Bookings Blog Community](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
 ### <a name="licensing-terms"></a>ライセンス条項
 
@@ -62,4 +62,4 @@ Microsoft 商用ボリューム ライセンス プログラムを通じて購�
 
 ### <a name="accessibility"></a>アクセシビリティ
 
-Microsoft は、お客様のデータのセキュリティとサービスのアクセシビリティに引き [続きコミット](https://www.microsoft.com/trust-center/compliance/accessibility) しています。 詳細については [、「Microsoft Trust Center」](https://www.microsoft.com/trust-center) および「アクセシビリティ センター Office [参照してください](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft は、お客様のデータのセキュリティとサービスのアクセシビリティに引き [続きコミット](https://www.microsoft.com/trust-center/compliance/accessibility) しています。 詳細については[、「Microsoft Trust Center」](https://www.microsoft.com/trust-center)および「アクセシビリティ センター Office[参照してください](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

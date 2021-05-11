@@ -49,9 +49,9 @@ BlackBerry® Internet Service (BIS) を使用すると、BlackBerry 7 以前の�
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>BlackBerry スマートフォンと SharePoint Online
 
-マイクロソフト SharePoint Online にアクセスする場合、BlackBerry ユーザーは BlackBerry スマートフォンのネイティブなブラウザーを使用して SharePoint Online サイトにアクセスできます。 BlackBerry ユーザーは、モバイル ブラウザーで Web レンダリング用のOfficeを使用して Word、Excel、および PowerPoint ドキュメントを表示できます。
+マイクロソフト SharePoint Online にアクセスする場合、BlackBerry ユーザーは BlackBerry スマートフォンのネイティブなブラウザーを使用して SharePoint Online サイトにアクセスできます。 BlackBerry ユーザーは、モバイル ブラウザー Excel Web レンダリングPowerPointを使用Office Word、Office、およびドキュメントを表示できます。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-365 プラン全体で機能Officeを表示するには [、「Microsoft 365 および Office 365 プラットフォーム](office-365-platform-service-description.md)サービスの説明」を参照してください。
+プラン全体の機能の可用性をOffice 365、プラットフォーム サービスのMicrosoft 365[とOffice 365を参照してください](office-365-platform-service-description.md)。
   

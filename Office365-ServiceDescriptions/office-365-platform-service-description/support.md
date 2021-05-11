@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Microsoft サポートMicrosoft Office、エンタープライズ、ビジネス、教育、および政府機関向け 365 サブスクリプションごとに、グローバルなテクニカル、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、Microsoft365 管理センターを通じてオンラインで、有料サブスクリプションと試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Microsoft サポート オプション」を参照してください。
+description: Microsoft サポートはMicrosoft Office 365、企業、ビジネス、教育、および政府機関のサブスクリプションに関するあらゆるサービスを提供し、グローバルな技術、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、Microsoft365 管理センターを通じてオンラインで、有料サブスクリプションと試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Microsoft サポート オプション」を参照してください。
 ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,23 +23,23 @@ ms.locfileid: "51652431"
 ---
 # <a name="support"></a>サポート
 
-Microsoft サポートMicrosoft Office、エンタープライズ、ビジネス、教育、および政府機関向け 365 サブスクリプションごとに、グローバルなテクニカル、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、Microsoft 365 管理センターを通じてオンラインで、有料サブスクリプションと試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Microsoft サポート オプション [」を参照してください](/Office365/Admin/contact-support-for-business-products)。
+Microsoft サポートはMicrosoft Office 365、企業、ビジネス、教育、および政府機関のサブスクリプションに関するあらゆるサービスを提供し、グローバルな技術、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、有料サブスクリプションと試用版サブスクリプションの両方Microsoft 365管理センターと電話の両方でオンラインで利用できます。 詳細については、「Microsoft サポート オプション [」を参照してください](/Office365/Admin/contact-support-for-business-products)。
   
-承認された管理者は、Microsoft 365 管理センターを使用して、サービス要求をオンラインで送信し、サポート電話番号にアクセスし、開いているサービス要求と最近終了したサービス要求を表示できます。 管理センターで送信されたサービス要求は、要求が閉じてから最大 14 日間再開できます。 手順については、「ビジネス サポート [については、Microsoft 365 にお問い合わせください」を参照してください](/Office365/Admin/contact-support-for-business-products)。
+承認された管理者は、Microsoft 365 管理センターを使用して、サービス要求をオンラインで送信し、サポート電話番号にアクセスし、開いているサービス要求と最近終了したサービス要求を表示できます。 管理センターで送信されたサービス要求は、要求が閉じてから最大 14 日間再開できます。 手順については、「ビジネス サポート[Microsoft 365問い合わせ」を参照してください](/Office365/Admin/contact-support-for-business-products)。
   
-Microsoft 365 テクニカル サポート チームは、Microsoft 365 および 365 に関連する問題Officeします。 顧客ネットワークで発生する問題はサポートの境界外に存在し、このような場合、顧客はネットワーク チームと協力するか [、Microsoft Networking](https://support.microsoft.com/gp/contactus81?Audience=Commercial) チームに支援を求めなければならない。
+テクニカル Microsoft 365チームは、ユーザーとユーザーに関連する問題Microsoft 365トラブルシューティングOffice 365。 顧客ネットワークで発生する問題はサポートの境界外に存在し、このような場合、顧客はネットワーク チームと協力するか [、Microsoft Networking](https://support.microsoft.com/gp/contactus81?Audience=Commercial) チームに支援を求めなければならない。
   
 ## <a name="community-and-self-service-support-options"></a>コミュニティおよびセルフサービス サポート
 
-セルフサービス サポートは、すべてのプランで利用できます。トラブルシューティング ツールとビデオ、ヘルプ記事やビデオ [、Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=279811)コミュニティのフォーラムや Wiki が含まれます。 セルフサービス サポート リソースの詳細については、「ヘルプとトレーニング サービスの説明 [」を](help-and-training.md) 参照してください。
+セルフサービス サポートは、すべてのプランで利用できます。トラブルシューティング ツールとビデオ、ヘルプ記事やビデオ、Microsoft 365 コミュニティのフォーラムや wiki[が含まれます](https://go.microsoft.com/fwlink/p/?LinkID=279811)。 セルフサービス サポート リソースの詳細については、「ヘルプとトレーニング サービスの説明 [」を](help-and-training.md) 参照してください。
   
 ## <a name="pre-sales-support"></a>販売前サポート
 
-プレセールス サポートは、サブスクリプションの機能と利点に関する支援を提供し、比較、価格、ライセンスを計画し、ビジネス ニーズを満たす適切なソリューションを特定するのに役立ちます。 また、販売前サポートでは、パートナーの紹介、購入、試用版のサインアップに関する支援も行います。 月曜日から金曜日までの営業時間内に問い合わせることができます。 販売前サポートには、テクニカル サポートと同じ電話番号を使ってアクセスできます。 サポート電話番号は、無料試用版の管理センターにあります。 手順については、「ビジネス サポート [については、Microsoft 365 にお問い合わせください」を参照してください](/Office365/Admin/contact-support-for-business-products)。
+プレセールス サポートは、サブスクリプションの機能と利点に関する支援を提供し、比較、価格、ライセンスを計画し、ビジネス ニーズを満たす適切なソリューションを特定するのに役立ちます。 また、販売前サポートでは、パートナーの紹介、購入、試用版のサインアップに関する支援も行います。 月曜日から金曜日までの営業時間内に問い合わせることができます。 販売前サポートには、テクニカル サポートと同じ電話番号を使ってアクセスできます。 サポート電話番号は、無料試用版の管理センターにあります。 手順については、「ビジネス サポート[Microsoft 365問い合わせ」を参照してください](/Office365/Admin/contact-support-for-business-products)。
   
 ## <a name="billing-and-subscription-management-support"></a>課金およびサブスクリプション管理のサポート
 
-課金およびサブスクリプション管理については、月曜日から金曜日までの営業時間内にオンラインまたは電話で問い合わせることができます。 課金およびサブスクリプション管理のサポートには、テクニカル サポートと同じ電話番号とオンラインのサービス要求プロセスを使ってアクセスできます。 サポート電話番号は管理センターにあります。 手順については、「ビジネス サポート [については、Microsoft 365 にお問い合わせください」を参照してください](/Office365/Admin/contact-support-for-business-products)。
+課金およびサブスクリプション管理については、月曜日から金曜日までの営業時間内にオンラインまたは電話で問い合わせることができます。 課金およびサブスクリプション管理のサポートには、テクニカル サポートと同じ電話番号とオンラインのサービス要求プロセスを使ってアクセスできます。 サポート電話番号は管理センターにあります。 手順については、「ビジネス サポート[Microsoft 365問い合わせ」を参照してください](/Office365/Admin/contact-support-for-business-products)。
   
 次に、課金およびサブスクリプション管理のサポート内容の一例を示します。
   
@@ -57,17 +57,17 @@ Microsoft 365 テクニカル サポート チームは、Microsoft 365 およ�
 
 ## <a name="technical-support"></a>テクニカル サポート
 
-Microsoft 365 サブスクリプションのテクニカル サポートは、基本的なインストール、セットアップ、および一般的な技術的な使用法に関するサポートを提供します。 次の表に、サポート内容の一例を示します。<br><br>
+サブスクリプションのテクニカル サポートMicrosoft 365、基本的なインストール、セットアップ、および一般的な技術的な使用法に関するサポートを提供します。 次の表に、サポート内容の一例を示します。<br><br>
   
 | サポート カテゴリ | 例 |
 |:-----|:-----|
-|インストールとセットアップ  <br/> | Exchange Online:  <br/>  メールボックスの移行  <br/>  受信者の構成 (メールボックスのアクセス許可、メール転送の構成、共有メールボックスの構成)  <br/>  自動検出の構成  <br/>  SharePoint Online:  <br/>  アクセス許可およびユーザー グループ  <br/>  外部ユーザーの構成  <br/>  Skype for Business Online:  <br/>  インストールおよび連絡先の作成  <br/>  Microsoft 365 Apps for enterprise: Installation and setup assistance  <br/> |
+|インストールとセットアップ  <br/> | Exchange Online:  <br/>  メールボックスの移行  <br/>  受信者の構成 (メールボックスのアクセス許可、メール転送の構成、共有メールボックスの構成)  <br/>  自動検出の構成  <br/>  SharePoint Online:  <br/>  アクセス許可およびユーザー グループ  <br/>  外部ユーザーの構成  <br/>  Skype for Business Online:  <br/>  インストールおよび連絡先の作成  <br/>  Microsoft 365 Apps for enterprise: インストールとセットアップの支援  <br/> |
 |構成  <br/> | サービスの構成の不具合  <br/>  プロビジョニングに関する問題  <br/>  ドメインの設定と再委任  <br/>  サービス構成の問題  <br/>  シングル サインオン (SSO)  <br/>  Active Directory の同期  <br/> |
 
 > [!NOTE]
-> テクニカル サポートに問い合わせする方法については、Microsoft 365 にビジネス サポートにお [問い合わせください](/Office365/Admin/contact-support-for-business-products)。
+> テクニカル サポートに問い合わせする方法については、こちらを参照してください。ビジネス サポートMicrosoft 365[問い合わせください](/Office365/Admin/contact-support-for-business-products)。
 >
-> テクニカル サポートには、サード パーティのサービスやアドインのトラブルシューティングは含めされていません。Microsoft コミュニティで他のお客様からの回答を見つける方法 [について説明します](https://answers.microsoft.com)。
+> テクニカル サポートには、サード パーティのサービスやアドインのトラブルシューティングは含めされていません。Microsoft Community で他の顧客からの回答[を見つける方法について説明します](https://answers.microsoft.com)。
   
 ### <a name="technical-support-case-handling"></a>テクニカル サポート ケースの処理
 
@@ -83,7 +83,7 @@ Microsoft では、テクニカル サポート ケースを開く際に、問�
 
 最初の応答時間は、上記の重大度レベルとサブスクリプションの種類に基づいて行います。 次の表に、応答時間の目安を示します。<br><br>
   
-| 重大度レベル | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 Government G2<sup>2</sup><br> Office 365 US Government E3<sup>2</sup><br> Office 365 for education<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365 US Government K1<sup>2</sup> | 管理者特権のサポート オプション<sup>3</sup> |
+| 重大度レベル | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365E1<sup>2</sup><br> Office 365E3<sup>2</sup><br> Office 365 GovernmentG2<sup>2</sup><br> Office 365米国政府機関 E3<sup>2</sup><br> Office 365<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365米国政府機関 K1<sup>2</sup> | 管理者特権のサポート オプション<sup>3</sup> |
 |:-----|:-----|:-----|:-----|:-----|
 | 重大度 A (重大)  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |
 |重大度 B (高)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:2 時間  <br/> |
@@ -91,17 +91,17 @@ Microsoft では、テクニカル サポート ケースを開く際に、問�
 
 > [!NOTE]
 > <sup>1</sup> ビジネス プランには、重大でないすべての問題に対する営業時間のサポートと、Microsoft からの 24 時間 365 日の電話サポートが含まれます。<br/>
-> <sup>2</sup> エンタープライズ プランには、すべての問題に対する Microsoft からの 24 時間 365 日の電話サポートが含まれます。<br/>
+> <sup>2 つの</sup>Enterpriseには、すべての問題に対する Microsoft からの 24 時間 365 日の電話サポートが含まれます。<br/>
 > <sup>3</sup> 管理者特権のサポート オプションの説明については、「その他のサポート オプション [」を参照してください](support.md#additional-support-options)。<br/>
 > <sup>4</sup> 通話とサービス要求は、ほとんどの国と地域で 24 時間、週 7 日処理されます。
   
 ### <a name="support-for-standalone-plans"></a>スタンドアロン プランのサポート
 
-有料スタンドアロン プランのサポートは、Enterprise サービス ファミリのプランと同じレベルのサポートと応答時間の目標で処理されます。 スタンドアロン プランの一覧については、「[Standalone services](office-365-plan-options.md#standalone-services)」を参照してください。
+有料スタンドアロン プランのサポートは、サービス ファミリのプランと同じレベルのサポートと応答時間の目標Enterpriseされます。 スタンドアロン プランの一覧については、「[Standalone services](office-365-plan-options.md#standalone-services)」を参照してください。
   
 ### <a name="technical-support-languages"></a>テクニカル サポートの言語
 
-場所と言語に応じて、サポート エンジニアはほとんどの地域の営業時間中、および場合によっては 24 時間単位で利用できます。 詳細については、「国際電話番号 [」および「Microsoft](/Office365/Admin/contact-support-for-business-products) [サポート オプション」を参照してください](https://products.office.com/business/office-365-for-business-support-options)。 追加の翻訳支援が必要な場合は、サポート エンジニアが電話に出続け、翻訳者が通話に参加できるよう手配できます。
+場所と言語に応じて、サポート エンジニアはほとんどの地域の営業時間中、および場合によっては 24 時間単位で利用できます。 詳細については、「International[電話 番号」および「Microsoft](/Office365/Admin/contact-support-for-business-products) [サポート オプション」を参照してください](https://products.office.com/business/office-365-for-business-support-options)。 追加の翻訳支援が必要な場合は、サポート エンジニアが電話に出続け、翻訳者が通話に参加できるよう手配できます。
   
 ## <a name="shared-support-responsibilities"></a>サポートの責任の共有
 
@@ -111,7 +111,7 @@ Microsoft では、適切な専門スタッフによる迅速なテクニカル 
 
 Microsoft 管理者の役割を持つユーザーは、管理センターの [管理] セクションにアクセスし、サービス要求について Microsoft と直接通信する権限を持つ、お客様の組織の唯一のユーザーです。
   
-エンタープライズOffice 365 アプリプランを使用すると、さまざまな機能を提供する複数の種類の管理者を指定できます。 このサービスの説明では、管理者という一般的な肩書きで、すべてのカテゴリの管理者を表しています。 管理者の役割の詳細については、「[Office 365 で管理者ロールを割り当てる](/office365/admin/add-users/assign-admin-roles)」を参照してください。
+エンタープライズOffice 365プランMicrosoft 365 Appsを使用して、さまざまな機能を提供する複数の種類の管理者を指定できます。 このサービスの説明では、管理者という一般的な肩書きで、すべてのカテゴリの管理者を表しています。 管理者の役割の詳細については、「[Office 365 で管理者ロールを割り当てる](/office365/admin/add-users/assign-admin-roles)」を参照してください。
   
 管理者とは:
   
@@ -181,10 +181,10 @@ Microsoft パートナーを選択して、サービス要求チケットの作�
   
 ### <a name="developers"></a>開発者
 
-開発者は、MSDN Officeで、アプリケーションと SharePoint アプリケーションの開発の詳細について[Microsoft Developer Network。](https://developer.microsoft.com/office/docs) 開発者サポートは、開発者コミュニティのオンライン ブログやフォーラム、Premier または Partner のサポート リソースを通じて、または Microsoft を通じて直接利用できます。 開発者サポート オプションへのリンクについては、「サポート リソース」 [を参照してください](https://developer.microsoft.com/office/docs)。
+開発者は[、MSDN](https://developer.microsoft.com/office/docs)OfficeおよびSharePointアプリケーションの開発の詳細についてMicrosoft Developer Network。 開発者サポートは、開発者コミュニティのオンライン ブログやフォーラム、Premier または Partner のサポート リソースを通じて、または Microsoft を通じて直接利用できます。 開発者サポート オプションへのリンクについては、「サポート リソース」 [を参照してください](https://developer.microsoft.com/office/docs)。
   
 > [!NOTE]
-> Microsoft チームはスクリプト (JavaScript、VBScript、VBA など) をサポートしていない。 スクリプトに関するサポートが必要な場合は、「[何にお困りですか?](https://support.microsoft.com/)」をご確認ください。 アプリケーションOfficeの使用サポートについては、「サブスクライバーのアプリケーション [の問題Microsoft Officeサポート オプション」を参照してください](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
+> Microsoft チームはスクリプト (JavaScript、VBScript、VBA など) をサポートしていない。 スクリプトに関するサポートが必要な場合は、「[何にお困りですか?](https://support.microsoft.com/)」をご確認ください。 アプリケーションOfficeの使用サポートについては、「サブスクライバーのアプリケーション[の問題Microsoft Officeサポート オプション」を参照してください](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
   
 ### <a name="volume-licensing"></a>ボリューム ライセンス
 
@@ -200,4 +200,4 @@ Microsoft パートナーを選択して、サービス要求チケットの作�
 
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには [、「Microsoft 365 および Office 365 プラットフォーム](office-365-platform-service-description.md)サービスの説明」を参照してください。
+プラン間で機能の可用性を表示するには、「Microsoft 365[プラットフォーム サービスOffice 365」を参照してください](office-365-platform-service-description.md)。

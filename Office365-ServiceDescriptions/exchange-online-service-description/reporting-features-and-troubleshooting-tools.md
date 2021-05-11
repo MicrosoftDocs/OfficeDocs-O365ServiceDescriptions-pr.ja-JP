@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Onlineは、Exchange 管理センター (EAC) のインとアウトの両方でさまざまなレポート機能を提供します。
+description: Microsoft Exchange Onlineは、管理センター (EAC) でのレポート機能と管理センター Exchange機能を提供します。
 ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,27 +21,27 @@ ms.locfileid: "51652691"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>レポート機能とトラブルシューティング ツール
 
-Microsoft Exchange Onlineは、Exchange 管理センター (EAC) のインとアウトの両方でさまざまなレポート機能を提供します。
+Microsoft Exchange Onlineは、管理センター (EAC) でのレポート機能と管理センター Exchange機能を提供します。
   
 ## <a name="reporting-features"></a>レポート作成機能
 
-Exchange Online のお客様は、Microsoft 365 管理センター、Excel レポート ブックのダウンロード、または Web サービスを使用してレポートにアクセスできます。
+Exchange Onlineユーザーは、Microsoft 365レポート ブックをダウンロードするか、web サービスを使用して、Excel管理センターのレポートにアクセスできます。
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Microsoft 365 管理センターでのレポート
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>管理センター Microsoft 365レポート
 
-Microsoft 365 管理センターの [レポート] ページには、メールボックスとグループに関する概要情報を提供するレポートがあります。 たとえば、あるレポートでは、日、週、月、または年単位に作成および削除されたグループの数の一覧があります。 また、新しいメールボックスと削除済みのメールボックス、アクティブおよび非アクティブなメールボックスに関する概要レポートもあります。 
+メールボックスとグループに関する概要情報をMicrosoft 365管理センターの [レポート] ページにレポートがあります。 たとえば、あるレポートでは、日、週、月、または年単位に作成および削除されたグループの数の一覧があります。 また、新しいメールボックスと削除済みのメールボックス、アクティブおよび非アクティブなメールボックスに関する概要レポートもあります。 
   
-さらに、Microsoft 365 管理センターの [レポート] ページには、メッセージ トラフィック、スパムおよびマルウェア検出、および Exchange トランスポート ルールまたはデータ損失防止 (DLP) ポリシーの影響を受けるメッセージに関する情報を提供するメッセージング データ レポートが含まれています。 保護、ルール、および DLP の強化されたレポートは、Exchange Online 管理者向け対話型のレポート エクスペリエンスを提供します。 これらのレポートでは、概要データと、個別のメッセージに関する詳細へのドリルダウン機能が提供されます。
+さらに、Microsoft 365 管理センターの [レポート] ページには、メッセージ トラフィック、スパムおよびマルウェア検出、Exchange トランスポート ルールまたはデータ損失防止 (DLP) ポリシーの影響を受けるメッセージに関する情報を提供するメッセージング データ レポートが含まれています。 保護、ルール、および DLP の強化されたレポートは、管理者向け対話型Exchange Online提供します。 これらのレポートでは、概要データと、個別のメッセージに関する詳細へのドリルダウン機能が提供されます。
   
-各サブスクリプションで使用できるレポートの詳細については、「Reports」を [参照してください](../office-365-platform-service-description/reports.md)。 Microsoft 365 管理センターの [レポート] ページの詳細については[、「Office 365](/microsoft-365/admin/activity-reports/activity-reports)でのサービス使用状況に関するレポートの表示[](/exchange/monitoring/use-mail-protection-reports)とダウンロード」および「メール保護レポートを使用してマルウェア、スパム、ルールの検出に関するデータを表示する」を参照してください。
+各サブスクリプションで使用できるレポートの詳細については、「Reports」を [参照してください](../office-365-platform-service-description/reports.md)。 Microsoft 365 管理センターの [レポート] ページの詳細については[、「Office 365](/microsoft-365/admin/activity-reports/activity-reports)でのサービス使用状況に関するレポートの表示とダウンロード」および「メール[](/exchange/monitoring/use-mail-protection-reports)保護レポートを使用してマルウェア、スパム、ルールの検出に関するデータを表示する」を参照してください。
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Excel レポート作成ワークブックを使用したレポート作成
 
-Excel 2013 レポート作成ワークブックを使用して、ドリルダウン機能を備えた概要レポートを表示することもできます。 ただし、代わりに拡張された Microsoft 365 管理センター レポートを使用することをお勧めします。 Excel 2013 レポート ワークブックは、今後は提供されなくなる予定です。 詳細情報およびレポート作成ワークブックのダウンロードおよびインストール用のリンクについては、次の[ダウンロード ページ](https://go.microsoft.com/fwlink/p/?LinkId=271776)を参照してください。 レポート作成ワークブックの使用方法については、「[Excel レポート ワークブックを使用したメール保護レポート](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150))」を参照してください。 
+Excel 2013 レポート作成ワークブックを使用して、ドリルダウン機能を備えた概要レポートを表示することもできます。 ただし、代わりに管理センター レポートの拡張Microsoft 365使用することをお勧めします。 Excel 2013 レポート ワークブックは、今後は提供されなくなる予定です。 詳細情報およびレポート作成ワークブックのダウンロードおよびインストール用のリンクについては、次の[ダウンロード ページ](https://go.microsoft.com/fwlink/p/?LinkId=271776)を参照してください。 レポート作成ワークブックの使用方法については、「[Excel レポート ワークブックを使用したメール保護レポート](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150))」を参照してください。 
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 
-メールボックス、グループ、およびメッセージング データに関する概要レポートと詳細レポートの両方にアクセスするには、カスタム レポートを作成できるプログラムによるインターフェイスである REST/OData テナント レポート Web サービスを使用します。 詳細については、「Office [365 Reporting Web サービス」を参照してください](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))。
+メールボックス、グループ、およびメッセージング データに関する概要レポートと詳細レポートの両方にアクセスするには、カスタム レポートを作成できるプログラムによるインターフェイスである REST/OData テナント レポート Web サービスを使用します。 詳細については、「レポート[Web サービスOffice 365を参照してください](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))。
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC のレポート作成機能とトラブルシューティング ツール
 
@@ -49,7 +49,7 @@ Exchange 管理センターでは、次のレポート作成機能とトラブ�
   
 ### <a name="trace-an-email-message"></a>電子メール メッセージの追跡
 
-メッセージ 追跡機能を使用すると、管理者は、Exchange Online サービスを通過する電子メール メッセージに従います。 これは、対象の電子メール メッセージがサービスによって受信、拒否、延期、または配信されたかどうかを判断する上で役立ちます。 したがって、効率良くユーザーの質問に回答したり、メール フローの問題をトラブルシューティングしたりできるため、テクニカル サポートに支援を求める必要性が減ります。
+メッセージ 追跡機能を使用すると、管理者は、ユーザーがサービスを通過する電子メール メッセージExchange Onlineできます。 これは、対象の電子メール メッセージがサービスによって受信、拒否、延期、または配信されたかどうかを判断する上で役立ちます。 したがって、効率良くユーザーの質問に回答したり、メール フローの問題をトラブルシューティングしたりできるため、テクニカル サポートに支援を求める必要性が減ります。
   
 > [!IMPORTANT]
 > 一般的な問題や傾向をトラブルシューティングする場合は、レポート ツールを使用してこのようなデータを取得できます。単一点でのメッセージに関する詳細が必要な場合は、メッセージ追跡ツールを使用します。 
@@ -72,4 +72,4 @@ Exchange 管理センターでは、次のレポート作成機能とトラブ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online[参照してください](exchange-online-service-description.md)。

@@ -8,7 +8,7 @@ ms.topic: reference
 f1_keywords:
 - office-365-system-requirements
 keywords:
-- システム要件、ユーザー要件、Office 365 システム要件
+- システム要件、ユーザー要件、Office 365要件
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
@@ -23,6 +23,6 @@ ms.locfileid: "51653469"
 ---
 # <a name="office-365-system-requirements"></a>Office 365 のシステム要件
 
-Office 365 のシステム要件については、「office.com 製品サイトの Office のシステム要件」を参照してください。 [](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) [](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) 
+Office 365 のシステム要件については、ビジネス、教育、政府機関向け月次サブスクリプション ベースのサービスについて、「office.com 製品サイトの[Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409)のシステム要件」[を](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)参照してください。 
   
 

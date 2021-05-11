@@ -27,15 +27,15 @@ ms.locfileid: "51652571"
   
 ## <a name="custom-domains"></a>カスタム ドメイン
 
-サブスクリプションに最大 900 のドメインを追加できます (サブドメインを含む)。 別の Microsoft クラウド サービスで既に使用しているドメインを Microsoft 365 に追加できない。 つまり、同じドメインを複数のサブスクリプションに追加できないという意味です。 詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
+サブスクリプションに最大 900 のドメインを追加できます (サブドメインを含む)。 別の Microsoft クラウド サービスMicrosoft 365しているドメインをドメインに追加できない。 つまり、同じドメインを複数のサブスクリプションに追加できないという意味です。 詳細については、「[ドメインに関する FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)」を参照してください。
   
 ### <a name="second-and-third-level-domains"></a>第 2 および第 3 レベル ドメイン
 
-365 Enterprise Office Microsoft 365 Apps for business では、marketing.contoso.com などのサード レベル ドメインを含む任意のレベルのドメインを追加できます。 「 [カスタム サブドメインまたは複数のドメインを Microsoft に追加する」を参照してください](/office365/admin/setup/domains-faq)。 21Vianet が運用している Office 365 をご使用の方は、「[21Vianet が運用している Office 365 にカスタム サブドメインまたは複数のドメインを追加する](/office365/admin/setup/domains-faq)」を参照してください。
+[Office 365 EnterpriseとMicrosoft 365 Apps for businessを使用すると、レベルドメイン (ドメインなどの第 3 レベルドメインを含む) を marketing.contoso.com。 「 [カスタム サブドメインまたは複数のドメインを Microsoft に追加する」を参照してください](/office365/admin/setup/domains-faq)。 21Vianet が運用している Office 365 をご使用の方は、「[21Vianet が運用している Office 365 にカスタム サブドメインまたは複数のドメインを追加する](/office365/admin/setup/domains-faq)」を参照してください。
   
 ## <a name="domain-verification-and-managing-dns-records"></a>ドメインの検証および DNS レコードの管理
 
-Microsoft 365 では、DNS ホスティング プロバイダーですべての DNS レコードを管理したり、ドメインの DNS レコードをセットアップして管理したりすることができます。 レコードを引き続き管理する場合は、必要に応じて特定のレコードを変更して Microsoft サービスをポイントします。 各レコードに使用する特定の値を含むレコードを追加する手順を示すドメイン レジストラーの一覧については、「Create [DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) records or if using Office 365 operated by 21Vianet」を参照してください。21Vianet が運用する Office 365 のプロバイダーで DNS レコードを作成するを参照してください。 
+このMicrosoft 365、DNS ホスティング プロバイダーですべての DNS レコードを管理するか、Microsoft がドメインの DNS レコードをセットアップして管理することを選択できます。 レコードを引き続き管理する場合は、必要に応じて特定のレコードをポイントMicrosoft サービス変更します。 各レコードに使用する特定の値を含む、レコードを追加する手順を示すドメイン レジストラーの一覧については、「Create [DNS](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) records or if using Office 365 operate by 21Vianet」を参照してください。21Vianet が運用する Office 365 プロバイダーで DNS レコードを作成するを参照してください。 
   
 Microsoft がドメインの DNS レコードを管理する場合は、まずドメインのネームサーバー レコードを Microsoft をポイントに切り替え、次に Microsoft がサービスをセットアップしてから、ドメインの DNS レコードを Microsoft で管理する必要があります。
   
@@ -45,16 +45,16 @@ DNS レコードがホストされている場所に関係なく、Microsoft で
   
 Microsoft は DNS レコードを積極的にチェックして、DNS の問題を見つけて修正します。 DNS レコードが予想される DNS レコードと一致しない場合は、Microsoft 365 管理センターで通知と、特定された可能性のある問題を修正する方法を示す情報が表示されます。
   
-詳細については [、「Microsoft](/office365/admin/setup/domains-faq) が DNS レコードを管理する方法」、または 21Vianet が運用する Office 365 については、「DNS レコードを管理するときに Office [365](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)の DNS レコードを作成する」を参照してください。
+詳細については[、「Microsoft](/office365/admin/setup/domains-faq)が DNS レコードを管理する方法」または「21Vianet が運用する Office 365 については、「DNS レコードを管理するときに Office 365 の DNS レコードを作成する」を[参照](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)してください。
   
 ## <a name="sharing-a-domain"></a>ドメインの共有
 
-Microsoft 上のドメインの一部の電子メール アドレスと、以前のメール プロバイダーの一部をパイロットできます。 これは、追加のセットアップ手順が必要であり、Microsoft サービスに対していくつかの制限を持つため、パイロット中にのみ使用する場合にお勧めします。 詳細については、以下を参照してください。
+Microsoft 上のドメインの一部の電子メール アドレスと、以前のメール プロバイダーの一部をパイロットできます。 これは、追加のセットアップ手順が必要であり、テストの制限が必要なので、パイロットの間にのみ使用Microsoft サービス。 詳細については、以下を参照してください。
   
-- [小規模ビジネス向け Microsoft 365 のパイロット](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [小規模Microsoft 365のパイロット テスト](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [大企業向け Microsoft 365 のパイロット (FastTrack を使用)](https://fasttrack.office.com/onboard)
+- [大規模Microsoft 365のパイロット テスト (FastTrack を使用)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>機能の可用性
 
-Microsoft 365 のビジネス プラン、スタンドアロン オプション、およびオンプレミス ソリューションの機能の可用性を表示するには [、「Microsoft 365 および Office 365](office-365-platform-service-description.md)プラットフォーム サービスの説明」を参照してください。
+ビジネス プラン、スタンドアロン Microsoft 365、オンプレミス ソリューションの機能の可用性を表示するには、「Microsoft 365および[Office 365」を参照してください](office-365-platform-service-description.md)。

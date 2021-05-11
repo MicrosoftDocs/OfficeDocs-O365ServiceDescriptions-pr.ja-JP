@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: 現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定しない限り構成できません。
+description: 現在、次の制限は、Exchange Online Protection。 これらの制限は、特に指定しない限り構成できません。
 ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,10 +21,10 @@ ms.locfileid: "51653056"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection の制限
 
-現在、Exchange Online Protection には次の制限があります。 これらの制限は、特に指定しない限り構成できません。 
+現在、次の制限は、Exchange Online Protection。 これらの制限は、特に指定しない限り構成できません。 
   
 > [!TIP]
-> Exchange Online の制限の詳細については、「Exchange Online の制限 [」を参照してください](../exchange-online-service-description/exchange-online-limits.md)。 トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。 Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
+> 制限の詳細については、「Exchange Online制限[」を参照Exchange Onlineしてください](../exchange-online-service-description/exchange-online-limits.md)。 トランスポート ルールの制限は、EOP スタンドアロンのお客様にも適用されます。 Exchange Online の受信者レートやメッセージ レートの制限は、EOP スタンドアロンのお客様には適用されません。 
   
 - **ドメイン制限** - テナントごとに最大 900 のドメインを追加できます。 この 900 の制限には、サブドメイン、または必要に応じて、キャッチオール オプションの一部として一致サブドメインを含めることができます。 詳しくは、「 [EOP で承認済みドメインを管理する](/microsoft-365/security/office-365-security/exchange-online-protection-overview)」を参照してください。
 
@@ -44,7 +44,7 @@ ms.locfileid: "51653056"
     
 - **エンド ユーザーのスパム検疫通知** - 既定では、有効にした場合、エンド ユーザーのスパム検疫通知は 3 日ごとに送信されます。 それらは 1 ～ 15 日ごとに送信されるように構成できます。 
     
-- **レポートとメッセージのトレース** の制限 - レポートとメッセージのトレースの制限については、「レポートとメッセージのトレース データの可用性と待機時間」セクションを参照してください [。Exchange Online Protection](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)のレポートとメッセージ トレース。
+- **レポートとメッセージのトレース** の制限 - レポートとメッセージのトレースの制限については、「レポートとメッセージのトレース データの可用性と待機時間 [](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)」セクションを参照してください。Exchange Online Protection.
     
 ### <a name="limits-across-eop-options"></a>各 EOP オプションでの制限
 

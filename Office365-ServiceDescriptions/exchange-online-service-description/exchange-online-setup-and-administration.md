@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: この記事では、Exchange Online の設定をカスタマイズし、組織の Exchange Online 環境を稼働、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
+description: この記事では、管理設定をカスタマイズし、Exchange Online環境を稼働、最新の状態Exchange Online管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
 ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,11 +23,11 @@ ms.locfileid: "51652731"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online のセットアップと管理
 
-この記事では、Exchange Online の設定をカスタマイズし、組織の Exchange Online 環境を稼働、最新の状態に保つために使用できる管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
+この記事では、管理設定をカスタマイズし、Exchange Online環境を稼働、最新の状態Exchange Online管理コントロールとサポートについて説明します。 この内容には、セルフ サービスの管理ツールおよび組織が利用可能な機能、Microsoft の管理責任とパフォーマンス コミットメント、そしてサービスおよび製品のアップグレードに関する情報が含まれます。
   
 ## <a name="self-service-administration-tools"></a>セルフ サービス管理ツール
 
-Microsoft は、すべての Exchange Online データ センターを直接制御し、システム全体のパフォーマンスを担当しますが、ユーザーに全体的なエクスペリエンスを提供するために組み合わせる要素の一部のみを制御できます。 組織自体は、データ センターへのネットワーク接続、顧客のワイド エリア ネットワーク (WAN)、および顧客のローカル エリア ネットワーク (LAN) を担当します。 さらに、ユーザー デバイスとその構成を担当します。また、ユーザーが機能にアクセスする必要がある限り、これらの機能を管理する機能を含むが、これらに限定されない任意の機能に対して、ユーザーごとに必要なライセンスを維持する責任があります。
+Microsoft は、すべてのデータ センター Exchange Online直接制御し、システムの全体的なパフォーマンスを担当しますが、組み合わせた要素の一部のみを制御して、ユーザーの全体的なエクスペリエンスを提供できます。 組織自体は、データ センターへのネットワーク接続、顧客のワイド エリア ネットワーク (WAN)、および顧客のローカル エリア ネットワーク (LAN) を担当します。 さらに、ユーザー デバイスとその構成を担当します。また、ユーザーが機能にアクセスする必要がある限り、これらの機能を管理する機能を含むが、これらに限定されない任意の機能に対して、ユーザーごとに必要なライセンスを維持する責任があります。
   
 このため Exchange Online は、次に説明するツールをカスタマーの管理者に提供し、メッセージングに関するさまざまなタスクを管理できるようにします。
   
@@ -45,7 +45,7 @@ Microsoft Office 365 ポータル ([https://portal.office.com](https://portal.of
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理センター
 
-Microsoft 365 管理センターは、各会社のサービス管理者が購読する各 Microsoft サービスのユーザー アカウントと設定を管理できる Web ポータルです。 Microsoft 365 管理センター内から、管理者は Exchange 管理センター (EAC) へのリンクに従って、Exchange Online 固有の設定を管理できます。 Microsoft 365 管理センターを使用した立ち上げと実行の詳細については、次のビデオ「 [365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806)の概要」を参照Officeしてください。
+管理Microsoft 365管理センターは、各会社のサービス管理者が購読する各ユーザー アカウントと設定を管理Microsoft サービス Web ポータルです。 管理者は、Microsoft 365 管理センター内から Exchange 管理センター (EAC) へのリンクに従って、管理者に固有の設定を管理Exchange Online。 管理センターを使用したセットアップと実行の詳細については、Microsoft 365ビデオ:[概要](https://go.microsoft.com/fwlink/p/?LinkId=271806)を参照Office 365 Enterprise。
   
 ### <a name="exchange-admin-center"></a>Exchange 管理センター
 
@@ -102,4 +102,4 @@ Exchange の主要なバージョンが Microsoft からリリースされた後
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online[参照してください](exchange-online-service-description.md)。

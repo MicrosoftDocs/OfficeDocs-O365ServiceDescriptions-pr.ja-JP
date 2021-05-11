@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word for the web (旧Word Web App) は、Microsoft Word エクスペリエンスを Web ブラウザーに拡張し、ドキュメントが保存されている Web サイトでドキュメントを直接使用できます。
+description: Word for the web (旧 Word Web App) は、Microsoft Word エクスペリエンスを Web ブラウザーに拡張し、ドキュメントが保存されている Web サイト上のドキュメントを直接使用できます。
 ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652331"
 ---
 # <a name="word-for-the-web"></a>Web 用 Word
 
-Word for the web (旧Word Web App) は、Microsoft Word エクスペリエンスを Web ブラウザーに拡張し、ドキュメントが保存されている Web サイトでドキュメントを直接使用できます。 
+Word for the web (旧 Word Web App) は、Microsoft Word エクスペリエンスを Web ブラウザーに拡張し、ドキュメントが保存されている Web サイト上のドキュメントを直接使用できます。 
   
 ## <a name="alignment-guides-and-live-layout"></a>位置揃えガイドと忠実なレイアウト
 
@@ -63,7 +63,7 @@ Word for the web では使用できません。 Word for the web で既存の引
   
 ## <a name="clipboard"></a>クリップボード
 
-web ブラウザー テクノロジの制限により、Office for the web のテキストのコピーと貼り付けは、Office デスクトップ アプリケーションでのテキストのコピーと貼り付けとは異なります。 Web のコピー [と貼り付Office詳細を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
+Web ブラウザー テクノロジの制限により、Office for the web のテキストのコピーと貼り付けは、Office デスクトップ アプリケーションでのテキストのコピーと貼り付けとは異なります。 Web のコピー[と貼り付Office詳細を参照してください](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
   
 ## <a name="collaboration-advanced"></a>コラボレーション、高度
 
@@ -111,7 +111,7 @@ Word for the web では、文書に脚注と文末脚注を追加できます。
   
 ## <a name="full-fidelity-reading-view"></a>忠実な閲覧表示
 
-OneDrive または SharePoint でドキュメントを開くと、Word for the web はブラウザーでドキュメントを開きます。 ドキュメントを Word デスクトップ アプリの印刷レイアウト表示で開くと、レイアウトと書式設定が表示されます。
+Word for the web は、OneDriveまたはSharePointでドキュメントを開くと、ブラウザーでドキュメントを開きます。 ドキュメントを Word デスクトップ アプリの印刷レイアウト表示で開くと、レイアウトと書式設定が表示されます。
   
 ## <a name="graphic-effect-presets"></a>グラフィック効果のプリセット
 
@@ -131,7 +131,7 @@ Web 用 Word を使用すると、ドキュメント内のブックマークへ�
   
 ## <a name="insert-online-pictures"></a>オンライン画像の挿入
 
-Web 用 Word を使用すると、ローカル ハード ドライブに保存されたファイルまたは Bing Images から画像を挿入できます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
+Word for the web を使用すると、ローカル ハード ドライブに保存されたファイルまたはローカル イメージから画像をBingできます。 詳細については、「[ブラウザーと Word での文書の使用の相違点](https://go.microsoft.com/fwlink/p/?LinkId=271859)」を参照してください。
   
 ## <a name="irm-and-password-protection"></a>IRM とパスワード保護
 
@@ -151,7 +151,7 @@ Word for the web では使用できません。 Excel スプレッドシート�
   
 ## <a name="offline-viewing-and-authoring"></a>オフラインでの表示と編集
 
-Word for the web では使用できません。 Officeには、インターネット接続とインターネット ブラウザーが必要です。 インターネットから切断されている間、または Web Apps Server から組織のオンプレミスサイトからドキュメントを表示および編集するには、コンピューターに Word デスクトップ アプリがインストールOffice必要です。 Word デスクトップ アプリがインストールされている場合は、Word のすべての機能を使用してドキュメントを表示して編集できます。 保存時に、変更内容がオンライン ドキュメントに反映されます。 ドキュメントをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 Office Web Apps Server については、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)」を参照してください。
+Word for the web では使用できません。 Officeの場合は、インターネット接続とインターネット ブラウザーが必要です。 インターネットから切断されている間、または Web Apps Server から組織のオンプレミスサイトからドキュメントを表示および編集するには、コンピューターに Word デスクトップ アプリOffice必要です。 Word デスクトップ アプリがインストールされている場合は、Word のすべての機能を使用してドキュメントを表示して編集できます。 保存時に、変更内容がオンライン ドキュメントに反映されます。 ドキュメントをダウンロードしてオフライン コピーとして保存することもできますが、オンライン バージョンとの同期は取られません。 Office Web Apps Server については、「[内部設置型 Office Web Apps が SharePoint 2013 で機能する方法](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)」を参照してください。
   
 ## <a name="page-breaks"></a>改ページ
 
@@ -185,7 +185,7 @@ Web 用 Word を使用すると、画像のサイズを変更し、ドキュメ�
   
 ## <a name="present-online"></a>オンライン プレゼンテーション
 
-Word for the web では使用できません。 Word 2013 デスクトップ アプリを使用すると、Office プレゼンテーション サービスまたは Skype for Business Online を使用して、オンライン会議中にドキュメントを表示し、同僚がドキュメントのページを見ながらリンクをフォローできます。 
+Word for the web では使用できません。 Word 2013 デスクトップ アプリを使用すると、Office Presentation Service または Skype for Business Online を使用してオンライン会議中にドキュメントを表示し、同僚がドキュメントのページを見ながらリンクをフォローできます。 
   
 ## <a name="print-to-pdf"></a>PDF に印刷
 
@@ -205,7 +205,7 @@ Word for the web では使用できません。 スペル チェック辞書へ�
   
 ## <a name="real-time-co-authoring"></a>リアルタイム共同編集
 
-複数の人が同時に 1 つの文書で作業できます。 Word for the web および Word 2016 では、リアルタイムプレゼンスを使用すると、編集中に競合が発生しないので、ドキュメント内で共同作成者が作業している場所を確認し、変更を行っている間に確認できます。 Word 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。 リアルタイム共同編集の詳細については [、「Word for the web](https://go.microsoft.com/fwlink/?LinkId=389520) の新機能」および「リアルタイム共同編集を使用した Word ドキュメントでの共同作業」を [参照してください](https://go.microsoft.com/fwlink/?linkid=798760)。
+複数の人が同時に 1 つの文書で作業できます。 Word for the web および Word 2016 では、リアルタイムプレゼンスを使用すると、編集時に競合が発生したり、変更が行われたりする場合に確認したりするために、ドキュメント内で共同作成者が作業している場所を確認できます。 Word 2013 は同時編集をサポートしますが、プレゼンスは表示されず、文書が保存されるまで複数の編集者が変更箇所を確認することはできません。 リアルタイム共同編集の詳細については [、「Word for the web](https://go.microsoft.com/fwlink/?LinkId=389520) の新機能」および「リアルタイム共同編集を使用した Word ドキュメントでの共同作業」を [参照してください](https://go.microsoft.com/fwlink/?linkid=798760)。
   
 ## <a name="reference-tools"></a>参照ツール
 
@@ -293,7 +293,7 @@ Web 用の Word は、ドキュメント内の単語の大まかな単語数を�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「web サービスのOfficeを [参照してください](office-online-service-description.md)。 
+プラン、スタンドアロン オプション、オンプレミス ソリューション全体の機能の可用性を表示するには、web サービスのOfficeを[参照してください](office-online-service-description.md)。 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>操作パラメーターの制限と仕様
 

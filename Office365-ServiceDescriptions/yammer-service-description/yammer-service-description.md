@@ -25,11 +25,11 @@ Yammer は、高性能で安全、かつプライベートなエンタープラ�
   
 Microsoft サービス ファミリとプランを含むプランYammer [Microsoft サービス ファミリとプランを参照してください](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)。
   
-ユーザーがサブスクリプションを有効にするサブスクリプションの詳細Yammer、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画Yammer、完全なサブスクリプション比較表[を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="system-requirements"></a>システム要件
 
-Office 365 のシステム要件については [、「Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)および Office Resources」を参照してください。
+ビジネス、教育、および政府機関でOffice 365月次サブスクリプション ベースのサービスである Office 365 のシステム要件については、「Microsoft 365 および Office[リソース」を参照してください](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="yammer-plans"></a>Yammer プラン
 
@@ -38,15 +38,15 @@ Yammer は以下のプランで提供されています。<br><br>
 | プラン | 説明 |
 |:-----|:-----|
 |[Yammer の概要](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |エンタープライズ ソーシャル ネットワーキング - いつでも、どこでも。  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |高度なセキュリティ、管理、および統合を備え、エンタープライズ ソーシャル ネットワーク。  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise高度なセキュリティ、管理、および統合を備え、ソーシャル ネットワーキングを強化します。  <br/> |
    
 > [!NOTE]
-> [Microsoft 365 および Office 365](../office-365-platform-service-description/office-365-platform-service-description.md)プラットフォーム サービスの説明で説明されている機能とポリシーは、Yammer サービスには適用されません。 
+> プラットフォーム サービスの説明にMicrosoft 365およびOffice 365[機能](../office-365-platform-service-description/office-365-platform-service-description.md)とポリシーは、Yammer サービスにはYammerされません。 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammerエンタープライズ サービス通信ポリシー
 <a name="YammerCommsPolicy"> </a>
 
-Yammer [は Microsoft 365 の](https://aka.ms/ManageChange)変更管理ポリシーに準拠していますが、更新プログラムを展開するためにターゲットリリースは使用されません。 
+Yammer変更管理ポリシー Microsoft 365準拠していますが[](https://aka.ms/ManageChange)、更新プログラムを展開するためにターゲットリリースは使用されません。 
   
 すべての Yammer ユーザーは、A/B 機能テストを受けることになります。 これにより、Microsoft は、多くの環境やデバイスで機能の安定性、パフォーマンス、エクスペリエンスの向上をテストできます。 テストのために、同じネットワーク内のユーザーでも、エクスペリエンスが異なる場合があります。 お客様が A/B テストを受けないことを選択することはできません。
   
@@ -54,15 +54,15 @@ Yammer [は Microsoft 365 の](https://aka.ms/ManageChange)変更管理ポリシ
   
 通達に使用されるチャネルは影響の度合いによって異なります。<br><br>
   
-| 変更の種類 | 通信チャネル |
+| 種類を変更する | 通信チャネル |
 |:-----|:-----|
-|**アクションが必要な変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があります。組織のコンプライアンスに影響を与える可能性がある更新プログラム  <br/> |- Officeされた管理者に直接 365 Yammerメールを送信する <br/>- Microsoft 365 ロードマップ<br/>- Yammer更新プログラム<br/>- 外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
-|**認識が必要な変更 (通知を受け取る)**<br/>管理アクション、ビジュアル デザインの変更を必要としない変更  <br/> |- Office 365 メッセージ センター<br/>- Microsoft 365 ロードマップ<br/>- Yammer更新プログラム<br/>- 外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
+|**アクションが必要な変更 (変更の計画)** <br/>管理者は、サービスの実行を維持するために変更を加える必要があります。組織のコンプライアンスに影響を与える可能性がある更新プログラム  <br/> |- Office 365確認済みの管理者に直接メッセージ センター Yammerメールを送信する <br/>- Microsoft 365ロードマップ<br/>- Yammer更新プログラム<br/>- 外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
+|**認識が必要な変更 (通知を受け取る)**<br/>管理アクション、ビジュアル デザインの変更を必要としない変更  <br/> |- Office 365 メッセージ センター<br/>- Microsoft 365ロードマップ<br/>- Yammer更新プログラム<br/>- 外部グループ<br/>一部の対象ユーザーが影響を受ける変更の場合には、それらのユーザーに直接通知することがあります。 |
 |**非クリティカル** <br/>一部のユーザーが監視できる場合でも、重要でない変更で、アクションや認識を必要としない変更  <br/> |幅広く通知することはありません |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Yammer の各プランで利用できる機能
 
-組織のニーズに最適な Yammer プランをお探しですか？ 各プランで利用できる機能を次の表でご確認ください。 機能名を選択して、その機能の機能の概要をYammer。<br><br>
+組織のニーズに最適な Yammer プランをお探しですか？ 各プランで利用できる機能を次の表でご確認ください。 機能名を選択すると、その機能の機能の概要が表示Yammer。<br><br>
   
 | 機能 | Yammer ベーシック | Yammer エンタープライズ |
 |:-----|:-----|:-----|

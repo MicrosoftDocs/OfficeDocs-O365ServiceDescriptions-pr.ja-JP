@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Project Online では、次のリソース管理機能を使用できます。
+description: 次のリソース管理機能は、Project Online。
 ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651207"
 ---
 # <a name="project-resource-management"></a>プロジェクト リソース管理
 
-Project Online では、次のリソース管理機能を使用できます。
+次のリソース管理機能は、Project Online。
   
-Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
+すべての機能に関するProject Online探していますか? サービスのProject Online[を参照してください](project-online-service-description.md)。
   
 ## <a name="cost-resources"></a>コスト型リソース
 
@@ -37,17 +37,17 @@ Project Online のすべての機能に関する情報をお探しですか? Pro
 
 プロジェクト内のユーザーが同時に処理する割り当てが多すぎる場合、それらの割り当てを自動的に調整することができます。これはリソース レベルと呼ばれます。「[リソース割り当ての平準化](https://go.microsoft.com/fwlink/p/?LinkId=271348)」を参照してください。
   
-## <a name="resource-sheet-and-usage-views"></a>リソース シートおよび配分状況ビュー
+## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
 
-リソースの使用状況、シート、グラフ、フォーム ビューを使用して、リソース情報を画面上に表示します。 「[適切なレポートを選ぶ](https://go.microsoft.com/fwlink/?LinkId=402920)」を参照してください。
+リソースの使用状況、シート、グラフ、フォーム ビューを使用して、リソース情報を画面上に表示します。「[適切なレポートを選ぶ](https://go.microsoft.com/fwlink/?LinkId=402920)」を参照してください。
   
-## <a name="resource-substitution"></a>リソースの切り替え
+## <a name="resource-substitution"></a>Resource substitution
 
-建築職人などの特定のスキルを持つ標準リソースを現実の人間に置き換えます。 「[リソース共有元を作成、共有する](https://go.microsoft.com/fwlink/?LinkId=402921)」を参照してください。
+建築職人などの特定のスキルを持つ標準リソースを現実の人間に置き換えます。「[リソース共有元を作成、共有する](https://go.microsoft.com/fwlink/?LinkId=402921)」を参照してください。
   
 ## <a name="team-resources"></a>Team resources
 
-コンピューターやセメントなどのマテリアル リソースなど、チームのプロジェクトにリソースを追加します。 プロジェクトにユーザー [を追加する方法の詳細を確認します](https://go.microsoft.com/fwlink/p/?LinkId=271347)。
+コンピューターやセメントなどの数量単価型リソースなどのリソースをチームのプロジェクトに追加します。[プロジェクトに人を追加する方法](https://go.microsoft.com/fwlink/p/?LinkId=271347)について詳細情報を参照してください。
   
 ## <a name="work-generic-and-material-resources"></a>時間単価型リソース、標準リソース、数量単価型リソース
 
@@ -55,6 +55,6 @@ Project Online のすべての機能に関する情報をお探しですか? Pro
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Project Online サービスの説明 [」を参照してください](project-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Project Online[参照してください](project-online-service-description.md)。
   
 

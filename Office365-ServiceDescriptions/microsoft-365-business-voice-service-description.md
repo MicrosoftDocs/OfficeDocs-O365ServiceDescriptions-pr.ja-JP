@@ -43,7 +43,7 @@ Microsoft 365 Business Voiceは、最大 300 ライセンスの次のサブス�
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 Business Voice機能
 
-| 特徴 | Microsoft 365 Business Voice | Microsoft 365 Business Voice通話プランなし |
+| 機能 | Microsoft 365 Business Voice | Microsoft 365 Business Voice通話プランなし |
 |--------------------------------------------------------|------------------------------|---------------------------------------------------|
 | ローカル番号 | はい | うん<sup>*</sup> |
 | VoIP 呼び出し | はい | うん<sup>*</sup> |

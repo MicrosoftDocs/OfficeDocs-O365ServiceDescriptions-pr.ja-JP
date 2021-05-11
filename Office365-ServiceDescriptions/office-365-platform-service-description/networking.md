@@ -25,7 +25,7 @@ Microsoft は、次のネットワーク機能をサポートしています。
   
 ## <a name="ports-protocols-and-ip-addresses"></a>ポート、プロトコル、および IP アドレス
 
-Microsoft では、IPv4 アドレスと IPv6 アドレスを使用します。 IPv6 の使用は任意で、Office 365 との接続には必要ありません。 すべての Microsoft 365 機能が IPv6 を使用して完全に有効になっているという場合ではありません。 Ipv6 サポートの詳細については、「Microsoft サービスでの [IPv6 サポート」を参照してください](/office365/enterprise/ipv6-support)。
+Microsoft では、IPv4 アドレスと IPv6 アドレスを使用します。 IPv6 の使用は任意で、Office 365 との接続には必要ありません。 IPv6 をMicrosoft 365機能が完全に有効になっている場合があります。 Ipv6 サポートの詳細については[、「IPv6](/office365/enterprise/ipv6-support)サポート」を参照Microsoft サービス。
   
 Microsoft は、Microsoft ヘルプで許可されている IP アドレスの一覧を保持しています。 詳細については、「URL と [IP アドレス範囲」を参照してください](/office365/enterprise/urls-and-ip-address-ranges)。 21Vianet が運用している Office 365 については、「[21Vianet が運用している Office 365 の URL と IP アドレス](/office365/enterprise/managing-office-365-endpoints)」を参照してください。 Office 365 Germany については、「[Office 365 Germany エンドポイント](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)」を参照してください。
   
@@ -64,4 +64,4 @@ Microsoft ネットワーク インフラストラクチャは、データ セ�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには [、「Microsoft 365 および Office 365 プラットフォーム](office-365-platform-service-description.md)サービスの説明」を参照してください。
+プラン間で機能の可用性を表示するには、「Microsoft 365[プラットフォーム サービスOffice 365」を参照してください](office-365-platform-service-description.md)。

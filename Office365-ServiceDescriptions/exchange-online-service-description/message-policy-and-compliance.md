@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-description: Exchange Online のメッセージ ポリシーとコンプライアンスについて学習します。
+description: メッセージ ポリシーとコンプライアンスの詳細については、Exchange Online。
 ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -25,9 +25,9 @@ ms.locfileid: "51652711"
 
 Exchange Online のメールボックスはクラウド内に存在するため、これらのメールボックスをアーカイブするには固有のホスティング環境が必要になります。いくつかのケースでは、Exchange Online を使用して社内メールボックスをクラウドでアーカイブすることもできます。このセクションでは、Exchange Online でのアーカイブ オプションについて説明します。
   
-Exchange Online は、ユーザーに古い電子メール メッセージを保存する便利な場所を提供する In-Place アーカイブなど、クラウドベースのメールボックスに組み込みのアーカイブ機能を提供します。 [In-Placeアーカイブ] は、Outlook および Outlook on the web のユーザーのプライマリ メールボックス フォルダーと一緒に表示される特別な種類のメールボックスです。 ユーザーは、プライマリ メールボックスにアクセスして検索するのと同じ方法でアーカイブにアクセスして検索できます。 使用可能な機能は、使用しているクライアントによって異なります。
+Exchange Onlineは、ユーザーに古い電子メール メッセージを保存する便利な場所を提供する In-Place アーカイブを含む、クラウドベースのメールボックスに組み込みのアーカイブ機能を提供します。 [In-Place アーカイブ] は、Web 上のユーザーのプライマリ メールボックス フォルダーと一緒にOutlook、Outlookメールボックスです。 ユーザーは、プライマリ メールボックスにアクセスして検索するのと同じ方法でアーカイブにアクセスして検索できます。 使用可能な機能は、使用しているクライアントによって異なります。
   
-- **Outlook 2016、Outlook 2013、Outlook 2010、および Outlook on the web** ユーザーは、アーカイブの完全な機能にアクセスできるだけでなく、保持ポリシーやアーカイブ ポリシーを制御するなどの関連するコンプライアンス機能にもアクセスできます。 
+- **Outlook 2016、Outlook 2013、Outlook 2010、Outlook web** 上ユーザーは、アーカイブの完全な機能にアクセスできるだけでなく、保持ポリシーやアーカイブ ポリシーを制御するなどの関連するコンプライアンス機能にもアクセスできます。 
     
 - **Outlook 2007** ユーザーはインプレース アーカイブの基本的な機能を利用できますが、すべてのアーカイブ機能とコンプライアンス機能を利用できるわけではありません。たとえば、ユーザーはメールボックス アイテムに対して保持またはアーカイブ ポリシーを適用できないため、管理者がプロビジョニングするポリシーを使用する必要があります。 
     
@@ -41,12 +41,12 @@ Exchange Online は、ユーザーに古い電子メール メッセージを保
     
 ### <a name="archive-sizes"></a>アーカイブのサイズ
 
-個々の個人用アーカイブには、1 人のユーザーのメッセージ データを保存できます。 ストレージの割り当ては、次のようにサブスクリプション プランによって異なります。 アーカイブ メールボックスのサイズの詳細については、「Exchange Online の制限」の「メールボックスストレージの制限 [」セクションを参照してください](exchange-online-limits.md)。
+個々の個人用アーカイブには、1 人のユーザーのメッセージ データを保存できます。 ストレージの割り当ては、次のようにサブスクリプション プランによって異なります。 アーカイブ メールボックスのサイズの詳細については、「メールボックスの記憶域の制限」セクションを参照Exchange Online[してください](exchange-online-limits.md)。
   
 > [!IMPORTANT]
 > - ジャーナリング、トランスポート ルール、または自動転送ルールを使用してアーカイブの目的のため、Exchange Online メールボックスにメッセージをコピーすることは許可されていません。 Microsoft は、個人のシナリオや不適切な使用の場合にメールボックス アーカイブが使用されていない場合、無制限のアーカイブを拒否する権利を保持します。
 > - インプレース アーカイブには、Outlook ユーザーに対する特定のライセンス要件があります。Outlook 2007 ユーザーが個人用アーカイブにアクセスするためには、Office 2007 の 2011 年 2 月の累積的な更新プログラムが必要です。 
-> - Exchange Online では、管理者が駆動する .pst ファイルを個人用アーカイブにインポートする場合、Exchange Server 2010 Service Pack 1 以降の  _New-MailboxImportRequest_ Windows PowerShell コマンドレットはサポートされていません。 ユーザーのプライマリ メールボックスとアーカイブの両方が Exchange Online にある場合、管理者は PST Capture (無料ツール) を使用してユーザーのプライマリ メールボックスまたはアーカイブに .pst ファイルのデータをインポートすることができます。
+> - Exchange Online.pst ファイルを個人用アーカイブに管理者が駆動してインポートする場合、Exchange Server 2010 Service Pack 1 以降の _New-MailboxImportRequest_ Windows PowerShell コマンドレットはサポートされていません。 ユーザーのプライマリ メールボックスとアーカイブの両方が Exchange Online にある場合、管理者は PST Capture (無料ツール) を使用してユーザーのプライマリ メールボックスまたはアーカイブに .pst ファイルのデータをインポートすることができます。
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>社内メールボックスのクラウドベースのアーカイブ
 
@@ -57,13 +57,13 @@ Microsoft のホスト型のアーカイブ ソリューションである Micro
   
 ## <a name="retention-tags-and-retention-policies"></a>保持タグおよびアイテム保持ポリシー
 
-Exchange Online で提供される保持ポリシーは、組織における電子メールおよびその他の通信に関連する負担を軽減するのに役立ちます。 これらのポリシーを使用すると、管理者はユーザーの受信トレイ内の特定のフォルダーに保持設定を適用できます。 管理者は、ユーザーにアイテム保持ポリシーのメニューを提供し、Outlook 2010 以降または Outlook on the web を使用して、特定のアイテム、会話、またはフォルダーにポリシーを適用することもできます。
+Exchange Online で提供される保持ポリシーは、組織における電子メールおよびその他の通信に関連する負担を軽減するのに役立ちます。 これらのポリシーを使用すると、管理者はユーザーの受信トレイ内の特定のフォルダーに保持設定を適用できます。 管理者は、ユーザーに保持ポリシーのメニューを提供し、Outlook 2010 以降または web 上の Outlook を使用して、特定のアイテム、会話、またはフォルダーにポリシーを適用することもできます。
   
 Exchange Online では、管理者は Exchange 管理センター (EAC) またはリモート Windows PowerShell を使用してアイテム保持ポリシーを管理します。
   
 Exchange Online では、アーカイブ ポリシーと削除ポリシーの 2 つのタイプのポリシーが利用できます。同じアイテムまたはフォルダーに対して両方のタイプを組み合わせて使用することができます。たとえば、ユーザーは指定した日数後に電子メール メッセージをインプレース アーカイブに自動的に移動し、さらに一定の期間が経過した後に削除するように電子メール メッセージにタグ付けできます。
   
-Outlook 2010 以降と Outlook on the web を使用すると、ユーザーはフォルダー、会話、または個々のメッセージに保持ポリシーを適用できます。 また、メッセージに適用済みのアイテム保持ポリシーや削除日を表示することもできます。 他の電子メール クライアントのユーザーは、管理者が設定したサーバー側のアイテム保持ポリシーに基づいて電子メール メッセージの削除またはアーカイブを行うことができます。
+2010 Outlook以降で web Outlookを使用すると、ユーザーはアイテム保持ポリシーをフォルダー、会話、または個々のメッセージに適用できます。 また、メッセージに適用済みのアイテム保持ポリシーや削除日を表示することもできます。 他の電子メール クライアントのユーザーは、管理者が設定したサーバー側のアイテム保持ポリシーに基づいて電子メール メッセージの削除またはアーカイブを行うことができます。
   
 Exchange Online で利用できるアイテム保持ポリシーの機能は、Exchange Server 2010 Service Pack 2 RU4 で利用できる機能と同じです。管理者はリモート Windows PowerShell を使用して、アイテム保持ポリシーを Exchange Server 2010 以降の社内環境から Exchange Online に移行できます。
   
@@ -74,11 +74,11 @@ Exchange Online で利用できるアイテム保持ポリシーの機能は、E
   
 ## <a name="encryption-of-data-at-rest"></a>保管中データの暗号化
 
-保存中の顧客データの暗号化は、Exchange Online、Skype for Business、OneDrive for Business、SharePoint Online の BitLocker、DKM、Azure Storage Service 暗号化、サービス暗号化など、複数のサービス側テクノロジによって提供されます。 Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。 このカスタマー管理キー オプション (顧客キー[](/microsoft-365/compliance/customer-key-overview)と呼ばれる) は、Exchange Online、SharePoint Online、OneDrive for Business で使用できます。 
+保存中の顧客データの暗号化は、BitLocker、DKM、Azure Storage サービス暗号化、Exchange Online、Skype for Business、OneDrive for Business、SharePoint Online のサービス暗号化など、複数のサービス側テクノロジによって提供されます。 Office 365 Service Encryption には、Azure Key Vault に格納され、顧客によって管理される暗号化キーを使用するオプションがあります。 顧客キーと呼ばれるこの顧客管理キー[](/microsoft-365/compliance/customer-key-overview)オプションは、Exchange Online、SharePoint、およびOneDrive for Business。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Microsoft サーバーは、BitLocker を使用して、ボリューム レベルで保存されている顧客データを含むディスク ドライブを暗号化します。 BitLocker 暗号化は、Windows に組み込まれているデータ保護機能です。 BitLocker は、顧客データが含まれるディスクに何者かが物理的にアクセスできるようになりかねない過失がプロセスや制御 (アクセス制御またはハードウェアのリサイクルなど) で生じた場合に、脅威から安全に保護するために使用されるテクノロジの 1 つです。 その場合、BitLocker は、コンピューターやディスクの紛失、盗難、または不適切な廃棄によるデータの盗難や漏洩などの脅威の可能性を低減します。 
+Microsoft サーバーは、BitLockerを使用して、ボリューム レベルで保存されている顧客データを含むディスク ドライブを暗号化します。 BitLocker 暗号化は、Windows に組み込まれているデータ保護機能です。 BitLocker は、顧客データが含まれるディスクに何者かが物理的にアクセスできるようになりかねない過失がプロセスや制御 (アクセス制御またはハードウェアのリサイクルなど) で生じた場合に、脅威から安全に保護するために使用されるテクノロジの 1 つです。 その場合、BitLocker は、コンピューターやディスクの紛失、盗難、または不適切な廃棄によるデータの盗難や漏洩などの脅威の可能性を低減します。 
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
@@ -92,13 +92,13 @@ BitLocker に加え、Distributed Key Manager (DKM) と呼ばれるテクノロ�
 
 Office 365 Message Encryption によって、電子メール ユーザーは暗号化された電子メールを任意の宛先に送信できます。Azure Information Encryption の保護機能を活用する Office Message Encryption の新機能を発表しました。これらの新機能ではエンド ユーザー エクスペリエンスが拡張されており、それによって組織内外のだれとでも保護されたメッセージを簡単に共有し、共同作業をすることが可能になります。新しい Office Message Encryption 機能のセットアップにはいくつかの要件があります。Azure Information Protection をベースにビルドされている新しい Office 365 Message Encryption 機能のセットアップ情報を参照してください。従来の Office 365 Message Encryption を使用しているお客様は、上記のガイダンスに基づいてセットアップを行わない限り、新機能をご利用になれません。Office 365 Message Encryption の新旧それぞれの機能の詳細については、[FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) を参照してください。 
 
-Office 365 Advanced Message Encryption は、メッセージの有効期限と失効を許可することで、追加の保護を提供します。  組織から送信される暗号化された電子メール用に複数のテンプレートを作成することもできます。  高度なメッセージ暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフ価格)、Office 365 Enterprise E5 (非営利スタッフ価格)、または Office 365 Education A5 に含まれています。 組織に Office 365 Advanced Message Encryption を含めないサブスクリプションがある場合は、Microsoft 365 E5 コンプライアンスまたは Office 365 Advanced Compliance SKU をアドオンとして購入できます。
+Office 365 Advanced Message Encryptionメッセージの有効期限と失効を許可することで、追加の保護を提供します。  組織から送信される暗号化された電子メール用に複数のテンプレートを作成することもできます。  高度なメッセージ暗号化は、Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非営利スタッフ価格)、Office 365 Enterprise E5 (非営利スタッフ価格)、または Office 365 Education A5 に含まれています。 組織にサブスクリプションが含Office 365 Advanced Message Encryption場合は、Microsoft 365 E5 Complianceまたは Office 365 Advanced Compliance SKU をアドオンとして購入できます。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
 S/MIME を使用すれば、組織内で署名して暗号化した電子メールを送信することにより、機密情報を保護することができます。管理者は、PKI 証明書を設定してユーザーに発行した後で、リモート Windows PowerShell を使用して S/MIME をセットアップすることができます。この証明書は、社内の Active Directory 証明書サービスから同期する必要があります。
   
-S/MIME は Microsoft Edge および 11 Internet Explorerサポートされています。 現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。 詳細については、「[S/MIME によるメッセージの署名と暗号化](/Exchange/policy-and-compliance/smime?preserve-view=true&view=exchserver-2019)」を参照してください。
+S/MIME は、11 の Microsoft EdgeおよびInternet Explorerサポートされています。 現在、S/MIME は Firefox、Opera、および Chrome でサポートされていません。 詳細については、「[S/MIME によるメッセージの署名と暗号化](/Exchange/policy-and-compliance/smime?preserve-view=true&view=exchserver-2019)」を参照してください。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>インプレース保持と訴訟ホールド
 
@@ -131,7 +131,7 @@ Exchange Online では、次の目標を達成するためにインプレース�
   
 ## <a name="in-place-ediscovery"></a>インプレース電子情報開示 (eDiscovery)
 
-Exchange Online を使用すると、Web ベースのインターフェイスを使用して組織全体のメールボックスの内容を検索できます。 インプレースの電子情報開示検索の実行を許可された管理者やコンプライアンス担当者およびセキュリティ担当者は、(割り当てにより) 電子メール メッセージ、添付ファイル、予定表の予定、タスク、連絡先、およびその他のアイテムを検索できます。 インプレース電子情報開示では、プライマリ メールボックスとアーカイブを同時に検索できます。 KQL 構文に加えて、送信者、受信者、メッセージの種類、送信/受信日付、およびカーボン コピー/ブラインド カーボン コピーなどの豊富なフィルタリング機能が利用できます。 検索結果には、検索クエリに一致した削除済みアイテム フォルダー内のアイテムも含まれます。
+Exchange Onlineを使用すると、Web ベースのインターフェイスを使用して組織全体のメールボックスの内容を検索できます。 インプレースの電子情報開示検索の実行を許可された管理者やコンプライアンス担当者およびセキュリティ担当者は、(割り当てにより) 電子メール メッセージ、添付ファイル、予定表の予定、タスク、連絡先、およびその他のアイテムを検索できます。 インプレース電子情報開示では、プライマリ メールボックスとアーカイブを同時に検索できます。 KQL 構文に加えて、送信者、受信者、メッセージの種類、送信/受信日付、およびカーボン コピー/ブラインド カーボン コピーなどの豊富なフィルタリング機能が利用できます。 検索結果には、検索クエリに一致した削除済みアイテム フォルダー内のアイテムも含まれます。
   
 インプレース電子情報開示検索の結果は、Web ベースのインターフェイスでプレビューし、PST ファイルにエクスポートし、探索メールボックスと呼ばれる特殊なメールボックスにコピーすることができます。探索メールボックスには、検索結果を格納するための 50 GB のクォータが割り当てられています。また、管理者は Outlook を探索メールボックスに接続して検索結果にアクセスし、検索結果を .pst ファイルにエクスポートすることもできます。
   
@@ -176,7 +176,7 @@ Exchange Online では、権限のあるユーザーがインプレース電子�
   
 ## <a name="data-loss-prevention"></a>データ損失防止
 
-データ損失防止 (DLP) 機能は、深いコンテンツ分析を通じて組織内の機密情報を特定、監視、保護するのに役立ちます。 DLP は、ビジネスクリティカルな電子メールに保護する必要がある機密データが含まれるため、エンタープライズ メッセージ システムにとってますます重要なプレミアム機能です。 Exchange Online の DLP 機能を使用すると、作業者の生産性に影響を与えることなく、機密データを保護できます。
+データ損失防止 (DLP) 機能は、深いコンテンツ分析を通じて組織内の機密情報を特定、監視、保護するのに役立ちます。 DLP は、ビジネスクリティカルな電子メールに保護する必要がある機密データが含まれるため、エンタープライズ メッセージ システムにとってますます重要なプレミアム機能です。 このページの DLP Exchange Onlineを使用すると、作業者の生産性に影響を与えることなく機密データを保護できます。
   
 DLP ポリシーは Exchange 管理センター (EAC) の管理インターフェイスで構成できます。この管理インターフェイスでは、次の操作を行うことができます。 
   
@@ -192,7 +192,7 @@ DLP ポリシーは Exchange 管理センター (EAC) の管理インターフ�
     
 - ドキュメントのフィンガープリント機能を使って機密性の高いフォーム データを検出できます。ドキュメントのフィンガープリント機能を使用すると、テキスト ベースのフォームを基に、機密情報のカスタム タイプを手早く作成し、トランスポート ルールと DLP ポリシーを定義できます。
     
-- ポリシー ヒントを追加すると、Outlook 2016、Outlook 2013、Outlook on the web、および OWA for Devices ユーザーに通知を表示してデータ損失を減らすのに役立ちます。また、誤検知レポートを許可することでポリシーの有効性を改善することもできます。 
+- ポリシー ヒント を追加します。これは、Outlook 2016、Outlook 2013、Outlook on the web、OWA for Devices ユーザーに通知を表示することでデータ損失を減らすのに役立ちます。また、誤検知レポートを許可することでポリシーの有効性を改善することもできます。 
     
 - インシデント レポートの生成アクションを使用して、DLP レポートでのインシデント データの確認や独自のレポートの追加を行うことができます。
     
@@ -220,4 +220,4 @@ Exchange Online は、SMTP を介してメッセージを受信できる任意�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online[参照してください](exchange-online-service-description.md)。

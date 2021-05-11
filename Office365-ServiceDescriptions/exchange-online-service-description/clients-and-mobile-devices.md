@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online は、Outlook のデスクトップバージョンとモバイル バージョン、および Outlook on the web で動作します。
+description: Exchange Onlineは、デスクトップおよびモバイル バージョンの Outlook、および web Outlookで動作します。
 ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -25,23 +25,23 @@ ms.locfileid: "51653119"
 
 Microsoft Outlook は、予定表、連絡先、タスク、および以下の主な機能をサポートする電子メール プログラムです。
   
-- **MAPI over HTTP** - メッセージング アプリケーション プログラム インターフェイス (MAPI) over HTTP を使用すると、Outlook ユーザーは組織のファイアウォールの外部からインターネットを使用して Exchange Online メールボックスに接続できます。 MAPI over HTTP は、Outlook Anywhere の長期的な置き換えとしてサポートされています。 この接続方法は、接続回復力の向上、より安全なサインイン、拡張性、および IT とサポートの拡張機能を提供します。 詳細については、「 [Office 365 における RPC over HTTP のサポート終了 (2017 年 10 月 31 日) に関する情報](/exchange/troubleshoot/administration/rpc-over-http-end-of-support)」および「[MAPI over HTTP](/exchange/mapi-over-http-exchange-2013-help)」を参照してください。
+- **MAPI over HTTP** - HTTP を使用したメッセージング アプリケーション プログラム インターフェイス (MAPI) を使用すると、Outlook ユーザーは組織のファイアウォールの外部からインターネット上の Exchange Online メールボックスに接続できます。 MAPI over HTTP は、Outlook Anywhere の長期的な置き換えとしてサポートされています。 この接続方法は、接続回復力の向上、より安全なサインイン、拡張性、および IT とサポートの拡張機能を提供します。 詳細については、「 [Office 365 における RPC over HTTP のサポート終了 (2017 年 10 月 31 日) に関する情報](/exchange/troubleshoot/administration/rpc-over-http-end-of-support)」および「[MAPI over HTTP](/exchange/mapi-over-http-exchange-2013-help)」を参照してください。
 
-- **自動検出** - 自動検出サービス機能は、Exchange Online で動作する Outlook を自動的に構成します。 Outlook ユーザーは、電子メール アドレスとパスワードを使って初めて Exchange Online にサインインしたときに、必要なプロファイル設定を受信します。 これらの設定は、ユーザーのプロファイルの作成と管理に必要な情報で Outlook クライアントを自動的に更新します。 自動検出サービスを使用するには SSL 証明書が必要です。 この SSL 証明書は、単一のプライマリ SSL ドメインに限定されます。 
+- **自動検出**- 自動検出サービス機能は、自動検出サービスOutlookを自動的に構成Exchange Online。 Outlook ユーザーは、電子メール アドレスとパスワードを使って初めて Exchange Online にサインインしたときに、必要なプロファイル設定を受信します。 これらの設定は、ユーザーのプロファイルの作成と管理に必要な情報で Outlook クライアントを自動的に更新します。 自動検出サービスを使用するには SSL 証明書が必要です。 この SSL 証明書は、単一のプライマリ SSL ドメインに限定されます。 
 
-- **Exchange キャッシュ モード** - Exchange キャッシュ モード機能を使用すると、Outlook ユーザーはインターネットに接続されていないときに Exchange Online メールボックスのローカル コピーにアクセスできます。 Exchange キャッシュ モードは、Outlook でユーザーの Exchange メールボックスのクライアント側コピーを保持し、このコピーを電子メール サーバーと自動的に同期します。 Exchange キャッシュ モードで Outlook を使用することをお勧めします。オフライン アクセスを提供し、クライアントとサーバー間のネットワーク状態が理想的ではない場合でも、応答性の高いユーザー エクスペリエンスを提供するのに役立ちます。 
+- **キャッシュ** Exchange モード - キャッシュされた Exchange モード機能を使用すると、Outlook ユーザーがインターネットに接続されていないときに、Exchange Online メールボックスのローカル コピーにアクセスできます。 キャッシュ Exchange モードは、ユーザーの Exchange メールボックスのクライアント側のコピーを Outlook に保持し、このコピーを電子メール サーバーと自動的に同期します。 クライアントとサーバー間のネットワーク状態が理想的ではない場合でも、オフライン アクセスを提供し、応答性の高いユーザー エクスペリエンスを提供するのに役立つため、キャッシュ Exchange モードで Outlook を使用することをお勧めします。 
 
 既定では、すべてのユーザーが Outlook からアクセスできます。管理者は Windows PowerShell を使って特定のユーザーまたはグループのアクセスを無効にできます。Exchange Online へのアクセスには、最新の Service Pack をインストールした最新バージョンの Outlook を使用してください。 
   
-Exchange 2016 および Exchange Online でサポートされている Outlook クライアントの詳細については、「System [Requirements for](https://products.office.com/office-system-requirements)exchange 2016」を参照Office。 
+2016 および Outlook 2016 および Exchange でサポートされているクライアントのExchange Onlineについては、「System [Requirements for Office」を参照してください](https://products.office.com/office-system-requirements)。 
 
-Microsoft 365 は、最新のブラウザーとバージョンのブラウザーを使用するように設計Office。 以前のブラウザーとバージョンのブラウザーを使用している場合Officeメインストリーム サポートに含めなかった場合は、次のコマンドを実行します。
+Microsoft 365は、最新のブラウザーとバージョンのブラウザーで動作するように設計Office。 以前のブラウザーとバージョンのブラウザーを使用している場合Officeメインストリーム サポートに含めなかった場合は、次のコマンドを実行します。
 
 - Microsoft は意図的にサービスへの接続を妨げるのではなく、時間の流れによってエクスペリエンスの品質が低下する可能性があります。
 - Microsoft は、セキュリティ以外の問題を解決するためのソフトウェア更新プログラムを提供しない。
 
 > [!IMPORTANT]
-> Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft 365 Apps for enterprise (Microsoft Outlook を含む) は、一部のプランに含まれており、個別のサブスクリプションとして購入できます。 POP を使用して Exchange Online の電子メール アカウントに接続する場合、次の制限事項が表示されます。
+> Outlook は、Exchange Online サブスクリプションの価格には含まれません。 Microsoft 365 Apps for enterprise (Microsoft Outlook を含む) は一部のプランに含まれており、個別のサブスクリプションとして購入できます。 POP を使用して Exchange Online の電子メール アカウントに接続する場合、次の制限事項が表示されます。
 > - 予定表情報がない
 >- 空き時間情報がない
 >- グローバル アドレス一覧がない
@@ -54,11 +54,11 @@ Outlook on the web は、Exchange Online と連携する Web ベースの Outloo
   
 Outlook on the web のクライアントには 2 つのバージョンがあり、どちらも Exchange Online とともに利用できます。
   
-- **Outlook on the web** - 標準バージョンの Outlook on the web は、Exchange Online ユーザーに Outlook ユーザーと最も似たメッセージング エクスペリエンスを提供します。 これは、ほとんどの新しい Web ブラウザーをサポートし、タブレットやスマートフォン、デスクトップ、ラップトップでの使用に最適化されています。 ユーザーは、メッセージの読み取りおよび送信、連絡先の整理、予定と会議のスケジュールを設定できます。 既定のアクティビティ ベースのタイム アウトは 6 時間に設定されますが[](/powershell/module/exchange/set-organizationconfig)、管理者は 5 分から 8 時間Windows PowerShellで構成できます。 このタイム アウトは、ボタンの選択やメッセージの選択など、Web アプリ内でのユーザー操作によって異なります。 セキュリティ駆動型の個別のタイム アウトも用意されています。これは構成可能ではなく、ユーザーのアクティビティに関係なく発生します。 ユーザーが 8 時間ログインしている場合、OWA は自動的にユーザーをログアウトし、再認証を要求します。 
+- **Outlook -** web 上の Outlook の標準バージョンは、Exchange Online ユーザーに、Outlook ユーザーのメッセージング エクスペリエンスを提供します。 これは、ほとんどの新しい Web ブラウザーをサポートし、タブレットやスマートフォン、デスクトップ、ラップトップでの使用に最適化されています。 ユーザーは、メッセージの読み取りおよび送信、連絡先の整理、予定と会議のスケジュールを設定できます。 既定のアクティビティ ベースのタイム アウトは 6 時間に設定されますが、管理者は 5 分[から](/powershell/module/exchange/set-organizationconfig)8 時間Windows PowerShellで構成できます。 このタイム アウトは、ボタンの選択やメッセージの選択など、Web アプリ内でのユーザー操作によって異なります。 セキュリティ駆動型の個別のタイム アウトも用意されています。これは構成可能ではなく、ユーザーのアクティビティに関係なく発生します。 ユーザーが 8 時間ログインしている場合、OWA は自動的にユーザーをログアウトし、再認証を要求します。 
 
-- **Outlook on the web の** 軽量バージョン - Web 上の Outlook の軽量バージョンは、ほぼすべての Web ブラウザーを使用して Exchange Online ユーザーがメールボックスにアクセスできます。 ユーザーは、メッセージの読み取りおよび送信、連絡先の整理、予定と会議のスケジュールを設定できます。 既定のアクティビティ ベースのタイム アウトは 6 時間に設定されますが[](/powershell/module/exchange/set-organizationconfig)、管理者は 5 分から 8 時間Windows PowerShellで構成できます。 このタイム アウトは、ボタンの選択やメッセージの選択など、Web アプリ内でのユーザー操作によって異なります。 セキュリティ駆動型の個別のタイム アウトも用意されています。これは構成可能ではなく、ユーザーのアクティビティに関係なく発生します。 ユーザーが 8 時間ログインしている場合、ライト バージョンの OWA は自動的にユーザーをログアウトし、再認証を求めるメッセージを表示します。 
+- **web 上の** Outlook のライト バージョン - web 上の Outlook のライト バージョンは、Exchange Online ユーザーがほとんどすべての Web ブラウザーを使用してメールボックスにアクセスできます。 ユーザーは、メッセージの読み取りおよび送信、連絡先の整理、予定と会議のスケジュールを設定できます。 既定のアクティビティ ベースのタイム アウトは 6 時間に設定されますが、管理者は 5 分[から](/powershell/module/exchange/set-organizationconfig)8 時間Windows PowerShellで構成できます。 このタイム アウトは、ボタンの選択やメッセージの選択など、Web アプリ内でのユーザー操作によって異なります。 セキュリティ駆動型の個別のタイム アウトも用意されています。これは構成可能ではなく、ユーザーのアクティビティに関係なく発生します。 ユーザーが 8 時間ログインしている場合、ライト バージョンの OWA は自動的にユーザーをログアウトし、再認証を求めるメッセージを表示します。 
 
-Outlook on the web は、モバイル バージョンでも利用可能です。 詳細については、「[このページ](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)」をご覧ください。
+Outlook on the web は、モバイル バージョンでも利用可能です。詳細については、「[このページ](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)」をご覧ください。
   
 ## <a name="outlook-for-mac"></a>Outlook for Mac
 
@@ -78,9 +78,9 @@ Exchange Online は、iOS、Android、および Windows Phone で使用可能な
   
 ### <a name="feature-availability"></a>機能の可用性
 
-Outlook を使用すると、最新のモバイル アプリに期待される高速で直感的な電子メールと予定表のエクスペリエンスがユーザーに提供され、最高の機能をサポートする唯一のアプリになります。 これは、Microsoft の完全なエクスペリエンスをサポートするように特別に設計された唯一の電子メール アプリで、デスクトップからモバイルまで一貫したエクスペリエンスをユーザーに提供します。 Outlook は Intune、エンタープライズ モビリティとセキュリティ、および Exchange コントロールと統合され、データとユーザーの安全を確保します。
+Outlookユーザーは、最新のモバイル アプリに期待される、迅速で直感的なメールと予定表のエクスペリエンスを提供し、最高の機能のサポートを提供する唯一のアプリです。 これは、Microsoft の完全なエクスペリエンスをサポートするように特別に設計された唯一の電子メール アプリで、デスクトップからモバイルまで一貫したエクスペリエンスをユーザーに提供します。 Outlook は Intune、エンタープライズ モビリティとセキュリティ、および Exchange コントロールと統合され、データとユーザーの安全を確保します。
   
-Outlook を使用すると、ユーザーは次の機能を使用できます。
+このOutlook、ユーザーは次の機能を使用できます。
   
 - 全日をモバイル デバイスから管理できます。
 
@@ -171,4 +171,4 @@ POP3 および IMAP4 接続の詳細については、「[Exchange Server 2013 �
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online[参照してください](exchange-online-service-description.md)。

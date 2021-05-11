@@ -29,11 +29,11 @@ Yammer では次のメッセージおよび会話機能を使用できます。
 
 ## <a name="events"></a>イベント
 
-会議やイベントを整理し、同僚と共有し、出席を追跡します。 イベントは、Outlook、Google、Yahoo!、および iCal カレンダーに追加できます。
+会議やイベントを整理し、同僚と共有し、出席を追跡します。 イベントは、Outlook Google、Yahoo!、および iCal カレンダーに追加できます。
   
 ## <a name="office-for-the-web-support"></a>Officeサポートの詳細
 
-Yammer の web サポート用のOffice を使用すると、Yammer にアップロードされたドキュメントを、Office で直接 web 用の Office で表示および編集Yammer。 これにより、ドキュメントを web 用の Office で美しくレンダリングし、異なるユーザーによる共同編集を同時に可能にし、関連する Yammer 会話をブラウザーに表示できます。
+Yammer の web サポート用のOfficeを使用すると、Yammer にアップロードされたドキュメントを web 用の Office で直接表示および編集Yammer。 これにより、ドキュメントを web 用の Office で美しくレンダリングし、異なるユーザーによる共同編集を同時に可能にし、関連する Yammer 会話をブラウザーに表示できます。
 
 ## <a name="online-now"></a>今すぐオンライン
 
@@ -45,9 +45,9 @@ Yammer の web サポート用のOffice を使用すると、Yammer にアップ
   
 ## <a name="private-messages"></a>プライベート メッセージ
 
-1 人以上の同僚とプライベートな対話を開始します。 いつでも参加者を追加できます。
+1 人以上の同僚とプライベートな対話を開始します。いつでも参加者を追加できます。
 
-## <a name="publisher"></a>Publisher
+## <a name="publisher"></a>発行者
 
 発行元を使用して、更新プログラムの共有、ドキュメントの追加、ポーリングの投稿、他のユーザーの称賛、イベントの投稿を行います。
     
@@ -57,5 +57,5 @@ Yammer の web サポート用のOffice を使用すると、Yammer にアップ
   
 ## <a name="feature-availability"></a>機能の可用性
 
-機能の可用性プラン、スタンドアロン オプション、およびオンプレミス ソリューションを表示するには、「サービスの説明Yammer [参照してください](yammer-service-description.md)。
+機能の可用性プラン、スタンドアロン オプション、およびオンプレミス ソリューションを表示するには、「サービスの説明Yammer[参照してください](yammer-service-description.md)。
   

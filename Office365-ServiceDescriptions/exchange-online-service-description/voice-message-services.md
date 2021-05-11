@@ -46,7 +46,7 @@ Exchange Online で使用可能な音声メッセージング サービス機能
     
 - 通話応答ルール (詳細については、「 [ボイス メール ユーザーによる通話の転送を許可する」を](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) 参照)。
     
-- Exchange Online で保護されたボイス メール (詳細については [、「Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) でボイス メールを保護する」を参照してください)。
+- メッセージ内の保護されたボイス Exchange Online (詳細については、「[音声メールを保護する」Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)を参照してください)。
     
 - ボイス メール プレビュー (サポートされている言語の [一覧については](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) 、「ユーザーにボイス メールトランスクリプトの表示を許可する」を参照してください)。
     
@@ -56,16 +56,16 @@ Exchange Online で使用可能な音声メッセージング サービス機能
     
 - 管理者は Exchange 管理センター (EAC) を使用して、音声メッセージング サービスの相互運用性を構成して管理できます。
     
-ボイス メール機能の詳細については [、「Exchange Online のボイス メール」を参照してください](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)。
+ボイス メール機能の詳細については、「ボイス メール」[を参照Exchange Online。](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
   
 > [!IMPORTANT]
 > 自動音声認識 (ASR) 機能は、音声コマンドを使用したメニュー ナビゲーションまたは Outlook Voice Access ユーザーや自動応答の発信者のディレクトリ検索では使用できません。 
 >
-> 顧客は、VoIP ゲートウェイと PBX、IP PBX、または Skype for Business Server 2015 を使用して、公衆交換電話網 (PSTN) からのテレフォニー接続を提供する必要があります。 
+> お客様は、VoIP ゲートウェイと PBX、IP PBX、または 2015 年 2015 年を使用して公衆交換電話網 (PSTN) からテレフォニー Skype for Business Server必要があります。 
 >
 > カスタマーは、社内 SBC ハードウェア デバイスを用意し、オンライン ボイス メール サービスに接続するように SBC を構成する必要があります。これには、証明書とパブリックおよびプライベート IP インターフェイスを使用し、社内ファイアウォール経由による正しい TCP ポートを有効にすることによる、適切なレベルのセキュリティを構成することが含まれます。 
 >
-> ホストされたボイス メールは、Exchange Online プラン 2 および 365 Enterprise E3 サブスクライバー Officeでのみ使用できます。 
+> ホストされたボイス メールは、プラン 2 Exchange Online E3 サブスクライバー Office 365 Enterprise使用できます。 
   
 ## <a name="third-party-voice-mail-interoperability"></a>サードパーティ ボイス メールの相互運用性
 
@@ -76,8 +76,8 @@ Exchange Online で使用可能な音声メッセージング サービス機能
   
 ## <a name="skype-for-business-integration"></a>Skype for Business 統合
 
-スタンドアロン サービスとして、または Microsoft Office 365 の一部として、Skype for Business Online を購入することができます。 オンプレミスの Skype for Business 2015 もサポートされます。 Skype for Business Online の詳細については、「Skype for Business Online サービスの説明 [」を参照してください](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
+スタンドアロン サービスとして、または Microsoft Office 365 の一部として、Skype for Business Online を購入することができます。 オンプレミスの Skype for Business 2015 もサポートされます。 オンライン の詳細については、「Skype for Business サービスの[Skype for Business」を参照してください](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online[参照してください](exchange-online-service-description.md)。

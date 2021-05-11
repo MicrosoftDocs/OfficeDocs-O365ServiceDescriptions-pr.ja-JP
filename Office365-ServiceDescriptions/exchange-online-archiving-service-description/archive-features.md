@@ -1,5 +1,5 @@
 ---
-title: アーカイブ機能をExchange Online Archiving
+title: アーカイブ機能のExchange Online Archiving
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -21,18 +21,18 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653099"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>アーカイブ機能をExchange Online Archiving
+# <a name="archive-features-in-exchange-online-archiving"></a>アーカイブ機能のExchange Online Archiving
 
 以下のセクションでは、アーカイブのアーカイブ機能Microsoft Exchange Onlineします。
   
 ## <a name="archive-mailbox"></a>アーカイブ メールボックス
 
-Exchange Online Archiving は、アーカイブ メールボックス機能を使用した高度なアーカイブ機能をユーザーに提供します。 アーカイブ メールボックスは、Outlook または Outlook on the web のユーザーのプライマリ メールボックス フォルダーと一緒に表示される特殊なメールボックスです。 ユーザーは、プライマリ メールボックスと同じ方法でアーカイブにアクセスできます。 加えて、アーカイブとプライマリ メールボックスの両方を検索することができます。
+Exchange Online Archiving は、アーカイブ メールボックス機能を使用した高度なアーカイブ機能をユーザーに提供します。 アーカイブ メールボックスは、Web 上のユーザーのプライマリ メールボックス フォルダーと一緒にOutlookまたはOutlookメールボックスです。 ユーザーは、プライマリ メールボックスと同じ方法でアーカイブにアクセスできます。 加えて、アーカイブとプライマリ メールボックスの両方を検索することができます。
   
 管理者は、Exchange 管理センター (EAC) またはリモート Windows PowerShell を使用して特定のユーザーのアーカイブ機能を有効にすることができます。詳細については、「[Exchange Online のアーカイブ メールボックスを有効または無効にする](/office365/securitycompliance/enable-archive-mailboxes)」を参照してください。
   
 > [!IMPORTANT]
->  アーカイブの目的で、ジャーナリング、トランスポート ルール、または自動転送ルールを使用して Exchange Online Archiving にメッセージをコピーすることは許可されていません。 <br/>
+>  アーカイブの目的で、ジャーナリング、トランスポート ルール、または自動転送ルールを使用して Exchange Online Archiving にメッセージをコピーすることは許可されていません。<br/>
 >  ユーザーのアーカイブ メールボックスは、そのユーザー専用です。 Microsoft は、ユーザーのアーカイブ メールボックスを使用して他のユーザーのアーカイブ データを格納する、またはその他の不適切な使用の場合には、インスタンスに無制限アーカイブを拒否する権利を有します。
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving へのメッセージの移動
@@ -58,12 +58,12 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
 
 ユーザーは、アーカイブ内の任意の電子メール フォルダーから削除されたアイテムを復元できます。削除されたアイテムは、アーカイブの [削除済みアイテム] フォルダーに移動されます。このアイテムは、ユーザーが手動で削除するか、保持ポリシーによって自動的に削除されるまで、[削除済みアイテム] フォルダーに残ります。
   
-アーカイブの [削除済みアイテム] フォルダーからアイテムが削除されると、さらに 14 日間アーカイブの回復可能なアイテム フォルダー内に保存されてから、完全に削除されます。 ユーザーは、Microsoft Outlookまたは Outlook on the web の [削除済みアイテムの回復] 機能を使用して、これらのアイテムを回復できます。 
+アーカイブの [削除済みアイテム] フォルダーからアイテムが削除されると、さらに 14 日間アーカイブの回復可能なアイテム フォルダー内に保存されてから、完全に削除されます。 ユーザーは、Microsoft の[削除済みアイテムの回復] 機能を使用して、OutlookまたはOutlookを回復できます。 
   
 ユーザーが回復可能なアイテム フォルダーからアイテムを手動で削除した場合、管理者は単一アイテムの回復と呼ばれる機能を使って同じ 14 日間の期間内にアイテムを回復できます。管理者は、この機能を使用して、複数のメールボックスを検索して削除されたアイテムを検索してから、 `Search-Mailbox` Windows PowerShell コマンドレットを使用してそれらのアイテムを探索メールボックスからユーザーのメールボックスに移動できます。詳細については、「 [メールボックスの単一アイテムの回復を有効または無効にする](/office365/securitycompliance/use-network-upload-to-import-pst-files)」を参照してください。
   
 > [!NOTE]
->  既定で、単一アイテムの回復期間は 14 日間ですが、一部の環境ではカスタマイズができます。 <br/>
+>  既定で、単一アイテムの回復期間は 14 日間ですが、一部の環境ではカスタマイズができます。<br/>
 >  管理者が In-Place 保留または訴訟ホールドにユーザーのメールボックスを配置した場合、削除されたアイテムは無期限に保持され、14 日間のウィンドウは適用されません。 
   
 ## <a name="deleted-mailbox-recovery"></a>削除済みメールボックスの回復
@@ -75,8 +75,8 @@ Exchange Online Archiving は、アーカイブ メールボックス機能を�
   
 ## <a name="mailbox-service-redundancy"></a>メールボックス サービスの冗長性
 
-Exchange Online Archiving のアーカイブ メールボックスは、地理的に分散した Microsoft データ センター内の複数のデータベース コピーにレプリケートされ、メッセージング インフラストラクチャの障害が発生した場合のデータ復元機能を提供します。 大規模な障害の場合、ビジネス継続性管理が開始されます。 
+Exchange Online Archivingのアーカイブ メールボックスは、地理的に分散した Microsoft データ センター内の複数のデータベース コピーにレプリケートされ、メッセージング インフラストラクチャに障害が発生した場合のデータ復元機能を提供します。 大規模な障害の場合、ビジネス継続性管理が開始されます。 
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online Archiving [参照してください](exchange-online-archiving-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online Archiving[参照してください](exchange-online-archiving-service-description.md)。

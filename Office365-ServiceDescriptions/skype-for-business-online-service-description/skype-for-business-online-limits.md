@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: この記事では、Skype for Business Online で適用される制限について説明します。
+description: この記事では、オンラインで適用される制限Skype for Businessします。
 ms.openlocfilehash: cd21b8b1feb3547c529c4bcdaa73832e2e48e3f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -34,13 +34,13 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 - [分数の制限](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Microsoft 365 組織に適用される制限は、組織がサービスに登録されている期間によって異なる場合があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
+> 組織に適用される制限Microsoft 365、組織がサービスに登録されている期間によって異なる場合があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
   
 ## <a name="peer-to-peer-limits"></a>ピアツーピア制限
 
-- **ファイル転送の制限** - Skype for Business Online IM 会話で転送できるファイルの最大サイズ。 ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
+- **ファイル転送の制限**- オンライン IM 会話で転送できるファイルSkype for Businessサイズです。 ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
     
-- **タブ付き会話の制限を開** く - Skype for Business ユーザーが一度に開くことができる会話タブの最大数。 
+- **タブ付き会話の制限を** 開く - ユーザーが一度Skype for Business開くことができる会話タブの最大数。 
     
 ### <a name="peer-to-peer-limits"></a>ピアツーピア制限 
 
@@ -55,7 +55,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>スタンドアロンの各オプションでのピアツーピア制限
 
-| 機能 | Skype for Business Server 2015 | Skype for Business Online スタンドアロン プラン &nbsp; 1 | Skype for Business Online スタンドアロン プラン &nbsp; 2 |
+| 機能 | Skype for Business Server 2015 | Skype for Businessオンライン スタンドアロン プラン &nbsp; 1 | Skype for Businessオンライン スタンドアロン プラン &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |ファイル転送制限  <br/> |制限なし  <br/> |制限なし  <br/> |制限なし  <br/> |
 |会話数の制限<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
@@ -66,15 +66,15 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 ## <a name="meeting-limits"></a>会議の制限
 
-- **ファイルのアップロードの** 制限 - Skype for Business 会議にアップロードできるファイルの最大サイズ (資料や PowerPoint プレゼンテーションなど)。 
+- **ファイルのアップロードの** 制限 - 資料やプレゼンテーションを含む、Skype for Business会議にアップロードできるファイルPowerPointサイズ。 
     
-- **Skype for Business** 会議の参加者 - 1 つの Skype for Business 会議に参加できる参加者の最大数 (発表者を含む)。 
+- **会議の参加者** Skype for Business - 1 つの会議に参加できる参加者の最大数 (発表者を含む) Skype for Businessします。 
     
-- **Skype for Business 会議の発表者** - 1 つの Skype for Business 会議の発表者の最大数。 
+- **会議の発表** 者 - Skype for Business会議の発表者の最大数Skype for Businessします。 
     
-- **Skype for Business Web App 会議参加者** - 会議に参加できる Skype for Business Web アプリ会議参加者の最大数。 
+- **Skype for Business Web アプリ会議** 参加者 - 会議に参加できる web アプリSkype for Businessの参加者の最大数。 
     
-- **Skype for Business Web アプリの匿名参加者** - 匿名で会議に参加できる Skype for Business Web アプリ会議参加者の最大数。 
+- **Skype for Business Web アプリ** の匿名参加者 - 匿名で会議に参加Skype for Business Web アプリ会議参加者の最大数。 
     
 - **電話で参加するゲスト** - 会議に呼び出し可能なゲストの最大数。 
     
@@ -95,7 +95,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 ### <a name="meeting-limits-across-standalone-options"></a>スタンドアロンの各オプションでの会議の制限
 
-| 機能 | Skype for Business Server 2015 | Skype for Business Online スタンドアロン プラン &nbsp; 1 | Skype for Business Online スタンドアロン プラン &nbsp; 2 |
+| 機能 | Skype for Business Server 2015 | Skype for Businessオンライン スタンドアロン プラン &nbsp; 1 | Skype for Businessオンライン スタンドアロン プラン &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |ファイルのアップロード制限  <br/> |500 MB  <br/> |該当しない  <br/> |500 MB  <br/> |
 |Skype for Business 会議の参加者数  <br/> |250  <br/> |該当なし  <br/> |250  <br/> |
@@ -107,7 +107,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
    
 ## <a name="meeting-retention-limits"></a>会議の保存期限
 
-- **会議コンテンツの保持期間** - 最後のユーザーが会議を終了してから、アップロードされた会議コンテンツが Skype for Business で保持された後で完全に削除された時間。 
+- **会議コンテンツの保持期間**- 最後のユーザーが会議を終了してから、アップロードされた会議コンテンツが完全に削除される前に Skype for Business に保持される時間。 
     
 - **会議の有効期限** - ユーザーが会議にアクセスできる会議が終了した後の時間。 
     

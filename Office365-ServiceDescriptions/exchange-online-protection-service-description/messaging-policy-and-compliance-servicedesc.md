@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection のメッセージング ポリシーとコンプライアンス
+title: メッセージング ポリシーとコンプライアンスのExchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653349"
 ---
-# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection のメッセージング ポリシーとコンプライアンス
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>メッセージング ポリシーとコンプライアンスのExchange Online Protection
 
 Microsoft Exchange Online保護 (EOP) には、メール データの管理に役立つメッセージング ポリシーとコンプライアンス機能が提供されます。
 
-すべての EOP 機能に関する情報をお探しですか? Exchange [Online Protection サービスの説明を参照してください](exchange-online-protection-service-description.md)。
+すべての EOP 機能に関する情報をお探しですか? サービスのExchange Online Protection[を参照してください](exchange-online-protection-service-description.md)。
 
 ## <a name="mail-flow-rules"></a>メール フロー ルール
 
-メール フロー ルール (トランスポート ルールとも呼ばれる) を使用すると、独自の会社固有のポリシーを電子メールに柔軟に適用できます。 メール フロー ルールは柔軟な条件で構成され、条件、例外、および条件に基づいて実行するアクションを定義できます。 詳細については [、「Exchange Online Protection のメール フロー ルール (トランスポート ルール)」を参照してください](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。
+メール フロー ルール (トランスポート ルールとも呼ばれる) を使用すると、独自の会社固有のポリシーを電子メールに柔軟に適用できます。 メール フロー ルールは柔軟な条件で構成され、条件、例外、および条件に基づいて実行するアクションを定義できます。 詳細については、「メール フロー ルール (トランスポート[ルール)」を参照Exchange Online Protection。](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
 
 ## <a name="audit-logging"></a>監査ログ
 
@@ -51,18 +51,18 @@ EAC で DLP ポリシーを構成することにより、次のことが可能�
 
 - ドキュメントのフィンガープリント機能を使って機密性の高いフォーム データを検出できます。 ドキュメント フィンガープリントは、メール フロー ルールと DLP ポリシーの定義に使用できるテキスト ベースのフォームに基づいて、カスタムの機密情報の種類を簡単に作成するのに役立ちます。
 
-- ポリシー ヒントを追加すると、Outlook 2013、Outlook on the Web、および OWA for Devices ユーザーに通知を表示してデータ損失を減らすのに役立ちます。また、誤検知レポートを許可することでポリシーの有効性を改善することもできます。
+- ポリシー ヒント を追加します。これは、Outlook 2013、Outlook on the web、OWA for Devices ユーザーに通知を表示することでデータ損失を減らすのに役立ちます。また、誤検知レポートを許可することでポリシーの有効性を改善することもできます。
 
 - インシデント レポートの生成アクションを使用して、DLP レポートでのインシデント データの確認や独自のレポートの追加を行うことができます。
 
 > [!NOTE]
 > DLP ポリシーは、組織と外部との間で送受信されるメールにのみ適用されます。社内で Exchange Server 2013 と DLP を実行していない場合、組織内 (内部) メールに DLP ポリシーは適用されません。このことは、許可されていない受信者に機密データを誤って送信する前に、潜在的なポリシー違反をユーザーに通知する DLP ポリシー ヒントにも当てはまります。
 
-DLP の詳細については [、「Exchange Online でのデータ損失防止」を参照してください](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
+DLP の詳細については、「データ損失防止[」を参照Exchange Online。](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)
 
 ## <a name="office-365-message-encryption"></a>Office 365 Message Encryption
 
-Office 365 Message Encryption は、Azure Information Protection の一部で、電子メールのユーザーが暗号化された電子メール メッセージを任意のユーザーに送信できるようにするオンライン サービスです。 社内展開の Exchange カスタマーが Office 365 Message Encryption を利用する場合は、Azure Information Protection を購入し、Exchange Online Protection を使って Exchange Online を介したメール フローをセットアップする必要があります。 Exchange Online での 365 Office暗号化の詳細については、「Exchange Online サービスの説明Office [365 Message](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) Encryption」を参照してください。
+Office 365 Message Encryption は、Azure Information Protection の一部で、電子メールのユーザーが暗号化された電子メール メッセージを任意のユーザーに送信できるようにするオンライン サービスです。 社内展開の Exchange カスタマーが Office 365 Message Encryption を利用する場合は、Azure Information Protection を購入し、Exchange Online Protection を使って Exchange Online を介したメール フローをセットアップする必要があります。 詳細については、「Office 365 Message Encryptionサービス[Exchange Online」Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)を参照Exchange Onlineしてください。
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP オプション間のメッセージング ポリシーとコンプライアンス機能
 
@@ -74,7 +74,7 @@ Office 365 Message Encryption は、Azure Information Protection の一部で、
 |Office 365 Message Encryption|はい<sup>4</sup>|はい|はい<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> 使用可能なメール フロー ルールの条件、例外、およびアクションは、EOP と Exchange Online の間で若干異なります。 これらの違いは [、Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) のメール フロー ルールの条件と例外 (述語) および Exchange Online のメール フロー [ルール アクションで説明されています](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 <br/>
-> <sup>2</sup> EOP 監査レポートは、メールボックスに関する情報を除いた Exchange Online 監査レポートの一部です。 <br/>
-> <sup>3</sup> サービス付き Exchange Enterprise CAL のお客様は、DLP ポリシー ヒントを利用できません。 <br/>
-> <sup>4</sup>Azure Information Protection アドオンを購入し、Exchange Online Protection を使用して Exchange Online 経由で電子メールをルーティングしているオンプレミスのお客様のためにサポートされています。 デスクトップ エクスペリエンスでは、Azure Information Protection アドオンに加えて、Microsoft 365 Apps for enterprise を購入する必要があります。 <br/>
+> <sup>1</sup>使用可能なメール フロー ルールの条件、例外、およびアクションは、EOP とメール フローの間で若干異Exchange Online。 これらの違いは、メール フロー ルールの条件と例外 (述語[)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)の Exchange Online および メール フロー ルール アクションで[Exchange Online。](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) <br/>
+> <sup>2</sup> EOP 監査レポートは、メールボックスに関する情報を除いた Exchange Online 監査レポートの一部です。<br/>
+> <sup>3</sup> サービス付き Exchange Enterprise CAL のお客様は、DLP ポリシー ヒントを利用できません。<br/>
+> <sup>4</sup>Azure Information Protection アドオンを購入し、Exchange Online Protection を使用して Exchange Online 経由で電子メールをルーティングしているオンプレミスのお客様のためにサポートされています。 デスクトップ エクスペリエンスでは、Azure Information Protection アドオンに加えて、Microsoft 365 Apps for enterprise必要があります。 <br/>

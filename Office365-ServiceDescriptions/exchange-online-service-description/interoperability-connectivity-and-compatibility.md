@@ -28,7 +28,7 @@ ms.locfileid: "51652721"
   
 内部設置型の Lync Server 2010 と Lync Server 2013 は、次の 2 つの方法でも Exchange Online と相互運用できます。
   
-- Outlook on the web での IM とプレゼンスの相互運用性
+- IM とプレゼンスの相互運用性 (Outlook上での互換性)
     
 - ボイス メールの相互運用性
     
@@ -36,7 +36,7 @@ Exchange Online を使用するように Skype for Business Server 2015 を設�
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-サブスクリプション プランの一部として Microsoft SharePoint Server または SharePoint Online を展開したお客様の場合、SharePoint は統合サービス用に Exchange Online に接続できます。
+サブスクリプション プランの一部として Microsoft SharePoint Server または SharePoint Online を展開したお客様の場合、SharePoint は統合サービスExchange Onlineに接続できます。
   
 SharePoint を Exchange Online に接続する方法の詳細については、「[他の Office 365 サービスを設定している場合に、カスタム ドメイン名を使用して Office 365 の一般向け Web サイトの名前を変更する](https://go.microsoft.com/fwlink/?LinkId=271805)」を参照してください。
   
@@ -58,4 +58,4 @@ Exchange Online は、ファックス ゲートウェイ、ネットワーク �
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online[参照してください](exchange-online-service-description.md)。

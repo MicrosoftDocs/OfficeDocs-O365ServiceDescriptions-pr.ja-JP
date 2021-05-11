@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel、OneNote、および PowerPoint ドキュメントを開きます。 Officeを使用すると、ほとんどすべてのデバイスから、インターネット接続Officeファイルを簡単に使用して共有できます。 Word、Excel、OneNote、または PowerPoint を使用している Microsoft 365 のお客様は、移動中にファイルを表示、作成、および編集できます。
+description: Office (以前は Web アプリ) のOfficeは、Web ブラウザーで Word、Excel、OneNote、PowerPoint ドキュメントを開きます。 Officeを使用すると、ほとんどすべてのデバイスから、インターネット接続Officeファイルを簡単に使用して共有できます。 Microsoft 365、Word、Excel、OneNote、PowerPointユーザーは、移動中にファイルを表示、作成、および編集できます。
 ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,21 +21,21 @@ ms.locfileid: "51652371"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
-Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel、OneNote、および PowerPoint ドキュメントを開きます。 Officeを使用すると、ほとんどすべてのデバイスから、インターネット接続Officeファイルを簡単に使用して共有できます。 Word、Excel、OneNote、または PowerPoint を使用している Microsoft 365 のお客様は、移動中にファイルを表示、作成、および編集できます。 
+Office (以前は Web アプリ) のOfficeは、Web ブラウザーで Word、Excel、OneNote、PowerPoint ドキュメントを開きます。 Officeを使用すると、ほとんどすべてのデバイスから、インターネット接続Officeファイルを簡単に使用して共有できます。 Microsoft 365、Word、Excel、OneNote、PowerPointユーザーは、移動中にファイルを表示、作成、および編集できます。 
   
 ## <a name="available-plans"></a>使用できるプラン
 
-ユーザーが Web 用にユーザーを有効にするサブスクリプションのOffice詳細については、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+ユーザーが Web 用にユーザーを有効にするサブスクリプションのOffice詳細については、完全なサブスクリプション比較表[を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Web プランのOffice機能の可用性
 
-組織に最適なソリューションOffice見分ける方法について説明する必要がありますか? 次の表は、Office機能の機能と機能豊富なデスクトップ アプリMicrosoft Office比較します。 表を使用して、web の Office で使用できる機能を確認し、その機能の動作に関する簡単な説明を読むには、機能名を選択します。 組織内の一部のユーザーは Excel デスクトップ アプリの高度なグラフ作成機能を必要としますが、他のユーザーは Web 用の Office を使用して Word ドキュメントと PowerPoint プレゼンテーションを表示および軽く編集する必要がある場合があります。 
+組織に最適なソリューションOffice見分ける方法について説明する必要がありますか? 次の表は、Office機能の機能と機能豊富なデスクトップ アプリMicrosoft Office比較します。 表を使用して、web の Office で使用できる機能を確認し、その機能の動作に関する簡単な説明を読むには、機能名を選択します。 組織内の一部のユーザーは Excel デスクトップ アプリの高度なグラフ作成機能を必要としますが、他のユーザーは Web 用に Office を使用して Word ドキュメントと PowerPoint プレゼンテーションを表示および軽く編集する必要がある場合があります。 
   
 > [!NOTE]
->  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Microsoft 365 Apps for enterprise は、最新のデスクトップ スイートOfficeサブスクリプションです。 <br/>  Microsoft Office Online Server オンプレミスのお客様は、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise ライセンスなど) を購入した場合、web 編集ライセンスの Office を取得します。 
+>  Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。この表は、Microsoft Office の機能の包括的なリストではありません。<br/>  Microsoft Microsoft 365 Apps for enterpriseは、最新のデスクトップ スイートのOfficeプランです。 <br/>  Microsoft Officeオンライン サーバーのオンプレミスユーザーは、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise ライセンスなど) を購入した場合、web 編集ライセンスの Office を取得します。 
   
 > [!NOTE]
-> Outlook の電子メール添付ファイルまたは SharePoint ドキュメント ライブラリから Office ドキュメントを開く場合、ドキュメントは web の Office で起動し、読み取り専用です。 Web のドキュメントを編集Office (編集モード) するには、365 Enterprise E1 などのスイート ライセンスOffice必要です。 デスクトップ アプリでドキュメントを編集するには、microsoft 365 Apps for enterprise サブスクリプションやインストールされているバージョンの Office Professional Plus 2010 など、Office デスクトップ スイート ライセンスが必要です。 
+> Office ドキュメントを Outlook メール添付ファイルまたは SharePoint ドキュメント ライブラリから開く場合、ドキュメントは web 用の Office で起動し、読み取り専用です。 Web 用にドキュメントOffice編集するには(編集モード)、E1 などのスイート ライセンスOffice 365 Enterprise必要です。 デスクトップ アプリでドキュメントを編集するには、Office サブスクリプションやインストールされているバージョンの Microsoft 365 Apps for enterprise 2010 など、Office Professional Plus デスクトップ スイート ライセンスが必要です。 
   
 ### <a name="word"></a>Word
 
@@ -109,8 +109,8 @@ Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel
 |[拡大/縮小](word-online.md#zoom) <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> これらのレンダリングはビューアーで行いますが、Web 用にOffice編集することはできません。 <br/>
-> <sup>2</sup> 一部の Office アドインを利用できます。 <br/>
+> <sup>1</sup>これらのレンダリングはビューアーで行いますが、Web 用にOffice編集することはできません。 <br/>
+> <sup>2</sup> 一部の Office アドインを利用できます。<br/>
   
 ### <a name="excel"></a>Excel
 
@@ -191,10 +191,10 @@ Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel
 
 > [!NOTE] 
 > <sup>1</sup> PivotCharts を作成できません。表示のみ可能です。
- <br/><sup>2</sup> 環境の構成方法に応じて、Excel for the Web に表示されるブックでは、一部の種類のデータ接続がサポートされます。 詳細については、「ブラウザー ウィンドウでブック内のデータを更新する」を参照してください。 
- <br/><sup>3</sup> Excel for the web では VBA を使用してマクロを作成または実行することはできませんが、ファイルに含まれる VBA を削除 (または破損) することなく、VBA 対応のスプレッドシートを開いて編集できます。
- <br/><sup>4</sup> Web の Excel では、ブラウザー ウィンドウに最後の既知の参照値が表示されます。ただし、Excel デスクトップ アプリを使用して更新する必要があります。 
- <br/><sup>5</sup> 一部のアドインを使用Office、すべてではありません。 
+ <br/><sup>2</sup>環境の構成方法に応じて、Web 用のブックに表示されるブックに対して、Excelのデータ接続がサポートされます。 詳細については、「ブラウザー ウィンドウでブック内のデータを更新する」を参照してください。 
+ <br/><sup>3</sup> Excel で web 用の VBA を使用してマクロを作成または実行することはできませんが、ファイルに含まれる VBA を削除 (または破損) することなく、VBA 対応のスプレッドシートを開いて編集できます。
+ <br/><sup>4</sup> Web Excelでは、ブラウザー ウィンドウに最後の既知の参照値が表示されます。ただし、デスクトップ アプリを使用して更新Excel必要があります。 
+ <br/><sup>5</sup>一部のアドインを使用Office、すべてではありません。 
   
 ### <a name="onenote"></a>OneNote
 
@@ -239,7 +239,7 @@ Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel
 |[以前のバージョンのページの表示](onenote-online.md#view-previous-page-versions) <br/> |はい  <br/> |はい  <br/> |
 
 > [!NOTE]
-> <sup>1</sup> OneNote for the web では、ノートブック内でセクションを移動し、ページをコピーして別のセクションに貼り付けます。 
+> <sup>1</sup> Web OneNoteでは、ノートブック内でセクションを移動し、ページをコピーして別のセクションに貼り付けます。 
  <br/> <sup>2</sup> 一部の Office アドインを利用できます。 
  <br/><sup>3</sup> ページまたはセクションで検索できますが、(デスクトップ バージョンでは可能な) ノートブック全体または複数のノートブックの検索は行えません。
  <br/><sup>4</sup> デスクトップ バージョンでは、[ダウンロード] オプションはありませんが、[名前を付けて保存] を使用して別の場所に保存できます。 
@@ -293,10 +293,10 @@ Office (以前は Web アプリOffice) は、Web ブラウザーで Word、Excel
 |[WYSIWYG 表示](powerpoint-online.md#wysiwyg-viewing) <br/> |はい  <br/> |はい  <br/> |
 
 > [!NOTE]
-><sup>1</sup> PowerPoint for the web では、8 つの切り替えと 37 のアニメーションのギャラリーがサポートされています。 選択の幅を広げる場合、またはカスタム アニメーションを作成する場合は、PowerPoint デスクトップ アプリを使用します。 
+><sup>1</sup> PowerPoint Web では、8 つの切り替えと 37 個のアニメーションのギャラリーがサポートされています。 選択の幅を広げる場合、またはカスタム アニメーションを作成する場合は、PowerPoint デスクトップ アプリを使用します。 
  <br/>
-<sup>2</sup> 使用しているデバイスが、インクをサポートする必要があります。 <br/> 
-<sup>3</sup> 一部のアドインを使用Office、すべてではありません。 <br/>
+<sup>2</sup> 使用しているデバイスが、インクをサポートする必要があります。<br/> 
+<sup>3</sup>一部のアドインを使用Office、すべてではありません。 <br/>
 <sup>4</sup> ピボットグラフまたはピボットテーブルは作成できませんが、ビューアーに表示することはできます。 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Web でサポートされているOfficeファイルの種類

@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 Office 365 の教育プランの違いを探している場合は、それぞれの機能が含まれているかについて説明します。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートと、Microsoft Exchange Online、Microsoft SharePoint Online、Office for the &mdash; web、Microsoft Skype for Business Online などの Microsoft の次世代コミュニケーションおよびコラボレーション サービスのクラウドベースのバージョンを組み合わせ、ユーザーがインターネットを通じて事実上どこからでも生産性を向上させることができます。 &mdash;
+description: Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 教育プランの違いを探している場合Office 365記事では、それぞれの機能に含まれている機能を示します。 Office 365 では、Microsoft Office デスクトップ スイートと、クラウド ベースのバージョンの Microsoft の次世代コミュニケーションおよびコラボレーション サービス &mdash; (Microsoft Exchange Online、Microsoft Office SharePoint Online、Office for the web、Microsoft Skype for Business Online など) を組み合わせ、ユーザーがインターネットを通じて事実上どこからでも生産性を上げることができます。 &mdash;
 ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,15 +19,15 @@ ms.locfileid: "51653219"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 Office 365 の教育プランの違いを探している場合は、それぞれの機能が含まれているかについて説明します。 Office 365 は、使い慣れた Microsoft Office デスクトップ スイートと、Microsoft Exchange Online、Microsoft SharePoint Online、Office for the &mdash; web、Microsoft Skype for Business Online などの Microsoft の次世代コミュニケーションおよびコラボレーション サービスのクラウドベースのバージョンを組み合わせ、ユーザーがインターネットを通じて事実上どこからでも生産性を向上させることができます。 &mdash;
+Microsoft Office 365 では、組織のニーズを満たすのに最適なさまざまなプランが用意されています。 教育プランの違いを探している場合Office 365記事では、それぞれの機能に含まれている機能を示します。 Office 365 では、Microsoft Office デスクトップ スイートと、クラウド ベースのバージョンの Microsoft の次世代コミュニケーションおよびコラボレーション サービス &mdash; (Microsoft Exchange Online、Microsoft Office SharePoint Online、Office for the web、Microsoft Skype for Business Online など) を組み合わせ、ユーザーがインターネットを通じて事実上どこからでも生産性を上げることができます。 &mdash;
   
-この記事では、365 Office (A1、A3、および A5) の機能の一覧を示します。 ビジネスプランとエンタープライズ プラン間で機能を比較するには、「ビジネス プランの [比較 Office 365](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) for Business プラン」、または機能の詳細な一覧については [、「Microsoft 365](../office-365-service-descriptions-technet-library.md)および Office 365 サービスの説明」の関連するサービスの説明を参照してください。
+この記事では、教育計画 (A1、A3、および A5) のOffice 365機能の一覧を示します。 ビジネスプランとエンタープライズ プラン間で機能を比較するには、「ビジネス プランのOffice 365 を比較する」を参照するか、機能の詳細な一覧については[、「Microsoft 365](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)および Office 365 サービスの説明」の関連するサービスの説明[を](../office-365-service-descriptions-technet-library.md)参照してください。
   
 サポート記事および情報を検索するには、「[Office のヘルプ &amp; トレーニング](https://support.office.com/)」を参照してください。
   
 ## <a name="service-availability-for-each-plan"></a>各プランのサービスの可用性
 
-各Office 365 の教育計画には、Exchange Online や SharePoint Online など、多数の個別のサービスが含まれています。 次の表に、各 Office 365 プランで使用できるサービスを示します。<br><br>
+各Office 365には、オンラインやオンラインなどの複数の個別Exchange OnlineがSharePointされます。 次の表に、各 Office 365 プランで使用できるサービスを示します。<br><br>
   
 | サービス | Office 365 A1 | Office 365 A3 | Office 365 A5<sup>3</sup> |
 |:-----|:-----|:-----|:-----|
@@ -44,9 +44,9 @@ Microsoft Office 365 では、組織のニーズを満たすのに最適なさ�
 |Azure Information Protection<sup>2</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft Project は 365 Office含まれていませんが、個別に取得できます。 Project Online Essentials は無料です。 学生または教育機関に所属している場合は、Project Plan 3 および Project Plan 5 を教育機関向け価格で購入することができます。   <br/> 
+> <sup>1</sup> Microsoft Projectは、Office 365に含まれませんが、個別に取得できます。 Project Online Essentials は無料です。 学生または教育機関に所属している場合は、Project Plan 3 および Project Plan 5 を教育機関向け価格で購入することができます。   <br/> 
 <sup>2</sup> Office 365 プランに含まれる Azure_Information_Protection 機能の詳細については、「 [Azure Information Protection](https://azure.microsoft.com/services/information-protection/)」を参照してください。<br/> 
-<sup>3 Office</sup> 365 A5 には、電話システム、電話会議、通話プランの機能が含まれる。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/> <sup>4</sup> Exchange Online プラン 2 が含まれます。 <br/> 
+<sup>3 Office 365 A5</sup>には、電話システム電話会議、通話プランの機能が含まれる。 通話プランを実装するには、追加のプラン購入 (国内通話プランまたは国際通話プラン) が必要です。 <br/> <sup>4</sup> Exchange Online プラン 2 が含まれます。<br/> 
 <sup>5</sup> Exchange Online プラン 1 と補足機能が含まれます。<br/> 
 <sup>6</sup> Skype for Business Online プラン 2 が含まれます。<br> <sup>7</sup> Skype for Business Online プラン 1 と補足機能が含まれます。 
   
@@ -56,16 +56,16 @@ Office 365 のシステム要件については、「[Office 365 のシステム
   
 ## <a name="service-level-agreement"></a>サービス レベル契約
 
-サービス レベル契約については、[サービス レベル契約](../office-365-platform-service-description/service-level-agreement.md)をご覧ください。 365 の最近のアップタイムのOffice、最近の世界の [アップタイムを参照してください](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)。
+サービス レベル契約については、[サービス レベル契約](../office-365-platform-service-description/service-level-agreement.md)をご覧ください。 最新の更新プログラムのアップタイムについては、「Office 365ワールドワイドのアップタイム」[を参照してください](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)。
   
 ## <a name="platform-features"></a>プラットフォーム機能 
 
-次の表に、365 の教育プランで使用Office機能の一覧を示します。 プランの価格と機能については、「[Office 365 を無料であなたの学校に](https://products.office.com/en/academic/compare-office-365-education-plans)」を参照してください。<br><br>
+次の表に、教育プラン全体で使用できるすべてのプラットフォームOffice 365示します。 プランの価格と機能については、「[Office 365 を無料であなたの学校に](https://products.office.com/en/academic/compare-office-365-education-plans)」を参照してください。<br><br>
   
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |**[Office 365 の管理機能](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
-|Microsoft 365 Office管理センターまたは管理者アカウントを使用して、365 を管理Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|管理Office 365または管理センターを使用してMicrosoft 365を管理Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Azure Information Protection を使用してコンテンツを保護する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Office 365 スイート機能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft の予約  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
@@ -112,7 +112,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Go Daddy 経由で購入したドメインに対して使用可能な自動ドメイン購入とドメイン検証  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[サービスの正常性および継続性](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[ **サービス正常性**] または [ **サービスの状態**] ページで利用可能な状態に関する情報  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センター ダッシュボードで利用できる個々のアラートの状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|管理センター ダッシュボードで使用できる個々のMicrosoft 365の状態  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |[ サービスの正常性] RSS フィード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |アクティブおよび非アクティブ メールボックス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -138,7 +138,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |ダウンロード可能なメールの保護レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるブラウザー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |使用されるオペレーティング システム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 レポート Web サービスを使用して独自のレポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|レポート Web サービスを使用してMicrosoft 365レポートを作成する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[サービス更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |すべてのカスタマーに提供される定期的な更新プログラム  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アクションが必要な場合にメッセージ センターに通知を送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -156,7 +156,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Advanced Security Management  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |Microsoft Defender for Office 365  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |顧客ロックボックス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|高度な電子情報開示<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|Advanced eDiscovery<sup>7</sup> <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |セキュリティ スコア<sup>5</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |脅威インテリジェンス  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
 |[コンプライアンス](/microsoft-365/compliance/offering-home) <br/> ||||
@@ -178,20 +178,20 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |[製品使用権](product-use-rights.md) <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 では、製造元がサポートしていないオペレーティング システムはサポートされていません。<br/> 
-<sup>2</sup> ディレクトリ同期をローカル Active Directory と使用する場合は、Office 365 ポータルではなく、ローカル Active Directory を使用するか、Windows PowerShell 用の Azure Active Directory モジュールを使用してアカウントを削除するか、パスワードを変更する必要があります。 <br/> 
+> <sup>1</sup> Office 365は、製造元がサポートしていないオペレーティング システムのサポートを提供しない場合があります。<br/> 
+<sup>2</sup>ローカル Active Directory とディレクトリ同期を使用する場合は、Office 365 ポータルではなくローカル Active Directory を使用するか、Windows PowerShell の Azure Active Directory モジュールを使用してアカウントを削除するか、パスワードを変更する必要があります。 <br/> 
 <sup>3</sup> ユーザーのセルフサービス パスワード管理ポリシーを設定する方法については [、「Manage Passwords in Azure AD」を参照してください](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)。 <br/> 
 <sup>4</sup> 期間割引で購入したシートを減らすには、早期終了料金が適用される場合があります。 これは月単位で支払われるサブスクリプションには適用されません。 <br/> 
 <sup>5</sup> で使用可能 [https://securescore.office.com](https://securescore.office.com/) です (リンクには管理者のアクセス許可が必要です)。 詳細については、「 [Office 365 Secure Score の概要](/office365/securitycompliance/microsoft-secure-score)」を参照してください。<br/> 
 <sup>6</sup> Microsoft Sway は現在、特定の地域のお客様には使用できません。 2015 年 8 月の時点で販売されなくなった従来のいくつかの Office 365 プランでも Microsoft Sway にアクセスできない場合があります。 <br/> 
-<sup>7</sup> 高度な電子情報開示は、米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。 <br>
+<sup>7</sup> Advanced eDiscoveryは、米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。 <br>
 <sup>8</sup> 各プランに含まれる Microsoft Stream 機能の詳細については、「Stream ライセンスの [概要」を参照してください](https://stream.microsoft.com/documentation/stream-license-overview/)。<br>
 <sup>9</sup> 詳細については [、「MyAnalytics プランと環境」を参照してください](/workplace-analytics/myanalytics/overview/plans-environments)。<br>
-<sup>10</sup> ブリーフィング電子メールは、Exchange Online のすべてのユーザーに自動的に提供されます。 詳細については、「ブリーフィングメール [の構成」を参照してください](/Briefing/be-admin)。<br>
+<sup>10</sup>ブリーフィング電子メールは、すべてのユーザーに自動的にExchange Online。 詳細については、「ブリーフィングメール [の構成」を参照してください](/Briefing/be-admin)。<br>
 
 ## <a name="security-amp-compliance-center-features"></a>セキュリティ &amp; コンプライアンス センターの機能
 
-セキュリティ [コンプライアンス &amp; センターは](/microsoft-365/compliance/go-to-the-securitycompliance-center) 、組織の 365 全体のコンプライアンスOfficeを管理するために設計されています。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+セキュリティ[コンプライアンス &amp; センターは](/microsoft-365/compliance/go-to-the-securitycompliance-center)、組織全体のコンプライアンス機能を管理Office 365設計されています。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -217,16 +217,16 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |[統合監査](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1 データ</sup> ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、手動で適用できます。ドライブの出荷またはネットワークを使用してデータをインポートする。ワークロード、ユーザー、およびグループ間で保持/削除ポリシーを作成および適用します。 メールボックスに適用されるアイテム保持ポリシーには、Office 365 Enterprise E3 または E5 が必要です。 <br/> 
+> <sup>1 データ</sup> ガバナンスを使用すると、ユーザーはドキュメントにラベルを作成、発行、手動で適用できます。ドライブの出荷またはネットワークを使用してデータをインポートする。ワークロード、ユーザー、およびグループ間で保持/削除ポリシーを作成および適用します。 メールボックスに適用されるアイテム保持ポリシーには、E3 または E5 Office 365 Enterpriseが必要です。 <br/> 
 <sup>2</sup> 高度なデータ ガバナンスを使用すると、保持ポリシーまたは削除ポリシーまたは両方に基づいて情報を分類することにより、重要な情報を保持し、重要な情報を削除できます。 これには、ポリシーの推奨などのインテリジェント/自動化されたアクションが含まれます。データにラベルを自動的に適用する。機密データ型またはクエリに基づくラベルの適用。スマート インポート フィルターの使用。 また、セキュリティとコンプライアンスの目的で従業員のコミュニケーションを確認する監督機能も含まれています。 <br/> 
 <sup>3</sup> 無制限。 <br/> 
-<sup>4</sup> 高度な電子情報開示は、米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。 <br/> 
-<sup>5</sup> Microsoft Defender for Office 365 は Office 365 A5 で、Office 365 A1 および Office 365 A3 のスタンドアロン サービスとして利用できます。<br/>
-<sup>6</sup> [365](/office/office-365-management-api/office-365-management-activity-api-reference) 管理アクティビティ API Office使用して、統合監査ログからイベントを取得することもできます。 <br/>
+<sup>4</sup> Advanced eDiscoveryは、米国および西ヨーロッパ (オランダ) 地域でサポートされています。 ヨーロッパ、中東、アフリカのお客様のデータは西ヨーロッパ [オランダ] にエクスポートされます)。 ヨーロッパ、中東、アフリカからの顧客データは、西ヨーロッパ [オランダ] にエクスポートされます。 <br/> 
+<sup>5</sup> Microsoft Defender for Office 365は、Office 365 A5およびサーバーのスタンドアロン サービスOffice 365 A1利用Office 365 A3。<br/>
+<sup>6</sup>管理アクティビティ API[を使用Office 365](/office/office-365-management-api/office-365-management-activity-api-reference)統合監査ログからイベントを取得することもできます。 <br/>
   
 ## <a name="office-application-features"></a>Office アプリケーション機能  
 
-次の表を使用して、365 の教育Office機能の可用性を比較します。<br><br>
+次の表を使用して、教育プラン全体で機能Office 365比較します。<br><br>
   
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -278,22 +278,22 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |Volume activation (KMS/MAK)  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするには、別途購入および管理する必要があるオンプレミス サーバーです。 <br/> 
-<sup>2</sup> Skype for Business Basic は、すべてのお客様が利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Microsoft 365 Apps for enterprise, and Office 365 Enterprise E3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
-<sup>3</sup> 一部の学校は、Microsoft 365 Apps for enterprise を含む Education Plus の対象であり、学生、教職員は、最大 5 台の PC または Mac コンピューター、および Windows タブレットや iPad を含む他のモバイル デバイスに最新バージョンの Office をインストールできます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/> 
-<sup>Web Office 4</sup> つのバージョンが含まれています。 詳細については、「Web 機能 [Officeを参照してください。](office-365-education.md#office-for-the-web-features)
+> <sup>1</sup> Windows サーバー AD RMS は、サポートされている IRM 機能を有効にするには、別途購入および管理する必要があるオンプレミス サーバーです。 <br/> 
+<sup>2 Skype for Business</sup> Basic は、すべてのお客様に利用できます。 Skype for Business デスクトップ クライアントは、Skype for Business Online を含む Office 365 プランのプレゼンス機能、インスタント メッセージング機能、会議機能を提供するローカルにインストールされるアプリケーションです。 Microsoft 365 Apps for enterpriseおよび E3 Office 365 Enterpriseには、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype アプリケーションが含まれます。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「デスクトップ クライアント比較 [テーブル」を参照してください](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
+<sup>3</sup>一部の学校は、Microsoft 365 Apps for enterprise を含む Education Plus の資格を持ち、学生、教職員が最大 5 台の PC または Mac コンピューター、および Windows タブレットや iPad を含む他のモバイル デバイスに最新バージョンの Office をインストールできます。 教育ソリューション加入契約、オープン バリュー サブスクリプション教育ソリューション、学校の契約を通して、機関全体の教職員とスタッフのための Office のライセンスを取得すると、その学校は Office 365 Education Plus の条件に適合します。 Access と Publisher は PC でのみ使用可能です。 OneNote for Mac は Mac App Store から別途ダウンロードできます。 <br/> 
+<sup>Web Officeの 4</sup>つの機能が含まれています。 詳細については、「Web 機能[Office」を参照してください。](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Office機能の詳細
 
-次の表に、Office 365 の教育プランで利用できる web 機能の Office と、機能豊富なデスクトップ アプリとの比較Microsoft Office示します。 比較を使用して、web の Office で使用できる機能を確認し、その機能の動作に関する簡単な説明を読む機能名を選択します。 組織内の一部のユーザーが Excel デスクトップ アプリの高度なグラフ作成機能を必要とする場合と、Web 用の Office を使用して Word ドキュメントと PowerPoint プレゼンテーションを表示および軽く編集する必要がある場合があります。
+次の表に、Office 365 教育プランで利用できる web 機能の Office と機能豊富なデスクトップ アプリの比較Microsoft Office示します。 比較を使用して、web の Office で使用できる機能を確認し、その機能の動作に関する簡単な説明を読む機能名を選択します。 組織内の一部のユーザーが Excel デスクトップ アプリの高度なグラフ作成機能を必要とする場合と、Web 用に Office を使用して Word ドキュメントと PowerPoint プレゼンテーションを表示および軽く編集する必要がある場合があります。
   
 > [!NOTE]
 > - Office デスクトップ スイートの高度な機能を説明するために、Office の一部の機能を抜粋しています。 <br/>
 > - この表は、Microsoft Office の機能の包括的なリストではありません。 <br/> 
-> - Microsoft Microsoft 365 Apps for enterprise は、最新のデスクトップ スイートOfficeサブスクリプションです。 <br/>
-> - Microsoft Office Online Server オンプレミスのお客様は、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise ライセンスなど) を購入した場合、web 編集ライセンスの Office を取得します。 
+> - Microsoft Microsoft 365 Apps for enterpriseは、最新のデスクトップ スイートのOfficeプランです。 <br/>
+> - Microsoft Officeオンライン サーバーのオンプレミスユーザーは、Office デスクトップ スイート ライセンス (Office Professional Plus、Office Standard、Microsoft 365 Apps for enterprise ライセンスなど) を購入した場合、web 編集ライセンスの Office を取得します。 
   
-| アプリケーション | Webアプリ上の Office | 詳細な機能比較へのリンク |
+| アプリケーション | Web 用 Office | 詳細な機能比較へのリンク |
 |:-----|:-----|:-----|
 |Word  <br/> |Web 用 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Web 用 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
@@ -303,7 +303,7 @@ Office 365 のシステム要件については、「[Office 365 のシステム
    
 ## <a name="exchange-online-features"></a>Exchange Online の機能
 
-次の表に、365 の教育プランで使用できる exchange Online Office示します。<br><br>
+次の表に、教育Exchange Onlineで使用できる機能Office 365示します。<br><br>
   
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -366,8 +366,8 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |不在時の返信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |予定表の共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[レポート機能とトラブルシューティング ツール](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft 365 管理センターレポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Excel レポート ブック  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365管理センター レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Excelレポート ブック  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Web サービス レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Message trace  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |監査レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
@@ -390,33 +390,33 @@ Office 365 のシステム要件については、「[Office 365 のシステム
 |ボイス メール  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |ボイス メールとサード パーティ FAX の統合  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
 |サードパーティ ボイス メールの相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Skype for Business の統合  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype for Business統合  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[高可用性とビジネス継続性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |データ センターでのメールボックス レプリケーション  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |削除済みメールボックスの回復  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |削除済みアイテムの回復  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |単一アイテムの回復  <br/> |はい  <br/> |はい  <br/> |はい  <br/> ||
 |**[相互運用性、接続、および互換性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|OWA と Outlook での Skype for Business プレゼンス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|SharePoint の相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype for Business OWA と Outlook  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|SharePoint相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |EWS 接続のサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SMTP リレーのサポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Exchange Online のセットアップと管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Office 365 ポータルへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Microsoft 365管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Exchange 管理センターへのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |リモート Windows PowerShell へのアクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |モバイル デバイスの ActiveSync ポリシー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |利用状況レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[サービスの拡張 - カスタマイズ、アドイン、およびリソース](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Outlook アドインと Outlook MAPI  <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |
+|Outlookアドインと MAPI のOutlookする  <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |はい<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS は、サポートされている IRM 機能を有効にするには、別途購入および管理する必要があるオンプレミス サーバーです。 <br/>
+> <sup>1</sup> Windows サーバー AD RMS は、サポートされている IRM 機能を有効にするには、別途購入および管理する必要があるオンプレミス サーバーです。 <br/>
 <sup>2</sup> トランスポート ルールは柔軟な条件で構成され、条件と例外を定義し、条件に基づいて実行するアクションを定義できます。 使用可能な条件とアクションは Exchange Online と Microsoft Exchange Server 2013 で異なります。 使用可能な条件とアクションのリストについては、製品ごとに該当する条件とアクションのトピックをご覧ください。 <br/> 
 <sup>3 Exchange Server</sup> 2013 では、Microsoft マルウェア対策エンジンのみを使用します。 Exchange Online は複数のマルウェア対策エンジンを使用して、マルウェアがないかどうか受信メッセージ、送信メッセージ、内部メッセージをスキャンします。 <br/> 
-<sup>4</sup> SharePoint Online をサブスクリプション プランに含める必要があります。 <br/> 
-<sup>5</sup> 接続済みアカウントは POP アカウントと IMAP アカウントでサポートされますが、Outlook.com (Hotmail)。 <br/> <sup>6</sup> コマンドレットを使用してアドレス一覧とグローバル アドレス一覧を使用する方法はサポートされていません。 <br/> 
+<sup>4 SharePoint</sup>オンラインをサブスクリプション プランに含める必要があります。 <br/> 
+<sup>5</sup>接続されたアカウントは POP アカウントと IMAP アカウントでサポートされますが、Outlook.com (Hotmail) では無効になっています。 <br/> <sup>6</sup> コマンドレットを使用してアドレス一覧とグローバル アドレス一覧を使用する方法はサポートされていません。 <br/> 
 <sup>7</sup> 一部のサード パーティ製 Web パーツとアドインは使用できない場合があります。 <br/> 
 <sup>8</sup> 電子情報開示の場合は、オンプレミスとクラウドに対する個別のクエリが必要です。 <br/> 
 <sup>9</sup> 表は、クライアントが関連付けられたプランを使用するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 
@@ -469,13 +469,13 @@ Microsoft Exchange Online の制限は、次のカテゴリの 1 つに分類さ
   
 #### <a name="address-book-limits"></a>アドレス帳の制限
 
-- **アドレス一覧の** 制限 - Exchange Online または 2013 組織で作成できるアドレス一覧Exchange Server数。 この数には、[すべての連絡先] や [すべてのグループ] など、Exchange Online の既定のアドレス一覧が含まれます。 
+- **アドレス一覧の** 制限 - 2013 組織または 2013 組織で作成Exchange OnlineアドレスExchange Server最大数。 この数には、[すべての連絡先] や [すべてのグループ] など、Exchange Online の既定のアドレス一覧が含まれます。 
     
-- **オフライン アドレス帳の** 制限 - Exchange Online または 2013 組織で作成できるオフライン アドレス帳 (OAB) の最大数Exchange Serverです。 
+- **オフライン アドレス帳の** 制限 - 2013 年の組織で作成できるオフライン アドレス帳 (OAB) のExchange OnlineまたはExchange Serverです。 
     
-- **アドレス帳ポリシー** の制限 - Exchange Online または 2013 組織で作成されるアドレス帳ポリシー (ABP) の最大数Exchange Serverです。 
+- **アドレス帳ポリシー** の制限 - 2013 年 2013 年の組織で作成されるアドレス帳ポリシー (ABP) Exchange Online最大数Exchange Serverします。 
     
-- **グローバル アドレス一覧** - Exchange Online または 2013 組織で作成されるグローバル アドレス一覧 (GAL) のExchange Serverです。 
+- **グローバル アドレス一覧**- 2013 年の組織で作成されるグローバル アドレス一覧 (GAL) のExchange OnlineまたはExchange Serverです。 
     
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -518,7 +518,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **[送信禁止** ] - メールボックスのサイズ制限に達すると、ユーザーは送信禁止通知メールを受け取ります。 ユーザーは、十分な電子メールが削除され、メールボックスのサイズが制限値を下回るまで、新しいメッセージを送信できません。 
     
-- **送受信を禁止** する - メールボックス のサイズ制限に達すると、Exchange Online は受信メールを拒否し、配信不可レポート (NDR) を送信者に送信します。 送信者には後でメールを再送信するオプションがあります。 ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
+- **[送受信を禁止**] - Exchange Onlineサイズ制限に達すると受信メールを拒否し、配信不可レポート (NDR) を送信者に送信します。 送信者には後でメールを再送信するオプションがあります。 ユーザーがメッセージを再度受信するには、メールボックスがサイズ制限値を下回るまで、電子メールを削除する必要があります。 
     
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -532,7 +532,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
   
 - **メールボックス フォルダーごとのメッセージの** 最大数 - メールボックス フォルダーのメッセージの最大数を指定します。 この制限値に達すると、フォルダーへの新規メッセージの配達または保存ができなくなります。 
     
-- **メールボックス フォルダーあたりのメッセージ数** に関する警告 - Exchange Online がメールボックスの所有者に警告メッセージを送信する前にメールボックス フォルダーが保持できるメッセージの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **メールボックス フォルダーあたりのメッセージ** 数に関する警告 - メールボックス フォルダーがメールボックス所有者に警告メッセージを送信する前に保持Exchange Onlineメッセージの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
 - **[回復可能なアイテム** ] フォルダー内のフォルダーごとのメッセージの最大数 - [回復可能なアイテム] フォルダー内の各フォルダーに含まれるメッセージの最大数を指定します。 フォルダーがこの最大数を超えた場合、新しいメッセージを保存できません。 たとえば、回復可能なアイテム フォルダーの削除フォルダーがメッセージの最大数を超えた場合、メールボックスの所有者がメールボックスからアイテムを完全に削除しようとしても、削除は失敗します。 
     
@@ -540,11 +540,11 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     
 - **メールボックス フォルダーごとのサブフォルダーの** 最大数 - メールボックス フォルダーに作成できるサブフォルダーの最大数を指定します。 この最大数に達すると、メールボックスの所有者は新しいサブフォルダーを作成できなくなります。 
     
-- **メールボックス フォルダーあたりのサブフォルダー** 数に関する警告 - Exchange Online がメールボックスの所有者に警告メッセージを送信する前に、メールボックス フォルダーに作成できるサブフォルダーの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **メールボックス フォルダーあたりのサブ** フォルダー数に関する警告 - Exchange Online がメールボックスの所有者に警告メッセージを送信する前に、メールボックス フォルダーに作成できるサブフォルダーの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
 - **フォルダー階層の最大深度** - メールボックスのフォルダー階層内の最大レベル数を指定します。 この最大数に達すると、メールボックスの所有者はメールボックス フォルダーの階層内で新たなレベルを作成できなくなります。 
     
-- **フォルダー階層深度の** 警告 - Exchange Online がメールボックスの所有者に警告メッセージを送信する前に作成できるメールボックス フォルダーのフォルダー階層内のレベルの数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
+- **フォルダー階層深度の** 警告 - Exchange Online がメールボックス所有者に警告メッセージを送信する前に作成できるメールボックス フォルダーのフォルダー階層内のレベル数を指定します。 このクォータに達すると、警告メッセージが毎日 1 回送信されます。 
     
 - **[パブリック フォルダーの最大数** ] - 完全なパブリック フォルダー階層内のパブリック フォルダーの最大数を指定します。 この制限に達すると、既存のパブリック フォルダーを削除しないかぎり、新しいパブリック フォルダーを作成できなくなります。 
     
@@ -635,7 +635,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 > [!NOTE]
 > 組織のアドレス帳に格納されている配布グループの場合、グループは 1 受信者としてカウントされます。メールボックスの連絡先フォルダーに格納されている配布グループの場合、グループのメンバーは個別にカウントされます。 
   
-- **受信者レートの制限** - 一方的なバルク メッセージの配信を阻止するために、Exchange Online には受信者の制限が設定され、ユーザーとアプリケーションが大量の電子メールを送信するのを防ぐ必要があります。 これらの制限は、すべての送信メッセージおよび内部メッセージに対してユーザーごとに適用されます。 
+- **受信者レートの制限**- 一方的なバルク メッセージの配信を阻止するために、Exchange Online には受信者の制限があります。ユーザーとアプリケーションが大量の電子メールを送信するのを防ぐ必要があります。 これらの制限は、すべての送信メッセージおよび内部メッセージに対してユーザーごとに適用されます。 
     
     > [!NOTE]
     > 正当なバルク メッセージ (たとえば、顧客向けのニュースレター) を送信しなければならない Exchange Online のお客様は、そうしたサービスに特化したサード パーティ プロバイダーを使用する必要があります。 
@@ -645,7 +645,7 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
     > [!NOTE]
     > 受信者数の制限と受信者制限の目的で、組織の共有アドレス帳に保存される配布グループは 1 つの受信者としてカウントされます。個人用の配布リストでは、各受信者は個別にカウントされます。 
   
-- **メッセージレートの制限** - メッセージレートの制限は、指定した期間にユーザーが Exchange Online アカウントから送信できるメッセージの数を決定します。 この制限により、単一の送信者がシステム リソースを過剰に消費するのを防ぐことができます。 SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。 
+- **メッセージレートの制限**- メッセージレートの制限は、指定した期間にユーザーが自分のアカウントから送信できるExchange Online数を決定します。 この制限により、単一の送信者がシステム リソースを過剰に消費するのを防ぐことができます。 SMTP クライアント送信でユーザーが送信するメッセージ数がこの制限を超えると、メッセージは拒否され、クライアントで再試行する必要があります。 
     
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -755,9 +755,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
 
 モバイル デバイスと Exchange との間でメールボックス データを同期するクライアント プロトコルである Microsoft Exchange ActiveSync には、次の制限が適用されます。 
   
-- **Exchange ActiveSyncデバイスの制限** - メールボックスあたりのExchange ActiveSyncデバイスの最大数。 
+- **Exchange ActiveSync制限**- メールボックスあたりのデバイスExchange ActiveSync最大数。 
     
-- **Exchange ActiveSyncの削除制限** - Exchange 管理者が 1 か月Exchange ActiveSyncできるデバイスの最大数。 
+- **Exchange ActiveSyncの削除** 制限 - 管理者が 1 か月Exchange ActiveSyncできるデバイスExchangeの最大数。 
     
 - **Exchange ActiveSync添付ファイル** の制限 - デバイスで送信または受信できるメッセージ ファイル添付ファイルのExchange ActiveSyncサイズ。 
     
@@ -769,9 +769,9 @@ Exchange Online では、ユーザーのメールボックスが上限に近づ�
    
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business の機能
 
-OneDrive for Business (以前の SkyDrive Pro) は、クラウド内の個人のオンライン ストレージ スペースです。 これは、複数のデバイスに分散した作業ファイルを簡単かつ安全に保存するために使用されます。 必要に応じて、同僚とファイルを共有し、web OfficeとリアルタイムでドキュメントをOffice編集します。 OneDrive for Business 同期アプリを使用して、ローカル コンピューターにファイルを同期します。
+OneDrive for Business (以前の SkyDrive Pro) は、クラウド内の個人のオンライン ストレージ スペースです。 これは、複数のデバイスに分散した作業ファイルを簡単かつ安全に保存するために使用されます。 必要に応じて、同僚とファイルを共有し、Officeドキュメントを Web 用のドキュメントとOffice一緒に編集します。 OneDrive for Business 同期アプリを使用して、ローカル コンピューターにファイルを同期します。
   
-OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 OneDrive for Business スタンドアロン オプションには、web Officeが含まれています。 詳細については [、「OneDrive for Business とは」を参照してください](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)。
+OneDrive for Business は、SharePoint Online に付属していますが、スタンドアロン プランとして購入することもできます。 スタンドアロン OneDrive for Businessには、web Officeが含まれます。 詳細については、「What [is is OneDrive for Business? 」を参照してください](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)。
   
 ### <a name="system-requirements"></a>システム要件
 
@@ -789,7 +789,7 @@ OneDrive for Business プラン 1 は、ユーザーごとに 1 TB の記憶領�
     
 - Office 365 A5
     
-特定の OneDrive ユーザーに、それ以上の記憶域を割り当てることはできません。 ただし、ユーザーに表示される記憶域の容量を減らすことができます。 365 enterprise F3 ユーザー Officeより多くの記憶域が必要な場合は、365 Enterprise E1 にアップグレードOffice必要があります。
+特定の OneDrive ユーザーに、それ以上の記憶域を割り当てることはできません。 ただし、ユーザーに表示される記憶域の容量を減らすことができます。 F3 ユーザー Office 365 Enterpriseより多くの記憶域が必要な場合は、E1 にアップグレードOffice 365 Enterpriseがあります。
   
 OneDrive for Business に追加できないファイルの種類については、「[リストまたはライブラリに追加できないファイルの種類](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)」を参照してください。
   
@@ -797,15 +797,15 @@ OneDrive for Business は SharePoint Online に含まれています。サイト
   
 ### <a name="subscription-plans"></a>サブスクリプション プラン
 
-OneDrive for Business Plan 2 は、Office 365 A1、A3、および A5 で使用できます。 プランで使用できる機能を表示するには [、OneDrive for Business サービスの説明を参照してください](../onedrive-for-business-service-description.md)。
+OneDrive for Businessプラン 2 は、Office 365 A1 A3、および A5 で使用できます。 プランで使用可能な機能を表示するには、「サービスの説明OneDrive for Business[参照してください](../onedrive-for-business-service-description.md)。
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online の機能
 
-SharePoint Online の機能の詳細については [、「SharePoint Online サービスの説明」を参照してください](../sharepoint-online-service-description/sharepoint-online-service-description.md)。
+オンライン機能の詳細SharePoint、オンライン サービスのSharePoint[を参照してください](../sharepoint-online-service-description/sharepoint-online-service-description.md)。
 
 ### <a name="sharepoint-online-limits"></a>SharePoint Online の制限
 
-次の表に、365 の教育計画に基Office SharePoint の制限を示します。<br><br>
+次の表に、各教育SharePointの制限Office 365示します。<br><br>
   
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -817,18 +817,18 @@ SharePoint Online の機能の詳細については [、「SharePoint Online サ
 |ユーザー数  <br/> |1 から 500,000<sup>6</sup> <br/> |1 から 500,000<sup>6</sup> <br/> |1 から 500,000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「 [サブスクリプションの記憶域を追加する」を参照してください](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)。 <br/> <sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。<br/> 
-<sup>3</sup> サブスクリプションと SharePoint Online スタンドアロン プランがある場合、ストレージ容量が追加されます。<br/> 
+> <sup>1</sup> SharePoint Online の記憶域を追加で購入できる量に制限はありません。 「[サブスクリプションの記憶域を追加する](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)」を参照してください。 <br/> <sup>2</sup> ごみ箱を監視して定期的に空にすることをお勧めします。 使用される記憶領域は、組織の合計ファイル容量の上限に含まれます。<br/> 
+<sup>3</sup>サブスクリプションとオンライン スタンドアロン プランがある場合SharePointストレージの量が追加されます。<br/> 
 <sup>4</sup> SharePoint Online 管理者は、サイト コレクションとサイトの記憶域使用制限を設定できます。<br/> 
 <sup>5</sup> ライセンス ユーザーごとの OneDrive for Business サイト コレクションは含まれません。<br/> 
 <sup>6</sup> ユーザー数が 500,000 を超える場合は、Microsoft の担当者にお問い合わせください。 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online の機能
 
-次の表に、Skype for Business Online の各機能を 365 Office示します。
+次の表に、Skype for Businessのオンライン機能を示Office 365示します。
   
 > [!NOTE]
-> 次の表は、365 の教育オプションOfficeサービスの可用性を示しています。 さまざまな Skype for Business デスクトップ クライアント、Web クライアント、モバイル クライアント間で個々の機能を比較する場合は、「[Lync Server 2013 のクライアントの比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)」と「[Lync Server 2013 のモバイル クライアントの比較表](/lyncserver/lync-server-2013-mobile-client-comparison-tables)」を参照してください。 
+> 次の表は、教育オプション全体のクライアントとサービスOffice 365示しています。 さまざまな Skype for Business デスクトップ クライアント、Web クライアント、モバイル クライアント間で個々の機能を比較する場合は、「[Lync Server 2013 のクライアントの比較表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)」と「[Lync Server 2013 のモバイル クライアントの比較表](/lyncserver/lync-server-2013-mobile-client-comparison-tables)」を参照してください。 
   
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -872,25 +872,25 @@ SharePoint Online の機能の詳細については [、「SharePoint Online サ
 |すべての出席者の高解像度ビデオまたは画像  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |発表者コントロール  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |参加者が選択したビュー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|OneNote 共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|OneNote共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |臨時およびスケジュールの Web 会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Skype for Business 会議の電話会議によるダイヤルイン (ファースト パーティ)  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
-|認定電話会議プロバイダー (ACP) による Skype for Business 会議ダイヤルイン  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|PowerPoint 共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype for Business会議 (ファースト パーティ) 経由で会議ダイヤルインを開始する  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
+|Skype for Business電話会議プロバイダー (ACP) 経由で会議ダイヤルインを実行する  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|PowerPoint共有  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ファイル送信  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ホワイトボードと注釈  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|PowerPoint アップロード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|PowerPointアップロード  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |投票  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |クライアント側の記録と再生  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |サーバー側の記録と再生  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |会議ロビー  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype 会議メディア  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |
-|Skype for Business Web App を使用した Skype 会議へのゲスト アクセス  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Outlook で Skype for Business 会議をスケジュールする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|他のユーザーに代わって Outlook で Skype for Business 会議をスケジュールする (委任)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Web スケジューラを使用して Skype for Business 会議をスケジュールする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Outlook on the web でオンライン会議をスケジュールする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|会議をスケジュールする Outlook の委任  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|ユーザーが会議を開Skypeへのゲスト アクセスSkype for Business Web アプリ  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|会議Skype for Businessスケジュールを設定Outlook  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|他Skype for Businessに代わってOutlook会議をスケジュールする (委任)  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web スケジューラSkype for Business会議をスケジュールする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Web 上でオンライン会議Outlookスケジュールする  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Outlookスケジュールの委任  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Outlook から静的な会議 ID で公開会議を作成  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |**音声通話** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |自動応答  <br/> |いいえ  <br/> |いいえ  <br/> |はい  <br/> |
@@ -943,10 +943,10 @@ SharePoint Online の機能の詳細については [、「SharePoint Online サ
 |ログイン トレース ファイル  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |**[Exchange と SharePoint の相互運用性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |プレゼンスとExchange Server  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Exchange Online とのプレゼンスの相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|プレゼンスとExchange Online  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |ユニファイド メッセージングの Exchange Server との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |ユニファイド メッセージングの Exchange Online との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
-|Web の相互運用性に関する Outlook  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Outlook相互運用性に関する情報  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |アーカイブの Exchange Server との相互運用性  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
 |アーカイブの Exchange Online との相互運用性  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |SharePoint Server によるスキルの検索  <br/> |いいえ  <br/> |いいえ  <br/> |いいえ  <br/> |
@@ -956,11 +956,11 @@ SharePoint Online の機能の詳細については [、「SharePoint Online サ
 |Microsoft 365 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Skype for Business 管理センター  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
 |Windows PowerShell  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Microsoft 365 管理センターでの Skype for Business Online レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
+|Skype for Business管理センターでのMicrosoft 365レポート  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップ クライアントは、Skype for Business Online を含むプランのプレゼンス、インスタント メッセージング、および会議機能を提供するローカルにインストールされたアプリケーションです。 Microsoft 365 Apps for enterprise および Office 365 A3 には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれています。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「 [デスクトップ クライアント comarison テーブル」を参照してください。](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
-<sup>2</sup> ボイス メールをExchange Online (プラン 2)するユーザーに、ユーザープランを割り当てる必要があります。 Exchange Online (プラン 1) プランはボイス メールには使用できません。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic デスクトップ クライアントは、ローカルにインストールされたアプリケーションで、オンラインを含むプランのプレゼンス、インスタント メッセージング、および会議Skype for Business提供します。 Microsoft 365 Apps for enterpriseおよびOffice 365 A3には、高度なテレフォニー サポート、アーカイブ、コンプライアンス機能などの追加機能を含む完全な Skype for Business (Lync) アプリケーションが含まれます。 Skype for Business Online のライセンスは、ユーザーごとに割り当てる必要があります。 Lync Basic の機能の詳細については、「 [デスクトップ クライアント comarison テーブル」を参照してください。](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
+<sup>2</sup>ボイス メールを持つExchange Online (プラン 2)に、ユーザープランを割り当てる必要があります。 Exchange Online (プラン 1) プランはボイス メールには使用できません。 
   
 ### <a name="skype-for-business-online-limits"></a>Skype for Business Online の制限
 
@@ -975,13 +975,13 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
 - [分数の制限](../skype-for-business-online-service-description/skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Microsoft 365 組織に適用される制限は、組織がサービスに登録されている期間によって異なる場合があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
+> 組織に適用される制限Microsoft 365、組織がサービスに登録されている期間によって異なる場合があります。 Microsoft データセンターで制限が変更されると、既存のすべてのユーザーにその変更が適用されるまでしばらく時間がかかる可能性があります。 
   
 #### <a name="peer-to-peer-limits"></a>ピアツーピア制限
 
-- **ファイル転送の制限** - Skype for Business Online IM 会話で転送できるファイルの最大サイズ。 ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
+- **ファイル転送の制限**- オンライン IM 会話で転送できるファイルSkype for Businessサイズです。 ファイル転送でブロックされるファイルの種類については、Microsoft サポートの記事「[Skype for Business Online でファイルや添付ファイルを送受信できない](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)」を参照してください。
     
-- **タブ付き会話の制限を開** く - Skype for Business ユーザーが一度に開くことができる会話タブの最大数。 
+- **タブ付き会話の制限を** 開く - ユーザーが一度Skype for Business開くことができる会話タブの最大数。 
     
 | 機能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -990,15 +990,15 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
    
 #### <a name="meeting-limits"></a>会議の制限
 
-- **ファイルのアップロードの** 制限 - Skype for Business 会議にアップロードできるファイルの最大サイズ (資料や PowerPoint プレゼンテーションなど)。 
+- **ファイルのアップロードの** 制限 - 資料やプレゼンテーションを含む、Skype for Business会議にアップロードできるファイルPowerPointサイズ。 
     
-- **Skype for Business** 会議の参加者 - 1 つの Skype for Business 会議に参加できる参加者の最大数 (発表者を含む)。 
+- **会議の参加者** Skype for Business - 1 つの会議に参加できる参加者の最大数 (発表者を含む) Skype for Businessします。 
     
-- **Skype for Business 会議の発表者** - 1 つの Skype for Business 会議の発表者の最大数。 
+- **会議の発表** 者 - Skype for Business会議の発表者の最大数Skype for Businessします。 
     
-- **Skype for Business Web App 会議参加者** - 会議に参加できる Skype for Business Web アプリ会議参加者の最大数。 
+- **Skype for Business Web アプリ会議** 参加者 - 会議に参加できる web アプリSkype for Businessの参加者の最大数。 
     
-- **Skype for Business Web アプリの匿名参加者** - 匿名で会議に参加できる Skype for Business Web アプリ会議参加者の最大数。 
+- **Skype for Business Web アプリ** の匿名参加者 - 匿名で会議に参加Skype for Business Web アプリ会議参加者の最大数。 
     
 - **電話で参加するゲスト** - 会議に呼び出し可能なゲストの最大数。 
     
@@ -1017,7 +1017,7 @@ Skype for Business Online の制限は、以下のカテゴリに分類されま
   
 #### <a name="meeting-retention-limits"></a>会議の保存期限
 
-- **会議コンテンツの保持期間** - 最後のユーザーが会議を終了してから、アップロードされた会議コンテンツが Skype for Business で保持された後で完全に削除された時間。 
+- **会議コンテンツの保持期間**- 最後のユーザーが会議を終了してから、アップロードされた会議コンテンツが完全に削除される前に Skype for Business に保持される時間。 
     
 - **会議の有効期限** - ユーザーが会議にアクセスできる会議が終了した後の時間。 
     

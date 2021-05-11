@@ -23,7 +23,7 @@ ms.locfileid: "51653559"
 
 次の管理機能とセキュリティ機能は、Yammer。
   
-詳細な説明と手順については、「管理者Yammer [を参照してください](/yammer/)。
+詳細な説明と手順については、「管理者のヘルプYammer[を参照してください](/yammer/)。
 
 ## <a name="admin-private-content-mode"></a>管理者プライベート コンテンツ モード
 
@@ -55,10 +55,10 @@ Yammer ネットワークの確認済みの管理者は、ネットワーク全�
 
 ## <a name="network-migration"></a>ネットワーク移行
 
-複数の Yammer ネットワークを 1 つに統合します。 詳しくは、「[ネットワークの移行: 複数の Yammer ネットワークを統合する](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)」を参照してください。
+複数の Yammer ネットワークを 1 つに統合します。詳しくは、「[ネットワークの移行: 複数の Yammer ネットワークを統合する](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)」を参照してください。
   
 > [!NOTE]
-> プラン間Yammerネットワークへの移行はサポートされていません。 
+> プラン間Yammerネットワークの移行はサポートされていません。 
 
 ## <a name="organization-resources"></a>組織のリソース
 
@@ -74,7 +74,7 @@ Yammer ネットワークの確認済みの管理者は、ネットワーク全�
 
 ## <a name="single-identity"></a>単一 ID
 
-組織の既定Yammerソーシャル エクスペリエンスとして [グループ] を選択すると、従業員は既存のユーザー アカウントYammerされます。 これは、Office 365 で Yammer にナビゲートするときに、再びサインインする必要がないことを意味します。 従業員が &mdash; Yammer 365 から、Yammer モバイル アプリを介して、または Yammer.com を参照して、Office からアクセスすると、既存の組織の資格情報に基づいて自動的にログインします。 &mdash;
+組織の既定Yammerソーシャル エクスペリエンスとして選択すると、従業員は既存のユーザー アカウントYammerされます。 これは、Office 365 で Yammer にナビゲートするときに、再びサインインする必要がないことを意味します。 従業員 Yammerが Office 365 から、Yammer モバイル アプリを介して、または Yammer.com を参照してアクセスした場合、従業員は既存の組織の資格情報に基づいて自動的にログインします。 &mdash; &mdash;
 
 ## <a name="usage-policy"></a>利用状況ポリシー
 
@@ -86,4 +86,4 @@ Yammer ネットワークの確認済みの管理者は、ネットワーク全�
 
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Yammer [参照してください](yammer-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Yammer[参照してください](yammer-service-description.md)。

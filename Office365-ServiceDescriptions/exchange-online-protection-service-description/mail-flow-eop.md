@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection のメール フロー
+title: メール フロー (Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653139"
 ---
-# <a name="mail-flow-in-exchange-online-protection"></a>Exchange Online Protection のメール フロー
+# <a name="mail-flow-in-exchange-online-protection"></a>メール フロー (Exchange Online Protection
 
-Microsoft を使用するほとんどの組織では、メールボックスをホストし、メール フローの処理を行います。 これは最も簡単な構成であり、Microsoft がすべてのメールボックスとフィルター処理を管理します。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、クラウドでウイルス対策およびスパム対策メール処理を実行できます。 詳細について、および EOP を購入するには、[Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) にアクセスしてください。
+Microsoft を使用するほとんどの組織では、メールボックスをホストし、メール フローの処理を行います。 これは最も簡単な構成であり、Microsoft がすべてのメールボックスとフィルター処理を管理します。 ただし、自分たちのメールボックスすべてをオンプレミスで保持するという業務上のニーズがある組織もあります。 Exchange Online Protection (EOP) を使用すると、クラウドでウイルス対策メール処理とスパム対策メール処理を提供できます。 詳細について、および EOP を購入するには、[Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) にアクセスしてください。
   
-ドメイン管理またはディレクトリ ベースのエッジ ブロック (DBEB) に関する情報をお探しですか? 「 [受信者、ドメイン、および会社の管理」を参照してください](recipient-domain-and-company-management.md)。 すべての EOP 機能の詳細については [、「Exchange Online Protection サービスの説明」を参照してください](exchange-online-protection-service-description.md)。
+ドメイン管理またはディレクトリ ベースのエッジ ブロック (DBEB) に関する情報をお探しですか? 「 [受信者、ドメイン、および会社の管理」を参照してください](recipient-domain-and-company-management.md)。 すべての EOP 機能の詳細については、「サービスの説明Exchange Online Protection[参照してください](exchange-online-protection-service-description.md)。
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Microsoft と独自の電子メール サーバー間の電子メールのルーティング
 
-コネクタを構成して、Microsoft (Exchange Online または EOP を含む) と Exchange などの SMTP ベースの電子メール サーバーとの間のメール フローを有効にできます。 この詳細については、「コネクタ [が必要か」を参照してください](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)。 Microsoft [と独自のメール サーバー間でメールをルーティングするコネクタを設定します](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
+コネクタを構成して、Microsoft (Exchange Online または EOP を含む) と SMTP ベースの電子メール サーバー (Exchange など) の間でメール フローを有効にExchange。 この詳細については、「コネクタ [が必要か」を参照してください](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)。 Microsoft [と独自のメール サーバー間でメールをルーティングするコネクタを設定します](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
@@ -53,4 +53,4 @@ EOP のお客様として、Microsoft コネクタを使用して、信頼でき
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online Protection サービスの説明」 [を参照してください](exchange-online-protection-service-description.md)。
+プラン、スタンドアロン オプション、およびオンプレミス ソリューション全体で機能の可用性を表示するには、「サービスの説明Exchange Online Protection[参照してください](exchange-online-protection-service-description.md)。

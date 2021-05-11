@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Project Online では、次のポートフォリオ管理機能を使用できます。
+description: 次のポートフォリオ管理機能は、Project Online。
 ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652281"
 ---
 # <a name="portfolio-management"></a>ポートフォリオ管理
 
-Project Online では、次のポートフォリオ管理機能を使用できます。
+次のポートフォリオ管理機能は、Project Online。
   
-Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
+すべての機能に関するProject Online探していますか? サービスのProject Online[を参照してください](project-online-service-description.md)。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>プロジェクトの分析とポートフォリオの最適化
 
@@ -29,11 +29,11 @@ Project Online のすべての機能に関する情報をお探しですか? Pro
   
 ## <a name="create-and-edit-projects"></a>プロジェクトの作成と編集
 
-複数の方法でプロジェクトを作成します。 詳細については、「[Project Web App でプロジェクトを作成する](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)」を参照してください。
+複数の方法でプロジェクトを作成します。詳細については、「[Project Web App でプロジェクトを作成する](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)」を参照してください。
   
 ## <a name="enterprise-resource-management"></a>エンタープライズ リソースの管理
 
-リソースは、プロジェクトを完了するために必要な人、資料、またはコストです。 Microsoft PPM ソリューションを使用すると、リソース マネージャーは、リソース プールの管理、リソース容量の計画、および受信リソースエンゲージメント要求の承認、拒否、変更を行います。詳細については、「リソースを[リソースに追加する」を参照Project Web App。](https://go.microsoft.com/fwlink/p/?LinkId=271320)
+リソースは、プロジェクトを完了するために必要な人、資料、またはコストです。 Microsoft PPMソリューションを使用すると、リソース マネージャーはリソース プールの管理、リソース容量の計画、および受信リソースエンゲージメント要求の承認、拒否、変更を行います。詳細については、「リソースを[リソースに追加する」を参照Project Web App。](https://go.microsoft.com/fwlink/p/?LinkId=271320)
   
 ## <a name="financial-management"></a>財務管理
 

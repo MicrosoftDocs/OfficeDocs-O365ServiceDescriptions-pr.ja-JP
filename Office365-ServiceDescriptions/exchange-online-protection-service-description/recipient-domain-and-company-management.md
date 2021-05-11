@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection の受信者、ドメイン、および会社の管理
+title: 受信者、ドメイン、および会社の管理 (Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,11 +19,11 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51652999"
 ---
-# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Exchange Online Protection の受信者、ドメイン、および会社の管理
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>受信者、ドメイン、および会社の管理 (Exchange Online Protection
 
-Microsoft Exchange Online保護 (EOP) には、受信者、ドメイン、および会社の情報を管理するためのいくつかの手段があります。 管理者は、Exchange 管理センター (EAC) 内で特定の管理タスクを実行し、Microsoft 365 管理センターで実行される他の管理タスクを確認できます。
+Microsoft Exchange Online保護 (EOP) は、受信者、ドメイン、および会社情報を管理するためのいくつかの手段を提供します。 管理者は、Exchange 管理センター (EAC) 内で特定の管理タスクを実行し、Microsoft 365管理センターで実行されるその他の管理タスクを確認できます。
   
-すべての EOP 機能に関する情報をお探しですか? Exchange [Online Protection サービスの説明を参照してください](exchange-online-protection-service-description.md)。
+すべての EOP 機能に関する情報をお探しですか? サービスのExchange Online Protection[を参照してください](exchange-online-protection-service-description.md)。
   
 ## <a name="mail-recipients"></a>Mail recipients
 
@@ -35,7 +35,7 @@ EOP では、管理役割の構成のみが可能です。EAC では、既定の
   
 ## <a name="domain-management"></a>Domain management
 
-管理対象ドメインは、EOP によって保護されているドメインです。 EAC では、管理対象ドメインの表示とドメインの種類の編集ができます。 ドメインのプロビジョニングと管理は Microsoft 365 管理センターで行われます。変更は EAC に反映されます。 詳細については、「[EOP で承認済みドメインを管理する](/microsoft-365/security/office-365-security/exchange-online-protection-overview)」を参照してください。
+管理対象ドメインは、EOP によって保護されているドメインです。 EAC では、管理対象ドメインの表示とドメインの種類の編集ができます。 ドメインのプロビジョニングと管理は、管理センター Microsoft 365で行われます。変更は EAC に反映されます。 詳細については、「[EOP で承認済みドメインを管理する](/microsoft-365/security/office-365-security/exchange-online-protection-overview)」を参照してください。
   
 ## <a name="match-subdomains"></a>一致サブドメイン
 
@@ -49,4 +49,4 @@ DBEB を有効にするには、ユーザーおよびドメインの構成が必
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online Protection サービスの説明」 [を参照してください](exchange-online-protection-service-description.md)。
+プラン、スタンドアロン オプション、およびオンプレミス ソリューション全体で機能の可用性を表示するには、「サービスの説明Exchange Online Protection[参照してください](exchange-online-protection-service-description.md)。

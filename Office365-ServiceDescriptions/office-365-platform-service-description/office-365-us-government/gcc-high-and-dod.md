@@ -1,5 +1,5 @@
 ---
-title: Office 365 GCC High および DoD
+title: Office 365 GCCと DoD
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: Office 365 GCC High 環境と DoD 環境の固有のコミットメントと相違点について、Office説明します。
+description: 高環境と DoD 環境の固有のコミットメントと相違点について、Office 365 GCC商用環境と比較Office 365説明します。
 ms.openlocfilehash: 5446d5d1e6e10649a75f001c92f0d970e2fae842
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,15 +17,15 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653459"
 ---
-# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High および DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCCと DoD
 
 米国国防総省、米国国防総省の管理下における非機密扱いの情報 (CUI) を保持または処理する請負業者、または国際武器取引規則 (ITAR) の対象となる、独自の進化し続ける要件に応じるため、Microsoft は GCC High および DoD 環境を提供いたします。これはボリューム ライセンスから利用でき、関心のある組織は環境を確立する前に適格性を確認する検証プロセスを完了します。試用版は、この時点では提供されません。 
   
-アカウント チームまたは優先パートナーに参加して、詳細を確認したり、検証プロセスを開始したりします。 購入方法の詳細については [、「Microsoft 365 Government - How to Buy 」を参照してください](./microsoft-365-government-how-to-buy.md)。
+アカウント チームまたは優先パートナーに参加して、詳細を確認したり、検証プロセスを開始したりします。 購入方法の詳細については、「Microsoft 365 [- 購入方法」を参照してください](./microsoft-365-government-how-to-buy.md)。
   
 ## <a name="how-to-use-this-service-description"></a>このサービスの説明を使用する方法
 
-365 Office 365 政府機関サービスの説明は、365 サービスの一般的な説明Officeとして機能するように設計されています。 企業向け 365 のサービスに対する固有のコミットメントOffice違いを定義します。
+米国Office 365サービスの説明は、サービスの一般的な説明へのオーバーレイOffice 365設計されています。 企業向けサービスに対する固有のコミットメントと相違点Office 365定義します。
   
 ## <a name="compliance"></a>コンプライアンス
 
@@ -54,10 +54,10 @@ Office 365 のスタッフには、GCC High および DoD 製品への永続的�
 |指紋チェック  <br/> |FBI データベースに照らして行う指紋の身元調査  <br/> |
 |米国国防総省 IT-2  <br/> |お客様データへの管理者特権のアクセス許可、または国防総省 SRG L5 サービス機能への管理者特権アクセスを要求しているスタッフは、OPM Tier 3 調査に基づく国防総省 IT-2 の判定に合格する必要があります  <br/> |
 
-<sup>1 365</sup> US クラウドまたは DOD クラウドでホストされている顧客コンテンツに一時的または永続的にアクセスできるOffice担当者GCC-High適用されます。
+<sup>1</sup>米国または DOD クラウドでホストされている顧客コンテンツに一時的または永続的にアクセスできるOffice 365担当者GCC-High適用されます。
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>対応しているクラウド アーキテクチャに基づく機能のわずかな違い
 
-GCC High および DoD 環境のサブスクリプションには、Exchange Online、SharePoint、Skype for Business のコア機能が含まれます。 インフラストラクチャの認定資格は増加しており、市販の Office 365 オファリングと GCC High および DoD で提供されるものでも、機能に違いがあります。
+GCCおよび DoD 環境のサブスクリプションには、コア Exchange Online、SharePoint、Skype for Businessがあります。 インフラストラクチャの認定資格は増加しており、市販の Office 365 オファリングと GCC High および DoD で提供されるものでも、機能に違いがあります。
   
 ### <a name="exchange-online"></a>Exchange Online
 
@@ -65,12 +65,12 @@ GCC High および DoD 環境のサブスクリプションには、Exchange Onl
   
 ### <a name="file-sharing"></a>ファイル共有
 
-ユーザーには、SharePoint と OneDrive でファイルとフォルダーを共有するための複数のオプションがあります。 すべてのオプションは、GCC High 環境と DoD 環境で使用できます。 これらのオプションの管理の詳細については、「共有設定の管理 [」を参照してください](/sharepoint/turn-external-sharing-on-or-off)。 ユーザーはGCC-High GCC-High の他の組織とのみ共有できます。 さらに、ユーザー プロファイルに添付されている NON-GCC High メール アドレスはサポートされていません。また、アラート メールの送信は許可されません。 たとえば、オンプレミスのユーザー A には Gmail のメール アドレスが割り当てされ、Azure GCC High 組織に同期されます。 ユーザー A はライブラリに移動し、変更に関するアラートを作成します。 アラートは Gmail アドレスに送信されません。
+ユーザーには、ファイルとフォルダーを共有するための複数のSharePointおよびOneDrive。 すべてのオプションは、GCC DoD 環境で使用できます。 これらのオプションの管理の詳細については、「共有設定の管理 [」を参照してください](/sharepoint/turn-external-sharing-on-or-off)。 ユーザーは GCC-High-High の他の組織GCC共有できます。 さらに、NON-GCCユーザー プロファイルに添付された高電子メール アドレスはサポートされていません。また、警告メールの送信は許可されません。 たとえば、オンプレミスのユーザー A には Gmail のメール アドレスが割り当てられた後、Azure GCC High 組織に同期されます。 ユーザー A はライブラリに移動し、変更に関するアラートを作成します。 アラートは Gmail アドレスに送信されません。
 
 > [!NOTE]
-> 現在、GCC-Highユーザーは、非 GCC High 組織のユーザーと共有できません。
+> 現在、GCC-Highユーザーは、高レベル以外の組織のユーザーとGCCできません。
 
-[ファイル要求は](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) 、365 Government Office使用できません。
+[ファイル要求は](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)、ユーザーが使用Office 365 Government。
 
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
@@ -78,9 +78,9 @@ GCC High および DoD 環境のサブスクリプションには、Exchange Onl
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**電話システムと電話会議 (** ダイレクト ルーティング経由) - GCC High および DoD 環境の電話システムと電話会議は、直接ルーティングを介して配信されています。 詳細については、次のサービス レベルのドキュメントを参照してください。
+**電話システム電話会議 (** ダイレクト ルーティング経由) - 電話システム High 環境および DoD 環境の GCC および電話会議は、直接ルーティングを介して配信されています。 詳細については、次のサービス レベルのドキュメントを参照してください。
 
-- [ダイレクト ルーティングによる電話システム](/microsoftteams/here-s-what-you-get-with-phone-system)
+- [電話システムルーティングを介して行う](/microsoftteams/here-s-what-you-get-with-phone-system)
 - [GCC High および DoD のダイレクト ルーティングを使用する電話会議](/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
 ### <a name="identity"></a>ID
@@ -89,10 +89,10 @@ GCC High および DoD 環境のサブスクリプションには、Exchange Onl
   
 ### <a name="yammer"></a>Yammer
 
-Yammerは、GCC High 環境および DoD 環境では使用できません。
+Yammerは、High 環境と DoD 環境GCC使用できません。
   
 ## <a name="customer-support"></a>顧客サポート
 
-Microsoft は、Office 365 GCC High/DOD を使用する場合、少なくともそのようなデータを表示またはアクセスするためのサポート エージェントの承認を確認するまで、サポート インシデントの一環として、管理、機密情報、または機密情報をカスタマー サポート担当者と共有してはならないことを通知します。
+Microsoft は、Office 365 GCC High/DOD を使用する場合、少なくともサポート エージェントがそのようなデータを表示またはアクセスするための承認を確認するまで、サポート インシデントの一環として、管理、機密情報、または機密情報をカスタマー サポート担当者と共有してはならないことを通知します。
 
-Microsoft は、お客様のプライバシーの保護に取り組[む。](https://privacy.microsoft.com/privacystatement) ただし、Office 365 GCC High/DoD サポートはサービス認定の境界には含まれません。また、コンプライアンス保証を処理する FedRAMP、DOD SRG、ITAR、IRS 1075、または CJIS データは提供しません。
+Microsoft は、お客様のプライバシーの保護に取り組[む。](https://privacy.microsoft.com/privacystatement) ただし、Office 365 GCC High/DoD サポートはサービス認定の境界には含まれていないので、FedRAMP、DOD SRG、ITAR、IRS 1075、または CJIS データ処理コンプライアンス保証は提供しません。

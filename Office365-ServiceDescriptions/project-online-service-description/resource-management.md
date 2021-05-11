@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Project Online では、次のリソース管理機能を使用できます。
+description: 次のリソース管理機能は、Project Online。
 ms.openlocfilehash: 62b64e672dc9acb1e86415d47cad9c8ead053330
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,7 +19,7 @@ ms.locfileid: "51651089"
 ---
 # <a name="resource-management"></a>リソース管理
 
-Project Online では、次のリソース管理機能を使用できます。
+次のリソース管理機能は、Project Online。
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>受信リソース契約要求の承認/却下/変更
 
@@ -35,7 +35,7 @@ Project Online では、次のリソース管理機能を使用できます。
   
 ## <a name="request-resource-agreements"></a>リソース契約の要求
 
-リソースの時間を体系的に要求することができます。 詳細については、「[リソースの時間を要求する](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)」を参照してください。
+リソースの時間を体系的に要求することができます。詳細については、「[リソースの時間を要求する](https://go.microsoft.com/fwlink/?LinkID=823663&amp;clcid=0x409)」を参照してください。
   
 ## <a name="view-available-resources-and-build-teams"></a>使用可能なリソースの表示とチームの構築
 

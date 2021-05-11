@@ -26,7 +26,7 @@ ms.locfileid: "51652441"
 
 マイクロソフトは、各サービスのサービス レベルを達成および維持するという当社の約束に関し返金制度を設けています。サービス レベル契約に記載のとおり、各サービスのサービス レベルが達成、維持されない場合、お客様は月額サービス料金の一部に対してクレジットを受ける対象になる場合があります。当社のサービスに関するサービス レベル契約の詳細については、「[Microsoft Online サービス レベル契約](https://go.microsoft.com/fwlink/?linkid=272026)」をダウンロードしてください。システムの稼働時間、セキュリティ、プライバシー、コンプライアンスに関する情報の概要については、「[Office 365 による透明性のある運用](./service-health-and-continuity.md)」を参照してください。
   
-## <a name="office-365-operated-by-21vianet"></a>21Vianet が運用している Office 365
+## <a name="office-365-operated-by-21vianet"></a>21 Vianet が運用している Office 365
 
 21Vianet が運用している Office 365 については、「[21Vianet サービス レベル アグリーメント](https://go.microsoft.com/fwlink/?linkid=846729)」と「[オンライン サービスの標準的な契約](https://go.microsoft.com/fwlink/?linkid=846730)」を参照してください。 
   
@@ -35,4 +35,4 @@ ms.locfileid: "51652441"
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには [、「Microsoft 365 および Office 365 プラットフォーム](office-365-platform-service-description.md)サービスの説明」を参照してください。
+プラン間で機能の可用性を表示するには、「Microsoft 365[プラットフォーム サービスOffice 365」を参照してください](office-365-platform-service-description.md)。

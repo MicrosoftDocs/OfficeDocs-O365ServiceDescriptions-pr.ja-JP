@@ -35,7 +35,7 @@ Microsoft Workplace Analytics は、より効果的なビジネス上の意思�
 
 ## <a name="gain-objective-actionable-insights"></a>客観的でアクション可能な分析情報を得る
 
-組織が 365 からこれまでにない洞察を得て、社内外でどのように時間を費やし、共同作業を行Office参照してください。 Workplace Analytics を使用すると、ビジネス リーダーは、チーム 化モデル、リソース割り当て、ワークスペース計画など、さまざまな戦略的意思決定を通知する時間とネットワークに関するアクション可能な行動指標の数十を提供します。
+組織が社内外でどのように時間を費やし、共同作業を行うのか、組織の前例のない分析情報をOffice 365。 Workplace Analytics を使用すると、ビジネス リーダーは、チーム 化モデル、リソース割り当て、ワークスペース計画など、さまざまな戦略的意思決定を通知する時間とネットワークに関するアクション可能な行動指標の数十を提供します。
 
 ## <a name="drive-organizational-change-with-data"></a>データを使用して組織の変更を実行する
 
@@ -49,4 +49,4 @@ Workplace Analytics は、お客様のニーズとコンプライアンスを満
   
 ## <a name="licensing-requirements"></a>ライセンスの要件
 
-Exchange Online プラン 1 またはプラン 2 は前提条件です。
+Exchange Onlineプラン 1 またはプラン 2 は前提条件です。

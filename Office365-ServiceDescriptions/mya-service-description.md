@@ -20,7 +20,7 @@ ms.locfileid: "51652601"
 
 MyAnalytics は、業務時間中の時間の使い方を要約し、仕事を効率化する方法を提案します。 MyAnalytics は、Microsoft Outlook または Web ブラウザーでアクセスできる[要素](#elements)により、これらの分析を提供します。
 
-MyAnalytics の要素の一部は、さまざまな Office 365 プランのユーザーに自動的に提供されます。 365 プランと Microsoft 365 プランOffice含まれる要素については [、「MyAnalytics](/workplace-analytics/myanalytics/overview/plans-environments)プランと環境」を参照してください。  
+MyAnalytics の要素の一部は、さまざまな Office 365 プランのユーザーに自動的に提供されます。 どの要素がプランに含まれているかOffice 365、Microsoft 365 [MyAnalytics](/workplace-analytics/myanalytics/overview/plans-environments)プランと環境を参照してください。  
 
 MyAnalytics は、従業員のプライバシーを保護する方法で情報を処理します。 詳細については、「[データ プライバシー](#data-privacy)」を参照してください。
 
@@ -35,7 +35,7 @@ MyAnalytics は次の要素で構成されています。
 * [ダッシュボード](/workplace-analytics/myanalytics/use/dashboard-2): 集中した作業時間、会議と電子メールのプラクティス、ネットワークなど、作業パターンを反映するのに役立ちます。
 * [Outlook アドイン](/workplace-analytics/myanalytics/use/add-in): Outlook で実践的な洞察を提供し、タスクをうまくやりこなし生産性を高めることができるように助けます。
 * [メール ダイジェスト](/workplace-analytics/myanalytics/use/email-digest-2): 週 1 回のメールで作業パターンに関する重要なハイライトを提供します。
-* [インライン提案](/workplace-analytics/myanalytics/use/mya-notifications): 電子メールまたは会議の招待を読んでいる間、または作成している間に、これらの簡潔な、データ、および AI 駆動型の提案が Outlook に表示されます。
+* [インライン提案](/workplace-analytics/myanalytics/use/mya-notifications): 電子メールまたは会議出席依頼を読んでいる間、Outlook にこれらの簡潔な、データ、AI 駆動型の提案が表示されます。
 
 ## <a name="data-privacy"></a>データのプライバシー
 

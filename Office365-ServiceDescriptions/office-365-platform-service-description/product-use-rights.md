@@ -24,7 +24,7 @@ ms.locfileid: "51652521"
 
 Microsoft Online サブスクリプション契約に従うことに同意した場合は、「[マイクロソフト製品およびオンライン サービスのボリューム ライセンス](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)」で明示的に許可されているとおりにオンライン サービスと関連ソフトウェアを使用できます。
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 が 21Vianet の使用権によって運用されている場合
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 21Vianet の使用権限によって運用される場合
 
 詳しくは、「[オンライン サービスの標準的な契約](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)」、「[使用条件](https://www.21vbluecloud.com/office365/O365-TOU/)」を参照してください。
   
@@ -34,6 +34,6 @@ Microsoft Online サブスクリプション契約に従うことに同意した
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン全体の機能の可用性を表示するには [、「Microsoft 365 および Office 365 プラットフォーム](office-365-platform-service-description.md)サービスの説明」を参照してください。
+プラン間で機能の可用性を表示するには、「Microsoft 365[プラットフォーム サービスOffice 365」を参照してください](office-365-platform-service-description.md)。
   
 

@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 には、次のヘルプとトレーニング リソースが含まれます。
+description: Microsoft Office 365ヘルプとトレーニング リソースを提供します。
 ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,11 +21,11 @@ ms.locfileid: "51653239"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365 には、次のヘルプとトレーニング リソースが含まれます。
+Microsoft Office 365ヘルプとトレーニング リソースを提供します。
   
 ## <a name="online-help"></a>オンライン ヘルプ
 
-ヘルプ記事とビデオは、Office 365 ポータルと Microsoft 365 管理センターのトップ ナビゲーション バーのヘルプ アイコンなど、サービス内の任意のインライン ヘルプ リンクから利用できます。 また、365 ヘルプOffice検索できます [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 。 
+ヘルプ記事とビデオは、Office 365 ポータルと管理センターのトップ ナビゲーション バーのヘルプ アイコンなど、サービス内の任意のインライン ヘルプ リンクMicrosoft 365利用できます。 また、すべてのヘルプをOffice 365することができます [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) 。 
   
 ## <a name="training"></a>トレーニング
 
@@ -90,15 +90,15 @@ Office 365 コミュニティのホーム ページから次のリソースに�
     
 詳細については、[Office 365 コミュニティ](https://techcommunity.microsoft.com/)をご覧ください。
   
-## <a name="manage-office-365-guidance"></a>365 Officeの管理
+## <a name="manage-office-365-guidance"></a>ガイダンスOffice 365管理する
 
-大規模な組織の IT 担当者は、[管理] Office 365 ドキュメントのホーム ページにアクセスできます。 このページでは、大規模な組織を対象とした複雑な展開ガイダンスへのリンクを提供します。
+大規模な組織の IT 担当者は、[管理] Office 365ドキュメントのホーム ページにアクセスできます。 このページでは、大規模な組織を対象とした複雑な展開ガイダンスへのリンクを提供します。
   
-詳細については、「Manage [Office 365」を参照してください](/Office365/)。
+詳細については、「Manage [Office 365」 を参照してください](/Office365/)。
   
 ## <a name="other-self-help-resources"></a>その他のセルフヘルプ リソース
 
-365 コミュニティとオンライン Officeに加えて、Office 365 には次のセルフ ヘルプ リソースが含まれています。
+このヘルプには、Office 365 Communityオンライン ヘルプOffice 365、次のセルフ ヘルプ リソースが含まれています。
   
 - **Office 365 のトラブルシューティング ツール** Office 365 のトラブルシューティング ツールは、ユーザーが問題に関する一連の短い質問に回答した後、その回答に基づいて有用なツールと情報を提示します。ツールを使用するには、Office 365 コミュニティの [Office 365 のトラブルシューティング ツール](https://go.microsoft.com/fwlink/?LinkId=272113)に関するページへ移動してください。 
     
@@ -149,4 +149,4 @@ Office 365 コミュニティのホーム ページから次のリソースに�
    
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには [、「Microsoft 365 および Office 365](office-365-platform-service-description.md)プラットフォーム サービスの説明」を参照してください。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Microsoft 365および[Office 365」を参照してください](office-365-platform-service-description.md)。

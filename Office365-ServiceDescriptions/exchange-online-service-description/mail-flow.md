@@ -27,16 +27,16 @@ ms.locfileid: "51653329"
   
 ## <a name="custom-routing-of-outbound-email"></a>送信電子メールのカスタム ルーティング
 
-Microsoft Exchange Onlineは、組織からオンプレミス サーバーまたはホストされたサービス ("スマート ホスティング" とも呼ばれる) を経由してメールをルーティングできます。 これにより、組織はデータ損失防止 (DLP) アプライアンスを使用し、送信メールのカスタム後処理を実行し、プライベート ネットワークを通じてビジネス パートナーに電子メールを配信できます。 Exchange Online では、アドレスの変更を行うオンプレミス ゲートウェイを介して送信メールをルーティングするアドレス書き換えもサポートしています。 この機能を使用すると、サブドメインを非表示にしたり、複数ドメイン組織からのメールを単一のドメインとして表示したり、パートナー中継メールを組織内から送信した場合と同様に表示できます。 管理者は、Exchange 管理センター (EAC) 内でカスタム メール ルーティングを構成します。
+Microsoft Exchange Onlineは、組織からオンプレミス サーバーまたはホストされたサービス ("スマート ホスティング" とも呼ばれる) を経由してメールをルーティングできます。 これにより、組織はデータ損失防止 (DLP) アプライアンスを使用し、送信メールのカスタム後処理を実行し、プライベート ネットワークを通じてビジネス パートナーに電子メールを配信できます。 Exchange Onlineアドレスの書き換えもサポートしています。これは、アドレスを変更するオンプレミスゲートウェイを介して送信メールをルーティングします。 この機能を使用すると、サブドメインを非表示にしたり、複数ドメイン組織からのメールを単一のドメインとして表示したり、パートナー中継メールを組織内から送信した場合と同様に表示できます。 管理者は、管理者管理センター (EAC) Exchangeメール ルーティングを構成します。
   
 詳細については、「Microsoft と独自の電子メール サーバー間でメールをルーティングするコネクタをセットアップ [する」を参照してください](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 > [!IMPORTANT]
-> Exchange Online は、組織との間を流れるメールを配信できます。 受信者ドメインが Exchange Online Protection を指す DNS MX レコードを使用して Exchange Online でホストされている場合、テナントから受信者へのメール フローはインターネット上を移動されません。
+> Exchange Online は、組織との間を流れるメールを配信できます。 受信者ドメインが Exchange Online を指す DNS MX レコードを使用して Exchange Online Protection でホストされている場合、テナントから受信者へのメール フローはインターネットを使用して移動されません。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Exchange Online のお客様は、Microsoft コネクタを使用して、信頼できるパートナーとセキュリティで保護されたメール フローを設定できます。 Microsoft はトランスポート層セキュリティ (TLS) によるセキュリティで保護された通信をサポートし、TLS 経由で暗号化を適用するためのコネクタを作成できます。 [TLS](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) は、インターネット上の通信にセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
+お客様Exchange Online、Microsoft コネクタを使用して、信頼できるパートナーとセキュリティで保護されたメール フローを設定できます。 Microsoft はトランスポート層セキュリティ (TLS) によるセキュリティで保護された通信をサポートし、TLS 経由で暗号化を適用するためのコネクタを作成できます。 [TLS](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) は、インターネット上の通信にセキュリティを提供する暗号化プロトコルです。 コネクタを使用すると、自己署名証明書または証明機関 (CA) 検証の証明書を使用した受信 TLS と送信 TLS の両方を強制するよう構成できます。 パートナー組織のメールの送信元のドメイン名または IP アドレスの範囲を指定するなど、他のセキュリティ制限を適用することもできます。 
   
 詳細については、「[Set up connectors for secure mail flow with a partner organization](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)」を参照してください。
   
@@ -65,13 +65,13 @@ Exchange Online のお客様は、Microsoft コネクタを使用して、信頼
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>社内ルーティング制御を使った共有アドレス スペース (MX が社内を指定)
 
-オンプレミスルーティング制御を使用した共有アドレス空間 (MX Points to On-Premises) は、メールボックスが部分的に Exchange Online でホストされ、部分的にオンプレミスでホストされ、受信および送信インターネット メール フローがオンプレミスの Exchange 組織を介してルーティングされるハイブリッド展開メール ルーティング シナリオです。 このシナリオは、集中メール トランスポートとも呼ばれる。 このシナリオでは、Exchange Online は EOP でプロビジョニングされ、受信インターネット メールは EOP にルーティングされる前にオンプレミスのメール サーバーにルーティングされ、最後に Exchange Online でホストされるメールボックスにルーティングされます。 さらに、Exchange Online メールボックスからの送信メールは、外部受信者に送信されるメッセージに対して、オンプレミスの Exchange 組織を介してルーティングされます。 この構成では、オンプレミスの Exchange 組織と Exchange Online 組織の両方のすべてのメールボックスに対して 1 つの SMTP ドメイン名前空間を使用できます。 
+オンプレミス ルーティング制御を使用した共有アドレス空間 (MX Points to On-Premises) は、メールボックスが部分的に Exchange Online および部分的にオンプレミスでホストされ、受信および送信インターネット メール フローがオンプレミス Exchange 組織を経由してルーティングされるハイブリッド展開メール ルーティング シナリオです。 このシナリオは、集中メール トランスポートとも呼ばれる。 このシナリオでは、Exchange Online は EOP でプロビジョニングされ、受信インターネット メールは EOP にルーティングされる前にオンプレミスのメール サーバーにルーティングされ、最後に Exchange Online でホストされるメールボックスにルーティングされます。 さらに、メールボックスからの送信Exchange Onlineは、外部受信者に送信されるメッセージのExchangeオンプレミスの組織を経由してルーティングされます。 この構成では、オンプレミスの組織と組織の両方で、すべてのメールボックスに対して単一の SMTP ドメイン名前空間Exchange使用Exchange Onlineできます。 
   
 ハイブリッド展開でのトランスポート オプションの詳細については、「[Exchange ハイブリッド展開でのトランスポート オプション](/exchange/transport-options)」を参照してください。
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>社内ルーティング制御を使わない共有アドレス スペース (MX が EOP を指定)
 
-オンプレミス ルーティング制御のない共有アドレス空間 (MX Points to EOP) は、Exchange Online と部分的にオンプレミスを使用して、メールボックスがクラウド内で部分的にホストされ、MX レコードが EOP をポイントするハイブリッド メール ルーティング シナリオです。 このシナリオは、Microsoft を使用して組織のメールボックスの一部をホストし、EOP でオンプレミスメールボックスとクラウド メールボックスの両方を保護する場合に適しています。 このシナリオでは、組織内の受信者に送信されるメールは、最初は EOP 経由でルーティングされ、スパムとポリシー のフィルター処理が行われます。その後、オンプレミスのメールボックスとクラウド メールボックスに到達します。 
+オンプレミス ルーティング制御のない共有アドレス空間 (MX ポイントから EOP) は、メールボックスが Exchange Online と部分的にオンプレミスを使用してクラウド内で部分的にホストされ、MX レコードが EOP をポイントするハイブリッド メール ルーティング シナリオです。 このシナリオは、Microsoft を使用して組織のメールボックスの一部をホストし、EOP でオンプレミスメールボックスとクラウド メールボックスの両方を保護する場合に適しています。 このシナリオでは、組織内の受信者に送信されるメールは、最初は EOP 経由でルーティングされ、スパムとポリシー のフィルター処理が行われます。その後、オンプレミスのメールボックスとクラウド メールボックスに到達します。 
   
 ハイブリッド展開でのトランスポート オプションの詳細については、「[Exchange ハイブリッド展開でのトランスポート オプション](/exchange/transport-options)」を参照してください。
   
@@ -96,4 +96,4 @@ Exchange Online のお客様は、Microsoft コネクタを使用して、信頼
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「Exchange Online サービスの説明 [」を参照してください](exchange-online-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明」をExchange Online[してください](exchange-online-service-description.md)。

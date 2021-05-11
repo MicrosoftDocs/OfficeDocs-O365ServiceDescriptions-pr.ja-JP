@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: プランで使用できる SharePoint 機能を確認します。
+description: プランでSharePoint利用可能な機能を確認します。
 ms.openlocfilehash: 929156fe985764615dc3e7a7797e87f5d97cdd3b
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,54 +23,54 @@ ms.locfileid: "51651170"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint サービスの説明
 
-Microsoft 365 の SharePoint は、組織がコンテンツ、ナレッジ、およびアプリケーションを次の場所で共有および管理するのに役立ちます。
+SharePointのMicrosoft 365、コンテンツ、ナレッジ、およびアプリケーションを共有および管理するのに役立ちます。
 
 - チームワークを強化する
 - 情報をすばやく見つける
 - 組織全体でシームレスに共同作業を行う
 
-簡単な概要については [、「SharePoint とは」を参照してください。](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
+簡単な概要については、「概要[」を参照SharePoint。](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-SharePoint でユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較 [表を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。 Microsoft 365 のシステム要件については [、「Microsoft 365」および「Officeリソース」を参照してください](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
+ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画SharePoint、完全なサブスクリプション比較表[を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。 システムMicrosoft 365については、「リソースのMicrosoft 365[とOffice」を参照してください](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
-米国政府機関のクラウド顧客向け SharePoint 機能の違いについては [、「SharePoint for US Government environments」を参照してください](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
+米国政府機関のクラウドSharePoint機能の違いについては、「米国政府機関環境SharePoint[を参照してください](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
 ## <a name="whats-new"></a>新機能
 
-リリースされる最新の機能の詳細については [、「What's new in SharePoint」を参照してください](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)。
+リリースされる最新の機能の詳細については、「[新機能](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)」を参照SharePoint。
   
 ## <a name="subscription-options"></a>サブスクリプションのオプション
 
-Microsoft 365 には、組織のニーズに最適な幅広いプランが用意されています。 SharePoint でユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較 [表を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Microsoft 365 には、組織のニーズに最適な幅広いプランが用意されています。 ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画SharePoint、完全なサブスクリプション比較表[を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
-SharePoint にアクセスするには、組織内のユーザーに SharePoint を含むライセンスを割り当てる必要があります。 Firstline プランはスタンドアロン オファーとして販売されるのではなく [、Office 365 F3、Microsoft 365](https://www.microsoft.com/microsoft-365/business/office-365-f1) [F1、または Microsoft 365](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) [F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)の一部としてのみ販売されます。 
+ユーザーにアクセスSharePoint、組織のユーザーには、ユーザーが含まれるライセンスを割り当SharePoint。 Firstline プランはスタンドアロン オファーとして販売されるのではなく、F3、Office 365、Microsoft 365 F1、Microsoft 365 F3[](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab)の一[部Microsoft 365 F3。](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) [](https://www.microsoft.com/microsoft-365/business/office-365-f1) 
   
 ## <a name="rights-of-guests"></a>ゲストの権利
 
-プランを購入し、エンタープライズ機能を使用するサイトを作成する場合、招待したゲストには、招待したサイト内のエンタープライズ機能を使用または表示する権限が付与されます。 ゲストはサイトでさまざまなアクションを実行する招待を行うことができますが、組織内のライセンスユーザーと同じ機能はありません。 たとえば、プランにデスクトップ バージョンの Office アプリケーションが含まれる場合、ゲストはライセンスを割り当てない限り、自分のコンピューターにインストールできます。
+プランを購入し、エンタープライズ機能を使用するサイトを作成する場合、招待したゲストには、招待したサイト内のエンタープライズ機能を使用または表示する権限が付与されます。 ゲストはサイトでさまざまなアクションを実行する招待を行うことができますが、組織内のライセンスユーザーと同じ機能はありません。 たとえば、プランにデスクトップ バージョンの Office アプリケーションが含まれる場合、ライセンスを割り当てない限り、ゲストは自分のコンピューターにインストールできます。
 
 ## <a name="onedrive"></a>OneDrive
 
-Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンライン ストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDrive は SharePoint に含まれており、スタンドアロン プランとしても購入できます。 各プランに付属する OneDrive ストレージの量については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md)。
+OneDriveはMicrosoft 365内の個々のユーザーのオンライン ストレージです。 これは、ユーザーが複数のデバイスに分散した作業ファイルを簡単かつ安全に保存、同期、共有可能な場所です。 OneDriveは、SharePointに含まれており、スタンドアロンプランとしても購入できます。 各プランに付属OneDriveストレージの量については、「サービスの説明[」OneDrive参照してください](../onedrive-for-business-service-description.md)。
 
 ## <a name="apps"></a>アプリ
 
-コンピューター上の SharePoint ファイルを同期するには、ユーザーは Windows または Mac 用 [の OneDrive 同期アプリ](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) を使用できます。 同期アプリでの機能の可用性の詳細については [、「OneDrive サービスの説明」を参照してください](../onedrive-for-business-service-description.md)。 
+コンピューター上SharePointファイルを同期するには、ユーザーはコンピューターまたは Mac [](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) OneDrive同期アプリWindows使用できます。 同期アプリでの機能の可用性の詳細については、「サービスの説明OneDrive[参照してください](../onedrive-for-business-service-description.md)。 
 
-モバイル デバイス上の SharePoint サイトを使用するには [、iOS、Android、](https://products.office.com/sharepoint/mobile-app)または Windows 用の SharePoint モバイル アプリをインストールできます。 
+モバイル デバイス上SharePointサイトを使用するには[、iOS、Android、](https://products.office.com/sharepoint/mobile-app)または SharePoint のモバイル アプリをインストールWindows。 
   
   
 ## <a name="developer-features"></a>開発者向けの機能
 
-特に注意しない限り、SharePoint を含むすべてのプラン、およびすべての SharePoint スタンドアロン プランで次の機能を利用できます。
+特に注意しない限り、次の機能は、SharePoint、およびすべてのスタンドアロン プランSharePoint使用できます。
 
-- [アドイン ホスティング: パートナーホスト型および SharePoint ホスト型](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
+- [アドインホスティング: パートナーホスト型およびホスト型SharePointホスト型](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
 - [アプリの配布: アプリ カタログ](/sharepoint/use-app-catalog)
 - [アプリの配布: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
-- [Business Connectivity Services (BCS)](/sharepoint/manage-business-connectivity-service-applications)。 SharePoint プラン 2、Office 365 Enterprise E3、または 365 Enterprise E5 Office必要
+- [Business Connectivity Services (BCS)](/sharepoint/manage-business-connectivity-service-applications)。 プラン 2、SharePoint E3、または E5 Office 365 Enterpriseが必要Office 365 Enterpriseです。
 - [マネージ コード用のクライアント オブジェクト モデル](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
 - [開発者向けサイト](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
-- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). SharePoint プラン 2、Office 365 Enterprise E3、または 365 Enterprise E5 Office必要
+- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). プラン 2、SharePoint E3、または E5 Office 365 Enterpriseが必要Office 365 Enterpriseです。
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). 一部のプロバイダーは、国/地域でブロックされる場合があります。
 - [REST サービスおよび OData クエリ](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
 - [SharePoint Designer 2013 (従来のサイトの場合)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1)です。 firstline ワーカーには使用できません。
@@ -78,59 +78,59 @@ Microsoft 365 の OneDrive は、組織内の個々のユーザーのオンラ�
 - [サイト デザインとサイト スクリプト](/sharepoint/dev/declarative-customization/site-design-overview)
 - [サイトのテーマ](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-カスタマイズ オプションの概要については [、「SharePoint のカスタマイズ」を参照してください](/sharepoint/extend-and-develop)。
+カスタマイズ オプションの概要については、「カスタマイズ オプション」[を参照SharePoint。](/sharepoint/extend-and-develop)
 
-Microsoft Power Apps と Power Automate の可用性の詳細については、「Power Apps と Power Automate のライセンスに関する FAQ」 [を参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
+Microsoft Power Apps およびサービスの可用性の詳細についてはPower Automate、ライセンスに関するよくある[Power Apps Power Automateを参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-Microsoft Graph の可用性の詳細については [、「Microsoft 365 および Office 365 プラットフォーム サービスの説明」を参照してください](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
+Microsoft Graph の可用性の詳細については、「Microsoft 365プラットフォーム[Office 365」を参照してください](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
 
 ## <a name="it-admin-features"></a>IT 管理者の機能
 
-特に注意しない限り、SharePoint を含むすべてのプラン、およびすべての SharePoint スタンドアロン プランで次の機能を利用できます。
+特に注意しない限り、次の機能は、SharePoint、およびすべてのスタンドアロン プランSharePoint使用できます。
 
 - [アプリの使用状況とエラーの監視](/sharepoint/monitor-apps)
-- SharePoint および [OneDrive](/office365/admin/activity-reports/sharepoint-activity) のアクティビティと [使用状況レポート](/office365/admin/activity-reports/onedrive-for-business-activity)
+- ユーザーとユーザーのアクティビティ[SharePoint](/office365/admin/activity-reports/sharepoint-activity)[レポートOneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [サイト URL の変更](/sharepoint/change-site-address)
-- [OneDrive の既定の記憶域と保持の設定](/onedrive/set-default-storage-space)
-- [SharePoint Server のハイブリッド 。](/sharepoint/hybrid/hybrid) Firstline ワーカーが SharePoint Server にアクセスするには、クライアント アクセス ライセンス (CAL) が必要です。
+- [ユーザーの既定のストレージと保持OneDrive](/onedrive/set-default-storage-space)
+- [ハイブリッド for SharePoint サーバー .](/sharepoint/hybrid/hybrid) Firstline ワーカーは、クライアント アクセス ライセンス (CAL) を使用してサーバーにSharePointします。
 - [サイト作成設定の管理](/sharepoint/manage-site-creation)
 - [サイトストレージの制限の管理](/sharepoint/manage-site-collection-storage-limits)
-- [移行: SharePoint 移行ツール](/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [移行: SharePoint移行ツール](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [移行: 移行マネージャー](/sharepointmigration/mm-get-started)
-- [移行: SharePoint 移行評価ツール](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+- [移行: SharePoint評価ツール](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [移行: Mover.io](https://mover.io/). 世界中で利用可能です。
 - [複数地域 (データ常駐)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 少なくとも 500 の Microsoft ライセンスが必要なアドオン。 詳細については、Microsoft 担当者にお問い合わせください。
 - [プログラムによるサイトのプロビジョニング](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [ルート サイトの置換](/sharepoint/modern-root-site)
 - [削除されたサイトを復元する](/sharepoint/restore-deleted-site-collection)
-- [SharePoint 管理センター](/sharepoint/get-started-new-admin-center)。 Firstline ワーカーを持つ組織では、管理センターにアクセスするために少なくとも 1 人の Enterprise ユーザーが必要です。
+- [SharePoint管理センター](/sharepoint/get-started-new-admin-center). Firstline ワーカーを持つ組織では、管理センターにアクセスEnterprise少なくとも 1 人のユーザーが必要です。
 - [SharePoint モダン化スキャナー](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online 管理シェル](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true)。 Firstline ワーカーを持つ組織では、管理センターにアクセスするために少なくとも 1 人の Enterprise ユーザーが必要です。
+- [SharePoint管理シェル](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Firstline ワーカーを持つ組織では、管理センターにアクセスEnterprise少なくとも 1 人のユーザーが必要です。
 - [サイト ガバナンス](/sharepoint/governance-overview) 
 - [用語ストア - 管理されたメタデータ](/sharepoint/managed-metadata)
 
 FastTrack 移行サービスの可用性の詳細については、「対象となるサービスとプラン [」を参照してください](/fasttrack/m365-eligible-services-and-plans)。 
 
-共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md)。
+共有に関連する機能の詳細については、「サービスの説明OneDrive[参照してください](../onedrive-for-business-service-description.md)。
 
-SharePoint の管理者向けヘルプについては [、「SharePoint Online 管理者」を参照してください](/sharepoint/sharepoint-online)。
+管理者向けヘルプについては、「SharePointオンライン[管理者SharePoint」を参照してください](/sharepoint/sharepoint-online)。
 
 ## <a name="security-and-compliance-features"></a>セキュリティとコンプライアンスの機能
 
-特に注意しない限り、SharePoint を含むすべてのプラン、およびすべての SharePoint スタンドアロン プランで次の機能を利用できます。
+特に注意しない限り、次の機能は、SharePoint、およびすべてのスタンドアロン プランSharePoint使用できます。
 
 - [アクセス制御: ネットワークの場所](/sharepoint/control-access-based-on-network-location)
-- [アクセス制御: 管理されていないデバイス](/sharepoint/control-access-from-unmanaged-devices)。 Azure ADプレミアム P1 が必要です。
+- [アクセス制御: 管理されていないデバイス](/sharepoint/control-access-from-unmanaged-devices)。 Azure を使用AD プレミアム P1 が必要です。
 - [転送中および保存時の暗号化](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [アイドル セッションのサインアウト](/sharepoint/sign-out-inactive-users)
 - [情報管理ポリシー](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [Information Rights Management (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 Azure Information Protection スタンドアロンまたはスイートの一部として必要です。 Azure Information Protection の一部の機能では、Microsoft 365 Apps for enterprise へのサブスクリプションが必要です。
+- [Information Rights Management (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 Azure Information Protection スタンドアロンまたはスイートの一部として必要です。 Azure Information Protection の一部の機能では、サブスクリプションが必要Microsoft 365 Apps for enterprise。
 - [ドキュメント ライブラリを以前の時点に復元する](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [ウイルススキャン](/office365/securitycompliance/virus-detection-in-spo)
 
-共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md)。
+共有に関連する機能の詳細については、「サービスの説明OneDrive[参照してください](../onedrive-for-business-service-description.md)。
 
-SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプライアンス機能と統合されます。 次の機能の可用性の詳細については [、「Security &コンプライアンス サービスの説明」を参照してください](../office-365-platform-service-description/office-365-securitycompliance-center.md)。
+SharePointの高度なセキュリティおよびコンプライアンス機能と統合Microsoft 365。 次の機能の可用性の詳細については [、「Security &コンプライアンス サービスの説明」を参照してください](../office-365-platform-service-description/office-365-securitycompliance-center.md)。
 
 - [カスタマー ロックボックス](/microsoft-365/compliance/customer-lockbox-requests)
 - [データ損失防止 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -139,7 +139,7 @@ SharePoint は、Microsoft 365 の高度なセキュリティおよびコンプ�
 - [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保持ラベルとポリシー](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [秘密度ラベル](/microsoft-365/compliance/sensitivity-labels)
-- [統合監査](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (SharePoint ユーザーと管理者アクティビティの監査)
+- [統合監査](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)(ユーザーとSharePointアクティビティの監査)
 
 Azure Information [Protection の詳細については、「Azure](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection) [Information Protection の要件」を参照してください。](/azure/information-protection/requirements)
 
@@ -149,51 +149,51 @@ Azure Information [Protection の詳細については、「Azure](/microsoft-36
 
 ## <a name="sites-and-content-features"></a>サイトとコンテンツ機能
 
-特に注意しない限り、SharePoint を含むすべてのプラン、およびすべての SharePoint スタンドアロン プランで次の機能を利用できます。
+特に注意しない限り、次の機能は、SharePoint、およびすべてのスタンドアロン プランSharePoint使用できます。
 
 - [アクセシビリティ](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [サイトに Microsoft Teams を追加します](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
+- [サイトMicrosoft Teamsを追加します](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
 - [対象ユーザーの設定](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
-- [従来のチーム サイトを新しいグループ 365 Officeに接続します](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)。 365 を含むサブスクリプションOffice必要です。
-- [プランを作成する (Planner 統合)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 365 を含むサブスクリプションOfficeし、Planner のライセンスをユーザーに要求します。
+- [Connectチーム サイトを新しいグループ グループにOffice 365します](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)。 サブスクリプションが必要です。このサブスクリプションには、Office 365。
+- [プランを作成する (Planner 統合)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 プランを含むサブスクリプションOffice 365し、Planner のライセンスをユーザーに要求します。
 - [ドキュメント ライブラリ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [ドキュメント セット](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - ファイル カード (アクティビティ、会話、閲覧者)
-- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [リスト](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [メガ メニュー](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
-- [Microsoft Forms の統合](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). 365 を含むサブスクリプションOffice、ユーザーに Forms のライセンスが必要です。
+- [Microsoft Forms の統合](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). フォームを含むサブスクリプションOffice 365、ユーザーが Forms のライセンスを取得する必要があります。
 - [ニュース](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
 - Officeアプリの統合。 Office デスクトップ アプリを含むサブスクリプションが必要です。
-- Office統合の方法を説明します。 365 を含むサブスクリプションOffice必要です。
+- Office統合の方法を説明します。 サブスクリプションが必要です。このサブスクリプションには、Office 365。
 - [組織アセット ライブラリ](/sharepoint/organization-assets-library)
 - [組織のニュース](/sharepoint/organization-news-site)
 - [ページの承認](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
 - [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - レコード管理
 - [ごみ箱](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
-- [SharePoint モバイル アプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
-- [SharePoint の開始ページ](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [SharePointアプリ](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
+- [SharePointスタート ページ](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
 - [サイト デザイン](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [サイト使用状況レポート](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [サイト: クラシック サイト](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 - [サイト: コミュニケーション サイト](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [サイト: ホーム サイト](/sharepoint/home-site)
 - [サイト: ハブ サイト](/sharepoint/planning-hub-sites)
-- サイト: モダン チーム サイト (Microsoft 365 グループなし)
-- [サイト: Microsoft 365 グループ接続チーム サイト](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 365 を含むサブスクリプションOffice必要です。
+- サイト: モダン チーム サイト (Microsoft 365グループなし)
+- [サイト: Microsoft 365に接続されたチーム サイトです](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 サブスクリプションが必要です。このサブスクリプションには、Office 365。
 - [サイト: ルート サイト](/sharepoint/modern-root-site)
-- [Team OneNote ノートブック](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
+- [チーム OneNote ノートブック](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [テーマ (外観を変更する)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Web パーツ](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Microsoft Teams で SharePoint コンテンツを使用します](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
+- [コンテンツのSharePointをMicrosoft Teams。](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f) Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
 
-Microsoft Power Apps と Power Automate の可用性の詳細については、「Power Apps と Power Automate のライセンスに関する FAQ」 [を参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
+Microsoft Power Apps およびサービスの可用性の詳細についてはPower Automate、ライセンスに関するよくある[Power Apps Power Automateを参照してください](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-共有に関連する機能の詳細については、「OneDrive サービスの説明 [」を参照してください](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)。
+共有に関連する機能の詳細については、「サービスの説明OneDrive[参照してください](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)。
 
 ## <a name="search-features"></a>検索機能
 
-特に注意しない限り、SharePoint を含むすべてのプラン、およびすべての SharePoint スタンドアロン プランで次の機能を利用できます。
+特に注意しない限り、次の機能は、SharePoint、およびすべてのスタンドアロン プランSharePoint使用できます。
 
 - [ハイブリッド検索](/sharepoint/hybrid/hybrid-search-in-sharepoint)
 - [結果ソースの管理 (クラシック検索とモダン検索)](/sharepoint/manage-result-sources)
@@ -203,4 +203,4 @@ Microsoft Power Apps と Power Automate の可用性の詳細については、�
 - [検索センター (クラシック検索)](/sharepoint/manage-search-center)
 - [検索スキーマ (クラシック検索とモダン検索)](/sharepoint/manage-search-schema)
 
-Delve の詳細については [、「Microsoft 365 および Office 365 プラットフォーム](../office-365-platform-service-description/office-365-platform-service-description.md)サービスの説明」を参照してください。
+詳細については、「Delveプラットフォーム サービス[Microsoft 365 Office 365」を参照してください](../office-365-platform-service-description/office-365-platform-service-description.md)。

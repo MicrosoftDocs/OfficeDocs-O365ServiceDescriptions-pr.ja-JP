@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: Project Online では、次のプロジェクト管理機能を使用できます。
+description: 次のプロジェクト管理機能は、Project Online。
 ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652271"
 ---
 # <a name="project-management"></a>プロジェクト管理
 
-Project Online では、次のプロジェクト管理機能を使用できます。
+次のプロジェクト管理機能は、Project Online。
   
-Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
+すべての機能に関するProject Online探していますか? サービスのProject Online[を参照してください](project-online-service-description.md)。
   
 ## <a name="issues-and-risk-management"></a>問題とリスク管理
 
@@ -45,4 +45,4 @@ Microsoft PPM ソリューションには、レポートの表示と作成、お
 
 ## <a name="project-home"></a>Project ホーム
 
-Project Home は、最近作業したプロジェクトや重要なトップオブマインド プロジェクトにすばやく簡単にアクセスできる開始点です。 これらのプロジェクトは、使いやすいコントロールを使用してお気に入りとしてマークし、Project Home に目立つようにすることができます。 詳細については、「Project [Home の使用を開始する」を参照してください](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。
+Projectホームは、最近作業したプロジェクトや重要なトップオブマインド プロジェクトにすばやく簡単にアクセスできる開始点です。 これらのプロジェクトは、使いやすいコントロールを使用して、お気に入りとしてマークを付け、Projectできます。 詳細については、「Get [started with home」を参照Projectしてください](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。

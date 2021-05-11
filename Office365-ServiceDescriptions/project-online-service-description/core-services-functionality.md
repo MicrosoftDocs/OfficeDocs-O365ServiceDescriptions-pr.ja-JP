@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Project Online では、以下の主要なサービス機能を利用できます。
+description: 次の主要なサービス機能は、Project Online。
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652291"
 ---
 # <a name="core-services-functionality"></a>コア サービスの機能
 
-Project Online では、以下の主要なサービス機能を利用できます。
+次の主要なサービス機能は、Project Online。
   
-Project Online のすべての機能に関する情報をお探しですか? Project [Online サービスの説明を参照してください](project-online-service-description.md)。
+すべての機能に関するProject Online探していますか? サービスのProject Online[を参照してください](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory の統合
 
@@ -31,9 +31,9 @@ Active Directory では、管理者がユーザーの資格情報とアクセス
 
 Project Online および Project Server 2013 は、管理者が Project の計画、インストールと構成、維持と拡張を行うための機能を提供します。「[Project Server 2013 の IT 担当者向け新機能](/project/what-s-new-for-it-pros-in-project-server-2016)」を参照してください。
   
-## <a name="getting-started"></a>はじめに
+## <a name="getting-started"></a>作業を開始する
 
-Project Online では、コンテンツの開始が可能です。 「[Project Online の使用を開始する](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)」を参照してください。
+[コンテンツの開始] は、Project Online。 「[Project Online の使用を開始する](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)」を参照してください。
   
 ## <a name="issues-and-risk-management-for-team-members"></a>問題とリスクの管理 (チーム メンバー向け)
 
@@ -41,7 +41,7 @@ Project Online および Project Server 2013 には、潜在的な事業関連�
   
 ## <a name="office-365-trust-center"></a>Office 365 セキュリティ センター
 
-お客様のデータはお客様のものです。 弊社では、お客様のデータを保護し、お客様のプライバシーを守ります。 「[Office 365 セキュリティ センター](https://go.microsoft.com/fwlink/?LinkId=402637)」を参照してください。
+お客様のデータはお客様のものです。弊社では、お客様のデータを保護し、お客様のプライバシーを守ります。「[Office 365 セキュリティ センター](https://go.microsoft.com/fwlink/?LinkId=402637)」を参照してください。
   
 ## <a name="ppm-partner-ecosystem"></a>PPM パートナーのエコシステム
 
@@ -53,11 +53,11 @@ Microsoft PPM ソリューションは、PPM コンピテンシーを獲得し�
   
 ## <a name="service-updates"></a>サービス更新
 
-Microsoft サービスは、新機能と機能を使用して定期的に更新されます。 「サービス [更新プログラム」を参照してください](../office-365-platform-service-description/service-updates.md)。
+新しい機能と機能Microsoft サービス定期的に更新します。 「サービス [更新プログラム」を参照してください](../office-365-platform-service-description/service-updates.md)。
   
 ## <a name="team-member-collaboration"></a>チーム メンバーのコラボレーション
 
-チーム コラボレーションは、プロジェクト全体の成功と効率性をサポートおよび促進します。 組織がプロジェクトProject Server 2013する方法については、「ビデオ: チームと共同作業する」 [を参照してください](https://go.microsoft.com/fwlink/?LinkId=402628)。
+チーム コラボレーションは、プロジェクト全体の成功と効率性をサポートおよび促進します。 サーバー 2013 Project組織がプロジェクトで共同作業を行う方法については、「ビデオ: チームと共同作業する」[を参照してください](https://go.microsoft.com/fwlink/?LinkId=402628)。
   
 ## <a name="time-and-task-management-for-team-members"></a>時間とタスクの管理 (チーム メンバー向け)
 

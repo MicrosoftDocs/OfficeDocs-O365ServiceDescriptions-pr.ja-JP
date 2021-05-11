@@ -24,7 +24,7 @@ ms.locfileid: "51653519"
 Yammer では次のサポート機能が利用可能です。
   
 > [!IMPORTANT]
-> Yammer、外部ネットワーク、ユーザー、メッセージ、グループ、およびネットワーク管理者が誤って削除したコンテンツを含むファイルなどの削除済みコンテンツの回復は &mdash; &mdash; サポートされていません。
+> Yammerは、ネットワーク管理者が誤って削除したコンテンツを含む、外部ネットワーク、ユーザー、メッセージ、グループ、ファイルなどの削除済みコンテンツの回復を &mdash; &mdash; サポートしません。
 >
 > Microsoft では、Yammer で使用可能な分析機能以外の、カスタムまたはアドホック レポートを提供していません 。 サポート要求の過程でカスタム レポートを提供できる場合がありますが、ほとんどの場合、データに対する直接要求に対応できません。
 
@@ -38,7 +38,7 @@ Yammer エンタープライズ の管理者はアカウントの保守を担当
    
 ## <a name="fasttrack-center"></a>FastTrack センター
 
-Microsoft FastTrack サービスは、あらゆる段階でヘルプを提供することで、組織が Microsoft Cloud に移行するのに役立ちます。 FastTrack を使用すると、ロールアウトを戦略的に計画し、新しいサービスをすばやく立ち上げ、新しいユーザーをオンボードできます。 詳細については、「[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)」を参照してください。 Yammer ネットワークの作成 (事前起動、起動、サポート ドキュメントやアクティビティなど) の詳細については [、「Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) page」を参照し、[組織をまとめる] を選択 **します**。
+Microsoft FastTrack サービスは、あらゆる段階でヘルプを提供することで、組織が Microsoft Cloud に移行するのに役立ちます。 FastTrack を使用すると、ロールアウトを戦略的に計画し、新しいサービスをすばやく立ち上げ、新しいユーザーをオンボードできます。 詳細については、「[FastTrack センター](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)」を参照してください。 事前起動、起動、サポート ドキュメントやアクティビティなど、Yammer ネットワークの作成の詳細については [、「Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) page」を参照し、[組織をまとめる] を選択 **します**。
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer プランのサポート機能
 

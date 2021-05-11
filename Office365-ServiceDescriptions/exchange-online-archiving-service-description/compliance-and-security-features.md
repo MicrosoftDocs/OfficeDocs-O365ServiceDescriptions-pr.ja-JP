@@ -27,11 +27,11 @@ ms.locfileid: "51653089"
   
 ### <a name="retention-policies"></a>アイテム保持ポリシー
 
-Exchange Online Archivingは、組織が電子メールや他の通信に関連する負債を減らすのに役立つ保持ポリシーを提供します。 これらのポリシーを使用すると、管理者はユーザーの受信トレイ内の特定のフォルダーに保持設定を適用できます。 管理者は、ユーザーにアイテム保持ポリシーのメニューを提供し、Outlook 2010 以降または Outlook on the web を使用して、特定のアイテム、会話、またはフォルダーにポリシーを適用することもできます。 管理者Exchange Online Archivingオンプレミス インフラストラクチャからアイテム保持ポリシーを管理します。
+Exchange Online Archivingは、組織が電子メールや他の通信に関連する負債を減らすのに役立つ保持ポリシーを提供します。 これらのポリシーを使用すると、管理者はユーザーの受信トレイ内の特定のフォルダーに保持設定を適用できます。 管理者は、ユーザーに保持ポリシーのメニューを提供し、Outlook 2010 以降または web 上の Outlook を使用して、特定のアイテム、会話、またはフォルダーにポリシーを適用することもできます。 管理者Exchange Online Archiving、オンプレミス インフラストラクチャからアイテム保持ポリシーを管理します。
   
 Exchange Online Archiving は、アーカイブと削除の 2 種類のポリシーを提供します。両方のポリシーを同じアイテムまたはフォルダーに適用できます。たとえば、ユーザーは、電子メール メッセージにタグを付けて、電子メール メッセージが指定された日数に到達した時点で自動的に個人用アーカイブに移動され、さらに一定の日数が経過すると削除されるようにすることができます。
   
-Outlook 2010 以降と Outlook on the web を使用すると、ユーザーはフォルダー、会話、または個々のメッセージにアイテム保持ポリシーを適用し、メッセージに適用された保持ポリシーと予想される削除日を表示することもできます。 他の電子メール クライアントのユーザーは、管理者が準備したサーバー側のアイテム保持ポリシーに基づいて電子メールを削除またはアーカイブできますが、同じレベルの表示および管理機能は使用できません。
+Outlook 2010 以降および Outlook が Web 上にある場合、ユーザーはアイテム保持ポリシーをフォルダー、会話、または個々のメッセージに適用できます。また、適用された保持ポリシーとメッセージの削除予定日を表示することもできます。 他の電子メール クライアントのユーザーは、管理者が準備したサーバー側のアイテム保持ポリシーに基づいて電子メールを削除またはアーカイブできますが、同じレベルの表示および管理機能は使用できません。
   
 Exchange Online Archiving で提供されるアイテム保持ポリシー機能は、Exchange Server 2010 Service Pack 2 (SP2) 以降で提供される機能と同じです。 管理者は、社内の Exchange Server 2010 以降の環境からアイテム保持ポリシーを管理できます。 管理対象フォルダー (Exchange 2007 で導入されたメッセージング レコード管理に対する従来のアプローチ) は Exchange Online Archiving と互換性がないため、利用できません。 詳細については、「[保持タグおよびアイテム保持ポリシー](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)」を参照してください。
   
@@ -89,13 +89,13 @@ Exchange 管理センターとリモート Windows PowerShell を使用すると
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>社内サーバーと Exchange Online Archiving 間の暗号化
 
-TLS は、電子メール サーバー間の接続を暗号化して、スプーフィングの回避を支援したり、伝送中のメッセージの機密性を確保したりするために使用されます。 TLS は、Microsoft データセンターへのオンプレミスのメール サーバー トラフィックをセキュリティで保護するためにも使用Exchange Online Archiving。
+TLS は、電子メール サーバー間の接続を暗号化して、スプーフィングの回避を支援したり、伝送中のメッセージの機密性を確保したりするために使用されます。 TLS は、Microsoft データセンターへのオンプレミスのメール サーバー トラフィックをセキュリティで保護するためにもExchange Online Archiving。
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>クライアントと Exchange Online Archiving 間の暗号化
 
 Exchange Online Archiving へのクライアント接続は、以下の暗号化方法を使用してセキュリティを強化します。
   
-- SSL は、TCP ポート 443 を使用して Outlook、Outlook on the Web、および Exchange Web Services トラフィックをセキュリティ保護するために使用されます。
+- SSL は、TCP ポート 443 をOutlook、Outlook Web サービス トラフィックのセキュリティ保護、Exchange Web サービス トラフィックのセキュリティ保護に使用されます。
     
 - 社内のサーバーへのクライアント接続は、Exchange Online Archiving の導入によって変更されません。
     
@@ -109,19 +109,19 @@ Exchange Online Archiving は、Secure/Multipurpose Internet Mail Extension (S/M
 
 Exchange Online Archiving はホスト型 Information Rights Management (IRM) サービスを提供しませんが、管理者は社内の Active Directory Rights Management Services (AD RMS) を使用できます。AD RMS サーバーが展開されている場合、Outlook はそのサーバーと直接通信できるため、ユーザーは IRM 保護メッセージの作成と読み取りを行うことができます。AD RMS サーバーと社内の Exchange 環境間の相互運用性が構成されていれば、ユーザーは IRM 保護メッセージの作成と読み取りを行うことができます。
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>Outlook on the web での IRM のサポート
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Web での IRM Outlookサポート
 
-ユーザーは、Outlook と同じ方法で、Outlook on the web で IRM で保護されたメッセージをネイティブに読み取り、作成できます。 Outlook on the web の IRM で保護されたメッセージには、Internet Explorer、Firefox、Safari、および Chrome からアクセスできます (プラグインは必要ありません)。 このメッセージには、フルテキスト検索、スレッド ビュー、プレビュー ウィンドウが含まれています。 Active Directory Rights Management サービス サーバーと社内の Exchange 環境間の相互運用性を有効にするように構成する必要があります。
+ユーザーは、IRM で保護されたメッセージを web 上Outlookでネイティブに読み取り、作成Outlook。 web 上の Outlook の IRM で保護されたメッセージには、Internet Explorer、Firefox、Safari、および Chrome からアクセスできます (プラグインは必要ありません)。 このメッセージには、フルテキスト検索、スレッド ビュー、プレビュー ウィンドウが含まれています。 Active Directory Rights Management サービス サーバーと社内の Exchange 環境間の相互運用性を有効にするように構成する必要があります。
   
 #### <a name="irm-search"></a>IRM 検索
 
-IRM で保護されたメッセージは、ヘッダー、件名、本文、添付ファイルなど、インデックスが作成され、検索できます。 ユーザーは Outlook と Outlook on the web で IRM で保護されたアイテムを検索できます。管理者は In-Place 電子情報開示または **Search-Mailbox** コマンドレットを使用して IRM で保護されたアイテムを検索できます。
+IRM で保護されたメッセージは、ヘッダー、件名、本文、添付ファイルなど、インデックスが作成され、検索できます。 ユーザーは web 上の Outlook および Outlook で IRM で保護されたアイテムを検索し、管理者は In-Place 電子情報開示または **Search-Mailbox** コマンドレットを使用して IRM で保護されたアイテムを検索できます。
   
 ### <a name="auditing"></a>監査
 
 Exchange Online Archiving は、2 種類の組み込み監査機能を提供します。
   
-- **管理者監査ログ** - 管理者監査ログを使用すると、管理者が Exchange Online Archiving 環境で行った変更 (RBAC の役割や Exchange ポリシーや設定の変更など) を追跡できます。 
+- **管理者監査ログ**- 管理者監査ログを使用すると、管理者が Exchange Online Archiving 環境で行った変更 (Exchange RBAC の役割やポリシーや設定の変更など) を追跡できます。 
     
 - **メールボックス監査ログ** - メールボックス監査ログを使用すると、ユーザーはメールボックス所有者以外のユーザーによるメールボックスへのアクセスを追跡できます。 
     
@@ -131,4 +131,4 @@ Exchange 管理センターで、管理者の役割の変更、訴訟ホール�
   
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online Archiving [参照してください](exchange-online-archiving-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Exchange Online Archiving[参照してください](exchange-online-archiving-service-description.md)。

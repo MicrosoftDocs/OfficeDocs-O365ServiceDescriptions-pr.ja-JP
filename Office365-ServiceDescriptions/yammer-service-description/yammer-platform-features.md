@@ -45,6 +45,6 @@ Yammer タブをブラウザー メニューに追加し、Yammer アイコン�
 
 ## <a name="feature-availability"></a>機能の可用性
 
-プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Yammer [参照してください](yammer-service-description.md)。
+プラン、スタンドアロン オプション、オンプレミス ソリューションの機能の可用性を表示するには、「サービスの説明Yammer[参照してください](yammer-service-description.md)。
   
 

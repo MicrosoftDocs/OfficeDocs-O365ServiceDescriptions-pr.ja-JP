@@ -7,7 +7,7 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
-description: Microsoft 365 Microsoft Exchange Online 365 プランおよび 365 プランOffice機能の可用性について説明します。
+description: サービスと機能Microsoft Exchange Onlineプラン全体のサービスと機能の可用性Microsoft 365詳細Office 365します。
 ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
 ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
 ms.translationtype: MT
@@ -19,23 +19,23 @@ ms.locfileid: "51414883"
 
 Microsoft Exchange Online は、Microsoft Exchange Server の機能をクラウドベースのサービスとして提供するホスト型のメッセージング ソリューションです。ユーザーは PC、Web、およびモバイル デバイスから電子メール、カレンダー、連絡先、タスクにアクセスできます。Active Directory と完全に統合するので、管理者がグループ ポリシーを他の管理ツールと共に使用し、環境全体にわたって Exchange Online 機能を管理することができます。
   
-Exchange Online を購読している組織は、ユーザーに提供するメッセージング サービスを制御できますが、オンプレミスのサーバー ソフトウェアの運用上の負担は軽減されます。 このサービスの説明で説明されている Exchange Online ホストプランでは、複数の顧客を同時にサポートするサーバーで電子メールがホストされます。 これらのサーバーは Microsoft のデータ センターに収容され、企業ネットワーク内またはインターネットを使用して、さまざまなデバイス上のユーザーがアクセスできます。
+サービスを購読しているExchange Onlineユーザーに提供するメッセージング サービスを制御できますが、オンプレミスのサーバー ソフトウェアの運用上の負担は軽減されます。 このサービスのExchange Onlineホストされたプランでは、複数の顧客を同時にサポートするサーバーで電子メールがホストされます。 これらのサーバーは Microsoft のデータ センターに収容され、企業ネットワーク内またはインターネットを使用して、さまざまなデバイス上のユーザーがアクセスできます。
 
-このサービスの説明では、さまざまなクラウド インストールで提供されるサービスの主な違いについて説明します。 Exchange Online のコア機能は、サブスクリプション間で異なるとは言えな。 コンプライアンス機能の可用性は、サブスクリプション レベルによって異なります。
+このサービスの説明では、さまざまなクラウド インストールで提供されるサービスの主な違いについて説明します。 Exchange Onlineコア機能は、サブスクリプション間で異なるとは言い得ない。 コンプライアンス機能の可用性は、サブスクリプション レベルによって異なります。
   
 ## <a name="available-plans"></a>使用できるプラン
 
-Exchange Online のユーザーを有効にするサブスクリプションの詳細な計画情報については、Microsoft ソリューション比較 [表を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画Exchange Online、Microsoft ソリューション比較表[を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
-Exchange Online サービスにアクセスする各ユーザーは、サブスクリプション プランに割り当てる必要があります。各ユーザー サブスクリプションには独自のメールボックスがあります。 これらのメールボックス内のフォルダーとメッセージは、Microsoft データセンターでExchange Serverコンピューター上に存在します。
+サービスにアクセスする各ユーザー Exchange Onlineサブスクリプション プランに割り当てる必要があります。各ユーザー サブスクリプションには独自のメールボックスがあります。 これらのメールボックス内のフォルダーとメッセージは、Microsoft データセンターでExchange Serverコンピューター上に存在します。
   
 ユーザー サブスクリプションは、会議室および共有メールボックスには必要ありません。これらの特殊な種類のメールボックスには、ログイン資格情報がありません。これらの特殊な種類のメールボックスは、ライセンスを持ち、適切なアクセス許可があるユーザーが委任によって管理とアクセスを行います。
 
 ## <a name="feature-availability"></a>機能の可用性
 
-次の表に、複数のプランで利用できる主要な Exchange Online 機能を示します。 特定の注意点が適用されます*。 この表は、予告なしに変更される場合があります。 プラン全体の Exchange Online 機能の最新の完全な一覧については [、「Compare Exchange Online プラン」を参照してください](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
+次の表に、複数のプランでExchange Online主な機能を示します。 特定の注意点が適用されます*。 この表は、予告なしに変更される場合があります。 プラン全体の機能の最新の完全な一覧については、「Exchange Onlineプランの比較[」をExchange Onlineしてください](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
   
-| 機能 | 小規模ビジネス プラン | エンタープライズ プラン | 教育計画 | GCC | GCC-High | DOD | 
+| 機能 | 小規模ビジネス プラン | Enterpriseプラン | 教育計画 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[計画と展開](planning-and-deployment.md)|はい*|はい|はい|はい|はい|はい|
 |[アクセス許可](permissions.md)|はい|はい|はい|はい|はい|はい|
@@ -54,10 +54,10 @@ Exchange Online サービスにアクセスする各ユーザーは、サブス�
 
 ## <a name="learn-more"></a>詳細情報
 
-Exchange Online の詳細については、次のリソースを参照してください。
+詳細については、次Exchange Onlineリソースを参照してください。
 
-- [Exchange Online 管理者のドキュメント](/exchange/exchange-online)
-- [Exchange Online ストレージと受信者の制限](exchange-online-limits.md)
+- [Exchange Onlineのドキュメント](/exchange/exchange-online)
+- [Exchange Onlineと受信者の制限](exchange-online-limits.md)
 - [Exchange 管理センターの新機能](/exchange/whats-new)
 
 ### <a name="licensing-terms"></a>ライセンス条項
@@ -70,4 +70,4 @@ Microsoft 商用ボリューム ライセンス プログラムを通じて購�
 
 ### <a name="accessibility"></a>アクセシビリティ
 
-Microsoft は、お客様のデータのセキュリティとサービスのアクセシビリティに引き続きコミットしています。 詳細については [、「Microsoft Trust Center」](https://www.microsoft.com/trust-center) および「アクセシビリティ センター Office [参照してください](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft は、お客様のデータのセキュリティとサービスのアクセシビリティに引き続きコミットしています。 詳細については[、「Microsoft Trust Center」](https://www.microsoft.com/trust-center)および「アクセシビリティ センター Office[参照してください](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
