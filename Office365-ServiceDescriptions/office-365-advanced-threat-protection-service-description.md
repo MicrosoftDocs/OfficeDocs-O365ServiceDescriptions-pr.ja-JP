@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 4db8ecf7d4906144d133e3ce83c7f8197194efdc
-ms.sourcegitcommit: e153b2c502bcee66640a8b1988ced8fd2a345deb
+ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52304415"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545974"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defende for Office 365 サービス説明書
 
@@ -92,7 +92,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 |[リアルタイム レポート](#real-time-reports)|はい|はい|はい|
 |*自動化、調査、修復、教育*|
 |[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
-|脅威の調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
+|脅威調査(高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[自動化したインシデント応答](#automated-incident-response)|いいえ|はい|はい|
 |[攻撃シミュレーションのトレーニング](#attack-simulation-training)|いいえ|はい|はい|
 |*[Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection) との統合*|いいえ|はい|はい|
@@ -151,7 +151,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams 用の ATP
 
-[ATP for SharePoint、OneDrive、Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)サイトやドキュメント ライブラリで悪意のあるファイルとして識別されるファイルを検出およびブロックするのに役立ちます。 さらに、[安全なリンク] 保護は、現在Microsoft Teams チャネルおよびチャットで使用可能です。
+[SharePoint、OneDrive、Microsoft Teamsの ATP](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)は、チーム サイトやドキュメント ライブラリで悪意のあるファイルを検出してブロックするのに役立ちます。 さらに、[安全なリンク] 保護は、現在Microsoft Teams チャネルおよびチャットで使用可能です。
 
 ### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
 
@@ -187,10 +187,10 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 ### <a name="attack-simulation-training"></a>攻撃シミュレーションのトレーニング
 
-[攻撃シミュレーション トレーニングは](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) 、フィッシング シミュレーションの作成と管理を自動化するインテリジェントなソーシャル リスク管理ツールです。 シミュレーションは、実際のフィッシングルアーとハイパーターゲットトレーニングを使用して従業員の行動を変更することで、フィッシングリスクを検出、優先順位付け、修復するのに役立ちます。
+[攻撃シミュレーションのトレーニング](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) は、フィッシングシミュレーションの作成と管理を自動化するインテリジェントなソーシャル・リスク管理ツールです。 シミュレーションは、実世界のフィッシングルアーやハイパーターゲットトレーニングを使用して従業員の行動を変えることで、フィッシングリスクを検出、優先順位付け、修復するのに役立ちます。
 
-- 攻撃シミュレーションのトレーニングは、WW および GCC で利用できます。
-- 開始方法の詳細については、「攻撃シミュレーション トレーニングの使用 [を開始する」を参照してください](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
-- 実際の攻撃者の動作を再現してフィッシング シミュレーションを関連性のあるものにする、武器化された実際のフィッシング ペイロードを適用するさまざまな攻撃手法が利用できます。
-- このサービスは、プラン[2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)のライセンスMicrosoft 365 E5 E5、Office 365 Microsoft Defender のいずれかを持つ組織Office 365利用できます。 機能のサブセットは、試用版として E3 のお客様に提供されます。
-- 詳しくは、「フィッシング攻撃のシミュレーション」 [をご覧ください](/microsoft-365/security/office-365-security/attack-simulation-training)。
+- 攻撃シミュレーションの訓練は、WWおよびGCCで利用可能になりました(6月21日からGCC予定)。
+- 開始する方法の詳細については、「 [攻撃シミュレーション トレーニングの使用を開始する](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)」を参照してください。
+- 現実世界の攻撃者の行動を再現してフィッシングシミュレーションを関連付ける、武器化されていない、現実世界のフィッシングペイロードを適用するさまざまな攻撃技術が利用可能です。
+- このサービスは、Office 365 プラン 2 のライセンスに対して、Microsoft 365 E5、Office 365 E5、[または Microsoft Defender](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)のいずれかのライセンスを持つ組織で利用できます。 機能のサブセットは、試用版として E3 顧客に提供されます。
+- 詳細を確認してシミュレーションを試す方法については、「 [フィッシング攻撃のシミュレーション](/microsoft-365/security/office-365-security/attack-simulation-training)」を参照してください。
