@@ -91,9 +91,9 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 |[フィッシング詐欺対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
 |[リアルタイム レポート](#real-time-reports)|はい|はい|はい|
 |*自動化、調査、修復、教育*|
-|[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
-|脅威調査(高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
-|[自動化したインシデント応答](#automated-incident-response)|いいえ|はい|はい|
+|[脅威トラッカー](#threat-trackers)|いいえ|はい|必要|
+|脅威の調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
+|[自動化したインシデント応答](#automated-incident-response)|いいえ|はい|必要|
 |[攻撃シミュレーションのトレーニング](#attack-simulation-training)|いいえ|はい|はい|
 |*[Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection) との統合*|いいえ|はい|はい|
 
@@ -151,7 +151,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint、OneDrive、Microsoft Teams 用の ATP
 
-[SharePoint、OneDrive、Microsoft Teamsの ATP](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)は、チーム サイトやドキュメント ライブラリで悪意のあるファイルを検出してブロックするのに役立ちます。 さらに、[安全なリンク] 保護は、現在Microsoft Teams チャネルおよびチャットで使用可能です。
+[ATP for SharePoint、OneDrive、Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)サイトやドキュメント ライブラリで悪意のあるファイルとして識別されるファイルを検出およびブロックするのに役立ちます。 さらに、[安全なリンク] 保護は、現在Microsoft Teams チャネルおよびチャットで使用可能です。
 
 ### <a name="anti-phishing-policies"></a>フィッシング対策ポリシー
 
@@ -187,10 +187,10 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 ### <a name="attack-simulation-training"></a>攻撃シミュレーションのトレーニング
 
-[攻撃シミュレーションのトレーニング](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) は、フィッシングシミュレーションの作成と管理を自動化するインテリジェントなソーシャル・リスク管理ツールです。 シミュレーションは、実世界のフィッシングルアーやハイパーターゲットトレーニングを使用して従業員の行動を変えることで、フィッシングリスクを検出、優先順位付け、修復するのに役立ちます。
+[攻撃シミュレーション トレーニングは](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) 、フィッシング シミュレーションの作成と管理を自動化するインテリジェントなソーシャル リスク管理ツールです。 シミュレーションは、実際のフィッシングルアーとハイパーターゲットトレーニングを使用して従業員の行動を変更することで、フィッシングリスクを検出、優先順位付け、修復するのに役立ちます。
 
-- 攻撃シミュレーションの訓練は、WWおよびGCCで利用可能になりました(6月21日からGCC予定)。
-- 開始する方法の詳細については、「 [攻撃シミュレーション トレーニングの使用を開始する](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)」を参照してください。
-- 現実世界の攻撃者の行動を再現してフィッシングシミュレーションを関連付ける、武器化されていない、現実世界のフィッシングペイロードを適用するさまざまな攻撃技術が利用可能です。
-- このサービスは、Office 365 プラン 2 のライセンスに対して、Microsoft 365 E5、Office 365 E5、[または Microsoft Defender](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)のいずれかのライセンスを持つ組織で利用できます。 機能のサブセットは、試用版として E3 顧客に提供されます。
-- 詳細を確認してシミュレーションを試す方法については、「 [フィッシング攻撃のシミュレーション](/microsoft-365/security/office-365-security/attack-simulation-training)」を参照してください。
+- 攻撃シミュレーション のトレーニングは、WW および GCCで利用できます (6 月 21 日GCC予定)。
+- 開始方法の詳細については、「攻撃シミュレーション トレーニングの使用 [を開始する」を参照してください](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
+- 実際の攻撃者の動作を再現してフィッシング シミュレーションを関連性のあるものにする、武器化された実際のフィッシング ペイロードを適用するさまざまな攻撃手法が利用できます。
+- このサービスは、プラン[2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)のライセンスMicrosoft 365 E5 E5、Office 365 Microsoft Defender のいずれかを持つ組織Office 365利用できます。 機能のサブセットは、試用版として E3 のお客様に提供されます。
+- 詳しくは、「フィッシング攻撃のシミュレーション」 [をご覧ください](/microsoft-365/security/office-365-security/attack-simulation-training)。
