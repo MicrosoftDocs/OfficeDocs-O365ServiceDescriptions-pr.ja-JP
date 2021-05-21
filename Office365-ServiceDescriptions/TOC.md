@@ -66,6 +66,7 @@
 ### [コンプライアンス機能とセキュリティ機能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Microsoft Defende for Office 365 サービス説明書](office-365-advanced-threat-protection-service-description.md)
 ## [Microsoft Teams サービスのサービスの説明](teams-service-description.md)
+### [Microsoft 365 Business Voice サービスの説明](microsoft-365-business-voice-service-description.md)
 ## [OneDrive サービスの説明](onedrive-for-business-service-description.md)
 ## [SharePoint サービスの説明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint の制限](sharepoint-online-service-description/sharepoint-online-limits.md)
@@ -103,7 +104,6 @@
 ### [Yammer の管理とセキュリティ機能](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer のサポート機能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 サービスの説明
-### [Microsoft 365 Business 音声サービスの説明](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 Business Premium サービスの説明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [中小規模ビジネスに Microsoft 365 のライセンスを付与する](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
