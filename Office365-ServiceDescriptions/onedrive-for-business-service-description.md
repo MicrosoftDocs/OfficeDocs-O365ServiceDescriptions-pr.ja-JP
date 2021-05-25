@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: どの OneDrive の機能がどのプランで利用できるかを確認します。
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264795"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625624"
 ---
 # <a name="onedrive-service-description"></a>OneDrive サービスの説明
 
@@ -50,7 +50,6 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 - Microsoft 365 Apps for business
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for enterprise
-- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic for Nonprofits
@@ -66,6 +65,7 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -86,11 +86,11 @@ OneDrive 同期アプリとモバイル アプリの要件については、[One
 > [!NOTE]
 > 既定の OneDrive ストレージ スペースを増やす場合、ユーザーに少なくとも 1 つのライセンスを割り当てる必要があります。 
   
-個々のユーザーに最初に 5 TB を超えるクラウド ストレージが必要になる場合は、管理者は[Microsoft テクニカル サポート](/microsoft-365/admin/contact-support-for-business-products)に追加の要求をしてください。 追加のクラウド ストレージは次のように付与されます。 
+個人ユーザー向けに最初の 5 TB を超えるクラウド ストレージが必要になる場合は、管理者は [Microsoft 技術サポートでケースを開く](/microsoft-365/admin/contact-support-for-business-products)ことでサポートを依頼することができます。追加のクラウド ストレージは次のように付与されます。 
   
 - ユーザーが OneDrive の 5 TB ストレージを 90% 以上使用すると、Microsoft は OneDrive の既定のストレージ スペースをユーザー 1 人あたり 25 TB まで増やします (管理者は、ユーザー 1 人あたりの制限を必要に応じてこれより低く設定できます)。 
     
-- ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。 情報と支援については、Microsoft テクニカル サポートにお問い合わせください。
+- ユーザーが OneDrive の 25 TB ストレージを 90% 以上使用すると、その個人ユーザーには 25 TB SharePoint のチーム サイトとして追加のクラウド ストレージが付与されます。情報と支援については、Microsoft 技術サポートにお問い合わせください。
     
 ストレージ スペースと個人ユーザーの使用率を見るには、OneDrive 同期アプリの [ストレージの管理](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) をご覧ください。 組織全体でのユーザーのストレージ使用率を見るには、Microsoft 365 管理センターの [OneDrive 使用状況レポート](/office365/admin/activity-reports/onedrive-for-business-usage) をご覧ください。 
    
@@ -135,13 +135,13 @@ OneDrive ストレージは、ユーザーごとにプロビジョニングさ�
 
 - [アクセス権の要求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
 - [「すべてのユーザー」リンク](/Office365/Enterprise/best-practices-anonymous-sharing) (有効期限を要求するように設定できます) 
-- [コメントでの @メンション](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 Office 365 for the web または Office 365 デスクトップ アプリを含むプランが必要です。
+- [コメントでのメンション](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。Office 365 for the web または Office 365 デスクトップ アプリを含むプランが必要です。
 - [ファイル要求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 既定の共有リンクを管理する ([組織レベル](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) および [サイトごと](/sharepoint/change-default-sharing-link))
 - 外部共有を管理する ([組織レベル](/sharepoint/turn-external-sharing-on-or-off) および [サイトごと](/sharepoint/change-external-sharing-site) または [OneDrive](/onedrive/user-external-sharing-settings))
 - [共有アイテムへのアクセス許可を管理する](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - チャットで送信されたファイルの [Microsoft Teams 統合](/MicrosoftTeams/sharepoint-onedrive-interact)。 Office 365 を含むサブスクリプションが必要であり、ユーザーには Teams のライセンスが必要です。
-- [最新の添付ファイル機能](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。 Outlook on the web または Outlook デスクトップ アプリを含むプランが必要です。
+- [最新の添付ファイル機能](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。Outlook on the web または Outlook デスクトップ アプリを含むプランが必要です。
 - 組織またはサイト レベルでの[ドメインによる共有の制限](/sharepoint/restricted-domains-sharing)
 - [レポートの共有](/sharepoint/sharing-reports)
 - [検証コード](/sharepoint/external-sharing-overview#what-happens-when-users-share)
