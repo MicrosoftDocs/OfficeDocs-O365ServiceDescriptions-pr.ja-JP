@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ コンプライアンス &amp; センターは、組織全体のコンプライアンス機能を管理Office 365設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653479"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699103"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -24,8 +24,8 @@ ms.locfileid: "51653479"
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-2020 年 4 月 1 日の Microsoft 365 コンプライアンス機能のメリットをユーザーにライセンスするためのオプションを確認するには、「詳細なコンプライアンス ライセンスの比較Microsoft 365ダウンロードしてください。 [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+コンプライアンス機能を利用してユーザーにライセンスを提供するためのオプションを確認するにはMicrosoft 365比較表をダウンロード[Microsoft 365してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>ビジネス &amp; およびエンタープライズ プランのセキュリティ コンプライアンス センターの可用性
 
 | 機能 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365E1、 Office 365 G1 | Office 365E3、 Office 365米国政府機関 G3 | Office 365 E5 |Office 365G5 | Office 365F3、Office 365米国政府機関 F3|

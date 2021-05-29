@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office (以前は Web アプリ) のOfficeは、Web ブラウザーで Word、Excel、OneNote、PowerPoint ドキュメントを開きます。 Officeを使用すると、ほとんどすべてのデバイスから、インターネット接続Officeファイルを簡単に使用して共有できます。 Microsoft 365、Word、Excel、OneNote、PowerPointユーザーは、移動中にファイルを表示、作成、および編集できます。
-ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652371"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699113"
 ---
 # <a name="office-for-the-web-service-description"></a>Office for the web サービスの説明
 
@@ -167,7 +167,7 @@ Office (以前は Web アプリ) のOfficeは、Web ブラウザーで Word、Ex
 |[印刷](excel-online.md#print) <br/> |はい  <br/> |はい  <br/> |
 |[リアルタイム共同編集](excel-online.md#real-time-co-authoring) <br/> |はい  <br/> |はい  <br/> |
 |[おすすめグラフの作成と書式設定を使用した編集](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |いいえ  <br/> |はい  <br/> |
-|[既存のデータ接続の更新](excel-online.md#refresh-existing-data-connections) <br/> |はい  <br/> |はい  <br/> |
+|Refresh existing data connections <br/> |いいえ  <br/> |はい  <br/> |
 |[重複する値を削除する](excel-online.md#remove-duplicate-values) <br/> |はい  <br/> |はい  <br/> |
 |[シート名の変更とシートの追加](excel-online.md#rename-and-add-sheets) <br/> |はい  <br/> |はい  <br/> |
 |[ブックが開いている間にファイルの名前を変更](excel-online.md#rename-file-while-workbook-is-open) <br/> |はい  <br/> |いいえ  <br/> |
