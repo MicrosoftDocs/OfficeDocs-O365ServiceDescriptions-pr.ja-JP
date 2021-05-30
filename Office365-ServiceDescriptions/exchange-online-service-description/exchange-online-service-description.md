@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: サブスクリプションを含むサブスクリプションの機能比較をお探Exchange Online。 その場合は、Exchange Online サービスの説明記事をご覧ください。 システム要件およびストレージと受信者の要件についても説明しています。
-ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653359"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699093"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online サービスの説明
 
@@ -91,8 +91,8 @@ Microsoft 365 F1メールボックスに対する権限はExchangeされませ�
 |Azure Information Protection を使用した IRM|いいえ|はい|いいえ<sup>2</sup>|いいえ<sup>2</sup>|いいえ<sup>2</sup>|はい|はい|いいえ<sup>2</sup>|
 |Windows Server AD RMS を使用した IRM|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|
 |Office 365 Message Encryption|はい<sup>13</sup>|はい<sup>13</sup>|いいえ<sup>2</sup>|いいえ<sup>2</sup>|いいえ<sup>2</sup>|はい|はい|いいえ<sup>2</sup>|
-|カスタマー キー<sup>22</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ||
-|S/MIME|は<sup>い 15</sup>|は<sup>い 15</sup>|はい|はい|はい|はい|はい|はい||
+|カスタマー キー<sup>22</sup>|いいえ|いいえ|いいえ|いいえ|いいえ|いいえ|はい|いいえ|
+|S/MIME|は<sup>い 15</sup>|は<sup>い 15</sup>|はい|はい|はい|はい|はい|はい|
 |インプレース保持と訴訟ホールド|はい|はい|いいえ|いいえ|いいえ|はい|はい|いいえ|
 |インプレース電子情報開示 (eDiscovery)|は<sup>い 20</sup>|は<sup>い 20</sup>|は<sup>い 20</sup>|は<sup>い 20</sup>|は<sup>い 20</sup>|は<sup>い 20</sup>|は<sup>い 20</sup>|あり|
 |Transport rules|はい <sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|
@@ -116,7 +116,7 @@ Microsoft 365 F1メールボックスに対する権限はExchangeされませ�
 |容量のアラート|はい|はい|はい|はい|はい|はい|はい|はい|
 |クラッター機能|はい|いいえ|はい|はい|はい|はい|はい|はい|
 |メール ヒント|はい|はい|はい|はい|はい|はい|はい|はい|
-|代理人アクセス|はい|はい|はい|はい|はい|はい|はい|No<sup>24</sup>|
+|代理人アクセス|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |受信トレイのルール|はい|はい|はい|はい|はい|はい|はい|はい|
 |接続されているアカウント|はい|はい|はい|はい|はい<sup>17</sup>|はい<sup>17</sup>|はい<sup>17</sup>|はい<sup>17</sup>|
 |非アクティブなメールボックス|いいえ|いいえ|いいえ<sup>9</sup>|いいえ<sup>9</sup>|いいえ<sup>9</sup>|はい|はい|いいえ <sup>9</sup>|
@@ -148,7 +148,7 @@ Microsoft 365 F1メールボックスに対する権限はExchangeされませ�
 |Outlook for Windows <sup>21</sup>|はい|はい|はい|はい|はい|はい|はい| いいえ|
 |Outlook on the web<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |Outlook for Mac<sup>21</sup>|はい|はい|はい|はい|はい|はい|はい| いいえ|
-|Outlook for iOS and Android<sup>21</sup>|は<sup>い 25</sup>|は<sup>い 25</sup>|はい|はい|はい|はい|はい|はい|
+|Outlook for iOS and Android<sup>21</sup>|は<sup>い 24</sup>|は<sup>い 24</sup>|はい|はい|はい|はい|はい|はい|
 |Exchange ActiveSync|はい|はい|はい|はい|はい|はい|はい|はい|
 |ユーザーの基本的なモビリティとセキュリティMicrosoft 365|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
 |POP と IMAP|はい|はい|はい|はい|はい|はい|はい|はい <sup>12</sup>|
@@ -163,11 +163,11 @@ Microsoft 365 F1メールボックスに対する権限はExchangeされませ�
 |データ センターでのメールボックスのレプリケーション|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
 |削除済みメールボックスの回復|はい|はい|はい|はい|はい|はい|はい|はい|
 |削除済みアイテムの回復|はい|はい|はい|はい|はい|はい|はい|はい|
-|単一アイテムの回復|はい|はい|はい|はい|はい|はい|はい|いいえ||
+|単一アイテムの回復|はい|はい|はい|はい|はい|はい|はい|いいえ|
 |**[相互運用性、接続、および互換性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Skype for Business OWA と Outlook|はい|はい|はい|はい|はい|はい|はい|はい|
 |SharePoint相互運用性|はい|はい|はい|はい|はい|はい|はい|はい|
-|EWS 接続サポート<sup>26</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
+|EWS 接続サポート<sup>25</sup>|はい|はい|はい|はい|はい|はい|はい|はい|
 |SMTP リレーのサポート|はい|はい|はい|はい|はい|はい|はい|はい|
 |**[Exchange Online のセットアップと管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Microsoft Office 365 ポータルへのアクセス|いいえ|いいえ|はい|はい|はい|はい|はい|はい|
@@ -202,9 +202,8 @@ Microsoft 365 F1メールボックスに対する権限はExchangeされませ�
 <sup>21 この</sup> 表は、クライアントが関連付けられたプランを使用するかどうかを示します。 クライアントがこれらのプランを購入する必要があることを示すものではありません。 <br/>
 <sup>22 詳細については</sup> 、「Service Encryption [with Customer Key」を参照してください](/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> Exchange Online SPC からの直接接続によるサードパーティ PBX システムの UM サポートは、2019 年 4 月に終了します。 詳細については、「Exchange チーム ブログ セッション ボーダー コントローラーのサポートの中止」を参照Exchange Online[参照してください](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
-<sup>24</sup> F3 ユーザーは自分のメールボックスに代理人を追加することはできませんが、別のメールボックス (共有メールボックスを含む) にアクセスし、委任されたアクションを実行できます。<br/>
-<sup>25 2013</sup>年および 2016 年Microsoft 365 Apps for enterprise 2013 年および 2016 年Exchange ServerサブスクリプションExchange Server必要です。<br/>
-<sup>26</sup> EWS アプリケーションのサポートは、EWS アプリケーションの偽装に適用されます。
+<sup>24 2013</sup>年および 2016 年Microsoft 365 Apps for enterprise 2013 年および 2016 年Exchange Serverには、Exchange Serverが必要です。<br/>
+<sup>25</sup> EWS アプリケーションのサポートは、EWS アプリケーションの偽装に適用されます。<br/>
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online スタンドアロンの各プランで利用できる機能
 

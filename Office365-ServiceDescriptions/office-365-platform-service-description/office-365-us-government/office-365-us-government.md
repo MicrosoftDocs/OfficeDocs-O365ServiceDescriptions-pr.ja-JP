@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 米国の公共部門の独自の要件と進化する要件に応じて、Microsoft はOffice 365 US Government plans (またはOffice 365 Government)。 この記事では、米国の環境に固有の機能Office 365 Government説明します。
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625644"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699083"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -105,7 +105,7 @@ fastTrack Center Benefit for Office 365<sup>1</sup>では、FastTrack スペシ�
 
 FastTrack Center プロセスに関する具体的な情報については、こちらを参照 [してください](/FastTrack/us-gov-appendix-overview)。 エンゲージメントの役割と責任の内訳については [、「FastTrack の](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 責任」と「自分の責任」 [を参照してください](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup> FastTrack サービスを受け取る対象プランの一[](/fasttrack/eligibility)覧から少なくとも 50 ライセンスを購入する必要があります。
+> <sup>1</sup> FastTrack サービスを受け取る対象プランの一覧[](/fasttrack/eligibility)から少なくとも 150 ライセンスを購入する必要があります。
 <br/><sup>2</sup>データ移行サービスは、500 Office 365を持つテナントに対して利用できます。
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack によって実行されるデータ移行
@@ -453,7 +453,7 @@ Office 365 US Government プランのシステム要件については、[office
 |共同編集者とのコンテキストに応じたチャット: ドキュメント内の共同編集者とのチャット|いいえ|いいえ|いいえ|
 |ディクテーション|はい|はい|いいえ<sup>1</sup>|
 
-High/DoD Microsoft Teams/GCC/GCC内での機能の可用性については、「Microsoft Teams[サービスの説明」を参照してください](../../teams-service-description.md)。
+High/DoD Microsoft Teams/GCC/GCC内での機能の可用性については、「Microsoft Teams サービスの説明」[を参照してください](../../teams-service-description.md)。
 > <sup>1</sup> 今後の可用性。
 <br/><sup>2</sup>ローカル ユーザーの可用性Surface Hub (サインインしていない)。
 <br/><sup>3</sup>外部共有は、外部共有環境GCCできます。 組織の Microsoft フォームをオフまたは [有効にする方法の詳細](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) については、以下を参照してください。 外部共有は、高GCC DOD 環境では無効になります。組織内のユーザーは、フォームに入力して応答を送信し、フォームをテンプレート[](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)として複製して共有し、フォームを共同[](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)編集または共同作業し、フォームの結果に[アクセス](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)できます。

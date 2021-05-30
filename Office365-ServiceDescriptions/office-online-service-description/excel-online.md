@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel (以前は Excel Web App) を使用すると、Microsoft Excel エクスペリエンスが Web ブラウザーに拡張され、ブックが保存されている Web サイトでブックを直接使用できます。 すべてのお客様は、Web 用のアプリを使用OfficeファイルOffice簡単に編集できます。
-ms.openlocfilehash: aae8584e7b4296d917fda680d563c4d274b05771
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652361"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699073"
 ---
 # <a name="excel-for-the-web"></a>Web 用 Excel
 
@@ -106,7 +106,7 @@ Web に対してコメントを挿入、編集、Excel削除できます。 コ�
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-Web の Excelを使用してデータ接続を表示できますが、Web のデータ 接続を使用して外部Excel作成することはできません。 外部データを処理するにはExcelデスクトップ アプリが必要です。 外部データの[操作の詳細については](https://go.microsoft.com/fwlink/p/?LinkId=282330)、Excel Services。 
+Web の Excelを使用してデータ接続を表示できますが、Web のデータ 接続を使用して外部Excel作成することはできません。 外部データを処理するにはExcelデスクトップ アプリが必要です。
   
 ## <a name="create-tables"></a>テーブルの作成
 
@@ -259,10 +259,6 @@ Web の [印刷] Excelを使用して、ワークシート全体または現在�
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>おすすめグラフの作成と書式設定を使用した編集
 
 高度なグラフは、Microsoft Excel デスクトップ アプリのみでサポートされます。 Excelの機能はサポートされていません。 使用可能なグラフの [種類について詳しくは、以下をご覧ください](https://go.microsoft.com/fwlink/p/?LinkId=271666)。
-  
-## <a name="refresh-existing-data-connections"></a>Refresh existing data connections
-
-ブック内のデータがデータベース、Web ページ、分析キューブなどの外部ソースに接続されている場合は、web 用の Excel を使用してそのデータを更新できます。
 
 ## <a name="remove-duplicate-values"></a>重複する値を削除する
 

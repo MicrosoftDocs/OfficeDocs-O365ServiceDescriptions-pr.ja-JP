@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、ライセンスのないアクセスによる潜在的なサービスMicrosoft 365回避するために、コンプライアンスに関するライセンス ガイダンスを提供します。
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546014"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699063"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365コンプライアンスに関するライセンス &amp; ガイダンス
 
@@ -26,7 +26,7 @@ ms.locfileid: "52546014"
 > [!NOTE]
 > 一部のテナント サービスでは、現在、特定のユーザーにメリットを制限できません。 サービスの利点をライセンスユーザーに限定するための取り組みを行う必要があります。 これにより、ターゲット設定機能が利用可能な場合に、組織の潜在的なサービスの中断を回避できます。
 
-コンプライアンス機能のメリットをユーザーに提供するMicrosoft 365を確認するには、「詳細なコンプライアンス ライセンスMicrosoft 365比較」をダウンロードしてください。 [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  | [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
+コンプライアンス機能を利用してユーザーにライセンスを提供するためのオプションを確認するにはMicrosoft 365比較表をダウンロード[Microsoft 365してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5/G5/E3/G3/F1/F3/Business プレミアム、Enterprise Mobilit
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 情報保護、ガバナンス、Office 365 E5、Enterprise Mobility + Security E5/A5/G5、および AIP プラン 2 は、自動感度ラベル付けによるメリットをユーザーに提供します。
 
-ライセンス別の特定の権限については、「コンプライアンス ライセンスMicrosoft 365比較」を参照してください。 [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)ユーザー (トレーニング可能な分類子) に基づくMachine Learning権限は含められない。
+情報保護には、トレーニング可能な分類子 (トレーニング可能な分類子) に基づくMachine Learningの権限は含められない。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニングおよび展開方法
 
