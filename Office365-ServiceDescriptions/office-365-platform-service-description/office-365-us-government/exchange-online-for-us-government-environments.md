@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、米国政府機関のクラウドと商用クラウドの機能の違いの概要について説明します(「サービスの説明」にExchange Online示します。
-ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
+ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653289"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721211"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online環境向け
 
@@ -191,17 +191,15 @@ Azure Active DirectoryB2B コラボレーションは現在、Azure US Governmen
 
 ### <a name="freebusy-federation"></a>空き時間情報フェデレーション
 
-フェデレーション共有 (空き時間情報を含む) は、現在、GCCおよび DoD 環境でいくつかの重要な制限の対象になります。
+フェデレーション共有 (空き時間情報を含む) は、現在、DoD 環境でいくつかの重要な制限の対象になります。
 
 [高GCC環境:
 
-- フェデレーション信頼 (双方向の空き時間情報共有を含む) は、GCC High 内のテナントとハイブリッド共存 (Exchange 2013 以降) でサポートされます。
-
-- フェデレーション共有は、High および GCCまたは商用のテナントGCC Office 365されません。 現時点では、GCC High 環境から商用クラウド (GCCおよび商用Office 365を含む) への送信接続は許可されません。 その結果、GCC高いユーザーは、共有予定表情報にアクセスするために、GCC/商用に対して必要な送信要求を行う必要があります。
+- フェデレーション信頼 (双方向の空き時間情報共有を含む) は、GCC High 内のテナント、GCC と商用クラウドのテナント、およびハイブリッド共存 (Exchange 2013 以降) でサポートされます。
 
 DoD 環境では、次の操作を行います。
 
-  - 現在、フェデレーション信頼 (空き時間情報の共有を含む) は、DoD 環境内のテナント間でのみサポートされています。 DoD テナントとビジネス テナントまたは商用テナントGCCサポートされていません。
+  - 現在、フェデレーション信頼 (空き時間情報の共有を含む) は、DoD 環境内のテナント間でのみサポートされています。 DoD テナントと、DoD テナント、GCC、GCCテナントの間ではサポートされません。
 
 ### <a name="client-configuration"></a>クライアント構成
 
@@ -224,7 +222,7 @@ Outlook Android の場合は、High 環境と DoD 環境GCC使用することも
 |ヘルプシフトのサポート|ヘルプシフト インターフェイスを使用してサポート要求を作成する|はい|いいえ|
 |My Day|1 日の計画|はい|はい|
 |計画リスト|期日を持つすべてのタスクを表示する|はい|はい|
-|[自分に割り当て済み] リスト|共有リスト、Planner または WXP で割り当てられているすべてのタスク (将来)|はい|はい|
+|[自分に割り当て済み] リスト|共有リスト、Planner、または WXP で割り当てられているすべてのタスク (将来)|はい|はい|
 |フラグ付きメール|Outlook でタスクとしてフラグが設定されたメールを表示する|はい|はい|
 |マルチ アカウントのサポート|1 つのウィンドウでホーム アカウントと Office アカウントを使用する|はい|はい|
 |リスト共有|同じ組織内の同僚とリストを共有する|はい|はい|

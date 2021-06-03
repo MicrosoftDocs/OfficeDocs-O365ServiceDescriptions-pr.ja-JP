@@ -13,18 +13,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Microsoft サポートはMicrosoft Office 365、企業、ビジネス、教育、および政府機関のサブスクリプションに関するあらゆるサービスを提供し、グローバルな技術、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、Microsoft365 管理センターを通じてオンラインで、有料サブスクリプションと試用版サブスクリプションの両方で電話で利用できます。 詳細については、「Microsoft サポート オプション」を参照してください。
-ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Microsoft サポートはMicrosoft Office 365、企業、ビジネス、教育、および政府機関のサブスクリプションに関するあらゆるサービスを提供し、グローバルな技術、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、有料サブスクリプションと試用版サブスクリプションの両方Microsoft 365管理センターと電話の両方でオンラインで利用できます。 詳細については、「Microsoft サポート オプション」を参照してください。
+ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
+ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652431"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721201"
 ---
 # <a name="support"></a>サポート
 
-Microsoft サポートはMicrosoft Office 365、企業、ビジネス、教育、および政府機関のサブスクリプションに関するあらゆるサービスを提供し、グローバルな技術、プレセールス、課金、サブスクリプションのサポートを提供します。 サポートは、有料サブスクリプションと試用版サブスクリプションの両方Microsoft 365管理センターと電話の両方でオンラインで利用できます。 詳細については、「Microsoft サポート オプション [」を参照してください](/Office365/Admin/contact-support-for-business-products)。
-  
+Microsoft サポートMicrosoft 365、Office 365、企業、最前線、教育、および政府機関向けのすべてのサブスクリプションを使用して、グローバルな技術、事前販売、請求、およびサブスクリプションのサポートを提供します。 サポートは、有料サブスクリプションと試用版サブスクリプションの両方Microsoft 365管理センターと電話の両方でオンラインで利用できます。 詳細については、「Microsoft サポート オプション [」を参照してください](/Office365/Admin/contact-support-for-business-products)。
+
 承認された管理者は、Microsoft 365 管理センターを使用して、サービス要求をオンラインで送信し、サポート電話番号にアクセスし、開いているサービス要求と最近終了したサービス要求を表示できます。 管理センターで送信されたサービス要求は、要求が閉じてから最大 14 日間再開できます。 手順については、「ビジネス サポート[Microsoft 365問い合わせ」を参照してください](/Office365/Admin/contact-support-for-business-products)。
   
 テクニカル Microsoft 365チームは、ユーザーとユーザーに関連する問題Microsoft 365トラブルシューティングOffice 365。 顧客ネットワークで発生する問題はサポートの境界外に存在し、このような場合、顧客はネットワーク チームと協力するか [、Microsoft Networking](https://support.microsoft.com/gp/contactus81?Audience=Commercial) チームに支援を求めなければならない。
@@ -61,7 +61,7 @@ Microsoft サポートはMicrosoft Office 365、企業、ビジネス、教育�
   
 | サポート カテゴリ | 例 |
 |:-----|:-----|
-|インストールとセットアップ  <br/> | Exchange Online:  <br/>  メールボックスの移行  <br/>  受信者の構成 (メールボックスのアクセス許可、メール転送の構成、共有メールボックスの構成)  <br/>  自動検出の構成  <br/>  SharePoint Online:  <br/>  アクセス許可およびユーザー グループ  <br/>  外部ユーザーの構成  <br/>  Skype for Business Online:  <br/>  インストールおよび連絡先の作成  <br/>  Microsoft 365 Apps for enterprise: インストールとセットアップの支援  <br/> |
+|インストールとセットアップ  <br/> | Exchange Online:  <br/>  メールボックスの移行  <br/>  受信者の構成 (メールボックスのアクセス許可、メール転送の構成、共有メールボックスの構成)  <br/>  自動検出の構成  <br/>  SharePoint Online:  <br/>  アクセス許可およびユーザー グループ  <br/>  ゲストの構成  <br/>  Skype for Business Online:  <br/>  インストールおよび連絡先の作成  <br/>  Microsoft 365 Apps for enterprise: インストールとセットアップの支援  <br/> |
 |構成  <br/> | サービスの構成の不具合  <br/>  プロビジョニングに関する問題  <br/>  ドメインの設定と再委任  <br/>  サービス構成の問題  <br/>  シングル サインオン (SSO)  <br/>  Active Directory の同期  <br/> |
 
 > [!NOTE]
@@ -83,11 +83,11 @@ Microsoft では、テクニカル サポート ケースを開く際に、問�
 
 最初の応答時間は、上記の重大度レベルとサブスクリプションの種類に基づいて行います。 次の表に、応答時間の目安を示します。<br><br>
   
-| 重大度レベル | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365E1<sup>2</sup><br> Office 365E3<sup>2</sup><br> Office 365 GovernmentG2<sup>2</sup><br> Office 365米国政府機関 E3<sup>2</sup><br> Office 365<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365米国政府機関 K1<sup>2</sup> | 管理者特権のサポート オプション<sup>3</sup> |
-|:-----|:-----|:-----|:-----|:-----|
-| 重大度 A (重大)  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |
-|重大度 B (高)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:2 時間  <br/> |
-|重大度 C (中)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:4 時間  <br/> |
+| 重大度レベル | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup><br> Microsoft 365 Business Premium<sup>1</sup> | すべてのMicrosoft 365とOffice 365 Enterprise (E)<br/> Frontline (F)<br/> Government (G)、および<br/> 教育 (A) プラン | 管理者特権のサポート オプション<sup>3</sup> |
+|:-----|:-----|:-----|:-----|
+| 重大度 A (重大)  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:1 時間  <br/> |
+|重大度 B (高)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:翌日  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:2 時間  <br/> |
+|重大度 C (中)  <br/> |使用可能:勤務時間  <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:不定  <br/> |連絡可能24 時間 365 日<sup>4</sup> <br/> 応答時間:4 時間  <br/> |
 
 > [!NOTE]
 > <sup>1</sup> ビジネス プランには、重大でないすべての問題に対する営業時間のサポートと、Microsoft からの 24 時間 365 日の電話サポートが含まれます。<br/>
