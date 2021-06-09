@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、ライセンスのないアクセスによる潜在的なサービスMicrosoft 365回避するために、コンプライアンスに関するライセンス ガイダンスを提供します。
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699063"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798473"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365コンプライアンスに関するライセンス &amp; ガイダンス
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Micro
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 情報保護、ガバナンスは、トレーニング可能な分類子に基づいて保持ラベルを自動的に適用するメリットをユーザーに提供します。
 
-ライセンス別の特定の権限については、「コンプライアンス ライセンスMicrosoft 365比較」を参照してください。 [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニングおよび展開方法
 
 既定では、情報ガバナンス機能はテナント内のすべてのユーザーに対してテナント レベルで有効になっています。 ライセンスユーザーに自動ラベル付けとポリシーを適用するための情報ガバナンスの構成の詳細については、「Microsoft Information Governance in Microsoft 365」[を参照してください](/microsoft-365/compliance/manage-information-governance)。
@@ -322,8 +320,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Micro
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 情報保護とガバナンス E5/A5/G5、および Office 365 E5/A5/G5 は、レコードまたは規制レコードとしてのアイテムの宣言、保持またはレコード ラベルの自動適用、廃棄審査プロセスの実行 (トレーニング可能な分類者に基づく保持ラベルの自動適用を除く) を含むレコード管理のメリットをユーザーに提供します。
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 情報保護とガバナンスは、トレーニング可能な分類子に基づいて保持ラベルまたはレコード ラベルを自動的に適用するメリットをユーザーに提供します。
-
-ライセンス別の特定の権限については、「コンプライアンス ライセンスMicrosoft 365比較」を参照してください。 [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスのメリットを得る方法
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545974"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798453"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defende for Office 365 サービス説明書
 
@@ -69,7 +69,7 @@ Microsoft は、Defender for Office 365 に新機能を追加し続けていま�
 
 - [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Microsoft Defender for Office 365 の新機能](/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Microsoft Defender for Office 365 - Office 365 |Microsoft Docs](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 の要件
 
@@ -91,9 +91,9 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 |[フィッシング詐欺対策ポリシー](#anti-phishing-policies)|はい|はい|はい|
 |[リアルタイム レポート](#real-time-reports)|はい|はい|はい|
 |*自動化、調査、修復、教育*|
-|[脅威トラッカー](#threat-trackers)|いいえ|はい|必要|
+|[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
 |脅威の調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
-|[自動化したインシデント応答](#automated-incident-response)|いいえ|はい|必要|
+|[自動化したインシデント応答](#automated-incident-response)|いいえ|はい|はい|
 |[攻撃シミュレーションのトレーニング](#attack-simulation-training)|いいえ|はい|はい|
 |*[Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection) との統合*|いいえ|はい|はい|
 

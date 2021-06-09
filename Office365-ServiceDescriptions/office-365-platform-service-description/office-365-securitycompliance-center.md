@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: セキュリティ コンプライアンス &amp; センターは、組織全体のコンプライアンス機能を管理Office 365設計されています。 既存の SharePoint および Exchange のコンプライアンス機能へのリンクにより、Office 365 全体のコンプライアンス機能を一つにまとめます。
-ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699103"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798463"
 ---
 # <a name="security-amp-compliance-center"></a>セキュリティ/コンプライアンス センター
 
@@ -116,7 +116,7 @@ ms.locfileid: "52699103"
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-コンプライアンス センターは、21Vianet がOffice 365 E3 プランで利用できます。
+コンプライアンス センターは[、21Vianet](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)がOffice 365 E3 プランで利用できます。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
