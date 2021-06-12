@@ -1,5 +1,5 @@
 ---
-title: Web 用 Visio
+title: Visio機能の詳細
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visioを使用すると、Microsoft Visioエクスペリエンスがブラウザーに拡張され、クラウドに保存されたダイアグラムを作成および編集できます。 Microsoft 365ユーザーは、図面の表示、印刷、共有、およびコメントの挿入を行えます。
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653639"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906763"
 ---
-# <a name="visio-for-the-web"></a>Web 用 Visio
+# <a name="visio-features-detail"></a>Visio機能の詳細
 
 Visioを使用すると、Microsoft Visioエクスペリエンスがブラウザーに拡張され、クラウドに保存されたダイアグラムを作成および編集できます。 Microsoft 365ユーザーは、図面の表示、印刷、共有、およびコメントの挿入を行えます。 サブスクリプションを使用しているVisio、次のセクションで説明されている機能など、追加の機能を使用できます。
   

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、ライセンスのないアクセスによる潜在的なサービスMicrosoft 365回避するために、コンプライアンスに関するライセンス ガイダンスを提供します。
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798473"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906753"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365コンプライアンスに関するライセンス &amp; ガイダンス
 
@@ -186,13 +186,13 @@ MCAS の条件付きアクセス アプリ制御機能を利用するには、En
 
 - 複雑な規制、標準、会社のポリシー、その他の必要な制御フレームワークを単純な言語に変換する
 - 独自のコンプライアンスニーズを満たすために、独自の評価とカスタム評価の膨大なライブラリへのアクセスを提供します
-- マップ推奨される改善アクションに対する規制制御の強化
+- 規制コントロールを推奨される改善アクションにマップする
 - 規制要件を満たすためにソリューションを実装する方法に関するステップバイステップのガイダンスを提供します。
 - ユーザーが各アクションにスコアを関連付け、組織のコンプライアンスに最も大きな影響を与えるアクションの優先順位を設定するのに役立ちます
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>サービスのメリットをユーザーに提供する権限を提供するライセンスは何ですか?
 
-E1 および E3/G3 ライセンスをお持ちのお客様は、既定のデータ保護基準評価にのみアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンス (コンプライアンス、Info Protection & ガバナンス、電子情報開示と監査 SKU が含まれる) をお持ちのお客様は、データ保護基準、GDPR、NIST 800-53、ISO 27001 の標準評価にアクセスできます。 Office 365 G5 および Microsoft 365 G5 をお持ちのお客様は、データ保護基準、GDPR、NIST 800-53、ISO 27001、およびサイバーセキュリティ成熟度モデル認定 (CMMC) レベル 1 ~ 5 の標準評価にアクセスできます。 カスタム評価機能とプレミアム評価は、E5/A5/G5 および Office 365/A5/G5 のお客様向Microsoft 365 E5予約されています。 プレミアム FedRAMP モデレート、FedRAMP High などの評価は、2021 年上半期から VL、CSP、WebDirect の間に E5/A5/G5 ライセンスをお持ちのお客様に購入できます。 Microsoft 販売者または Microsoft パートナーに問い合わせ、それぞれ VL チャネルまたは CSP チャネルを通じて購入してください。 WebDirect を使用して購入するには [、「WebDirect」を参照してください](https://aka.ms/ComplianceManager/WebDirect)。
+E1 および E3/G3 ライセンスをお持ちのお客様は、既定のデータ保護基準評価にのみアクセスできます。 Office 365 E5/A5 および Microsoft 365 E5/A5 ライセンス (コンプライアンス、Info Protection & ガバナンス、電子情報開示と監査 SKU が含まれる) をお持ちのお客様は、データ保護基準、GDPR、NIST 800-53、ISO 27001 の標準評価にアクセスできます。 Office 365 G5 および Microsoft 365 G5 をお持ちのお客様は、データ保護基準、GDPR、NIST 800-53、ISO 27001、およびサイバーセキュリティ成熟度モデル認定 (CMMC) レベル 1 ~ 5 の標準評価にアクセスできます。 カスタム評価機能とプレミアム評価は、Office 365 E5/A5/G5 および Microsoft 365 E5/A5/G5 のお客様のために予約されています。 FedRAMP Moderate、FedRAMP High などのプレミアム評価は、2021 年前半から VL、CSP、WebDirect の間に E5/A5/G5 ライセンスをお持ちのお客様に購入できます。 Microsoft 販売者または Microsoft パートナーに問い合わせ、それぞれ VL チャネルまたは CSP チャネルを通じて購入してください。 WebDirect を使用して購入するには [、「WebDirect」を参照してください](https://aka.ms/ComplianceManager/WebDirect)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニングおよび展開方法
 
@@ -200,11 +200,11 @@ E1 および E3/G3 ライセンスをお持ちのお客様は、既定のデー�
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
-Microsoft Defender for Endpoint (旧Microsoft Defender ATP) は、リスクベースのセキュリティと評価を含む脆弱性の管理ソリューションです。攻撃表面の縮小機能。ビヘイビア ベースおよびクラウドベースの次世代保護。エンドポイントの検出と応答 (EDR)。自動調査と修復。および管理された狩猟サービス。 詳細については [、「Microsoft Defender for Endpoint」](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) ページを参照してください。
+Microsoft Defender for Endpoint (旧 Microsoft Defender ATP) は、リスクベースの脆弱性管理と評価を含むエンドポイント セキュリティ ソリューションです。攻撃表面の縮小機能。ビヘイビア ベースおよびクラウドベースの次世代保護。エンドポイントの検出と応答 (EDR)。自動調査と修復。および管理された狩猟サービス。 詳細については [、「Microsoft Defender for Endpoint」](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) ページを参照してください。
 
 ### <a name="which-users-benefit-from-the-service"></a>どのユーザーがサービスの恩恵を受けるか。
 
-Windows 10 Enterprise E5、Microsoft 365 E5/A5/G5 セキュリティを含む Windows 10 Enterprise E5、Windows 10 Education A5、Microsoft 365 E5/G5 のライセンスユーザーは、Microsoft Defender for Endpoint を利用できます。
+Windows 10 Enterprise E5、Windows 10 Education A5、Microsoft 365 E5/G5 のライセンスユーザーは、Windows 10 Enterprise E5、Microsoft 365 E5/A5/G5 セキュリティを含み、Microsoft Defender for Endpoint のメリットを利用できます。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスのメリットを得る方法
 
@@ -216,11 +216,11 @@ SecOps アナリストとセキュリティ 専門家は、Microsoft Defender fo
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスを取得しているテナント内のユーザーにのみサービスを適用する方法
 
-Microsoft Defender for Endpoint の管理者は、役割ベースのアクセス制御 (RBAC) を使用して、セキュリティ運用チーム内に役割とグループを作成して、管理者に適切なアクセス権を付与Microsoft Defender セキュリティ センター。 詳細については、「役割ベースのアクセス [制御を使用してポータル アクセスを管理する」を参照してください](/windows/security/threat-protection/microsoft-defender-atp/rbac)。
+Microsoft Defender for Endpoint 管理者は、役割ベースのアクセス制御 (RBAC) を使用して、セキュリティ運用チーム内に役割とグループを作成し、Microsoft Defender セキュリティ センターへの適切なアクセスを許可できます。 詳細については、「役割ベースのアクセス [制御を使用してポータル アクセスを管理する」を参照してください](/windows/security/threat-protection/microsoft-defender-atp/rbac)。
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365分類分析: 概要コンテンツ アクティビティ &amp; エクスプローラー
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 データ分類分析: 概要コンテンツ &amp; アクティビティ エクスプローラー
 
-データ分類分析機能は、コンプライアンス センターのエクスペリエンスMicrosoft 365利用できます。 概要には、デジタル コンテンツの場所と、最も一般的な機密情報の種類とラベルが表示されます。 コンテンツ エクスプローラーは、機密データの量と種類を表示し、ユーザーがラベルまたは機密の種類でフィルター処理して、機密データが格納されている場所の詳細なビューを取得できます。 アクティビティ エクスプローラーには、機密データやラベルに関連するアクティビティ (ラベルのダウングレードや外部共有など) が表示され、コンテンツがリスクにさらされる可能性があります。
+データ分類分析機能は、Microsoft 365 コンプライアンス センターエクスペリエンス内で利用できます。 概要には、デジタル コンテンツの場所と、最も一般的な機密情報の種類とラベルが表示されます。 コンテンツ エクスプローラーは、機密データの量と種類を表示し、ユーザーがラベルまたは機密の種類でフィルター処理して、機密データが格納されている場所の詳細なビューを取得できます。 アクティビティ エクスプローラーには、機密データやラベルに関連するアクティビティ (ラベルのダウングレードや外部共有など) が表示され、コンテンツがリスクにさらされる可能性があります。
 
 アクティビティ エクスプローラーは、エンド ユーザーが使用している機密情報に関連するアクティビティに関する可視性を得る管理者向け単一のウィンドウを提供します。 これらのデータには、ラベル アクティビティ、データ損失防止 (DLP) ログ、自動ラベル付け、エンドポイント DLP などがあります。
 
@@ -232,21 +232,21 @@ Microsoft Defender for Endpoint の管理者は、役割ベースのアクセス
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>サービスのメリットをユーザーに提供する権限を提供するライセンスは何ですか?
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 情報保護ガバナンス、Office 365 E5 のライセンスユーザーは、Microsoft 365 データ分類分析を利用できます。 &amp; 
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 Information &amp; Protection Governance、Office 365 E5 のライセンスユーザーは、Microsoft 365 データ分類分析を利用できます。 
 
-Microsoft 365 E3/A3/G3 Office 365 E3/A3/G3 では、ユーザーはコンテンツ エクスプローラーのデータ集約のみを利用できます。
+Microsoft 365 E3/A3/G3 および Office 365 E3/A3/G3 を使用すると、ユーザーはコンテンツ エクスプローラーのデータ集約のみを利用できます。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニングおよび展開方法
 
 既定では、概要コンテンツとアクティビティ エクスプローラーの機能は、テナント内のすべてのユーザーに対してテナント レベルで有効になっています。 ライセンスユーザーのデータ分類分析の構成の詳細については、以下を参照してください。
 
-- **コンテンツ エクスプローラー**:[コンテンツ エクスプローラーの使用を開始する - Microsoft 365 コンプライアンス |Microsoft Docs](/microsoft-365/compliance/data-classification-content-explorer).
-- **アクティビティ エクスプローラー**:[アクティビティ エクスプローラーの使用を開始する - Microsoft 365 コンプライアンス |Microsoft Docs](/microsoft-365/compliance/data-classification-activity-explorer).
-- **データ分類リリース ノート**:[データ分類リリース ノート - Microsoft 365 コンプライアンス |Microsoft Docs](/microsoft-365/compliance/data-classification-pub-preview-relnotes).
+- **コンテンツ エクスプローラー**: [コンテンツ エクスプローラーの使用を開始する - Microsoft 365 コンプライアンス |Microsoft Docs](/microsoft-365/compliance/data-classification-content-explorer).
+- **アクティビティ エクスプローラー**: [アクティビティ エクスプローラーの使用を開始する - Microsoft 365 コンプライアンス |Microsoft Docs](/microsoft-365/compliance/data-classification-activity-explorer).
+- **データ分類のリリース ノート**: [データ分類リリース ノート - Microsoft 365 コンプライアンス |Microsoft Docs](/microsoft-365/compliance/data-classification-pub-preview-relnotes).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスを取得しているテナント内のユーザーにのみサービスを適用する方法
 
-この機能は、コンプライアンス ポータル内でソリューションを積極的に使用するユーザー Microsoft 365必要があります。
+この機能は、Microsoft 365 コンプライアンス ポータル内でソリューションを積極的に使用するユーザーの範囲を指定する必要があります。
 
 ## <a name="information-protection"></a>情報保護
 
@@ -258,16 +258,16 @@ Microsoft 365 E3/A3/G3 Office 365 E3/A3/G3 では、ユーザーはコンテン�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>サービスのメリットをユーザーに提供する権限を提供するライセンスは何ですか?
 
-Microsoft 365 E5/A5/G5/E3/G3/F3/F1/F3/Business プレミアム、Enterprise Mobility + Security F3/E3/E5、Office 365 E5/A5/E3/A3/F3、AIP プラン 1、および AIP プラン 2 は、ユーザーに手動による感度ラベル付けによるメリットを提供します。
+Microsoft 365 E5/A5/G5/E3/G3/F1/F3/Business Premium、Enterprise Mobility + Security F3/E3/E5、Office 365 E5/A5/E3/A3/F3、AIP プラン 1、および AIP プラン 2 は、ユーザーが手動の感度ラベル付けによるメリットを得る権利を提供します。
 
-Microsoft 365 E5/A5/G5/E3/G3/F1/F3/Business プレミアム、Enterprise Mobility + Security F3/E3/E5、AIP プラン 1、および AIP プラン 2 は、Power BI で感度ラベルを適用および表示し、Power BI から Excel、PowerPoint、PDF にエクスポートするときにデータを保護する権限をユーザーに提供します。 
+Microsoft 365 E5/A5/G5/E3/G3/F3/Business Premium、Enterprise Mobility + Security F3/E3/E5、AIP プラン 1、および AIP プラン 2 は、Power BI で感度ラベルを適用および表示し、Power BI から Excel、PowerPoint、または PDF にエクスポートするときにデータを保護する権限をユーザーに提供します。 
 
 > [!NOTE]
-> Power BIは、Microsoft 365 E5/A5/G5 に含まれています。他のすべてのプランでは、Power BIライセンスが必要です。
+> Power BI は Microsoft 365 E5/A5/G5 に含まれています。他のすべてのプランでは、Power BI は個別にライセンスを取得する必要があります。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 情報保護、ガバナンス、Office 365 E5、Enterprise Mobility + Security E5/A5/G5、および AIP プラン 2 は、自動感度ラベル付けによるメリットをユーザーに提供します。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 情報保護、ガバナンス、Office 365 E5、Enterprise Mobility + Security E5/A5/G5、および AIP プラン 2 は、自動感知ラベル付けによるメリットをユーザーに提供します。
 
-情報保護には、トレーニング可能な分類子 (トレーニング可能な分類子) に基づくMachine Learningの権限は含められない。
+情報保護には、機械学習 (トレーニング可能な分類子) に基づく自動分類の権限は含められない。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニングおよび展開方法
 
@@ -281,7 +281,7 @@ AIP スキャナー機能の場合、Microsoft はライセンスを取得して
 
 ## <a name="information-governance"></a>情報ガバナンス
 
-情報ガバナンスは、組織がデータの検出、分類、ラベル付け、管理を通じてリスクを管理するのに役立ちます。 情報ガバナンスを使用すると、組織はビジネスおよび規制の要件を満たすだけでなく、Microsoft 365およびサード パーティのデータ全体で保持および削除機能を提供することで攻撃の表面を減らします。
+情報ガバナンスは、組織がデータの検出、分類、ラベル付け、管理を通じてリスクを管理するのに役立ちます。 情報ガバナンスを使用すると、組織はビジネス要件と規制要件を満たすだけでなく、Microsoft 365 およびサード パーティのデータ全体で保持および削除機能を提供することで攻撃の表面を減らします。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>ユーザーがサービスのメリットを得る方法
 
@@ -289,23 +289,33 @@ AIP スキャナー機能の場合、Microsoft はライセンスを取得して
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>サービスのメリットをユーザーに提供する権限を提供するライセンスは何ですか?
 
-Microsoft 365 F3/Business プレミアム、Office 365 E1/A1/F3、スタンドアロン Exchange プランは、メールボックス データにレコード以外の保持ラベルを手動で適用するメリットをユーザーに提供します。
+Microsoft 365 F3/Business Premium、Office 365 E1/A1/F3、スタンドアロン Exchange プランは、メールボックス データにレコード以外の保持ラベルを手動で適用するメリットをユーザーに提供します。
 
-Microsoft 365 F3/F1/Business プレミアム、Office 365 E1/A1/F3、スタンドアロン SharePoint プランは、SharePoint または OneDrive のファイルにレコード以外の保持ラベルを手動で適用するメリットをユーザーに提供します。 
+Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3、スタンドアロン SharePoint プランは、SharePoint または OneDrive のファイルにレコード以外の保持ラベルを手動で適用するメリットをユーザーに提供します。 
 
-Microsoft 365 E5/A5/G5/E3/A3/Business プレミアム、Office 365 E5/A5/G5/E3/A3、Exchange プラン 2、および Exchange Online Archiving は、基本的な組織全体または場所全体のメールボックス保持ポリシーの恩恵を受ける権限をユーザーに提供し、メールボックス データにレコード以外の保持ラベルを手動で適用する権限をユーザーに提供します。
+Microsoft 365 E5/A5/E3/A3/Business Premium、Office 365 E5/A5/G5/E3/A3、Exchange プラン 2、および Exchange Online Archiving は、基本的な組織全体または場所全体のメールボックス保持ポリシーの恩恵を受ける権限をユーザーに提供し、メールボックス データにレコード以外の保持ラベルを手動で適用する権限をユーザーに提供します。
 
-Microsoft 365 E5/A5/G5/E3/A3、Office 365 E5/A5/G5/E3/A3、SharePoint プラン 2 は、基本的な SharePoint または OneDrive 保持ポリシーを利用したり、SharePoint または OneDrive のファイルにレコード以外の保持ラベルを手動で適用したりする権限をユーザーに提供します。
+Microsoft 365 E5/A5/G5/E3/A3、Office 365 E5/A5/G5/E3/A3、および SharePoint プラン 2 は、基本的な SharePoint または OneDrive 保持ポリシーの恩恵を受ける権利をユーザーに提供し、SharePoint または OneDrive のファイルにレコード以外の保持ラベルを手動で適用する権限をユーザーに提供します。
 
-Microsoft 365 E5/A5/G5/E3/A3 および Office 365 E5/A5/G5/E3/A3 は、ユーザーが Teams アイテム保持ポリシーを利用する権限を提供します。
+組織では、保持ポリシーを使用して、ポリシーに従って Teams メッセージを保持または削除できます。 これには、Teams のチャットと会話でのメッセージの管理が含まれます。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 情報保護とガバナンス E5/A5/G5、 Office 365 E5/A5 は、ユーザーが保持ラベルまたはポリシーを自動的に適用し、既定の保持ラベルまたはポリシーを適用し、カスタム イベントに基づいて保持ラベルの保持期間を開始し、ラベルの保持期間の最後に手動の廃棄レビューをトリガーし、ネイティブ データ コネクタを介してサード パーティデータをインポートし、ファイルをレコードとして宣言し、ラベル付きコンテンツを検出し、ラベル付けアクティビティを監視する権限をユーザーに提供します。
+次のライセンスは、Teams アイテム保持ポリシーのメリットをユーザーに提供します。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 情報保護、ガバナンスは、トレーニング可能な分類子に基づいて保持ラベルを自動的に適用するメリットをユーザーに提供します。
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365 E5/G5/A5/E3/G3/F3/E1/G1
+
+次のライセンスを持つユーザーの場合、サポートされている最小保持期間または削除期間は 30 日間です。
+
+- Microsoft 365 F1/F3、Business Basic、Business Standard、Business Premium
+- Office 365 E1/G1 および F3
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 Information Protection and Governance E5/A5/G5、 Office 365 E5/A5 は、ユーザーが保持ラベルまたはポリシーを自動的に適用し、既定の保持ラベルまたはポリシーを適用し、カスタム イベントに基づいて保持ラベルの保持期間を開始し、ラベルの保持期間の最後に手動の廃棄レビューをトリガーし、ネイティブ データ コネクタを介してサードパーティデータをインポートし、ファイルを宣言し、ラベル付きコンテンツを検出し、ラベル付けアクティビティを監視する権限をユーザーに提供します。
+
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Microsoft 365 E5/A5/G5 Information Protection、ガバナンスは、トレーニング可能な分類子に基づいて保持ラベルを自動的に適用するメリットをユーザーに提供します。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>サービスのプロビジョニングおよび展開方法
 
-既定では、情報ガバナンス機能はテナント内のすべてのユーザーに対してテナント レベルで有効になっています。 ライセンスユーザーに自動ラベル付けとポリシーを適用するための情報ガバナンスの構成の詳細については、「Microsoft Information Governance in Microsoft 365」[を参照してください](/microsoft-365/compliance/manage-information-governance)。
+既定では、情報ガバナンス機能はテナント内のすべてのユーザーに対してテナント レベルで有効になっています。 ライセンスユーザーに対して自動ラベル付けとポリシーを適用するための情報ガバナンスの構成の詳細については [、「Microsoft Information Governance in Microsoft 365」を参照してください](/microsoft-365/compliance/manage-information-governance)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスを取得しているテナント内のユーザーにのみサービスを適用する方法
 
