@@ -91,7 +91,7 @@
 ### [レポートとビジネス インテリジェンス](project-online-service-description/reporting-and-business-intelligence.md)
 ### [リソース管理](project-online-service-description/resource-management.md)
 ## [Web 用 Visio サービスの説明](visio-online-service-description/visio-online-service-description.md)
-### [Web 用 Visio](visio-online-service-description/visio-online.md)
+### [Visio の機能詳細](visio-online-service-description/visio-online.md)
 ## [Yammer サービスの説明](yammer-service-description/yammer-service-description.md)
 ### [Yammer のグループ機能](yammer-service-description/group-features-in-yammer.md)
 ### [Yammer のプロフィール機能](yammer-service-description/profile-features-in-yammer.md)
