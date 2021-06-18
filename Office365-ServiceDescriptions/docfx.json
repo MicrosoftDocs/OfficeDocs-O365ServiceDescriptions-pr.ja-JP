@@ -24,7 +24,9 @@
           "**/*.png",
           "**/*.jpg",
           "**/*.gif",
-          "**.*.svg"
+          "**.*.svg",
+          "**/*.pdf",
+          "**/*.xlsx"
         ],
         "exclude": [
           "**/obj/**",
@@ -37,13 +39,26 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "ocv-translation-feedback": true,
+     "ocv-translation-feedback": true,
       "breadcrumb_path": "/Office365/ServiceDescriptions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["Service Descriptions"],
-      "feedback_system": "GitHub",
+      "searchScope": [
+        "Service Descriptions"
+      ],
+      "recommendations": true,
+      "feedback_system": "None",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ServiceDescriptions",
-      "feedback_product_url": "https://office365.uservoice.com/" 
+      "feedback_product_url": "https://office365.uservoice.com/",
+      "titleSuffix": "Service Descriptions",
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
+        "jborsecnik",
+        "tiburd",
+        "garycentric"
+      ]
     },
     "fileMetadata": {},
     "template": [],

@@ -4,15 +4,20 @@
       "docset_name": "OfficeDocs-O365ServiceDescriptions",
       "build_source_folder": "Office365-ServiceDescriptions",
       "build_output_subfolder": "OfficeDocs-O365ServiceDescriptions",
-      "locale": "ja-JP",
+      "locale": "ja-jp",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": ["v-mipop@microsoft.com","v-jijaku@microsoft.com"],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
@@ -25,13 +30,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.ja-JP",
-      "branch": "master",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_themes.pdf",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.ja-jp",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -43,10 +42,20 @@
         "live": "live",
         "master": "master"
       }
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
     "live": [
+      "Publish",
+      "Pdf"
+    ],
+    "dstrome-smb-voice-sd": [
       "Publish",
       "Pdf"
     ]
@@ -56,5 +65,8 @@
     "pdf": {
       "template_folder": "_themes.pdf"
     }
+  },
+  "docs_build_engine": {
+    "name": "docfx_v3"
   }
 }
