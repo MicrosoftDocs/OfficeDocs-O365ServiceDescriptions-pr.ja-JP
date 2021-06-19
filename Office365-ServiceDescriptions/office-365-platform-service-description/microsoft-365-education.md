@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: " Microsoft 365 と Office 365 Education プランの間の相違について説明します。"
-ms.openlocfilehash: d9cd436fd006aa72f25c10a485881671b6e1dbb5
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: HT
+ms.openlocfilehash: 0fb0f1ccd686329010612b18107c6f5e5d2cb77c
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652583"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021980"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -41,6 +41,7 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Yammer アカデミック版|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft Stream|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft Planner|はい|はい|はい|はい|はい|はい|はい|はい|はい|
+|ユニバーサル印刷|いいえ|いいえ|いいえ|はい<sup>13</sup>|はい<sup>13</sup>|いいえ|いいえ|はい<sup>14</sup>|はい<sup>14</sup>|
 |**クラスルーム ツール**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 学生使用特典**|**Office 365 A5 学生使用特典**|**Microsoft 365 A3 学生使用特典**|**Microsoft 365 A5 学生使用特典**|
 |Microsoft Teams でのクラスルーム エクスペリエンス|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |OneNote Class Notebook|はい|はい|はい|はい|はい|はい|はい|はい|はい|
@@ -118,3 +119,5 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 > <sup>10</sup> 以前の Office 365 Advanced Threat Protection。<br/>
 > <sup>11</sup> 以前の Azure Advanced Threat Protection。<br/>
 > <sup>12</sup> 以前の Microsoft Defender Advanced Threat Protection。<br/>
+> <sup>13</sup>ユニバーサル 印刷は、Windows A3 および A5 に含まれています。 <br/>
+> <sup>14</sup> 0 (ゼロ) 印刷ジョブが含まれています。 <br/>

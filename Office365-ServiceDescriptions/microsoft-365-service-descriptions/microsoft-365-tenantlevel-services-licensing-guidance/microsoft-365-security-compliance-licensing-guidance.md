@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: この記事では、ライセンスのないアクセスによる潜在的なサービスMicrosoft 365回避するために、コンプライアンスに関するライセンス ガイダンスを提供します。
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950166"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021970"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365コンプライアンスに関するライセンス &amp; ガイダンス
 
@@ -260,7 +260,9 @@ Microsoft 365 E3/A3/G3 および Office 365 E3/A3/G3 を使用すると、ユー
 
 Microsoft 365 E5/A5/G5/E3/G3/F1/F3/Business Premium、Enterprise Mobility + Security F3/E3/E5、Office 365 E5/A5/E3/A3/F3、AIP プラン 1、および AIP プラン 2 は、ユーザーが手動の感度ラベル付けによるメリットを得る権利を提供します。
 
-Microsoft 365 E5/A5/G5/E3/G3/F3/Business Premium、Enterprise Mobility + Security F3/E3/E5、AIP プラン 1、および AIP プラン 2 は、Power BI で感度ラベルを適用および表示し、Power BI から Excel、PowerPoint、または PDF にエクスポートするときにデータを保護する権限をユーザーに提供します。 
+Microsoft 365 E5/A5/G5/E3/G3/F3/Business Premium、Enterprise Mobility + Security F3/E3/E5、AIP プラン 1、および AIP プラン 2 は、Power BI で感度ラベルを適用および表示し、Power BI から Excel、PowerPoint、または PDF にエクスポートするときにデータを保護する権限をユーザーに提供します。
+
+Microsoft 365 Business Premium および Enterprise Mobility は [、AIPService](/powershell/azure/aip/overview#aipservice) PowerShell モジュールを使用して Azure Information Protection の Azure Rights Management Protection サービスを管理する権限を提供します。
 
 > [!NOTE]
 > Power BI は Microsoft 365 E5/A5/G5 に含まれています。他のすべてのプランでは、Power BI は個別にライセンスを取得する必要があります。
@@ -275,9 +277,11 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 コンプライアンス、Micro
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>サービスのライセンスを取得しているテナント内のユーザーにのみサービスを適用する方法
 
-AIP スキャナー機能を使用する場合を除き、ポリシーを特定のグループに範囲指定したり、ユーザーやレジストリを編集して、ライセンスのないユーザーが分類機能やラベル付け機能を実行したりすることはできません。 AIP 展開の範囲を指定する方法については [、「Azure Information Protection ポリシーの構成」を参照してください](/azure/information-protection/configure-policy)。
+AIP スキャナー機能を使用する場合を除き、ポリシーを特定のグループに範囲指定したり、ユーザーやレジストリを編集して、ライセンスのないユーザーが分類機能やラベル付け機能を実行したりすることはできません。
 
 AIP スキャナー機能の場合、Microsoft はライセンスを取得していないユーザーにファイル分類、ラベル付け、または保護機能を提供しない。
+
+詳細については、「感度ラベルの [作成と](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) 発行」および「Azure Information Protection 統合ラベル スキャナーについて [」を参照してください](/azure/information-protection/deploy-aip-scanner)。
 
 ## <a name="information-governance"></a>情報ガバナンス
 

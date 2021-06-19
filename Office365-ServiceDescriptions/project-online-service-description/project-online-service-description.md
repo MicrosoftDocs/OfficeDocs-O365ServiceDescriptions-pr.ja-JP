@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 Project Online を通じて提供される Project Online は、ほぼすべてのデバイスのほぼすべての場所から、プロジェクトやプロジェクト ポートフォリオへの投資を計画、優先順位付け、管理するための強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798483"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022000"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -49,16 +49,16 @@ Project Online は SharePoint プラットフォーム上に構築されてお�
 
 Project Online は、Project Plan 3 と Project Plan 5 の 2 つのサブスクリプションを通じて利用できます。 この機能にProject Online[機能は、](#project-online-features)データ ストア内のデータProject Online SharePoint操作します。
 
-チーム メンバーの機能は、Project Onlineプラン 1 サブスクリプションProject Online EssentialsまたはProject使用できます。 Project Online Essentialsプラン 3 またはプラン 5 サブスクリプションを使用しているProjectチーム Project アドオン サブスクリプションです。 Project Online Essentialsプラン 1 Projectプラン 1 サブスクリプションを使用すると、チーム メンバーは Web インターフェイスを使用して、プロジェクトで管理されているプロジェクトに対してタスクと時間の更新をProject Online。
+チーム メンバーの機能は、Project Onlineサブスクリプションを使用してProject Online EssentialsまたはProject Plan 1できます。 Project Online Essentialsは、チーム *メンバー* のアドオン サブスクリプションで、サブスクリプションをProject Plan 3またはProject Plan 5します。 Project Online EssentialsおよびProject Plan 1サブスクリプションを使用すると、チーム メンバーは Web インターフェイスを使用して、プロジェクトで管理されているプロジェクトに対してタスクと時間の更新をProject Online。
 
-プラン 1 サブスクリプションProject Online EssentialsまたはProjectメンバーは、次の機能をProject Onlineできます。
+サブスクリプションを使用Project Online EssentialsまたはProject Plan 1メンバーは、次の機能をProject Onlineできます。
 
 - Web ベースのインターフェースを使用する
 - タスク、懸案事項、およびリスクの更新
 - タイムシートの送信
 - ドキュメントを共有し、Microsoft Teams または Skype for Business ユーザーと共同作業する
 
-Project Online Essentials には、Project for the web は含まれていません。 Projectプラン 1 には、web と Projectの両方のProject Online Essentials。
+Project Online Essentials には、Project for the web は含まれていません。 Project Plan 1には、web とProjectの両方のProject Online Essentials。
 
 ### <a name="project-online-desktop-client"></a>Project Online デスクトップ クライアント
 
@@ -108,7 +108,7 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup> | はい | はい | はい | はい |
 |**リソースとプログラムの管理** ||||||
 |プロジェクト チームのセットアップ | メンバーの追加と削除、および作業予定表の設定により、プロジェクト チームを管理します。 | いいえ | はい | はい | はい |
-|ロードマップ | プロジェクト全体の視覚的で対話型のロードマップをMicrosoft Project Online、Microsoft Project、およびプロジェクトAzure Boardsします。<sup>2</sup> Projectプラン 1 では、ロードマップへの読み取り専用アクセス権を取得します。 プラン 3 Projectプラン 5 をProject、ロードマップを作成できます。 | 表示のみ | 表示のみ | はい | はい |
+|ロードマップ | プロジェクト全体の視覚的で対話型のロードマップをMicrosoft Project Online、Microsoft Project、およびプロジェクトAzure Boardsします。<sup>2</sup>このProject Plan 1ロードマップへの読み取り専用アクセス権を取得します。 ユーザー Project Plan 3またはProject Plan 5、ロードマップを作成できます。 | 表示のみ | 表示のみ | はい | はい |
 |**レポート**<sup>3</sup> ||||||
 |Web データのProject *レポートを読み取* る | プロジェクト、プログラム、ポートフォリオ、およびリソース データを理解するために、アウトオブザボックスまたはカスタム レポート、ダッシュボードを表示します。 | はい | はい | はい | はい |
 |Web データのProject *を使用してレポートを作成* する | すぐに使用できるレポートに基づいて、またはゼロからカスタム レポートを作成して、組織にとって重要なデータを理解します。 <br>特定の組織のニーズを満たすのに役立つカスタム ダッシュボードを作成します。 | いいえ | はい | はい | はい |
@@ -131,7 +131,7 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 
 ### <a name="project-online-features"></a>Project Online の機能
 
-このセクションにリストされている機能は、Project Online SharePoint のデータ ストアのデータとのみ相互作用します。 プラン 1 サブスクリプションProject Online EssentialsまたはProjectメンバーは、いくつかの機能をProject Onlineできます。 詳細については、「サービスの説明[- Microsoft Projectの説明」を参照|Microsoft Docs](/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online).<br><br>
+このセクションにリストされている機能は、Project Online SharePoint のデータ ストアのデータとのみ相互作用します。 サブスクリプションを使用Project Online EssentialsまたはProject Plan 1メンバーは、一部の機能Project Onlineできます。 詳細については、「サービスの説明[- Microsoft Projectの説明」を参照|Microsoft Docs](/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online).<br><br>
 
 |機能 | 説明 | Project Plan 3 | Project Plan 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -209,8 +209,8 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 - (組み込みのトリガー/アクションProject) アプリケーション内から直接トリガーされる
 
 フローが分離され、Projectアプリケーションとは関係ない場合は、プラットフォーム ライセンスを購入する必要があります。</br>
-<sup>8</sup>プラン 3 またはプラン 5 Projectプラン 5 サブスクリプションProjectユーザーは、リソースエンゲージメント要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
-<sup>9</sup>プラン 5 サブスクリプションProjectユーザーは、リソースエンゲージメント要求を確認、履行、および承認できます。</br>
+<sup>8</sup>サブスクリプションのProject Plan 3またはProject Plan 5ユーザーは、リソースエンゲージメント要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
+<sup>9</sup>サブスクリプションを使用しているユーザー Project Plan 5、リソースエンゲージメント要求を確認、履行、および承認できます。</br>
 <sup>10</sup> Active Directory には、個別のサブスクリプションが必要です。 </br>
 <sup>11</sup> View only entitlements は Power App 内からのみ付与されます。 </br>
 
@@ -266,8 +266,8 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 
 ### <a name="licensing-considerations"></a>ライセンスに関する考慮事項
 
-- サイト上の操作Project Online、少なくともテナント内でプラン 3 または Projectプラン 5 Projectプラン 5 サブスクリプションが必要です。
-- 最後の Project プラン 1、Project プラン 3、または Project プラン 5 サブスクリプションの有効期限が切れると、Microsoft Dataverse に依存するアクティブなサブスクリプションがない場合、Web インスタンスの Project は自動的に削除されません。
+- サイト上の操作Project Online、テナント内で少なくとも 1 Project Plan 3またはProject Plan 5サブスクリプションが必要です。
+- 最後の Project Plan 1、Project Plan 3、または Project Plan 5 サブスクリプションの有効期限が切れると、Microsoft Dataverse に依存するアクティブなサブスクリプションがない場合、Web インスタンスの Project は自動的に削除されません。
 - 最後の Project Plan 3、または Project Plan 5 のサブスクリプションが期限切れになると、Project Online のインスタンスは 120 日後に削除されます。
 - 試用版Project Onlineの場合、試用版インスタンスは試用期間が終了した 30 日後に削除されます。
 - Web Projectサブスクリプションの場合、Microsoft Dataverse に依存するアクティブなサブスクリプションがない場合、試用版インスタンスは削除されません。
@@ -282,7 +282,7 @@ Project ロードマップでは、Power Automate の使用が必要です。こ
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Projectおよび Microsoft Dataverse の詳細
 
-Projectには、データを格納するために Microsoft Dataverse を使用する必要があります。 Microsoft Dataverse データベースは、サブスクリプションの一部としてProjectされます。 Microsoft Dataverse の機能に対する権利は、Web のデータの保存とアクセスをサポートするためにProject制限されます。 Microsoft Dataverse のProjectは、Project 管理センターの[アプリ] セクションに Project サービスプランの共通データ サービスMicrosoft 365表示されます。
+Projectには、データを格納するために Microsoft Dataverse を使用する必要があります。 Microsoft Dataverse データベースは、サブスクリプションの一部としてProjectされます。 Microsoft Dataverse の機能に対する権利は、Web のデータの保存とアクセスをサポートするためにProject制限されます。 Microsoft Dataverse の機能は、Project の [アプリ] セクションの Project サービス プランの共通データ サービスとして表示Microsoft 365 管理センター。
 
 Project Web ライセンス用に 5 つ以上の Project を持つお客様の場合、web ユーザーの Project は Power Platform Production 環境および Sandbox 環境に展開できます。
 
@@ -297,6 +297,11 @@ Project Web ライセンス用に 5 つ以上の Project を持つお客様の�
 ### <a name="data-backup-and-retention"></a>データのバックアップと保持
 
 Project for the web と Project Online には、Office 365 と同じデータ バックアップと保持ポリシーがあります。 詳細については、「[Office 365 でのデータの保持、削除、および破棄](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)」を参照してください。
+
+### <a name="data-encryption"></a>データ暗号化
+
+- データ暗号化の詳細については、「Project Onlineのデータ暗号化OneDrive for Businessオンライン Microsoft 365 - SharePoint コンプライアンス | [Microsoft Docs](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
+- web のデータ Project暗号化の詳細については[、「Microsoft Dynamics 365 の暗号化 - Microsoft 365 コンプライアンス |」を参照|Microsoft Docs](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project for the web の境界と制限
 
