@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂げ、外出中でもつながっていることができるようにする強力なサービスです。サインインするだけで、パーソナライズされたエクスペリエンスを体感し、すべての最新 Office アプリケーションにアクセスできます。新機能と拡張機能は継続的に追加されます。
-ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ba9da48b79d6b5350182caa347c8d0ce9d6873df
+ms.sourcegitcommit: f1adb57081ea5234e09de4890e756e17e09a2696
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652381"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53069250"
 ---
 # <a name="office-applications"></a>Office アプリケーション
 
@@ -27,31 +27,31 @@ Microsoft Office は、最高のアイデアを解き放ち、物事を成し遂
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
-Microsoft Word は、Windows オペレーティング システムと Mac オペレーティング システム用の全機能を装備したワード プロセッシング プログラムです。 [Word 2019](https://support.office.com/article/what-s-new-in-word-2019-for-windows-d3d31e5e-2bb8-4433-80bb-08279beef4b3) for Windowsと[Word 2019 for Mac](https://support.office.com/article/what-s-new-in-word-2019-for-mac-247e0cd4-a758-4b42-a157-42eb8853aef5)の新機能を参照してください。
-  
+Microsoft Word は、Windows オペレーティング システムと Mac オペレーティング システム用の全機能を装備したワード プロセッシング プログラムです。 Word with Microsoft 365[を参照してください](https://www.microsoft.com/microsoft-365/word)。
+
 ## <a name="microsoft-excel"></a>Microsoft Excel
 
-Microsoft Excel は、計算、グラフィック ツール、ピボット テーブル、マクロ プログラミング言語がサポートされた、Windows オペレーティング システムと Mac オペレーティング システム用の表計算プログラムです。 「Excel [2019](https://support.office.com/article/what-s-new-in-excel-2019-for-windows-5a201203-1155-4055-82a5-82bf0994631f) for Windows」と「What's new in Excel [for Mac」](https://support.office.com/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d)の新機能を参照してください。
+Microsoft Excel は、計算、グラフィック ツール、ピボット テーブル、マクロ プログラミング言語がサポートされた、Windows オペレーティング システムと Mac オペレーティング システム用の表計算プログラムです。 詳細については、「Excel[のMicrosoft 365」 を参照してください](https://www.microsoft.com/microsoft-365/excel)。
   
 ## <a name="microsoft-powerpoint"></a>Microsoft PowerPoint
 
-Microsoft PowerPoint は、Windows オペレーティング システムと Mac オペレーティング システム用のプレゼンテーション プログラムです。 「PowerPoint [2019](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-windows-8355a56a-f643-42d2-8454-784fa9b3d109) for Windows」と「What's new in PowerPoint [for Mac」](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-mac-5038ba79-48c5-40f0-adff-11489e5d6fed)の新機能を参照してください。
-  
+Microsoft PowerPoint は、Windows オペレーティング システムと Mac オペレーティング システム用のプレゼンテーション プログラムです。 詳細については、「PowerPoint[とMicrosoft 365」 を参照してください](https://www.microsoft.com/microsoft-365/powerpoint)。
+
 ## <a name="microsoft-onenote"></a>Microsoft OneNote
 
-Microsoft OneNoteは、オペレーティング システムと Mac オペレーティング システム用のWindows形式のメモ取りプログラムです。 詳細[については、「OneNote の新機能Windows 10」](https://support.office.com/article/what-s-new-in-onenote-for-windows-10-1477d5de-f4fd-4943-b18a-ff17091161ea)および「新しい情報[」をOneNote for Mac。](https://support.office.com/article/see-what-s-new-in-onenote-for-mac-c82d3f15-252f-452a-89ba-e09fbe418829)
+Microsoft OneNoteは、オペレーティング システムと Mac オペレーティング システム用のWindows形式のメモ取りプログラムです。 詳細については、「OneNote」[を参照してください](https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app)。
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook は、Windows オペレーティング システムと Mac オペレーティング システム用の電子メール プログラムです。 「Outlook [2019 for Windows](https://support.office.com/article/what-s-new-in-outlook-2019-for-windows-0c64df36-0908-4ff6-a7fc-573a62800525)の新機能」と「Outlook [2019 for Mac](https://support.office.com/article/what-s-new-in-outlook-2019-for-mac-05736033-f99e-4cb2-88aa-01e979b0736b)の新機能」を参照してください。
+Microsoft Outlook は、Windows オペレーティング システムと Mac オペレーティング システム用の電子メール プログラムです。 詳細については、「Outlook[のMicrosoft 365」 を参照してください](https://www.microsoft.com/microsoft-365/outlook/outlook-personal-email-plans)。
   
 ## <a name="microsoft-publisher"></a>Microsoft Publisher
 
-Microsoft Publisher は、Windows オペレーティング システム用のデスクトップ パブリッシング プログラムです。 「Microsoft Publisher」[を参照してください](https://products.office.com/publisher)。
+Microsoft Publisher は、Windows オペレーティング システム用のデスクトップ パブリッシング プログラムです。 詳細については、「Publisher [Microsoft 365」 を参照してください](https://www.microsoft.com/microsoft-365/publisher)。
   
 ## <a name="microsoft-access"></a>Microsoft Access
 
-Microsoft Access は、Windows オペレーティング システム用のデータベース管理ソリューションです。 「Access [2019 の新機能」を参照してください](https://support.office.com/article/what-s-new-in-access-2019-f52c5317-3494-4105-9c56-5a2abb8e0f87)。
+Microsoft Access は、Windows オペレーティング システム用のデータベース管理ソリューションです。 詳細については[、「Access with Microsoft 365」 を参照してください](https://www.microsoft.com/microsoft-365/access)。
   
 ## <a name="skype-for-business"></a>Skype for Business
 

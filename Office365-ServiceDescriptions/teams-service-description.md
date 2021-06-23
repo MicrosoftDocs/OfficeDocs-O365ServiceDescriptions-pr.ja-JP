@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: サービスと機能Microsoft Teamsプラン全体のサービスと機能の可用性Microsoft 365詳細Office 365します。
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906773"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077521"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -29,16 +29,17 @@ Microsoft Bookings のユーザーを有効にするサブスクリプション�
 
 | 機能 | 小規模企業 | Enterpriseプラン | GCC | GCC - 高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|チャット  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|Teams  <br/> |はい <br/> |はい <br/> |はい <br/> |はい<sup>1</sup>  <br/> |はい<sup>1</sup>  <br/> |はい  <br/> |
-|チャネル - 標準  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|チャネル - プライベート  <br/> |はい  <br/> |はい<sup>2</sup>  <br/> |はい <br/> |いいえ  <br/> |いいえ <br/> |はい  <br/> |
-|会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|オーディオ/ビデオ PowerPoint画面共有 <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |
-|音声  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
-|電話会議  <br/> |はい  <br/> |はい  <br/> |はい  <br/> |はい<sup>3</sup>  <br/> |はい<sup>3</sup>  <br/> |はい  <br/> |
-|アプリ、ボット、& コネクタ  <br/> |はい  <br/> |はい  <br/> |はい<sup>5</sup>  <br/> |はい<sup>5</sup>  <br/> |は<sup>い 4,5</sup>  <br/> |はい  <br/> |
-|ライブ イベント  <br/> |いいえ  <br/> |はい  <br/> |はい  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |はい  <br/> |
+|チャット |はい |はい |はい |はい |はい |はい |
+|Teams |はい|はい|はい|はい<sup>1</sup> |はい<sup>1</sup> |はい |
+|チャネル - 標準 |はい |はい |はい |はい |はい |はい |
+|チャネル - プライベート |はい |はい<sup>2</sup> |はい|いいえ |いいえ|はい |
+|会議 |はい |はい |はい |はい |はい |はい |
+|ウェビナー |はい |はい |いいえ |いいえ |いいえ |はい |
+|オーディオ/ビデオ PowerPoint画面共有|はい |はい |はい |はい |はい |はい |
+|音声 |はい |はい |はい |はい<sup>3</sup> |はい<sup>3</sup> |はい |
+|電話会議 |はい |はい |はい |はい<sup>3</sup> |はい<sup>3</sup> |はい |
+|アプリ、ボット、& コネクタ |はい |はい |はい<sup>5</sup> |はい<sup>5</sup> |は<sup>い 4,5</sup> |はい |
+|ライブ イベント |いいえ |はい |はい |No<sup>6</sup> |No<sup>6</sup> |はい |
 
 <sup>1 Microsoft Teams</sup>および DOD GCC-Highチームの 2500 人のメンバーをサポートします。<br/>
 <sup>2</sup> Microsoft Planner は現在、プライベート チャネルでアクセスできません。<br/>
