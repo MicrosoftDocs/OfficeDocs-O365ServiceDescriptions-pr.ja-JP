@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 は、クラウドベースの電子メール フィルタリング サービスであり、堅牢なゼロデイ保護を提供して未知のマルウェアやウイルスから組織を保護するのに役立ち、リアルタイムで有害なリンクから組織を保護する機能が含まれています。
-ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798453"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140819"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defende for Office 365 サービス説明書
 
@@ -75,6 +75,25 @@ Microsoft は、Defender for Office 365 に新機能を追加し続けていま�
 
 Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール転送エージェントと一緒に使用できます。 Defender for Office 365 でサポートされているオペレーティング システム、Web ブラウザー、言語については、「[Exchange Online Protection の Exchange 管理センター](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)」の「サポートされているブラウザー」と「サポートされている言語」をご覧ください。
 
+## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>ライセンスを取得する必要があるユーザーまたはメールボックス
+
+Microsoft Defender for Office 365 プラン 1 テナントの場合、次のシナリオの 1 つ以上に当たっているユーザーまたはメールボックスのライセンスを取得する必要があります。
+
+- Defender のメリットを受けるメールボックスにアクセスするユーザーは、Office 365します。
+- セキュリティ保護のための Defender のメリットをOffice 365メールボックス。
+- SharePoint セーフ、OneDrive for Business、Teams の添付ファイル保護が有効になっている場合は、SharePoint、OneDrive for Business、または Teams にアクセスするすべてのユーザー。
+- リンク保護が有効になっているMicrosoft 365 AppsまたはTeamsをセーフユーザー。
+
+Microsoft Defender for Office 365 プラン 2 テナントの場合、次のシナリオの 1 つ以上に当たっているユーザーまたはメールボックスのライセンスを取得する必要があります。
+
+- テナントExchange Onlineのすべてのユーザー。 これは、プラン 2 の機能がテナント内のすべてのユーザーを保護する理由です。
+- テナント上のすべての共有メールボックス。
+- SharePoint セーフ、OneDrive for Business、Teams の添付ファイル保護が有効になっている場合は、SharePoint、OneDrive for Business、または Teams にアクセスするすべてのユーザー。
+- リンク保護が有効になっているMicrosoft 365 AppsまたはTeamsをセーフユーザー。
+
+> [!NOTE]
+> Office 365 E5、Microsoft 365 E5 Security、Microsoft 365 E5には、Office P2 ライセンス用の Microsoft Defender が含まれます。Microsoft 365 Business Premiumには、P1 ライセンス用の Microsoft Defender Office 365が含まれます。
+
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>Defender for Office 365 の各プランで利用できる機能
 
 各機能を以下に列挙します。Exchange Online という記述は、主に、Office 365 Enterprise サービス ファミリを指しています。<br><br>
@@ -94,7 +113,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 |[脅威トラッカー](#threat-trackers)|いいえ|はい|はい|
 |脅威の調査 (高度な脅威調査)|[リアルタイムの検出](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[自動化したインシデント応答](#automated-incident-response)|いいえ|はい|はい|
-|[攻撃シミュレーションのトレーニング](#attack-simulation-training)|いいえ|はい|はい|
+|[攻撃シミュレーション トレーニング](#attack-simulation-training)|いいえ|はい|はい|
 |*[Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection) との統合*|いいえ|はい|はい|
 
 > [!NOTE]
@@ -113,7 +132,7 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 [安全なリンク](/microsoft-365/security/office-365-security/atp-safe-links)機能は、メッセージまたは Office ドキュメント内の悪質な URL から予防的にユーザーを保護します。 リンクを選択した後も保護は毎回継続し、悪意のあるリンクは動的にブロックされ、適切なリンクにはアクセスできます。
 
- 安全なリンクは、次のアプリのURLで使用できます。
+セーフリンクは、次のアプリのURLで使用できます。
 
 - Windows または Mac 上のエンタープライズ向け Microsoft 365 アプリ
 
@@ -185,12 +204,12 @@ Defender for Office 365 は、Microsoft Exchange Server などの SMTP メール
 
 [自動調査および対応](/microsoft-365/security/office-365-security/office-365-air) (ARI) 機能を使用すると、既存のよく知られている脅威に対処するために、自動調査プロセスを実行できます。 自動化された特定の調査タスクを使用すると、セキュリティ運用チームはより効率化され、より効果的に使うことができるようになります。 悪意のあるメール、メッセージなどの修復アクションは、セキュリティ運用チームの承認を得て実行されます。 詳細については、「[Office 365 での AIR のしくみ](/microsoft-365/security/office-365-security/automated-investigation-response-office)」を参照してください。
 
-### <a name="attack-simulation-training"></a>攻撃シミュレーションのトレーニング
+### <a name="attack-simulation-training"></a>攻撃シミュレーション トレーニング
 
 [攻撃シミュレーション トレーニングは](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) 、フィッシング シミュレーションの作成と管理を自動化するインテリジェントなソーシャル リスク管理ツールです。 シミュレーションは、実際のフィッシングルアーとハイパーターゲットトレーニングを使用して従業員の行動を変更することで、フィッシングリスクを検出、優先順位付け、修復するのに役立ちます。
 
 - 攻撃シミュレーション のトレーニングは、WW および GCCで利用できます (6 月 21 日GCC予定)。
 - 開始方法の詳細については、「攻撃シミュレーション トレーニングの使用 [を開始する」を参照してください](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
 - 実際の攻撃者の動作を再現してフィッシング シミュレーションを関連性のあるものにする、武器化された実際のフィッシング ペイロードを適用するさまざまな攻撃手法が利用できます。
-- このサービスは、プラン[2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)のライセンスMicrosoft 365 E5 E5、Office 365 Microsoft Defender のいずれかを持つ組織Office 365利用できます。 機能のサブセットは、試用版として E3 のお客様に提供されます。
+- このサービスは、プラン[2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)ライセンスのMicrosoft 365 E5、Office 365 E5、Microsoft Defender のいずれかを持つOffice 365利用できます。 機能のサブセットは、試用版として E3 のお客様に提供されます。
 - 詳しくは、「フィッシング攻撃のシミュレーション」 [をご覧ください](/microsoft-365/security/office-365-security/attack-simulation-training)。

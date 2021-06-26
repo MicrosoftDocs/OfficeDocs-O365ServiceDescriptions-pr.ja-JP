@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 Project Online を通じて提供される Project Online は、ほぼすべてのデバイスのほぼすべての場所から、プロジェクトやプロジェクト ポートフォリオへの投資を計画、優先順位付け、管理するための強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022000"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140829"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -315,7 +315,7 @@ Project for the web には、次の表で説明するいくつかの制限があ
 |最大 リーフ タスクの期間 | 1250 日間 |
 |最大 サマリー タスクの期間 | 3650 日 (10 年) |
 |最大 タスクに割り当てることができるリソース | 20 リソース |
-|タスクのサポートされている日付範囲 | 1984/1/1 &ndash; 2149/12/31 |
+|タスクのサポートされている日付範囲 | 1/1/2000 &ndash; 12/31/2149 |
 |**プロジェクト** ||
 |最大 プロジェクトの合計タスク | 500 |
 |最大 プロジェクトの合計期間 | 3650 日 (10 年) |
