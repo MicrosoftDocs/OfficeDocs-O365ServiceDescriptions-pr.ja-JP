@@ -65,6 +65,7 @@
 ### [クライアント機能](exchange-online-archiving-service-description/client-features.md)
 ### [コンプライアンス機能とセキュリティ機能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Microsoft Defende for Office 365 サービス説明書](office-365-advanced-threat-protection-service-description.md)
+### [Microsoft Defende for Office 365 機能サービス説明書](microsoft-defender-for-office-365-features.md)
 ## [Azure Active Directory サービスの説明](azure-active-directory.md)
 ## [Microsoft Teams サービスのサービスの説明](teams-service-description.md)
 ### [Microsoft 365 Business Voice サービスの説明](microsoft-365-business-voice-service-description.md)
