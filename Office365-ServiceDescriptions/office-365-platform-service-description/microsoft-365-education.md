@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: " Microsoft 365 と Office 365 Education プランの間の相違について説明します。"
-ms.openlocfilehash: 0fb0f1ccd686329010612b18107c6f5e5d2cb77c
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021980"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290847"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -32,8 +32,8 @@ Microsoft 365 は、Office 365、Windows 10、Enterprise Mobility + Security を
 |Office 365 プラットフォーム|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Web 用 Office|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft 365 Apps for Enterprise|いいえ|はい|はい|はい|はい|はい|はい|はい|はい|
-|Exchange Online|はい<sup>1</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|はい<sup>1</sup>|
-|SharePoint Online|はい<sup>3</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|はい<sup>3</sup>|
+|Exchange Online|はい<sup>1</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|はい<sup>2</sup>|
+|SharePoint Online|はい<sup>3</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|はい<sup>4</sup>|
 |OneDrive for Business|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Microsoft Teams|はい|はい|はい|はい|はい|はい|はい|はい|はい|
 |Skype for Business Online|はい|はい|はい|はい|はい|はい|はい|はい|はい|

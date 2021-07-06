@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: このトピックに記載されている機能は、多数のデバイスと複数のサービス間で安全に共同作業と通信を行うのに役立つ web ベースのツールのOffice 365です。 これらの機能を使用して、情報を検索および共有するためのソーシャル ツールと、デジタル コンテンツの作成、保管、管理を統合することで、組織内に新しい接続を作成できます。
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074478"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275606"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 スイート機能
 
@@ -90,10 +90,6 @@ Microsoft 365 Apps for enterpriseは、サブスクリプションとして利�
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
 Microsoft Kaizala は、シンプルで安全なモバイル作業管理アプリで、大規模で柔軟なグループタイプを使用して、契約ワーカー、ベンダー、パートナー、サプライヤー、顧客、市民など、組織のディレクトリの内部と外部の両方のユーザーを接続して関与する機能を備えた、Microsoft 365 に独自[](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)の機能を提供します。 Kaizalaのオープン ディレクトリ モデルを使用すると、電話番号ベースの ID を使用して簡単にオンボーディングを行い、メッセージングと作業管理のための簡単なユーザー エクスペリエンスを提供できます。 Kaizala モバイル アプリを使用すると、ユーザーは写真、ドキュメント、ビデオ、オーディオ ファイルなどのインスタント メッセージや添付ファイルを送信できるだけでなく、アンケート、ポーリング、ジョブの割り当て、アナウンス、トレーニングなどのアクション カードを使用できます。 [Kaizala](https://products.office.com/en/business/microsoft-kaizala)と Android でiPhone動作します。 詳細については、web サイトのKaizala[してください](https://products.office.com/en/business/microsoft-kaizala)。
-
-## <a name="office-365-video"></a>Office 365 ビデオ
-
-Office 365ビデオは、デバイス全体でビデオをアップロード、共有、および検出できる、安全で会社全体の宛先です。これは、Microsoft Azure Media Services。 Office 365ビデオを使用すると、視聴者のエンゲージメントと情報の保持、アイデアの広いコミュニケーション、組織の連携が可能です。 詳細については、「ビデオの紹介[」をOffice 365してください](https://go.microsoft.com/fwlink/?linkid=2144056)。
 
 ## <a name="onenote-class-notebook"></a>OneNote Class Notebook
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online は、プロジェクト ポートフォリオ管理 (PPM) や毎日の業務で使用できる柔軟なオンライン ソリューションです。 Office 365 Project Online を通じて提供される Project Online は、ほぼすべてのデバイスのほぼすべての場所から、プロジェクトやプロジェクト ポートフォリオへの投資を計画、優先順位付け、管理するための強力なプロジェクト管理機能を提供します。 管理者、ポートフォリオ管理者、ポートフォリオ ビューアー、プロジェクト管理者、リソース管理者、チーム リーダー、およびチーム メンバーが Project Online を使用できます。
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140829"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290857"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project サービスの説明
 
@@ -108,6 +108,10 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 |Microsoft Teams の統合 | Microsoft Teams のプロジェクトで共同作業を行います。<sup>1</sup> | はい | はい | はい | はい |
 |**リソースとプログラムの管理** ||||||
 |プロジェクト チームのセットアップ | メンバーの追加と削除、および作業予定表の設定により、プロジェクト チームを管理します。 | いいえ | はい | はい | はい |
+|リソース要求の作成<sup>12</sup> |  | 表示のみ | 表示のみ | はい | はい |
+|予約提案を受け入れる<sup>12</sup> |  | 表示のみ | 表示のみ | はい | はい |
+|リソース要求を満たすために予約を作成および更新<sup>する 12</sup> |  | 表示のみ | 表示のみ | 表示のみ | はい |
+|リソースのスキル/熟練を管理する |  | 表示のみ | 表示のみ | はい | はい |
 |ロードマップ | プロジェクト全体の視覚的で対話型のロードマップをMicrosoft Project Online、Microsoft Project、およびプロジェクトAzure Boardsします。<sup>2</sup>このProject Plan 1ロードマップへの読み取り専用アクセス権を取得します。 ユーザー Project Plan 3またはProject Plan 5、ロードマップを作成できます。 | 表示のみ | 表示のみ | はい | はい |
 |**レポート**<sup>3</sup> ||||||
 |Web データのProject *レポートを読み取* る | プロジェクト、プログラム、ポートフォリオ、およびリソース データを理解するために、アウトオブザボックスまたはカスタム レポート、ダッシュボードを表示します。 | はい | はい | はい | はい |
@@ -195,12 +199,12 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
 
 #### <a name="notes"></a>Notes
 
-<sup>1</sup> Office または Microsoft 365 の商用サブスクリプションが必要です。</br>
-<sup>2</sup> Azure Boards は別途取得されます。</br>
-<sup>3</sup> Web および web Projectのレポートは、Project OnlineライセンスPower BI必要Power BIします。</br>
-<sup>4</sup> web または Project Online 顧客データに対して Project にアクセスする、Project アプリケーション以外の個別の Power Apps を構築して使用するには、別の Power Apps サブスクリプションが必要です。</br>
-<sup>5 5</sup> つのカスタム テーブルに制限されています。</br>
-<sup>6</sup> Project Online の外部ユーザー用のライセンスは、内部ユーザー用と同じポリシーに準じます。 Project Online サイトでのやり取りには、Project Plan 3 または Project Plan 5 のサブスクリプションが必要です。</br>
+<sup>1</sup> Office または Microsoft 365 の商用サブスクリプションが必要です。<br/>
+<sup>2</sup> Azure Boards は別途取得されます。<br/>
+<sup>3</sup> Web および web Projectのレポートは、Project OnlineライセンスPower BI必要Power BIします。<br/>
+<sup>4</sup> web または Project Online 顧客データに対して Project にアクセスする、Project アプリケーション以外の個別の Power Apps を構築して使用するには、別の Power Apps サブスクリプションが必要です。<br/>
+<sup>5 5</sup> つのカスタム テーブルに制限されています。<br/>
+<sup>6</sup> Project Online の外部ユーザー用のライセンスは、内部ユーザー用と同じポリシーに準じます。 Project Online サイトでのやり取りには、Project Plan 3 または Project Plan 5 のサブスクリプションが必要です。<br/>
 <sup>7</sup> Power Automate内Projectは、アプリケーションのコンテキストにProjectされます。 つまり、トリガーとアクションの両方に対して、トリガーに含まれるフロー Projectできます。
 
 - Connectアプリケーションの使用権限内の任意のデータ ソースにProjectします。
@@ -208,11 +212,12 @@ Microsoft Project は、組織のニーズに最適な 3 つの異なるサブ�
   - Project Microsoft Dataverse コネクタを介してデータを収集する
 - (組み込みのトリガー/アクションProject) アプリケーション内から直接トリガーされる
 
-フローが分離され、Projectアプリケーションとは関係ない場合は、プラットフォーム ライセンスを購入する必要があります。</br>
-<sup>8</sup>サブスクリプションのProject Plan 3またはProject Plan 5ユーザーは、リソースエンゲージメント要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。</br>
-<sup>9</sup>サブスクリプションを使用しているユーザー Project Plan 5、リソースエンゲージメント要求を確認、履行、および承認できます。</br>
-<sup>10</sup> Active Directory には、個別のサブスクリプションが必要です。 </br>
-<sup>11</sup> View only entitlements は Power App 内からのみ付与されます。 </br>
+フローが分離され、Projectアプリケーションとは関係ない場合は、プラットフォーム ライセンスを購入する必要があります。<br/>
+<sup>8</sup>サブスクリプションのProject Plan 3またはProject Plan 5ユーザーは、リソースエンゲージメント要求を送信できます。 リソース管理の要求を確認、実行、または承認することはできません。<br/>
+<sup>9</sup>サブスクリプションを使用しているユーザー Project Plan 5、リソースエンゲージメント要求を確認、履行、および承認できます。<br/>
+<sup>10</sup> Active Directory には、個別のサブスクリプションが必要です。 <br/>
+<sup>11</sup> View only entitlements は Power App 内からのみ付与されます。 <br/>
+<sup>12</sup> Microsoft Project プラン 3/5 ライセンスをお持ちのお客様は、ユニバーサル リソース スケジュールを使用してプロジェクトのコンテキスト内で Project テーブルとタスク テーブルをスケジュールする必要があります。 <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online デスクトップ クライアントの機能
 
