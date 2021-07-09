@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 およびスタンドアロン プランの SharePoint の制限について説明します。
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
-ms.translationtype: HT
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767477"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338340"
 ---
 # <a name="sharepoint-limits"></a>SharePoint の制限
 
@@ -50,7 +50,11 @@ Microsoft 365 の SharePoint のサービス制限について説明します。
 
 ### <a name="file-size-and-file-path-length"></a>ファイル サイズとファイル パスの長さ
 
-250 GB。 新しい OneDrive 同期アプリ (OneDrive.exe) を使用する際の制限事項の詳細については、「[無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
+- **250 GB - ファイルアップロードの制限。** [ファイル] タブ、Microsoft Teams ライブラリ、SharePoint、OneDrive会話にアップロードYammerします。
+
+- **250 MB - リスト アイテムに添付されたファイル。** 同じリスト プラットフォームに基SharePoint Microsoft リストとグループ リストに適用されます。
+
+新しい OneDrive 同期アプリ (OneDrive.exe) を使用する際の制限事項の詳細については、「[無効なファイル名とファイルの種類](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)」を参照してください。
 
 ### <a name="moving-and-copying-across-sites"></a>サイト間の移動とコピー
 
