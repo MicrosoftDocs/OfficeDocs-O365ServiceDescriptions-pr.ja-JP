@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: サービスと機能Microsoft Teamsプラン全体のサービスと機能の可用性Microsoft 365詳細Office 365します。
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077521"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409684"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams サービスのサービスの説明
 
@@ -21,13 +21,13 @@ Microsoft Teamsは、チームワークのハブMicrosoft 365。 この Teamsサ
 
 ## <a name="available-plans"></a>使用できるプラン
 
-Microsoft Bookings のユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Microsoft Stream のユーザーを有効にするサブスクリプションの詳細なプラン情報については、完全なサブスクリプション比較表 [を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="feature-availability"></a>機能の可用性
 
-次の表に、複数のプランでMicrosoft Teams主な機能を示します。 特定の注意点が適用されます。 詳細については、脚注を参照してください。 この表は、予告なしに変更される場合があります。 コア サービス変更メッセージングMicrosoft 365 Microsoft ライセンス条項リファレンス ドキュメントについては、「メッセージ センター通知」[を参照してください](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
+次の表に、複数のプランでMicrosoft Teams主な機能を示します。 特定の警告が適用されます。 詳細については、脚注を参照してください。 将来予告なしに変更されることがあります。 コア サービス変更メッセージングMicrosoft 365 Microsoft ライセンス条項リファレンス ドキュメントについては、「メッセージ センター通知」[を参照してください](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
 
-| 機能 | 小規模企業 | Enterpriseプラン | GCC | GCC - 高 | DOD | 教育 |
+| 特徴 | 小規模企業 | Enterpriseプラン | GCC | GCC - 高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |チャット |はい |はい |はい |はい |はい |はい |
 |Teams |はい|はい|はい|はい<sup>1</sup> |はい<sup>1</sup> |はい |
@@ -52,7 +52,7 @@ Microsoft Bookings のユーザーを有効にするサブスクリプション�
 
 Skype for Businessオンラインは、2019 年 7 月 30[](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)日に発表された 2021 年 7 月 31 日に廃止されます。 Microsoft Teamsは、Azure や Microsoft の他のサービスイノベーションを活用して、クラウド用に構築された完全に新しいサービスです。 Microsoft Teamsは、Microsoft 365 グループ、Microsoft Graph、および他のグループと同じエンタープライズ レベルのセキュリティ、コンプライアンス、および管理性に基Office 365。 Teams (Azure Azure Active Directory) に格納されている id を活用AD。 これらのサービスは Microsoft のデータ センターから配信され、企業ネットワーク内またはインターネットを通して、さまざまなデバイス上のユーザーがアクセスできます。 詳細については、「IT アーキテクチャと[テレフォニー Microsoft Teamsポスター」を参照してください](/microsoftteams/teams-architecture-solutions-posters)。
 
-Microsoft は、お客様のデータのセキュリティとサービスのアクセシビリティに引き [続きコミット](https://www.microsoft.com/trust-center/compliance/accessibility) しています。 詳細については[、「Microsoft Trust Center」](https://www.microsoft.com/trust-center)および「アクセシビリティ センター Office[参照してください](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft は、お客様のデータのセキュリティと当社のサービスへの[アクセシビリティ](https://www.microsoft.com/trust-center/compliance/accessibility)に引き続き取り組んでいます。 詳細については、[Microsoft トラスト センター](https://www.microsoft.com/trust-center)および [Office Accessibility Center](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d) を参照してください。
 
 ユーザーがサブスクリプションを有効にするサブスクリプションの詳細な計画Microsoft Teams、完全なサブスクリプション比較表[を参照してください](https://go.microsoft.com/fwlink/?linkid=2139145)。 政府機関の計画Office 365詳細については、「計画」[をOffice 365 Governmentしてください](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365G1 ~ G5 には、他の機能Teams含まれます。
 
@@ -74,12 +74,12 @@ Microsoft Teamsスタンドアロン サービスとして使用できません�
 
 ### <a name="licensing-terms"></a>ライセンス条項
 
-Microsoft 商用ボリューム ライセンス プログラムを通じて購入した製品およびサービスのライセンス条件については、「製品条項」 [サイトを参照してください](https://www.microsoft.com/licensing/terms/)。
+Microsoft コマーシャル ボリューム ライセンス プログラムを通じて購入した製品とサービスのライセンス条件については、[Product Terms site (製品使用条件サイト)](https://www.microsoft.com/licensing/terms/) を参照してください。
 
 ### <a name="messaging"></a>メッセージング
 
-新機能や変更された機能、計画メンテナンス、その他の重要なアナウンスなど、今後の変更を追跡するには、メッセージ センターにアクセスしてください。 詳細については、「メッセージ センター」 [を参照してください](/microsoft-365/admin/manage/message-center)。
+新機能や変更された機能、計画済みメンテナンス、その他の重要なお知らせなどの今後の変更を管理するには、メッセージ センターに移動します。詳細情報については、[メッセージ センター](/microsoft-365/admin/manage/message-center)を参照してください。
 
 ### <a name="accessibility"></a>アクセシビリティ
 
-Microsoft は、お客様のデータのセキュリティとサービスのアクセシビリティに引き [続きコミット](https://www.microsoft.com/trust-center/compliance/accessibility) しています。 詳細については[、「Microsoft Trust Center」](https://www.microsoft.com/trust-center)および「アクセシビリティ センター Office[参照してください](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft は、お客様のデータのセキュリティと当社のサービスへの[アクセシビリティ](https://www.microsoft.com/trust-center/compliance/accessibility)に引き続き取り組んでいます。 詳細については、[Microsoft トラスト センター](https://www.microsoft.com/trust-center)および [Office Accessibility Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d) を参照してください。
